@@ -1,0 +1,4 @@
+#!/bin/sh
+export LD_LIBRARY_PATH=/usr/lib/firefox
+export LD_PRELOAD=2.so
+/usr/lib/firefox/plugin-container_old $@
