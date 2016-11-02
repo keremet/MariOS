@@ -49,7 +49,7 @@ endif
 USERLAND_ARCHIVES ?=	$(WS_TOP)/archives/
 WS_MACH =       $(WS_TOP)/$(MACH)
 WS_LOGS =       $(WS_MACH)/logs
-WS_REPO =       $(WS_MACH)/repo
+WS_REPO =      /mnt/hipster_repo161031 
 WS_TOOLS =      $(WS_TOP)/tools
 WS_MAKE_RULES = $(WS_TOP)/make-rules
 WS_COMPONENTS = $(WS_TOP)/components
