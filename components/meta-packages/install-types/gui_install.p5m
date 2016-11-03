@@ -25,8 +25,8 @@ set name=org.opensolaris.consolidation value=$(CONSOLIDATION)
 <include gnome2>
 depend type=require fmri=communication/conferencing/ekiga
 depend type=require fmri=communication/im/pidgin/pidgin-otr
-depend type=require fmri=desktop/office/openoffice
 depend type=require fmri=network/openvpn
+#depend type=require fmri=web/browser/firefox/locale/ru_ru
 depend type=require fmri=network/tor
 depend type=require fmri=image/editor/gimp
 depend type=require fmri=desktop/file-manager/gnome-commander
