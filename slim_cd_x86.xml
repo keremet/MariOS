@@ -213,15 +213,12 @@
 		     If you want to use one or more  mirrors that are
 		     setup for the authority, specify the urls here.
 		-->
-		<!--
-		     Uncomment before using.
 		<pkg_repo_addl_authority>
 			<main
-				url=""
-				authname=""/>
+				url="file:///mnt/hipster_sfe"
+				authname="localhostoih"/>
 			<mirror url="" />
 		</pkg_repo_addl_authority>
-		-->
 		<!--
 		     The default preferred authority to be used by the system
 		     after it has been installed.
@@ -274,6 +271,11 @@
 			<pkg name="pkg:/system/install/gui-install"/>
 			<pkg name="pkg:/system/install/text-install"/>
 			<pkg name="pkg:/system/install/media/internal"/>
+			<pkg name="pkg://localhostoih/desktop/application/libreoffice4"/>
+			<pkg name="pkg://localhostoih/desktop/application/libreoffice4-desktop-int"/>
+			<pkg name="pkg://localhostoih/system/library/g++/boost"/>
+			<pkg name="pkg://localhostoih/library/g++/icu"/>
+			<pkg name="pkg://localhostoih/sfe/system/library/gcc-runtime"/>	
 		</packages>
 <!--
      Items below this line are rarely configured
