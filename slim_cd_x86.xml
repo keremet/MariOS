@@ -24,7 +24,7 @@
     live CD iso and usb image
 -->
 
-<distribution name="MariOS161103">
+<distribution name="MariOS161105">
 	<distro_constr_params>
 		<!--
 		     Where to build. This can be a zfs dataset or a mountpoint.
@@ -215,10 +215,16 @@
 		-->
 		<pkg_repo_addl_authority>
 			<main
-				url="file:///mnt/hipster_sfe"
-				authname="localhostoih"/>
+				url="file:///mnt/hipster_encumbered_repo"
+				authname="hipster-encumbered"/>
 			<mirror url="" />
 		</pkg_repo_addl_authority>
+		<pkg_repo_addl_authority>
+                        <main
+                                url="file:///mnt/hipster_sfe"
+				authname="localhostoih"/>
+			<mirror url="" />
+                </pkg_repo_addl_authority>	
 		<!--
 		     The default preferred authority to be used by the system
 		     after it has been installed.
@@ -267,7 +273,7 @@
 			    <pkg name="pkg:/entire@0.5.11-0.build#/>
 			-->
 			<pkg name="pkg:/entire"/>
-			<pkg name="pkg:/metapackages/gui-install@0.1,5.11-2016.0.1.5:20161103T080038Z"/>
+			<pkg name="pkg:/metapackages/gui-install"/>
 			<pkg name="pkg:/system/install/gui-install"/>
 			<pkg name="pkg:/system/install/text-install"/>
 			<pkg name="pkg:/system/install/media/internal"/>
@@ -276,6 +282,10 @@
 			<pkg name="pkg://localhostoih/system/library/g++/boost"/>
 			<pkg name="pkg://localhostoih/library/g++/icu"/>
 			<pkg name="pkg://localhostoih/sfe/system/library/gcc-runtime"/>	
+			<pkg name="pkg://hipster-encumbered/library/audio/gstreamer/plugin/bad"/>
+			<pkg name="pkg://hipster-encumbered/library/audio/gstreamer/plugin/ffmpeg"/>
+			<pkg name="pkg://hipster-encumbered/library/audio/gstreamer/plugin/ugly"/>
+			<pkg name="pkg://hipster-encumbered/media/vlc"/>	
 		</packages>
 <!--
      Items below this line are rarely configured

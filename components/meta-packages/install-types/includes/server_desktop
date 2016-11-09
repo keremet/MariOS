@@ -44,8 +44,6 @@ depend type=require fmri=system/kernel/dynamic-reconfiguration/i86pc
 depend type=require fmri=system/management/ipmitool
 depend type=require fmri=system/management/service-tag
 depend type=require fmri=system/management/snmp/net-snmp/documentation
-depend type=require fmri=system/manual/locale/ca
-depend type=require fmri=system/manual/locale/ja
 depend type=require fmri=system/network/ppp
 depend type=require fmri=system/network/ppp/pppdump
 depend type=require fmri=system/network/ppp/tunnel
