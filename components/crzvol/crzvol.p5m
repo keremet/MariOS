@@ -1,0 +1,24 @@
+#
+# This file and its contents are supplied under the terms of the
+# Common Development and Distribution License ("CDDL"). You may
+# only use this file in accordance with the terms of the CDDL.
+#
+# A full copy of the text of the CDDL should have accompanied this
+# source. A copy of the CDDL is also available via the Internet at
+# http://www.illumos.org/license/CDDL.
+#
+
+#
+# Copyright 2016 Andrey Sokolov. All rights reserved.
+#
+
+set name=pkg.fmri value=pkg:/crzvol@2,$(BUILD_VERSION)
+set name=pkg.summary value="Create and use pool on encrypted zvol"
+set name=org.opensolaris.consolidation value=$(CONSOLIDATION)
+set name=info.classification value="org.opensolaris.category.2008:System/File System"
+
+license crzvol.license license='GPLv2'
+
+file files/crzc path=usr/bin/crzc owner=root group=bin mode=0555
+file files/crz path=usr/bin/crz owner=root group=bin mode=0555
+file files/crzu path=usr/bin/crzu owner=root group=bin mode=0555 
