@@ -21,6 +21,8 @@ COMPONENT_ARCHIVE=	$(COMPONENT_SRC).tar.gz
 COMPONENT_ARCHIVE_HASH=	sha256:3c12ddbb86e2b901af449bd5a3ac7bbc55a28664159d0c4fb70f89d761d8bf9e
 COMPONENT_PROJECT_URL=	http://www.asterisk.org
 COMPONENT_ARCHIVE_URL=	http://downloads.asterisk.org/pub/telephony/asterisk/$(COMPONENT_ARCHIVE)
+COMPONENT_LICENSE=	GPLv2
+COMPONENT_LICENSE_FILE=	$(COMPONENT_NAME).license
 
 include $(WS_TOP)/make-rules/prep.mk
 include $(WS_TOP)/make-rules/configure.mk
