@@ -1,0 +1,82 @@
+diff -Nru ekiga-4.0.1.orig/lib/engine/components/opal/opal-main.cpp ekiga-4.0.1/lib/engine/components/opal/opal-main.cpp
+--- ekiga-4.0.1.orig/lib/engine/components/opal/opal-main.cpp	2013-02-19 00:36:51.000000000 +0300
++++ ekiga-4.0.1/lib/engine/components/opal/opal-main.cpp	2016-12-14 21:02:03.000000000 +0300
+@@ -91,8 +91,8 @@
+   {}
+ 
+   bool try_initialize_more (Ekiga::ServiceCore& core,
+-			    int* /*argc*/,
+-			    char** /*argv*/[])
++			    int* argc,
++			    char** argv[])
+   {
+     boost::shared_ptr<Ekiga::ContactCore> contact_core = core.get<Ekiga::ContactCore> ("contact-core");
+     boost::shared_ptr<Ekiga::PresenceCore> presence_core = core.get<Ekiga::PresenceCore> ("presence-core");
+@@ -121,7 +121,17 @@
+       core.add (call_manager);
+ 
+       unsigned sip_port = gm_conf_get_int (SIP_KEY "listen_port");
+-      boost::shared_ptr<Sip::EndPoint> sip_manager (new Sip::EndPoint (*call_manager, core, sip_port), null_deleter ());
++      std::string local_ip("*");
++      for (int arg = 1; arg < *argc; arg++) {
++        std::string argument = (*argv)[arg];
++        if (argument.find ("--local-ip=") == 0) {
++          std::string::size_type ip_pos = argument.find_first_of ('=') + 1;
++          if (ip_pos != std::string::npos) {
++            local_ip = argument.substr (ip_pos);
++          }
++        }
++      }
++      boost::shared_ptr<Sip::EndPoint> sip_manager (new Sip::EndPoint (*call_manager, core, sip_port, local_ip), null_deleter ());
+       core.add (sip_manager);
+ 
+ #ifdef HAVE_H323
+diff -Nru ekiga-4.0.1.orig/lib/engine/components/opal/sip-endpoint.h ekiga-4.0.1/lib/engine/components/opal/sip-endpoint.h
+--- ekiga-4.0.1.orig/lib/engine/components/opal/sip-endpoint.h	2013-02-19 00:37:04.000000000 +0300
++++ ekiga-4.0.1/lib/engine/components/opal/sip-endpoint.h	2016-12-14 21:02:03.000000000 +0300
+@@ -72,7 +72,8 @@
+ 
+       EndPoint (CallManager& ep,
+ 		Ekiga::ServiceCore& core,
+-		unsigned listen_port);
++		unsigned listen_port,
++		std::string _local_ip);
+ 
+       ~EndPoint ();
+ 
+@@ -209,6 +210,7 @@
+       std::string uri_prefix;
+       std::string forward_uri;
+       std::string outbound_proxy;
++      std::string local_ip;
+ 
+       unsigned listen_port;
+ 
+diff -Nru ekiga-4.0.1.orig/lib/engine/components/opal/sip-endpoint.cpp ekiga-4.0.1/lib/engine/components/opal/sip-endpoint.cpp 
+--- ekiga-4.0.1.orig/lib/engine/components/opal/sip-endpoint.cpp	2013-02-19 00:37:04.000000000 +0300
++++ ekiga-4.0.1/lib/engine/components/opal/sip-endpoint.cpp	2016-12-14 21:02:03.000000000 +0300
+@@ -126,10 +126,13 @@
+ /* The class */
+ Opal::Sip::EndPoint::EndPoint (Opal::CallManager & _manager,
+                                Ekiga::ServiceCore & _core,
+-                               unsigned _listen_port)
++                               unsigned _listen_port,
++                               std::string _local_ip
++			      )
+     :   SIPEndPoint (_manager),
+ 	manager (_manager),
+-	core (_core)
++	core (_core),
++	local_ip(_local_ip)
+ {
+   boost::shared_ptr<Ekiga::ChatCore> chat_core = core.get<Ekiga::ChatCore> ("chat-core");
+ 
+@@ -383,7 +386,7 @@
+     std::stringstream str;
+     RemoveListener (NULL);
+ 
+-    str << "udp$*:" << port;
++    str << "udp$" << local_ip << ":" << port;
+     if (!StartListeners (PStringArray (str.str ()))) {
+ 
+       port = udp_min;
