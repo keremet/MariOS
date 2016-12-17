@@ -21,4 +21,5 @@ license crzvol.license license='GPLv2'
 
 file files/crzc path=usr/bin/crzc owner=root group=bin mode=0555
 file files/crz path=usr/bin/crz owner=root group=bin mode=0555
+file files/crzg path=usr/bin/crzg owner=root group=bin mode=0555
 file files/crzu path=usr/bin/crzu owner=root group=bin mode=0555 

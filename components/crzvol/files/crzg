@@ -1,0 +1,3 @@
+#!/bin/sh
+/usr/bin/crz
+gnome-commander --start-left-dir=/data

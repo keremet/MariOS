@@ -1,11 +1,11 @@
 #!/bin/sh
-sudo zpool export data 
+sudo /usr/sbin/zpool export data 
 if [ "$?" != "0" ]
 then echo "Нажмите Enter для продолжения"
  read
 fi
 
-sudo lofiadm -d /dev/lofi/100
+sudo /usr/sbin/lofiadm -d /dev/lofi/100
 if [ "$?" != "0" ]
 then echo "Нажмите Enter для продолжения"
  read
