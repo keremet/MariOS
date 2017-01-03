@@ -7,7 +7,7 @@ then
 fi
 sudo /usr/sbin/zfs create -V $1 rpool/d && \
 sudo /usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/rpool/d /dev/lofi/100 && \
-sudo /usr/sbin/zpool create data /dev/lofi/100 && \
+sudo /usr/sbin/zpool create -o cachefile=none data /dev/lofi/100 && \
 sudo /usr/gnu/bin/chmod -R a+w /data && \
 sudo /usr/sbin/zfs create data/home
 

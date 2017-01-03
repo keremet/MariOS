@@ -6,7 +6,7 @@ then echo "Ошибка lofiadm. Нажмите Enter для продолжен�
  exit 1
 fi
 
-sudo /usr/sbin/zpool import -d /dev/lofi data
+sudo /usr/sbin/zpool import -o cachefile=none -d /dev/lofi data
 if [ "$?" != "0" ]
 then echo "Ошибка zpool. Нажмите Enter для продолжения"
  read
