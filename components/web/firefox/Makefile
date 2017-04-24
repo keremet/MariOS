@@ -11,24 +11,25 @@
 
 #
 # Copyright 2015 OpenSXCE.org Martin Bochnig <opensxce@mail.ru>
-# Copyright 2013-2016 Alexander Pyhalov
+# Copyright 2013-2017 Alexander Pyhalov
 #
 
 include ../../../make-rules/shared-macros.mk
 
 COMPONENT_NAME= 	firefox
-COMPONENT_VERSION= 	45.4.0esr
+COMPONENT_VERSION= 	45.8.0esr
+COMPONENT_REVISION=	0
 IPS_COMPONENT_VERSION= 	45.4.0
 COMPONENT_SUMMARY= 	Mozilla Firefox Web browser
 COMPONENT_SRC= 		$(COMPONENT_NAME)-$(COMPONENT_VERSION)
 COMPONENT_ARCHIVE= 	$(COMPONENT_NAME)-$(COMPONENT_VERSION).source.tar.xz
 COMPONENT_ARCHIVE_HASH= \
-  sha256:cfd90096b9e1019b9de4fe061ece8c65f668b8a24bcbb657ce6b3c940ef83ad0
+  sha256:7e28decd81f78070b433c69ebd7498f2e46e7cc5c5c6bff9a8cd7380d09da17a
 COMPONENT_ARCHIVE_URL= \
   https://ftp.mozilla.org/pub/firefox/releases/$(COMPONENT_VERSION)/source/$(COMPONENT_ARCHIVE)
 COMPONENT_PROJECT_URL = http://www.mozilla.com/en-US/firefox/
 
-LANG_LIST=	ar be bg ca cs da de el es-AR es-CL es-ES et fi fr he hi-IN hr hu id is it ja kk ko lt lv mk nb-NO nl nn-NO pl pt-BR pt-PT ro ru sk sl sq sr sv-SE th tr uk vi zh-CN zh-TW
+LANG_LIST=	ru 
 LANG_FILES_LOCATION=	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/$(COMPONENT_VERSION)/linux-i686/xpi/
 
 include $(WS_TOP)/make-rules/prep.mk
@@ -57,15 +58,20 @@ CONFIGURE_OPTIONS +=	--enable-ipc
 CONFIGURE_OPTIONS +=	--enable-default-toolkit=cairo-gtk2
 CONFIGURE_OPTIONS +=	--prefix=/usr
 CONFIGURE_OPTIONS +=	--libdir=/usr/lib
+CONFIGURE_OPTIONS +=	--enable-optimize=-O2
+
 
 ENV +=	CC=$(CC)
 ENV +=	GLD_WRAPPER=$(BUILD_DIR)/gld-wrapper
 ENV +=	CXX=$(CXX)
+ENV +=	CFLAGS="-march=pentium4 -O2"
+ENV +=	CXXFLAGS="-march=pentium4 -O2"
 ENV +=	MOZILLA_OFFICIAL=1
 ENV +=	MOZ_PKG_FORMAT=XZ
 ENV +=	PKG_SKIP_STRIP=1
 ENV +=	MOZILLA_PKG_NAME=firefox
 ENV +=	SHELL="/bin/bash"
+ENV +=  LDFLAGS="-L$(BUILD_DIR_32)/dist/lib -L$(BUILD_DIR_32)/dist/bin"
 
 CONFIGURE_ENV =	$(ENV)
 COMPONENT_BUILD_ENV =	$(ENV)
