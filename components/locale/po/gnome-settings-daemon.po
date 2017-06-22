@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"settings-daemon&component=general\n"
+"POT-Creation-Date: 2010-09-23 11:45+0000\n"
+"PO-Revision-Date: 2010-09-27 00:29+0400\n"
+"Last-Translator: Alexander Saprykin <xelfium@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] "%u вход"
+msgstr[1] "%u входа"
+msgstr[2] "%u входов"
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] "%u выход"
+msgstr[1] "%u выхода"
+msgstr[2] "%u выходов"
+
+msgid "A_vailable files:"
+msgstr "_Доступные файлы:"
+
+msgid "Accessibility"
+msgstr "Вспомогательные технологии"
+
+msgid "Accessibility Keyboard"
+msgstr "Вспомогательные технологии клавиатуры"
+
+msgid "Accessibility keyboard plugin"
+msgstr "Модуль вспомогательных технологий клавиатуры"
+
+msgid "Activate"
+msgstr "Включить"
+
+msgid "Allowed keys"
+msgstr "Разрешённые клавиши"
+
+msgid "Antialiasing"
+msgstr "Сглаживание"
+
+msgid "Background"
+msgstr "Фон рабочего стола"
+
+msgid "Background plugin"
+msgstr "Модуль фона рабочего стола"
+
+msgid "Binding to eject an optical disc."
+msgstr "Комбинация клавиш для извлечения оптического диска."
+
+msgid "Binding to enable or disable the touchpad."
+msgstr "Комбинация клавиш для включения или выключения сенсорной панели."
+
+msgid "Binding to launch the calculator."
+msgstr "Комбинация клавиш для запуска калькулятора."
+
+msgid "Binding to launch the email client."
+msgstr "Комбинация клавиш для запуска почтового клиента."
+
+msgid "Binding to launch the help browser."
+msgstr "Комбинация клавиш для запуска справочной системы."
+
+msgid "Binding to launch the media player."
+msgstr "Комбинация клавиш для запуска мультимедийного проигрывателя."
+
+msgid "Binding to launch the search tool."
+msgstr "Комбинация клавиш для запуска утилиты поиска."
+
+msgid "Binding to launch the web browser."
+msgstr "Комбинация клавиш для запуска веб-браузера."
+
+msgid "Binding to lock the screen."
+msgstr "Комбинация клавиш для блокирования экрана."
+
+msgid "Binding to log out."
+msgstr "Комбинация клавиш для выхода из системы."
+
+msgid "Binding to lower the system volume."
+msgstr "Комбинация клавиш для уменьшения системной громкости."
+
+msgid "Binding to mute the system volume."
+msgstr "Комбинация клавиш для приглушения системной громкости."
+
+msgid "Binding to open the Home folder."
+msgstr "Комбинация клавиш для открытия домашней папки."
+
+msgid "Binding to pause playback."
+msgstr "Комбинация клавиш для приостановки воспроизведения."
+
+msgid "Binding to raise the system volume."
+msgstr "Комбинация клавиш для увеличения системной громкости."
+
+msgid "Binding to skip to next track."
+msgstr "Комбинация клавиш для перехода к следующей дорожке."
+
+msgid "Binding to skip to previous track."
+msgstr "Комбинация клавиш для перехода к предыдущей дорожке."
+
+msgid "Binding to start playback (or toggle play/pause)."
+msgstr ""
+"Комбинация клавиш для запуска воспроизведения (или переключения "
+"воспроизведение/пауза)."
+
+msgid "Binding to stop playback."
+msgstr "Комбинация клавиш для остановки воспроизведения."
+
+msgid "Binding to toggle the magnifier."
+msgstr "Комбинация клавиш для включения экранного увеличителя."
+
+msgid "Binding to toggle the on-screen keyboard."
+msgstr "Комбинация клавиш для включения экранной клавиатуры."
+
+msgid "Binding to toggle the screen reader."
+msgstr "Комбинация клавиш для включения чтения с экрана."
+
+msgid "Bounce keys"
+msgstr "Скачущие клавиши"
+
+msgid "Cannot determine user's home directory"
+msgstr "Не удалось определить домашний каталог пользователя"
+
+msgid "Change system time"
+msgstr "Изменить системное время"
+
+msgid "Change system time zone"
+msgstr "Изменить системную временную зону"
+
+msgid "Clipboard"
+msgstr "Буфер обмена"
+
+msgid "Clipboard plugin"
+msgstr "Модуль буфера обмена"
+
+msgid "Command used to turn the magnifier on or off."
+msgstr "Команда для выключения и включения экранного увеличителя."
+
+msgid "Command used to turn the on-screen keyboard on or off."
+msgstr "Команда для выключения и включения экранной клавиатуры."
+
+msgid "Command used to turn the screen reader on or off."
+msgstr "Команда для выключения и включения экранного чтения."
+
+msgid "Configure display settings"
+msgstr "Настроить параметры "
+
+msgid "Configure hardware clock"
+msgstr "Настроить аппаратные часы"
+
+msgid "Could not apply the stored configuration for monitors"
+msgstr "Не удалось применить сохранённую конфигурацию мониторов"
+
+msgid "Could not enable mouse accessibility features"
+msgstr "Не удаётся включить специальные возможности мыши"
+
+msgid ""
+"Could not get default terminal. Verify that your default terminal command is "
+"set and points to a valid application."
+msgstr ""
+"Не удалось установить команду запуска терминала по умолчанию. Проверьте, что "
+"терминал по умолчанию выбран и является исправным приложением."
+
+msgid "Could not refresh the screen information: %s"
+msgstr "Не удалось обновить информацию об экране: %s"
+
+msgid "Could not restore the display's configuration"
+msgstr "Не удалось восстановить конфигурацию мониторов"
+
+msgid "Could not restore the display's configuration from a backup"
+msgstr "Не удалось воcстановить конфигурацию мониторов из резервной копии"
+
+msgid "Could not save monitor configuration"
+msgstr "Не удалось сохранить конфигурацию мониторов"
+
+msgid "Could not switch the monitor configuration"
+msgstr "Не удалось изменить конфигурацию мониторов"
+
+msgid ""
+"Couldn't execute command: %s\n"
+"Verify that this is a valid command."
+msgstr ""
+"Не удалось выполнить команду: %s\n"
+"Убедитесь, что это правильная команда."
+
+msgid "DPI"
+msgstr "DPI"
+
+msgid "Deactivate"
+msgstr "Выключить"
+
+msgid "Disable touchpad while typing"
+msgstr "Отключать сенсорную панель при наборе"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Do you want to activate Slow Keys?"
+msgstr "Активировать функцию «Медленные клавиши»?"
+
+msgid "Do you want to activate Sticky Keys?"
+msgstr "Активировать функцию «Залипающие клавиши»?"
+
+msgid "Do you want to deactivate Slow Keys?"
+msgstr "Отключить функцию «Медленные клавиши»?"
+
+msgid "Do you want to deactivate Sticky Keys?"
+msgstr "Отключить функцию «Залипающие клавиши»?"
+
+msgid "Do_n't activate"
+msgstr "Не _запускать"
+
+msgid "Do_n't deactivate"
+msgstr "_Не выключать"
+
+msgid "Does the display look OK?"
+msgstr "Вас устраивает текущая конфигурация?"
+
+msgid "Don't activate"
+msgstr "Не запускать"
+
+msgid "Don't become a daemon"
+msgstr "Не становиться демоном"
+
+msgid "Don't deactivate"
+msgstr "Не выключать"
+
+msgid "Don't show any warnings again"
+msgstr "Не показывать больше это сообщение"
+
+msgid "Don't show any warnings again for this file system"
+msgstr "Больше не показывать предупреждения для этой файловой системы"
+
+msgid "Dummy"
+msgstr "Заглушка"
+
+msgid "Dummy plugin"
+msgstr "Модуль-заглушка"
+
+msgid "Eject"
+msgstr "Извлечь"
+
+msgid "Empty Trash"
+msgstr "Очистить корзину"
+
+msgid "Empty all of the items from the trash?"
+msgstr "Удалить все файлы из корзины?"
+
+msgid "Emptying the trash"
+msgstr "Очистка корзины"
+
+msgid "Enable XRandR plugin"
+msgstr "Включить модуль XRandR"
+
+msgid "Enable accessibility keyboard plugin"
+msgstr "Включить модуль специальных возможностей клавиатуры"
+
+msgid "Enable background plugin"
+msgstr "Включить модуль фона рабочего стола"
+
+msgid "Enable clipboard plugin"
+msgstr "Включить модуль буфера обмена"
+
+msgid "Enable debugging code"
+msgstr "Включить отладочный код"
+
+msgid "Enable font plugin"
+msgstr "Включить модуль шрифта"
+
+msgid "Enable horizontal scrolling"
+msgstr "Использовать горизонтальную прокрутку"
+
+msgid "Enable housekeeping plugin"
+msgstr "Включить модуль housekeeping"
+
+msgid "Enable keybindings plugin"
+msgstr "Включить модуль комбинаций клавиш клавиатуры"
+
+msgid "Enable keyboard plugin"
+msgstr "Включить модуль клавиатуры"
+
+msgid "Enable media keys plugin"
+msgstr "Включить модуль мультимедийных клавиш"
+
+msgid "Enable mouse clicks with touchpad"
+msgstr "Использовать щелчки мышью через сенсорную панель"
+
+msgid "Enable mouse plugin"
+msgstr "Включить модуль мыши"
+
+msgid "Enable smartcard plugin"
+msgstr "Включить модуль поддержки смарт-карт"
+
+msgid "Enable sound plugin"
+msgstr "Включить модуль звука"
+
+msgid "Enable touchpad"
+msgstr "Включить сенсорную панель"
+
+msgid "Enable typing breaks plugin"
+msgstr "Включить модуль перерыва в работе"
+
+msgid "Enable xrdb plugin"
+msgstr "Включить модуль xrdb"
+
+msgid "Enable xsettings plugin"
+msgstr "Включить модуль xsettings"
+
+msgid "Enhance _contrast in colors"
+msgstr "Делать цвета более _контрастными"
+
+msgid ""
+"Error activating XKB configuration.\n"
+"It can happen under various circumstances:\n"
+" • a bug in libxklavier library\n"
+" • a bug in X server (xkbcomp, xmodmap utilities)\n"
+" • X server with incompatible libxkbfile implementation\n"
+"\n"
+"X server version data:\n"
+"%s\n"
+"%d\n"
+"%s\n"
+"If you report this situation as a bug, please include:\n"
+" • The result of <b>%s</b>\n"
+" • The result of <b>%s</b>"
+msgstr ""
+"Ошибка при активации конфигурации XKB.\n"
+"Это может произойти по различным причинам:\n"
+" • ошибка в библиотеке libxklavier\n"
+" • ошибка в X-сервере (утилиты xkbcomp, xmodmap)\n"
+" • X-сервер с несовместимой реализацией libxkbfile\n"
+"\n"
+"Данные о версии X-сервера:\n"
+"%s\n"
+"%d\n"
+"%s\n"
+"При заполнении отчёта об ошибке, включите в него:\n"
+" • Результат <b>%s</b>\n"
+" • Результат <b>%s</b>"
+
+msgid ""
+"Error while trying to run (%s)\n"
+"which is linked to the key (%s)"
+msgstr ""
+"Произошла ошибка при попытке запустить команду (%s),\n"
+"которая привязана к комбинации (%s)"
+
+msgid "Examine…"
+msgstr "Запустить анализатор использования дисков…"
+
+msgid "Exit after a time (for debugging)"
+msgstr "Выйти через время (для отладки)"
+
+msgid "File for default configuration for RandR"
+msgstr "Файл конфигурации RandR по умолчанию"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font plugin"
+msgstr "Модуль шрифта"
+
+msgid "Free percentage notify threshold"
+msgstr "Процент свободного места для предупреждения"
+
+msgid "Free space no notify threshold"
+msgstr "Объем свободного места для предупреждения"
+
+msgid "From: "
+msgstr "Из: "
+
+msgid "GConf key %s set to type %s but its expected type was %s\n"
+msgstr "Ключ «%s» системы GConf установлен в тип %s, а ожидаемый тип был %s\n"
+
+msgid "GConf prefix from which to load plugin settings"
+msgstr "Префикс GConf для загрузки параметров модуля"
+
+msgid "GNOME Settings Daemon"
+msgstr "Демон параметров GNOME"
+
+msgid "Hinting"
+msgstr "Хинтинг"
+
+msgid "Home folder"
+msgstr "Домашняя папка"
+
+msgid ""
+"If non-empty, keybindings will be ignored unless their GConf directory is in "
+"the list. This is useful for lockdown."
+msgstr ""
+"Если список не пуст, то привязки комбинаций клавиш будут игнорироваться если "
+"их каталог GConf не будет присутствовать в этом списке. Это полезно для их "
+"блокировки."
+
+msgid ""
+"If you choose to empty the trash, all items in it will be permanently lost. "
+"Please note that you can also delete them separately."
+msgstr ""
+"Если вы выберете освободить корзину, все файлы в ней будут безвозвратно "
+"удалены. Обратите внимание на то, что можно удалять их по отдельности."
+
+msgid "Ignore"
+msgstr "Игнорировать"
+
+msgid "Key binding (%s) is incomplete"
+msgstr "Комбинация клавиш (%s) не полна"
+
+msgid "Key binding (%s) is invalid"
+msgstr "Комбинация клавиш (%s) недопустима"
+
+msgid "Keybindings"
+msgstr "Комбинации клавиш клавиатуры"
+
+msgid "Keybindings plugin"
+msgstr "Модуль комбинаций клавиш клавиатуры"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Keyboard _Preferences"
+msgstr "_Параметры клавиатуры"
+
+msgid "Keyboard plugin"
+msgstr "Модуль клавиатуры"
+
+msgid "Launch calculator"
+msgstr "Запустить калькулятор"
+
+msgid "Launch email client"
+msgstr "Запустить клиент электронной почты"
+
+msgid "Launch help browser"
+msgstr "Запустить просмотр справки"
+
+msgid "Launch media player"
+msgstr "Запустить мультимедийный проигрыватель"
+
+msgid "Launch web browser"
+msgstr "Запустить веб-браузер"
+
+msgid "Left"
+msgstr "Влево"
+
+msgid "Load modmap files"
+msgstr "Загрузка файлов modmap"
+
+msgid "Lock screen"
+msgstr "Заблокировать экран"
+
+msgid "Log out"
+msgstr "Завершить сеанс"
+
+msgid "Low Disk Space"
+msgstr "Недостаточно места на диске"
+
+msgid "Make _text larger and easier to read"
+msgstr "Увеличивать размер _текста, чтобы облегчить чтение"
+
+msgid "Manage X Settings"
+msgstr "Управление параметрами системы X Window"
+
+msgid "Manage the X resource database"
+msgstr "Управление базой данных ресурсов X"
+
+msgid "Media keys"
+msgstr "Мультимедийные клавиши"
+
+msgid "Media keys plugin"
+msgstr "Модуль мультимедийных клавиш"
+
+msgid "Minimum notify period for repeated warnings"
+msgstr "Период между повторением оповещений"
+
+msgid "Module"
+msgstr "Модуль"
+
+msgid "Module Path"
+msgstr "Путь к модулю"
+
+msgid "Mount paths to ignore"
+msgstr "Игнорируемые точки монтирования"
+
+msgid "Mouse"
+msgstr "Мышь"
+
+msgid "Mouse Preferences"
+msgstr "Параметры мыши"
+
+msgid ""
+"Mouse accessibility requires Mousetweaks to be installed on your system."
+msgstr ""
+"Чтобы активировать специальные возможности мыши, необходимо установить "
+"службу Mousetweaks."
+
+msgid "Mouse keys"
+msgstr "Клавиши мыши"
+
+msgid "Mouse plugin"
+msgstr "Модуль мыши"
+
+msgid "NSS security system could not be initialized"
+msgstr "Не удалось инициализировать систему безопасности NSS"
+
+msgid "Next track"
+msgstr "Следующая дорожка"
+
+msgid "Normal"
+msgstr "Обычная"
+
+msgid "On-screen keyboard"
+msgstr "Экранная клавиатура"
+
+msgid "Pause playback"
+msgstr "Приостановить воспроизведение"
+
+msgid ""
+"Percentage free space threshold for initial warning of low disk space. If "
+"the percentage free space drops below this, a warning will be shown."
+msgstr ""
+"Порог (в процентах) для отображения первого оповещения о нехватке свободного "
+"места. Если процент свободного места на диске опускается ниже этого "
+"значения, то будет показано предупреждение."
+
+msgid "Play (or play/pause)"
+msgstr "Воспроизведение (или воспроизведение/пауза)"
+
+msgid "Preparing to empty trash…"
+msgstr "Подготовка к очистке корзины…"
+
+msgid "Press and _hold keys to accept them (Slow Keys)"
+msgstr "Нажимать и _удерживать клавиши (медленные клавиши)"
+
+msgid "Previous track"
+msgstr "Предыдущая дорожка"
+
+msgid "Privileges are required to change the system time zone."
+msgstr "Необходимы полномочия для изменения системной временной зоны."
+
+msgid "Privileges are required to change the system time."
+msgstr "Необходимы полномочия для изменения системного времени."
+
+msgid "Privileges are required to configure the hardware clock."
+msgstr "Необходимы полномочия для настройки аппаратных часов."
+
+msgid "RGBA order"
+msgstr "Порядок RGBA"
+
+msgid "Removing item %lu of %lu"
+msgstr "Удаляется файл %lu из %lu"
+
+msgid "Removing: %s"
+msgstr "Удаляется: %s"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Rotation not supported"
+msgstr "Поворот экрана не поддерживается"
+
+msgid "Screen magnifier"
+msgstr "Увеличитель экрана"
+
+msgid "Screen reader"
+msgstr "Чтение с экрана"
+
+msgid "Search"
+msgstr "Найти"
+
+msgid "Select the touchpad scroll method"
+msgstr "Выберите способ прокрутки"
+
+msgid ""
+"Select the touchpad scroll method. Supported values are: 0: disabled, 1: "
+"edge scrolling, and 2: two-finger scrolling"
+msgstr ""
+"Выберите способ прокрутки. Допустимые значения: 0: отключена, 1: прокрутка "
+"по краю, 2: прокрутка двумя пальцами"
+
+msgid ""
+"Set this to TRUE if you have problems with accidentally hitting the touchpad "
+"while typing."
+msgstr ""
+"Установите в TRUE если у вас проблемы со срабатыванием touchpad'а при наборе "
+"текста."
+
+msgid ""
+"Set this to TRUE to allow horizontal scrolling by the same method selected "
+"with the scroll_method key."
+msgstr ""
+"Установите в TRUE чтобы включить горизонтальную прокрутку по методу "
+"установленному ключем scroll_method"
+
+msgid ""
+"Set this to TRUE to be able to send mouse clicks by tapping on the touchpad."
+msgstr ""
+"Установите в TRUE чтобы посылать щелчки мышки короткими прикосновениями к "
+"сенсорной панели."
+
+msgid "Set this to TRUE to enable all touchpads."
+msgstr "Установите в TRUE, чтобы разрешить все сенсорные панели."
+
+msgid ""
+"Set this to one of \"none\", \"lock_screen\", or \"force_logout\". The "
+"action will get performed when the smartcard used for log in is removed."
+msgstr ""
+"Установите в «none», «lock_screen» или «force_logout». Действие будет "
+"выполнено при извлечении смарт-карты, использовавшейся для входа в систему."
+
+msgid ""
+"Set to True to enable the housekeeping plugin, to prune transient file "
+"caches."
+msgstr ""
+"Установите в True, чтобы включить модуль периодического сброса файловых "
+"кэшей."
+
+msgid "Set to True to enable the plugin to manage XRandR settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами XRandR."
+
+msgid "Set to True to enable the plugin to manage clipboard settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами буфера "
+"обмена."
+
+msgid "Set to True to enable the plugin to manage desktop background settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами фона "
+"рабочего стола."
+
+msgid "Set to True to enable the plugin to manage font settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами шрифта."
+
+msgid "Set to True to enable the plugin to manage keyboard settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами клавиатуры."
+
+msgid ""
+"Set to True to enable the plugin to manage locking the screen on smartcard "
+"removal."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять блокировкой экрана при "
+"извлечении смарт-карты."
+
+msgid "Set to True to enable the plugin to manage mouse settings."
+msgstr "Установите в True, чтобы разрешить модулю управлять параметрами мыши."
+
+msgid "Set to True to enable the plugin to manage multimedia keys settings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами "
+"мультимедийных клавиш."
+
+msgid "Set to True to enable the plugin to manage sound sample caches."
+msgstr ""
+"Установите в True, чтобы включить модуль управления кэшированием звуков."
+
+msgid ""
+"Set to True to enable the plugin to manage the accessibility keyboard "
+"settings."
+msgstr ""
+"Установите в True, чтобы включить модуль управления специальными "
+"возможностями клавиатуры."
+
+msgid "Set to True to enable the plugin to manage the keybindings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять комбинациями клавиш "
+"клавиатуры."
+
+msgid "Set to True to enable the plugin to manage typing breaks."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять перерывами в работе."
+
+msgid "Set to True to enable the plugin to manage xrdb settings."
+msgstr "Установите в True, чтобы разрешить модулю управлять параметрами xrdb."
+
+msgid "Set to True to enable the plugin to manage xsettings."
+msgstr ""
+"Установите в True, чтобы разрешить модулю управлять параметрами xsettings."
+
+msgid "Set up screen size and rotation settings"
+msgstr "Установить размер экрана и параметры поворота"
+
+msgid "Show Displays in Notification Area"
+msgstr "Показывать мониторы в области уведомлений"
+
+msgid "Show _Current Layout"
+msgstr "Показать _текущую раскладку"
+
+msgid "Slot ID"
+msgstr "Идентификатор слота"
+
+msgid "Slot Series"
+msgstr "Серия слота"
+
+msgid "Slow Keys Alert"
+msgstr "Предупреждение функции «Медленные клавиши»"
+
+msgid "Slow keys"
+msgstr "Медленные клавиши"
+
+msgid "Smartcard removal action"
+msgstr "Действие при извлечении смарт-карты"
+
+msgid "Specify a list of mount paths to ignore when they run low on space."
+msgstr ""
+"Список точек монтирования, которые не будут отслеживаться на нехватку "
+"свободного места."
+
+msgid ""
+"Specify a time in minutes. Subsequent warnings for a volume will not appear "
+"more often than this period."
+msgstr ""
+"Укажите время в минутах. Последующие предупреждения об объёме свободного "
+"места для раздела не будут отображаться чаще чем один раз в этот период."
+
+msgid ""
+"Specify an amount in GB. If the amount of free space is more than this, no "
+"warning will be shown."
+msgstr ""
+"Укажите объём в ГБ. Если объём свободного места больше, то предупреждение не "
+"будет показано."
+
+msgid ""
+"Specify the percentage that the free disk space should reduce by before "
+"issuing a subsequent warning."
+msgstr ""
+"Укажите процент свободного места, при достижении ниже которого нужно "
+"отобразить повторное предупреждение"
+
+msgid "Sticky Keys Alert"
+msgstr "Предупреждение функции «Залипающие клавиши»"
+
+msgid "Sticky keys"
+msgstr "Залипающие клавиши"
+
+msgid "Stop playback"
+msgstr "Остановить воспроизведение"
+
+msgid "Subsequent free percentage notify threshold"
+msgstr "Процент свободного места для повторного оповещения"
+
+msgid "System Sounds"
+msgstr "Звуки системы"
+
+msgid ""
+"The XRandR plugin will look for a default configuration in the file "
+"specified by this key. This is similar to the ~/.config/monitors.xml that "
+"normally gets stored in users' home directories. If a user does not have "
+"such a file, or has one that does not match the user's setup of monitors, "
+"then the file specified by this key will be used instead."
+msgstr ""
+"Модуль XRandR будет искать конфигурацию по умолчанию в указанном в этом "
+"ключе файле. Он похож на файл ~/.config/monitors.xml, который обычно "
+"находится в домашних каталогах пользователей. Если у пользователя нет такого "
+"файла, или имеющийся файл не соответствует конфигурации мониторов, то тогда "
+"будет использоваться указанный в данном ключе файл."
+
+msgid "The display will be reset to its previous configuration in %d second"
+msgid_plural ""
+"The display will be reset to its previous configuration in %d seconds"
+msgstr[0] "Конфигурация мониторов будет восстановлена через %d секунду"
+msgstr[1] "Конфигурация мониторов будет восстановлена через %d секунды"
+msgstr[2] "Конфигурация мониторов будет восстановлена через %d секунд"
+
+msgid "The name of the keyboard shortcut to toggle the magnifier"
+msgstr "Комбинация клавиш для включения экранного увеличителя"
+
+msgid "The name of the keyboard shortcut to toggle the on-screen keyboard"
+msgstr "Комбинация клавиш для включения экранной клавиатуры"
+
+msgid "The name of the keyboard shortcut to toggle the screen reader"
+msgstr "Комбинация клавиш для включения системы чтения с экрана"
+
+msgid ""
+"The order of subpixel elements on an LCD screen; only used when antialiasing "
+"is set to \"rgba\". Possible values are: \"rgb\" for red on left (most "
+"common), \"bgr\" for blue on left, \"vrgb\" for red on top, \"vbgr\" for red "
+"on bottom."
+msgstr ""
+"Порядок субпиксельных элементов на ЖК экране; только если установлен тип "
+"сглаживания «rgba». Возможные значения: «rgb» (красный слева, наиболее "
+"часто), «bgr» (синий слева), «vrgb» (красный сверху), «vbgr» (красный снизу)."
+
+msgid ""
+"The resolution used for converting font sizes to pixel sizes, in dots per "
+"inch."
+msgstr ""
+"Разрешение, используемое для преобразования размеров шрифтов в количество "
+"пикселов, в точках на дюйм."
+
+msgid "The selected configuration for displays could not be applied"
+msgstr "Не удалось применить выбранную конфигурацию мониторов"
+
+msgid "The slot the card is in"
+msgstr "Слот, в котором находится карта"
+
+msgid ""
+"The type of antialiasing to use when rendering fonts. Possible values are: "
+"\"none\" for no antialiasing, \"grayscale\" for standard grayscale "
+"antialiasing, and \"rgba\" for subpixel antialiasing (LCD screens only)."
+msgstr ""
+"Тип сглаживания, используемый при растеризации шрифтов. Возможные значения: "
+"«none» - без сглаживания, «grayscale» - стандартное черно-белое сглаживание, "
+"«rgba» - субпиксельное сглаживание (только для ЖК-мониторов)."
+
+msgid ""
+"The type of hinting to use when rendering fonts. Possible values are: \"none"
+"\" for no hinting, \"slight\" for basic, \"medium\" for moderate, and \"full"
+"\" for maximum hinting (may cause distortion of letter forms)."
+msgstr ""
+"Тип хинтинга, используемый при растеризации шрифтов. Возможные значения: "
+"«none» — без хинтинга, «slight» — базовый, «medium» - умеренный, «full» — "
+"максимальный хинтинг (может вызвать искажение формы символов)."
+
+msgid "The volume \"%s\" has only %s disk space remaining."
+msgstr "На разделе \"%s\" осталось всего %s свободного места."
+
+msgid "There was an error displaying help: %s"
+msgstr "Произошла ошибка при отображении справки: %s"
+
+msgid "This computer has only %s disk space remaining."
+msgstr "На компьютере осталось всего %s свободного места."
+
+msgid ""
+"This is the name of the keyboard shortcut to toggle the magnifier. This name "
+"will be shown in the keyboard shortcut preferences dialog."
+msgstr ""
+"Комбинация клавиш для включения увеличителя экрана.Она может быть изменена в "
+"диалоге настройки комбинаций клавиш."
+
+msgid ""
+"This is the name of the keyboard shortcut to toggle the on-screen keyboard. "
+"This name will be shown in the keyboard shortcut preferences dialog."
+msgstr ""
+"Комбинация клавиш для включения экранной клавиатуры. Эта настройка может "
+"быть изменена в диалоге настройки комбинаций клавиш."
+
+msgid ""
+"This is the name of the keyboard shortcut to toggle the screen reader. This "
+"name will be shown in the keyboard shortcut preferences dialog."
+msgstr ""
+"Комбинация клавиш для включения системы чтения с экрана. Эта настройка может "
+"быть изменена в диалоге настройки комбинаций клавиш."
+
+msgid "Toggle magnifier"
+msgstr "Включить экранный увеличитель"
+
+msgid "Toggle on-screen keyboard"
+msgstr "Включить экранную клавиатуру"
+
+msgid "Toggle screen reader"
+msgstr "Включить чтение с экрана"
+
+msgid "Toggle touchpad"
+msgstr "Переключить сенсорную панель"
+
+msgid "Trying to switch the monitor configuration anyway."
+msgstr "Конфигурация мониторов применяется принудительно."
+
+msgid "Turn on external monitor after system boot"
+msgstr "Включать внешний монитор после загрузки системы"
+
+msgid ""
+"Turn on external monitor after system boot if user plugs in external monitor "
+"on system boot."
+msgstr ""
+"Включать внешний монитор после загрузки системы, если пользователь подключил "
+"его во время загрузки."
+
+msgid "Turn on laptop monitor after system boot"
+msgstr "Включать монитор ноутбука после загрузки системы"
+
+msgid ""
+"Turn on laptop monitor after system boot if user plugs in external monitor "
+"on system boot."
+msgstr ""
+"Включать монитор ноутбука после загрузки системы, если пользователь "
+"подключил внешний монитор во время загрузки."
+
+msgid "Typing Break"
+msgstr "Перерыв в работе"
+
+msgid "Typing break plugin"
+msgstr "Модуль перерыва в работе"
+
+msgid "Universal Access Preferences"
+msgstr "Параметры вспомогательных технологий"
+
+msgid "Upside Down"
+msgstr "Перевернуть"
+
+msgid "Use on-screen _keyboard"
+msgstr "Использовать экранную к_лавиатуру"
+
+msgid "Use screen _magnifier"
+msgstr "Использовать экранный у_величитель"
+
+msgid "Use screen _reader"
+msgstr "Использовать _чтение с экрана"
+
+msgid "Volume down"
+msgstr "Уменьшить громкость"
+
+msgid "Volume mute"
+msgstr "Отключить звук"
+
+msgid "Volume step"
+msgstr "Шаг изменения громкости"
+
+msgid "Volume step as percentage of volume."
+msgstr "Шаг изменения громкости в процентах."
+
+msgid "Volume up"
+msgstr "Увеличить громкость"
+
+msgid ""
+"Whether a notification icon with display-related things should be shown in "
+"the panel."
+msgstr "Показывать ли значок управления монитором в области уведомлений."
+
+msgid "Whether the bounce keys keyboard accessibility feature is turned on."
+msgstr ""
+"Включена ли поддержка скачущих клавиш системы вспомогательных технологий."
+
+msgid "Whether the mouse keys keyboard accessibility feature is turned on."
+msgstr ""
+"Включена ли поддержка работы с мышью системы вспомогательных технологий."
+
+msgid "Whether the on-screen keyboard is turned on."
+msgstr "Включена ли экранная клавиатура."
+
+msgid "Whether the screen magnifier is turned on."
+msgstr "Включён ли увеличитель экрана."
+
+msgid "Whether the screen reader is turned on."
+msgstr "Включена ли система чтения с экрана."
+
+msgid "Whether the slow keys keyboard accessibility feature is turned on."
+msgstr ""
+"Включена ли поддержка медленных клавиш системы вспомогательных технологий."
+
+msgid "Whether the sticky keys keyboard accessibility feature is turned on."
+msgstr ""
+"Включена ли поддержка залипающих клавиш системы вспомогательных технологий."
+
+msgid "Would you like to load the modmap files?"
+msgstr "Загрузить файл(ы) modmap?"
+
+msgid "X Resource Database"
+msgstr "База данных ресурсов X"
+
+msgid "X Settings"
+msgstr "Параметры системы X Window"
+
+msgid "XRandR"
+msgstr "XRandR"
+
+msgid ""
+"You are using XFree 4.3.0.\n"
+"There are known problems with complex XKB configurations.\n"
+"Try using a simpler configuration or using a later version of the XFree "
+"software."
+msgstr ""
+"Используется XFree 4.3.0.\n"
+"Существуют известные проблемы со сложными конфигурациями XKB.\n"
+"Попробуйте использовать более простую конфигурацию или установить более "
+"свежую версию XFree."
+
+msgid ""
+"You can free up disk space by emptying the Trash, removing unused programs "
+"or files, or moving files to an external disk."
+msgstr ""
+"Можно освободить дисковое пространство очистив корзину, удалив "
+"неиспользуемые приложения или файлы, или переместив файлы на внешний диск."
+
+msgid ""
+"You can free up disk space by emptying the Trash, removing unused programs "
+"or files, or moving files to another disk or partition."
+msgstr ""
+"Можно освободить дисковое пространство очистив корзину, удалив "
+"неиспользуемые приложения или файлы, или переместив файлы на другой диск или "
+"раздел."
+
+msgid ""
+"You can free up disk space by removing unused programs or files, or by "
+"moving files to an external disk."
+msgstr ""
+"Можно освободить дисковое пространство удалив неиспользуемые приложения или "
+"файлы, или переместив файлы на внешний диск."
+
+msgid ""
+"You can free up disk space by removing unused programs or files, or by "
+"moving files to another disk or partition."
+msgstr ""
+"Можно освободить дисковое пространство удалив неиспользуемые приложения или "
+"файлы, или переместив файлы на другой диск или раздел."
+
+msgid ""
+"You just held down the Shift key for 8 seconds.  This is the shortcut for "
+"the Slow Keys feature, which affects the way your keyboard works."
+msgstr ""
+"Вы только что удержали клавишу Shift нажатой 8 секунд.  Это комбинация для "
+"функции «Медленные клавиши», которая влияет на способ работы вашей "
+"клавиатуры."
+
+msgid ""
+"You just pressed the Shift key 5 times in a row.  This is the shortcut for "
+"the Sticky Keys feature, which affects the way your keyboard works."
+msgstr ""
+"Вы только что нажали клавишу «Shift» 5 раз подряд.  Это комбинация для "
+"включения функции «Залипающие клавиши», которая влияет на способ работы "
+"клавиатуры."
+
+msgid ""
+"You just pressed two keys at once, or pressed the Shift key 5 times in a "
+"row.  This turns off the Sticky Keys feature, which affects the way your "
+"keyboard works."
+msgstr ""
+"Вы только что нажали две клавиши одновременно, или нажали клавишу Shift 5 "
+"раз подряд.  Это включает функцию «Залипающие клавиши«», которая влияет на "
+"способ работы вашей клавиатуры."
+
+msgid "_Activate"
+msgstr "_Включить"
+
+msgid "_Configure Display Settings…"
+msgstr "_Настроить параметры дисплея…"
+
+msgid "_Deactivate"
+msgstr "В_ыключить"
+
+msgid "_Do not show this message again"
+msgstr "_Не показывать больше это сообщение"
+
+msgid "_Empty Trash"
+msgstr "_Очистить корзину"
+
+msgid "_Ignore duplicate keypresses (Bounce Keys)"
+msgstr "_Пропускать повторные нажатия (скачущие клавиши)"
+
+msgid "_Keep This Configuration"
+msgstr "_Применить текущую конфигурацию"
+
+msgid "_Layouts"
+msgstr "_Раскладки"
+
+msgid "_Load"
+msgstr "_Загрузить"
+
+msgid "_Loaded files:"
+msgstr "_Загруженные файлы:"
+
+msgid "_Press keyboard shortcuts one key at a time (Sticky Keys)"
+msgstr ""
+"_Нажимать клавиатурные комбинации по одной клавиши (залипающие клавиши)"
+
+msgid "_Restore Previous Configuration"
+msgstr "_Восстановить предыдущую конфигурацию"
+
+msgid "could not watch for incoming card events - %s"
+msgstr "не удалось получить входящие события от карты — %s"
+
+msgid "encountered unexpected error while waiting for smartcard events"
+msgstr "произошла непредвиденная ошибка при ожидании событий от смарт-карты"
+
+msgid "name"
+msgstr "имя"
+
+msgid "no suitable smartcard driver could be found"
+msgstr "подходящий драйвер для смарт-карты не найден"
+
+msgid "path to smartcard PKCS #11 driver"
+msgstr "путь к драйверу PKCS #11 смарт-карты"
+
+msgid "per-slot card identifier"
+msgstr "идентификатор карты в слоте"
+
+msgid "received error or hang up from event source"
+msgstr "получена ошибка или сигнал отмены от источника"
+
+msgid "smartcard driver"
+msgstr "драйвер смарт-карты"
+
+msgid "smartcard driver '%s' could not be loaded"
+msgstr "не удалось загрузить драйвер «%s» для смарт-карты"

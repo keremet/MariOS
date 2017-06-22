@@ -1,0 +1,1484 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=gvfs&component=general\n"
+"POT-Creation-Date: 2010-07-01 10:56+0000\n"
+"PO-Revision-Date: 2010-09-24 08:13+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid " (invalid encoding)"
+msgstr " (неверная кодировка)"
+
+msgid " <location> <attribute> <values> - set attribute"
+msgstr " <адрес> <атрибут> <значения> - установить атрибуты"
+
+msgid "%.1f GB"
+msgstr "%.1f ГБ"
+
+msgid "%.1f MB"
+msgstr "%.1f МБ"
+
+msgid "%.1f kB"
+msgstr "%.1f КБ"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s Audio Player"
+msgstr "Звуковой проигрыватель %s"
+
+msgid "%s Camera"
+msgstr "Камера %s"
+
+msgid "%s Drive"
+msgstr "Устройство %s"
+
+msgid "%s Encrypted Data"
+msgstr "Зашифрованные данные %s"
+
+msgid "%s Filesystem Service"
+msgstr "Служба файловой системы %s"
+
+msgid "%s Media"
+msgstr "Диск %s"
+
+msgid "%s on %s"
+msgstr "%s на %s"
+
+msgid "%s/%s Drive"
+msgstr "Устройство %s/%s"
+
+msgid "%s: %d: Directory or file exists"
+msgstr "%s: %d: файл или каталог не существует"
+
+msgid "%s: %d: Invalid filename"
+msgstr "%s: %d: неверное имя файла"
+
+msgid "%s: %d: No such file or directory"
+msgstr "%s: %d: нет такого файла или каталога"
+
+msgid "%s: %d: Not Supported"
+msgstr "%s: %d: не поддерживается"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s: %s, error writing to stdout"
+msgstr "%s: %s, ошибка записи в стандартный вывод"
+
+msgid "%s: %s: error launching application: %s\n"
+msgstr "%s: %s: ошибка запуска приложения: %s\n"
+
+msgid "%s: %s: error opening file: %s\n"
+msgstr "%s: %s: ошибка открытия файла: %s\n"
+
+msgid "%s: %s: error opening location: %s\n"
+msgstr "%s: %s: ошибка открытия адреса: %s\n"
+
+msgid "%s: %s: error reading: %s\n"
+msgstr "%s: %s: ошибка чтения: %s\n"
+
+msgid "%s: %s:error closing: %s\n"
+msgstr "%s: %s:ошибка закрытия: %s\n"
+
+msgid "%s: missing locations"
+msgstr "%s: не указаны адреса"
+
+msgid "- create directories"
+msgstr "- создать каталоги"
+
+msgid "- delete files"
+msgstr "- удалить файлы"
+
+msgid "- list contents of directories in a tree-like format"
+msgstr "- вывести содержимое каталогов в виде дерева"
+
+msgid "- list files at <location>"
+msgstr "- перечислить файлы в <location>"
+
+msgid "- mount <location>"
+msgstr "- подключить <адрес>"
+
+msgid "- move files to trash"
+msgstr "- переместить файлы в корзину"
+
+msgid "- rename file"
+msgstr "- переименовать файл"
+
+msgid "- show info for <location>"
+msgstr "- показать информацию об <адресе>"
+
+msgid "/ on %s"
+msgstr "/ на %s"
+
+msgid "ATA Drive"
+msgstr "Устройство ATA"
+
+msgid "Accounts are unsupported"
+msgstr "Учётные записи не поддерживаются"
+
+msgid "Append to end of file"
+msgstr "Добавить в конец файла"
+
+msgid "Apple Mobile Device"
+msgstr "Мобильное устройство Apple"
+
+msgid "Attribute not specified\n"
+msgstr "Атрибут не определён\n"
+
+msgid "Audio CD Filesystem Service"
+msgstr "Служба файловой системы Audio CD"
+
+msgid "Audio Disc"
+msgstr "Звуковой диск"
+
+msgid "Audio Player"
+msgstr "Звуковой проигрыватель"
+
+msgid "Automount failed: %s"
+msgstr "Сбой автоматического подключения: %s"
+
+msgid "Backup file creation failed"
+msgstr "Ошибка создания резервной копии файла"
+
+msgid "Backup file creation failed: %s"
+msgstr "Ошибка создания резервного файла: %s"
+
+msgid "Backups are not yet supported."
+msgstr "Резервные копии ещё не поддерживаются."
+
+msgid "Blank Blu-Ray Disc"
+msgstr "Чистый диск Blu-Ray"
+
+msgid "Blank Blu-Ray R Disc"
+msgstr "Чистый диск Blu-Ray R"
+
+msgid "Blank Blu-Ray RW Disc"
+msgstr "Чистый диск Blu-Ray RW"
+
+msgid "Blank CD-R Disc"
+msgstr "Чистый диск CD-R"
+
+msgid "Blank CD-ROM Disc"
+msgstr "Чистый диск CD-ROM"
+
+msgid "Blank CD-RW Disc"
+msgstr "Чистый диск CD-RW"
+
+msgid "Blank DVD+R DL Disc"
+msgstr "Чистый диск DVD+R DL"
+
+msgid "Blank DVD+R Disc"
+msgstr "Чистый диск DVD+R"
+
+msgid "Blank DVD+RW Disc"
+msgstr "Чистый диск DVD+RW"
+
+msgid "Blank DVD-RAM Disc"
+msgstr "Чистый диск DVD-RAM"
+
+msgid "Blank DVD-ROM Disc"
+msgstr "Чистый диск DVD-ROM"
+
+msgid "Blank DVD-RW Disc"
+msgstr "Чистый диск DVD-RW"
+
+msgid "Blank Disc"
+msgstr "Чистый диск"
+
+msgid "Blank HD DVD Disc"
+msgstr "Чистый диск HD DVD"
+
+msgid "Blank HD DVD-R Disc"
+msgstr "Чистый диск HD DVD-R"
+
+msgid "Blank HD DVD-RW Disc"
+msgstr "Чистый диск HD DVD-RW"
+
+msgid "Blank MO Disc"
+msgstr "Чистый МО диск"
+
+msgid "Blu-Ray Disc"
+msgstr "Диск Blu-Ray"
+
+msgid "Blu-Ray R Disc"
+msgstr "Диск Blu-Ray R"
+
+msgid "Blu-Ray RW Disc"
+msgstr "Диск Blu-Ray RW"
+
+msgid "Blu-ray"
+msgstr "Blu-ray"
+
+msgid "Blu-ray-R"
+msgstr "Blu-ray-R"
+
+msgid "Blu-ray-RE"
+msgstr "Blu-ray-RE"
+
+msgid "Burn"
+msgstr "Записать"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-R Disc"
+msgstr "Диск CD-R"
+
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+msgid "CD-ROM Disc"
+msgstr "Диск CD-ROM"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "CD-RW Disc"
+msgstr "Диск CD-RW"
+
+msgid "CD/DVD Creator"
+msgstr "Создание CD/DVD"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Can't contact session bus"
+msgstr "Не удаётся подключиться к шине сеанса"
+
+msgid "Can't copy directory over directory"
+msgstr "Не удаётся скопировать каталог поверх каталога"
+
+msgid "Can't copy file over directory"
+msgstr "Не удаётся скопировать файл поверх каталога"
+
+msgid "Can't eject file"
+msgstr "Не удаётся извлечь файл"
+
+msgid "Can't find metadata file %s"
+msgstr "Невозможно найти файл метаданных %s"
+
+msgid "Can't handle version %d of GVfsIcon encoding"
+msgstr "Не удалось обработать текстовое представление GVfsIcon версии %d"
+
+msgid "Can't monitor file or directory."
+msgstr "Не удаётся отследить состояние файла или каталога."
+
+msgid "Can't mount file"
+msgstr "Не удаётся подключить файл"
+
+msgid "Can't move directory over directory"
+msgstr "Не удаётся переместить каталог поверх каталога"
+
+msgid "Can't open directory"
+msgstr "Не удаётся открыть каталог"
+
+msgid "Can't open mountable file"
+msgstr "Не удаётся открыть подключаемый файл"
+
+msgid "Can't poll file"
+msgstr "Не удаётся обработать события над файлом"
+
+msgid "Can't recursively copy directory"
+msgstr "Не удаётся скопировать каталог рекурсивно"
+
+msgid "Can't recursively move directory"
+msgstr "Не удаётся переместить каталог рекурсивно"
+
+msgid "Can't send host identity confirmation"
+msgstr "Не удаётся отправить подтверждение подлинности узла"
+
+msgid "Can't send password"
+msgstr "Не удаётся отправить пароль"
+
+msgid "Can't start file"
+msgstr "Не удаётся начать файл"
+
+msgid "Can't stop file"
+msgstr "Не удаётся закончить файл"
+
+msgid "Can't unmount file"
+msgstr "Не удаётся отключить файл"
+
+msgid "Can't write to directory"
+msgstr "Не удаётся произвести запись в каталог"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cancel Login"
+msgstr "Отменить вход"
+
+msgid "Cannot allocate new file to append to"
+msgstr "Не удалось выделить новый файл для добавления в конец"
+
+msgid "Cannot connect to the system bus"
+msgstr "Не удаётся подключиться к системной шине"
+
+msgid "Cannot create gphoto2 context"
+msgstr "Не удалось создать контекст gphoto2"
+
+msgid "Cannot create gudev client"
+msgstr "Не удалось создать клиент gudev"
+
+msgid "Cannot create libhal context"
+msgstr "Не удалось получить контекст libhal"
+
+msgid "Cannot find drive %s"
+msgstr "Не удаётся найти устройство %s"
+
+msgid "Cannot get LUKS cleartext slave"
+msgstr "Невозможно получить LUKS cleartext slave"
+
+msgid "Cannot get LUKS cleartext slave from path `%s'"
+msgstr "Невозможно получить LUKS cleartext slave из пути `%s'"
+
+msgid "Cannot get data of file to append to"
+msgstr "Не удалось получить данные файла для добавления в конец"
+
+msgid "Cannot initialize libhal"
+msgstr "Не удалось инициализировать libhal"
+
+msgid "Cannot open data connection. Maybe your firewall prevents this?"
+msgstr ""
+"Не удаётся установить соединение данных. Проверьте параметры межсетевого "
+"экрана."
+
+msgid "Cannot read file to append to"
+msgstr "Не удалось прочитать файл для добавления в конец"
+
+msgid "CompactFlash Drive"
+msgstr "Устройство CompactFlash"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid ""
+"Concatenate files at locations and print to the standard output. Works just "
+"like the traditional cat utility, but using gvfs location instead local "
+"files: for example you can use something like smb://server/resource/file.txt "
+"as location to concatenate."
+msgstr ""
+"Объединить все файлы в каталоге и вывести их на стандартный вывод. Работает "
+"как стандартная утилита cat, но вместо адреса локального файла использует "
+"адрес gvfs. Например, можно использовать адрес вида smb://server/resource/"
+"file.txt."
+
+msgid "Connection refused by server"
+msgstr "Соединение отклонено сервером"
+
+msgid "Connection to the device lost"
+msgstr "Соединение с устройством потеряно"
+
+msgid "Copy with file"
+msgstr "Копировать с файлом"
+
+msgid "Could not create request"
+msgstr "Не удаётся создать запрос"
+
+msgid "Could not find enclosing mount"
+msgstr "Не удаётся найти точку монтирования"
+
+msgid "Could not parse response"
+msgstr "Не удаётся разобрать ответ"
+
+msgid "Couldn't get stream file descriptor"
+msgstr "Не удаётся получить дескриптор файла потока"
+
+msgid "Create backup"
+msgstr "Создать резервную копию"
+
+msgid "DEST - read from standard input and save to DEST"
+msgstr "DEST - прочитать из стандартного ввода и сохранить в DEST"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD+R DL Disc"
+msgstr "Диск DVD+R DL"
+
+msgid "DVD+R Disc"
+msgstr "Диск DVD+R"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD+RW Disc"
+msgstr "Диск DVD+RW"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD-RAM Disc"
+msgstr "Диск DVD-RAM"
+
+msgid "DVD-ROM"
+msgstr "DVD-ROM"
+
+msgid "DVD-ROM Disc"
+msgstr "Диск DVD-ROM"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "DVD-RW Disc"
+msgstr "Диск DVD-RW"
+
+msgid "DVD±R"
+msgstr "DVD±R"
+
+msgid "DVD±RW"
+msgstr "DVD±RW"
+
+msgid "Data connection closed"
+msgstr "Соединение с данными закрыто"
+
+msgid ""
+"Device '%s' is password protected. Enter the password on the device and "
+"click 'Try again'."
+msgstr ""
+"Устройство «%s» защищено паролем. Введите пароль к устройству и нажмите "
+"«Попытаться снова»."
+
+msgid "Device requires a software update"
+msgstr "Устройство требует обновления программного обеспечения"
+
+msgid "Didn't get stream file descriptor"
+msgstr "Дескриптор потокового файла не был получен"
+
+msgid "Digital Camera (%s)"
+msgstr "Цифровая камера (%s)"
+
+msgid "Directory '%s' is not empty"
+msgstr "Каталог «%s» не пустой"
+
+msgid "Directory not empty"
+msgstr "Каталог не пустой"
+
+msgid "Directory notification not supported"
+msgstr "Уведомление для каталогов не поддерживается"
+
+msgid "Disc"
+msgstr "Диск"
+
+msgid "Dns-SD"
+msgstr "Dns-SD"
+
+msgid "Don't follow symlinks"
+msgstr "Не следовать символическим ссылкам"
+
+msgid "Don't send single MOVED events."
+msgstr "Не посылать одиночные события MOVED."
+
+msgid "Don't start fuse."
+msgstr "Не запускать fuse."
+
+msgid "Drive %s does not contain audio files"
+msgstr "Устройство %s не содержит звуковых файлов"
+
+msgid "Empty response"
+msgstr "Пустой ответ"
+
+msgid "End of stream"
+msgstr "Конец потока"
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device \"%s\" contains encrypted data on partition %d."
+msgstr ""
+"Введите пароль для разблокирования тома\n"
+"Устройство «%s» содержит зашифрованные данные на разделе %d."
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device \"%s\" contains encrypted data."
+msgstr ""
+"Введите пароль для разблокирования тома\n"
+"Устройство «%s» содержит зашифрованные данные."
+
+msgid ""
+"Enter a password to unlock the volume\n"
+"The device %s contains encrypted data."
+msgstr ""
+"Введите пароль для разблокирования тома\n"
+"Устройство %s содержит зашифрованные данные."
+
+msgid "Enter passphrase for key for ssh as %s on %s"
+msgstr "Введите пароль для ssh для пользователя %s на %s"
+
+msgid "Enter passphrase for key for ssh on %s"
+msgstr "Введите ключевую фразу для ключа для ssh на %s"
+
+msgid "Enter password for %s"
+msgstr "Введите пароль для %s"
+
+msgid "Enter password for ftp as %s on %s"
+msgstr "Введите пароль ftp для пользователя %s на %s"
+
+msgid "Enter password for ftp on %s"
+msgstr "Введите пароль для ftp на %s"
+
+msgid "Enter password for ssh as %s on %s"
+msgstr "Введите пароль для ssh для пользователя %s на %s"
+
+msgid "Enter password for ssh on %s"
+msgstr "Введите пароль для ssh на %s"
+
+msgid "Error closing: %s\n"
+msgstr "Ошибка закрытия файла: %s\n"
+
+msgid "Error connecting to D-Bus: %s"
+msgstr "Ошибка подключения к D-Bus: %s"
+
+msgid "Error connecting to daemon: %s"
+msgstr "Ошибка подключения к службе: %s"
+
+msgid "Error connecting to socket: %s"
+msgstr "Ошибка подключения к сокету: %s"
+
+msgid "Error copying file %s: %s\n"
+msgstr "Ошибка копирования файла %s: %s\n"
+
+msgid "Error creating Avahi resolver: %s"
+msgstr "Ошибка создания службы разрешения имён Avahi: %s"
+
+msgid "Error creating backup file: %s"
+msgstr "Ошибка создания резервной копии файла: %s"
+
+msgid "Error creating camera"
+msgstr "Ошибка создания объекта камеры"
+
+msgid "Error creating directory"
+msgstr "Ошибка создания каталога"
+
+msgid "Error creating directory: %s\n"
+msgstr "Ошибка создания каталога: %s\n"
+
+msgid "Error creating file object"
+msgstr "Ошибка создания объекта файла"
+
+msgid "Error creating socket: %s"
+msgstr "Ошибка создания сокета: %s"
+
+msgid "Error deleting directory"
+msgstr "Ошибка удаления каталога"
+
+msgid "Error deleting file"
+msgstr "Ошибка удаления файла"
+
+msgid "Error deleting file: %s"
+msgstr "Ошибка удаления файла: %s"
+
+msgid "Error finding enclosing mount: %s\n"
+msgstr "Не удаётся найти точку монтирования: %s\n"
+
+msgid "Error from 'paranoia' on drive %s"
+msgstr "Ошибка программы \"paranoia\" на устройстве %s"
+
+msgid "Error getting data from file"
+msgstr "Ошибка получения данных из файла"
+
+msgid "Error getting device information"
+msgstr "Ошибка получения информации об устройстве"
+
+msgid "Error getting file"
+msgstr "Ошибка получения файла"
+
+msgid "Error getting writable attributes: %s\n"
+msgstr "Ошибка получения записываемых атрибутов: %s\n"
+
+msgid "Error in stream protocol: %s"
+msgstr "Ошибка в протоколе потока: %s"
+
+msgid "Error initializing Avahi: %s"
+msgstr "Ошибка инициализации Avahi: %s"
+
+msgid "Error initializing camera"
+msgstr "Ошибка инициализации камеры"
+
+msgid "Error loading device information"
+msgstr "Ошибка загрузки информации об устройстве"
+
+msgid "Error looking up device information"
+msgstr "Не удалось найти информацию об устройстве"
+
+msgid "Error mounting %s: %s\n"
+msgstr "Ошибка подключения %s: %s\n"
+
+msgid "Error mounting location: %s\n"
+msgstr "Ошибка подключения адреса: %s\n"
+
+msgid "Error moving file %s: %s\n"
+msgstr "Ошибка перемещения файла %s: %s\n"
+
+msgid "Error moving file: %s"
+msgstr "Ошибка перемещения файла: %s"
+
+msgid "Error opening file: %s\n"
+msgstr "Ошибка открытия файла: %s\n"
+
+msgid "Error parsing commandline options: %s\n"
+msgstr "Ошибка разбора параметров командной строки: %s\n"
+
+msgid "Error reading stdin"
+msgstr "Ошибка чтения стандартного потока ввода"
+
+msgid "Error removing target file: %s"
+msgstr "Ошибка удаления файла назначения: %s"
+
+msgid "Error renaming dir"
+msgstr "Ошибка переименования каталога"
+
+msgid "Error renaming file"
+msgstr "Ошибка переименования файла"
+
+msgid "Error resolving \"%s\" service \"%s\" on domain \"%s\""
+msgstr "Ошибка разрешения имени «%s» службы «%s» на «%s»"
+
+msgid ""
+"Error resolving \"%s\" service \"%s\" on domain \"%s\". One or more TXT "
+"records are missing. Keys required: \"%s\"."
+msgstr ""
+"Ошибка разрешения имени «%s» службы «%s» на «%s». Одна или несколько TXT "
+"записей не найдены. Требуются ключи: «%s»"
+
+msgid "Error seeking in stream on camera %s"
+msgstr "Ошибка позиционирования в потоке, созданном камерой %s"
+
+msgid "Error seeking in stream on drive %s"
+msgstr "Ошибка позиционирования в потоке на устройстве %s"
+
+msgid "Error sending fd: %s"
+msgstr "Ошибка передачи fd: %s"
+
+msgid "Error setting attribute: %s\n"
+msgstr "Ошибка установки атрибута: %s\n"
+
+msgid "Error setting file metadata: %s"
+msgstr "Ошибка установки метаданных файла: %s"
+
+msgid "Error setting up camera communications port"
+msgstr "Ошибка установки порта для связи с камерой"
+
+msgid "Error trashing file: %s\n"
+msgstr "Ошибка перемещения файла в корзину: %s\n"
+
+msgid "Error unmounting mount: %s\n"
+msgstr "Ошибка отключения точки монтирования: %s\n"
+
+msgid "Error while getting mount info: %s"
+msgstr "Ошибка получения информации о монтировании: %s"
+
+msgid "Error writing file"
+msgstr "Ошибка записи в файл"
+
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+msgid "Error: %s\n"
+msgstr "Ошибка: %s\n"
+
+msgid "Etag not available\n"
+msgstr "Etag недоступен\n"
+
+msgid "FILES... - open FILES with registered application."
+msgstr "ФАЙЛЫ… - открыть ФАЙЛЫ в зарегистрированном приложении."
+
+msgid "Failed to create active FTP connection."
+msgstr "Не удалось установить активное FTP соединение."
+
+msgid ""
+"Failed to create active FTP connection. Maybe your router does not support "
+"this?"
+msgstr ""
+"Не удалось установить активное FTP соединение. Возможно, маршрутизатор не "
+"поддерживает этого."
+
+msgid "Failed to eject media; one or more volumes on the media are busy."
+msgstr ""
+"Не удаётся извлечь диск, потому что один или несколько томов этого диска "
+"заняты."
+
+msgid "Failed to get file list"
+msgstr "Не удалось получить список файлов"
+
+msgid "Failed to get folder list"
+msgstr "Не удалось получить список каталогов"
+
+msgid "Failed to mount Windows share"
+msgstr "Ошибка подключения ресурса Windows"
+
+msgid "Failed to retrieve share list from server"
+msgstr "Не удалось получить список доступных на сервере ресурсов"
+
+msgid "Failure"
+msgstr "Ошибка"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "File does not exist"
+msgstr "Файл не существует"
+
+msgid "File doesn't exist"
+msgstr "Файл не существует"
+
+msgid "File exists"
+msgstr "Файл существует"
+
+msgid "File is directory"
+msgstr "Файл является каталогом"
+
+msgid "File system is busy: %d open file"
+msgid_plural "File system is busy: %d open files"
+msgstr[0] "Файловая система занята: %d открытый файл"
+msgstr[1] "Файловая система занята: %d открытых файла"
+msgstr[2] "Файловая система занята: %d открытых файлов"
+
+msgid "Filename contains invalid characters."
+msgstr "Имя файла содержит недопустимые символы."
+
+msgid "Filesystem is busy"
+msgstr "Файловая система занята"
+
+msgid "FireWire Drive"
+msgstr "Устройство FireWire"
+
+msgid "Floppy Disk"
+msgstr "Дискета"
+
+msgid "Floppy Drive"
+msgstr "Устройство чтения дискет"
+
+msgid "Follow symlinks, mounts and shortcuts like dirs"
+msgstr ""
+"Воспринимать символические ссылки, точки монтирования и ярлыки как каталоги"
+
+msgid "GVFS Daemon"
+msgstr "Служба GVFS"
+
+msgid "GVFS Metadata Daemon"
+msgstr "Служба метаданных GVFS"
+
+msgid "GVfs GDU Volume Monitor"
+msgstr "Монитор томов GVfs GDU"
+
+msgid "Get filesystem info"
+msgstr "Получить информацию о файловой системе"
+
+msgid "HD DVD Disc"
+msgstr "Диск HD DVD"
+
+msgid "HD DVD-R Disc"
+msgstr "Диск HD DVD-R"
+
+msgid "HD DVD-RW Disc"
+msgstr "Диск HD DVD-RW"
+
+msgid "HDDVD"
+msgstr "HDDVD"
+
+msgid "HDDVD-RW"
+msgstr "HDDVD-RW"
+
+msgid "HDDVD-r"
+msgstr "HDDVD-r"
+
+msgid "HTTP Client Error: %s"
+msgstr "Ошибка клиента HTTP: %s"
+
+msgid "HTTP Error: %s"
+msgstr "Ошибка HTTP: %s"
+
+msgid "Host closed connection"
+msgstr "Узел закрыл соединение"
+
+msgid "Host key verification failed"
+msgstr "Сбой проверки сертификата узла"
+
+msgid "Hostname not known"
+msgstr "Имя узла неизвестно"
+
+msgid "Insufficient permissions"
+msgstr "Недостаточно прав доступа"
+
+msgid "Internal Apple File Control error"
+msgstr "Внутренняя ошибка Apple File Control"
+
+msgid "Internal Error (%s)"
+msgstr "Внутренняя ошибка (%s)"
+
+msgid "Internal error: %s"
+msgstr "Внутренняя ошибка: %s"
+
+msgid "Invalid AFC location: must be in the form of afc://uuid:port-number"
+msgstr "Неверный адрес AFC: должен быть в формате afc://uuid:port-number"
+
+msgid "Invalid Apple File Control data received"
+msgstr "Неверные данные получены от Apple File Control"
+
+msgid "Invalid arguments from spawned child"
+msgstr "Неверные аргументы от порождённого дочернего процесса"
+
+msgid "Invalid attribute info list content"
+msgstr "Неверное содержимое списка информации об атрибутах"
+
+msgid "Invalid attribute type %s\n"
+msgstr "Неверный тип атрибута %s\n"
+
+msgid "Invalid backend type"
+msgstr "Неверный тип внутреннего компонента"
+
+msgid "Invalid dbus message"
+msgstr "Неверное сообщение dbus"
+
+msgid "Invalid file info format"
+msgstr "Неверный формат информации о файле"
+
+msgid "Invalid filename"
+msgstr "Неверное имя файла"
+
+msgid "Invalid filename %s"
+msgstr "Неверное имя файла %s"
+
+msgid "Invalid icon_id '%s' in OpenIconForRead"
+msgstr "Некорректный icon_id «%s» в OpenIconForRead"
+
+msgid "Invalid mount spec"
+msgstr "Неверная спецификация монтирования"
+
+msgid "Invalid reply"
+msgstr "Неверный ответ"
+
+msgid "Invalid reply received"
+msgstr "Получен неверный ответ"
+
+msgid "Invalid return value from %s"
+msgstr "Неверное возвращённое значение от %s"
+
+msgid "Invalid seek type"
+msgstr "Неверный тип поиска"
+
+msgid "Items in the trash may not be modified"
+msgstr "Элементы в корзине не могут быть изменены"
+
+msgid "Jaz Drive"
+msgstr "Дисковод Jaz"
+
+msgid "Keep with file when moved"
+msgstr "Сохранять с файлом при перемещении"
+
+msgid "LOCATION... - concatenate LOCATIONS to standard output."
+msgstr "АДРЕС… - объединять АДРЕСА со стандартным выводом."
+
+msgid "List"
+msgstr "Список"
+
+msgid "List writable attributes"
+msgstr "Перечислить записываемые атрибуты"
+
+msgid "Local Network"
+msgstr "Локальная сеть"
+
+msgid "Location is already mounted"
+msgstr "Адрес уже подключён"
+
+msgid "Location is not mountable"
+msgstr "Адрес не является подключаемым"
+
+msgid "Location not specified\n"
+msgstr "Адрес не определён\n"
+
+msgid "Lockdown Error: Invalid Argument"
+msgstr "Ошибка блокировки: неверный аргумент"
+
+msgid "Log In Anyway"
+msgstr "Всё равно войти"
+
+msgid "Login dialog cancelled"
+msgstr "Окно входа отменено"
+
+msgid "MO Disc"
+msgstr "МО диск"
+
+msgid "Main daemon for GVFS"
+msgstr "Главная служба GVFS"
+
+msgid "Malformed dns-sd encoded_triple '%s'"
+msgstr "Неверные параметры dns-sd «%s»"
+
+msgid "Malformed icon identifier '%s'"
+msgstr "Некорректный идентификатор значка «%s»"
+
+msgid "Malformed input data for GVfsIcon"
+msgstr "Некорректные входные данные для GVfsIcon"
+
+msgid "Mass Storage Drive"
+msgstr "Запоминающее устройство"
+
+msgid "MemoryStick Drive"
+msgstr "Устройство MemoryStick"
+
+msgid "Metadata daemon for GVFS"
+msgstr "Служба метаданных для GVFS"
+
+msgid "Missing operand\n"
+msgstr "Отсутствует операнд\n"
+
+msgid "Mixed Audio/Data Disc"
+msgstr "Смешанный диск звук/данные"
+
+msgid "Monitor events"
+msgstr "Отслеживать события"
+
+msgid "Mount as mountable"
+msgstr "Подключить как подключаемый"
+
+msgid "Mount volume with device file"
+msgstr "Подключить том с файлом устройства"
+
+msgid "Mounted %s at %s\n"
+msgstr "Подключено %s в %s\n"
+
+msgid "Name already exists"
+msgstr "Такое имя уже существует"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Network Location Monitor"
+msgstr "Обозреватель сети"
+
+msgid "New name too long"
+msgstr "Слишком длинное имя"
+
+msgid "No camera specified"
+msgstr "Камера не определена"
+
+msgid "No device specified"
+msgstr "Устройство не указано"
+
+msgid "No drive specified"
+msgstr "Устройство не указано"
+
+msgid "No hostname specified"
+msgstr "Имя узла не указано"
+
+msgid "No media in the drive"
+msgstr "В устройстве нет носителя"
+
+msgid "No mount type specified"
+msgstr "Тип монтирования не указан"
+
+msgid "No route to host"
+msgstr "Нет маршрута к узлу"
+
+msgid "No space left on server"
+msgstr "На сервере не осталось свободного места"
+
+msgid "No such file"
+msgstr "Нет такого файла"
+
+msgid "No such file %s on drive %s"
+msgstr "Файл %s на устройстве %s отсутствует"
+
+msgid "No such file or directory"
+msgstr "Нет такого файла или каталога"
+
+msgid "No such file or directory in target path"
+msgstr "Нет такого файла или каталога в пути назначения"
+
+msgid "No volume for device file %s\n"
+msgstr "Нет тома для файла устройства %s\n"
+
+msgid "Not a WebDAV enabled share"
+msgstr "Не является ресурсом WebDAV"
+
+msgid "Not a directory"
+msgstr "Не является каталогом"
+
+msgid "Not a mountable file"
+msgstr "Файл не является подключаемым"
+
+msgid "Not a regular file"
+msgstr "Не является обычным файлом"
+
+msgid "Not supported"
+msgstr "Не поддерживается"
+
+msgid "Not supported (not same directory)"
+msgstr "Не поддерживается (не тот же самый каталог)"
+
+msgid "Not supported (src is dir, dst is dir)"
+msgstr "Не поддерживается (источник - каталог, назначение - каталог)"
+
+msgid "Not supported (src is dir, dst is existing file)"
+msgstr "Не поддерживается (источник - каталог, назначение - существующий файл)"
+
+msgid "Not supported (src is file, dst is dir)"
+msgstr "Не поддерживается (источник - файл, назначение - каталог)"
+
+msgid ""
+"Note: just pipe through cat if you need its formatting option like -n, -T or "
+"other."
+msgstr ""
+"Примечание: если необходимы параметры форматирования, такие как -n, -T или "
+"другие, достаточно просто пропустить вывод через команду cat."
+
+msgid "One or more programs are preventing the unmount operation."
+msgstr "Одна или более программ препятствуют отключению."
+
+msgid "Only create if not existing"
+msgstr "Создать только если не существует"
+
+msgid ""
+"Opens the file(s) with the default application registered to handle the type "
+"of the file."
+msgstr ""
+"Открывает файл(ы) в приложении по умолчанию, зарегистрированном для "
+"обработки файлов этого типа."
+
+msgid "Operation failed"
+msgstr "Сбой операции"
+
+msgid "Operation not supported by backend"
+msgstr "Действие не поддерживается внутренней реализацией"
+
+msgid "Operation not supported, files on different mounts"
+msgstr "Действие не поддерживается, файлы на разных точках монтирования"
+
+msgid "Operation unsupported"
+msgstr "Действие не поддерживается"
+
+msgid "Operation was cancelled"
+msgstr "Действие было отменено"
+
+msgid "Page type unknown"
+msgstr "Неизвестный тип страницы"
+
+msgid "Password dialog cancelled"
+msgstr "Ввод пароля отменён"
+
+msgid "Password required for %s"
+msgstr "Требуется пароль для ресурса %s"
+
+msgid "Password required for share %s on %s"
+msgstr "Требуется пароль для ресурса %s на %s"
+
+msgid "Permission denied"
+msgstr "Доступ запрещён"
+
+msgid "Please enter proxy password"
+msgstr "Введите пароль прокси-сервера"
+
+msgid "Print new etag at end"
+msgstr "Добавлять атрибут etag в конце"
+
+msgid "Protocol error"
+msgstr "Ошибка протокола"
+
+msgid "Rename successful. New uri: %s\n"
+msgstr "Переименование успешно завершено. Новый URI: %s\n"
+
+msgid "Replace old daemon."
+msgstr "Заменить старую службу."
+
+msgid "Response invalid"
+msgstr "Неверный ответ"
+
+msgid "SCSI Drive"
+msgstr "Устройство SCSI"
+
+msgid "SD/MMC Drive"
+msgstr "Устройство SD/MMC"
+
+msgid "SOURCE... DEST - copy file(s) from SOURCE to DEST"
+msgstr "SOURCE… DEST - копировать файл(ы) из SOURCE в DEST"
+
+msgid "SOURCE... DEST - move file(s) from SOURCE to DEST"
+msgstr "SOURCE… DEST - переместить файл(ы) из SOURCE в DEST"
+
+msgid "Seek not supported on stream"
+msgstr "Поиск в потоке не поддерживается"
+
+msgid "Service %d on Apple Mobile Device"
+msgstr "Служба %d на мобильном устройстве Apple"
+
+msgid "Settable attributes:\n"
+msgstr "Устанавливаемые атрибуты:\n"
+
+msgid "Show completions"
+msgstr "Показывать завершения"
+
+msgid "Show extra information for List and Monitor"
+msgstr "Показать дополнительную информацию для «Списка» и «Монитора»"
+
+msgid "Show hidden files"
+msgstr "Показывать скрытые файлы"
+
+msgid "SmartMedia Drive"
+msgstr "Устройство SmartMedia"
+
+msgid "Software RAID Drive"
+msgstr "Устройство программного RAID"
+
+msgid "Start Anyway"
+msgstr "Всё равно подключить"
+
+msgid ""
+"Start drive in degraded mode?\n"
+"Starting a drive in degraded mode means that the drive is no longer tolerant "
+"to failures. Data on the drive may be irrevocably lost if a component fails."
+msgstr ""
+"Подключить накопитель в режиме с ухудшенными характеристиками?\n"
+"Подключение в таком режиме означает, что накопитель не будет защищён от "
+"ошибок. Данные на нём могут быть безвозвратно утеряны в случае поломки."
+
+msgid "Symlinks not supported by backend"
+msgstr "Символические ссылки не поддерживаются внутренней реализацией"
+
+msgid "Tape Drive"
+msgstr "Ленточный накопитель"
+
+msgid "Target %s is not a directory\n"
+msgstr "Цель %s не является каталогом\n"
+
+msgid "Target file already exists"
+msgstr "Файл назначения уже существует"
+
+msgid "Target file exists"
+msgstr "Файл назначения уже существует"
+
+msgid "The FTP server is busy. Try again later"
+msgstr "FTP сервер занят. Повторите попытку позднее"
+
+msgid "The attributes to get"
+msgstr "Получаемые атрибуты"
+
+msgid "The connection was interrupted"
+msgstr "Соединение было прервано"
+
+msgid "The device did not respond"
+msgstr "Устройство не отвечает"
+
+msgid "The directory is not empty"
+msgstr "Каталог не пуст"
+
+msgid "The etag of the file being overwritten"
+msgstr "Перезаписывается атрибут файла etag"
+
+msgid "The file does not exist or isn't an audio track"
+msgstr "Файл не существует или не является звуковой дорожкой"
+
+msgid "The file is not a directory"
+msgstr "Этот файл не является каталогом"
+
+msgid "The file is not a mountable"
+msgstr "Этот файл не является подключаемым"
+
+msgid "The file was externally modified"
+msgstr "Файл был изменён извне"
+
+msgid ""
+"The identity of the remote computer (%s) is unknown.\n"
+"This happens when you log in to a computer the first time.\n"
+"\n"
+"The identity sent by the remote computer is %s. If you want to be absolutely "
+"sure it is safe to continue, contact the system administrator."
+msgstr ""
+"Не удаётся проверить подлинность удалённого компьютера (%s).\n"
+"Это обычно происходит при первом подключении к компьютеру.\n"
+"\n"
+"Строка идентификации, переданная удалённым компьютером: %s. Если вы хотите "
+"быть абсолютно уверенным в безопасности подключения к этому компьютеру, "
+"обратитесь к системному администратору."
+
+msgid "The specified location is not mounted"
+msgstr "Указанный адрес не подключён"
+
+msgid "The specified location is not supported"
+msgstr "Указанный адрес не поддерживается"
+
+msgid "The trash folder may not be deleted"
+msgstr "Папка корзины не может быть удалена"
+
+msgid "Thumb Drive"
+msgstr "USB флеш-накопитель"
+
+msgid "Timed out resolving \"%s\" service \"%s\" on domain \"%s\""
+msgstr "Истёк период ожидания «%s» службы «%s» на «%s»"
+
+msgid "Timed out when logging in"
+msgstr "Время ожидания входа в систему истекло"
+
+msgid "Too many arguments\n"
+msgstr "Слишком много аргументов\n"
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Try \"%s --help\" for more information."
+msgstr ""
+"Для получения дополнительной информации используйте команду «%s --help»."
+
+msgid "Try again"
+msgstr "Попытаться снова"
+
+msgid "USB Drive"
+msgstr "Устройство USB"
+
+msgid "USB support missing. Please contact your software vendor"
+msgstr ""
+"Не найдена поддержка USB. Свяжитесь с поставщиком программного обеспечения"
+
+msgid "Unable to create temporary directory"
+msgstr "Не удаётся создать временный каталог"
+
+msgid "Unable to create temporary file"
+msgstr "Не удаётся создать временный файл"
+
+msgid "Unable to find supported ssh command"
+msgstr "Не удаётся найти поддерживаемую команду ssh"
+
+msgid "Unable to move metadata keys"
+msgstr "Невозможно переместить ключи метаданных"
+
+msgid "Unable to remove metadata keys"
+msgstr "Невозможно удалить ключи метаданных"
+
+msgid "Unable to set metadata key"
+msgstr "Невозможно установить ключ метаданных"
+
+msgid "Unable to spawn ssh program"
+msgstr "Не удаётся выполнить программу ssh"
+
+msgid "Unable to spawn ssh program: %s"
+msgstr "Не удаётся выполнить программу ssh: %s"
+
+msgid "Unable to unset metadata key"
+msgstr "Невозможно отключить ключ метаданных"
+
+msgid "Unexpected end of stream"
+msgstr "Неожиданный конец потока"
+
+msgid "Unexpected reply from server"
+msgstr "Неожиданный ответ от сервера"
+
+msgid "Unhandled Apple File Control error (%d)"
+msgstr "Неизвестная ошибка Apple File Control (%d)"
+
+msgid "Unhandled Lockdown error (%d)"
+msgstr "Неизвестная ошибка блокировки (%d)"
+
+msgid "Unhandled libimobiledevice error (%d)"
+msgstr "Неизвестная ошибка libmobiledevice (%d)"
+
+msgid "Unmount"
+msgstr "Отключить"
+
+msgid "Unmount Anyway"
+msgstr "Всё равно отсоединить"
+
+msgid "Unmount all mounts with the given scheme"
+msgstr "Отключить все точки монтирования по заданной схеме"
+
+msgid "Unnamed Drive"
+msgstr "Безымянное устройство"
+
+msgid "Unnamed Drive (%s)"
+msgstr "Безымянное устройство (%s)"
+
+msgid "Unsupported network protocol"
+msgstr "Неподдерживаемый сетевой протокол"
+
+msgid "Unsupported seek type"
+msgstr "Неподдерживаемый тип позиционирования"
+
+msgid "Usage: %s --spawner dbus-id object_path"
+msgstr "Применение: %s --spawner dbus-id object_path"
+
+msgid "Usage: %s key=value key=value ..."
+msgstr "Применение: %s key=value key=value …"
+
+msgid "Use a long listing format"
+msgstr "Использовать расширенный формат"
+
+msgid "Value not specified\n"
+msgstr "Значение не определено\n"
+
+msgid ""
+"Volume is busy\n"
+"One or more applications are keeping the volume busy."
+msgstr ""
+"Том занят\n"
+"Одно или более приложений используют том."
+
+msgid "WebDAV on %s"
+msgstr "WebDAV на %s"
+
+msgid "WebDAV share"
+msgstr "Ресурс WebDAV"
+
+msgid "When creating a file, restrict access to the current user only"
+msgstr ""
+"При создании файла ограничить права доступа только для текущего пользователя"
+
+msgid "Windows Network"
+msgstr "Сеть Windows"
+
+msgid "Windows Network Filesystem Service"
+msgstr "Служба сетевой файловой системы Windows"
+
+msgid "Windows Shares Filesystem Service"
+msgstr "Служба файловой системы ресурсов Windows"
+
+msgid "Windows shares on %s"
+msgstr "Ресурсы Windows на %s"
+
+msgid "Writable attribute namespaces:\n"
+msgstr "Пространства имён записываемых атрибутов:\n"
+
+msgid "Zip Drive"
+msgstr "Дисковод Zip"
+
+msgid ""
+"attribute type [string, bytestring, boolean, uint32, int32, uint64, int64, "
+"stringv, unset]"
+msgstr ""
+"тип атрибута [string, bytestring, boolean, uint32, int32, uint64, int64, "
+"stringv, unset]"
+
+msgid "attributes:\n"
+msgstr "атрибуты:\n"
+
+msgid "backup existing destination files"
+msgstr "создать резервную копию существующих файлов"
+
+msgid "backups not supported yet"
+msgstr "резервные копии ещё не поддерживаются"
+
+msgid "cdda mount on %s"
+msgstr "подключение cdda на %s"
+
+msgid "create parent directories"
+msgstr "создать родительские каталоги"
+
+msgid "directory"
+msgstr "каталог"
+
+msgid "display name: %s\n"
+msgstr "отображаемое имя: %s\n"
+
+msgid "edit name: %s\n"
+msgstr "редактируемое имя: %s\n"
+
+msgid "error starting mount daemon"
+msgstr "ошибка запуска службы монтирования"
+
+msgid "files"
+msgstr "файлы"
+
+msgid "ftp as %s on %s"
+msgstr "ftp как %s на %s"
+
+msgid "ftp on %s"
+msgstr "ftp на %s"
+
+msgid "gphoto2 mount on %s"
+msgstr "подключение gphoto2 на %s"
+
+msgid "hidden\n"
+msgstr "скрытый\n"
+
+msgid "ignore nonexistent files, never prompt"
+msgstr "игнорировать несуществующие файлы, никогда не спрашивать"
+
+msgid "invalid type"
+msgstr "неверный тип"
+
+msgid "libimobiledevice Error: Invalid Argument"
+msgstr "Ошибка libmobiledevice: неверный аргумент"
+
+msgid ""
+"libimobiledevice Error: No device found. Make sure usbmuxd is set up "
+"correctly."
+msgstr ""
+"Ошибка libmobiledevice: устройство не найдено. Убедитесь, что usbmuxd "
+"установлен корректно."
+
+msgid "locations"
+msgstr "адреса"
+
+msgid "mountable"
+msgstr "подключаемый"
+
+msgid "mountpoint for %s already running"
+msgstr "точка монтирования для %s уже запущена"
+
+msgid "name: %s\n"
+msgstr "имя: %s\n"
+
+msgid "never follow symbolic links"
+msgstr "никогда не следовать символическим ссылкам"
+
+msgid "no target directory"
+msgstr "целевой каталог отсутствует"
+
+msgid "overwrite %s?"
+msgstr "перезаписать %s?"
+
+msgid "preserve all attributes"
+msgstr "сохранить все атрибуты"
+
+msgid "progress"
+msgstr "ход выполнения"
+
+msgid "prompt before overwrite"
+msgstr "спросить перед перезаписью"
+
+msgid "regular"
+msgstr "обычный"
+
+msgid "sftp for %s on %s"
+msgstr "sftp пользователя %s на %s"
+
+msgid "sftp on %s"
+msgstr "sftp на %s"
+
+msgid "shortcut"
+msgstr "комбинация клавиш"
+
+msgid "show progress"
+msgstr "показать ход выполнения"
+
+msgid "size: "
+msgstr "размер:"
+
+msgid "special"
+msgstr "специальный"
+
+msgid "ssh program unexpectedly exited"
+msgstr "Программа ssh неожиданно завершилась"
+
+msgid "symlink"
+msgstr "символическая ссылка"
+
+msgid "type: %s\n"
+msgstr "тип: %s\n"
+
+msgid "unknown"
+msgstr "неизвестный"
+
+msgid "values must be string or list of strings"
+msgstr "значения должны быть строками или списком строк"

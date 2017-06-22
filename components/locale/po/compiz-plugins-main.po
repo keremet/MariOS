@@ -1,0 +1,2009 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i18n\n"
+"Report-Msgid-Bugs-To: http://bugs.opencompositing.org\n"
+"POT-Creation-Date: 2009-03-24 08:11+0100\n"
+"PO-Revision-Date: 2009-10-05 18:47+0200\n"
+"Last-Translator: Shnatsel <shnatsel@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid "\"On all desktops\" sticky match"
+msgstr "Точное соответствие \"На все рабочие столы\""
+
+msgid "3D Only On Mouse Rotate"
+msgstr "3D только при вращении мышкой"
+
+msgid "3D Windows"
+msgstr "3D Окна"
+
+msgid "A simple benchmark plugin"
+msgstr "Простой модуль тестирования производительности"
+
+msgid "ADD Helper"
+msgstr "ADD Helper"
+
+msgid "AIGLX Fragment Parameter Fix"
+msgstr "Исправление пареметра AIGLX Fragment"
+
+msgid "Above others windows"
+msgstr "Над другими окнами"
+
+msgid "Activate next window which has the \"demands attention\" flag set."
+msgstr ""
+"Активировать следующее окно с установленным флагом \"требует внимания\"."
+
+msgid "Airplane"
+msgstr "Самолёт"
+
+msgid "Airplane Flying Path Length"
+msgstr "Продолжительность полёта самолёта"
+
+msgid ""
+"All effects are chosen randomly, ignoring the selected effect. If None is "
+"selected for an event, that event won't be animated."
+msgstr ""
+"Все эффекты выбираются произвольно, игнорируя выбранный эффект. Если ничего "
+"не выбрано для события, это событие не будет анимировано."
+
+msgid "All windows"
+msgstr "Все окна"
+
+msgid "Allow Wrap-Around"
+msgstr "Разрешить циклический переход"
+
+msgid "Always fit to window on focus track"
+msgstr "Всегда вмещать в окно при слежении за фокусом"
+
+msgid ""
+"Always keep the zoomed area in sync with where the mouse is, and vice versa. "
+"Use this if you don't intend to draw a scaled pointer or hide the original "
+"pointer. The zoomed area will move as you move your mouse."
+msgstr ""
+"Всегда держать увеличенную область в синхронизации с положением мыши, и "
+"наоборот. Используйте это, если вы не намереваетесь отрисовывать увеличенный "
+"указатель или скрывать первоначальный указатель. Увеличенная область будет "
+"двигаться одновременно с перемещением мыши."
+
+msgid "Ambient light"
+msgstr "Рассеянный свет"
+
+msgid "Angle of window at the end of the animation."
+msgstr "Угол окна по окончании анимации."
+
+msgid "Animation Selection"
+msgstr "Выбор анимации"
+
+msgid "Animation Time Step"
+msgstr "Скорость анимации"
+
+msgid "Animation Time Step For Intense Effects"
+msgstr "Скорость анимации для сложных эффектов"
+
+msgid "Animation duration in milliseconds for close effect."
+msgstr "Длительность анимации в миллисекундах для эффекта закрытия."
+
+msgid "Animation duration in milliseconds for focus effect."
+msgstr "Длительность анимации в миллисекундах для эффекта фокусировки."
+
+msgid "Animation duration in milliseconds for minimize effect."
+msgstr "Длительность анимации в миллисекундах для эффекта свёртывания."
+
+msgid "Animation duration in milliseconds for open effect."
+msgstr "Длительность анимации в миллисекундах для эффекта открытия."
+
+msgid "Animation duration in milliseconds for shade effect."
+msgstr ""
+"Длительность анимации в миллисекундах для эффекта \"свернуть в заголовок\"."
+
+msgid "Animation used when switching to expo mode"
+msgstr "Анимация используемая при переключении в экспо режим"
+
+msgid "Animations"
+msgstr "Анимации"
+
+msgid "Animations Add-On"
+msgstr "Дополнительные анимации"
+
+msgid "Arrow Colors"
+msgstr "Цвета стрелок"
+
+msgid "Aspect ratio of the deformed cube"
+msgstr "Соотношение сторон деформированного куба"
+
+msgid ""
+"Attempt to keep the zoomed mouse visible by warping it when it is moved "
+"outside the zoom area."
+msgstr ""
+"Пытаться держать увеличенный указатель видимым, переворотом его когда мышь "
+"за пределами области приближения."
+
+msgid "Auto zoom only on Mouse Rotate"
+msgstr "Автоматическе масштабирование только при вращении мышью"
+
+msgid "Automatic"
+msgstr "Автоматически"
+
+msgid "Autoscale threshold"
+msgstr "Порог автомасштабирования"
+
+msgid "Away Angle"
+msgstr "Угол отклонения"
+
+msgid "Away Position"
+msgstr "Позиция отклонения"
+
+msgid "Background Brightness"
+msgstr "Яркость фона"
+
+msgid "Background File"
+msgstr "Файл фона"
+
+msgid "Background Gradient"
+msgstr "Градиент фона"
+
+msgid "Background Saturation"
+msgstr "Насыщенность фона"
+
+msgid "Background brightness."
+msgstr "Яркость фона."
+
+msgid "Background color of the window title"
+msgstr "Фон заголовка окна"
+
+msgid "Background fill type."
+msgstr "Тип заливки фона"
+
+msgid "Background saturation."
+msgstr "Насыщенность фона."
+
+msgid "Background/Window brightness."
+msgstr "Яркость фона/окна."
+
+msgid "Background/Window saturation."
+msgstr "Насыщенность фона/окна."
+
+msgid "Backgrounds"
+msgstr "Фоны"
+
+msgid "Base Color"
+msgstr "Базовый цвет"
+
+msgid "Beam"
+msgstr "Луч"
+
+msgid "Beam Color"
+msgstr "Цвет луча"
+
+msgid "Beam Life"
+msgstr "Время жизни луча"
+
+msgid "Beam Slowdown"
+msgstr "Время угасания луча"
+
+msgid "Beam Spacing"
+msgstr "Разброс луча"
+
+msgid "Beam Up"
+msgstr "Высота луча"
+
+msgid "Beam Width"
+msgstr "Ширина луча"
+
+msgid "Beam color."
+msgstr "Цвет луча."
+
+msgid "Beam life."
+msgstr "Время жизни луча."
+
+msgid "Beam slowdown."
+msgstr "Замедление луча."
+
+msgid "Beam width."
+msgstr "Ширина луча."
+
+msgid "Below others windows"
+msgstr "Под другими окнами"
+
+msgid "Benchmark"
+msgstr "Оценка производительности"
+
+msgid "Bevel Bottom Left"
+msgstr "Скос нижнего левого"
+
+msgid "Bevel Bottom Right"
+msgstr "Скос нижнего правого"
+
+msgid "Bevel Corners"
+msgstr "Скос углов"
+
+msgid "Bevel Top Left"
+msgstr "Скос верхнего левого"
+
+msgid "Bevel Top Right"
+msgstr "Скос верхнего правого"
+
+msgid "Bevel bottom left corner"
+msgstr "Скос нижнего левого угла"
+
+msgid "Bevel bottom right corner"
+msgstr "Скос нижнего правого угла"
+
+msgid "Bevel top left corner"
+msgstr "Скос верхнего левого угла"
+
+msgid "Bevel top right corner"
+msgstr "Скос верхнего правого угла"
+
+msgid "Bicubic texture filtering"
+msgstr "Бикубическая фильтрация текстур"
+
+msgid "Bindings"
+msgstr "Сочетания клавиш"
+
+msgid "Bold Font"
+msgstr "Жирный шрифт"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Brightness of faded windows"
+msgstr "Яркость затемненных окон"
+
+msgid ""
+"Brightness of the currently focused window. Windows will get brightness "
+"levels between the focused and minimum."
+msgstr ""
+"Яркость окна, находящегося в фокусе. Значения яркости для окон будут "
+"выбираться между яркостью окна в фокусе и минимальной яркостью."
+
+msgid ""
+"Brightness of the least focused window. Windows will get brightness levels "
+"between the focused and minimum."
+msgstr ""
+"Минимальная допустимая яркость. Значения яркости для окон будут выбираться "
+"между яркостью окна в фокусе и минимальной яркостью."
+
+msgid "Burn"
+msgstr "Горение"
+
+msgid "Button binding for drag &amp; drop of windows"
+msgstr "Сочетание клавиш для перетаскивания окон"
+
+msgid "Button binding to exit expo"
+msgstr "Сочетание клавиш для выхода из экспо режима"
+
+msgid "Button binding to switch to next viewport in expo"
+msgstr ""
+"Сочетание клавиш для перехода на следующее рабочее место в экспо режиме"
+
+msgid "Center Tiled"
+msgstr "По центру черепицей"
+
+msgid "Centered"
+msgstr "По центру"
+
+msgid ""
+"Change the amount of space between the windows (in percent of the cube size)."
+msgstr "Изменить расстояние между окнами (в процентах от размера куба)."
+
+msgid "Clear (button)"
+msgstr "Очистить (кнопка)"
+
+msgid "Close Animation"
+msgstr "Анимация закрытия"
+
+msgid "Close Effect"
+msgstr "Эффект закрытия"
+
+msgid "Close Window"
+msgstr "Закрыть окно"
+
+msgid ""
+"Closeness of window to camera at the end of the animation (1.0: Close to "
+"camera, -2.0: Away from camera)."
+msgstr ""
+"Приближенность окна к камере в конце анимации (1.0: близко к камере, -2.0: "
+"далеко от камеры)."
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color 1"
+msgstr "Цвет 1"
+
+msgid "Color 2"
+msgstr "Цвет 2"
+
+msgid "Color of an inactive window's depth"
+msgstr "Цвет кромки неактивного окна"
+
+msgid "Color of ground in the cube."
+msgstr "Цвет основания в кубе."
+
+msgid "Color of the active window's depth"
+msgstr "Цвет кромки активного окна"
+
+msgid "Color of the ground (far)."
+msgstr "Цвет основания (далеко)."
+
+msgid "Color of the ground (near)."
+msgstr "Цвет основания (близко)."
+
+msgid "Color of water in the cube."
+msgstr "Цвет воды в кубе."
+
+msgid ""
+"Comma separated list of option value assignments to override effect "
+"settings, e.g.: fire_color=#0080ffff, fire_particles=700, fire_smoke=1"
+msgstr ""
+"Разделенный запятыми список значений, предназначенных для переопределения "
+"настроек эффекта, например: fire_color=#0080ffff, fire_particles=700, "
+"fire_smoke=1"
+
+msgid "Console Output"
+msgstr "Вывод в консоль"
+
+msgid "Console output update time"
+msgstr "Период обновления вывода в консоль"
+
+msgid "Create mipmaps for thumbnails"
+msgstr "Создавать mip-карты для экизов"
+
+msgid "Create mipmaps for thumbnails in the tab bar"
+msgstr "Создавать mip-карты для эскизов на панели переключения"
+
+msgid "Cube Reflection and Deformation"
+msgstr "Отражение и деформация куба"
+
+msgid "Curve"
+msgstr "Кривая"
+
+msgid "Curve strength"
+msgstr "Величина кривизны"
+
+msgid "Curved Fold"
+msgstr "Изогнутое свертывание"
+
+msgid "Curved Fold Amplitude Multiplier"
+msgstr "Множитель амплитуды изогнутого свёртывания"
+
+msgid "Cylinder"
+msgstr "Циллиндр"
+
+msgid "Deformation mode."
+msgstr "Режим деформации."
+
+msgid "Deformation of the expo wall"
+msgstr "Деформация стены экспо"
+
+msgid "Desktop Wall"
+msgstr "Стена рабочего стола"
+
+msgid "Desktop Wall Plugin"
+msgstr "Модуль \"Стена рабочего стола\""
+
+msgid "Disable Compiz integrated FPS limiter"
+msgstr "Отключить встроенное в Compiz ограничение частоты кадров"
+
+msgid "Disable limiter"
+msgstr "Отключить ограничитель"
+
+msgid "Display FPS on screen"
+msgstr "Отображать FPS на экране"
+
+msgid "Display Time"
+msgstr "Время показа"
+
+msgid "Distance"
+msgstr "Расстояние"
+
+msgid "Distance between viewports"
+msgstr "Расстояние между рабочими местами"
+
+msgid "Distance of the expo wall"
+msgstr "Расстояние до стены экспо"
+
+msgid "Dodge"
+msgstr "Эффект трансфокатора"
+
+msgid "Dodge Gap Ratio"
+msgstr "Коэффициент цифрового трансфокатора"
+
+msgid "Domino"
+msgstr "Эффект домино"
+
+msgid "Domino Piece Falling Direction"
+msgstr "Направление падения домино"
+
+msgid "Double click time"
+msgstr "Время двойного щелчка"
+
+msgid "Down"
+msgstr "Вниз"
+
+msgid "Drag&amp;drop"
+msgstr "Перетаскивание"
+
+msgid "Draw the desktop wallpaper"
+msgstr "Отрисовывать фон рабочего стола"
+
+msgid "Dream"
+msgstr "Эффект мечта"
+
+msgid "Duration"
+msgstr "Продолжительность"
+
+msgid "Duration of the zoomout animation"
+msgstr "Длительность анимации уменьшения"
+
+msgid "Edge Flip DnD"
+msgstr "Перелистывание при перетаскивании к краю"
+
+msgid "Edge Flip Move"
+msgstr "Перелистывание при перемещении к краю"
+
+msgid "Edge Flip Pointer"
+msgstr "Перелистывание при курсоре на краю"
+
+msgid "Edge Flipping"
+msgstr "Перелистывание у края"
+
+msgid "Edge Radius"
+msgstr "Радиус края"
+
+msgid "Edge flipping"
+msgstr "Перелистывание у края"
+
+msgid "Edges"
+msgstr "Края"
+
+msgid "Effect Settings"
+msgstr "Параметры эффекта"
+
+msgid "Elevates windows while rotating the cube"
+msgstr "Поднимает окна при вращении куба"
+
+msgid "Enable ADD Helper on start"
+msgstr "Включить ADD Helper при входе в систему"
+
+msgid "Enable focus tracking"
+msgstr "Включить слежение за фокусом"
+
+msgid "Enable this to get a gradually larger mouse pointer as you zoom in"
+msgstr ""
+"Включите это, чтобы иметь указатель увеличенным в соответствии с "
+"масштабированием"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Enables ADD helper when it is first loaded."
+msgstr "Включает ADD helper при первой загрузке."
+
+msgid "End Widget Mode on Click"
+msgstr "Выйти из режима виджетов при щелчке"
+
+msgid "End widget mode when a non-widget window is clicked."
+msgstr "Выйти из режима виджетов при щелчке на окне не-виджете."
+
+msgid "Engage wall expo mode button binding"
+msgstr "Кнопка для вызова стены экспо режима"
+
+msgid "Engage wall expo mode edge binding"
+msgstr "Назначение края для вызова стены экспо режима"
+
+msgid "Engage wall expo mode key binding"
+msgstr "Сочетание клавиш для вызова стены экспо режима"
+
+msgid "Enhanced Zoom Desktop"
+msgstr "Увеличитель, следующий за мышью"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error Notifications"
+msgstr "Сообщения об ошибках"
+
+msgid "Exit expo"
+msgstr "Выход из экспо"
+
+msgid "Explode"
+msgstr "Эффект взрыв"
+
+msgid "Expo"
+msgstr "Экспо"
+
+msgid "Expo Animation"
+msgstr "Анимация экспо"
+
+msgid "Expo Plugin"
+msgstr "Модуль экспо"
+
+msgid "Expo button"
+msgstr "Кнопка экспо"
+
+msgid "Expo edge"
+msgstr "Край экспо"
+
+msgid "Expo key"
+msgstr "Клавиша экспо"
+
+msgid "Expo mode aspect ratio"
+msgstr "Соотношение сторон экспо режима"
+
+msgid "Extra window animations and animation engines"
+msgstr "Дополнительные анимации окон и движки анимации"
+
+msgid "Fade"
+msgstr "Скорость угасания"
+
+msgid "Fade In/Out Time"
+msgstr "Время постепенного усиления/затухания"
+
+msgid "Fade In/Out Time."
+msgstr "Время постепенного усиления/затухания."
+
+msgid "Falling direction for Domino pieces."
+msgstr "Направление падения элементов домино."
+
+msgid "Fill or first gradient color."
+msgstr "Цвет заполнения или первый цвет градиента"
+
+msgid "Fill type"
+msgstr "Тип заполнения"
+
+msgid "Fire Particle Color"
+msgstr "Цвет частиц огня"
+
+msgid "Fire Particle Life"
+msgstr "Время жизни частиц огня"
+
+msgid "Fire Particle Size"
+msgstr "Размер частиц огня"
+
+msgid "Fire Particle Slowdown"
+msgstr "Замедление частиц огня"
+
+msgid "Fire Smoke"
+msgstr "Дым от огня"
+
+msgid "Fire constant speed"
+msgstr "Скорость горения"
+
+msgid "Fire direction"
+msgstr "Направление огня"
+
+msgid "Fire direction."
+msgstr "Направление огня."
+
+msgid "Fire particle color."
+msgstr "Цвет частиц огня."
+
+msgid "Fire particle life."
+msgstr "Время жизни частиц огня."
+
+msgid "Fire particle size."
+msgstr "Размер частиц огня."
+
+msgid "Fire particle slowdown."
+msgstr "Замедление частиц огня."
+
+msgid "Fire smoke."
+msgstr "Дым от огня."
+
+msgid "Firefox Menu Fix"
+msgstr "Исправление меню Firefox"
+
+msgid "First color for the background gradient of the switcher window."
+msgstr "Первый цвет фона градиента переключателя окон"
+
+msgid "First color for the thumb gradient of the switcher window."
+msgstr "Первый цвет пальца градиента переключателя окон"
+
+msgid "First color for the thumb highlight gradient of the switcher window."
+msgstr "Первый цвет пальца контрастного градиента переключателя окон"
+
+msgid "First color of the arrow of the switcher window."
+msgstr "Пнрвый цвет стрелки переключателя окон"
+
+msgid "Fish in different groups, but of the same type, swim together."
+msgstr "Рыбы в различных группах, но одного типа, плавают вместе."
+
+msgid "Fix broken glProgramEnvParameter4f implementation."
+msgstr "Исправить неправильную реализацию glProgramEnvParameter4f."
+
+msgid "Fix for broken GLX_MESA_copy_sub_buffer on XGL in fglrx."
+msgstr "Исправить неправильный GLX_MESA_copy_sub_buffer на XGL в fglrx."
+
+msgid "Fix screen updates in XGL with fglrx."
+msgstr "Исправить обновления окна в XGL с fglrx."
+
+msgid "Fix window type of Firefox and Thunderbird menus."
+msgstr "Исправить типы окон для меню Firefox и Thunderbird."
+
+msgid "Fix window type of OpenOffice.org menus."
+msgstr "Исправить типы для меню OpenOffice.org."
+
+msgid "Fix window type of notification daemon windows."
+msgstr "Исправить типы окон для демонов уведомлений."
+
+msgid "Fix window type of various Java windows."
+msgstr "Исправить типы окон для различных Java окон."
+
+msgid "Fix window type of various Qt windows."
+msgstr "Исправить типы окон для различных Qt окон."
+
+msgid "Fixed Size Windows"
+msgstr "Окна фиксированного размера"
+
+msgid "Fixed window interior during the Rollup animation."
+msgstr "Фиксированное содержимое окна во время анимации свёртывания."
+
+msgid "Flip Down"
+msgstr "Перелистывание вниз"
+
+msgid "Flip Left"
+msgstr "Перелистывание влево"
+
+msgid "Flip Right"
+msgstr "Перелистывание вправо"
+
+msgid "Flip Up"
+msgstr "Перелистывание вверх"
+
+msgid "Flip down"
+msgstr "Перелистывание вниз"
+
+msgid "Flip left"
+msgstr "Перелистывание влево"
+
+msgid "Flip right"
+msgstr "Перелистывание вправо"
+
+msgid "Flip up"
+msgstr "Перелистывание вверх"
+
+msgid "Flip viewport when dragging an object to a screen edge"
+msgstr ""
+"Перелистывание на следующее рабочее место при перетаскивании объекта к краю "
+"экрана"
+
+msgid "Flip viewport when moving a window to a screen edge"
+msgstr ""
+"Перелистывание на следующее рабочее место при перемещении окна к краю экрана"
+
+msgid "Flip viewport when moving the pointer to a screen edge"
+msgstr ""
+"Перелистывание на следующее рабочее место при смещении курсора к краю экрана"
+
+msgid "Fly to TaskBar on Minimize"
+msgstr "Полёт к панели задач при свёртывании"
+
+msgid "Focus Animation"
+msgstr "Анимация фокусировки"
+
+msgid "Focus Effect"
+msgstr "Эффект фокусировки"
+
+msgid "Focus Tracking"
+msgstr "Слежение за фокусом"
+
+msgid "Fold"
+msgstr "Свёртывание"
+
+msgid "Fold Direction"
+msgstr "Направление свёртывания"
+
+msgid ""
+"Fold amplitude (size) is multiplied by this number. Negative values fold "
+"outward."
+msgstr ""
+"Коэффициент амплитуды изгиба (число). Отрицательные значения направляют "
+"изгиб наружу."
+
+msgid "Fold opening direction for pieces in Razr effect."
+msgstr "Начальное направление свёртывания для частиц из эффекта Бритва."
+
+msgid "Force synchronization between X and GLX"
+msgstr "Усилить синхронизацию между X и GLX"
+
+msgid ""
+"Force synchronization between X and GLX, which may help for window parts not "
+"redrawing correctly when using Nvidia drivers, but also may decrease "
+"performance."
+msgstr ""
+"Усилить синхронизацию между X и GLX, которая может помочь частям окон "
+"корректно не перерисовывать при использовании драйверов Nvidia, но также "
+"может снизить эффективность."
+
+msgid "Frequency of small water waves on the bigger ones."
+msgstr "Частота маленьких водных волн на больших."
+
+msgid "Frequency of water waves."
+msgstr "Частота водных волн."
+
+msgid "Fullscreen"
+msgstr "Во весь экран"
+
+msgid "Fullscreen windows"
+msgstr "Полноэкранные окна"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Generate Mipmaps"
+msgstr "Генерировать Mip-карты"
+
+msgid "Generate mipmaps"
+msgstr "Генерировать Mip-карты"
+
+msgid "Generate mipmaps in expo mode"
+msgstr "Генерировать mip-карты в экспо режиме"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"По возможности генерировать mip-карты для увеличения  качества "
+"масштабирования изображения"
+
+msgid "Generate mipmaps when possible for higher quality scaling."
+msgstr ""
+"По возможности генерировать mip-карты для увеличения  качества "
+"масштабирования изображения."
+
+msgid "Glass"
+msgstr "Стекло"
+
+msgid "Glide 1"
+msgstr "Эффект скольжения 1"
+
+msgid "Glide 2"
+msgstr "Эффект скольжения 2"
+
+msgid "Glide 3"
+msgstr "Эффект скольжения 3"
+
+msgid "Ground color"
+msgstr "Цвет дна"
+
+msgid "Have random colors for the fire effect, also known as Mystical Fire."
+msgstr ""
+"Применять случайные цвета для эффекта пламени, также известного как "
+"Мистический Огонь."
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Height of water surface in the cube."
+msgstr "Высота уровня воды в кубе."
+
+msgid "Hexagonal"
+msgstr "Шестиугольник"
+
+msgid "Hide panels/docks in expo"
+msgstr "Скрыть панели в экспо"
+
+msgid "Hide panels/docks in expo."
+msgstr "Скрыть панели в экспо режиме."
+
+msgid "Horizontal Folds"
+msgstr "Горизонтальное свёртывание"
+
+msgid "Horizontal Folds Amplitude Multiplier"
+msgstr "Множитель амплитуды горизонтального свёртывания"
+
+msgid "Horizontal gradient"
+msgstr "Горизонтальный градиент"
+
+msgid "How should a multimonitor configuration be handled"
+msgstr "Как должно обрабатываться многоэкранное поведение"
+
+msgid "How spring-like the Sidekick animation should be."
+msgstr "Насколько скачкообразной должна быть анимация Sidekick."
+
+msgid "How spring-like the Zoom animation should be."
+msgstr "Насколько скачкообразной должна быть аниимация Zoom."
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image file."
+msgstr "Файл изображения."
+
+msgid "Image position."
+msgstr "Расположение изображения"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "In"
+msgstr "Увеличить"
+
+msgid "In-out"
+msgstr "Масштабирование"
+
+msgid "Inactive viewport brightness."
+msgstr "Яркость неактивного рабочего места."
+
+msgid "Inactive viewport saturation."
+msgstr "Насыщенность неактивного рабочего места."
+
+msgid "Initiate"
+msgstr "Вызов"
+
+msgid "Initiate Splash"
+msgstr "Активировать Splash"
+
+msgid "Initiate fire drawing"
+msgstr "Инициализировать рисование огнем"
+
+msgid ""
+"Initiates the 3D display only if rotate is mouse driven. (Ex. You rotate the "
+"cube via the mouse)"
+msgstr ""
+"Активирует 3D-дисплей только при вращении мышкой. (Например: Вы вращаете куб "
+"мышкой)"
+
+msgid "Intensity"
+msgstr "Интенсивность"
+
+msgid "Intensity."
+msgstr "Интенсивность."
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "JPEG image format plugin"
+msgstr "Модуль формата изображения JPEG"
+
+msgid "Java Window Fix"
+msgstr "Исправление окон Java"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "Left to Right"
+msgstr "слева направо"
+
+msgid "Left-right"
+msgstr "Влево-Вправо"
+
+msgid "Legacy Fullscreen Support"
+msgstr "Старая поддержка полноэкранного режима"
+
+msgid "Length of airplane's flying path."
+msgstr "Длина пути полёта самолёта."
+
+msgid "Light inclination"
+msgstr "Отклонение света"
+
+msgid "Lighting"
+msgstr "Освещение"
+
+msgid ""
+"List of PNG and SVG files that should be rendered on bottom face of cube"
+msgstr ""
+"Список PNG и SVG файлов, которые следует отобразить на нижней грани куба"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Список PNG и SVG файлов, которые следует отобразить на верхней грани куба"
+
+msgid "Login"
+msgstr "Вход в систему"
+
+msgid "Login/Logout"
+msgstr "Вход/Выход из системы"
+
+msgid "Login/Logout effect"
+msgstr "Эффект при Входе/Выходе из системы"
+
+msgid "Logo File"
+msgstr "Файл логотипа"
+
+msgid "Logo image File."
+msgstr "Файл логотипа"
+
+msgid "Logout"
+msgstr "Выход из системы"
+
+msgid "Low detail models"
+msgstr "Низкодетальные модели"
+
+msgid "Magic Lamp"
+msgstr "Магическая лампа"
+
+msgid "Magic Lamp Grid Y Resolution"
+msgstr "Разрешение оси Y Магической лампы"
+
+msgid "Magic Lamp Max Wave Amplitude"
+msgstr "Максимальная амплитуда волн Магической лампы"
+
+msgid "Magic Lamp Max Waves"
+msgstr "Максимум волн лампы"
+
+msgid "Magic Lamp Min Wave Amplitude"
+msgstr "Минимальная амплитуда волн Магической лампы"
+
+msgid "Magic Lamp Open Start Width"
+msgstr "Начальная ширина Магическая лампа при открытии"
+
+msgid "Magic Lamp Open/Close Moving End"
+msgstr "Крайняя точка движения Магической лампы при открытии/закрытии"
+
+msgid "Magnifier"
+msgstr "Лупа"
+
+msgid "Magnifier box"
+msgstr "Лупа, следующая за мышью"
+
+msgid "Maintain bottom aspect ratio"
+msgstr "Поддерживать нижнее соотношение сторон"
+
+msgid "Maintain bottom cap image aspect ratio."
+msgstr "Поддерживать соотношение сторон нижней грани."
+
+msgid "Maintain top aspect ratio"
+msgstr "Поддерживать верхнее соотношение сторон"
+
+msgid "Maintain top cap image aspect ratio."
+msgstr "Поддерживать соотношение сторон верхней грани."
+
+msgid "Make \"on all desktops\" windows \"sticky\""
+msgstr "Сделать окна \"на всех рабочих столах\" \"прикрепленными\""
+
+msgid ""
+"Make \"on all desktops\" windows sticky. Sticky windows are visible on all "
+"viewports."
+msgstr ""
+"Сделать окна \"на всех рабочих столах\" прикрепленными. Прикрепленные окна "
+"видимы на всех рабочих местах."
+
+msgid "Make fire effect duration be dependent on window height."
+msgstr "Длительность эффекта горения зависит от высоты окна."
+
+msgid ""
+"Make it slightly easier to concentrate by dimming all but the active window."
+msgstr "Помогает сконцентрироваться, притемнив всё, кроме активного окна."
+
+msgid "Matches"
+msgstr "Совпадения"
+
+msgid "Maximum number of active particles"
+msgstr "Максимальное число активных частиц"
+
+msgid "Metacity-like workarounds."
+msgstr "Исправления в Metacity."
+
+msgid "Minimize Animation"
+msgstr "Анимация свертывания"
+
+msgid "Minimize Effect"
+msgstr "Эффект свертывания"
+
+msgid "Minimize/Unminimize Only"
+msgstr "Только Свертывание/Развертывание"
+
+msgid "Minimum Cube Size"
+msgstr "Минимальный размер куба"
+
+msgid "Minimum cube size (in percent)."
+msgstr "Минимальный размер куба (в процентах)."
+
+msgid "Mipmap"
+msgstr "Mip-карта"
+
+msgid "Mipmaps"
+msgstr "Mip-карты"
+
+msgid "Misc"
+msgstr "Разное"
+
+msgid "Misc. Options"
+msgstr "Различные настройки"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Mode."
+msgstr "Режим."
+
+msgid "Move Down"
+msgstr "Переместить вниз"
+
+msgid "Move Left"
+msgstr "Переместить влево"
+
+msgid "Move Next"
+msgstr "Переместить вперед"
+
+msgid "Move Prev"
+msgstr "Переместить назад"
+
+msgid "Move Right"
+msgstr "Переместить вправо"
+
+msgid "Move Up"
+msgstr "Переместить вверх"
+
+msgid "Move down"
+msgstr "Переместить вниз"
+
+msgid "Move to the left"
+msgstr "Переместить влево"
+
+msgid "Move to the next viewport"
+msgstr "Переместить на следущее рабочее место"
+
+msgid "Move to the previous viewport"
+msgstr "Переместить на предыдущее рабочее место"
+
+msgid "Move to the right"
+msgstr "Переместить вправо"
+
+msgid "Move up"
+msgstr "Переместить вверх"
+
+msgid "Move window to a certain viewport"
+msgstr "Переместить окно на определенное рабочее место"
+
+msgid "Move window to the last position"
+msgstr "Переместить окно на последнее место"
+
+msgid "Move window to the next output device"
+msgstr "Переместить окно на следующее устройство вывода"
+
+msgid "Move window to the pointer position"
+msgstr "Переместить окно на позицию указателя"
+
+msgid "Move window to the viewport on the left"
+msgstr "Переместить окно на одно рабочее место слева"
+
+msgid "Move window to the viewport on the right"
+msgstr "Переместить окно на одно рабочее место справа"
+
+msgid "Move window to viewport 1"
+msgstr "Переместить окно на рабочее место 1"
+
+msgid "Move window to viewport 10"
+msgstr "Переместить окно на рабочее место 10"
+
+msgid "Move window to viewport 11"
+msgstr "Переместить окно на рабочее место 11"
+
+msgid "Move window to viewport 12"
+msgstr "Переместить окно на рабочее место 12"
+
+msgid "Move window to viewport 2"
+msgstr "Переместить окно на рабочее место 2"
+
+msgid "Move window to viewport 3"
+msgstr "Переместить окно на рабочее место 3"
+
+msgid "Move window to viewport 4"
+msgstr "Переместить окно на рабочее место 4"
+
+msgid "Move window to viewport 5"
+msgstr "Переместить окно на рабочее место 5"
+
+msgid "Move window to viewport 6"
+msgstr "Переместить окно на рабочее место 6"
+
+msgid "Move window to viewport 7"
+msgstr "Переместить окно на рабочее место 7"
+
+msgid "Move window to viewport 8"
+msgstr "Переместить окно на рабочее место 8"
+
+msgid "Move window to viewport 9"
+msgstr "Переместить окно на рабочее место 9"
+
+msgid "Movement direction(s) for window pieces."
+msgstr "Направлениe(я) движения для частей окна."
+
+msgid "Multiply the speed of the fish by this factor."
+msgstr "Умножать скорость рыбы этим фактором."
+
+msgid "Next Panel"
+msgstr "Следующая панель"
+
+msgid "Next bottom image"
+msgstr "Следующее нижнее изображение"
+
+msgid "Next top image"
+msgstr "Следующее верхнее изображение"
+
+msgid "Next viewport"
+msgstr "Следующее рабочее место"
+
+msgid "No ARGB visuals"
+msgstr "Нет поддержки ARGB visuals"
+
+msgid "No focus"
+msgstr "Без фокуса"
+
+msgid "None"
+msgstr "Отсутствует"
+
+msgid "Notification Daemon Fix"
+msgstr "Исправление демонов уведомлений"
+
+msgid "Number"
+msgstr "Число"
+
+msgid "Number Of Fire Particles"
+msgstr "Количество частиц огня"
+
+msgid "Number Of Particles"
+msgstr "Число частиц"
+
+msgid "Number of Horizontal Folds"
+msgstr "Количество горизонтальных складок"
+
+msgid "Number of fire particles."
+msgstr "Количество частиц огня."
+
+msgid "Number of particles"
+msgstr "Число частиц"
+
+msgid "Number of particles."
+msgstr "Число частиц."
+
+msgid "Number of rotations for Sidekick (plus or minus 10% for randomness)."
+msgstr ""
+"Количество вращений для эффекта Sidekick (плюс-минус 10% для случайности)."
+
+msgid ""
+"Number of windows Trailfocus will keep track of. Windows that had focus this "
+"amount of windows ago or more will be considered completly unfocused."
+msgstr ""
+"Количество окон за которым следит модуль \"Затение окон\". Окна, которые "
+"были в фокусе это количество окон назад будут считаться полностью не в "
+"фокусе."
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid "On"
+msgstr "Вкл"
+
+msgid "On open/close, move magic lamp ending point with the mouse pointer."
+msgstr ""
+"При открытии/закрытии перемещать крайнюю точку Магической лампы к указателю "
+"мыши."
+
+msgid "On open/close, move vacuum ending point with the mouse pointer."
+msgstr ""
+"При открытии/закрытии перемещать крайнюю точку Эфекта Вакуум к указателю "
+"мыши."
+
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+msgid "Opacity of faded windows"
+msgstr "Степень непрозрачности затемненных окон"
+
+msgid "Open Animation"
+msgstr "Анимация открытия"
+
+msgid "Open Effect"
+msgstr "Эффект открытия"
+
+msgid "Open/Close Only"
+msgstr "Только открытие/закрытие"
+
+msgid "OpenOffice.org Menu Fix"
+msgstr "Исправление меню OpenOffice.org"
+
+msgid "Options"
+msgstr "Функции"
+
+msgid "Original Window Position"
+msgstr "Оригинальная позиция окна"
+
+msgid "Out"
+msgstr "Уменьшить"
+
+msgid "Outline color of the switcher window."
+msgstr "цвет контура переключателя окон"
+
+msgid "Paint fire on the screen"
+msgstr "Рисовать огнем на экране"
+
+msgid "Paint fire or other particles on the screen"
+msgstr "Рисовать огнем или другими частицами на экране"
+
+msgid "Particle Color"
+msgstr "Цвет частицы"
+
+msgid "Particle Life"
+msgstr "Время жизни частицы"
+
+msgid "Particle Options"
+msgstr "Опции частицы"
+
+msgid "Particle Size"
+msgstr "Размер частицы"
+
+msgid "Particle color."
+msgstr "Цвет частицы."
+
+msgid "Particle life."
+msgstr "Время жизни частицы."
+
+msgid "Particle size."
+msgstr "Размер частицы."
+
+msgid "Pool"
+msgstr "Список"
+
+msgid ""
+"Pool of effects to be chosen from if Random effect is selected. Click reset "
+"to use all effects."
+msgstr ""
+"Список эффектов из которых осуществляется выбор, если выбран Случайный "
+"Эффект. Нажмите Сбросить, чтобы использовать все эффекты."
+
+msgid "Position"
+msgstr "Расположение"
+
+msgid "Preserve light direction when rotating the cube."
+msgstr "Сохранять направление света при вращении куба."
+
+msgid "Prev Panel"
+msgstr "Предыдущая позиция окна"
+
+msgid "Prev bottom image"
+msgstr "Предыдущее нижнее изображение"
+
+msgid "Prev top image"
+msgstr "Предыдущее верхнее изображение"
+
+msgid "Preview Scale"
+msgstr "Масштаб предварительного просмотра"
+
+msgid "Previous viewport"
+msgstr "Предыдущее рабочее место"
+
+msgid "Print FPS to console"
+msgstr "Вывести FPS на консоль"
+
+msgid "Provides less commonly used WM actions"
+msgstr "Предоставляет более редко используемые действия WM"
+
+msgid "Put Bottom Left"
+msgstr "Поместить снизу слева"
+
+msgid "Put Bottom Right"
+msgstr "Поместить снизу справа"
+
+msgid "Put On Viewport"
+msgstr "Поместить на рабочее место"
+
+msgid "Put On Viewport 1"
+msgstr "Поместить на рабочее место 1"
+
+msgid "Put On Viewport 10"
+msgstr "Поместить на рабочее место 10"
+
+msgid "Put On Viewport 11"
+msgstr "Поместить на рабочее место 11"
+
+msgid "Put On Viewport 12"
+msgstr "Поместить на рабочее место 12"
+
+msgid "Put On Viewport 2"
+msgstr "Поместить на рабочее место 2"
+
+msgid "Put On Viewport 3"
+msgstr "Поместить на рабочее место 3"
+
+msgid "Put On Viewport 4"
+msgstr "Поместить на рабочее место 4"
+
+msgid "Put On Viewport 5"
+msgstr "Поместить на рабочее место 5"
+
+msgid "Put On Viewport 6"
+msgstr "Поместить на рабочее место 6"
+
+msgid "Put On Viewport 7"
+msgstr "Поместить на рабочее место 7"
+
+msgid "Put On Viewport 8"
+msgstr "Поместить на рабочее место 8"
+
+msgid "Put On Viewport 9"
+msgstr "Поместить на рабочее место 9"
+
+msgid "Put Top Left"
+msgstr "Поместить сверху слева"
+
+msgid "Put Top Right"
+msgstr "Поместить сверху справа"
+
+msgid "Put within viewport"
+msgstr "Вращение до рабочего места"
+
+msgid "Qt Window Fix"
+msgstr "Исправление окон Qt"
+
+msgid "Random"
+msgstr "Случайный"
+
+msgid "Random Animations For All Events"
+msgstr "Случайная анимация для всех событий"
+
+msgid "Random Effects"
+msgstr "Случайные эффекты"
+
+msgid "Randomly Colored Fire"
+msgstr "Случайные цвета Пламени"
+
+msgid "Randomly Colored Particles"
+msgstr "Случайно раскрашенные частицы"
+
+msgid "Razr"
+msgstr "Эффект Бритва"
+
+msgid "Render ground"
+msgstr "Показывать дно"
+
+msgid "Render ground inside the cube."
+msgstr "Показывать дно внутри куба."
+
+msgid "Render some sea animals inside of the transparent cube"
+msgstr "Показывать некоторых морских животных внутри прозрачного куба"
+
+msgid "Render water"
+msgstr "Показывать воду"
+
+msgid "Render water inside the cube."
+msgstr "Показывать воду внутри куба."
+
+msgid "Render water waves inside the cube."
+msgstr "Показывать водные волны внутри куба."
+
+msgid "Render waves"
+msgstr "Показывать волны"
+
+msgid "Reset the window to original size"
+msgstr "Сброс окна к оригинальному размеру"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Roll Up"
+msgstr "Скручивание вверх"
+
+msgid "Rotate lighting"
+msgstr "Вращать освещение"
+
+msgid "Rotation Angle"
+msgstr "Угол поворота"
+
+msgid "Rotation angle of animated window pieces (in degrees)."
+msgstr "Угол поворота анимированных кусков окон (в градусах)."
+
+msgid "Rotation speed"
+msgstr "Скорость вращения"
+
+msgid "Rotation speed."
+msgstr "Скорость вращения."
+
+msgid "Roundoff corners for consistency with rounded decorations"
+msgstr "Скруглять углы для соответствия округлому оформлению"
+
+msgid "Row Alignment"
+msgstr "Выравнивание строк"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Saturation of faded windows"
+msgstr "Насыщенность затемненных окон"
+
+msgid "Scale and Crop"
+msgstr "Масштабировать"
+
+msgid "Scale factor of the expo wall reflection"
+msgstr "Коэффициент масштабирования отражения стены экспо"
+
+msgid "Scaled"
+msgstr "Растянуть"
+
+msgid "Screen edges"
+msgstr "Края экрана"
+
+msgid "Second color for the background gradient of the switcher window."
+msgstr "Второй цвет для фона градиента переключателя окон"
+
+msgid "Second color for the thumb gradient of the switcher window."
+msgstr "Второй цвет для пальца градиента переключателя окон"
+
+msgid "Second color of the arrow of the switcher window."
+msgstr "Второй цвет стрелки переключателя окон."
+
+msgid "Second gradient color."
+msgstr "Второй цвет градиента"
+
+msgid ""
+"Selects how the expo wall is displayed if multiple output devices are used."
+msgstr ""
+"Укажите как будет отображаться стена экспо, если используется несколько "
+"устройств вывода."
+
+msgid ""
+"Selects if windows movements in expo mode should be immediate - this among "
+"other things disables wobbliness"
+msgstr ""
+"Укажите должны ли перемещения окон в режиме экспо быть мгновенными - это "
+"также отключит вязкость окон"
+
+msgid "Set windows rules"
+msgstr "Установить правила окон"
+
+msgid "Shade Animation"
+msgstr "Анимация \"свернуть в заголовок\""
+
+msgid "Shade Effect"
+msgstr "Эффект \"свернуть в заголовок\""
+
+msgid "Show Live Viewport Previews"
+msgstr "Показать живое окно просмотра"
+
+msgid "Show a reflection of the viewports on the ground"
+msgstr "Показывать отражение рабочего места внизу экрана"
+
+msgid "Show live viewport previews in switcher window"
+msgstr "Показать живые просмотры окон в окне переключателя"
+
+msgid "Show mouse"
+msgstr "Показывать мышь"
+
+msgid "Show switcher window while switching viewports"
+msgstr "Показать онко переключателя пока переключается окно"
+
+msgid "Show widget windows on a separate layer"
+msgstr "Показывать окна виджетов на отдельном слое"
+
+msgid "Show window title of currently selected window."
+msgstr "Отображение заголовка текущего окна."
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size of the preview in %"
+msgstr "Размер вида в %"
+
+msgid "Size rules"
+msgstr "Правила размеров"
+
+msgid "Skewer"
+msgstr "Вертел"
+
+msgid "Skewer Direction"
+msgstr "Направление вертела"
+
+msgid "Skip pager"
+msgstr "Пропуск переключателя рабочих столов"
+
+msgid "Skip taskbar"
+msgstr "Пропуск панели задач"
+
+msgid "Small wave amplitude"
+msgstr "Амплитуда маленьких волн"
+
+msgid "Small wave frequency"
+msgstr "Частота маленьких волн"
+
+msgid "Snow"
+msgstr "Снег"
+
+msgid "Snow Direction"
+msgstr "Направление снега"
+
+msgid "Snow Over Windows"
+msgstr "Снег поверх окон"
+
+msgid "Snow Speed"
+msgstr "Скорость снега"
+
+msgid "Snow Textures"
+msgstr "Текстуры снега"
+
+msgid "Snow Toggle"
+msgstr "Переключить снег"
+
+msgid "Snow for Compiz"
+msgstr "Снег для Compiz"
+
+msgid "Snow textures"
+msgstr "Текстуры снега"
+
+msgid "Snow toggle key"
+msgstr "Клавиша переключения снега"
+
+msgid "Solid fill"
+msgstr "Сплошной цвет"
+
+msgid "Spacing between beams."
+msgstr "Расстояние между лучами."
+
+msgid "Speed factor"
+msgstr "Фактор скорости"
+
+msgid "Speed of falling snow"
+msgstr "Скорость падения снега"
+
+msgid "Sphere"
+msgstr "Сфера"
+
+msgid "Start benchmark"
+msgstr "Запустить тест производительности"
+
+msgid "Start crabs on bottom"
+msgstr "Запустить крабов на дне"
+
+msgid "Start crabs on the bottom of the cube."
+msgstr "Запустить крабов на дне куба."
+
+msgid ""
+"Starting width of open effect and ending width of close effect for Magic "
+"Lamp."
+msgstr ""
+"Начальная ширина эффекта открытия и конечная ширина эффекта закрытия для "
+"Магической Лампы."
+
+msgid ""
+"Starting width of open effect and ending width of close effect for Vacuum."
+msgstr ""
+"Начальная ширина эффекта открытия и конечная ширина эффекта закрытия для "
+"Вакуума."
+
+msgid "Sticky"
+msgstr "Прикрепленный"
+
+msgid "Sticky windows"
+msgstr "Прикрепленные окна"
+
+msgid "Strength of the deformation in curve mode"
+msgstr "Сила дефомаций в режиме кривой"
+
+msgid "Switch Target Preview Visibility Time"
+msgstr "Переключить Цель Предпросмота Видимости Времени"
+
+msgid "Switch to Viewport 1"
+msgstr "Переключиться на рабочее место 1"
+
+msgid "Switch to Viewport 10"
+msgstr "Переключиться на рабочее место 10"
+
+msgid "Switch to Viewport 11"
+msgstr "Переключиться на рабочее место 11"
+
+msgid "Switch to Viewport 12"
+msgstr "Переключиться на рабочее место 12"
+
+msgid "Switch to Viewport 2"
+msgstr "Переключиться на рабочее место 2"
+
+msgid "Switch to Viewport 3"
+msgstr "Переключиться на рабочее место 3"
+
+msgid "Switch to Viewport 4"
+msgstr "Переключиться на рабочее место 4"
+
+msgid "Switch to Viewport 5"
+msgstr "Переключиться на рабочее место 5"
+
+msgid "Switch to Viewport 6"
+msgstr "Переключиться на рабочее место 6"
+
+msgid "Switch to Viewport 7"
+msgstr "Переключиться на рабочее место 7"
+
+msgid "Switch to Viewport 8"
+msgstr "Переключиться на рабочее место 8"
+
+msgid "Switch to Viewport 9"
+msgstr "Переключиться на рабочее место 9"
+
+msgid "Switch to viewport 1"
+msgstr "Переключиться на рабочее место 1"
+
+msgid "Switch to viewport 10"
+msgstr "Переключиться на рабочее место 10"
+
+msgid "Switch to viewport 11"
+msgstr "Переключиться на рабочее место 11"
+
+msgid "Switch to viewport 12"
+msgstr "Переключиться на рабочее место 12"
+
+msgid "Switch to viewport 2"
+msgstr "Переключиться на рабочее место 2"
+
+msgid "Switch to viewport 3"
+msgstr "Переключиться на рабочее место 3"
+
+msgid "Switch to viewport 4"
+msgstr "Переключиться на рабочее место 4"
+
+msgid "Switch to viewport 5"
+msgstr "Переключиться на рабочее место 5"
+
+msgid "Switch to viewport 6"
+msgstr "Переключиться на рабочее место 6"
+
+msgid "Switch to viewport 7"
+msgstr "Переключиться на рабочее место 7"
+
+msgid "Switch to viewport 8"
+msgstr "Переключиться на рабочее место 8"
+
+msgid "Switch to viewport 9"
+msgstr "Переключиться на рабочее место 9"
+
+msgid "Taskbar"
+msgstr "Список задач"
+
+msgid "Tessellation Type"
+msgstr "Тип разбиения"
+
+msgid "Tessellation type for exploding window pieces."
+msgstr "Тип разбиения для взрывающихся частиц окна."
+
+msgid "Tessellation type for window pieces."
+msgstr "Тип разбиения для частей окна."
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text Placement"
+msgstr "Замена текста"
+
+msgid ""
+"The amount of time in milliseconds between each render of the intense "
+"animation (Ex. Burn, Beam). The higher the number, the jerkier the movements "
+"become."
+msgstr ""
+"Количество миллисекунд между каждой перерисовкой интенсивной анимации (такой "
+"как Огонь, Луч). Чем больше чило, тем плавнее будут движения."
+
+msgid ""
+"The animated window will be split into pieces along a grid. Specify the "
+"number of grid cells along the height of the window."
+msgstr ""
+"Анимируемое окно будет разбито на части сеткой. Укажите количество ячеек в "
+"высоту окна."
+
+msgid ""
+"The animated window will be split into pieces along a grid. Specify the "
+"number of grid cells along the width of the window."
+msgstr ""
+"Анимируемое окно будет разбито на части сеткой. Укажите количество ячеек в "
+"ширину окна."
+
+msgid "The animation effect shown when closing a window."
+msgstr "Эффект анимации, показываемый при закрытии окна."
+
+msgid "The animation effect shown when creating a window."
+msgstr "Эффект анимации, показываемый при создании окна."
+
+msgid "The animation effect shown when focusing a window."
+msgstr "Эффект анимации, показываемый при фокусировании окна."
+
+msgid "The animation effect shown when minimizing a window."
+msgstr "Эффект анимации, показываемый при минимизации окна."
+
+msgid "The color of the sea creature."
+msgstr "Цвет морских созданий."
+
+msgid "The color of the sea plant."
+msgstr "Цвет морских растений."
+
+msgid ""
+"The exploding window will be split into pieces along a grid. Specify the "
+"number of grid cells along the height of the window."
+msgstr ""
+"Взрываемое окно будет разбито на части сеткой. Укажите количество ячеек в "
+"высоту окна."
+
+msgid ""
+"The exploding window will be split into pieces along a grid. Specify the "
+"number of grid cells along the width of the window."
+msgstr ""
+"Взрываемое окно будет разбито на части сеткой. Укажите количество ячеек в "
+"ширину окна."
+
+msgid ""
+"The exploding window will be split into pieces along concentric circles. "
+"Specify the number of concentric circles the shatter tessellation will have."
+msgstr ""
+"Взрываемое окно будет разбито на части по концентрическим окружностям. "
+"Укажите количество концентрических окружностей на которые будет разбито окно."
+
+msgid ""
+"The exploding window with the shatter animation will be split into pieces "
+"radially from the center. Specify the number of radial spokes the animation "
+"will have."
+msgstr ""
+"Взрываемое окно при анимации разрушения будет разбито на части радиально от "
+"центра. Укажите количество радиальных частиц при анимации."
+
+msgid "The maximum amplitude (size of the waves) Magic Lamp will have."
+msgstr "Максимальная амплитуда (размер волн) которая будет у Магической лампы."
+
+msgid "The maximum number of waves for Magic Lamp."
+msgstr "Максимальное число волн для Магической лампы."
+
+msgid "The minimum amplitude (size of the waves) Magic Lamp will have."
+msgstr "Минимальная амплитуда (размер волн) которая будет у Магической лампы."
+
+msgid "The number of the sea creature."
+msgstr "Количество морских созданий."
+
+msgid "The number of the sea plants."
+msgstr "Количество морских растений."
+
+msgid "The size of the sea creature."
+msgstr "Размер морских созданий."
+
+msgid "The size of the sea plant."
+msgstr "Размер морских растений."
+
+msgid "The windows that will be animated."
+msgstr "Окна, которым будут анимированны."
+
+msgid "Thickness"
+msgstr "Толщина"
+
+msgid "Thickness of Animated Polygons"
+msgstr "Толщина анимированных полигонов"
+
+msgid "Thickness of Exploding Polygons"
+msgstr "Толщина взрывающихся полигонов"
+
+msgid "Thickness of animated window pieces (in pixels)."
+msgstr "Толщина анимированных частей окна (в пикселях)."
+
+msgid "Thickness of exploding window pieces (in pixels)."
+msgstr "Толщина взрывающихся частей окна (в пикселях)."
+
+msgid "Third color for the background gradient of the switcher window."
+msgstr "Третий цвет для фона градиента окна переключателя."
+
+msgid ""
+"This defines when Trailfocus will start fading windows. This lets you set up "
+"trailfocus to treat the N first Windows as fully focused."
+msgstr ""
+"Эта опция указывает когда модуль \"Затение окон\" начнет затенять окна. Это "
+"позволяет воспринимать первые N окон как полностью сфокусированные."
+
+msgid "Tiled"
+msgstr "Черепицей"
+
+msgid "Time (in s) for fading into/out of the widget layer."
+msgstr "Время (в сек.) для перехода на слой виджетов."
+
+msgid "Toggle AddHelper"
+msgstr "Переключение AddHelper"
+
+msgid "Toggle Sticky"
+msgstr "Переключить прилипаемость"
+
+msgid "Toggle always on top for the active window"
+msgstr "Переключение \"Поверх всех окон\" для активного окна"
+
+msgid "Toggle the mouse pointer trail."
+msgstr "Переключить след указателя мыши."
+
+msgid "Toggle window stickyness"
+msgstr "Переключение прилипаемости окна"
+
+msgid "Trailfocus"
+msgstr "Затенение окон"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type of sea creature."
+msgstr "Тип морских созданий."
+
+msgid "Type of sea plant."
+msgstr "Тип морских растений."
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Update time"
+msgstr "Время обновления"
+
+msgid "Use a bold font"
+msgstr "Использовать жирный шрифт"
+
+msgid "Use less detailed models for increased performance."
+msgstr ""
+"Использовать менее детализированные модели для увеличения производительности."
+
+msgid "Use this to enable/disable AddHelper on the fly."
+msgstr ""
+"Использовать это сочетание клавиш для включения/отключения AddHelper на лету."
+
+msgid "Vacuum"
+msgstr "Вакуум"
+
+msgid "Vertical gradient"
+msgstr "Вертикальный градиент"
+
+msgid "Viewport Switcher"
+msgstr "Переключатель рабочих мест"
+
+msgid "Viewport distance"
+msgstr "Расстояние рабочих мест"
+
+msgid "Viscosity of liquid"
+msgstr "Вязкость жидкости"
+
+msgid "Vortex"
+msgstr "Вихрь"
+
+msgid "Wallpaper"
+msgstr "Обои рабочего стола"
+
+msgid "Water / Ground"
+msgstr "Вода / Дно"
+
+msgid "Water color"
+msgstr "Цвет воды"
+
+msgid "Water surface height"
+msgstr "Высота уровня воды"
+
+msgid "Wave"
+msgstr "Волна"
+
+msgid "Wave Amplitude Multiplier"
+msgstr "Множитель высоты волны"
+
+msgid "Wave Width"
+msgstr "Ширина волны"
+
+msgid "Wave amplitude"
+msgstr "Амплитуда волн"
+
+msgid "Wave frequency"
+msgstr "Частота волн"
+
+msgid "Waves"
+msgstr "Волны"
+
+msgid ""
+"Whether the window should fly to taskbar when minimized with Airplane effect."
+msgstr ""
+"Должно ли окно лететь к панели задач когда минимизировано с эффектом "
+"Самолёта."
+
+msgid "Widget Layer"
+msgstr "Слой виджетов"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Width of the border between the previews"
+msgstr "Ширина обрамления между видами"
+
+msgid "Width values"
+msgstr "Значения ширины"
+
+msgid "Window Color (Active)"
+msgstr "Цвет окна (активного)"
+
+msgid "Window Color (Inactive)"
+msgstr "Цвет окна (неактивного)"
+
+msgid "Window Depth"
+msgstr "Толщина окна"
+
+msgid "Window Grid Height"
+msgstr "Высота сетки окна"
+
+msgid "Window Grid Width"
+msgstr "Ширина сетки окна"
+
+msgid "Window Match"
+msgstr "Соответствие окна"
+
+msgid "Window Rules"
+msgstr "Правила поведения окна"
+
+msgid "Window Space"
+msgstr "Площадь окна"
+
+msgid "Window Types"
+msgstr "Типы окна"
+
+msgid "Window depth"
+msgstr "толщина окна"
+
+msgid "Window folding direction."
+msgstr "Направление сворачивания окна."
+
+msgid "Window manager command line. DO NOT ENTER COMPIZ HERE!!!"
+msgstr "Строка запуска диспетчера окон. НЕ нужно писать здесь COMPIZ!!!"
+
+msgid "Window stickyness"
+msgstr "Прилипаемость окна"
+
+msgid "Window that should animate with this effect when focused."
+msgstr "Окно, которое должно анимироваться этим эффектом при фокусировке."
+
+msgid ""
+"Window thickness in pixels. Setting this to larger than 0 will disable "
+"shadow, blur, and reflection during the animation."
+msgstr ""
+"Толщина окна в пикселах. Установка больше чем 0 отключит тень, размытость и "
+"отражение при анимации."
+
+msgid "Window title"
+msgstr "Заголовок окна"
+
+msgid "Window title display"
+msgstr "Показывать текст заголовка окна"
+
+msgid "Window types that should be Opacified."
+msgstr "Типы окна, которые должны быть непрозрачными."
+
+msgid "Window types that should be handled by Trailfocus"
+msgstr "Типы окон, которые должны обрабатываться модулем \"Затенение окон\""
+
+msgid "Windows on all desktops that should be made sticky"
+msgstr "Окна на всех рабочих столах должны быть прикреплены"
+
+msgid "Windows that should be handled by 3D"
+msgstr "Окна, которые должны восприниматься как 3D"
+
+msgid "Windows that should be resized by default"
+msgstr "Окна, с изменяемым размером по умолчанию"
+
+msgid "Windows that should be treated as not supporting transparency"
+msgstr "Окна, которые должны восприниматься как не поддерживающие прозрачность"
+
+msgid "Windows will not have focus"
+msgstr "Окна, не имеющие фокуса"
+
+msgid "Workarounds"
+msgstr "Исправления"
+
+msgid "X Position of benchmark window"
+msgstr "Позиция по X окна тестирования производительности"
+
+msgid "X position"
+msgstr "Позиция по горизонтали"
+
+msgid "Y Position of benchmark window"
+msgstr "Позиция по Y окна тестирования производительности"
+
+msgid "Y Sway Gravity"
+msgstr "Колебания притяжения по Y"
+
+msgid "Y position"
+msgstr "Позиция по вертикали"
+
+msgid "Zoom"
+msgstr "Масштаб"
+
+msgid "Zoom Springiness"
+msgstr "Упругость масштабирования"
+
+msgid "Zoom from Center"
+msgstr "Масштабировать от центра"
+
+msgid "sway of leaves"
+msgstr "колебания листьев"

@@ -1,0 +1,2321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: libexif-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2012-07-12 20:41+0200\n"
+"PO-Revision-Date: 2011-11-27 15:59+0000\n"
+"Last-Translator: Aleksey Kabanov <Unknown>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2012-06-25 06:52+0000\n"
+"X-Generator: Launchpad (build 15482)\n"
+
+msgid " (%.02f cd/m^2)"
+msgstr " (%.02f кд/м^2)"
+
+msgid " (%d sec.)"
+msgstr " (%d сек.)"
+
+msgid " (1/%d sec.)"
+msgstr " (1/%d сек.)"
+
+msgid " (35 equivalent: %d mm)"
+msgstr " (35мм эквивалент: %d мм)"
+
+msgid " sec."
+msgstr " сек."
+
+msgid "%.02f EV"
+msgstr "%.02f EV"
+
+msgid "%.2f EV"
+msgstr "%.2f EV"
+
+msgid "%.2f mm"
+msgstr "%.2f mm"
+
+msgid "%2.2f meters"
+msgstr "%2.2f метров"
+
+msgid "%2.2f mm"
+msgstr "%2.2f мм"
+
+msgid "%i (ms)"
+msgstr "%i (мс)"
+
+msgid "%i bytes undefined data"
+msgstr "%i байт неопределённых данных"
+
+msgid "%i bytes unknown data"
+msgstr "%i байтов неизвестных данных"
+
+msgid "%i bytes unknown data: "
+msgstr "%i байт неизвестных данных: "
+
+msgid "%i bytes unsupported data type"
+msgstr "%i байт не поддерживаемых типов данных"
+
+msgid "%u mm"
+msgstr "%u мм"
+
+msgid "(Editor)"
+msgstr "(Редактор)"
+
+msgid "(Photographer)"
+msgstr "(Фотограф)"
+
+msgid "-"
+msgstr "-"
+
+msgid "1/%i"
+msgstr "1/%i"
+
+msgid "10 frames/sec"
+msgstr "10 кадров/с."
+
+msgid "100"
+msgstr "100"
+
+msgid "15 frames/sec"
+msgstr "15 кадров/с."
+
+msgid "2 sec."
+msgstr "2 с."
+
+msgid "20 frames/sec"
+msgstr "20 кадров/с."
+
+msgid "200"
+msgstr "200"
+
+msgid "2304x1728 or 2592x1944"
+msgstr "2304x1728 или 2592x1944"
+
+msgid "2560x1920 or 2304x1728"
+msgstr "2560x1920 или 2304x1728"
+
+msgid "2816x2212 or 2816x2112"
+msgstr "2816x2212 или 2816x2112"
+
+msgid "2nd-curtain sync used"
+msgstr "Синхронизация по второй шторке"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "400"
+msgstr "400"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "5 frames/sec"
+msgstr "5 кадров/с."
+
+msgid "50"
+msgstr "50"
+
+msgid "800"
+msgstr "800"
+
+msgid "?"
+msgstr "?"
+
+msgid ""
+"A character string giving the title of the image. It may be a comment such "
+"as \"1988 company picnic\" or the like. Two-bytes character codes cannot be "
+"used. When a 2-bytes code is necessary, the Exif Private tag <UserComment> "
+"is to be used."
+msgstr ""
+"Текстовая строка, в которой даётся название изображению. Это может быть "
+"комментарий вроде \"Корпоративная тусовка 1988\" или что-то наподобие. "
+"Двухбайтовая кодировка cимволов не может быть использована. Если она всё же "
+"необходима, должен быть использован частный тэг EXIF <UserComment>."
+
+msgid "A general indication of the kind of data contained in this subfile."
+msgstr "Общее изображение типа данных в этом подфайле"
+
+msgid ""
+"A tag for manufacturers of Exif writers to record any desired information. "
+"The contents are up to the manufacturer."
+msgstr ""
+"Тэг для разработчиков средства записи тэгов EXIF, в который можно записывать "
+"всё, что им хочется. Содержимое зависит от разработчиков."
+
+msgid "A tag used to record fractions of seconds for the <DateTime> tag."
+msgstr "Тэг, используемый для записи долей секунды из тэга <DateTime>."
+
+msgid ""
+"A tag used to record fractions of seconds for the <DateTimeDigitized> tag."
+msgstr ""
+"Тэг, используемый для записи долей секунды из тэга <DateTimeDigitized>."
+
+msgid ""
+"A tag used to record fractions of seconds for the <DateTimeOriginal> tag."
+msgstr "Тэг, используемый для записи долей секунды из тэга <DateTimeOriginal>."
+
+msgid ""
+"A transfer function for the image, described in tabular style. Normally this "
+"tag is not necessary, since color space is specified in the color space "
+"information tag (<ColorSpace>)."
+msgstr ""
+"Функция передачи для изображения, описанная в виде таблицы. Обычно этот тэг "
+"не является необходимым, поскольку цветовое пространство уже указано в тэге "
+"<ColorSpace>."
+
+msgid "A-DEP"
+msgstr "A-DEP"
+
+msgid "A-TTL"
+msgstr "A-TTL"
+
+msgid "AE Bracket Value"
+msgstr "Значение брэкетинга AE"
+
+msgid "AE Bracketing"
+msgstr "Брэкетинг AE"
+
+msgid "AE Setting"
+msgstr "Настройка AE"
+
+msgid "AF Point"
+msgstr "Точка автофокусировки"
+
+msgid "AF Point Selected"
+msgstr "Выбранная точка AF point"
+
+msgid "AI focus AF"
+msgstr "\"Интелектуальный\" автофокус (AI focus AF)"
+
+msgid "AI servo AF"
+msgstr "Автофокусировка с сервоприводом (AI servo AF)"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "AVI+THM"
+msgstr "AVI+THM"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Adapter"
+msgstr "Адаптер"
+
+msgid ""
+"Add, correct and remove entries to get EXIF data that follows the "
+"specification."
+msgstr ""
+"Добавляйте, исправляйте, удаляйте записи для приведения в соответствие со "
+"спецификациями данных EXIF."
+
+msgid "Adobe RGB"
+msgstr "Adobe RGB"
+
+msgid "Altitude"
+msgstr "Высота"
+
+msgid "Aperture"
+msgstr "Диафрагма"
+
+msgid "Aperture Value"
+msgstr "Значение диафрагмы"
+
+msgid "Aperture priority"
+msgstr "Приоритет диафрагмы"
+
+msgid "Aquarium"
+msgstr "Аквариум"
+
+msgid "Artist"
+msgstr "Исполнитель"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Auto AF point selection"
+msgstr "Автоматический выбор точки автофокусировки"
+
+msgid "Auto bracket"
+msgstr "Автобрекетирование"
+
+msgid "Auto exposure"
+msgstr "Автоэкспозиция"
+
+msgid "Auto white balance"
+msgstr "Автомат. баланс белого"
+
+msgid "Auto-selected"
+msgstr "Выбранная автоматически"
+
+msgid "Automatic"
+msgstr "Автоматический"
+
+msgid "Autumn"
+msgstr "Осень"
+
+msgid "Av-priority"
+msgstr "Приоритет диафрагмы (Av)"
+
+msgid "Average"
+msgstr "Средний"
+
+msgid "B"
+msgstr "B"
+
+msgid "Battery Info"
+msgstr "Сведения о батарее"
+
+msgid "Battery Level"
+msgstr "Заряд батареи"
+
+msgid "Beach"
+msgstr "Пляж"
+
+msgid "Bits per Sample"
+msgstr "Битов на сэмпл"
+
+msgid "Black & white"
+msgstr "Черно-белый"
+
+msgid "Black Level"
+msgstr "Уровень чёрного"
+
+msgid "Blue Balance"
+msgstr "Баланс синего"
+
+msgid "Bottom to top"
+msgstr "Снизу вверх"
+
+msgid "Bracketing"
+msgstr "Брекетинг"
+
+msgid "Bright+"
+msgstr "Яркость+"
+
+msgid "Bright-"
+msgstr "Яркость-"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Brightness Value"
+msgstr "Значение яркости"
+
+msgid "Byte"
+msgstr "Байт"
+
+msgid "Byte at position %i: 0x%02x"
+msgstr "Байт в позиции %i: 0x%02x"
+
+msgid "CCD Scan Mode"
+msgstr "Режим сканирования CCD"
+
+msgid "CCD Sensitivity"
+msgstr "Чувствительность CCD"
+
+msgid "CCS ISO Sensitivity"
+msgstr "Чувствительность CCS ISO"
+
+msgid "CFA Pattern"
+msgstr "Паттерн CFA"
+
+msgid "CR2"
+msgstr "CR2"
+
+msgid "CR2+JPEG"
+msgstr "CR2+JPEG"
+
+msgid "CRW+THM"
+msgstr "CRW+THM"
+
+msgid "Camera ID"
+msgstr "ID камеры"
+
+msgid "Camera Info"
+msgstr "Сведения о камере"
+
+msgid "Camera Type"
+msgstr "Тип камеры"
+
+msgid "Canon EF 100-300mm F5.6L"
+msgstr "Canon EF 100-300mm F5.6L"
+
+msgid "Canon EF 100-400mm f/4.5-5.6L IS"
+msgstr "Canon EF 100-400mm f/4.5-5.6L IS"
+
+msgid "Canon EF 100-400mm f/4.5-5.6L IS + x1.4"
+msgstr "Canon EF 100-400mm f/4.5-5.6L IS + x1.4"
+
+msgid "Canon EF 100-400mm f/4.5-5.6L IS + x2"
+msgstr "Canon EF 100-400mm f/4.5-5.6L IS + x2"
+
+msgid "Canon EF 100mm f/2"
+msgstr "Canon EF 100mm f/2"
+
+msgid "Canon EF 100mm f/2.8 Macro"
+msgstr "Canon EF 100mm f/2.8 Macro"
+
+msgid "Canon EF 135mm f/2L"
+msgstr "Canon EF 135mm f/2L"
+
+msgid "Canon EF 15mm f/2.8"
+msgstr "Canon EF 15mm f/2.8"
+
+msgid "Canon EF 16-35mm f/2.8L"
+msgstr "Canon EF 16-35mm f/2.8L"
+
+msgid "Canon EF 17-40mm f/4L"
+msgstr "Canon EF 17-40mm f/4L"
+
+msgid "Canon EF 180mm Macro f/3.5L or Sigma 180mm EX HSM Macro f/3.5"
+msgstr "Canon EF 180mm Macro f/3.5L или Sigma 180mm EX HSM Macro f/3.5"
+
+msgid "Canon EF 20-35mm f/3.5-4.5 USM"
+msgstr "Canon EF 20-35mm f/3.5-4.5 USM"
+
+msgid "Canon EF 200mm f/1.8L"
+msgstr "Canon EF 200mm f/1.8L"
+
+msgid "Canon EF 200mm f/2.8L"
+msgstr "Canon EF 200mm f/2.8L"
+
+msgid "Canon EF 200mm f/2.8L II"
+msgstr "Canon EF 200mm f/2.8L II"
+
+msgid "Canon EF 24-105mm f/4L IS"
+msgstr "Canon EF 24-105mm f/4L IS"
+
+msgid "Canon EF 24-70mm f/2.8L"
+msgstr "Canon EF 24-70mm f/2.8L"
+
+msgid "Canon EF 24-85mm f/3.5-4.5 USM"
+msgstr "Canon EF 24-85mm f/3.5-4.5 USM"
+
+msgid "Canon EF 24mm f/2.8 or Sigma 15mm f/2.8 EX Fisheye"
+msgstr "Canon EF 24mm f/2.8 или Sigma 15mm f/2.8 EX Fisheye"
+
+msgid "Canon EF 28-105mm f/3.5-4.5 USM"
+msgstr "Canon EF 28-105mm f/3.5-4.5 USM"
+
+msgid "Canon EF 28-105mm f/4-5.6"
+msgstr "Canon EF 28-105mm f/4-5.6"
+
+msgid "Canon EF 28-135mm f/3.5-5.6 IS"
+msgstr "Canon EF 28-135mm f/3.5-5.6 IS"
+
+msgid "Canon EF 28-200mm f/3.5-5.6"
+msgstr "Canon EF 28-200mm f/3.5-5.6"
+
+msgid "Canon EF 28-70mm f/2.8L or Sigma 24-70mm EX f/2.8"
+msgstr "Canon EF 28-70mm f/2.8L or Sigma 24-70mm EX f/2.8"
+
+msgid "Canon EF 28-80 f/3.5-5.6 USM IV"
+msgstr "Canon EF 28-80 f/3.5-5.6 USM IV"
+
+msgid "Canon EF 28-80mm f/3.5-5.6"
+msgstr "Canon EF 28-80mm f/3.5-5.6"
+
+msgid "Canon EF 28mm f/1.8 USM"
+msgstr "Canon EF 28mm f/1.8 USM"
+
+msgid "Canon EF 28mm f/2.8"
+msgstr "Canon EF 28mm f/2.8"
+
+msgid "Canon EF 300mm f/2.8L"
+msgstr "Canon EF 300mm f/2.8L"
+
+msgid "Canon EF 300mm f/2.8L IS"
+msgstr "Canon EF 300mm f/2.8L IS"
+
+msgid "Canon EF 300mm f/4L IS"
+msgstr "Canon EF 300mm f/4L IS"
+
+msgid "Canon EF 35-350mm f/3.5-5.6L"
+msgstr "Canon EF 35-350mm f/3.5-5.6L"
+
+msgid "Canon EF 35mm f/1.4L"
+msgstr "Canon EF 35mm f/1.4L"
+
+msgid "Canon EF 35mm f/2"
+msgstr "Canon EF 35mm f/2"
+
+msgid "Canon EF 400mm f/2.8L"
+msgstr "Canon EF 400mm f/2.8L"
+
+msgid "Canon EF 400mm f/2.8L + x2"
+msgstr "Canon EF 400mm f/2.8L + x2"
+
+msgid "Canon EF 400mm f/4 DO IS"
+msgstr "Canon EF 400mm f/4 DO IS"
+
+msgid "Canon EF 500mm f/4.5L"
+msgstr "Canon EF 500mm f/4.5L"
+
+msgid "Canon EF 500mm f/4L IS"
+msgstr "Canon EF 500mm f/4L IS"
+
+msgid "Canon EF 50mm F1.2L USM"
+msgstr "Canon EF 50mm F1.2L USM"
+
+msgid "Canon EF 50mm f/1.0L"
+msgstr "Canon EF 50mm f/1.0L"
+
+msgid "Canon EF 50mm f/1.4"
+msgstr "Canon EF 50mm f/1.4"
+
+msgid "Canon EF 50mm f/1.8"
+msgstr "Canon EF 50mm f/1.8"
+
+msgid "Canon EF 50mm f/1.8 MkII"
+msgstr "Canon EF 50mm f/1.8 MkII"
+
+msgid "Canon EF 600mm f/4L IS"
+msgstr "Canon EF 600mm f/4L IS"
+
+msgid "Canon EF 70-200mm f/2.8 L"
+msgstr "Canon EF 70-200mm f/2.8 L"
+
+msgid "Canon EF 70-200mm f/2.8 L + x1.4"
+msgstr "Canon EF 70-200mm f/2.8 L + x1.4"
+
+msgid "Canon EF 70-200mm f/2.8 L + x2"
+msgstr "Canon EF 70-200mm f/2.8 L + x2"
+
+msgid "Canon EF 70-200mm f/2.8L IS USM"
+msgstr "Canon EF 70-200mm f/2.8L IS USM"
+
+msgid "Canon EF 70-200mm f/2.8L IS USM + x1.4"
+msgstr "Canon EF 70-200mm f/2.8L IS USM + x1.4"
+
+msgid "Canon EF 70-200mm f/2.8L IS USM + x2"
+msgstr "Canon EF 70-200mm f/2.8L IS USM + x2"
+
+msgid "Canon EF 70-200mm f/4L"
+msgstr "Canon EF 70-200mm f/4L"
+
+msgid "Canon EF 70-200mm f/4L IS USM"
+msgstr "Canon EF 70-200mm f/4L IS USM"
+
+msgid "Canon EF 70-300mm F4-5.6 IS USM"
+msgstr "Canon EF 70-300mm F4-5.6 IS USM"
+
+msgid "Canon EF 70-300mm f/4.5-5.6 DO IS USM"
+msgstr "Canon EF 70-300mm f/4.5-5.6 DO IS USM"
+
+msgid "Canon EF 75-300mm f/4-5.6"
+msgstr "Canon EF 75-300mm f/4-5.6"
+
+msgid "Canon EF 75-300mm f/4-5.6 IS"
+msgstr "Canon EF 75-300mm f/4-5.6 IS"
+
+msgid "Canon EF 80-200mm f/2.8L"
+msgstr "Canon EF 80-200mm f/2.8L"
+
+msgid "Canon EF 85mm f/1.2L"
+msgstr "Canon EF 85mm f/1.2L"
+
+msgid "Canon EF 85mm f/1.8 USM"
+msgstr "Canon EF 85mm f/1.8 USM"
+
+msgid "Canon EF 90-300mm f/4.5-5.6"
+msgstr "Canon EF 90-300mm f/4.5-5.6"
+
+msgid "Canon EF-S 17-85mm f4-5.6 IS USM"
+msgstr "Canon EF-S 17-85mm f4-5.6 IS USM"
+
+msgid "Canon EF-S 18-55mm f/3.5-4.5 USM"
+msgstr "Canon EF-S 18-55mm f/3.5-4.5 USM"
+
+msgid "Canon EF-S 18-55mm f/3.5-5.6"
+msgstr "Canon EF-S 18-55mm f/3.5-5.6"
+
+msgid "Canon EF-S10-22mm F3.5-4.5 USM"
+msgstr "Canon EF-S10-22mm F3.5-4.5 USM"
+
+msgid "Canon EF-S60mm F2.8 Macro USM"
+msgstr "Canon EF-S60mm F2.8 Macro USM"
+
+msgid "Canon MP-E 65mm f/2.8 1-5x Macro Photo"
+msgstr "Canon MP-E 65mm f/2.8 1-5x Macro Photo"
+
+msgid "Canon TS-E 24mm f/3.5L"
+msgstr "Canon TS-E 24mm f/3.5L"
+
+msgid "Canon TS-E 45mm f/2.8"
+msgstr "Canon TS-E 45mm f/2.8"
+
+msgid "Canon TS-E 90mm f/2.8"
+msgstr "Canon TS-E 90mm f/2.8"
+
+msgid "Capture Mode"
+msgstr "Режим захвата"
+
+msgid "Cb"
+msgstr "Cb"
+
+msgid "Center"
+msgstr "Центральная"
+
+msgid "Center-weighted average"
+msgstr "Центрально-взвешенный средний"
+
+msgid "Centimeter"
+msgstr "Сантиметр"
+
+msgid "Chunky format"
+msgstr "Формат фрагмента"
+
+msgid "Close view"
+msgstr "Крупный план"
+
+msgid "Cloudy"
+msgstr "Облачно"
+
+msgid "Cloudy weather"
+msgstr "Облачность"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color Control"
+msgstr "Управление цветами"
+
+msgid "Color Information"
+msgstr "Сведения о цвете"
+
+msgid "Color Space"
+msgstr "Цветовое пространство"
+
+msgid "Color Tone"
+msgstr "Оттенок"
+
+msgid "Color accent"
+msgstr "Акцентирование цвета"
+
+msgid "Color swap"
+msgstr "Замена цвета"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Components Configuration"
+msgstr "Настройка компонентов"
+
+msgid "Compressed Bits per Pixel"
+msgstr "Сжатых битов на пиксел"
+
+msgid "Compression"
+msgstr "Сжатие"
+
+msgid "Compression Ratio"
+msgstr "Степень сжатия"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "Contrast Curve"
+msgstr "Кривая контраста"
+
+msgid "Contrast Setting"
+msgstr "Настройка контраста"
+
+msgid "Contrast+"
+msgstr "Контраст+"
+
+msgid "Contrast-"
+msgstr "Контраст-"
+
+msgid "Converter"
+msgstr "Преобразователь"
+
+msgid "Copyright"
+msgstr "Авторские и смежные права"
+
+msgid "Corrupt data"
+msgstr "Повреждённые данные"
+
+msgid "Cosina 100mm f/3.5 Macro AF"
+msgstr "Cosina 100mm f/3.5 Macro AF"
+
+msgid "Cr"
+msgstr "Cr"
+
+msgid "Creative"
+msgstr "Творческая"
+
+msgid "Creative program (biased toward depth of field)"
+msgstr "Творческая программа (с приоритетом глубины резкости)"
+
+msgid "Creative program (biased toward fast shutter speed)"
+msgstr "Творческая программа (с приоритетом скорости затвора)"
+
+msgid "Custom"
+msgstr "Свой"
+
+msgid "Custom 1"
+msgstr "Профиль 1"
+
+msgid "Custom 2"
+msgstr "Профиль 2"
+
+msgid "Custom Functions"
+msgstr "Настраиваемые возможности"
+
+msgid "Custom process"
+msgstr "Настроить обработку"
+
+msgid "D55"
+msgstr "D55"
+
+msgid "D65"
+msgstr "D65"
+
+msgid "D75"
+msgstr "D75"
+
+msgid "DSC"
+msgstr "DSC"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date and Time"
+msgstr "Дата и время"
+
+msgid "Day white fluorescent"
+msgstr "Белая лампа дневного света"
+
+msgid "Daylight"
+msgstr "Дневной свет"
+
+msgid "Daylight fluorescent"
+msgstr "Флуоресцентная лампа дневного света"
+
+msgid "Debugging information"
+msgstr "Сведения об отладке"
+
+msgid "Debugging information is available."
+msgstr "Сведения об отладке доступны."
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Defined by Adobe Corporation to enable TIFF Trees within a TIFF file."
+msgstr "Определено Adobe Corporation для включения TIFF Trees в файлах TIFF."
+
+msgid "Deflate/ZIP compression"
+msgstr "Сжатие Deflate/ZIP"
+
+msgid "Digital Zoom"
+msgstr "Цифровой трансфокатор"
+
+msgid "Digital Zoom Ratio"
+msgstr "Коэффициент цифрового трансфокатора"
+
+msgid "Digital filter"
+msgstr "Цифровой фильтр"
+
+msgid "Digital macro"
+msgstr "Цифровой макрорежим"
+
+msgid "Direction of Movement"
+msgstr "Направление движения"
+
+msgid "Distant view"
+msgstr "Обзор с расстояния"
+
+msgid "Document Name"
+msgstr "Имя документа"
+
+msgid "Double"
+msgstr "Двоейное"
+
+msgid "Drive Mode"
+msgstr "Режим движения"
+
+msgid "Dynamic Range"
+msgstr "Динамический диапазон"
+
+msgid "E-TTL"
+msgstr "E-TTL"
+
+msgid "EXIF header not found."
+msgstr "Заголовок EXIF не найден"
+
+msgid "EXIF marker not found."
+msgstr "Маркер EXIF не найден"
+
+msgid "East or West Longitude"
+msgstr "Восточная или западная долгота"
+
+msgid "Economy"
+msgstr "Экономное"
+
+msgid "Evaluative"
+msgstr "Оценочный"
+
+msgid "Exif Version"
+msgstr "Версия EXIF"
+
+msgid "Exif Version %d.%d"
+msgstr "EXIF версии %d.%d"
+
+msgid "Exposure Bias"
+msgstr "Смещение экспозиции"
+
+msgid "Exposure Mode"
+msgstr "Режим экспозиции"
+
+msgid "Exposure Time"
+msgstr "Время экспозиции"
+
+msgid "Exposure compensation"
+msgstr "Компенсация экспозиции"
+
+msgid "Exposure time, given in seconds (sec)."
+msgstr "Время экспозиции в секундах"
+
+msgid "External"
+msgstr "Внешняя"
+
+msgid "External Flash Mode"
+msgstr "Режим внешней вспышки"
+
+msgid "External flash"
+msgstr "Внешняя вспышка"
+
+msgid "F-Number"
+msgstr "Число F"
+
+msgid "FNumber"
+msgstr "Число F"
+
+msgid "FP sync enabled"
+msgstr "FP синхронизация включена"
+
+msgid "FP sync used"
+msgstr "Использовать FP синхронизацию"
+
+msgid "File Source"
+msgstr "Источник файла"
+
+msgid "Fill Order"
+msgstr "Порядок заполнения"
+
+msgid "Fine"
+msgstr "Отличное"
+
+msgid "Fine weather"
+msgstr "Ясная погода"
+
+msgid "Fireworks"
+msgstr "Фейерверк"
+
+msgid "Firmware Version"
+msgstr "Версия микропрограммы"
+
+msgid "Flash"
+msgstr "Вспышка"
+
+msgid "Flash Activity"
+msgstr "Активность вспышки"
+
+msgid "Flash Details"
+msgstr "Подробности о вспышке"
+
+msgid "Flash Device"
+msgstr "Флэш-накопитель"
+
+msgid "Flash Info"
+msgstr "Сведения о вспышке"
+
+msgid "Flash Mode"
+msgstr "Режим вспышки"
+
+msgid "Flash Used"
+msgstr "Вспышка сработала"
+
+msgid "Flash did not fire"
+msgstr "Вспышка не сработала"
+
+msgid "Flash did not fire, auto mode"
+msgstr "Вспышка не сработала, автоматический режим"
+
+msgid "Flash did not fire, auto mode, red-eye reduction mode"
+msgstr ""
+"Вспышка не сработала, автоматический режим, режим снятия эффекта красных глаз"
+
+msgid "Flash did not fire, compulsory flash mode"
+msgstr "Вспышка не сработала, режим компенсации вспышки"
+
+msgid "Flash fired"
+msgstr "Вспышка сработала"
+
+msgid "Flash fired, auto mode"
+msgstr "Вспышка сработала, автоматический режим"
+
+msgid "Flash fired, auto mode, red-eye reduction mode"
+msgstr ""
+"Вспышка сработала, автоматический режим, режим снятия эффекта красных глаз"
+
+msgid "Flash fired, auto mode, return light detected"
+msgstr "Вспышка сработала, автоматический режим, возвратный свет найден"
+
+msgid "Flash fired, auto mode, return light not detected"
+msgstr "Вспышка сработала, автоматический режим, возвратный свет не найден"
+
+msgid "Flash fired, compulsory flash mode"
+msgstr "Вспышка сработала, режим компенсации вспышки"
+
+msgid "Flash is external"
+msgstr "Внешняя вспышка"
+
+msgid "Flash off"
+msgstr "Без вспышки"
+
+msgid "FlashPix Version 1.0"
+msgstr "FlashPix версии 1.0"
+
+msgid "FlashPix Version 1.01"
+msgstr "FlashPix версии 1.01"
+
+msgid "Float"
+msgstr "Число с плавающей точкой"
+
+msgid "Fluorescent"
+msgstr "Флуоресцентная лампа"
+
+msgid "Focal Length"
+msgstr "Фокусное расстояние"
+
+msgid "Focal Type"
+msgstr "Фокальный тип"
+
+msgid "Focus"
+msgstr "Фокус"
+
+msgid "Focus Mode"
+msgstr "Способ фокусировки"
+
+msgid "Focus Point"
+msgstr "Точка фокусировки"
+
+msgid "Focus Range"
+msgstr "Диапазон фокусировки"
+
+msgid "Focusing Mode"
+msgstr "Режим фокусировки"
+
+msgid "Foliage"
+msgstr "Листва"
+
+msgid "Follow specification"
+msgstr "Следовать спецификации"
+
+msgid "Food"
+msgstr "Пища"
+
+msgid "Full"
+msgstr "Полный"
+
+msgid "Full auto"
+msgstr "Полная автоматика"
+
+msgid "G"
+msgstr "G"
+
+msgid "GPS Date"
+msgstr "GPS дата"
+
+msgid "GPS Image Direction"
+msgstr "Направление снимка GPS"
+
+msgid "GPS Image Direction Reference"
+msgstr "Ссылка направления изображения GPS"
+
+msgid "GPS Measurement Mode"
+msgstr "Режим измерения GPS"
+
+msgid "GPS Receiver Status"
+msgstr "Состояние приёмника GPS"
+
+msgid "GPS Satellites"
+msgstr "Спутники GPS"
+
+msgid "GPS Tag Version"
+msgstr "Версия тега GPS"
+
+msgid "GPS Time (Atomic Clock)"
+msgstr "Время GPS (Атомные часы)"
+
+msgid "Geodetic Survey Data Used"
+msgstr "Используются данные геодезической службы"
+
+msgid "Grayscale"
+msgstr "Оттенки серого"
+
+msgid "Hard"
+msgstr "Жестко"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "High saturation"
+msgstr "Высокая насыщенность"
+
+msgid "Hue Adjustment"
+msgstr "Подстройка оттенка"
+
+msgid "ISO"
+msgstr "ISO"
+
+msgid "ISO 100"
+msgstr "ISO 100"
+
+msgid "ISO 160"
+msgstr "ISO 160"
+
+msgid "ISO 200"
+msgstr "ISO 200"
+
+msgid "ISO 320"
+msgstr "ISO 320"
+
+msgid "ISO 3200"
+msgstr "ISO 3200"
+
+msgid "ISO 400"
+msgstr "ISO 400"
+
+msgid "ISO 50"
+msgstr "ISO 50"
+
+msgid "ISO 80"
+msgstr "ISO 80"
+
+msgid "ISO Setting"
+msgstr "Настройка ISO"
+
+msgid "ISO Value"
+msgstr "Значение ISO"
+
+msgid "ISO studio tungsten"
+msgstr "Студийное вольфрамовое освещение ISO"
+
+msgid "Ignore unknown tags"
+msgstr "Игнорировать неизвестные тэги"
+
+msgid "Ignore unknown tags when loading EXIF data."
+msgstr "Игнорировать неизвестные тэги при загрузке данных EXIF"
+
+msgid "Illustrations"
+msgstr "Иллюстрации"
+
+msgid "Image Adjustment"
+msgstr "Подстройка изображения"
+
+msgid "Image Data Size"
+msgstr "Размер данных изображения"
+
+msgid "Image Description"
+msgstr "Описание снимка"
+
+msgid "Image Length"
+msgstr "Длина изображения"
+
+msgid "Image Number"
+msgstr "Номер изображения"
+
+msgid "Image Sharpening"
+msgstr "Резкость изображения"
+
+msgid "Image Size"
+msgstr "Размер изображения"
+
+msgid "Image Stabilization"
+msgstr "Стабилизация изображения"
+
+msgid "Image Type"
+msgstr "Тип изображения"
+
+msgid "Image Unique ID"
+msgstr "Уникальный ID изображения"
+
+msgid "Image Width"
+msgstr "Ширина изображения"
+
+msgid "Inch"
+msgstr "Дюйм"
+
+msgid ""
+"Indicates the GPS DOP (data degree of precision). An HDOP value is written "
+"during two-dimensional measurement, and PDOP during three-dimensional "
+"measurement."
+msgstr ""
+"Показывает GPS DOP (данные уровня точности). Значение HDOP записывается во "
+"время двухмерного измерения и PDOP во время трёхмерного измерения."
+
+msgid ""
+"Indicates the GPS measurement mode. '2' means two-dimensional measurement "
+"and '3' means three-dimensional measurement is in progress."
+msgstr ""
+"Показывает режим измерения GPS. '2' означает выполнение двухмерного "
+"измерения и '3' означает выполнение трёхмерного измерения."
+
+msgid ""
+"Indicates the GPS satellites used for measurements. This tag can be used to "
+"describe the number of satellites, their ID number, angle of elevation, "
+"azimuth, SNR and other information in ASCII notation. The format is not "
+"specified. If the GPS receiver is incapable of taking measurements, value of "
+"the tag shall be set to NULL."
+msgstr ""
+"Показывает спутники GPS используемые для измерений. Этот тег может "
+"использоваться для описания номеров спутников, их идентификационные номера, "
+"вертикальный угол, азимут, SNR и другие сведения в примечании ASCII. Формат "
+"не указан. Если приёмник GPS не может выполнять изменения, значение тега "
+"должно быть установлено - NULL."
+
+msgid ""
+"Indicates the altitude based on the reference in GPSAltitudeRef. Altitude is "
+"expressed as one RATIONAL value. The reference unit is meters."
+msgstr ""
+"Отображает высоту, основываясь на эталоне из тэга <GPSAltitudeRef>. Высота "
+"выражается RATIONAL значением. Эталонной единицей измерения является метр."
+
+msgid ""
+"Indicates the altitude used as the reference altitude. If the reference is "
+"sea level and the altitude is above sea level, 0 is given. If the altitude "
+"is below sea level, a value of 1 is given and the altitude is indicated as "
+"an absolute value in the GSPAltitude tag. The reference unit is meters. Note "
+"that this tag is BYTE type, unlike other reference tags."
+msgstr ""
+"Отображает высоту, используемую в качестве эталона. Если эталоном является "
+"уровень моря, а высота выше его, то указывается 0. Если высота ниже уровня "
+"моря, то указывается 1, а высота отображается как абсолютное значение в тэге "
+"<GSPAltitude>. Эталонной единицей измерения является метр. Помните, что этот "
+"тэг в отличие от других \"эталонных\" тэгов имеет тип BYTE."
+
+msgid ""
+"Indicates the direction of GPS receiver movement. The range of values is "
+"from 0.00 to 359.99."
+msgstr ""
+"Показывает направление движения перемещения приёмника GPS. Диапазон значений "
+"от 0.00 до 359.99."
+
+msgid ""
+"Indicates the direction of the image when it was captured. The range of "
+"values is from 0.00 to 359.99."
+msgstr ""
+"Отображает направление изображения, когда оно было записано. Диапазон "
+"значений от 0.00 до 359.99"
+
+msgid "Indicates the distance to the destination point."
+msgstr "Отображает расстояние до точки назначения."
+
+msgid ""
+"Indicates the geodetic survey data used by the GPS receiver. If the survey "
+"data is restricted to Japan, the value of this tag is 'TOKYO' or 'WGS-84'. "
+"If a GPS Info tag is recorded, it is strongly recommended that this tag be "
+"recorded."
+msgstr ""
+"Показывает данные геодезической службы, используемые приёмником GPS. Если "
+"служебные данные ограничены в Японии, значение этого тега - 'TOKYO' или "
+"'WGS-84'. Если тег сведений GPS записан, настоятельно рекомендуем вам "
+"записывать этот тег."
+
+msgid ""
+"Indicates the identification of the Interoperability rule. Use \"R98\" for "
+"stating ExifR98 Rules. Four bytes used including the termination code "
+"(NULL). see the separate volume of Recommended Exif Interoperability Rules "
+"(ExifR98) for other tags used for ExifR98."
+msgstr ""
+"Показывает идентификацию правил взаимодействия. Используйте \"R98\" для "
+"правил ExifR98. Используется четыре байтавключая код завершения (NULL). см. "
+"отдельный том Recommended Exif Interoperability Rules (ExifR98) для других "
+"тэгов используемых в ExifR98."
+
+msgid ""
+"Indicates the latitude. The latitude is expressed as three RATIONAL values "
+"giving the degrees, minutes, and seconds, respectively. When degrees, "
+"minutes and seconds are expressed, the format is dd/1,mm/1,ss/1. When "
+"degrees and minutes are used and, for example, fractions of minutes are "
+"given up to two decimal places, the format is dd/1,mmmm/100,0/1."
+msgstr ""
+"Отображает широту, выражаемую трёмя RATIONAL-значениями - градусами (dd), "
+"минутами (mm) и секундами (ss). При это формат таков: dd/1,mm/1,ss/1. Когда "
+"используются только градусы и минуты, формат таков: dd/1,mmmm/100,0/1."
+
+msgid ""
+"Indicates the location of the main subject in the scene. The value of this "
+"tag represents the pixel at the center of the main subject relative to the "
+"left edge, prior to rotation processing as per the <Rotation> tag. The first "
+"value indicates the X column number and the second indicates the Y row "
+"number."
+msgstr ""
+"Этот тэг отображает местоположение главного объекта съёмки в сцене. Значение "
+"этого тэга представляет пиксел в центре главного объекта относительно левого "
+"края, до обработки поворота согласно тэгу <Rotation>. Первое значение "
+"отображает номер столбца по X, а второй - номер строки по Y."
+
+msgid ""
+"Indicates the longitude. The longitude is expressed as three RATIONAL values "
+"giving the degrees, minutes, and seconds, respectively. When degrees, "
+"minutes and seconds are expressed, the format is ddd/1,mm/1,ss/1. When "
+"degrees and minutes are used and, for example, fractions of minutes are "
+"given up to two decimal places, the format is ddd/1,mmmm/100,0/1."
+msgstr ""
+"Отображает долготу, выражаемую трёмя RATIONAL-значениями - градусами (dd), "
+"минутами (mm) и секундами (ss). При это формат таков: ddd/1,mm/1,ss/1. Когда "
+"используются только градусы и минуты, формат таков: ddd/1,mmmm/100,0/1."
+
+msgid ""
+"Indicates the reference for giving the direction of GPS receiver movement. "
+"'T' denotes true direction and 'M' is magnetic direction."
+msgstr ""
+"Показывает ссылку направления движения при перемещении приёмника GPS. 'T' "
+"означает истинное направление и 'M' магнитное направление."
+
+msgid ""
+"Indicates the reference for giving the direction of the image when it is "
+"captured. 'T' denotes true direction and 'M' is magnetic direction."
+msgstr ""
+"Показывает ссылку заданного направления изображения при произведённой "
+"съёмке. 'T' означает истинное направление и 'M' магнитное направление."
+
+msgid "Indicates the speed of GPS receiver movement."
+msgstr "Скорость перемещения приёмника GPS"
+
+msgid ""
+"Indicates the status of the GPS receiver when the image is recorded. 'A' "
+"means measurement is in progress, and 'V' means the measurement is "
+"Interoperability."
+msgstr ""
+"Показывает состояние приёмника GPS при записи изображения. 'A' означает "
+"выполнение измерения и 'V' означает совместимость измерений."
+
+msgid ""
+"Indicates the type of scene. If a DSC recorded the image, this tag value "
+"must always be set to 1, indicating that the image was directly photographed."
+msgstr ""
+"Этот тэг отображает тип сцены. Если это снимок цифровой фотокамеры, то "
+"значение тэга всегда должно быть равно 1, что означает непосредственную "
+"съёмку."
+
+msgid ""
+"Indicates the unit used to express the GPS receiver speed of movement. 'K', "
+"'M' and 'N' represent kilometers per hour, miles per hour, and knots."
+msgstr ""
+"Показывает единицы измерения для отображения скорости перемещения приёмника "
+"GPS. 'K', 'M' и 'N' соответствуют километры в час, мили в час и узлы."
+
+msgid ""
+"Indicates the version of <GPSInfoIFD>. The version is given as 2.0.0.0. This "
+"tag is mandatory when <GPSInfo> tag is present. (Note: The <GPSVersionID> "
+"tag is given in bytes, unlike the <ExifVersion> tag. When the version is "
+"2.0.0.0, the tag value is 02000000.H)."
+msgstr ""
+"Показывает версию <GPSInfoIFD>. Вкачестве версии указывается 2.0.0.0. При  "
+"наличии тэга <GPSInfo> этот тэг обязателен. (Примечание: в отличие от тэга "
+"<ExifVersion> тэг <GPSVersionID> задаётся в байтах. Когда версия равна "
+"2.0.0.0, значение тэга равно 02000000.H)."
+
+msgid ""
+"Indicates whether the latitude is north or south latitude. The ASCII value "
+"'N' indicates north latitude, and 'S' is south latitude."
+msgstr ""
+"Показывает, северная широта или же южная. ASCII-значение 'N' обозначает "
+"северную широту, а 'S' - южную."
+
+msgid ""
+"Indicates whether the latitude of the destination point is north or south "
+"latitude. The ASCII value 'N' indicates north latitude, and 'S' is south "
+"latitude."
+msgstr ""
+"Показывает южную или серверную широту назначенной точки. ASCII значение 'N' "
+"показывает северную широту и 'S' южную широту."
+
+msgid ""
+"Indicates whether the longitude is east or west longitude. ASCII 'E' "
+"indicates east longitude, and 'W' is west longitude."
+msgstr ""
+"Показывает, восточная долгота или же западная. ASCII-значение 'E' обозначает "
+"восточную долготу, а 'W' - западную."
+
+msgid "Indoor"
+msgstr "В помещении"
+
+msgid "Infinite"
+msgstr "Бесконечный"
+
+msgid "Info"
+msgstr "Инфо"
+
+msgid ""
+"Information specific to compressed data. The channels of each component are "
+"arranged in order from the 1st component to the 4th. For uncompressed data "
+"the data arrangement is given in the <PhotometricInterpretation> tag. "
+"However, since <PhotometricInterpretation> can only express the order of Y, "
+"Cb and Cr, this tag is provided for cases when compressed data uses "
+"components other than Y, Cb, and Cr and to enable support of other sequences."
+msgstr ""
+"Специфичная для сжатых данных информация. Каналы каждого компонента "
+"расставлены в порядке от первого до четвёртого. Для несжатых данных порядок "
+"расстановки данных задаётся в тэге <PhotometricInterpretation>. Во всяком "
+"случае, поскольку <PhotometricInterpretation> может выражать лишь порядок Y, "
+"Cb и Cr, этот тэг записывается на тот случай, когда в сжатых данных "
+"используются компоненты, отличные от Y, Cb и Cr, а также для обеспечения "
+"поддержки обеих последовательностей."
+
+msgid ""
+"Information specific to compressed data. The compression mode used for a "
+"compressed image is indicated in unit bits per pixel."
+msgstr ""
+"Специфичная для сжатых данных информация. Использованный режим сжатия для "
+"сжатого изображения показывается в единице измерения \"битов на пиксел\""
+
+msgid "Intel"
+msgstr "Intel"
+
+msgid "Internal error (unknown value %hi)"
+msgstr "Внутренняя ошибка (неизвестное значение %hi)"
+
+msgid "Internal error (unknown value %i %i)"
+msgstr "Внутренняя ошибка (неизвестное значение %i %i)"
+
+msgid "Internal error (unknown value %i)"
+msgstr "Внутренняя ошибка (неизвестное значение %i)"
+
+msgid "Interoperability Index"
+msgstr "Индекс совместимости"
+
+msgid "Interoperability Version"
+msgstr "Версия совместимости"
+
+msgid "Invalid format '%s', expected '%s' or '%s'."
+msgstr "Неправильный формат '%s', ожидался '%s' или '%s'."
+
+msgid "Invalid format '%s', expected '%s'."
+msgstr "Некорректный формат '%s', ожидалось '%s'."
+
+msgid "Invalid number of components (%i, expected %i or %i)."
+msgstr "Некорректное число компонентов (%i, ожидалось %i или %i)."
+
+msgid "Invalid number of components (%i, expected %i)."
+msgstr "Некорректное число компонентов (%i, ожидалось %i)."
+
+msgid "Invalid size of entry (%i, expected %li x %i)."
+msgstr "Некорректный размер записи (%i, ожидалось %li x %i)."
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "JPEG Interchange Format"
+msgstr "Формат обмена данными JPEG"
+
+msgid "JPEG compression"
+msgstr "Сжатие JPEG"
+
+msgid "Kids & pets"
+msgstr "Дети и домашние животные"
+
+msgid "LZW compression"
+msgstr "Сжатие LZW"
+
+msgid "Lamp"
+msgstr "Лампа"
+
+msgid "Landscape"
+msgstr "Альбом"
+
+msgid "Landscape mode (for landscape photos with the background in focus)"
+msgstr "Альбомный режим (для альбомных фото с передним планом в фокусе)"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Latitude of Destination"
+msgstr "Широта назначенного объекта"
+
+msgid "Left"
+msgstr "Левая"
+
+msgid "Left to right"
+msgstr "Слева направо"
+
+msgid "Lens"
+msgstr "Объектив"
+
+msgid "Lens Distortion Parameters"
+msgstr "Параметры оптических искажений"
+
+msgid "Lens Temperature"
+msgstr "Температура объектива"
+
+msgid "Lens Type"
+msgstr "Тип объектива"
+
+msgid "Light Condition"
+msgstr "Условия освещённости"
+
+msgid "Light Source"
+msgstr "Источник света"
+
+msgid "Long"
+msgstr "Длинное целое"
+
+msgid "Long Focal Length of Lens"
+msgstr "Длиннофокусный объектив"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Low saturation"
+msgstr "Низкая насыщенность"
+
+msgid "M-DEP"
+msgstr "M-DEP"
+
+msgid "Macro"
+msgstr "Макро"
+
+msgid "Macro Mode"
+msgstr "Режим макросъёмки"
+
+msgid "Manual"
+msgstr "Ручная"
+
+msgid "Manual AF point selection"
+msgstr "Ручной выбор точки автофокусировки"
+
+msgid "Manual Focus Distance"
+msgstr "Расстояние ручного фокуса"
+
+msgid "Manual exposure"
+msgstr "Ручная экспозиция"
+
+msgid "Manual focus"
+msgstr "Ручная фокусировка"
+
+msgid "Manual temperature (Kelvin)"
+msgstr "Самостоятельная настройка температуры (в Кельвинах)"
+
+msgid "Manual white balance"
+msgstr "Ручной баланс белого"
+
+msgid "Manufacturer"
+msgstr "Производитель"
+
+msgid "Maximal Aperture"
+msgstr "Максимально открытая диафрагма"
+
+msgid "Measurement Precision"
+msgstr "Точность измерения"
+
+msgid "Metering Mode"
+msgstr "Режим замера"
+
+msgid "Minimal Aperture"
+msgstr "Минимальное отверстие"
+
+msgid "Model"
+msgstr "Модель"
+
+msgid "Model Identification"
+msgstr "Идентификация модели"
+
+msgid "Monochrome"
+msgstr "Монохромный"
+
+msgid "Motorola"
+msgstr "Motorola"
+
+msgid "My color data"
+msgstr "Мои цветовые координаты"
+
+msgid "My colors"
+msgstr "Мои цвета"
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "ND Filter"
+msgstr "Фильтр нейтральной плотности"
+
+msgid "Name of GPS Processing Method"
+msgstr "Название метода обработки GPS"
+
+msgid "Neutral"
+msgstr "Нейтральный"
+
+msgid "Night"
+msgstr "Ночь"
+
+msgid "Night scene"
+msgstr "Ночная съёмка"
+
+msgid "Night snapshot"
+msgstr "Ночная фотография"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No manual focus selection"
+msgstr "Нет выбора ручной фокусировки"
+
+msgid "Noise Reduction"
+msgstr "Подавление шума"
+
+msgid "None"
+msgstr "Ничего"
+
+msgid "Normal"
+msgstr "Обычное"
+
+msgid "Normal process"
+msgstr "Обычная обработка"
+
+msgid "Normal program"
+msgstr "Нормальная программа"
+
+msgid "North or South Latitude"
+msgstr "Северная или южная широта"
+
+msgid "Not defined"
+msgstr "Не определено"
+
+msgid "Not enough memory"
+msgstr "Недостаточно памяти"
+
+msgid "Not known"
+msgstr "Неизвестно"
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid "One-chip color area sensor"
+msgstr "Одночиповый датчик цветовой области"
+
+msgid "One-shot AF"
+msgstr "Покадровая автофокусировка (One-shot AF)"
+
+msgid "One-touch"
+msgstr "One-touch"
+
+msgid "Optimize Image"
+msgstr "Оптимизировать изображений"
+
+msgid "Orientation"
+msgstr "Ориентация"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Owner Name"
+msgstr "Имя владельца"
+
+msgid "PackBits compression"
+msgstr "Сжатие PackBits"
+
+msgid "Pan focus"
+msgstr "Панорамный фокус"
+
+msgid "Panorama"
+msgstr "Панорама"
+
+msgid "Partial"
+msgstr "Частичный замер"
+
+msgid "Pattern"
+msgstr "Шаблон"
+
+msgid "Photometric Interpretation"
+msgstr "Фотометрическая интерпретация"
+
+msgid "Picture Mode"
+msgstr "Режим изображения"
+
+msgid "Picture Style"
+msgstr "Стиль картинки"
+
+msgid "Planar Configuration"
+msgstr "Планарная конфигурация"
+
+msgid "Planar format"
+msgstr "Формат Planar"
+
+msgid "Portrait"
+msgstr "Портрет"
+
+msgid "Portrait mode (for closeup photos with the background out of focus)"
+msgstr ""
+"Портретный режим (съёмка с близкого расстояния с передним планом вне фокуса)"
+
+msgid "Preset"
+msgstr "Пресет"
+
+msgid "Preview Length"
+msgstr "Продолжительность предпросмотра"
+
+msgid "Preview Size"
+msgstr "Размер предпросмотра"
+
+msgid "PrintIM Settings"
+msgstr "Настройки PrintIM"
+
+msgid "Program"
+msgstr "Программа"
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Quality Level"
+msgstr "Уровень качества"
+
+msgid "R"
+msgstr "R"
+
+msgid "RAW"
+msgstr "RAW"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Rational"
+msgstr "Рациональное"
+
+msgid "Record Mode"
+msgstr "Режим записи"
+
+msgid "Red Balance"
+msgstr "Баланс красного"
+
+msgid "Red-eye reduction"
+msgstr "Подавление эффекта красных глаз"
+
+msgid "Reference Black/White"
+msgstr "Эталонный Чёрный/Белый"
+
+msgid "Reference For Latitude of Destination"
+msgstr "Ссылка на широту объекта"
+
+msgid "Reference for Longitude of Destination"
+msgstr "Ссылка долготы назначенного объекта"
+
+msgid "Reference for direction of movement"
+msgstr "Ссылка направления движения"
+
+msgid "Resolution Unit"
+msgstr "Единица разрешения"
+
+msgid "Right"
+msgstr "Правая"
+
+msgid "Right to left"
+msgstr "Справа налево"
+
+msgid "SByte"
+msgstr "Байт со знаком"
+
+msgid "SLong"
+msgstr "Длинное целое со знаком"
+
+msgid "SRational"
+msgstr "Рациональное со знаком"
+
+msgid "SShort"
+msgstr "Короткое целое со знаком"
+
+msgid "Samples per Pixel"
+msgstr "Сэмплов на пиксел"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Scene Type"
+msgstr "Тип сцены"
+
+msgid "Sea level"
+msgstr "Уровень моря"
+
+msgid "Self-timer"
+msgstr "Автоспуск"
+
+msgid "Sensor Temperature"
+msgstr "Температура чувствительного элемента"
+
+msgid "Sepia"
+msgstr "Сепия"
+
+msgid "Sequence Number"
+msgstr "Номер последовательности"
+
+msgid "Serial Number"
+msgstr "Серийный номер"
+
+msgid "Settings (First Part)"
+msgstr "Настройки (первая половина)"
+
+msgid "Settings (Second Part)"
+msgstr "Настройки (вторая половина)"
+
+msgid "Shade"
+msgstr "Тень"
+
+msgid "Sharpness"
+msgstr "Резкость"
+
+msgid "Sharpness Factor"
+msgstr "Коэффициент резкости"
+
+msgid "Sharpness Frequency"
+msgstr "Усиление резкости"
+
+msgid "Sharpness Setting"
+msgstr "Настройка резкости"
+
+msgid "Short"
+msgstr "Короткое целое"
+
+msgid "Shutter"
+msgstr "Выдержка"
+
+msgid "Shutter Speed"
+msgstr "Скорость срабатывания затвора"
+
+msgid "Shutter priority"
+msgstr "Приоритет выдержки"
+
+msgid ""
+"Shutter speed. The unit is the APEX (Additive System of Photographic "
+"Exposure) setting."
+msgstr ""
+"Скорость срабатывания затвора. Эта единица измерения является APEX(Additive "
+"System of Photographic Exposure)-настройкой (см. Приложение С)"
+
+msgid "Sigma 10-20mm F4-5.6 or 12-24mm f/4.5-5.6 or 14mm f/2.8"
+msgstr "Sigma 10-20mm F4-5.6 или 12-24mm f/4.5-5.6 или 14mm f/2.8"
+
+msgid "Sigma 15-30mm f/3.5-4.5 EX DG Aspherical"
+msgstr "Sigma 15-30mm f/3.5-4.5 EX DG Aspherical"
+
+msgid "Sigma 17-35mm f2.8-4 EX Aspherical HSM"
+msgstr "Sigma 17-35mm f2.8-4 EX Aspherical HSM"
+
+msgid "Sigma 20mm EX f/1.8"
+msgstr "Sigma 20mm EX f/1.8"
+
+msgid "Sigma 50mm f/2.8 EX or 28mm f/1.8"
+msgstr "Sigma 50mm f/2.8 EX или 28mm f/1.8"
+
+msgid "Sigma UC Zoom 35-135mm f/4-5.6"
+msgstr "Sigma UC Zoom 35-135mm f/4-5.6"
+
+msgid "Size of compressed image data in bytes."
+msgstr "Размер сжатых данных в байтах."
+
+msgid "Size of data too small to allow for EXIF data."
+msgstr "Недостаточный размер данных допустимый для данных EXIF."
+
+msgid "Slow Shutter"
+msgstr "Медленный затвор"
+
+msgid "Slow Synchro Mode"
+msgstr "Режим замедленной синхронизации"
+
+msgid "Slow synchro"
+msgstr "Медленная синхронизация"
+
+msgid "Snow"
+msgstr "Снег"
+
+msgid "Soft"
+msgstr "Мягко"
+
+msgid "Software"
+msgstr "Программное обеспечение"
+
+msgid "Spectral Sensitivity"
+msgstr "Спектральная чувствительность"
+
+msgid "Speed Unit"
+msgstr "Единицы измерения скорости"
+
+msgid "Speed of GPS Receiver"
+msgstr "Скорость приёмника GPS"
+
+msgid "Sport"
+msgstr "Спорт"
+
+msgid "Sports"
+msgstr "Спорт"
+
+msgid "Spot"
+msgstr "Точечный замер"
+
+msgid "Standard light A"
+msgstr "Стандартный свет A"
+
+msgid "Standard light B"
+msgstr "Стандартный свет B"
+
+msgid "Standard light C"
+msgstr "Стандартный свет C"
+
+msgid "Still image"
+msgstr "Неподвижное изображение"
+
+msgid "Subject Area"
+msgstr "Область объекта съёмки"
+
+msgid "Subject Distance"
+msgstr "Расстояние до объекта"
+
+msgid "Subject Location"
+msgstr "Местоположение объекта съёмки"
+
+msgid "Sunny"
+msgstr "Солнечно"
+
+msgid "Super macro"
+msgstr "Супер макро"
+
+msgid "Superfine"
+msgstr "Превосходное"
+
+msgid "TIF"
+msgstr "TIF"
+
+msgid "TIF+JPEG"
+msgstr "TIF+JPEG"
+
+msgid "TIFF/EP Standard ID"
+msgstr "ID стандарта TIFF/EP"
+
+msgid "TTL"
+msgstr "TTL"
+
+msgid "TV"
+msgstr "ТВ"
+
+msgid ""
+"Tag '%s' is of format '%s' (which is against specification) but cannot be "
+"changed to format '%s'."
+msgstr ""
+"Тег '%s' формата '%s' (противоречащего спецификации), но не может быть "
+"изменён на формат '%s'."
+
+msgid ""
+"Tag 'UserComment' did not start with a format identifier. This has been "
+"fixed."
+msgstr ""
+"Тег 'UserComment' не начинается с формата идентификатора. Это было "
+"исправлено."
+
+msgid ""
+"Tag 'UserComment' had invalid format '%s'. Format has been set to "
+"'undefined'."
+msgstr ""
+"Тег 'UserComment' имеет неправильный формат '%s'. Формат был классифицирован "
+"как 'неопределённый'."
+
+msgid ""
+"Tag 'UserComment' has been expanded to at least 8 bytes in order to follow "
+"the specification."
+msgstr ""
+"Тег 'UserComment' был расширен до 8 байт для соответствия спецификациям."
+
+msgid ""
+"Tag 'UserComment' is not empty but does not start with a format identifier. "
+"This has been fixed."
+msgstr ""
+"Тег 'UserComment' не является пустым, но не начинается с формата "
+"идентификатора. Это было исправлено."
+
+msgid "Tamron AF Aspherical 28-200mm f/3.8-5.6"
+msgstr "Tamron AF Aspherical 28-200mm f/3.8-5.6"
+
+msgid "Tamron SP AF 300mm f/2.8 LD IF"
+msgstr "Tamron SP AF 300mm f/2.8 LD IF"
+
+msgid "The F number."
+msgstr "Число F"
+
+msgid "The FlashPix format version supported by a FPXR file."
+msgstr "Версия формата FlashPix, поддерживаемого в формате файлов FPXR"
+
+msgid ""
+"The actual focal length of the lens, in mm. Conversion is not made to the "
+"focal length of a 35 mm film camera."
+msgstr ""
+"Реальное фокусное расстояние объектива. Преобразование в 35мм плёночный "
+"аналог не производится."
+
+msgid ""
+"The class of the program used by the camera to set exposure when the picture "
+"is taken."
+msgstr ""
+"Класс программы, использованной камерой для установки экспозиции при съёмке."
+
+msgid ""
+"The color space information tag is always recorded as the color space "
+"specifier. Normally sRGB (=1) is used to define the color space based on the "
+"PC monitor conditions and environment. If a color space other than sRGB is "
+"used, Uncalibrated (=FFFF.H) is set. Image data recorded as Uncalibrated can "
+"be treated as sRGB when it is converted to FlashPix."
+msgstr ""
+"Обязательный тэг, в котором определяется цветовое пространство. Как правило, "
+"в качестве цветового пространства монитора и окружения используется sRGB "
+"(=1). Если же используется не sRGB, то значение устанавливается как "
+"Uncalibrated (=FFFF.H). Данные изображения, записанного как Uncalibrated, "
+"могут быть восприняты как sRGB при преобразовании во FlashPix. Подробнее "
+"sRGB рассматривается в приложении E."
+
+msgid ""
+"The compression scheme used for the image data. When a primary image is JPEG "
+"compressed, this designation is not necessary and is omitted. When "
+"thumbnails use JPEG compression, this tag value is set to 6."
+msgstr ""
+"Схема сжатия, использованная для данных этого изображения. Когда основное "
+"изображение сжато по алгоритму JPEG , это обозначение не является "
+"обязательным и опускается. Когда миниатюры используют JPEG-сжатие, значение "
+"этого тэга равно 6."
+
+msgid "The data provided does not follow the specification."
+msgstr "Эти данные не соответствуют спецификации"
+
+msgid "The data supplied does not seem to contain EXIF data."
+msgstr "Предоставленные данные не содержат данные EXIF."
+
+msgid ""
+"The date and time of image creation. In this standard (EXIF-2.1) it is the "
+"date and time the file was changed."
+msgstr ""
+"Дата и время создания изображения. В настоящем стандарте (EXIF-2.1) это дата "
+"и время изменения файла."
+
+msgid "The date and time when the image was stored as digital data."
+msgstr "Дата и время сохранения изображения в цифровом виде"
+
+msgid ""
+"The date and time when the original image data was generated. For a digital "
+"still camera the date and time the picture was taken are recorded."
+msgstr ""
+"Дата и время создания исходного изображения. Для цифровой фотокамеры это "
+"дата и время съёмки."
+
+msgid "The distance to the subject, given in meters."
+msgstr "Расстояние до объекта в метрах"
+
+msgid ""
+"The exposure bias. The units is the APEX value. Ordinarily it is given in "
+"the range of -99.99 to 99.99."
+msgstr ""
+"Смещение экспозиции. Измеряется APEX-единицами. Обычно значение лежит в "
+"диапазоне между -99.99 и 99.99."
+
+msgid "The file '%s' could not be opened."
+msgstr "Файл '%s' не может быть открыт."
+
+msgid "The image orientation viewed in terms of rows and columns."
+msgstr "Ориентация изображения, рассматриваемая в терминах строк и столбцов."
+
+msgid "The kind of light source."
+msgstr "Вид источника света"
+
+msgid "The lens aperture. The unit is the APEX value."
+msgstr "Диафрагма объектива. Эта единица измерения является APEX-значением"
+
+msgid ""
+"The manufacturer of the recording equipment. This is the manufacturer of the "
+"DSC, scanner, video digitizer or other equipment that generated the image. "
+"When the field is left blank, it is treated as unknown."
+msgstr ""
+"Производитель записывающего оборудования. Это изготовитель цифровой "
+"фотокамеры, сканера, видеодигитайзера или  любого другого оборудования, "
+"которое использовалось для получения этого изображения. Если поле не "
+"заполнено, производитель считается неизвестным."
+
+msgid "The metering mode."
+msgstr "Режим замера"
+
+msgid ""
+"The model name or model number of the equipment. This is the model name or "
+"number of the DSC, scanner, video digitizer or other equipment that "
+"generated the image. When the field is left blank, it is treated as unknown."
+msgstr ""
+"Имя или номер модели использованного оборудования. Это имя модели или номер "
+"цифровой камеры (DSC), сканера, видеодигитайзера или любого другого "
+"оборудования, которое использовалось для получения этого изображения. Если "
+"поле не заполнено, оборудование считается неизвестным."
+
+msgid ""
+"The number of columns of image data, equal to the number of pixels per row. "
+"In JPEG compressed data a JPEG marker is used instead of this tag."
+msgstr ""
+"Количество столбцов данных изображения, равное количеству пикселов на ряд. В "
+"данных, сжатых по алгоритму JPEG, вместо этого тэга используется маркер."
+
+msgid ""
+"The number of components per pixel. Since this standard applies to RGB and "
+"YCbCr images, the value set for this tag is 3. In JPEG compressed data a "
+"JPEG marker is used instead of this tag."
+msgstr ""
+"Количество компонентов на один пиксел. Поскольку стандарт применяется к "
+"изображениям в цветовых пространствах RGB и YCbCr, значение этого тэга равно "
+"3. Если данные сжаты по алгоритму JPEG, вместо этого тэга используется JPEG-"
+"маркер."
+
+msgid ""
+"The number of pixels per <ResolutionUnit> in the <ImageLength> direction. "
+"The same value as <XResolution> is designated."
+msgstr ""
+"Количество пикселов на <ResolutionUnit> в направлении <ImageLength>. "
+"Остальное аналогично <XResolution>."
+
+msgid ""
+"The number of pixels per <ResolutionUnit> in the <ImageWidth> direction. "
+"When the image resolution is unknown, 72 [dpi] is designated."
+msgstr ""
+"Количество пикселов на <ResolutionUnit> в направлении <ImageWidth>. Если "
+"разрешение не указано, оно принимается за 72 точки на дюйм."
+
+msgid ""
+"The number of rows of image data. In JPEG compressed data a JPEG marker is "
+"used instead of this tag."
+msgstr ""
+"Количество рядов данных изображения. В данных, сжатых по алгоритму JPEG, "
+"вместо этого тэга используется маркер."
+
+msgid ""
+"The pixel composition. In JPEG compressed data a JPEG marker is used instead "
+"of this tag."
+msgstr ""
+"Компоновка пикселов. Если данные сжаты по алгоритму JPEG, вместо этого тэга "
+"используется JPEG-маркер."
+
+msgid ""
+"The position of chrominance components in relation to the luminance "
+"component. This field is designated only for JPEG compressed data or "
+"uncompressed YCbCr data. The TIFF default is 1 (centered); but when Y:Cb:Cr "
+"= 4:2:2 it is recommended in this standard that 2 (co-sited) be used to "
+"record data, in order to improve the image quality when viewed on TV "
+"systems. When this field does not exist, the reader shall assume the TIFF "
+"default. In the case of Y:Cb:Cr = 4:2:0, the TIFF default (centered) is "
+"recommended. If the reader does not have the capability of supporting both "
+"kinds of <YCbCrPositioning>, it shall follow the TIFF default regardless of "
+"the value in this field. It is preferable that readers be able to support "
+"both centered and co-sited positioning."
+msgstr ""
+"Позиция компонентов цветности по отношению к компоненту яркости. Это поле "
+"предназначено только для данных, сжатых по алгоритму JPEG, а также для "
+"несжатых данных YCbCr data. Исходное значение для TIFF равно 1 (по центру); "
+"но когда Y:Cb:Cr = 4:2:2, для записи данных рекомендуется использовать 2 (по "
+"бокам), чтобы улучшить качество изображения при просмотре через ТВ. Если это "
+"поле отсутствует, считывающая программа использует исходное значение для "
+"TIFF. Когда Y:Cb:Cr = 4:2:0, рекомендуется исходное значение для TIFF (по "
+"центру). Если считывающая программа не поддерживает оба вида "
+"<YCbCrPositioning>, она использует исходное значение для TIFF вне "
+"зависимости от того, какое значение записано в поле на самом деле. "
+"Предпочтительнее, когда считывающая программа поддерживает оба типа "
+"позиционирования."
+
+msgid ""
+"The smallest F number of the lens. The unit is the APEX value. Ordinarily it "
+"is given in the range of 00.00 to 99.99, but it is not limited to this range."
+msgstr ""
+"Самое маленькое число F для объектива. Измеряется APEX-единицами. Обычно "
+"значение лежит в диапазоне между 00.00 и 99.99, но оно не ограничено этим "
+"диапазоном."
+
+msgid "The system cannot provide enough memory."
+msgstr "Системе нехватает памяти"
+
+msgid ""
+"The tag '%s' contains an invalid number of components (%i, expected %i)."
+msgstr "Тэг '%s' содержит некорректное число компонентов (%i, ожидалось %i)."
+
+msgid "The tag '%s' contains data of an invalid format ('%s', expected '%s')."
+msgstr ""
+"Тэг '%s' содержит данные в некорректном формате ('%s', ожидалось '%s')."
+
+msgid ""
+"The unit for measuring <XResolution> and <YResolution>. The same unit is "
+"used for both <XResolution> and <YResolution>. If the image resolution is "
+"unknown, 2 (inches) is designated."
+msgstr ""
+"Единица измерения <XResolution> и <YResolution>. Та же самая единица "
+"используется как для <XResolution>, так и для <YResolution>. Если разрешение "
+"изображения неизвестно, оно принимается за 2 (дюйма)."
+
+msgid ""
+"The value of brightness. The unit is the APEX value. Ordinarily it is given "
+"in the range of -99.99 to 99.99."
+msgstr ""
+"Значение яркости. Эта единица измерения является APEX-значением. Обычно оно "
+"находится в пределах от -99.99 до 99.99"
+
+msgid ""
+"The version of this standard supported. Nonexistence of this field is taken "
+"to mean nonconformance to the standard."
+msgstr ""
+"Поддерживаемая версия стандарта EXIF. Отсутствие этого поля принимается за "
+"свидетельство несоответствия стандарту."
+
+msgid ""
+"This tag indicates the digital zoom ratio when the image was shot. If the "
+"numerator of the recorded value is 0, this indicates that digital zoom was "
+"not used."
+msgstr ""
+"Этот тэг отображает коэффициент цифрового трансфокатора при съёмке "
+"изображения. Если значение равно 0, то цифровой трансфокатор не был "
+"использован."
+
+msgid ""
+"This tag indicates the direction of contrast processing applied by the "
+"camera when the image was shot."
+msgstr ""
+"Этот тэг отображает направление обработки контраста при съёмке изображения"
+
+msgid ""
+"This tag indicates the direction of saturation processing applied by the "
+"camera when the image was shot."
+msgstr ""
+"Этот тэг отображает направление обработки насыщенности при съёмке изображения"
+
+msgid ""
+"This tag indicates the direction of sharpness processing applied by the "
+"camera when the image was shot."
+msgstr ""
+"Этот тэг отображает направление обработки резкости при съёмке изображения"
+
+msgid ""
+"This tag indicates the equivalent focal length assuming a 35mm film camera, "
+"in mm. A value of 0 means the focal length is unknown. Note that this tag "
+"differs from the FocalLength tag."
+msgstr ""
+"Этот тэг отображает фокусное расстояние в 35мм плёночном эквиваленте, "
+"измеряемом миллиметрами. Если значение равно 0, то фокусное расстояние "
+"неизвестно. Обратите внимание на то, что этот тэг отличется от <FocalLength>."
+
+msgid ""
+"This tag indicates the exposure mode set when the image was shot. In auto-"
+"bracketing mode, the camera shoots a series of frames of the same scene at "
+"different exposure settings."
+msgstr ""
+"Этот тэг отображает режим экспозиции при съёмке изображения. В режиме "
+"автоматического брекетинга камера делает серию кадров одной и той же сцены с "
+"разными настройками экспозиции."
+
+msgid ""
+"This tag indicates the location and area of the main subject in the overall "
+"scene."
+msgstr ""
+"Этот тэг отображает местоположение и область объекта съёмки во всей сцене."
+
+msgid "This tag indicates the white balance mode set when the image was shot."
+msgstr "Этот тэг отображает режим баланса белого при съёмке изображения."
+
+msgid ""
+"This tag is recorded when an image is taken using a strobe light (flash)."
+msgstr "Этот тэг записывается при использовании эффекта стробоскопа во вспышке"
+
+msgid ""
+"This tag records the name and version of the software or firmware of the "
+"camera or image input device used to generate the image. The detailed format "
+"is not specified, but it is recommended that the example shown below be "
+"followed. When the field is left blank, it is treated as unknown."
+msgstr ""
+"В этом тэге записывается название и версия программного обеспечения или "
+"прошивки камеры либо устройства ввода изображения, использованного для "
+"создания этого изображения. Подробный стандарт не специфицирован, однако "
+"рекомендуется следовать приведённому ниже примеру. Когда поле оставлено "
+"пустым, значение принимается за неизвестное."
+
+msgid ""
+"This tag records the name of the camera owner, photographer or image "
+"creator. The detailed format is not specified, but it is recommended that "
+"the information be written as in the example below for ease of "
+"Interoperability. When the field is left blank, it is treated as unknown."
+msgstr ""
+"В этом тэге записывается имя владельца камеры, фотографа или создателя "
+"изображения. Подробный стандарт не специфицирован, однако рекомендуется "
+"следовать приведённому ниже примеру. Когда поле оставлено пустым, значение "
+"принимается за неизвестное."
+
+msgid "Three-chip color area sensor"
+msgstr "Трехчиповый датчик цветовой области"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time Zone"
+msgstr "Часовая зона"
+
+msgid "Tokina AF193-2 19-35mm f/3.5-4.5"
+msgstr "Tokina AF193-2 19-35mm f/3.5-4.5"
+
+msgid "Tokina AT-X280AF PRO 28-80mm F2.8 Aspherical"
+msgstr "Tokina AT-X280AF PRO 28-80mm F2.8 Aspherical"
+
+msgid "Tone Curve"
+msgstr "Кривая тона"
+
+msgid "Top to bottom"
+msgstr "Сверху вниз"
+
+msgid "Total Number of Pictures Taken"
+msgstr "Общее количество снятых фотографий"
+
+msgid "Transfer Function"
+msgstr "Функция передачи"
+
+msgid "Transfer Range"
+msgstr "Область передачи"
+
+msgid "Tungsten"
+msgstr "Лампа накаливания"
+
+msgid "Tungsten incandescent light"
+msgstr "Яркая лампа накаливания"
+
+msgid "Tv-priority"
+msgstr "Приоритет выдержки (Tv)"
+
+msgid "Two-chip color area sensor"
+msgstr "Двухчиповый датчик цветовой области"
+
+msgid "Uncalibrated"
+msgstr "Не откалибровано"
+
+msgid "Uncompressed"
+msgstr "Несжатый"
+
+msgid "Undefined"
+msgstr "Не определено"
+
+msgid "Underwater"
+msgstr "Подводная съемка"
+
+msgid "Unexpected number of components (%li, expected 2, 3, or 4)."
+msgstr "Неожиданное количество компонентов (%li, ожидалось 2, 3, или 4)."
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown Exif Version"
+msgstr "Неизвестная версия EXIF"
+
+msgid "Unknown FlashPix Version"
+msgstr "Неизвестная версия FlashPix"
+
+msgid "Unknown encoding."
+msgstr "Неизвестная кодировка"
+
+msgid "Unknown value %hi"
+msgstr "Неизвестное значение %hi"
+
+msgid "Unknown value %i"
+msgstr "Неизвестное значение %i"
+
+msgid "Unsupported JIS string"
+msgstr "Неподдерживаемая строка JIS"
+
+msgid "Unsupported UNICODE string"
+msgstr "Неподдерживаемая строка Unicode"
+
+msgid "User 1"
+msgstr "Пользователь 1"
+
+msgid "User 2"
+msgstr "Пользователь 2"
+
+msgid "User Comment"
+msgstr "Пользовательский комментарий"
+
+msgid "User def. 1"
+msgstr "Задано пользователем 1"
+
+msgid "User def. 2"
+msgstr "Задано пользователем 2"
+
+msgid "User def. 3"
+msgstr "Задано пользователем 3"
+
+msgid "Vivid"
+msgstr "Простая графика"
+
+msgid "White Balance"
+msgstr "Баланс белого"
+
+msgid "White Balance Fine Adjustment"
+msgstr "Точная подстройка баланса белого"
+
+msgid "White Balance Mode"
+msgstr "Режим баланса белого"
+
+msgid "White Balance Setting"
+msgstr "Настройка баланса белого"
+
+msgid "White Point"
+msgstr "Белая точка"
+
+msgid "White fluorescent"
+msgstr "Белая газоразрядная лампа"
+
+msgid "Within distance %i of (x,y) = (%i,%i)"
+msgstr "В пределах расстояния %i от (x,y) = (%i,%i)"
+
+msgid "Within rectangle (width %i, height %i) around (x,y) = (%i,%i)"
+msgstr "Внутри области (ширина %i, высота %i) около (x,y) = (%i,%i)"
+
+msgid "XML Packet"
+msgstr "XML-пакет"
+
+msgid "XMP Metadata"
+msgstr "Метаданные XMP"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "YCbCr"
+msgstr "YCbCr"
+
+msgid "YCbCr Coefficients"
+msgstr "Коэффициенты YCbCr"
+
+msgid "YCbCr Positioning"
+msgstr "Позиционирование YCbCr"
+
+msgid "YCbCr Sub-Sampling"
+msgstr "Субсэмплинг YCbCr"
+
+msgid "YCbCr4:2:0"
+msgstr "YCbCr4:2:0"
+
+msgid "YCbCr4:2:2"
+msgstr "YCbCr4:2:2"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Zoom"
+msgstr "Трансфокатор"
+
+msgid "[None]"
+msgstr "[Ничего]"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "in"
+msgstr "in"
+
+msgid "sRGB"
+msgstr "sRGB"

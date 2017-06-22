@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-open-terminal\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2005-12-08 20:29+0100\n"
+"PO-Revision-Date: 2005-10-03 15:33+0200\n"
+"Last-Translator: Paul Chavard <polo@tchak.net>\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Open _Terminal"
+msgstr "Открыть _Терминал"
+
+msgid "Open a terminal"
+msgstr "Открыть терминал"
+
+msgid "Open in _Terminal"
+msgstr "Открыть в _Терминале"
+
+msgid "Open the currently open folder in a terminal"
+msgstr "Открыть текущую папку в терминале"
+
+msgid "Open the currently selected folder in a terminal"
+msgstr "Открыть выбранную папку в терминале"

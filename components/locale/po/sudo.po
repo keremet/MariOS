@@ -1,0 +1,507 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sudo 1.8.6b4\n"
+"Report-Msgid-Bugs-To: http://www.sudo.ws/bugs\n"
+"POT-Creation-Date: 2012-08-10 13:08-0400\n"
+"PO-Revision-Date: 2012-08-14 20:51+0400\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+"\n"
+"Параметры:\n"
+
+msgid ""
+"%s - edit files as another user\n"
+"\n"
+msgstr ""
+"%s — редактирование файлов от имени другого пользователя\n"
+"\n"
+
+msgid ""
+"%s - execute a command as another user\n"
+"\n"
+msgstr ""
+"%s — выполнение команд от имени другого пользователя\n"
+"\n"
+
+msgid "%s changed labels"
+msgstr "изменено меток: %s"
+
+msgid "%s is group writable"
+msgstr "доступ на запись в %s разрешена группе"
+
+msgid "%s is not a regular file"
+msgstr "%s не является обычным файлом"
+
+msgid "%s is not a valid context"
+msgstr "%s не является допустимым контекстом"
+
+msgid "%s is owned by uid %u, should be %u"
+msgstr ""
+"%s принадлежит пользователю с uid %u, а должен принадлежать пользователю с "
+"uid %u"
+
+msgid "%s is world writable"
+msgstr "доступ на запись в %s разрешена всем"
+
+msgid "%s left unmodified"
+msgstr "%s осталось неизменным"
+
+msgid "%s must be only be writable by owner"
+msgstr "%s должен быть доступен на запись только владельцу"
+
+msgid "%s must be owned by uid %d"
+msgstr "%s должен принадлежать пользователю с uid %d"
+
+msgid "%s must be owned by uid %d and have the setuid bit set"
+msgstr "%s должен принадлежать пользователю с uid %d и иметь бит setuid"
+
+msgid "%s unchanged"
+msgstr "%s не изменено"
+
+msgid "%s%s: %s"
+msgstr "%s%s: %s"
+
+msgid "%s: %s"
+msgstr "%s: %s"
+
+msgid "%s: incompatible policy major version %d, expected %d"
+msgstr "%s: несовместимая основная версия политики %d, ожидалась %d"
+
+msgid "%s: not a regular file"
+msgstr "%s: не обычный файл"
+
+msgid "%s: only a single policy plugin may be loaded"
+msgstr "%s: может быть загружен только один модуль политики"
+
+msgid "%s: short write"
+msgstr "%s: неполная запись"
+
+msgid "%s: unable to find symbol %s"
+msgstr "%s: не удаётся найти символ %s"
+
+msgid "%s: unknown policy type %d"
+msgstr "%s: неизвестный тип политики %d"
+
+msgid ": "
+msgstr ": "
+
+msgid "Configure options: %s\n"
+msgstr "Параметры настройки: %s\n"
+
+msgid ""
+"Only one of the -e, -h, -i, -K, -l, -s, -v or -V options may be specified"
+msgstr "Можно указать только параметры -e, -h, -i, -K, -l, -s, -v или -V"
+
+msgid "Sudo version %s\n"
+msgstr "Sudo версия %s\n"
+
+msgid "Unknown signal"
+msgstr "Неизвестный сигнал"
+
+msgid "close all file descriptors >= fd\n"
+msgstr "закрыть все дескрипторы файлов >= fd\n"
+
+msgid "contents of edit session left in %s"
+msgstr "содержимое сеанса редактирования сохранено в %s"
+
+msgid "could not bind to default resource pool for project \"%s\""
+msgstr "не удаётся подключиться к пулу ресурсов по умолчанию проекта «%s»"
+
+msgid "could not join project \"%s\""
+msgstr "не удалось присоединиться к проекту «%s»"
+
+msgid "create SELinux security context with specified role\n"
+msgstr "создать контекст безопасности SELinux с указанной ролью\n"
+
+msgid "display help message and exit\n"
+msgstr "показать справку и выйти\n"
+
+msgid "display version information and exit\n"
+msgstr "показать сведения о версии и выйти\n"
+
+msgid "edit files instead of running a command\n"
+msgstr "редактировать файлы вместо выполнения команды\n"
+
+msgid ""
+"effective uid is not %d, is %s on a file system with the 'nosuid' option set "
+"or an NFS file system without root privileges?"
+msgstr ""
+"эффективный uid не равен %d, возможно, %s находится в файловой системе, "
+"смонтированной с битом «nosuid» или в файловой системе NFS без прав "
+"суперпользователя?"
+
+msgid "effective uid is not %d, is sudo installed setuid root?"
+msgstr ""
+"эффективный uid не равен %d, программа sudo установлена с битом setuid и "
+"принадлежит root?"
+
+msgid "error initializing I/O plugin %s"
+msgstr "ошибка инициализации модуля ввода-вывода %s"
+
+msgid "error reading from pipe"
+msgstr "ошибка чтения из канала"
+
+msgid "error reading from signal pipe"
+msgstr "ошибка чтения из сигнального канала"
+
+msgid "error reading from socketpair"
+msgstr "ошибка чтения из пары сокетов"
+
+msgid "execute command as the specified group\n"
+msgstr "выполнить команду от имени указанной группы\n"
+
+msgid "failed to get old_context"
+msgstr "не удалось получить old_context"
+
+msgid "failed to set new role %s"
+msgstr "не удалось установить новую роль %s"
+
+msgid "failed to set new type %s"
+msgstr "не удалось установить новый тип %s"
+
+msgid "fatal error, unable to load plugins"
+msgstr "фатальная ошибка, не удалось загрузить модули"
+
+msgid "internal error, %s overflow"
+msgstr "внутренняя ошибка, переполнение %s"
+
+msgid "internal error, tried to ecalloc(0)"
+msgstr "внутренняя ошибка, попытка выполнить ecalloc(0)"
+
+msgid "internal error, tried to emalloc(0)"
+msgstr "внутренняя ошибка, попытка выполнить emalloc(0)"
+
+msgid "internal error, tried to emalloc2(0)"
+msgstr "внутренняя ошибка, попытка выполнить emalloc2(0)"
+
+msgid "internal error, tried to erealloc(0)"
+msgstr "внутренняя ошибка, попытка выполнить erealloc(0)"
+
+msgid "internal error, tried to erealloc3(0)"
+msgstr "внутренняя ошибка, попытка выполнить erealloc3(0)"
+
+msgid "internal error, tried to erecalloc(0)"
+msgstr "внутренняя ошибка, попытка выполнить ereсalloc(0)"
+
+msgid "invalidate timestamp file\n"
+msgstr "объявить недействительным файл timestamp\n"
+
+msgid "list user's available commands\n"
+msgstr "вывести список команд, доступных пользователю\n"
+
+msgid "load_interfaces: overflow detected"
+msgstr "load_interfaces: обнаружено переполнение"
+
+msgid "no askpass program specified, try setting SUDO_ASKPASS"
+msgstr ""
+"не указана программа askpass, попробуйте задать значение в SUDO_ASKPASS"
+
+msgid "no resource pool accepting default bindings exists for project \"%s\""
+msgstr ""
+"для проекта «%s» не существует пула ресурсов, принимающих привязки по "
+"умолчанию"
+
+msgid "no tty present and no askpass program specified"
+msgstr "нет tty и не указана программа askpass"
+
+msgid "non-interactive mode, will not prompt user\n"
+msgstr "автономный режим без не вывода запросов пользователю\n"
+
+msgid "plugin error: missing file list for sudoedit"
+msgstr "ошибка модуля: отсутствует список файлов для sudoedit"
+
+msgid "policy plugin %s does not include a check_policy method"
+msgstr "модуль политики %s не содержит метод check_policy"
+
+msgid "policy plugin %s does not support listing privileges"
+msgstr "модуль политики %s не поддерживает списка прав"
+
+msgid "policy plugin %s does not support the -k/-K options"
+msgstr "модуль политики %s не поддерживает параметры -k/-K"
+
+msgid "policy plugin %s does not support the -v option"
+msgstr "модуль политики %s не поддерживает параметр -v"
+
+msgid "policy plugin failed session initialization"
+msgstr "модулю политик не удалось инициализировать сеанс"
+
+msgid "preserve group vector instead of setting to target's\n"
+msgstr "сохранить вектор группы вместо установки целевой группы\n"
+
+msgid "preserve user environment when executing command\n"
+msgstr "сохранить пользовательскую среду при выполнении команды\n"
+
+msgid "read password from standard input\n"
+msgstr "читать пароль из стандартного ввода\n"
+
+msgid "remove timestamp file completely\n"
+msgstr "полностью удалить файл timestamp\n"
+
+msgid "requires at least one argument"
+msgstr "укажите не менее одного аргумента"
+
+msgid "resource control limit has been reached"
+msgstr "достигнут лимит управления ресурсами"
+
+msgid "run a login shell as target user\n"
+msgstr "запустить оболочку входа в систему от имени указанного пользователя\n"
+
+msgid "run a shell as target user\n"
+msgstr "запустить оболочку от имени указанного пользователя\n"
+
+msgid "run command (or edit file) as specified user\n"
+msgstr ""
+"выполнить команду (или редактировать файл) от имени указанного пользователя\n"
+
+msgid "run command in the background\n"
+msgstr "выполнить команду в фоновом режиме\n"
+
+msgid "run command with specified login class\n"
+msgstr "выполнить команду с указанным классом входа в систему\n"
+
+msgid "select failed"
+msgstr "ошибка select"
+
+msgid "set HOME variable to target user's home dir.\n"
+msgstr ""
+"установить для переменной HOME домашний каталог указанного пользователя\n"
+
+msgid "setproject failed for project \"%s\""
+msgstr "setproject завершилась с ошибкой для проекта «%s»"
+
+msgid "specified resource pool does not exist for project \"%s\""
+msgstr "у проекта «%s» нет указанного пула ресурсов"
+
+msgid "stop processing command line arguments\n"
+msgstr "прекратить обработку аргументов командной строки\n"
+
+msgid "sudoedit is not supported on this platform"
+msgstr "sudoedit не поддерживается на этой платформе"
+
+msgid "the `-A' and `-S' options may not be used together"
+msgstr "параметры «-A» и «-S» являются взаимоисключающими"
+
+msgid "the `-E' option is not valid in edit mode"
+msgstr "параметр «-E» не действует в режиме редактирования"
+
+msgid "the `-U' option may only be used with the `-l' option"
+msgstr "параметр «-U» можно использовать только с параметром «-l»"
+
+msgid "the argument to -C must be a number greater than or equal to 3"
+msgstr "аргумент для -C должен быть числом, которое больше или равно 3"
+
+msgid "the invoking task is final"
+msgstr "вызывающе задание — последнее"
+
+msgid "unable to allocate memory"
+msgstr "не удаётся выделить память"
+
+msgid "unable to allocate pty"
+msgstr "не удаётся выделить pty"
+
+msgid "unable to change directory to %s"
+msgstr "не удаётся сменить каталог на %s"
+
+msgid "unable to change root to %s"
+msgstr "не удаётся изменить root на %s"
+
+msgid "unable to change to runas uid (%u, %u)"
+msgstr "не удаётся изменить на runas uid (%u, %u)"
+
+msgid "unable to change uid to root (%u)"
+msgstr "Не удалось изменить uid на root (%u)"
+
+msgid "unable to create pipe"
+msgstr "не удаётся создать канал"
+
+msgid "unable to create sockets"
+msgstr "не удаётся создать сокеты"
+
+msgid "unable to determine enforcing mode."
+msgstr "не удаётся определить принудительный режим"
+
+msgid "unable to dlopen %s: %s"
+msgstr "не удаётся выполнить dlopen для %s: %s"
+
+msgid "unable to dup2 stdin"
+msgstr "не удаётся выполнить dup2 для стандартного ввода"
+
+msgid "unable to execute %s"
+msgstr "не удаётся выполнить %s"
+
+msgid "unable to fgetfilecon %s"
+msgstr "не удаётся выполнить fgetfilecon %s"
+
+msgid "unable to fork"
+msgstr "не удаётся создать дочерний процесс"
+
+msgid "unable to get current tty context, not relabeling tty"
+msgstr ""
+"не удаётся получить контекст текущего tty, tty без возможности переименования"
+
+msgid "unable to get default type for role %s"
+msgstr "не удаётся получить тип по умолчанию для роли %s"
+
+msgid "unable to get group vector"
+msgstr "не удаётся получить вектор группы"
+
+msgid "unable to get new tty context, not relabeling tty"
+msgstr "не удаётся получить контекст tty, tty без возможности переименования"
+
+msgid "unable to initialize policy plugin"
+msgstr "не удаётся инициализировать модуль политики"
+
+msgid "unable to open %s"
+msgstr "не удаётся открыть %s"
+
+msgid "unable to open %s, not relabeling tty"
+msgstr "не удаётся открыть %s, tty без возможности переименования"
+
+msgid "unable to open audit system"
+msgstr "не удаётся открыть систему аудита"
+
+msgid "unable to open socket"
+msgstr "не удаётся открыть сокет"
+
+msgid "unable to open userdb"
+msgstr "не удаётся открыть userdb"
+
+msgid "unable to read temporary file"
+msgstr "не удаётся прочесть временный файл"
+
+msgid "unable to remove PRIV_PROC_EXEC from PRIV_LIMIT"
+msgstr "не удаётся удалить PRIV_PROC_EXEC из PRIV_LIMIT"
+
+msgid "unable to restore context for %s"
+msgstr "не удаётся восстановить контекст для %s"
+
+msgid "unable to restore registry"
+msgstr "не удаётся восстановить реестр"
+
+msgid "unable to restore stdin"
+msgstr "не удаётся восстановить стандартный ввод"
+
+msgid "unable to restore tty label"
+msgstr "не удаётся создать восстановить метку tty"
+
+msgid "unable to run %s"
+msgstr "не удаётся выполнить %s"
+
+msgid "unable to save stdin"
+msgstr "не удаётся сохранить стандартный ввод"
+
+msgid "unable to send audit message"
+msgstr "не удаётся отправить сообщение аудита"
+
+msgid "unable to set controlling tty"
+msgstr "не удаётся установить управляющий tty"
+
+msgid "unable to set effective gid to runas gid %u"
+msgstr "не удаётся назначить эффективный gid на runas gid %u"
+
+msgid "unable to set exec context to %s"
+msgstr "не удаётся установить для контекста exec значение %s"
+
+msgid "unable to set gid to %u"
+msgstr "не удаётся назначить gid  равным %u"
+
+msgid "unable to set gid to runas gid %u"
+msgstr "не удаётся назначить gid на runas gid %u"
+
+msgid "unable to set key creation context to %s"
+msgstr "не удаётся установить для контекста создания ключа значение %s"
+
+msgid "unable to set new tty context"
+msgstr "не удаётся установить новый контекст tty"
+
+msgid "unable to set process priority"
+msgstr "не удаётся назначить приоритет процесса"
+
+msgid "unable to set supplementary group IDs"
+msgstr "не удаётся назначить дополнительные идентификаторы групп"
+
+msgid "unable to set terminal to raw mode"
+msgstr "не удаётся перевести терминал в «сырой» режим"
+
+msgid "unable to set uid to %u"
+msgstr "не удаётся назначить uid  равным %u"
+
+msgid "unable to set user context"
+msgstr "не удаётся назначить контекст пользователя"
+
+msgid "unable to setup tty context for %s"
+msgstr "не удаётся настроить контекст tty для %s"
+
+msgid "unable to stat %s"
+msgstr "не удалось выполнить вызов stat %s"
+
+msgid "unable to switch to registry \"%s\" for %s"
+msgstr "не удаётся переключиться на реестр «%s» для %s"
+
+msgid "unable to write to %s"
+msgstr "не удаётся записать в %s"
+
+msgid "unexpected child termination condition: %d"
+msgstr "неожиданное условие завершения потомка: %d"
+
+msgid "unexpected reply type on backchannel: %d"
+msgstr "неожиданный тип ответа в резервном канале: %d"
+
+msgid "unexpected sudo mode 0x%x"
+msgstr "неожиданный режим sudo: 0x%x"
+
+msgid "unknown login class %s"
+msgstr "неизвестный класс входа %s"
+
+msgid "unknown uid %u: who are you?"
+msgstr "неизвестный uid %u: кто вы?"
+
+msgid "unknown user: %s"
+msgstr "неизвестный пользователь: %s"
+
+msgid "update user's timestamp without running a command\n"
+msgstr "обновить временную метку пользователя без выполнения команды\n"
+
+msgid "use helper program for password prompting\n"
+msgstr "использовать вспомогательную программу для ввода пароля\n"
+
+msgid "use specified BSD authentication type\n"
+msgstr "использовать указанный тип проверки подлинности BSD\n"
+
+msgid "use specified password prompt\n"
+msgstr "использовать указанный запрос пароля\n"
+
+msgid "user \"%s\" is not a member of project \"%s\""
+msgstr "пользователь «%s» не является членом проекта «%s»"
+
+msgid "warning, resource control assignment failed for project \"%s\""
+msgstr ""
+"предупреждение: назначение контроля за ресурсами завершилось с ошибкой для "
+"проекта «%s»"
+
+msgid "when listing, list specified user's privileges\n"
+msgstr "при выводе списка показать привилегии пользователя\n"
+
+msgid "you may not specify both the `-i' and `-E' options"
+msgstr "параметры «-i» и «-E» являются взаимоисключающими"
+
+msgid "you may not specify both the `-i' and `-s' options"
+msgstr "параметры «-i» и «-s» являются взаимоисключающими"
+
+msgid "you may not specify environment variables in edit mode"
+msgstr "переменные окружения нельзя определять в режиме редактирования"
+
+msgid "you must specify a role for type %s"
+msgstr "необходимо указать роль для типа %s"

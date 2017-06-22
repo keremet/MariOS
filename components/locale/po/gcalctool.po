@@ -1,0 +1,999 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gcalctool trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-15 19:36+0300\n"
+"PO-Revision-Date: 2010-04-01 08:19+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "&#x2190; R"
+msgstr "&#x2190; R"
+
+msgid "&#x2192; R"
+msgstr "&#x2192; R"
+
+msgid "&#xA4;$&#x20AC;"
+msgstr "&#xA4;$&#x20AC;"
+
+msgid "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F"
+msgstr "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F"
+
+msgid "10 places"
+msgstr "10 разрядов"
+
+msgid "11 places"
+msgstr "11 разрядов"
+
+msgid "12 places"
+msgstr "12 разрядов"
+
+msgid "13 places"
+msgstr "13 разрядов"
+
+msgid "14 places"
+msgstr "14 разрядов"
+
+msgid "15 places"
+msgstr "15 разрядов"
+
+msgid "16-bit"
+msgstr "16 бит"
+
+msgid "32-bit"
+msgstr "32 бита"
+
+msgid "64-bit"
+msgstr "64 бита"
+
+msgid "8-bit"
+msgstr "8 бит"
+
+msgid "="
+msgstr "="
+
+msgid ""
+"A required file is missing or damaged. Please check your installation.\n"
+"\n"
+"%s"
+msgstr ""
+"Необходимый файл отсутствует или повреждён. Проверьте правильность "
+"установки.\n"
+"\n"
+"%s"
+
+msgid "Absolute Value"
+msgstr "Модуль"
+
+msgid "Absolute value [|]"
+msgstr "Модуль [|]"
+
+msgid "Accuracy value"
+msgstr "Точность значения"
+
+msgid "Add [+]"
+msgstr "Сложить [+]"
+
+msgid "Answer variable"
+msgstr "Вычисленная переменная"
+
+msgid ""
+"Application Options:\n"
+"  -u, --unittest                  Perform unit tests\n"
+"  -s, --solve <equation>          Solve the given equation"
+msgstr ""
+"Опции приложения:\n"
+"  -u, --unittest                  Произвести проверку единиц измерения\n"
+"  -s, --solve <equation>          Вычислить заданное выражение"
+
+msgid "Argument --solve requires an equation to solve"
+msgstr "Аргументу --solve требуется выражение  для вычисления"
+
+msgid "Australian dollar"
+msgstr "Австралийский доллар"
+
+msgid "Base 10 logarithm"
+msgstr "Логарифм по основанию 10"
+
+msgid "Base 16"
+msgstr "Основание 16"
+
+msgid "Base 2"
+msgstr "Основание 2"
+
+msgid "Base 8"
+msgstr "Основание 8"
+
+msgid "Binary"
+msgstr "Двоичный"
+
+msgid "Boolean AND"
+msgstr "Логическое побитовое И"
+
+msgid "Boolean AND is only defined for positive integers"
+msgstr "Логическое побитовое И определено только для положительных целых чисел"
+
+msgid "Boolean NOT"
+msgstr "Логическое побитовое НЕ"
+
+msgid "Boolean NOT is only defined for positive integers"
+msgstr ""
+"Логическое побитовое НЕ определено только для положительных целых чисел"
+
+msgid "Boolean OR"
+msgstr "Логическое побитовое ИЛИ"
+
+msgid "Boolean OR is only defined for positive integers"
+msgstr ""
+"Логическое побитовое ИЛИ определено только для положительных целых чисел"
+
+msgid "Boolean XOR is only defined for positive integers"
+msgstr ""
+"Логическое побитовое исключающее ИЛИ определено только для положительных "
+"целых чисел"
+
+msgid "Boolean exclusive OR"
+msgstr "Логическое побитовое исключающее ИЛИ"
+
+msgid "Brazilian real"
+msgstr "Бразильский реал"
+
+msgid "Bulgarian lev"
+msgstr "Болгарский лев"
+
+msgid "C_alculate"
+msgstr "В_ычислить"
+
+msgid "C_ost:"
+msgstr "Цена:"
+
+msgid "Calculate result [=]"
+msgstr "Вычислить результат [=]"
+
+msgid ""
+"Calculates the amount of the periodic payment of a loan, where payments are "
+"made at the end of each payment period. "
+msgstr ""
+"Вычислить периодическую оплату займа, когда оплата производится в конце "
+"каждого периода."
+
+msgid ""
+"Calculates the depreciation allowance on an asset for a specified period of "
+"time, using the Sum-of-the-Years'-Digits method. This method of depreciation "
+"accelerates the rate of depreciation, so that more depreciation expense "
+"occurs in earlier periods than in later ones. The useful life is the number "
+"of periods, typically years, over which an asset is depreciated. "
+msgstr ""
+"Вычислить амортизацию ресурса с помощью метода Сумма-Лет-Цифр за заданный "
+"период времени. Этот метод оценки старости учитывает ускорение амортизации, "
+"то есть стоимость в ранний период больше, чем в поздний. Полезная жизнь "
+"ресурса — это число периодов, обычно лет, в течение которых ресурс "
+"устаревает."
+
+msgid ""
+"Calculates the depreciation allowance on an asset for a specified period of "
+"time, using the double-declining balance method."
+msgstr ""
+"Вычислить амортизацию ресурса за заданный период с использованием метода "
+"двойного уменьшения остатка."
+
+msgid ""
+"Calculates the future value of an investment based on a series of equal "
+"payments at a periodic interest rate over the number of payment periods in "
+"the term."
+msgstr ""
+"Вычислить объём инвестиций на основе серии периодических платежей по ставке "
+"в течение некоторого периода оплаты."
+
+msgid ""
+"Calculates the number of compounding periods necessary to increase an "
+"investment of present value to a future value, at a fixed interest rate per "
+"compounding period."
+msgstr ""
+"Вычислить число периодов оплаты, необходимых, чтобы в течение периода "
+"периодической оплаты с фиксированной ставкой увеличить текущее значение до "
+"необходимого."
+
+msgid ""
+"Calculates the number of payment periods that are necessary during the term "
+"of an ordinary annuity, to accumulate a future value, at a periodic interest "
+"rate."
+msgstr ""
+"Вычислить число периодов оплаты, необходимых, чтобы в течение периода "
+"периодической оплаты с фиксированной ставкой получить необходимое значение."
+
+msgid ""
+"Calculates the periodic interest necessary to increase an investment to a "
+"future value, over the number of compounding periods. "
+msgstr ""
+"Вычислить платёж, необходимый для увеличения инвестиций до некоторого "
+"значения в течение нескольких последовательных периодов."
+
+msgid ""
+"Calculates the present value of an investment based on a series of equal "
+"payments discounted at a periodic interest rate over the number of payment "
+"periods in the term. "
+msgstr ""
+"Вычислить объём инвестиций на основе серии равных периодических платежей в "
+"течение некоторого срока."
+
+msgid ""
+"Calculates the resale price of a product, based on the product cost and the "
+"wanted gross profit margin."
+msgstr ""
+"Вычислить необходимую переоценку продукта, используя цену продукта и "
+"необходимый валовой доход."
+
+msgid ""
+"Calculates the straight-line depreciation of an asset for one period. The "
+"straight-line method of depreciation divides the depreciable cost evenly "
+"over the useful life of an asset. The useful life is the number of periods, "
+"typically years, over which an asset is depreciated. "
+msgstr ""
+"Вычислить прямолинейную амортизацию ресурса за один период. Прямой метод "
+"делит стоимость амортизации на весь период жизни ресурса. Полезная жизнь "
+"ресурса — это число периодов, обычно лет, в течение которых ресурс "
+"устаревает."
+
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgid "Calculator with financial and scientific modes."
+msgstr "Калькулятор с финансовым и научным режимами."
+
+msgid "Calculator — Advanced"
+msgstr "Калькулятор — Расширенный"
+
+msgid "Calculator — Financial"
+msgstr "Калькулятор — Финансовый"
+
+msgid "Calculator — Programming"
+msgstr "Калькулятор — Программирование"
+
+msgid "Calculator — Scientific"
+msgstr "Калькулятор — Научный"
+
+msgid "Canadian dollar"
+msgstr "Канадский доллар"
+
+msgid "Ch_aracter:"
+msgstr "_Символ:"
+
+msgid "Chinese yuan renminbi"
+msgstr "Китайский юань"
+
+msgid "Clear display [Escape]"
+msgstr "Очистить [Escape]"
+
+msgid "Clr"
+msgstr "C"
+
+msgid "Compounding Term"
+msgstr "Составной период"
+
+msgid ""
+"Converts between different currencies. Enter the amount and the currency you "
+"want to convert from on the upper row, and the currency you want to convert "
+"to on the lower row, and the amount will be displayed on the lower row."
+msgstr ""
+"Конвертирование различных валют. Введите величину и выберите конвертируемую "
+"валюту из верхнего ряда и требуемую валюту в нижнем ряду, где и отобразится "
+"конвертированное значение. "
+
+msgid "Croatian kuna"
+msgstr "Хорватская куна"
+
+msgid "Ctrm"
+msgstr "Ctrm"
+
+msgid "Currency Conversion"
+msgstr "Конвертирование валют"
+
+msgid ""
+"Currency rates could not be downloaded. You may receive inaccurate results, "
+"or you may not receive any results at all."
+msgstr ""
+"Не удалось загрузить курсы валют. Возможно, полученные результаты будут "
+"неточными или не будут получены вовсе."
+
+msgid "Czech koruna"
+msgstr "Чешская крона"
+
+msgid "Danish krone"
+msgstr "Датская крона"
+
+msgid "Ddb"
+msgstr "Ddb"
+
+msgid "Decimal"
+msgstr "Десятичный"
+
+msgid "Degrees"
+msgstr "Градусы"
+
+msgid "Display Mode"
+msgstr "Режим отображения"
+
+msgid "Display _Format:"
+msgstr "_Формат вывода:"
+
+msgid "Divide [/]"
+msgstr "Разделить [/]"
+
+msgid "Division by zero is undefined"
+msgstr "Деление на ноль не определено"
+
+msgid "Double-Declining Depreciation"
+msgstr "Отброс двойного остатка"
+
+msgid "End block [)]"
+msgstr "Закончить блок [)]"
+
+msgid "Engineering"
+msgstr "Инженерный"
+
+msgid "Error loading user interface"
+msgstr "Не удалось загрузить пользовательский интерфейс"
+
+msgid "Estonian kroon"
+msgstr "Эстонская крона"
+
+msgid "Euler's number"
+msgstr "Число Эйлера"
+
+msgid "Euro"
+msgstr "Евро"
+
+msgid "Exponent"
+msgstr "Возвести в степень"
+
+msgid "Exponent [^ or **]"
+msgstr "Возвести в степень [^ или **]"
+
+msgid "Factorial"
+msgstr "Факториал"
+
+msgid "Factorial [!]"
+msgstr "Факториал [!]"
+
+msgid "Factorial is only defined for natural numbers"
+msgstr "Факториал определён только для натуральных чисел"
+
+msgid "Factorize"
+msgstr "Разложить на множители"
+
+msgid "Factorize into prime numbers (Ctrl+F)"
+msgstr "Разложить на простые множители (Ctrl+F)"
+
+msgid "Fractional portion"
+msgstr "Дробная часть"
+
+msgid "Function '%s' is not defined"
+msgstr "Функция «%s» не определена"
+
+msgid "Future Value"
+msgstr "Будущая стоимость"
+
+msgid "Future _Value:"
+msgstr "Будущая _стоимость:"
+
+msgid "Fv"
+msgstr "Fv"
+
+msgid ""
+"GTK+ Options:\n"
+"  --class=CLASS                   Program class as used by the window "
+"manager\n"
+"  --name=NAME                     Program name as used by the window "
+"manager\n"
+"  --screen=SCREEN                 X screen to use\n"
+"  --sync                          Make X calls synchronous\n"
+"  --gtk-module=MODULES            Load additional GTK+ modules\n"
+"  --g-fatal-warnings              Make all warnings fatal"
+msgstr ""
+"Опции GTK+:\n"
+"  --class=CLASS                   Класс программы, который используется "
+"менеджером окон\n"
+"  --name=NAME                     Имя программы, которое используется "
+"менеджером окон\n"
+"  --screen=SCREEN                 Экран, используемый графической средой X\n"
+"  --sync                          Сделать вызовы от X синхронными\n"
+"  --gtk-module=MODULES            Загрузить дополнительные GTK+ модули\n"
+"  --g-fatal-warnings              Сделать все предупреждения фатальными"
+
+msgid "Gcalctool"
+msgstr "Калькулятор Gcalctool"
+
+msgid ""
+"Gcalctool is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"Gcalctool is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with Gcalctool; if not, write to the Free Software Foundation, Inc.,\n"
+"51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA"
+msgstr ""
+"Gcalctool — свободное программное обеспечение; вы можете\n"
+"распространять его и/или модифицировать на условиях Универсальной \n"
+"общественной лицензии GNU версии 2 либо любой более поздней.\n"
+"\n"
+"Gcalctool распространяется в надежде на то, что он будет полезен,\n"
+"но БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ; даже без гарантий КОММЕРЧЕСКОЙ\n"
+"ЦЕННОСТИ или ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ. Для получения\n"
+"дополнительных сведений обратитесь к Универсальной общественной\n"
+"лицензии GNU.\n"
+"\n"
+"Вы должны были получить копию лицензии GNU c программой Gcalctool;\n"
+"если лицензия не была получена, известите об этом Фонд свободного\n"
+"программного обеспечения по адресу: Free Software Foundation, Inc.,\n"
+"51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA"
+
+msgid "Gpm"
+msgstr "Gpm"
+
+msgid "Gradians"
+msgstr "Грады"
+
+msgid "Gross Profit Margin"
+msgstr "Валовый доход"
+
+msgid ""
+"Help Options:\n"
+"  -v, --version                   Show release version\n"
+"  -h, -?, --help                  Show help options\n"
+"  --help-all                      Show all help options\n"
+"  --help-gtk                      Show GTK+ options"
+msgstr ""
+"Опции помощи:\n"
+"  -v, --version                   Показать версию выпуска\n"
+"  -h, -?, --help                  Показать опции помощи\n"
+"  --help-all                      Показать все опции помощи\n"
+"  --help-gtk                      Показать опции GTK+"
+
+msgid "Hexadecimal"
+msgstr "Шестнадцатеричный"
+
+msgid "Hong Kong dollar"
+msgstr "Гонконгский доллар"
+
+msgid "Hungarian forint"
+msgstr "Венгерский форинт"
+
+msgid "Icelandic krona"
+msgstr "Исландская крона"
+
+msgid "Indian rupee"
+msgstr "Индийская рупия"
+
+msgid ""
+"Indicates whether any trailing zeroes after the numeric point should be "
+"shown in the display value."
+msgstr "Определяет, показываются ли незначащие нули после десятичной запятой."
+
+msgid "Indicates whether the memory register window is initially displayed."
+msgstr "Определяет, показывать ли окно с регистрами памяти при запуске."
+
+msgid "Indicates whether thousands separators are shown in large numbers."
+msgstr "Определяет, показывать ли разделители тысяч в больших числах."
+
+msgid "Indonesian rupiah"
+msgstr "Индонезийская рупия"
+
+msgid "Insert ASCII Value"
+msgstr "Вставить ASCII значение"
+
+msgid "Insert Character"
+msgstr "Вставить символ"
+
+msgid "Insert character"
+msgstr "Вставить символ"
+
+msgid "Integer portion"
+msgstr "Целая часть"
+
+msgid "Inverse"
+msgstr "Инвертировать"
+
+msgid "Inverse [Ctrl+I]"
+msgstr "Инвертировать [Ctrl+I]"
+
+msgid "Inverse cosine is undefined for values outside [-1, 1]"
+msgstr "Обратный косинус не определён для значений вне диапазона [-1, 1]"
+
+msgid ""
+"Inverse hyperbolic cosine is undefined for values less than or equal to one"
+msgstr ""
+"Обратный гиперболический косинус не определён для значений, меньших или "
+"равных единице"
+
+msgid "Inverse hyperbolic tangent is undefined for values outside [-1, 1]"
+msgstr ""
+"Обратный гиперболический тангенс не определён для значений вне диапазона "
+"[-1, 1]"
+
+msgid "Inverse sine is undefined for values outside [-1, 1]"
+msgstr "Обратный синус не определён для значений вне диапазона [-1, 1]"
+
+msgid "Japanese yen"
+msgstr "Японская йена"
+
+msgid "Latvian lats"
+msgstr "Латвийский лат"
+
+msgid "Lithuanian litas"
+msgstr "Литовский лит"
+
+msgid "Logarithm of negative values is undefined"
+msgstr "Логарифм отрицательного числа не определён"
+
+msgid "Logarithm of zero is undefined"
+msgstr "Логарифм нуля не определён"
+
+msgid "Malaysian ringgit"
+msgstr "Малайзийский ринггит"
+
+msgid "Malformed expression"
+msgstr "Некорректное выражение"
+
+msgid "Mexican peso"
+msgstr "Мексиканский песо"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Modulus divide"
+msgstr "Остаток от деления"
+
+msgid "Modulus division is only defined for integers"
+msgstr "Деление по модулю определено только для целых чисел"
+
+msgid "Multiply [*]"
+msgstr "Умножить [*]"
+
+msgid "Natural logarithm"
+msgstr "Натуральный логарифм"
+
+msgid "Need an integer to factorize"
+msgstr "Для разложения на простые множители необходимо целое число"
+
+msgid "Negative root of zero is undefined"
+msgstr "Отрицательный корень нуля не определён"
+
+msgid "New Romanian leu"
+msgstr "Новый румынский лей"
+
+msgid "New Turkish lira"
+msgstr "Новая турецкая лира"
+
+msgid "New Zealand dollar"
+msgstr "Новозеландский доллар"
+
+msgid "No redo steps"
+msgstr "Нет действий, которые можно вернуть"
+
+msgid "No sane value to bitwise shift"
+msgstr "Отсутствует разумное значение для побитового сдвига"
+
+msgid "No sane value to store"
+msgstr "Отсутствует разумное значение для сохранения"
+
+msgid "No undo history"
+msgstr "Нет истории отмены изменений"
+
+msgid "Norwegian krone"
+msgstr "Норвежская крона"
+
+msgid "Numeric Base"
+msgstr "Основание системы счисления"
+
+msgid "Numeric point [. or ,]"
+msgstr "Десятичная точка [. или ,]"
+
+msgid "Octal"
+msgstr "Восьмеричный"
+
+msgid "Ones' complement"
+msgstr "Дополнение до единицы"
+
+msgid "Overflow. Try a bigger word size"
+msgstr "Переполнение. Попробуйте установить большее значение размера слова"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Payment Period"
+msgstr "Период оплаты"
+
+msgid "Percentage [%]"
+msgstr "Процент [%]"
+
+msgid "Perform arithmetic, scientific or financial calculations"
+msgstr "Вычисления: арифметические, научные и финансовые"
+
+msgid "Periodic Interest Rate"
+msgstr "Периодическая процентная ставка"
+
+msgid "Periodic Interest _Rate:"
+msgstr "Периодическая проц_ентная ставка:"
+
+msgid "Periodic Payment"
+msgstr "Периодическая оплата"
+
+msgid "Philippine peso"
+msgstr "Филиппинское песо"
+
+msgid "Pi [Ctrl+P]"
+msgstr "Число Пи [Ctrl+P]"
+
+msgid "Pmt"
+msgstr "Pmt"
+
+msgid "Polish zloty"
+msgstr "Польский злотый"
+
+msgid "Pound sterling"
+msgstr "Фунт стерлингов"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Present Value"
+msgstr "Текущее значение"
+
+msgid "Present _Value:"
+msgstr "Текущее _значение:"
+
+msgid "Pv"
+msgstr "Pv"
+
+msgid "Radians"
+msgstr "Радианы"
+
+msgid "Random number"
+msgstr "Случайное число"
+
+msgid "Rate"
+msgstr "Rate"
+
+msgid "Recall"
+msgstr "П→X"
+
+msgid "Recall value"
+msgstr "Восстановить из памяти"
+
+msgid "Reciprocal of zero is undefined"
+msgstr "Обратная величина нуля не определена"
+
+msgid "Result Region"
+msgstr "Область результата"
+
+msgid "Root [Ctrl+S]"
+msgstr "Корень [Ctrl+S]"
+
+msgid "Root must be non-zero"
+msgstr "Корень должен быть ненулевым"
+
+msgid "Russian rouble"
+msgstr "Российский рубль"
+
+msgid "Scientific"
+msgstr "Научный"
+
+msgid "Scientific Exponent"
+msgstr "Экспоненциальная запись"
+
+msgid "Scientific exponent [Ctrl+E]"
+msgstr "Экспоненциальная запись [Ctrl+E]"
+
+msgid "Shift Left"
+msgstr "Сдвинуть влево"
+
+msgid "Shift Right"
+msgstr "Сдвинуть вправо"
+
+msgid "Shift is only possible on integer values"
+msgstr "Сдвиг возможен только для целых чисел"
+
+msgid "Shift left [<]"
+msgstr "Сдвинуть влево [<]"
+
+msgid "Shift right [>]"
+msgstr "Сдвинуть вправо [>]"
+
+msgid "Show %d decimal _places"
+msgstr "Показывать %d _десятичных разрядов"
+
+msgid "Show Registers"
+msgstr "Показывать регистры"
+
+msgid "Show Thousands Separators"
+msgstr "Показывать разделители тысяч"
+
+msgid "Show Trailing Zeroes"
+msgstr "Показывать незначащие нули после запятой"
+
+msgid "Show _thousands separators"
+msgstr "Показывать разделители _тысяч"
+
+msgid "Show trailing _zeroes"
+msgstr "Показывать незначащие _нули после запятой"
+
+msgid "Singapore dollar"
+msgstr "Сингапурский доллар"
+
+msgid "Sln"
+msgstr "Sln"
+
+msgid "South African rand"
+msgstr "Южноафриканский рэнд"
+
+msgid "South Korean won"
+msgstr "Южнокорейская вона"
+
+msgid "Square root is undefined for negative values"
+msgstr "Квадратный корень не определён для отрицательных чисел"
+
+msgid "Start block [(]"
+msgstr "Начать блок [(]"
+
+msgid "Store"
+msgstr "X→П"
+
+msgid "Store value"
+msgstr "Сохранить в память"
+
+msgid "Straight-Line Depreciation"
+msgstr "Линейная амортизация"
+
+msgid "Subscript"
+msgstr "Подстрочный индекс"
+
+msgid "Subscript number mode [Alt+number]"
+msgstr "Режим подстрочных цифр [Alt+number]"
+
+msgid "Subtract [-]"
+msgstr "Вычесть [-]"
+
+msgid "Sum-of-the-Years'-Digits Depreciation"
+msgstr "Амортизация Сумма-Лет-Цифр"
+
+msgid "Superscript"
+msgstr "Надстрочный индекс"
+
+msgid "Superscript number mode [Ctrl+number]"
+msgstr "Режим надстрочных цифр [Ctrl+number]"
+
+msgid "Swedish krona"
+msgstr "Шведская крона"
+
+msgid "Swiss franc"
+msgstr "Швейцарский франк"
+
+msgid "Syd"
+msgstr "Syd"
+
+msgid ""
+"Tangent is undefined for angles that are multiples of π (180°) from π∕2 (90°)"
+msgstr ""
+"Тангенс не определён для углов с периодом π (180°), начиная с π∕2 (90°)"
+
+msgid "Term"
+msgstr "Term"
+
+msgid "Thai baht"
+msgstr "Тайский бат"
+
+msgid ""
+"The initial calculator mode. Valid values are \"BASIC\", \"FINANCIAL\", "
+"\"LOGICAL\", \"SCIENTIFIC\" and \"PROGRAMMING\""
+msgstr ""
+"Исходный режим калькулятора. Допустимые значения: «BASIC», «FINANCIAL», "
+"«LOGICAL», «SCIENTIFIC» и «PROGRAMMING»"
+
+msgid ""
+"The initial display mode. Valid values are \"ENG\" (engineering), \"FIX"
+"\" (fixed-point) and \"SCI\" (scientific)"
+msgstr ""
+"Исходный режим отображения. Допустимые значения: «ENG» (инженерный), "
+"«FIX» (с фиксированной точкой) и «SCI» (научный)"
+
+msgid ""
+"The initial trigonometric type. Valid values are \"DEG\" (degrees), \"GRAD"
+"\" (gradians) and \"RAD\" (radians)."
+msgstr ""
+"Исходный тип тригонометрических величин. Допустимые значения: "
+"«DEG» (градусы), «GRAD» (грады) и «RAD» (радианы)."
+
+msgid "The initial x-coordinate for the window"
+msgstr "Исходная x-координата окна"
+
+msgid "The initial y-coordinate for the window"
+msgstr "Исходная y-координата окна"
+
+msgid ""
+"The number of digits displayed after the numeric point. This value must be "
+"in the range 0 to 9."
+msgstr ""
+"Число отображаемых знаков после запятой. Значение должно быть в диапазоне от "
+"0 до 9."
+
+msgid "The number of pixels to place the window from the left of the screen."
+msgstr "Число пикселов, на которое нужно сдвинуть окно влево от границы экрана"
+
+msgid "The number of pixels to place the window from the top of the screen."
+msgstr "Число пикселов, на которое нужно сдвинуть окно вниз от границы экрана"
+
+msgid "The numeric base for input and display."
+msgstr "Система счисления вводимых и отображаемых чисел."
+
+msgid "The power of negative numbers is only defined for integer exponents"
+msgstr ""
+"Функция возведения в степень для отрицательных чисел определена только для "
+"целочисленных показателей степени"
+
+msgid "The power of zero is undefined for a negative exponent"
+msgstr ""
+"Функция возведения в степень нуля не определена для отрицательных "
+"показателей степени"
+
+msgid ""
+"The size of the words used in bitwise operations. Valid values are 16, 32 "
+"and 64."
+msgstr ""
+"Размер слова, используемый в побитовых операциях. Допустимые значения: 16, "
+"32 и 64."
+
+msgid "Trigonometric type"
+msgstr "Тригонометрический режим"
+
+msgid "Truncate value"
+msgstr "Целочисленная часть"
+
+msgid "Two's complement"
+msgstr "Дополнение до двух"
+
+msgid "US dollar"
+msgstr "Доллар США"
+
+msgid "Unable to open help file"
+msgstr "Не удалось открыть файл справки"
+
+msgid "Unknown argument '%s'"
+msgstr "Неизвестный аргумент «%s»"
+
+msgid "Unknown conversion"
+msgstr "Неизвестное преобразование"
+
+msgid "Unknown variable '%s'"
+msgstr "Неизвестная переменная «%s»"
+
+msgid ""
+"Usage:\n"
+"  %s — Perform mathematical calculations"
+msgstr ""
+"Использование:\n"
+"  %s — Произвести математические вычисления"
+
+msgid "Word _size:"
+msgstr "Размер _слова:"
+
+msgid "Word size"
+msgstr "Размер слова"
+
+msgid ""
+"You don't have any recent currency rates. Should some be downloaded now?"
+msgstr "Нет ранее использованных курсов валют. Загрузить их сейчас?"
+
+msgid "_1 place"
+msgstr "_1 разряд"
+
+msgid "_2 places"
+msgstr "_2 разряда"
+
+msgid "_3 places"
+msgstr "_3 разряда"
+
+msgid "_4 places"
+msgstr "_4 разряда"
+
+msgid "_5 places"
+msgstr "_5 разрядов"
+
+msgid "_6 places"
+msgstr "_6 разрядов"
+
+msgid "_7 places"
+msgstr "_7 разрядов"
+
+msgid "_8 places"
+msgstr "_8 разрядов"
+
+msgid "_9 places"
+msgstr "_9 разрядов"
+
+msgid "_Advanced"
+msgstr "_Расширенный"
+
+msgid "_Angle units:"
+msgstr "Единицы измерения _углов:"
+
+msgid "_Basic"
+msgstr "_Простой"
+
+msgid "_Calculator"
+msgstr "_Калькулятор"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Cost:"
+msgstr "Ц_ена:"
+
+msgid "_Financial"
+msgstr "_Финансовый"
+
+msgid "_Future Value:"
+msgstr "_Будущая стоимость:"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Insert"
+msgstr "_Вставить"
+
+msgid "_Life:"
+msgstr "_Жизненный цикл:"
+
+msgid "_Margin:"
+msgstr "_Маржа:"
+
+msgid "_Number of Periods:"
+msgstr "_Число периодов:"
+
+msgid "_Period:"
+msgstr "_Период:"
+
+msgid "_Periodic Payment:"
+msgstr "Период_ическая оплата:"
+
+msgid "_Principal:"
+msgstr "_Основной капитал:"
+
+msgid "_Programming"
+msgstr "_Программирование"
+
+msgid "_Salvage:"
+msgstr "_Вторсырьё:"
+
+msgid "_Scientific"
+msgstr "_Научный"
+
+msgid "_Term:"
+msgstr "_Срок:"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "nth root of negative number is undefined for even n"
+msgstr "Корень n-той степени от отрицательного числа не определён для чётных n"
+
+msgid "translator-credits"
+msgstr ""
+"Андрей Носенко <awn@bcs.zp.ua>\n"
+"Артур Сибагатуллин <ArtSib@mail.ru>\n"
+"Alexander Saprykin <xelfium@gmail.com>, 2010"
+
+msgid "© 1986–2008 The Gcalctool authors"
+msgstr "© 1986-2008 авторы Gcalctool"

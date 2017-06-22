@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-desktop HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-03 23:01+0800\n"
+"PO-Revision-Date: 2008-03-04 17:45+0100\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "%(name)s: %(value)s"
+msgstr "%(name)s: %(value)s"
+
+msgid "<b>%(name)s:</b> %(value)s"
+msgstr "<b>%(name)s:</b> %(value)s"
+
+msgid "About GNOME"
+msgstr "О среде GNOME"
+
+msgid "About Solaris Desktop"
+msgstr "О рабочей среде Solaris"
+
+msgid "About the GNOME Desktop"
+msgstr "О среде GNOME"
+
+msgid "Bad command (Exec) to launch"
+msgstr "Команда (Exec) для запуска недопустима"
+
+msgid "Brought to you by:"
+msgstr "Среду GNOME создали для вас:"
+
+msgid "Build Date"
+msgstr "Дата сборки"
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "контроллер CRT %d не может управлять выходом %s"
+
+msgid "CRTC %d does not support rotation=%s"
+msgstr "контроллер CRT %d не поддерживает вращение=%s"
+
+msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
+msgstr ""
+"контроллер CRT %d: пробный режим %dx%d@%dГц с выходом на %dx%d@%dГц (попытка "
+"%d)\n"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+"Не удалось найти подходящий терминал, используется приложение xterm, хотя и "
+"оно может не работать"
+
+msgid "Cannot find file '%s'"
+msgstr "Не удалось найти файл «%s»"
+
+msgid "Contact"
+msgstr "Контакт"
+
+msgid ""
+"Contains Macromedia Flash Player technology by Macromedia, Inc., Copyright "
+"1995-2002 Macromedia, Inc. All rights reserved. Macromedia, Flash and "
+"Macromedia Flash are trademarks or registered trademarks of Macromedia, Inc. "
+"in the United States and internationally."
+msgstr ""
+"Использует технологию Macromedia Flash Player компании Macromedia, Inc., "
+"Авторское право 1995-2002 Macromedia, Inc. Все права защищены. Macromedia, "
+"Flash и Macromedia Flash являются товарными знаками или зарегистрированными "
+"торговыми марками компании Macromedia, Inc. внутри США и в других странах."
+
+msgid "Copyright 2009 Sun Microsystems, Inc. All rights reserved."
+msgstr "Авторские права 2009 Sun Microsystems, Inc. Все права защищены."
+
+msgid "Developers"
+msgstr "Разработчики"
+
+msgid ""
+"Developers and System Support personnel should be aware that future versions "
+"of GNOME may contain different applications, tools and programming "
+"interfaces from those found in GNOME 2.0, 2.6 or later released versions."
+msgstr ""
+"Разработчики и персонал технической поддержки должны иметь в виду, что в "
+"будущих версиях GNOME могут содержаться приложения, инструменты и "
+"программные интерфейсы, отличающиеся от таковых в GNOME 2.0, 2.6 или более "
+"поздних версиях."
+
+msgid "Display information on this GNOME version"
+msgstr "Показать информацию об этой версии среды GNOME"
+
+msgid "Distributor"
+msgstr "Дистрибьютор"
+
+msgid "Error reading file '%s': %s"
+msgstr "Ошибка чтения файла «%s»: %s"
+
+msgid "Error rewinding file '%s': %s"
+msgstr "Ошибка перемотки файла «%s»: %s"
+
+msgid "File '%s' is not a regular file or directory."
+msgstr "Файл «%s» не является обычным файлом или каталогом."
+
+msgid ""
+"For the avoidance of doubt, except that if any license choice other than GPL "
+"or LGPL is available it will apply instead, Sun elects to use only the "
+"General Public License version 2 (GPLv2) at this time for any software where "
+"a choice of GPL license versions is made available with the language "
+"indicating that GPLv2 or any later version may be used, or where a choice of "
+"which version of the GPL is applied is otherwise unspecified."
+msgstr ""
+"Во избежание сомнений, за исключением случаев, когда может применяться "
+"лицензия, отличная от GPL или LGPL, компания Sun на данный момент использует "
+"только General Public License версии 2 (GPLv2) для любого программного "
+"обеспечения, для которого предоставляется выбор версий лицензий GPL, и из "
+"текста следует, что возможно использование GPLv2 или более поздней версии, "
+"либо выбор используемой версии GPL особо не указывается."
+
+msgid "Friends of GNOME"
+msgstr "Друзья GNOME"
+
+msgid "GNOME Library"
+msgstr "Библиотека среды GNOME"
+
+msgid ""
+"GNOME also includes a complete development platform for applications "
+"programmers, allowing the creation of powerful and complex applications."
+msgstr ""
+"Среда GNOME также включает в себя законченную платформу для разработчиков, "
+"позволяющую создавать мощные и сложные приложения."
+
+msgid ""
+"GNOME includes most of what you see on your computer, including the file "
+"manager, web browser, menus, and many applications."
+msgstr ""
+"Среда GNOME включает в себя большую часть того, что вы видите на вашем "
+"компьютере, включая файловый менеджер, браузер веб-страниц, панель меню и "
+"многое другое."
+
+msgid ""
+"GNOME is a Free, usable, stable, accessible desktop environment for the Unix-"
+"like family of operating systems."
+msgstr ""
+"Среда GNOME является свободным, стабильным, удобным для использования "
+"окружением рабочего стола для семейства UNIX-подобных операционных систем."
+
+msgid "GNOME version, licence and useful links"
+msgstr "Версия GNOME, лицензия и полезные ссылки"
+
+msgid ""
+"GNOME's focus on usability and accessibility, regular release cycle, and "
+"strong corporate backing make it unique among Free Software desktops."
+msgstr ""
+"Среда GNOME уделяет особое внимание удобству использования (в том числе и "
+"для людей с ограниченными возможностями), регулярности выхода новых версий и "
+"сильной корпоративной поддержке, что выделяет её из ряда свободных окружений "
+"рабочего стола."
+
+msgid ""
+"GNOME's greatest strength is our strong community. Virtually anyone, with or "
+"without coding skills, can contribute to making GNOME better."
+msgstr ""
+"Наибольшая сила среды GNOME заключается в сильном сообществе. Каждый, "
+"неважно с опытом программирования или без, может внести свой вклад в "
+"улучшение среды."
+
+msgid ""
+"Hundreds of people have contributed code to GNOME since it was started in "
+"1997; many more have contributed in other important ways, including "
+"translations, documentation, and quality assurance."
+msgstr ""
+"Сотни человек писали исходный код среды GNOME с момента старта проекта в "
+"1997 году, но гораздо больше людей внесли свой вклад в развитие среды "
+"другими важными путями, такими как перевод, документирование и контроль "
+"качества."
+
+msgid "Laptop"
+msgstr "Ноутбук"
+
+msgid "Learn more about GNOME"
+msgstr "Узнать больше о GNOME"
+
+msgid "Mirror Screens"
+msgstr "Зеркальные экраны"
+
+msgctxt "Monitor vendor"
+msgid "Unknown"
+msgstr "Неизвестный"
+
+msgid "News"
+msgstr "Новости"
+
+msgid "No URL to launch"
+msgstr "Не указан URL для запуска"
+
+msgid "No command (Exec) to launch"
+msgstr "Отсутствует команда (Exec) для запуска"
+
+msgid "No filename to save to"
+msgstr "Не указано имя файла для сохранения"
+
+msgid "No name"
+msgstr "Без имени"
+
+msgid "Not a launchable item"
+msgstr "Элемент не является запускаемым"
+
+msgid "RANDR extension is not present"
+msgstr "Расширение RANDR отсутствует"
+
+msgid "Software"
+msgstr "Программное обеспечение "
+
+msgid "Starting %s"
+msgstr "Запускается %s"
+
+msgid ""
+"Sun, Sun Microsystems, the Sun logo and Java are trademarks or registered "
+"trademarks of Sun Microsystems, Inc. in the U.S. and other countries."
+msgstr ""
+"Sun, Sun Microsystems, логотип Sun и Java являются товарными знаками или "
+"зарегистрированными товарными знаками корпорации Sun Microsystems, Inc. в "
+"США и в других странах."
+
+msgid "The Mysterious GEGL"
+msgstr "Таинственный GEGL"
+
+msgid "The Squeaky Rubber GNOME"
+msgstr "Пищащий резиновый GNOME"
+
+msgid "Trying modes for CRTC %d\n"
+msgstr "Проверка режимов для контроллера CRT %d\n"
+
+msgid ""
+"U.S. Government Rights - Commercial software. Government users are subject "
+"to the Sun Microsystems, Inc. standard license agreement and applicable "
+"provisions of the FAR and its supplements. Use is subject to license terms. "
+"This distribution may include materials developed by third parties. Portions "
+"may be derived from Berkeley BSD systems, licensed from U. of CA."
+msgstr ""
+"Права правительства США - коммерческое программное обеспечение. "
+"Использование этого ПО правительственными учреждениями регулируется "
+"стандартным лицензионным соглашением корпорации Sun Microsystems, Inc., а "
+"также соответствующими положениями FAR и дополнениями к ним. Данный продукт "
+"должен использоваться в соответствии с условиями лицензии. В дистрибутив "
+"могут входить материалы других разработчиков."
+
+msgid "Unknown encoding of: %s"
+msgstr "Кодировка «%s» неизвестна"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Wanda The GNOME Fish"
+msgstr "Ванда — рыбка GNOME"
+
+msgid "Welcome to the GNOME Desktop"
+msgstr "Добро пожаловать в среду GNOME"
+
+msgid "_Copy URL"
+msgstr "Ко_пировать URL"
+
+msgid "_Open URL"
+msgstr "О_ткрыть URL"
+
+msgid "cannot clone to output %s"
+msgstr "не удалось клонировать в выход %s"
+
+msgid ""
+"could not assign CRTCs to outputs:\n"
+"%s"
+msgstr ""
+"не удалось установить контроллеры CRT для выходов:\n"
+"%s"
+
+msgid "could not get information about CRTC %d"
+msgstr "не удалось получить информацию о контроллере CRT %d"
+
+msgid "could not get information about output %d"
+msgstr "не удалось получить информацию о выходе %d"
+
+msgid "could not get the range of screen sizes"
+msgstr "не удалось получить допустимые размеры экрана"
+
+msgid "could not get the screen resources (CRTCs, outputs, modes)"
+msgstr "не удалось получить доступ к ресурсам экрана (CRTC, выходы, режимы)"
+
+msgid "could not set the configuration for CRTC %d"
+msgstr "не удалось установить конфигурацию контроллера CRT %d"
+
+msgid ""
+"none of the saved display configurations matched the active configuration"
+msgstr "ни одна из сохранённых конфигураций не совпадает с текущей"
+
+msgid ""
+"none of the selected modes were compatible with the possible modes:\n"
+"%s"
+msgstr ""
+"ни один из выбранных режимов не совместим с разрешёнными режимами:\n"
+"%s"
+
+msgid ""
+"output %s does not have the same parameters as another cloned output:\n"
+"existing mode = %d, new mode = %d\n"
+"existing coordinates = (%d, %d), new coordinates = (%d, %d)\n"
+"existing rotation = %s, new rotation = %s"
+msgstr ""
+"параметры выхода %s отличаются от параметров другого клонированного выхода:\n"
+"режим = %d, новый режим = %d\n"
+"координаты = (%d, %d), новые координаты = (%d, %d)\n"
+"вращениe = %s, новое вращение = %s"
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr "выход %s не поддерживает режим %dx%d@%dГц"
+
+msgid ""
+"requested position/size for CRTC %d is outside the allowed limit: "
+"position=(%d, %d), size=(%d, %d), maximum=(%d, %d)"
+msgstr ""
+"требуемое положение или размер для CRTC %d выходит за рамки допустимых "
+"пределов: положение=(%d, %d), размер=(%d, %d), максимально=(%d, %d)"
+
+msgid ""
+"required virtual size does not fit available size: requested=(%d, %d), "
+"minimum=(%d, %d), maximum=(%d, %d)"
+msgstr ""
+"требуемый виртуальный размер не умещается в доступное пространство: "
+"требуется=(%d, %d), минимум=(%d, %d), максимум=(%d, %d)"
+
+msgid "unhandled X error while getting the range of screen sizes"
+msgstr "при попытке получения допустимых размеров экрана возникла ошибка"

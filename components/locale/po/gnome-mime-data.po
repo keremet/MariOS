@@ -1,0 +1,1097 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mime-data\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2004-01-21 04:10+0100\n"
+"PO-Revision-Date: 2004-01-21 16:04+0300\n"
+"Last-Translator: Dmitry G. Mastrukov <dmitry@taurussoft.org>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "2D chemical structure"
+msgstr "двумерная химическая структура"
+
+msgid "3D Studio image"
+msgstr "изображение формата 3D Studio"
+
+msgid "AIFC audio"
+msgstr "аудиозапись формата AIFC"
+
+msgid "AIFF audio"
+msgstr "аудиозапись формата AIFF"
+
+msgid "ANIM animation"
+msgstr "анимация формата ANIM"
+
+msgid "ARJ archive"
+msgstr "архив формата ARJ"
+
+msgid "AVI video"
+msgstr "видеозапись формата AVI"
+
+msgid "AbiWord document"
+msgstr "документ формата AbiWord"
+
+msgid "Active Server page"
+msgstr "скрипт формата \"активная страница сервера (.asp)\""
+
+msgid "Address card"
+msgstr "визитка"
+
+msgid "Adobe FrameMaker font"
+msgstr "шрифт формата Adobe FrameMaker"
+
+msgid "Adobe font metrics"
+msgstr "метрики шрифта формата Adobe"
+
+msgid "Andrew Toolkit inset"
+msgstr "вкладка формата Andrew Toolkit"
+
+msgid "Application launcher"
+msgstr "программа запуска приложения"
+
+msgid "ApplixWare Graphics image"
+msgstr "изображение формата ApplixWare Graphics"
+
+msgid "Applixware Words document"
+msgstr "документ формата Applixware Words"
+
+msgid "Applixware presentation"
+msgstr "презентация формата Applixware"
+
+msgid "Applixware spreadsheet"
+msgstr "таблица формата Applixware"
+
+msgid "Ar archive"
+msgstr "Архив формата ar"
+
+msgid "Assembly source code"
+msgstr "Исходный текст на языке ассемблера"
+
+msgid "Audio"
+msgstr "Аудиозапись"
+
+msgid "Authors list"
+msgstr "Список авторов"
+
+msgid "AutoCAD image"
+msgstr "изображение формата AutoCAD"
+
+msgid "BCPIO document"
+msgstr "документ формата BCPIO"
+
+msgid "BDF font"
+msgstr "шрифт формата BDF"
+
+msgid "Backup file"
+msgstr "резервный файл"
+
+msgid "Basic audio"
+msgstr "обычная аудиозапись"
+
+msgid "Bibliography record"
+msgstr "библиографическая запись"
+
+msgid "Binary program"
+msgstr "двоичная программа"
+
+msgid "BitTorrent seed file"
+msgstr "файл рассеивания программы BitTorrent"
+
+msgid "Blender file"
+msgstr "файл формата Blender"
+
+msgid "Block device"
+msgstr "блочное устройство"
+
+msgid "Bzip2 compressed file"
+msgstr "сжатый (программой bzip2) файл"
+
+msgid "C shell script"
+msgstr "скрипт оболочки типа csh"
+
+msgid "C source code"
+msgstr "исходный код на языке Си"
+
+msgid "C source code header"
+msgstr "заголовок исходного кода на языке Си"
+
+msgid "C++ source code"
+msgstr "исходный код на языке Си++"
+
+msgid "CGI program"
+msgstr "программа типа CGI"
+
+msgid "CGM image"
+msgstr "изображение формата CGM"
+
+msgid "CMU raster image"
+msgstr "растровое изображение формата CMU"
+
+msgid "CPIO archive"
+msgstr "архив формата CPIO"
+
+msgid "CPIO archive (Gzip-compressed)"
+msgstr "сжатый (программой gzip) архив формата CPIO"
+
+msgid "Calendar file"
+msgstr "файл календаря"
+
+msgid "Calendar or event document"
+msgstr "календарь или событие"
+
+msgid "Character device"
+msgstr "символьное устройство"
+
+msgid "Cinelerra editing sheet"
+msgstr "лист редактирования программы Cinerella"
+
+msgid "Comma-separated text document"
+msgstr "документ с текстовыми полями, разделёнными запятыми"
+
+msgid "Commodore 64 audio"
+msgstr "аудиозапись формата Commodore 64"
+
+msgid "Compound document"
+msgstr "составной документ"
+
+msgid "Compress-compressed file"
+msgstr "сжатый (программой compress) файл"
+
+msgid "Compressed GIMP document"
+msgstr "сжатый документ формата GIMP"
+
+msgid "Corel Draw drawing"
+msgstr "рисунок формата Corel Draw"
+
+msgid "Crystalline structure model"
+msgstr "структурная модель программы Cristalline"
+
+msgid "DCL script"
+msgstr "скрипт типа DSL"
+
+msgid "DOS font"
+msgstr "шрифт формата DOS"
+
+msgid "DOS/Windows program"
+msgstr "программа типа DOS/Windows"
+
+msgid "DSSSL document"
+msgstr "документ типа DSSSL"
+
+msgid "DV video"
+msgstr "видеозапись формата DV"
+
+msgid "DXF vector graphic"
+msgstr "векторная графика формата DXF"
+
+msgid "Debian package"
+msgstr "пакет формата Debian"
+
+msgid "Device Independant Bitmap"
+msgstr "изображение формата DIB"
+
+msgid "Dia diagram"
+msgstr "диаграмма формата Dia"
+
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr "изображение формата Digital Imaging and Communications in Medicine"
+
+msgid "Digital Moving Picture Exchange image"
+msgstr "Изображение формата Digital Moving Picture Exchange"
+
+msgid "Directory information file"
+msgstr "Файл информации о каталоге"
+
+msgid "DjVu image"
+msgstr "изображение формата DjVu"
+
+msgid "Document type definition"
+msgstr "Файл определения типа документа (DTD)"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Documents/Diagram"
+msgstr "Документы/Диаграммы"
+
+msgid "Documents/Extended Markup Language (XML)"
+msgstr "Документы/Расширяемый язык разметки (XML)"
+
+msgid "Documents/Numeric"
+msgstr "Документы/Числовые"
+
+msgid "Documents/Plain Text"
+msgstr "Документы/Простой текст"
+
+msgid "Documents/Presentation"
+msgstr "Документы/Презентации"
+
+msgid "Documents/Project Management"
+msgstr "Документы/Управление проектами"
+
+msgid "Documents/Published Materials"
+msgstr "Документы/Печатные материалы"
+
+msgid "Documents/Spreadsheet"
+msgstr "Документы/Электронные таблицы"
+
+msgid "Documents/TeX"
+msgstr "Документы/TeX"
+
+msgid "Documents/Text Markup"
+msgstr "Документы/Размеченный текст"
+
+msgid "Documents/Vector Graphics"
+msgstr "Документы/Векторная графика"
+
+msgid "Documents/Word Processor"
+msgstr "Документы/Текстовые процессоры"
+
+msgid "Documents/World Wide Web"
+msgstr "Документы/Всемирная паутина (WWW)"
+
+msgid "Dolby Digital audio"
+msgstr "цифровая аудиозапись формата Dolby Digital"
+
+msgid "Dreamcast ROM"
+msgstr "ПЗУ формата Dreamcast"
+
+msgid "Emacs Lisp source code"
+msgstr "исходный код на языке Emacs Lisp"
+
+msgid "Email headers"
+msgstr "заголовки эл.письма"
+
+msgid "Email message/mailbox"
+msgstr "эл.письмо/почтовый ящик"
+
+msgid "Encrypted message"
+msgstr "зашифрованное сообщение"
+
+msgid "Enlightenment theme"
+msgstr "тема для оконного менеджера \"Энлайтенмент\" (Enlightenment)"
+
+msgid "Enriched text document"
+msgstr "форматированный текстовый документ"
+
+msgid "Epiphany bookmarks file"
+msgstr "файл закладок браузера \"Эпифания\""
+
+msgid "FLAC audio"
+msgstr "аудиозапись формата FLAC"
+
+msgid "FLC animation"
+msgstr "анимация формата FLC"
+
+msgid "FLI animation"
+msgstr "анимация формата FLI"
+
+msgid "FastTracker II audio"
+msgstr "аудиозапись формата FastTracker II"
+
+msgid "FlashPix Image"
+msgstr "изображение формата FlashPix"
+
+msgid "Flexible Image Transport System"
+msgstr "изображение формата Flexible Image Transport System"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Fortran source code"
+msgstr "исходный текст на языке Fortran"
+
+msgid "FrameMaker interchange document"
+msgstr "документ обмена формата FrameMaker"
+
+msgid "G3 fax image"
+msgstr "факсовое изображение формата G3"
+
+msgid "GIF image"
+msgstr "изображение формата GIF"
+
+msgid "GIMP document"
+msgstr "документ формата GIMP"
+
+msgid "GMC link"
+msgstr "ссылка формата GMC"
+
+msgid "GNOME desktop theme"
+msgstr "тема рабочего стола среды Гном"
+
+msgid "GNU Oleo Spreadsheet"
+msgstr "таблица формата GNU Oleo"
+
+msgid "GNU mail message"
+msgstr "почтовое сообщение формата GNU mail"
+
+msgid "GTK configuration"
+msgstr "файл настройки библиотеки GTK"
+
+msgid "Game Boy ROM"
+msgstr "ПЗУ формата Game Boy"
+
+msgid "Genesis ROM"
+msgstr "ПЗУ формата Genesis"
+
+msgid "Glade project"
+msgstr "проект формата Glade"
+
+msgid "GnuCash workbook"
+msgstr "рабочая книга формата GnuCash"
+
+msgid "Gnumeric spreadsheet"
+msgstr "таблица формата Gnumeric"
+
+msgid "Gtar archive"
+msgstr "архив формата gtar"
+
+msgid "Gtktalog Catalogue"
+msgstr "каталог формата Gtktalog"
+
+msgid "Gzip-compressed file"
+msgstr "сжатый (программой gzip) файл"
+
+msgid "HDF document"
+msgstr "документ формата HDF"
+
+msgid "HTML page"
+msgstr "страница формата HTML"
+
+msgid "Haskell source code"
+msgstr "исходный код на языке Haskell"
+
+msgid "Help page"
+msgstr "страница справки"
+
+msgid "IDL document"
+msgstr "документ формата IDL"
+
+msgid "IEF image"
+msgstr "изображение формата IEF"
+
+msgid "IFF image"
+msgstr "изображение формата IFF"
+
+msgid "ILBM image"
+msgstr "изображение формата ILBM"
+
+msgid "ISI video"
+msgstr "видеозапись формата ISI"
+
+msgid "ISO image"
+msgstr "образ диска формата ISO"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Impulse Tracker audio"
+msgstr "аудиозапись формата Impulse Tracker"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Information/Calendar"
+msgstr "Информация/Календарь"
+
+msgid "Information/Financial"
+msgstr "Информация/Финансы"
+
+msgid "Installed GNOME desktop theme"
+msgstr "установленная тема ребочего стола среды Гном"
+
+msgid "JBuilder Project"
+msgstr "проект формата JBuilder"
+
+msgid "JPEG image"
+msgstr "изображение формата JPEG"
+
+msgid "Java byte code"
+msgstr "байт-код языка Java"
+
+msgid "Java code archive"
+msgstr "архив формата java"
+
+msgid "Java source code"
+msgstr "исходный текст на языке Джава (Java)"
+
+msgid "JavaScript source code"
+msgstr "исходный текст на языке ДжаваСкрипт (JavaScript)"
+
+msgid "KDE application details"
+msgstr "файл сведений о приложении KDE"
+
+msgid "KIllustrator document"
+msgstr "документ формата KIllustrator"
+
+msgid "KPresenter presentation"
+msgstr "презентация формата KPresenter"
+
+msgid "KSpread spreadsheet"
+msgstr "таблица формата KSpread"
+
+msgid "KWord document"
+msgstr "документ формата KWord"
+
+msgid "Korn shell script"
+msgstr "скрипт оболочки типа Korn"
+
+msgid "LHA archive"
+msgstr "архив формата LHA"
+
+msgid "LHARC archive"
+msgstr "архив формата LHARC"
+
+msgid "LIBGRX font"
+msgstr "шрифт формата LIBGRX"
+
+msgid "LightWave object"
+msgstr "объект формата LightWave"
+
+msgid "LightWave scene"
+msgstr "сцена формата LightWave"
+
+msgid "Linux PSF console font"
+msgstr "консольный шрифт формата Linux PSF"
+
+msgid "Literate haskell source code"
+msgstr "литерированный исходный код на языке Хаскел (Haskell)"
+
+msgid "Lotus 1-2-3 spreadsheet"
+msgstr "таблица формата Lotus 1-2-3"
+
+msgid "LyX document"
+msgstr "документ формата LyX"
+
+msgid "MIDI audio"
+msgstr "аудиозапись формата MIDI"
+
+msgid "MOD audio"
+msgstr "аудиозапись формата MOD"
+
+msgid "MP3 audio"
+msgstr "аудиозапись формата MP3"
+
+msgid "MP3 audio playlist"
+msgstr "список аудиозаписей формата MP3"
+
+msgid "MPEG video"
+msgstr "видеозапись формата MPEG"
+
+msgid "MPEG-4 audio"
+msgstr "аудиозапись формата MPEG-4"
+
+msgid "MS ASF audio"
+msgstr "аудиозапись формата MS ASF"
+
+msgid "MS ASF video"
+msgstr "видеозапись формата MS ASF"
+
+msgid "MS video"
+msgstr "видеозапись формата MS"
+
+msgid "MSX ROM"
+msgstr "ПЗУ формата MSX"
+
+msgid "MacBinary file"
+msgstr "файл формата MacBinary"
+
+msgid "Macintosh AppleDouble-encoded file"
+msgstr "файл Macintosh, кодированный как AppleDouble"
+
+msgid "Macintosh BinHex-encoded file"
+msgstr "файл Macintosh, кодированный как BinHex"
+
+msgid "Macintosh StuffIt archive"
+msgstr "архив формата Macintosh StuffIt"
+
+msgid "Macromedia Flash file"
+msgstr "файл формата Macromedia Flash"
+
+msgid "MagicPoint presentation"
+msgstr "презентация формата MagicPoint"
+
+msgid "Magick image format"
+msgstr "изображение формата Magick image"
+
+msgid "Mail delivery report"
+msgstr "отчёт о доставке почты"
+
+msgid "Mail disposition report"
+msgstr "отчёт о перемещении почты"
+
+msgid "Mail system report"
+msgstr "отчёт почтовой системы"
+
+msgid "Makefile"
+msgstr "Makefile"
+
+msgid "Manual page"
+msgstr "страница руководства (man)"
+
+msgid "Manual page (compressed)"
+msgstr "сжатая страница руководства (man)"
+
+msgid "Master System or Game Gear ROM"
+msgstr "ПЗУ формата Master System или Game Gear"
+
+msgid "MathML document"
+msgstr "документ формата MathML"
+
+msgid "Matroska video"
+msgstr "видеозапись формата Matroska"
+
+msgid "Memory dump"
+msgstr "дамп памяти"
+
+msgid "Message"
+msgstr "Cообщение"
+
+msgid "Message digest"
+msgstr "дайджест сообщений"
+
+msgid "Message in several formats"
+msgstr "сообщение в нескольких форматах"
+
+msgid "Microsoft Excel spreadsheet"
+msgstr "таблица формата Microsoft Excel"
+
+msgid "Microsoft PowerPoint document"
+msgstr "документ формата Microsoft PowerPoint"
+
+msgid "Microsoft WMV playlist"
+msgstr "список записей формата Microsoft WMV"
+
+msgid "Microsoft WMV video"
+msgstr "видеозапись формата Microsoft WMV"
+
+msgid "Microsoft Word document"
+msgstr "документ формата Microsoft Word"
+
+msgid "Microsoft video"
+msgstr "видеозапись формата Microsoft"
+
+msgid "Monkey audio"
+msgstr "аудиозапись формата Monkey"
+
+msgid "Mozilla bookmarks file"
+msgstr "файл закладок браузера \"Мозилла\""
+
+msgid "Multi-part message"
+msgstr "сообщение из нескольких частей"
+
+msgid "NES ROM"
+msgstr "ПЗУ формата NES"
+
+msgid "Named pipe"
+msgstr "именованный канал"
+
+msgid "Nautilus link"
+msgstr "ссылка формата Nautilus"
+
+msgid "Netscape bookmarks file"
+msgstr "файл закладок браузера \"Нетскейп\""
+
+msgid "Nintendo64 ROM"
+msgstr "ПЗУ формата Nintendo64"
+
+msgid "Nullsoft video"
+msgstr "видеозапись формата Nullsoft"
+
+msgid "ODA document"
+msgstr "документ формата ODA"
+
+msgid "Object code"
+msgstr "объектный код"
+
+msgid "Objective C source code"
+msgstr "исходный код на языке Обжектив Си (Objective C)"
+
+msgid "Ogg audio"
+msgstr "аудиозапись формата ogg"
+
+msgid "OpenOffice.org Impress presentation"
+msgstr "презентация формата OpenOffice.org Impress"
+
+msgid "OpenOffice.org Impress presentation template"
+msgstr "шаблон презентации формата OpenOffice.org Impress"
+
+msgid "OpenOffice.org Math document"
+msgstr "документ формата OpenOffice.org Math"
+
+msgid "OpenOffice.org Writer document"
+msgstr "документ формата OpenOffice.org Writer"
+
+msgid "OpenOffice.org Writer global document"
+msgstr "глобальный документ формата OpenOffice.org Writer"
+
+msgid "OpenOffice.org Writer template"
+msgstr "шаблон формата OpenOffice.org Writer"
+
+msgid "OpenOffice.org drawing"
+msgstr "рисунок формата OpenOffice.org"
+
+msgid "OpenOffice.org drawing template"
+msgstr "шаблон рисунка формата OpenOffice.org"
+
+msgid "OpenOffice.org spreadsheet"
+msgstr "таблица формата OpenOffice.org"
+
+msgid "OpenOffice.org spreadsheet template"
+msgstr "шаблон таблицы формата OpenOffice.org"
+
+msgid "OpenType font"
+msgstr "шрифт формата OpenType"
+
+msgid "PBM image"
+msgstr "изображение формата PBM"
+
+msgid "PC Paintbrush image"
+msgstr "растровое изображение формата PC Paintbrush"
+
+msgid "PCF font"
+msgstr "шрифт формата PCF"
+
+msgid "PDF document"
+msgstr "документ формата PDF"
+
+msgid "PEF program"
+msgstr "программа формата PEF"
+
+msgid "PGM image"
+msgstr "изображение формата PGM"
+
+msgid "PGN chess game"
+msgstr "шахматный матч формата PGN"
+
+msgid "PGP keys"
+msgstr "ключи формата PGP"
+
+msgid "PGP message"
+msgstr "сообщение формата PGP"
+
+msgid "PGP signature"
+msgstr "подпись формата PGP"
+
+msgid "PGP-encrypted file"
+msgstr "файл, закодированный с помощью PGP"
+
+msgid "PHP script"
+msgstr "скрипт на языке PHP"
+
+msgid "PICT image"
+msgstr "изображение формата PICT"
+
+msgid "PNG image"
+msgstr "изображение формата PNG"
+
+msgid "PNM image"
+msgstr "изображение формата PNM"
+
+msgid "PPM image"
+msgstr "изображение формата PPM"
+
+msgid "Packages"
+msgstr "Пакеты"
+
+msgid "Palm OS database"
+msgstr "база данных формата Palm OS"
+
+msgid "Palm Pixmap image"
+msgstr "изображение формата Palm Pixmap"
+
+msgid "Partial email message"
+msgstr "частичное сообщение эл.почты"
+
+msgid "Pascal source code"
+msgstr "исходный текст на языке Паскаль (Pascal)"
+
+msgid "Perl script"
+msgstr "скрипт на языке Перл (Perl)"
+
+msgid "Photo CD image"
+msgstr "изображение формата Photo CD"
+
+msgid "Photoshop document"
+msgstr "документ формата Photoshop"
+
+msgid "Plain text document"
+msgstr "текстовый документ"
+
+msgid "Playlist"
+msgstr "список записей"
+
+msgid "PostScript Type 1 font"
+msgstr "шрифт формата PostScript Type 1"
+
+msgid "PostScript document"
+msgstr "документ формата PostScript"
+
+msgid "Profiler results"
+msgstr "результаты профилирования"
+
+msgid "Project Plan"
+msgstr "документ формата Project Plan"
+
+msgid "Python byte code"
+msgstr "байт-код языка Python"
+
+msgid "Python source code"
+msgstr "исходный код на языке Пайтон (Python)"
+
+msgid "QuickTime movie"
+msgstr "фильм формата QuickTime"
+
+msgid "Quicken document"
+msgstr "документ формата Quicken"
+
+msgid "Quicken for Windows document"
+msgstr "документ формата Quicken for Windows"
+
+msgid "RAR archive"
+msgstr "архив формата RAR"
+
+msgid "README document"
+msgstr "документ README"
+
+msgid "RGB image"
+msgstr "изображение формата RGB"
+
+msgid "RIFF audio"
+msgstr "аудиозапись формата RIFF"
+
+msgid "RPM package"
+msgstr "пакет формата RPM"
+
+msgid "Raw Gray Sample"
+msgstr "изображение формата Raw Gray Sample"
+
+msgid "RealAudio document"
+msgstr "документ формата RealAudio"
+
+msgid "RealAudio/Video document"
+msgstr "документ формата RealAudio/Video"
+
+msgid "RealVideo video"
+msgstr "видеозапись формата RealVideo"
+
+msgid "Reference to remote file"
+msgstr "ссылка на удалённый (remote) файл"
+
+msgid "Rejected patch file"
+msgstr "отвергнутый файл заплатки"
+
+msgid "Rich text document"
+msgstr "документ с форматированным текстом"
+
+msgid "S/MIME file"
+msgstr "Файл формата S/MIME"
+
+msgid "S/MIME signature"
+msgstr "подпись формата S/MIME"
+
+msgid "SGI video"
+msgstr "видеозапись формата SGI"
+
+msgid "SGML document"
+msgstr "документ формата SGML"
+
+msgid "SHOUTcast playlist"
+msgstr "список записей формата SHOUTcast"
+
+msgid "SMIL script"
+msgstr "скрипт на языке SMIL"
+
+msgid "SQL code"
+msgstr "код на языке SQL"
+
+msgid "SUN Rasterfile"
+msgstr "растровое изображение формата SUN"
+
+msgid "SV4 CPIO archive"
+msgstr "архив формата SV4 CPIO"
+
+msgid "SV4 CPIP archive (with CRC)"
+msgstr "архив формата SV4 CPIP (с CRC)"
+
+msgid "SVG art"
+msgstr "изображение формата SVG"
+
+msgid "Samba share"
+msgstr "общий ресурс сервера Samba"
+
+msgid "Scheme source code"
+msgstr "исходный код на языке Scheme"
+
+msgid "Scream Tracker 3 audio"
+msgstr "аудиозапись формата Scream Tracker 3"
+
+msgid "Scream Tracker audio"
+msgstr "аудиозапись формата Scream Tracker"
+
+msgid "Scream Tracker instrument"
+msgstr "инструмент формата Scream Tracker"
+
+msgid "Search results"
+msgstr "Результаты поиска"
+
+msgid "Security"
+msgstr "Безопасность"
+
+msgid "Setext document"
+msgstr "документ формата Setext"
+
+msgid "Shared Printer"
+msgstr "общий принтер"
+
+msgid "Shared library"
+msgstr "Разделяемая библиотека"
+
+msgid "Shell archive"
+msgstr "архив оболочки"
+
+msgid "Shell script"
+msgstr "скрипт оболочки"
+
+msgid "Signed message"
+msgstr "подписанное сообщение"
+
+msgid "Silicon Graphics image"
+msgstr "изображение формата Silicon Graphics"
+
+msgid "Socket"
+msgstr "сокет"
+
+msgid "Software Development"
+msgstr "Разработка ПО"
+
+msgid "Software Development/ROM Images"
+msgstr "Разработка ПО/Образы ПЗУ"
+
+msgid "Software Development/Source Code"
+msgstr "Разработка ПО/Исходный код"
+
+msgid "Software author credits"
+msgstr "авторы программы"
+
+msgid "Software installation instructions"
+msgstr "инструкции по установке программы"
+
+msgid "Software license terms"
+msgstr "лицензия на программу"
+
+msgid "Source code patch"
+msgstr "заплатка к исходному коду"
+
+msgid "Speech document"
+msgstr "документ формата Speech"
+
+msgid "Speedo font"
+msgstr "шрифт формата Speedo"
+
+msgid "Spreadsheet Interchange document"
+msgstr "документ формата Spreadsheet Interchange"
+
+msgid "Stampede package"
+msgstr "пакет типа Stampede"
+
+msgid "StarCalc spreadsheet"
+msgstr "таблица формата StarCalc"
+
+msgid "StarChart chart"
+msgstr "диаграмма формата StarChart"
+
+msgid "StarDraw drawing"
+msgstr "рисунок формата StarDraw"
+
+msgid "StarImpress presentation"
+msgstr "презентация формата StarImpress"
+
+msgid "StarMail file"
+msgstr "файл формата StarMail"
+
+msgid "StarMath document"
+msgstr "документ формата StarMath"
+
+msgid "StarOffice extended metafile image"
+msgstr "расширенный метафайл изображения формата StarOffice"
+
+msgid "StarWriter document"
+msgstr "документ формата StarWriter"
+
+msgid "Style sheet"
+msgstr "таблица стилей"
+
+msgid "Sun mu-law audio"
+msgstr "аудиозапись формата Sun mu-law"
+
+msgid "SunOS News font"
+msgstr "шрифт формата SunOS News"
+
+msgid "Symbolic link"
+msgstr "символическая ссылка"
+
+msgid "System"
+msgstr "Система"
+
+msgid "TIFF image"
+msgstr "изображение формата TIFF"
+
+msgid "Tab-separated text document"
+msgstr "текстовый документ с полями, разделёнными табуляцией"
+
+msgid "Tar archive"
+msgstr "архив формата tar"
+
+msgid "Tar archive (Bzip2-compressed)"
+msgstr "сжатый (программой bzip2) архив формата tar"
+
+msgid "Tar archive (Gzip-compressed)"
+msgstr "сжатый (программой gzip) архив формата tar"
+
+msgid "TarGA image"
+msgstr "изображение формата TarGA"
+
+msgid "Tcl script"
+msgstr "скрипт на языке Tcl"
+
+msgid "TeX document"
+msgstr "документ формата TeX"
+
+msgid "TeX dvi document"
+msgstr "документ формата TeX dvi"
+
+msgid "TeX font"
+msgstr "шрифт формата TeX"
+
+msgid "TeX font metrics"
+msgstr "метрики шрифта формата TeX"
+
+msgid "TeXInfo document"
+msgstr "документ формата TeXInfo"
+
+msgid "Theme"
+msgstr "тема"
+
+msgid "ToutDoux document"
+msgstr "документ формата ToutDoux"
+
+msgid "Troff document"
+msgstr "документ формата troff"
+
+msgid "Troff me input document"
+msgstr "входной документ формата troff me"
+
+msgid "Troff mm input document"
+msgstr "входной документ формата troff mm"
+
+msgid "Troff ms input document"
+msgstr "входной документ формата troff ms"
+
+msgid "TrueType font"
+msgstr "шрифт формата TrueType"
+
+msgid "Truevision Targa image"
+msgstr "изображение формата Truevision Targa"
+
+msgid "USENET news message"
+msgstr "сообщение новостей формата USENET"
+
+msgid "Unidata netCDF document"
+msgstr "документ формата Unidata netCDF"
+
+msgid "Unknown type"
+msgstr "неизвестный тип"
+
+msgid "User Interface"
+msgstr "Пользовательский интерфейс"
+
+msgid "User Interface/Fonts"
+msgstr "Пользовательский интерфейс/Шрифты"
+
+msgid "Ustar archive"
+msgstr "архив формата ustar"
+
+msgid "V font"
+msgstr "шрифт формата V font"
+
+msgid "VOC audio"
+msgstr "аудиозапись формата VOC"
+
+msgid "VRML document"
+msgstr "документ формата VRML"
+
+msgid "Verilog source code"
+msgstr "исходный код на языке Верилог (Verilog)"
+
+msgid "Video"
+msgstr "Видеозапись"
+
+msgid "Vivo video"
+msgstr "видеозапись формата Vivo"
+
+msgid "WAIS source code"
+msgstr "исходный код на языке WAIS"
+
+msgid "Wave audio"
+msgstr "аудиозапись формата wave"
+
+msgid "Wavelet video"
+msgstr "видеозапись формата Wavelet"
+
+msgid "Web folder"
+msgstr "веб-папка"
+
+msgid "Windows bitmap image"
+msgstr "изображение формата Windows bitmap"
+
+msgid "Windows icon image"
+msgstr "изображение формата пиктограммы Windows"
+
+msgid "Windows metafile graphics"
+msgstr "графика формата Windows metafile"
+
+msgid "WordPerfect document"
+msgstr "документ формата WordPerfect"
+
+msgid "X bitmap image"
+msgstr "изображение формата X bitmap"
+
+msgid "X window image"
+msgstr "изображение формата X window"
+
+msgid "XBEL bookmarks file"
+msgstr "файл закладок формата XBEL"
+
+msgid "XML document"
+msgstr "документ формата XML"
+
+msgid "XPM image"
+msgstr "изображение формата XPM"
+
+msgid "Xbase database"
+msgstr "база данных формата Xbase"
+
+msgid "Yacc grammar source code"
+msgstr "исходный текст парсера на языке Yacc"
+
+msgid "Z shell script"
+msgstr "скрипт оболочки типа zsh"
+
+msgid "Zip archive"
+msgstr "архив формата zip"
+
+msgid "Zoo archive"
+msgstr "архив формата Zoo"
+
+msgid "gettext translation"
+msgstr "перевод в формате gettext"
+
+msgid "iPod software"
+msgstr "Программное обуспечение iPod"
+
+msgid "xfig vector graphic"
+msgstr "векторная графика формата xfig"

@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webkit git\n"
+"Report-Msgid-Bugs-To: http://bugs.webkit.org/\n"
+"POT-Creation-Date: 2010-02-25 15:53-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Anton Shestakov <engored@ya.ru>\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "(None)"
+msgstr "(Нет)"
+
+msgid "A bitmask representing the state of the modifier keys"
+msgstr "Битовая маска, представляющая состояния клавиш-модификаторов"
+
+msgid "A username and password are being requested by the site %s"
+msgstr "Для сайта %s требуется ввод имени пользователя и пароля"
+
+msgid "Alternate Title"
+msgstr "Альтернативный заголовок"
+
+msgid "An associated WebKitWebSettings instance"
+msgstr "Связанный экземпляр WebKitWebSettings"
+
+msgid "Auto Load Images"
+msgstr "Загружать изображения автоматически"
+
+msgid "Auto Shrink Images"
+msgstr "Масштабировать изображения автоматически"
+
+msgid "Automatically shrink standalone images to fit."
+msgstr "Автоматически уменьшать отдельные изображения по размеру экрана."
+
+msgid "Button"
+msgstr "Кнопка"
+
+msgid "Check Spelling While _Typing"
+msgstr "Проверять _орфографию в процессе ввода"
+
+msgid "Check _Grammar With Spelling"
+msgstr "Проверять _также грамматику"
+
+msgid "Choose File"
+msgstr "Выбрать файл"
+
+msgid "Comma separated list of languages to use for spell checking"
+msgstr ""
+"Список языков через запятую, которые будут использоваться для проверки "
+"орфографии"
+
+msgid "Cop_y Image"
+msgstr "Коп_ировать изображение"
+
+msgid "Copy Link Loc_ation"
+msgstr "_Копировать ссылку"
+
+msgid "Current Size"
+msgstr "Текущий размер"
+
+msgid "Cursive Font Family"
+msgstr "Семейство курсивного шрифта"
+
+msgid "Custom Encoding"
+msgstr "Особая кодировка"
+
+msgid "Default Encoding"
+msgstr "Кодировка по умолчанию"
+
+msgid "Default Font Family"
+msgstr "Семейство шрифта по умолчанию"
+
+msgid "Default Font Size"
+msgstr "Размер шрифта по умолчанию"
+
+msgid "Default Monospace Font Size"
+msgstr "Размер моноширинного шрифта"
+
+msgid "Destination URI"
+msgstr "URI назначения"
+
+msgid "Determines the current progress of the download"
+msgstr "Текущий прогресс загрузки"
+
+msgid "Determines the current status of the download"
+msgstr "Текущее состояния загрузки"
+
+msgid "Editable"
+msgstr "Изменяемое"
+
+msgid "Enable Developer Extras"
+msgstr "Включить средства разработчика"
+
+msgid "Enable JavaScript profiling"
+msgstr "Включить профилирование JavaScript"
+
+msgid "Enable Plugins"
+msgstr "Использовать модули"
+
+msgid "Enable Private Browsing"
+msgstr "Включить конфиденциальный режим"
+
+msgid "Enable Scripts"
+msgstr "Выполнять сценарии"
+
+msgid "Enable Spell Checking"
+msgstr "Проверять орфографию"
+
+msgid "Enable embedded plugin objects."
+msgstr "Разрешить встроенные объекты модулей на страницах."
+
+msgid "Enable embedded scripting languages."
+msgstr "Выполнять встроенные сценарии на страницах."
+
+msgid "Enables private browsing mode"
+msgstr "Включает конфиденциальный режим просмотра"
+
+msgid "Enables special extensions that help developers"
+msgstr "Включить особые расширения, которые могут быть полезны разработчикам"
+
+msgid "Enables spell checking while typing"
+msgstr "Выполнять проверку орфографии при вводе текста"
+
+msgid "Encoding"
+msgstr "Кодировка"
+
+msgid "Enforce 96 DPI"
+msgstr "Всегда использовать 96 DPI"
+
+msgid "Enforce a resolution of 96 DPI"
+msgstr "Принудительно использовать разрешение 96 точек на дюйм"
+
+msgid "Fantasy Font Family"
+msgstr "Семейство декоративного шрифта"
+
+msgid "Ignore _Grammar"
+msgstr "_Игнорировать грамматику"
+
+msgid "Input _Methods"
+msgstr "_Методы ввода"
+
+msgid "Inspect _Element"
+msgstr "Исследовать _элемент"
+
+msgid "Inspected URI"
+msgstr "Исследуемый URI"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE Вс_тавка слева направо"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM Метка с_лева направо"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO П_ерекрывание слева направо"
+
+msgid "Languages to use for spell checking"
+msgstr "Языки для проверки орфографии"
+
+msgid "Last visited Time"
+msgstr "Время последнего посещения"
+
+msgid "Load images automatically."
+msgstr "Загружать изображения автоматически."
+
+msgid "Minimum Font Size"
+msgstr "Минимальный размер шрифта"
+
+msgid "Minimum Logical Font Size"
+msgstr "Минимальный логический размер шрифта"
+
+msgid "Modifier state"
+msgstr "Состояние модификаторов"
+
+msgid "Monospace Font Family"
+msgstr "Семейство моноширинного шрифта"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Network Request"
+msgstr "Сетевой запрос"
+
+msgid "No Guesses Found"
+msgstr "Нет вариантов"
+
+msgid "No recent searches"
+msgstr "Нет недавних поисковых запросов"
+
+msgid "Open Link in New _Window"
+msgstr "Открыть ссылку в новом _окне"
+
+msgid "Open _Frame in New Window"
+msgstr "Открыть _фрейм в новом окне"
+
+msgid "Open _Image in New Window"
+msgstr "Открыть _изображение в новом окне"
+
+msgid "Original URI"
+msgstr "Изначальный URI"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF _Расположение по вертикали"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Print Backgrounds"
+msgstr "Печатать фоновые изображения"
+
+msgid "Profile the executed JavaScript."
+msgstr "Профилировать выполняемый код JavaScript."
+
+msgid "Progress"
+msgstr "Прогресс"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE Вст_авка справа налево"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM Метка с_права налево"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO Пере_крывание справа налево"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Recent searches"
+msgstr "Недавние поисковые запросы"
+
+msgid "Reset"
+msgstr "Сброс"
+
+msgid "Resizable Text Areas"
+msgstr "Изменяемый размер текстовых полей"
+
+msgid "Sa_ve Image As"
+msgstr "Со_хранить изображение как..."
+
+msgid "Sans Serif Font Family"
+msgstr "Семейство шрифта без засечек"
+
+msgid "Serif Font Family"
+msgstr "Семейство шрифта с засечками"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Spelling and _Grammar"
+msgstr "_Орфография и грамматика"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Submit"
+msgstr "Отправить"
+
+msgid "Suggested Filename"
+msgstr "Предлагаемое имя файла"
+
+msgid "The URI of a stylesheet that is applied to every page."
+msgstr "URI таблицы стилей, которая будет применена для всех страниц."
+
+msgid "The URI of the history item"
+msgstr "URI элемента истории"
+
+msgid "The URI that is currently being inspected"
+msgstr "URI, который исследуется в данный момент"
+
+msgid "The URI that was requested as the target for the navigation"
+msgstr "URI, который был указан в запросе на переход"
+
+msgid "The alternate title of the history item"
+msgstr "Альтернативный заголовок элемента истории"
+
+msgid "The associated WebKitWebInspector instance"
+msgstr "Связанный экземпляр WebKitWebInspector"
+
+msgid "The button used to click"
+msgstr "Кнопка для нажатия"
+
+msgid "The current URI of the contents displayed by the frame"
+msgstr "Текущий URI содержимого фрейма"
+
+msgid "The default Cursive font family used to display text."
+msgstr "Семейство курсивного шрифта для отображения текста."
+
+msgid "The default Fantasy font family used to display text."
+msgstr "Семейство декоративного шрифта для отображения текста."
+
+msgid "The default Sans Serif font family used to display text."
+msgstr "Семейство шрифта без засечек для отображения текста."
+
+msgid "The default Serif font family used to display text."
+msgstr "Семейство шрифта с засечками для отображения текста."
+
+msgid "The default encoding used to display text."
+msgstr "Кодировка текста по умолчанию."
+
+msgid "The default font family used to display monospace text."
+msgstr "Семейство моноширинного шрифта для отображения текста."
+
+msgid "The default font family used to display text."
+msgstr "Семейство шрифта по умолчанию для отображения текста."
+
+msgid "The default font size used to display monospace text."
+msgstr "Размер моноширинного шрифта для отображения текста."
+
+msgid "The default font size used to display text."
+msgstr "Размер шрифта по умолчанию для отображения текста."
+
+msgid "The destination URI where to save the file"
+msgstr "Конечный URI для сохранения файла"
+
+msgid "The document title of the frame"
+msgstr "Заголовок документа фрейма"
+
+msgid "The filename suggested as default when saving"
+msgstr "Имя файла, которое предлагается при загрузке по умолчанию"
+
+msgid "The length of the data already downloaded"
+msgstr "Объём уже загруженных данных"
+
+msgid "The level of zoom of the content"
+msgstr "Масштаб содержимого страницы"
+
+msgid "The minimum font size used to display text."
+msgstr "Минимальный размер шрифта для отображения текста."
+
+msgid "The minimum logical font size used to display text."
+msgstr "Минимальный логический размер шрифта для отображения текста."
+
+msgid "The name of the frame"
+msgstr "Имя фрейма"
+
+msgid "The network request for the URI that should be downloaded"
+msgstr "Сетевой запрос для заданного URI, который должен быть выполнен"
+
+msgid "The original URI of the history item"
+msgstr "Изначальный URI элемента истории"
+
+msgid "The reason why this navigation is occurring"
+msgstr "Причина, по которой происходит данный переход"
+
+msgid "The time at which the history item was last visited"
+msgstr "Время последнего посещения элемента истории"
+
+msgid "The title of the history item"
+msgstr "Заголовок элемента истории"
+
+msgid "The total size of the file"
+msgstr "Общий размер файла"
+
+msgid "The value by which the zoom level is changed when zooming in or out."
+msgstr "Значение, на которое будет изменяться значение масштаба."
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Total Size"
+msgstr "Общий размер"
+
+msgid "Transparent"
+msgstr "Прозрачное"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Upload File"
+msgstr "Отправка файла"
+
+msgid "User Stylesheet URI"
+msgstr "URI пользовательской таблицы стилей"
+
+msgid "User cancelled the download"
+msgstr "Передача прервана пользователем"
+
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+msgid "Web Inspector"
+msgstr "Веб-инспектор"
+
+msgid "Whether background images should be printed."
+msgstr "Должны ли быть выведены на печать фоновые изображения."
+
+msgid "Whether content can be modified by the user"
+msgstr "Может ли содержимое быть изменено пользователем"
+
+msgid "Whether content has a transparent background"
+msgstr "Имеется ли у содержимого прозрачный фон"
+
+msgid "Whether text areas are resizable."
+msgstr "Текстовые поля могут изменять размер."
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ Нулевой о_бъединитель"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ Нулевой ра_зъединитель"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS _Нулевой пробел"
+
+msgid "Zoom Stepping Value"
+msgstr "Приращение масштаба"
+
+msgid "Zoom level"
+msgstr "Масштаб"
+
+msgid "_Check Document Now"
+msgstr "Проверить _документ"
+
+msgid "_Clear recent searches"
+msgstr "_Удалить недавние поисковые запросы"
+
+msgid "_Download Linked File"
+msgstr "_Загрузить связанный файл"
+
+msgid "_Font"
+msgstr "_Шрифт"
+
+msgid "_Hide Spelling and Grammar"
+msgstr "_Скрыть орфографию и грамматику"
+
+msgid "_Ignore Spelling"
+msgstr "_Пропустить слово"
+
+msgid "_Insert Unicode Control Character"
+msgstr "Вст_авить управляющий символ Юникод"
+
+msgid "_Learn Spelling"
+msgstr "_Добавить слово"
+
+msgid "_Look Up in Dictionary"
+msgstr "Найти в _словаре"
+
+msgid "_Open Link"
+msgstr "О_ткрыть ссылку"
+
+msgid "_Reload"
+msgstr "_Обновить"
+
+msgid "_Search the Web"
+msgstr "_Найти в сети"
+
+msgid "_Show Spelling and Grammar"
+msgstr "_Показать орфографию и грамматику"

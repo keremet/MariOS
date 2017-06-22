@@ -1,0 +1,368 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libbonoboui trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-19 18:21+0200\n"
+"PO-Revision-Date: 2010-03-17 20:37+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid ""
+"A NULL-terminated array of interfaces which a server must support in order "
+"to be listed in the selector. Defaults to \"IDL:Bonobo/Embeddable:1.0\" if "
+"no interfaces are listed"
+msgstr ""
+"Завершаемый нулём массив интерфейсов, который сервер должен поддерживать, "
+"чтобы быть перечисленным. По умолчанию - \"IDL:Bonobo/Embeddable:1.0\", если "
+"интерфейсы не перечислены"
+
+msgid "About this application"
+msgstr "Об этом приложении"
+
+msgid "About this program..."
+msgstr "О этой программе..."
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "All"
+msgstr "Все"
+
+msgid "B_oth"
+msgstr "Вс_ё"
+
+msgid "Bonobo Browser"
+msgstr "Обозреватель Bonobo"
+
+msgid "Bonobo Component Browser"
+msgstr "Обозреватель компонентов Bonobo"
+
+msgid "Bonobo GUI support"
+msgstr "Поддержка пользовательского интерфейса системы Bonobo"
+
+msgid "Bonobo component browser"
+msgstr "Обозреватель компонентов Bonobo"
+
+msgid "BonoboUI-Hello."
+msgstr "BonoboUI-Hello."
+
+msgid "CLASS"
+msgstr "КЛАСС"
+
+msgid "Cannot init libbonoboui code"
+msgstr "Невозможно инициализировать код библиотеки libbonoboui"
+
+msgid "Close the current window"
+msgstr "Закрыть текущее окно"
+
+msgid "Component Browser"
+msgstr "Обозреватель компонентов"
+
+msgid "Component Details"
+msgstr "Описание компонента"
+
+msgid "Configure UI"
+msgstr "Настроить интерфейс"
+
+msgid "Copyright 2001, The GNOME Foundation"
+msgstr "Copyright 2001, The GNOME Foundation"
+
+msgid "Could not display help for this application"
+msgstr "Не удалось показать справку для этого приложения"
+
+msgid "Could not initialize Bonobo UI"
+msgstr "Не удалось инициализировать пользовательский интерфейс системы Bonobo"
+
+msgid "Customi_ze"
+msgstr "Разно_образить"
+
+msgid "Customize the toolbar"
+msgstr "Разнообразить панель"
+
+msgid "DISPLAY"
+msgstr "ДИСПЛЕЙ"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Detailed Information"
+msgstr "Подробная информация"
+
+msgid "Details"
+msgstr "Подробно"
+
+msgid "Dock the toolbar"
+msgstr "Прицепить панель инструментов"
+
+msgid "Don't use X shared memory extension"
+msgstr "Не использовать расширение  \"shared memory\" системы X"
+
+msgid "Dump the entire UI's XML description to the console"
+msgstr "Вывести всё описание интерфейса на консоль в формате XML"
+
+msgid "Event Forwarding"
+msgstr "Пересылка события"
+
+msgid "FLAGS"
+msgstr "ФЛАГИ"
+
+msgid "GTK+"
+msgstr "GTK+"
+
+msgid "Gdk debugging flags to set"
+msgstr "Флаги отладки Gdk, которые надо установить"
+
+msgid "Gdk debugging flags to unset"
+msgstr "Флаги отладки системы Gdk, которые надо снять"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Gnome Hello"
+msgstr "Gnome Hello"
+
+msgid "Gtk+ debugging flags to set"
+msgstr "Флаги отладки системы Gtk+, которые необходимо установить"
+
+msgid "Gtk+ debugging flags to unset"
+msgstr "Флаги отладки системы Gtk+, которые надо снять"
+
+msgid "Has a maximum Zoom level"
+msgstr "Имеет максимальный масштаб"
+
+msgid "Has a minimum Zoom level"
+msgstr "Имеет минимальный масштаб"
+
+msgid "Hello, World!"
+msgstr "Здравствуй, мир!"
+
+msgid "Hide t_ips"
+msgstr "Скрыть под_сказки"
+
+msgid "IID"
+msgstr "IID"
+
+msgid "Inactive"
+msgstr "Неактивен"
+
+msgid "Interface required entry"
+msgstr "Элемент требуемого интерфейса"
+
+msgid "Interfaces required"
+msgstr "Требуемые интерфейсы"
+
+msgid "Is continuous"
+msgstr "Непрерывный"
+
+msgid "Load an additional Gtk module"
+msgstr "Загрузить дополнительный модуль системы Gtk"
+
+msgid "Location"
+msgstr "Адрес"
+
+msgid "Look"
+msgstr "Вид"
+
+msgid "MODULE"
+msgstr "МОДУЛЬ"
+
+msgid "Make X calls synchronous"
+msgstr "Выполнять вызовы системы X синхронно"
+
+msgid "Make all warnings fatal"
+msgstr "Считать все предупреждения фатальными"
+
+msgid "Maximum Zoom level"
+msgstr "Максимальный масштаб"
+
+msgid "Minimum Zoom level"
+msgstr "Минимальный масштаб"
+
+msgid "NAME"
+msgstr "НАИМЕНОВАНИЕ"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name of the window - used for configuration serialization."
+msgstr "Наименование окна - используется для сериализации конфигурации."
+
+msgid "One of the interfaces that's required"
+msgstr "Один из требуемых интерфейсов"
+
+msgid "Open a new window"
+msgstr "Открыть новое окно"
+
+msgid "Orientation"
+msgstr "Ориентация"
+
+msgid "Preferred height"
+msgstr "Предпочтительная высота"
+
+msgid "Preferred width"
+msgstr "Предпочтительная ширина"
+
+msgid "Program class as used by the window manager"
+msgstr "Класс программы для использования оконным менеджером"
+
+msgid "Program name as used by the window manager"
+msgstr "Наименование программы для использования оконным менеджером"
+
+msgid "SCREEN"
+msgstr "ЭКРАН"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select a file to open"
+msgstr "Выберите файл для открытия"
+
+msgid "Select a filename to save"
+msgstr "Выберите имя файла для сохранения"
+
+msgid "Select files to open"
+msgstr "Выберите файлы для открытия"
+
+msgid "Shadow type"
+msgstr "Тип тени"
+
+msgid "Show t_ips"
+msgstr "Показать под_сказки"
+
+msgid "Shows available Bonobo components"
+msgstr "Показывает доступные компоненты Bonobo"
+
+msgid "Style of bevel around the toolbar"
+msgstr "Стиль обрамления вокруг панели"
+
+msgid "T_ext"
+msgstr "_Текст"
+
+msgid "Text only"
+msgstr "Только текст"
+
+msgid "The User interface container"
+msgstr "Контейнер интерфейса пользователя"
+
+msgid "The degree of enlargment"
+msgstr "Степень увеличения"
+
+msgid "The factory pointer"
+msgstr "Указатель фабрики"
+
+msgid "The maximum degree of enlargment"
+msgstr "Максимальная степень увеличения"
+
+msgid "The minimum degree of enlargment"
+msgstr "Минимальная степень увеличения"
+
+msgid "This does nothing; it is only a demonstration."
+msgstr "Ничего не делает -- это просто демонстрация."
+
+msgid "Toolbars"
+msgstr "Панели"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Undock the toolbar"
+msgstr "Отцепить панель инструментов"
+
+msgid "View help for this application"
+msgstr "Вызвать справку для этого приложения"
+
+msgid "Visible"
+msgstr "Видимость"
+
+msgid "Whether X events should be forwarded"
+msgstr "Должны ли пересылаться события X"
+
+msgid "Whether we have a valid maximum zoom level"
+msgstr "Имеется ли допустимый максимальный масштаб"
+
+msgid "Whether we have a valid minimum zoom level"
+msgstr "Имеется ли допустимый минимальный масштаб"
+
+msgid "Whether we zoom continuously (as opposed to jumps)"
+msgstr "Непрерывен ли масштаб (в отличие от дискретного)"
+
+msgid "X display to use"
+msgstr "Дисплей системы X, который надо использовать"
+
+msgid "X screen to use"
+msgstr "Экран системы X, который надо использовать"
+
+msgid "Zoom level"
+msgstr "Масштаб"
+
+msgid "_About..."
+msgstr "_О программе..."
+
+msgid "_Contents"
+msgstr "_Содержание справки"
+
+msgid "_Dump XML"
+msgstr "В_ывести в формате XML"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Hide"
+msgstr "_Скрывать"
+
+msgid "_Hide toolbar"
+msgstr "_Скрыть панель"
+
+msgid "_Icon"
+msgstr "_Значок"
+
+msgid "_Priority text only"
+msgstr "То_лько текст"
+
+msgid "_Select"
+msgstr "_Выбрать"
+
+msgid "_Show"
+msgstr "По_казывать"
+
+msgid "_Text and Icon"
+msgstr "_Текст и значок"
+
+msgid "_View tooltips"
+msgstr "Показывать под_сказки"
+
+msgid "corba UI container"
+msgstr "контейнер интерфейса пользователя архитектуры corba"
+
+msgid "corba factory"
+msgstr "фабрика архитектуры corba"
+
+msgid "is floating"
+msgstr "плавающая"
+
+msgid "toolbars"
+msgstr "панели"
+
+msgid "translator-credits"
+msgstr ""
+"Valek Filippov <frob@df.ru>\n"
+"Dmitry G. Mastrukov\n"
+"Леонид Кантер <leon@asplinux.ru>"
+
+msgid "whether the toolbar is floating"
+msgstr "является ли панель плавающей"

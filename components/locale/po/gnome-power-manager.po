@@ -1,0 +1,1843 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-power-manager HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-02-20 12:28+0900\n"
+"PO-Revision-Date: 2008-09-30 12:44+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%.1fV"
+msgstr "%.1fВ"
+
+msgid "%.1fW"
+msgstr "%.1fВт"
+
+msgid "%2im"
+msgstr "%2iм"
+
+msgid "%2im%02i"
+msgstr "%2iм%02i"
+
+msgid "%2is"
+msgstr "%2iс"
+
+msgid "%i %s %i %s"
+msgstr "%i %s, %i %s"
+
+msgid "%i hour"
+msgid_plural "%i hours"
+msgstr[0] "%i час"
+msgstr[1] "%i часа"
+msgstr[2] "%i часов"
+
+msgid "%i minute"
+msgid_plural "%i minutes"
+msgstr[0] "%i минута"
+msgstr[1] "%i минуты"
+msgstr[2] "%i минут"
+
+msgid "%i%%"
+msgstr "%i%%"
+
+msgid "%ih"
+msgstr "%iч"
+
+msgid "%ih%02i"
+msgstr "%iч%02i"
+
+msgid "%s %s remaining (%.1f%%)\n"
+msgstr "%s %s осталось (%.1f%%)\n"
+
+msgid "%s %s until charged (%.1f%%)\n"
+msgstr "%s %s до полного заряда (%.1f%%)\n"
+
+msgid ""
+"%s %s until charged (%.1f%%)\n"
+"Provides %s battery runtime\n"
+msgstr ""
+"%s %s до полного заряда (%.1f%%)\n"
+"Обеспечивает %s времени работы батареи\n"
+
+msgid "%s charging (%.1f%%)\n"
+msgstr "%s заряжается (%.1f%%)\n"
+
+msgid "%s discharging (%.1f%%)\n"
+msgstr "%s разряжается (%.1f%%)\n"
+
+msgid "%s fully charged (%.1f%%)\n"
+msgstr "%s полностью заряжена (%.1f%%)\n"
+
+msgid ""
+"%s fully charged (%.1f%%)\n"
+"Provides %s battery runtime\n"
+msgstr ""
+"%s полностью заряжена (%.1f%%)\n"
+"Обеспечивает %s времени работы батареи\n"
+
+msgid "%s has stopped the hibernate from taking place: %s."
+msgstr "Приложение %s препятствует входу в спящий режим: %s."
+
+msgid "%s has stopped the policy action from taking place: %s."
+msgstr "Приложение %s препятствует соблюдению политики: %s."
+
+msgid "%s has stopped the reboot from taking place: %s."
+msgstr "Приложение %s препятствует перезагрузке: %s."
+
+msgid "%s has stopped the shutdown from taking place: %s."
+msgstr "Приложение %s препятствует выключению: %s."
+
+msgid "%s has stopped the suspend from taking place: %s."
+msgstr "Приложение %s препятствует входу в ждущий режим: %s."
+
+msgid "%s has stopped the timeout action from taking place: %s."
+msgstr "Приложение %s препятствует выполнению действия задержки: %s."
+
+msgid "<b>Actions</b>"
+msgstr "<b>Действия</b>"
+
+msgid "<b>Capacity:</b> %i%% (%s)\n"
+msgstr "<b>Ёмкость:</b> %i%% (%s)\n"
+
+msgid "<b>Charge rate:</b> %.1f W\n"
+msgstr "<b>Скорость заряда:</b> %.1f Вт\n"
+
+msgid "<b>Charge time:</b> %s\n"
+msgstr "<b>Время заряда:</b> %s\n"
+
+msgid "<b>Current charge:</b> %.1f Wh\n"
+msgstr "<b>Заряд:</b> %.1f Вт·ч\n"
+
+msgid "<b>Current charge:</b> %i/7\n"
+msgstr "<b>Заряд:</b> %i/7\n"
+
+msgid "<b>Design charge:</b> %.1f Wh\n"
+msgstr "<b>Предусмотренный заряд:</b>  %.1f Вт·ч\n"
+
+msgid "<b>Design charge:</b> %i/7\n"
+msgstr "<b>Предусмотренный заряд:</b> %i/7\n"
+
+msgid "<b>Discharge time:</b> %s\n"
+msgstr "<b>Время разряда:</b> %s\n"
+
+msgid "<b>Display</b>"
+msgstr "<b>Отображение</b>"
+
+msgid "<b>Extras</b>"
+msgstr "<b>Дополнительно</b>"
+
+msgid "<b>Last full charge:</b> %.1f Wh\n"
+msgstr "<b>Последний полный заряд:</b> %.1f Вт·ч\n"
+
+msgid "<b>Model:</b> %s\n"
+msgstr "<b>Модель:</b> %s\n"
+
+msgid "<b>Notification Area</b>"
+msgstr "<b>Область уведомления</b>"
+
+msgid "<b>Percentage charge:</b> %.1f%%\n"
+msgstr "<b>Процент заряда:</b> %.1f%%\n"
+
+msgid "<b>Product:</b> %s\n"
+msgstr "<b>Продукт:</b> %s\n"
+
+msgid "<b>Serial number:</b> %s\n"
+msgstr "<b>Серийный номер:</b> %s\n"
+
+msgid "<b>Status:</b> %s\n"
+msgstr "<b>Состояние:</b> %s\n"
+
+msgid "<b>Technology:</b> %s\n"
+msgstr "<b>Технология:</b> %s\n"
+
+msgid "<b>Vendor:</b> %s\n"
+msgstr "<b>Производитель:</b> %s\n"
+
+msgid "AC adapter inserted"
+msgstr "Сетевой адаптер вставлен"
+
+msgid "AC adapter removed"
+msgstr "Сетевой адаптер отключен"
+
+msgid "Accuracy of reading"
+msgstr "Точность"
+
+msgid "Action disallowed"
+msgstr "Действие запрещено"
+
+msgid "Action forbidden"
+msgstr "Действие отклонено"
+
+msgid "Add related _events"
+msgstr "Добавлять связанные _события"
+
+msgid "Adjusts Laptop panel brightness"
+msgstr "Устанавливает яркость монитора ноутбука"
+
+msgid "Adjusts laptop panel brightness."
+msgstr "Устанавливает яркость монитора ноутбука."
+
+msgid ""
+"After resume, gnome-power-manager will suppress policy actions for a number "
+"of seconds to allow messages to settle and HAL to refresh. Commonly five "
+"seconds is enough while not being so long that the user gets confused."
+msgstr ""
+"После восстановления gnome-power-manager приостановит запланированные "
+"действия на указанное количество секунд, чтобы сообщения были доставлены и "
+"HAL успел обновиться. Как правило, пяти секунд достаточно, так как более "
+"длительная задержка смущает пользователя."
+
+msgid "Allow Suspend and Hibernate in the menu"
+msgstr "Разрешить переход в ждущий и спящий режимы из меню"
+
+msgid "Allow backlight brightness adjustment"
+msgstr "Позволяет управлять яркостью ламп монитора"
+
+msgid "Allows user to inhibit automatic power saving"
+msgstr ""
+"Позволяет пользователю сдерживать автоматические действия по сохранению "
+"питания"
+
+msgid "Allows user to inhibit automatic power saving."
+msgstr "Позволяет сдерживать автоматические действия по сохранению питания."
+
+msgid "Always maximum speed"
+msgstr "Всегда максимальная производительность"
+
+msgid "Always sleep when the lid is _closed"
+msgstr "Всегда _приостанавливать при закрытии крышки"
+
+msgid "Application:"
+msgstr "Приложение:"
+
+msgid "Ask me"
+msgstr "Запрашивать"
+
+msgid "Automatic power saving"
+msgstr "Автоматическое энергосбережение"
+
+msgid "Automatic sleep enabled"
+msgstr "Спящий режим включён"
+
+msgid "Automatic sleep inhibited"
+msgstr "Спящий режим задержан"
+
+msgid "Average time elapsed"
+msgstr "Среднее время до окончания"
+
+msgid "Based on processor load"
+msgstr "На основании загрузки процессора"
+
+msgid "Battery Charged"
+msgstr "Батарея заряжена"
+
+msgid "Battery Discharging"
+msgstr "Батарея разряжается"
+
+msgid "Battery Voltage"
+msgstr "Напряжение батареи"
+
+msgid "Battery charge time is currently unknown\n"
+msgstr "Время заряда батареи неизвестно\n"
+
+msgid "Battery charge time is estimated\n"
+msgstr "Время заряда батареи устанавливается\n"
+
+msgid "Battery critical low action"
+msgstr "Действие при критическом разряде батареи"
+
+msgid "Battery discharge time is currently unknown\n"
+msgstr "Время разряда батареи неизвестно\n"
+
+msgid "Battery discharge time is estimated\n"
+msgstr "Время разряда батареи устанавливается\n"
+
+msgid "Battery is critically low."
+msgstr "Уровень заряда батареи критический."
+
+msgid "Battery may be broken"
+msgstr "Возможно, батарея сломана"
+
+msgid "Battery may be recalled"
+msgstr "Батарея, возможно, отозвана"
+
+msgid "Battery percentage"
+msgstr "Процент заряда"
+
+msgid "Battery state could not be read at this time\n"
+msgstr "В этот раз не удалось прочитать информацию о состоянии батареи\n"
+
+msgid "Blank screen"
+msgstr "Заблокировать экран"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Brightness Applet"
+msgstr "Апплет установки яркости"
+
+msgid "Brightness Applet Factory"
+msgstr "Фабрика апплетов установки яркости"
+
+msgid "Burning DVD, titled \"My Photos\""
+msgstr "Запись DVD с заголовком \"My Photos\""
+
+msgid "Cannot connect to gnome-power-manager"
+msgstr "Не удалось соединиться с сервисом gnome-power-manager"
+
+msgid "Cannot get laptop panel brightness"
+msgstr "Не удалось установить яркость монитора ноутбука"
+
+msgid "Cell Voltage"
+msgstr "Напряжение ячейки"
+
+msgid "Cell phone"
+msgstr "Мобильный телефон"
+
+msgid "Cell phone battery low"
+msgstr "Батарея мобильного телефона разряжена"
+
+msgid "Cell phones"
+msgstr "Мобильные телефоны"
+
+msgid "Change the brightness automatically using the ambient light sensors"
+msgstr ""
+"Изменять яркость автоматически с использованием датчиков внешнего освещения"
+
+msgid "Charge history"
+msgstr "История заряда"
+
+msgid "Charge time accuracy profile"
+msgstr "Профиль точности определения времени зарядки"
+
+msgid "Charge time profile"
+msgstr "Профиль времени зарядки"
+
+msgid "Charged"
+msgstr "Заражена"
+
+msgid "Charging"
+msgstr "Заряжается"
+
+msgid "Check CPU load before sleeping"
+msgstr "Проверять загрузку ЦП перед приостановкой"
+
+msgid "Computer is running on AC power\n"
+msgstr "Компьютер работает от сети\n"
+
+msgid "Computer is running on backup power\n"
+msgstr "Компьютер работает на резервном питании\n"
+
+msgid "Computer is running on battery power\n"
+msgstr "Компьютер работает на батарее\n"
+
+msgid "Computer sp_eed policy:"
+msgstr "Политика _скорости компьютера:"
+
+msgid "Configure power management"
+msgstr "Настройка управления питанием"
+
+msgid "Copyright © 2006 Benjamin Canou"
+msgstr "Авторское право © 2006 Benjamin Canou"
+
+msgid "Copyright © 2006-2007 Richard Hughes"
+msgstr "Авторское право © 2006-2007 Richard Hughes"
+
+msgid "Could not connect to GNOME Power Manager."
+msgstr "Не удалось соединиться с сервисом управления питанием среды GNOME."
+
+msgid "DPMS Off"
+msgstr "DPMS выкл."
+
+msgid "DPMS On"
+msgstr "DPMS вкл."
+
+msgid "DPMS Standby"
+msgstr "DPMS ост."
+
+msgid "DPMS Suspend"
+msgstr "DPMS ждущ."
+
+msgid "Device information"
+msgstr "Сведения об устройстве"
+
+msgid "Di_m display when idle"
+msgstr "Приглушать яркость при бездействии"
+
+msgid "Dim the screen after a period of inactivity when on AC power"
+msgstr "Приглушать яркость экрана при бездействии при питании от сети"
+
+msgid "Dim the screen after a period of inactivity when on battery power"
+msgstr "Приглушать яркость экрана при бездействии при питании от батареи"
+
+msgid "Discharge time accuracy profile"
+msgstr "Профиль точности определения времени разрядки"
+
+msgid "Discharge time profile"
+msgstr "Профиль времени разрядки"
+
+msgid "Discharging"
+msgstr "Разряжается"
+
+msgid "Display DPMS activated"
+msgstr "Управление питанием дисплея активировано"
+
+msgid ""
+"Display options for the notification icon. Valid options are \"never\", "
+"\"critical\", \"charge\", \"present\" and \"always\"."
+msgstr ""
+"Параметр отображения значка уведомления. Возможные значения: \"never\", "
+"\"critical\", \"charge\", \"present\" и \"always\"."
+
+msgid "Do not daemonize"
+msgstr "Не переводить в фоновый режим"
+
+msgid "Do not show me this again"
+msgstr "Не показывать в следующий раз"
+
+msgid "Do nothing"
+msgstr "Ничего не делать"
+
+msgid "Doing nothing."
+msgstr "Ничего не делается."
+
+msgid "Enable UPS discharge _alarm"
+msgstr "Включить предупрежд_ение о разряде UPS"
+
+msgid "Estimated time"
+msgstr "Ожидаемое время"
+
+msgid "Estimated time history"
+msgstr "История ожидаемого времени"
+
+msgid "Excellent"
+msgstr "Отлично"
+
+msgid "Exit after a small delay (for debugging)"
+msgstr "Выйти после небольшой задержки (для отладки)"
+
+msgid "Exit after the manager has loaded (for debugging)"
+msgstr "Выйти после полной загрузки (для отладки)"
+
+msgid "Extrapolated data"
+msgstr "Выведенные данные"
+
+msgid "Factory for Brightness Applet"
+msgstr "Фабрика апплета установки яркости"
+
+msgid "Factory for Inhibit Applet"
+msgstr "Фабрика для апплета сдерживания"
+
+msgid "Fair"
+msgstr "Удовлетворительно"
+
+msgid "GNOME Power Manager"
+msgstr "Управление питанием среды GNOME"
+
+msgid "GNOME Power Manager Website"
+msgstr "Веб-сайт программы управления питанием GNOME"
+
+msgid "GNOME Power Preferences"
+msgstr "Параметры управления питанием"
+
+msgid "GNOME Power Statistics"
+msgstr "Статистика потребления питания"
+
+msgid "GNOME interactive logout."
+msgstr "Интерактивный выход из GNOME."
+
+msgid "General"
+msgstr "Общие"
+
+msgid "General failure"
+msgstr "Общая неисправность"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Graph type:"
+msgstr "Тип графика:"
+
+msgid "Hi_bernate"
+msgstr "Перевести в сп_ящий режим"
+
+msgid "Hibernate"
+msgstr "Спящий режим"
+
+msgid "Hibernate Problem"
+msgstr "Проблема спящего режима"
+
+msgid "Hibernate button action"
+msgstr "Действие кнопки \"Hibernate\""
+
+msgid "Hibernate enabled"
+msgstr "Спящий режим разрешен"
+
+msgid "Hibernate is not available on this computer."
+msgstr "На этом компьютере спящий режим недоступен."
+
+msgid ""
+"Hibernate support has been disabled. Contact your administrator for more "
+"details."
+msgstr ""
+"Поддержка спящего режима выключена. Свяжитесь с администратором для "
+"получения дополнительной информации."
+
+msgid "Hibernating computer."
+msgstr "Компьютер переводится в спящий режим."
+
+msgid "If DBUS inhibit requests should be ignored from other programs."
+msgstr "Должны ли игнорироваться запросы сдерживания DBUS от других программ."
+
+msgid "If DBUS inhibit requests should be ignored."
+msgstr "Должны ли игнорироваться сдерживающие запросы DBUS."
+
+msgid ""
+"If a notification message should be displayed after suspend or hibernate "
+"failed."
+msgstr ""
+"Отображать ли сообщение, уведомляющее о сбое перехода в ждущий или спящий "
+"режим."
+
+msgid ""
+"If a notification message should be displayed when the battery is fully "
+"charged."
+msgstr "Отображать ли сообщение, уведомляющее о полном заряде батареи."
+
+msgid ""
+"If a notification message should be displayed when the battery is getting "
+"low."
+msgstr "Отображать ли сообщение, уведомляющее о разряде батареи."
+
+msgid ""
+"If a notification message should be displayed when the profile data is "
+"guessed."
+msgstr "Отображать ли сообщение об автоматическом определении данных профиля."
+
+msgid "If extra debugging messages should be used"
+msgstr "Использовать ли дополнительный отладочный вывод"
+
+msgid ""
+"If extra debugging messages should be used. Only turn this on for debugging."
+msgstr ""
+"Использовать ли дополнительный отладочный вывод. Используйте только для "
+"отладки."
+
+msgid "If preferences should be shown"
+msgstr "Показывать ли параметры"
+
+msgid "If sounds should be used"
+msgstr "Использовать ли звуковые уведомления"
+
+msgid ""
+"If sounds should be used when the power is critically low, or inhibit "
+"requests have stopped the policy action."
+msgstr ""
+"Должны ли использоваться звуковые уведомления для извещения о низком уровне "
+"батарей, или о том, что сдерживающие запросы блокируют запланированное "
+"действие."
+
+msgid "If the CPU load should be checked before doing the idle action."
+msgstr "Проверять ли загрузку ЦП перед выполнением действия простоя."
+
+msgid ""
+"If the Suspend and Hibernate options should be allowed in the notification "
+"area drop down menu."
+msgstr ""
+"Должны ли быть разрешены параметры \"Ждущий режим\" и \"Спящий режим\" в "
+"выпадающем меню области уведомления."
+
+msgid ""
+"If the battery event should occur when the lid is shut and the power "
+"disconnected"
+msgstr ""
+"Должно ли происходить событие батареи, когда панель закрыта и питание "
+"отключено"
+
+msgid ""
+"If the battery lid close event should occur (for example 'Suspend when lid "
+"closed on battery') when the lid is previously shut and the AC power "
+"disconnected at a later time."
+msgstr ""
+"Генерировать ли событие закрывания панели ноутбука (например, ждущий режим "
+"когда панель закрыта на батарее), когда панель была закрыта, а источник "
+"питания отключен позже."
+
+msgid "If the learnt profile should be used to calculate the time remaining"
+msgstr ""
+"Использовать ли выведенный профиль для вычисления оставшегося времени работы."
+
+msgid ""
+"If the learnt profile should be used to calculate the time remaining. Only "
+"turn this off for debugging."
+msgstr ""
+"Использовать ли выведенный профиль для вычисления оставшегося времени "
+"работы. Выключайте только для отладки."
+
+msgid "If the low-power mode should be enabled when on AC"
+msgstr "Включить ли режим пониженного потребления при работе от сети"
+
+msgid "If the low-power mode should be enabled when on UPS"
+msgstr "Включить ли режим пониженного потребления при работе от UPS"
+
+msgid "If the low-power mode should be enabled when on battery"
+msgstr "Включить ли режим пониженного потребления при работе от батареи"
+
+msgid ""
+"If the screen brightness can be changed when switching between AC and "
+"battery power and by ambient light sensors."
+msgstr ""
+"Должна ли изменяться яркость экрана при переключении питания между сетью и "
+"батареей."
+
+msgid ""
+"If the screen brightness should be changed automatically using the ambient "
+"light sensors."
+msgstr ""
+"Параметр автоматического изменения яркости экрана с использованием датчиков "
+"освещения."
+
+msgid ""
+"If the screen brightness should be changed automatically using the ambient "
+"light sensors. Valid is 'none', 'light' and 'dark'"
+msgstr ""
+"Параметры изменения яркости экрана с использованием датчиков освещения. "
+"Допустимые значения 'none', 'light' и 'dark'"
+
+msgid ""
+"If the screen should be dimmed to save power when the computer is idle when "
+"on AC power."
+msgstr ""
+"Должна ли приглушаться яркость экрана для сохранения энергии при бездействии "
+"компьютера и работе от сети."
+
+msgid ""
+"If the screen should be dimmed to save power when the computer is idle when "
+"on battery power."
+msgstr ""
+"Должна ли приглушаться яркость экрана для сохранения энергии при бездействии "
+"компьютера и работе от батареи."
+
+msgid ""
+"If the screen should be reduced in brightness when the computer is on "
+"battery power."
+msgstr ""
+"Должна ли приглушаться яркость экрана для сохранения энергии при работе от "
+"батареи."
+
+msgid "If the system low-power mode should be enabled when on AC power."
+msgstr "Должен ли включаться режим пониженного потребления при работе от сети."
+
+msgid "If the system low-power mode should be enabled when on UPS power."
+msgstr ""
+"Должен ли включаться режим пониженного потребления при работе системы от UPS."
+
+msgid ""
+"If the system low-power mode should be enabled when on laptop battery power."
+msgstr ""
+"Должен ли включаться режим пониженного потребления при работе системы от "
+"батареи."
+
+msgid "If the user is authorized to hibernate the computer."
+msgstr "Может ли пользователь перевести компьютер в спящий режим."
+
+msgid "If the user is authorized to suspend the computer."
+msgstr "Может ли пользователь приостанавливать компьютер."
+
+msgid "If the user should be notified when the AC adapter is disconnected."
+msgstr "Уведомлять ли пользователя об отключении сетевого адаптера."
+
+msgid ""
+"If time based notifications should be used. If set to false, then the "
+"percentage change is used instead, which may fix a broken ACPI BIOS."
+msgstr ""
+"Должны ли использоваться уведомления на основе времени. Если этот параметр "
+"не установлен, вместо времени будет использоваться процент заряда батареи, "
+"что может исправить проблему с испорченными ACPI BIOS."
+
+msgid "If we should show the low capacity warning for a broken battery"
+msgstr "Показывать предупреждение о малом заряде для сломанных батарей"
+
+msgid "If we should show the low capacity warning for a broken battery."
+msgstr "Показывать предупреждение о малом заряде для сломанных батарей."
+
+msgid "If we should show the recalled battery warning for a broken battery"
+msgstr "Показывать предупреждение об отзыве сломанной батареи"
+
+msgid ""
+"If we should show the recalled battery warning for a broken battery. Set "
+"this to false only if you know your battery is okay."
+msgstr ""
+"Показывать предупреждение об отзыве сломанной батареи. Снимайте эту "
+"настройку только если уверены в безопасности батареи."
+
+msgid ""
+"If we should show the warning when we have a valid inhibit and configured to "
+"sleep on lid close"
+msgstr ""
+"Показывать предупреждение, когда включено сдерживание и настроен переход в "
+"спящий режим при закрытии крышки"
+
+msgid ""
+"If we should show the warning when we have a valid inhibit and configured to "
+"sleep on lid close."
+msgstr ""
+"Показывать предупреждение, когда включено сдерживание и настроен переход в "
+"спящий режим при закрытии крышки."
+
+msgid "Inhibit"
+msgstr "Замедлять"
+
+msgid "Inhibit Applet"
+msgstr "Апплет сдерживания"
+
+msgid "Inhibit Applet Factory"
+msgstr "Фабрика апплета сдерживания"
+
+msgid "Inhibit Tester"
+msgstr "Тестер замедления"
+
+msgid "Install problem!"
+msgstr "Проблема установки!"
+
+msgid "Keyboard battery low"
+msgstr "Батарея клавиатуры разряжена"
+
+msgid "Keyboard brightness when on AC"
+msgstr "Яркость клавиатуры при питании от сети"
+
+msgid "Keyboard brightness when on battery"
+msgstr "Яркость клавиатуры при питании от батареи"
+
+msgid "LCD brightness : %d%%"
+msgstr "Яркость LCD: %d%%"
+
+msgid "LCD brightness when on AC"
+msgstr "Яркость LCD при питании от сети"
+
+msgid "LCD dimming amount when on battery"
+msgstr "Снижение яркости LCD при питании от батареи"
+
+msgid "Laptop batteries"
+msgstr "Батареи ноутбука"
+
+msgid "Laptop battery"
+msgstr "Батарея ноутбука"
+
+msgid "Laptop battery critically low"
+msgstr "Уровень заряда батареи критический"
+
+msgid "Laptop battery low"
+msgstr "Батарея ноутбука разряжена"
+
+msgid "Laptop lid close action on battery"
+msgstr "Действие закрытия панели при питании от батареи"
+
+msgid "Laptop lid close action when on AC"
+msgstr "Действие закрытия панели при питании от сети"
+
+msgid "Laptop lid is closed"
+msgstr "Панель ноутбука закрыта"
+
+msgid "Lead acid"
+msgstr "Свинцово-кислотная"
+
+msgid "Licensed under the GNU General Public License Version 2"
+msgstr "Лицензировано на условиях GNU General Public License версии 2"
+
+msgid "Lid closed"
+msgstr "Панель закрыта"
+
+msgid "Lid opened"
+msgstr "Панель открыта"
+
+msgid "Lithium ion"
+msgstr "Литий-ионная"
+
+msgid "Lithium polymer"
+msgstr "Литий-полимерная"
+
+msgid "Lock GNOME keyring on sleep"
+msgstr "Блокировать брелоки ключей GNOME при переходе в спящий режим"
+
+msgid "Lock screen on hibernate"
+msgstr "Блокировать экран при переходе в спящий режим"
+
+msgid "Lock screen on suspend"
+msgstr "Блокировать экран при переходе в ждущий режим"
+
+msgid "Lock screen when blanked"
+msgstr "Блокировать экран при активировании сохранения экрана"
+
+msgid "Make Default"
+msgstr "Установить по умолчанию"
+
+msgid "Manual inhibit"
+msgstr "Ручное замедление"
+
+msgid "Maximum power saving"
+msgstr "Максимальное энергосбережение"
+
+msgid "Method used to blank screen on AC"
+msgstr "Метод, используемый для сохранения экрана при работы от сети"
+
+msgid "Method used to blank screen on battery"
+msgstr "Метод, используемый для сохранения экрана при работе на батарее"
+
+msgid "Missing"
+msgstr "Не найдена"
+
+msgid "Mouse battery low"
+msgstr "Батарея мыши разряжена"
+
+msgid "Multiple applications have stopped the hibernate from taking place."
+msgstr "Несколько приложений препятствуют входу в спящий режим."
+
+msgid "Multiple applications have stopped the policy action from taking place."
+msgstr "Несколько приложений препятствуют соблюдению политики."
+
+msgid "Multiple applications have stopped the reboot from taking place."
+msgstr "Несколько приложений препятствуют перезагрузке."
+
+msgid "Multiple applications have stopped the shutdown from taking place."
+msgstr "Несколько приложений препятствуют выключению."
+
+msgid "Multiple applications have stopped the suspend from taking place."
+msgstr "Несколько приложений препятствуют входу в ждущий режим."
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "Nickel metal hydride"
+msgstr "Никелевая металгидридная"
+
+msgid "No data"
+msgstr "Нет данных"
+
+msgid "Notification"
+msgstr "Уведомление"
+
+msgid "Notify on a low power"
+msgstr "Извещать о недостаточном питании"
+
+msgid "Notify on a sleep failure"
+msgstr "Извещать об ошибках выхода в спящий режим"
+
+msgid "Notify when AC adapter is disconnected"
+msgstr "Извещать при отключении сетевого адаптера"
+
+msgid "Notify when fully charged"
+msgstr "Извещать при полном заряде"
+
+msgid "Notify when the profile data is guessed"
+msgstr "Извещать при изменении данных профиля"
+
+msgid "Number of seconds to suppress policy after resume"
+msgstr ""
+"Задержка выполнения запланированных после восстановления системы действий в "
+"секундах"
+
+msgid "Observe power management"
+msgstr "Обзор системы управления питанием"
+
+msgid "On AC"
+msgstr "От сети"
+
+msgid "On AC Power"
+msgstr "От сети"
+
+msgid "On Battery Power"
+msgstr "От батареи"
+
+msgid "On UPS Power"
+msgstr "От UPS"
+
+msgid "On battery"
+msgstr "От батареи"
+
+msgid "On battery power"
+msgstr "При питании от батареи"
+
+msgid "Only display an icon when a battery is p_resent"
+msgstr "Отображать значок только при _наличии батареи"
+
+msgid "Only display an icon when charging or _discharging"
+msgstr "Отображать значок только при заряде или _разряде"
+
+msgid "Optimize your computer's power usage and CPU speed"
+msgstr "Оптимизация потребления электроэнергии компьютером и скорости ЦП"
+
+msgid "PDA"
+msgstr "КПК"
+
+msgid "PDA battery low"
+msgstr "Батарея КПК разряжена"
+
+msgid "PDAs"
+msgstr "КПК"
+
+msgid "Percentage"
+msgstr "Процент"
+
+msgid "Percentage action is taken"
+msgstr "Действие выполняется по проценту заряда"
+
+msgid "Percentage considered critical"
+msgstr "Процент заряда, воспринимаемый как критический"
+
+msgid "Percentage considered low"
+msgstr "Процент заряда, воспринимаемый как низкий"
+
+msgid "Perform action anyway"
+msgstr "Всё равно сделать"
+
+msgid "Plug in your AC adapter to avoid losing data."
+msgstr "Включите адаптер питания в сеть, чтобы избежать потери данных."
+
+msgid "Poor"
+msgstr "Плохо"
+
+msgid "Power"
+msgstr "Питание"
+
+msgid "Power History"
+msgstr "История потребления"
+
+msgid "Power Information"
+msgstr "Электропитание"
+
+msgid "Power Management"
+msgstr "Управление питанием"
+
+msgid "Power Management Preferences"
+msgstr "Параметры управления питанием"
+
+msgid "Power Manager"
+msgstr "Управление питанием"
+
+msgid "Power Manager Brightness Applet"
+msgstr "Апплет управления яркостью"
+
+msgid "Power Manager Inhibit Applet"
+msgstr "Апплет сдерживания управления питанием"
+
+msgid "Power Manager for the GNOME desktop"
+msgstr "Управление питанием для среды GNOME"
+
+msgid ""
+"Power Manager is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details."
+msgstr ""
+"Power Manager распространяется в надежде, что он может \n"
+"быть полезен, но БЕЗ КАКОГО-ЛИБО ВИДА ГАРАНТИЙ,\n"
+"ВЫРАЖЕННЫХ ЯВНО ИЛИ ПОДРАЗУМЕВАЕМЫХ,\n"
+"ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ ПОДРАЗУМЕВАЕМЫМИ\n"
+" ГАРАНТИЯМИ КОММЕРЧЕСКОЙ ЦЕННОСТИ И\n"
+"ПРИГОДНОСТИ ДЛЯ КОНКРЕТНОЙ ЦЕЛИ. Для получения\n"
+"дополнительных сведений обратитесь к Универсальной Общественной Лицензии GNU."
+
+msgid ""
+"Power Manager is free software; you can redistribute it and/or\n"
+"modify it under the terms of the GNU General Public License\n"
+"as published by the Free Software Foundation; either version 2\n"
+"of the License, or (at your option) any later version."
+msgstr ""
+"Power Manager - свободное программное обеспечение, вы можете\n"
+"распространять и/или модифицировать его на условиях\n"
+"Универсальной общественной лицензии GNU\n"
+",опубликованной Фондом Свободного Программного\n"
+" Обеспечения, версии 2 или (на ваше усмотрение) более поздней."
+
+msgid "Power Statistics"
+msgstr "История потребления"
+
+msgid "Power _History"
+msgstr "История п_отребления"
+
+msgid "Power button action"
+msgstr "Действие кнопки \"Power\""
+
+msgid "Power history"
+msgstr "История потребления"
+
+msgid "Power management daemon"
+msgstr "Служба управления питанием"
+
+msgid "Put _display to sleep when inactive for:"
+msgstr "Отключать _дисплей после через:"
+
+msgid "Put computer to _sleep when inactive for:"
+msgstr "_Приостанавливать компьютер через:"
+
+msgid "Reason:"
+msgstr "Причина:"
+
+msgid "Reason: %s"
+msgstr "Причина: %s"
+
+msgid "Reduce the backlight brightness when on battery power"
+msgstr "Приглушать яркость ламп монитора при питании от батареи"
+
+msgid "Request to do policy action"
+msgstr "Запрос выполнения действия политики"
+
+msgid "Request to do timeout action"
+msgstr "Запрос выполнения действия задержки"
+
+msgid "Request to hibernate"
+msgstr "Запрос перехода в спящий режим"
+
+msgid "Request to reboot"
+msgstr "Запрос перезагрузки"
+
+msgid "Request to shutdown"
+msgstr "Запрос выключения"
+
+msgid "Request to suspend"
+msgstr "Запрос перехода в ждущий режим"
+
+msgid "Resuming computer"
+msgstr "Восстановление состояния компьютера"
+
+msgid "Session active"
+msgstr "Активной работы"
+
+msgid "Session idle"
+msgstr "Бездействия"
+
+msgid "Session powersave"
+msgstr "Хранения питания"
+
+msgid "Set display _brightness to:"
+msgstr "Установить _яркость дисплея:"
+
+msgid "Show extra debugging information"
+msgstr "Показывать отладочную информацию"
+
+msgid "Show graphs of recent battery performance"
+msgstr "Вывод графиков работы аккумуляторов за последнее время"
+
+msgid "Show version of installed program and exit"
+msgstr "Вывести версию установленной программы и выйти"
+
+msgid "Shutdown"
+msgstr "Завершение работы"
+
+msgid "Shutting down computer."
+msgstr "Выключение компьютера."
+
+msgid "Sleep Problem"
+msgstr "Проблема ждущего режима"
+
+msgid "Sleep timeout computer when on AC"
+msgstr "Задержка приостановки компьютера при питании от сети"
+
+msgid "Sleep timeout computer when on battery"
+msgstr "Задержка приостановки компьютера при питании от батареи"
+
+msgid "Sleep timeout display when on AC"
+msgstr "Задержка отключения дисплея при питании от сети"
+
+msgid "Sleep timeout display when on battery"
+msgstr "Задержка отключения дисплея при питании от батареи"
+
+msgid "Sleep warning"
+msgstr "Предупреждение по спящему режиму"
+
+msgid "Start point"
+msgstr "Точка старта"
+
+msgid "Stop point"
+msgstr "Точка останова"
+
+msgid "Suspend"
+msgstr "Ждущий режим"
+
+msgid "Suspend Problem"
+msgstr "Проблема ждущего режима"
+
+msgid "Suspend button action"
+msgstr "Действие кнопки \"Suspend\""
+
+msgid "Suspend enabled"
+msgstr "Ждущий режим разрешен"
+
+msgid "Suspend is not available on this computer."
+msgstr "На этом компьютере ждущий режим недоступен."
+
+msgid ""
+"Suspend support has been disabled. Contact your administrator for more "
+"details."
+msgstr ""
+"Поддержка ждущего режима выключена. Свяжитесь с администратором для "
+"получения дополнительной информации."
+
+msgid "Suspending computer."
+msgstr "Компьютер переводится в ждущий режим."
+
+msgid "System idle."
+msgstr "Бездействие."
+
+msgid "The AC power has been unplugged. The system is now using backup power."
+msgstr ""
+"Сеть переменного тока отключена. Система работает на вспомогательном "
+"источнике."
+
+msgid "The AC power has been unplugged. The system is now using battery power."
+msgstr "Сеть переменного тока отключена. Система работает на батарее."
+
+msgid ""
+"The DPMS method used to blank the screen when on AC power. Possible values "
+"are \"default\", \"standby\", \"suspend\" and \"off\"."
+msgstr ""
+"Метод DPMS, используемый при очистке экрана при питании от сети. Возможные "
+"значения: \"default\", \"standby\", \"suspend\" и \"off\". "
+
+msgid ""
+"The DPMS method used to blank the screen when on battery power. Possible "
+"values are \"default\", \"standby\", \"suspend\" and \"off\"."
+msgstr ""
+"Метод DPMS, используемый при очистке экрана при питании от батареи. "
+"Возможные значения: \"default\", \"standby\", \"suspend\" и \"off\"."
+
+msgid "The PDA attached to this computer is low in power (%.1f%%)"
+msgstr "КПК, подключённый к вашему компьютеру, скоро разрядится (%.1f%%)"
+
+msgid ""
+"The PDA attached to this computer is very low in power (%.1f%%). This device "
+"will soon stop functioning if not charged."
+msgstr ""
+"КПК, подключенный к вашему компьютеру, разряжен (%.1f%%). Это устройство "
+"скоро прекратит работу, если не будет заряжено."
+
+msgid ""
+"The UPS is below the critical level and this computer is about to hibernate."
+msgstr ""
+"Уровень заряда UPS ниже критического, компьютер сейчас будет переведен в "
+"спящий режим."
+
+msgid ""
+"The UPS is below the critical level and this computer is about to shutdown."
+msgstr "Уровень заряда UPS ниже критического, компьютер сейчас будет выключен."
+
+msgid ""
+"The UPS is below the critical level and this computer will <b>power-off</b> "
+"when the UPS becomes completely empty."
+msgstr ""
+"Уровень заряда UPS ниже критического, компьютер <b>будет выключен</b> при "
+"полном разряде батареи."
+
+msgid ""
+"The action to take when the UPS is critically low. Possible values are "
+"\"hibernate\", \"suspend\", \"shutdown\" and \"nothing\"."
+msgstr ""
+"Действие, выполняемое при критическом разряде UPS. Возможные значения: "
+"\"hibernate\", \"suspend\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The action to take when the UPS is low. Possible values are \"hibernate\", "
+"\"suspend\", \"shutdown\" and \"nothing\"."
+msgstr ""
+"Действие, выполняемое при разряде UPS. Возможные значения: \"hibernate\", "
+"\"suspend\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The action to take when the battery is critically low. Possible values are "
+"\"hibernate\", \"suspend\", \"shutdown\" and \"nothing\"."
+msgstr ""
+"Действие, выполняемое при критическом разряде батареи. Возможные значения: "
+"\"hibernate\", \"suspend\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The action to take when the laptop lid is closed and the laptop is on AC "
+"power. Possible values are \"suspend\", \"hibernate\", \"blank\" and "
+"\"nothing\"."
+msgstr ""
+"Действие, выполняемое при закрытии панели ноутбука, питающегося от сети. "
+"Возможные значения: \"suspend\", \"hibernate\",\"blank\" и \"nothing\"."
+
+msgid ""
+"The action to take when the laptop lid is closed and the laptop is on "
+"battery power. Possible values are \"suspend\", \"hibernate\", \"blank\", "
+"and \"nothing\"."
+msgstr ""
+"Действие, выполняемое при закрытии панели ноутбука, питающегося от батареи. "
+"Возможные значения: \"suspend\", \"hibernate\", \"blank\" и \"nothing\"."
+
+msgid ""
+"The action to take when the system hibernate button is pressed. Possible "
+"values are \"suspend\", \"hibernate\", \"interactive\", \"shutdown\" and "
+"\"nothing\"."
+msgstr ""
+"Действие, выполняемое при нажатии кнопки \"Hibernate\". Возможные значения: "
+"\"suspend\", \"hibernate\", \"interactive\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The action to take when the system power button is pressed. Possible values "
+"are \"suspend\", \"hibernate\", \"interactive\", \"shutdown\" and \"nothing"
+"\"."
+msgstr ""
+"Действие, выполняемое при нажатии кнопки \"Power\". Возможные значения: "
+"\"suspend\", \"hibernate\", \"interactive\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The action to take when the system suspend button is pressed. Possible "
+"values are \"suspend\", \"hibernate\", \"interactive\", \"shutdown\" and "
+"\"nothing\"."
+msgstr ""
+"Действие, выполняемое при нажатии кнопки \"Suspend\". Возможные значения: "
+"\"suspend\", \"hibernate\", \"interactive\", \"shutdown\" и \"nothing\"."
+
+msgid ""
+"The amount of time in seconds before the display goes to sleep when the "
+"computer is on AC power."
+msgstr ""
+"Время бездействия в секундах, по истечении которого дисплей будет отключен "
+"при работе от сети."
+
+msgid ""
+"The amount of time in seconds the computer on AC power needs to be inactive "
+"before it goes to sleep."
+msgstr ""
+"Сколько секунд компьютер должен простаивать при питании от сети перед "
+"приостановкой."
+
+msgid ""
+"The amount of time in seconds the computer on battery power needs to be "
+"inactive before it goes to sleep."
+msgstr ""
+"Сколько секунд компьютер должен простаивать при питании от батарей перед "
+"приостановкой."
+
+msgid ""
+"The amount of time in seconds the computer on battery power needs to be "
+"inactive before the display goes to sleep."
+msgstr ""
+"Сколько секунд компьютер должен простаивать при питании от батарей перед "
+"отключением дисплея."
+
+msgid "The amount the light sensors should contribute to the brightness"
+msgstr "Степень, в которой датчики освещения влияют на яркость"
+
+msgid "The amount the light sensors should contribute to the brightness."
+msgstr "Степень, в которой датчики освещения влияют на яркость."
+
+msgid ""
+"The amount to dim the brightness of the display when on battery power. "
+"Possible values are between 0 and 100."
+msgstr ""
+"Уменьшение яркости дисплея при питании от батарей. Возможные значения - от 0 "
+"до 100."
+
+msgid ""
+"The battery in your computer may have been recalled by %s and you may be at "
+"risk.\n"
+"\n"
+"For more information visit the %s battery recall website."
+msgstr ""
+"Ваша батарея, возможно, отозвана производителем %s из-за повышенного риска.\n"
+"\n"
+"Для получения дополнительной информации посетите веб-сайт %s об отзыве "
+"батарей."
+
+msgid ""
+"The battery is below the critical level and this computer is about to "
+"hibernate."
+msgstr ""
+"Уровень заряда батареи ниже критического, компьютер сейчас будет переведен в "
+"спящий режим."
+
+msgid ""
+"The battery is below the critical level and this computer is about to "
+"shutdown."
+msgstr ""
+"Уровень заряда батареи ниже критического, компьютер сейчас будет выключен."
+
+msgid ""
+"The battery is below the critical level and this computer is about to "
+"suspend.<br><b>NOTE:</b> A small amount of power is required to keep your "
+"computer in a suspended state."
+msgstr ""
+"Уровень заряда батареи ниже критического, компьютер сейчас будет переведен в "
+"ждущий режим. <br><b>Внимание:</b>Небольшое количество энергии необходимо "
+"для поддержания состояния компьютера в ждущем режиме."
+
+msgid ""
+"The battery is below the critical level and this computer will <b>power-off</"
+"b> when the battery becomes completely empty."
+msgstr ""
+"Уровень заряда батареи ниже критического, компьютер <b>будет выключен</b> "
+"при полном разряде батареи."
+
+msgid ""
+"The brightness of the display when on AC power. Possible values are between "
+"0 and 100."
+msgstr "Яркость дисплея при питании от сети. Возможные значения - от 0 до 100."
+
+msgid ""
+"The brightness of the keyboard when on AC power. Possible values are between "
+"0 and 100."
+msgstr ""
+"Яркость клавиатуры при питании от сети. Возможные значения - от 0 до 100."
+
+msgid ""
+"The brightness of the keyboard when on battery power. Possible values are "
+"between 0 and 100."
+msgstr ""
+"Яркость клавиатуры при питании от батарей. Возможные значения - от 0 до 100."
+
+msgid "The brightness of the screen when idle"
+msgstr "Яркость экрана при простое"
+
+msgid ""
+"The calibration of the light sensors so that the screen is bright enough"
+msgstr ""
+"Калибровка датчиков освещения для достижения оптимальной яркости экрана"
+
+msgid ""
+"The calibration of the light sensors so that the screen is bright enough, in "
+"percent."
+msgstr ""
+"Калибровка датчиков освещения для достижения оптимальной яркости экрана, в "
+"процентах"
+
+msgid "The cell phone attached to this computer is low in power (%.1f%%)"
+msgstr ""
+"Мобильный телефон, подключенный к вашему компьютеру, скоро разрядится (%.1f%"
+"%)"
+
+msgid ""
+"The configuration defaults for GNOME Power Manager have not been installed "
+"correctly.\n"
+"Please contact your computer administrator."
+msgstr ""
+"Настройки конфигурации по умолчанию системы управления питанием GNOME "
+"некорректны.\n"
+"Свяжитесь с администратором системы."
+
+msgid "The default amount of time to dim the screen after idle"
+msgstr "Время погасания экрана при бездействии по умолчанию"
+
+msgid "The default amount of time to dim the screen after idle."
+msgstr "Время погасания экрана при бездействии по умолчанию."
+
+msgid "The default configuration version."
+msgstr "Версия конфигурации по умолчанию."
+
+msgid "The default graph type to show in the statistics window"
+msgstr "Тип графика в окне статистики по умолчанию."
+
+msgid "The default graph type to show in the statistics window."
+msgstr "Тип графика в окне статистики по умолчанию."
+
+msgid "The hibernate button has been pressed."
+msgstr "Была нажата кнопка перехода в ждущий режим."
+
+msgid "The interval the ambient light sensors should be polled"
+msgstr "Интервал опроса датчиков освещения"
+
+msgid "The interval the ambient light sensors should be polled in seconds."
+msgstr "Интервал опроса датчиков освещения в секундах."
+
+msgid "The invalid timeout for power actions"
+msgstr "Допустимая задержка действий с питанием"
+
+msgid ""
+"The invalid timeout in ms for power actions. Set this longer if you get "
+"'battery critical' messages when you unplug."
+msgstr ""
+"Допустимая задержка действий с питанием. Увеличьте это значение, чтобы "
+"избавиться от сообщений о критическом разряде батареи во время отключения "
+"питания."
+
+msgid "The laptop lid has been closed"
+msgstr "Панель ноутбука была закрыта"
+
+msgid "The laptop lid has been re-opened"
+msgstr "Панель ноутбука была открыта"
+
+msgid "The lid has been closed on ac power."
+msgstr "Крышка была закрыта при питании от сети."
+
+msgid "The lid has been closed on battery power."
+msgstr "Крышка была закрыта при питании от батареи."
+
+msgid ""
+"The lid has been closed, and the ac adapter removed (and gconf is okay)."
+msgstr ""
+"Крышка была закрыта и адаптер переменного тока отключён (gconf в норме)."
+
+msgid "The maximum duration of time displayed on the x-axis of the graph."
+msgstr "Максимальная продолжительность времени по оси X."
+
+msgid "The maximum time displayed on the graph"
+msgstr "Максимальное время, отображаемое на графике"
+
+msgid "The message was not sent due to DBUS security rules"
+msgstr "Сообщение не было послано из-за правил безопасности DBUS"
+
+msgid ""
+"The percentage of the battery when it is considered critical. Only valid "
+"when use_time_for_policy is false."
+msgstr ""
+"Процент заряда батареи, воспринимаемый как критический. Параметр "
+"действителен только в том случае, если не установлен ключ "
+"use_time_for_policy."
+
+msgid ""
+"The percentage of the battery when it is considered low. Only valid when "
+"use_time_for_policy is false."
+msgstr ""
+"Процент заряда батареи, воспринимаемый как низкий. Действителен только если "
+"не установлен параметр use_time_for_policy."
+
+msgid ""
+"The percentage of the battery when the critical action is performed. Only "
+"valid when use_time_for_policy is false."
+msgstr ""
+"Процент заряда батареи, при котором выполняется критическое действие. "
+"Действителен только если не установлен параметр use_time_for_policy."
+
+msgid "The power button has been pressed."
+msgstr "Была нажата кнопка выключения питания."
+
+msgid "The suspend button has been pressed."
+msgstr "Была нажата кнопка перехода в спящий режим."
+
+msgid ""
+"The time remaining in seconds of the battery when critical action is taken. "
+"Only valid when use_time_for_policy is true."
+msgstr ""
+"Оставшееся время работы на батарее в секундах, когда выполняется критическое "
+"действие. Действительно только в случае, когда установлен параметр "
+"use_time_for_policy."
+
+msgid ""
+"The time remaining in seconds of the battery when it is considered critical. "
+"Only valid when use_time_for_policy is true."
+msgstr ""
+"Оставшееся время работы на батарее в секундах, воспринимаемое как "
+"критическое. Действительно только в случае, когда установлен параметр "
+"use_time_for_policy."
+
+msgid ""
+"The time remaining in seconds of the battery when it is considered low. Only "
+"valid when use_time_for_policy is true."
+msgstr ""
+"Оставшееся время работы на батарее в секундах, воспринимаемое как низкое. "
+"Действительно только в случае, когда установлен параметр use_time_for_policy."
+
+msgid "The time remaining when action is taken"
+msgstr "Оставшееся время, когда выполняется действие"
+
+msgid "The time remaining when critical"
+msgstr "Оставшееся время, воспринимаемое как критическое"
+
+msgid "The time remaining when low"
+msgstr "Оставшееся время, воспринимаемое как низкое"
+
+msgid ""
+"The type of sleeping that should be performed when the computer is inactive. "
+"Possible values are \"hibernate\", \"suspend\" and \"nothing\"."
+msgstr ""
+"Тип приостановки компьютера после периода неактивности. Допустимые значения: "
+"\"hibernate\", \"suspend\" и \"nothing\"."
+
+msgid ""
+"The version of the installed version of the schema. Do not edit this value, "
+"it is used so that configure changes between versions can be detected."
+msgstr ""
+"Версия установленной схемы настроек. Не исправляйте это значение, оно будет "
+"использовано для обновления конфигурации при установке новых версий."
+
+msgid ""
+"The wireless keyboard attached to this computer is low in power (%.1f%%)"
+msgstr ""
+"Батарея беспроводной клавиатуры этого компьютера скоро разрядится (%.1f%%)"
+
+msgid ""
+"The wireless keyboard attached to this computer is very low in power (%.1f%"
+"%). This device will soon stop functioning if not charged."
+msgstr ""
+"Беспроводная клавиатура, подключенная к вашему компьютеру, разряжена (%.1f%"
+"%). Это устройство скоро прекратит работу, если не будет заряжено."
+
+msgid "The wireless mouse attached to this computer is low in power (%.1f%%)"
+msgstr ""
+"Беспроводная мышь, подключенная к вашему компьютеру, скоро разрядится (%.1f%"
+"%)"
+
+msgid ""
+"The wireless mouse attached to this computer is very low in power (%.1f%%). "
+"This device will soon stop functioning if not charged."
+msgstr ""
+"Беспроводная мышь, подключенная к вашему компьютеру, разряжена (%.1f%%). Это "
+"устройство скоро прекратит работу, если не будет заряжено."
+
+msgid "This computer will hibernate in %s if the AC is not connected."
+msgstr ""
+"Этот компьютер перейдёт в спящий режим через %s, если питание от сети не "
+"будет подключено."
+
+msgid "This computer will shutdown in %s if the AC is not connected."
+msgstr ""
+"Этот компьютер выключится через %s, если питание от сети не будет подключено."
+
+msgid "This computer will suspend in %s if the AC is not connected."
+msgstr ""
+"Этот компьютер перейдёт в ждущий режим через %s, если питание от сети не "
+"будет подключено."
+
+msgid ""
+"This is the laptop panel screen brightness used when the session is idle. "
+"Only valid when use_time_for_policy is true."
+msgstr ""
+"Значение яркости панели ноутбука при простое сеанса. Действует только когда "
+"установлен ключ use_time_for_policy."
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Time since startup"
+msgstr "Время работы"
+
+msgid "Trusted"
+msgstr "Точный"
+
+msgid "Turn on keyboard light when light level is low"
+msgstr "Включать подсветку клавиатуры когда темно"
+
+msgid "UPS"
+msgstr "UPS"
+
+msgid "UPS Discharging"
+msgstr "UPS разряжается"
+
+msgid "UPS critical low action"
+msgstr "Действие при критическом разряде UPS"
+
+msgid "UPS critically low"
+msgstr "UPS критически разряжен"
+
+msgid "UPS low"
+msgstr "Батарея UPS разряжена"
+
+msgid "UPS low power action"
+msgstr "Действие при разряде UPS"
+
+msgid "UPSs"
+msgstr "UPS'ы"
+
+msgid "UnInhibit"
+msgstr "Отменить замедление"
+
+msgid "Unable to get data..."
+msgstr "Не удалось получить данные"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown time"
+msgstr "Время неизвестно"
+
+msgid "Untrusted"
+msgstr "Неточный"
+
+msgid "Use _ambient light to adjust LCD brightness"
+msgstr "Использовать д_атчик света для настройки яркости монитора"
+
+msgid "Use _sound to notify in event of an error"
+msgstr "Использовать _звуковые уведомления об ошибках"
+
+msgid "Use gnome-screensaver lock setting"
+msgstr "Использовать параметр блокировки программы gnome-screensaver"
+
+msgid "User clicked on tray"
+msgstr "Пользователь щёлкнул в лотке"
+
+msgid "Valid data"
+msgstr "Верные данные"
+
+msgid "Vendor Acme Foo"
+msgstr "Производитель Вася Пупкин"
+
+msgid "Visit quirk website"
+msgstr "Посетить веб-сайт"
+
+msgid "Visit recall website"
+msgstr "Посетить веб-сайт об отзыве"
+
+msgid "Voltage"
+msgstr "Напряжение"
+
+msgid "Voltage history"
+msgstr "История напряжения"
+
+msgid "When UPS power is _critically low:"
+msgstr "При _критическом разряде UPS:"
+
+msgid "When UPS power is l_ow:"
+msgstr "При разр_яде UPS:"
+
+msgid "When battery po_wer is critically low:"
+msgstr "При критическом разряде батар_еи:"
+
+msgid "When laptop lid is cl_osed:"
+msgstr "При _закрытии крышки ноутбука:"
+
+msgid "When the _suspend button is pressed:"
+msgstr "При нажатии _кнопки перехода в ждущий режим:"
+
+msgid "When the power _button is pressed:"
+msgstr "При нажатии _кнопки питания:"
+
+msgid "When to show the notification icon"
+msgstr "Когда отображать значок уведомления"
+
+msgid "Whether NetworkManager should be connected and disconnected on sleep."
+msgstr ""
+"Разрывать ли соединение с сетью с помощью NetworkManager при переходе в "
+"спящий режим."
+
+msgid ""
+"Whether NetworkManager should disconnect before suspending or hibernating "
+"and connect on resume."
+msgstr ""
+"Должен ли NetworkManager разрывать соединение перед переходом в ждущий или "
+"спящий режим и восстанавливать его при возврате в обычный режим работы."
+
+msgid ""
+"Whether the GNOME keyring is locked before the computer enters hibernate. "
+"This means the keyring will have to be unlocked on resume."
+msgstr ""
+"Блокировать ли брелок ключей gnome во время входа в спящий режим. Брелок "
+"необходимо разблокировать после возврата к работе."
+
+msgid ""
+"Whether the GNOME keyring is locked before the computer enters suspend. This "
+"means the keyring will have to be unlocked on resume."
+msgstr ""
+"Блокировать ли брелок ключей gnome во время входа в ждущий режим. Брелок "
+"необходимо разблокировать после возврата к работе."
+
+msgid ""
+"Whether the screen is locked when the computer wakes up from a hibernate. "
+"Only used if lock_use_screensaver_settings is false."
+msgstr ""
+"Блокировать ли экран после восстановления компьютера из спящего режима. "
+"Используется только в случае, если не установлен параметр "
+"lock_use_screensaver_settings."
+
+msgid ""
+"Whether the screen is locked when the computer wakes up from a suspend. Only "
+"used if lock_use_screensaver_settings is false."
+msgstr ""
+"Блокировать ли экран после восстановления компьютера из ждущего режима. "
+"Используется тоько в случае, если не установлен параметр "
+"lock_use_screensaver_settings."
+
+msgid ""
+"Whether the screen is locked when the screen is turned off. Only used if "
+"lock_use_screensaver_settings is false."
+msgstr ""
+"Блокировать ли экран при отключении. Используется только в случае, если не "
+"установлен параметр lock_use_screensaver_settings."
+
+msgid "Whether to hibernate, suspend or do nothing when inactive"
+msgstr ""
+"Перейти в спящий режим, ждущий режим или ничего не делать после периода "
+"бездействия"
+
+msgid ""
+"Whether to use the screen lock setting of gnome-screensaver to decide if the "
+"screen is locked after a hibernate, suspend or blank screen."
+msgstr ""
+"Использовать ли параметр блокировки экрана программы gnome-screendaver чтобы "
+"определить, нужно ли блокировать экран после ждущего режима, спящего режима "
+"или отключения дисплея"
+
+msgid "Whether to use time-based notifications"
+msgstr "Использовать ли уведомления на основании времени"
+
+msgid "Whether we should show the axis labels in the statistics window"
+msgstr "Показывать ли метки координатных осей в окне статистики"
+
+msgid "Whether we should show the axis labels in the statistics window."
+msgstr "Показывать ли метки координатных осей в окне статистики."
+
+msgid "Whether we should show the events in the statistics window"
+msgstr "Показывать события в окне статистики"
+
+msgid "Whether we should show the events in the statistics window."
+msgstr "Показывать события в окне статистики."
+
+msgid "Whether we should smooth the data in the graph"
+msgstr "Сглаживать ли данные на графике"
+
+msgid "Whether we should smooth the data in the graph."
+msgstr "Сглаживать ли данные на графике."
+
+msgid "Wireless keyboard"
+msgstr "Беспроводная клавиатура"
+
+msgid "Wireless keyboards"
+msgstr "Беспроводные клавиатуры"
+
+msgid "Wireless mice"
+msgstr "Беспроводная мышь"
+
+msgid "Wireless mouse"
+msgstr "Беспроводная мышь"
+
+msgid "You have approximately <b>%s</b> of remaining UPS backup power (%.1f%%)"
+msgstr "У вас осталось примерно <b>%s</b> заряда UPS (%.1f%%)"
+
+msgid ""
+"You have approximately <b>%s</b> of remaining UPS power (%.1f%%). Restore AC "
+"power to your computer to avoid losing data."
+msgstr ""
+"У вас осталось примерно <b>%s</b> заряда UPS (%.1f%%). Восстановите питание "
+"вашего компьютера, чтобы избежать потери данных."
+
+msgid "You have approximately <b>%s</b> of remaining battery life (%.1f%%)"
+msgstr "У вас осталось примерно <b>%s</b> заряда батареи (%.1f%%)"
+
+msgid "You have approximately <b>%s</b> of remaining battery life (%.1f%%). %s"
+msgstr "У вас осталось примерно <b>%s</b> заряда батареи (%.1f%%). %s"
+
+msgid ""
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software\n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA\n"
+"02110-1301, USA."
+msgstr ""
+"Вы должны получить копию лицензии GNU c программой Nautilus.\n"
+"Если лицензия не была получена, известите об этом Фонд свободного\n"
+"программного обеспечения по адресу Free Software Foundation, Inc.,\n"
+"59 Temple Place, Suite 330, Boston, MA  02111-1307  USA"
+
+msgid ""
+"Your battery has a very low capacity (%i%%), which means that it may be old "
+"or broken."
+msgstr ""
+"Ёмкость батареи очень мала (%i%%), вероятно она устарела или сломалась."
+
+msgid ""
+"Your cell phone is very low in power (%.1f%%). This device will soon stop "
+"functioning if not charged."
+msgstr ""
+"Мобильный телефон разряжен (%.1f%%). Это устройство скоро прекратит работу, "
+"если не будет заряжено."
+
+msgid ""
+"Your computer failed to hibernate.\n"
+"Check the help file for common problems."
+msgstr ""
+"Не удалось перевести компьютер в спящий режим.\n"
+"Ознакомьтесь со списком общих проблем в файле справки."
+
+msgid ""
+"Your computer failed to suspend.\n"
+"Check the help file for common problems."
+msgstr ""
+"Не удалось перевести компьютер в ждущий режим.\n"
+"Ознакомьтесь со списком общих проблем в файле справки."
+
+msgid "Your laptop battery is now fully charged"
+msgstr "Ваша батарея полностью заряжена"
+
+msgid ""
+"Your laptop will not sleep if you shut the lid as a running program has "
+"prevented this.\n"
+"Some laptops can overheat if they do not sleep when the lid is closed."
+msgstr ""
+"Ваш ноутбук не перейдёт в спящий режим после закрытия крышки из-за "
+"работающей программы.\n"
+"Некоторые ноутбуки могут перегреться, если при закрытой крышке не включён "
+"спящий режим."
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Always display an icon"
+msgstr "_Всегда отображать значок"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid ""
+"_Lock screen when computer is restored from blank screen, suspend or "
+"hibernate"
+msgstr ""
+"_Блокировать экран при восстановлении после гашения экрана, приостановки или "
+"спящего режима"
+
+msgid "_Never display an icon"
+msgstr "_Никогда не отображать значок"
+
+msgid "_Only display an icon when battery power is critically low"
+msgstr "Отображать только при _критическом разряде батареи"
+
+msgid "_Preferences"
+msgstr "_Параметры"
+
+msgid "_Reduce backlight brightness"
+msgstr "Сниж_ать яркость ламп монитора"
+
+msgid "_Suspend"
+msgstr "Перевести в _ждущий режим"
+
+msgid "a short time"
+msgstr "короткое время"
+
+msgid "dpms off"
+msgstr "dpms выкл."
+
+msgid "dpms on"
+msgstr "dpms вкл."
+
+msgid "dpms standby"
+msgstr "dpms ост."
+
+msgid "dpms suspend"
+msgstr "dpms ждущ."
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "час"
+msgstr[1] "часа"
+msgstr[2] "часов"
+
+msgid "idle mode ended"
+msgstr "режима простоя завершен"
+
+msgid "idle mode started"
+msgstr "запущен режим простоя"
+
+msgid "label shown on graph|Hibernate"
+msgstr "Спящий"
+
+msgid "label shown on graph|Resume"
+msgstr "Работа"
+
+msgid "label shown on graph|Suspend"
+msgstr "Ждущий"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "минута"
+msgstr[1] "минуты"
+msgstr[2] "минут"
+
+msgid "powersave mode started"
+msgstr "запущен режим сохранения питания"
+
+msgid "translator-credits"
+msgstr "Леонид Кантер <leon@asplinux.ru>"

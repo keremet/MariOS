@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: quick-lounge\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-07-06 03:52+0400\n"
+"PO-Revision-Date: 2006-07-05 22:24+0400\n"
+"Last-Translator: Dmitry G. Mastrukov <dmitry@taurussoft.org>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.0.2\n"
+
+msgid "    "
+msgstr "    "
+
+msgid "<b>Launchers</b>"
+msgstr "<b>Кнопки запуска</b>"
+
+msgid "<b>Size</b>"
+msgstr "<b>Размер</b>"
+
+msgid "Add Existing Launcher"
+msgstr "Добавить существующую кнопку"
+
+msgid "Add _Existing Launcher"
+msgstr "Добавить существующую кнопку"
+
+msgid "Add _New Launcher"
+msgstr "Добавить новую кнопку"
+
+msgid "Add _Space"
+msgstr "Добавить _разделитель"
+
+msgid "Always use one row"
+msgstr "Всегда использовать одну строку"
+
+msgid "Application"
+msgstr "Программа"
+
+msgid "Available applications:"
+msgstr "Доступные приложения:"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+"Невозможно найти терминал, будет использоваться xterm даже если он не "
+"работает"
+
+msgid ""
+"Cannot save changes to launcher\n"
+"\n"
+"Details: %s"
+msgstr ""
+"Невозможно сохранить изменения\n"
+"\n"
+"Подробности: %s"
+
+msgid "Collap_se All"
+msgstr "_Свернуть все"
+
+msgid "Could not create the new launcher"
+msgstr "Неудалось создать новую кнопку запуска"
+
+msgid "Could not display help"
+msgstr "Не удалось показать справку"
+
+msgid "Could not display help: %s"
+msgstr "Не удалось показать справку: %s"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "E_xpand All"
+msgstr "_Развернуть все"
+
+msgid "Factory for the Quick Lounge applet"
+msgstr "Фабрика апплета быстрого запуска"
+
+msgid "Hide launchers menu"
+msgstr "Скрыть меню кнопок"
+
+msgid "Launcher Properties"
+msgstr "Свойства кнопки"
+
+msgid "Launchers List"
+msgstr "Список кнопок запуска"
+
+msgid "Launchers List Preferences"
+msgstr "Настройки списка кнопок"
+
+msgid "Launchers order"
+msgstr "Порядок кнопки"
+
+msgid "Location to load"
+msgstr "Местоположение для загрузки"
+
+msgid "Ma_ximum size:"
+msgstr "Ма_ксимальный размер:"
+
+msgid "Maximum number of columns to display"
+msgstr "Максимальное количество колонок"
+
+msgid "Minimum number of columns to display"
+msgstr "Минимальное количество колонок"
+
+msgid "New Launcher"
+msgstr "Новая кнопка"
+
+msgid "Organize your favorite applications on the Panel"
+msgstr "Программа быстрого запуска программ с панели"
+
+msgid "Organize your favourite applications on the Panel"
+msgstr "Апплет быстрого запуска программ с панели"
+
+msgid "Quick Lounge"
+msgstr "Быстрый запуск программ"
+
+msgid "Quick Lounge Factory"
+msgstr "Фабрика быстрого запуска программ"
+
+msgid "Show hidden launchers"
+msgstr "Показать скрытые кнопки"
+
+msgid "Space"
+msgstr "Разделитель"
+
+msgid "There was an error displaying help: %s"
+msgstr "Не удалось показать справку: %s"
+
+msgid "Whether icons size follows the panel size"
+msgstr "Соответствует ли размер значка размеру панели"
+
+msgid "_About"
+msgstr "_Об апплете..."
+
+msgid "_Help"
+msgstr "Получить _справку"
+
+msgid "_Minimum size:"
+msgstr "Ми_нимальный размер:"
+
+msgid "_Move"
+msgstr "_Переместить"
+
+msgid "_Preferences"
+msgstr "Настройки"
+
+msgid "columns"
+msgstr "колонок"
+
+msgid "translator_credits"
+msgstr ""
+"Юрий Седунов\n"
+"Дмитрий Мастрюков"

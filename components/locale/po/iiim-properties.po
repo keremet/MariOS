@@ -1,0 +1,334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-02-20 11:14+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<b>General</b>"
+msgstr "<b>Общие</b>"
+
+msgid "<b>Input Method status and switcher placement</b>"
+msgstr "<b>Статус и параметры настройки Способа Ввода</b>"
+
+msgid "<b>Keyboard</b>"
+msgstr "<b>Клавиатура</b>"
+
+msgid "<b>Languages / Scripts</b>"
+msgstr "<b>Языки/Скрипты</b>"
+
+msgid "<b>Misc</b>"
+msgstr "<b>Разное</b>"
+
+msgid "<b>Trigger Keys</b>"
+msgstr "<b>Пусковые ключи</b>"
+
+msgid "<b>When the language is switched</b>"
+msgstr "<b>Когда язык переключен</b>"
+
+msgid ""
+"<i><b>The information in this tab is needed by Keyboard Layout emulation "
+"type of Language Engine</b></i>"
+msgstr ""
+"<i><b>Информация этого раздела используется для эмуляции Раскладки "
+"Клавиатуры в Языковом Енжайне</b></i>"
+
+msgid "Add..."
+msgstr "Добавить..."
+
+msgid "Albanian"
+msgstr "Албанский "
+
+msgid "Amharic Ethiopia"
+msgstr "Амхарский (Эфиопия)"
+
+msgid "Arabic"
+msgstr "Арабский"
+
+msgid "Assamese"
+msgstr "Ассамский "
+
+msgid "Attach to each application"
+msgstr "Вложить в каждое приложение "
+
+msgid "Available Engines"
+msgstr "Доступные Енжайны"
+
+msgid "Available Languages/Scripts"
+msgstr "Доступные Языки/Скрипты "
+
+msgid "Belarusian"
+msgstr "Белорусский"
+
+msgid "Belgian"
+msgstr "Бельгийский"
+
+msgid "Bengali (India)"
+msgstr "Бенгальский (Индия)"
+
+msgid "Bosnian/Herzegovina"
+msgstr "Боснийский/Герцеговина"
+
+msgid "Brazilian/Portuguese"
+msgstr "Бразильский/Португальский"
+
+msgid "Bulgarian"
+msgstr "Болгарский "
+
+msgid "Canadian"
+msgstr "Канадский"
+
+msgid "Canadian/French"
+msgstr "Канадский/Французский"
+
+msgid "Couldn't find pixmap file: %s"
+msgstr "Не удаётся найти файл на карте элементов изображения : %s"
+
+msgid "Croatian"
+msgstr "Хорватский"
+
+msgid "Cycle Language/Script Hotkey"
+msgstr "Горячие Клавиши для Цикличного Языка/Скриптов"
+
+msgid "Cycle Language/Script hotkey"
+msgstr "Горячие Клавиши для Цикличных Языка/Скрипта "
+
+msgid "Czech"
+msgstr "Чешский"
+
+msgid "Danish"
+msgstr "Датский"
+
+msgid "Dutch"
+msgstr "Голандский"
+
+msgid "Enable Cycle Languages/Scripts using Hotkey"
+msgstr "Включить Цикличные Языки/Скрипты используя Горячие Клавиши"
+
+msgid "Enable Input Method"
+msgstr "Включить Способ Ввода "
+
+msgid "Enable Language/Script choice window using Hotkey"
+msgstr "Включить выбор Языка/Скрипта используя Горячие Клавиши"
+
+msgid "English/European"
+msgstr "Английский/Европейский"
+
+msgid "Estonian"
+msgstr "Эстонский"
+
+msgid "Finnish"
+msgstr "Финский"
+
+msgid "Follow desktop default"
+msgstr "Перейти к исходным настройкам рабочего стола"
+
+msgid "French"
+msgstr "Французский"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Greek"
+msgstr "Греческий"
+
+msgid "Gujarati (India)"
+msgstr "Гуярати (Индия)"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hotkey Configuration"
+msgstr "Конфигурация Горячих Клавиш"
+
+msgid "Hungarian"
+msgstr "Венгерский"
+
+msgid "Icelandic"
+msgstr "Исландский "
+
+msgid "Indic"
+msgstr "Индийский"
+
+msgid "Input Method Preference Editor"
+msgstr "Редактор Настроек Способа Ввода "
+
+msgid "Input Method is activated"
+msgstr "Способ Ввода включен"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Japanese"
+msgstr "Японский"
+
+msgid "Kannada (India)"
+msgstr "Каннада (Индия)"
+
+msgid "Key is not typed yet."
+msgstr "Ключи ещё не напечатанны."
+
+msgid "Korean"
+msgstr "Корейский"
+
+msgid "Language Engines to use"
+msgstr "Используемые Языковые Енжайны"
+
+msgid "Language/Script choice window hotkey"
+msgstr "Окно выбора Горячих Клавиш Языка/Скрипта "
+
+msgid "Languages/Scripts to input"
+msgstr "Языки/Скрипты ввода"
+
+msgid "Latvian"
+msgstr "Латвийский"
+
+msgid "Lithuanian"
+msgstr "Литовский"
+
+msgid "Macedonian"
+msgstr "Македонский"
+
+msgid "Malayalam (India)"
+msgstr "Малайский (Индия)"
+
+msgid "Maltese/UK"
+msgstr "Мальтийский/Великобритания"
+
+msgid "Maltese/US"
+msgstr "Мальтийский/США"
+
+msgid "None"
+msgstr "Нет "
+
+msgid "Norwegian"
+msgstr "Норвежский"
+
+msgid "Physical Keyboard Layout : "
+msgstr "Физическая Раскладка Клавиатуры : "
+
+msgid "Please type keys here!"
+msgstr "Пожалуйста напечатайте клавиши сюда!"
+
+msgid "Polish"
+msgstr "Польский"
+
+msgid "Portuguese"
+msgstr "Португальский"
+
+msgid "Punjabi (India)"
+msgstr "Панджаби (Индия)"
+
+msgid "Reversed Cycle Language/Script Hotkey"
+msgstr "Отмененные Горячие Клавиши для Цикличного Языка/Скриптов"
+
+msgid "Reversed Cycle Language/Script hotkey"
+msgstr "Отменённые Горячие Клавиши для Цикличных Языка/Скрипта "
+
+msgid "Romanian"
+msgstr "Румынский"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "S-Chinese"
+msgstr "С-Китайский"
+
+msgid "Serbian"
+msgstr "Сербский"
+
+msgid "Set the last selection as default language"
+msgstr "Установить последний выбор языка как язык по умолчанию"
+
+msgid "Slovak"
+msgstr "Словацкий"
+
+msgid "Slovenian"
+msgstr "Словенский"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Swedish"
+msgstr "Шведский"
+
+msgid "Swiss/French"
+msgstr "Швейцарский/Французский "
+
+msgid "Swiss/German"
+msgstr "Швейцарский/Немецкий"
+
+msgid "Synchronize Input Method activation for all applications"
+msgstr "Синхронизировать активацию Способа Ввода для всех приложений "
+
+msgid "T-Chinese"
+msgstr "Т-Китайски "
+
+msgid "T-Chinese (Hong Kong)"
+msgstr "Т-Китайски(Гонконг)"
+
+msgid "Tamil (India)"
+msgstr "Тамил (Индия)"
+
+msgid "Telugu (India)"
+msgstr "Телугу (Индия)"
+
+msgid "Thai"
+msgstr "Тайский"
+
+msgid "The language is applied to all applications"
+msgstr "Язык применен ко всем приложениям"
+
+msgid "This key already specified as \"%s\"."
+msgstr "Эта клавиша уже указанна как \"%s\"."
+
+msgid "Tigrinya (Eritrea)"
+msgstr "Тигринья (Эритрея)"
+
+msgid "Traditional/Chinese"
+msgstr "Традиционный/Китайский"
+
+msgid "Trigger key"
+msgstr "Пусковые ключи"
+
+msgid "Trigger keys to activate/deactivate"
+msgstr "Пусковые ключи для активации/деактивации"
+
+msgid "Turkish/F"
+msgstr "Турецкий/"
+
+msgid "Turkish/Q"
+msgstr "Турецкий/"
+
+msgid "UK"
+msgstr "Великобритания"
+
+msgid "UNICODE (HEX)"
+msgstr "Юникод (HEX)"
+
+msgid "UNICODE (OCTAL)"
+msgstr "Юникод (OCTAL)"
+
+msgid "US/Dvorak"
+msgstr "США/Дворак"
+
+msgid "US/English"
+msgstr "США/Английский"
+
+msgid "Urdu"
+msgstr "Урду"
+
+msgid "Use Input Method Switcher application"
+msgstr "Использовать параметры приложения Способа Ввода "
+
+msgid "Use autodetect (does not work in remote environment)"
+msgstr ""
+"Использовать автоматическое распознование (не работает в удаленном режиме) "
+
+msgid "Vietnamese (Vietnam)"
+msgstr "Вьетнамский (Вьетнам)"

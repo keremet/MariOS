@@ -1,0 +1,1723 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Transmission HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-03 15:22-0600\n"
+"PO-Revision-Date: 2012-04-08 12:17+0000\n"
+"Last-Translator: Андрей <Unknown>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2012-07-06 01:09+0000\n"
+"X-Generator: Launchpad (build 15544)\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid " _to "
+msgstr " _до "
+
+msgid "%"
+msgstr "%"
+
+msgid "%'d Torrent"
+msgid_plural "%'d Torrents"
+msgstr[0] "%'d торрент"
+msgstr[1] "%'d торрента"
+msgstr[2] "%'d торрентов"
+
+msgid "%'d Torrent Properties"
+msgstr "%'d Свойства торрента"
+
+msgid "%'d day"
+msgid_plural "%'d days"
+msgstr[0] "%'d день"
+msgstr[1] "%'d дня"
+msgstr[2] "%'d дней"
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] "%'d час"
+msgstr[1] "%'d часа"
+msgstr[2] "%'d часов"
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] "%'d минута"
+msgstr[1] "%'d минуты"
+msgstr[2] "%'d минут"
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] "%'d секунда"
+msgstr[1] "%'d секунды"
+msgstr[2] "%'d секунд"
+
+msgid "%1$'d Piece @ %2$s"
+msgid_plural "%1$'d Pieces @ %2$s"
+msgstr[0] "%1$'d часть по %2$s"
+msgstr[1] "%1$'d части по %2$s"
+msgstr[2] "%1$'d частей по %2$s"
+
+msgid "%1$'d of %2$'d Torrent"
+msgid_plural "%1$'d of %2$'d Torrents"
+msgstr[0] "%d из %d торрента"
+msgstr[1] "%d из %d торрентов"
+msgstr[2] "%d из %d торрентов"
+
+msgid "%1$s %2$s"
+msgstr "%1$s %2$s"
+
+msgid "%1$s %2$s, %3$s %4$s"
+msgstr "%1$s %2$s, %3$s %4$s"
+
+msgid "%1$s (%2$'d piece @ %3$s)"
+msgid_plural "%1$s (%2$'d pieces @ %3$s)"
+msgstr[0] "%1$s (%2$'d часть @ %3$s)"
+msgstr[1] "%1$s (%2$'d части @ %3$s)"
+msgstr[2] "%1$s (%2$'d частей @ %3$s)"
+
+msgid "%1$s (%2$'d piece)"
+msgid_plural "%1$s (%2$'d pieces)"
+msgstr[0] "%1$s (%2$'d часть)"
+msgstr[1] "%1$s (%2$'d части)"
+msgstr[2] "%1$s (%2$'d частей)"
+
+msgid "%1$s (%2$s%% of %3$s%% Available)"
+msgstr "%1$s (доступно %2$s%% из %3$s%%)"
+
+msgid "%1$s (%2$s%% of %3$s%% Available); %4$s Unverified"
+msgstr "%1$s (доступно %2$s%% из %3$s%%); не подтверждено %4$s"
+
+msgid "%1$s (%2$s%%)"
+msgstr "%1$s (%2$s%%)"
+
+msgid "%1$s (+%2$s corrupt)"
+msgstr "%1$s (+%2$s повреждён)"
+
+msgid "%1$s ago"
+msgstr "%1$s тому назад"
+
+msgid "%1$s of %2$s (%3$s%%)"
+msgstr "%1$s из %2$s (%3$s%%)"
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s Goal: %6$s)"
+msgstr "%1$s из %2$s (%3$s%%), роздано %4$s (Рейтинг: %5$s Задано: %6$s)"
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s)"
+msgstr "%1$s из %2$s (%3$s%%), роздано %4$s (Рейтинг: %5$s)"
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s Goal: %4$s)"
+msgstr "%1$s, роздано %2$s (рейтинг: %3$s, целевой рейтинг: %4$s)"
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s)"
+msgstr "%1$s, роздано %2$s (Рейтинг: %3$s)"
+
+msgid "%1$s; %2$'d File"
+msgid_plural "%1$s; %2$'d Files"
+msgstr[0] "%1$s; %2$'d файл"
+msgstr[1] "%1$s; %2$'d файла"
+msgstr[2] "%1$s; %2$'d файлов"
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"%s\n"
+"Выполните «%s --help», чтобы увидеть список всех доступных команд командной "
+"строки.\n"
+
+msgid "%s %s started"
+msgstr "%s %s запущен"
+
+msgid "%s (Ratio: %s)"
+msgstr "%s (Рейтинг: %s)"
+
+msgid "%s - Add Tracker"
+msgstr "%s - Добавить трекер"
+
+msgid "%s - Edit Trackers"
+msgstr "%s - Редактор трекеров"
+
+msgid "%s Properties"
+msgstr "Свойства %s"
+
+msgid "%s remaining"
+msgstr "осталось %s"
+
+msgid "%s succeeded (%d)"
+msgstr "%s успешно (%d)"
+
+msgid "(Limit: %s)"
+msgstr "(Предел: %s)"
+
+msgid "<b>Closing Connections</b>"
+msgstr "<b>Завершение соединений</b>"
+
+msgid "<b>Unable to update.</b>"
+msgstr "<b>Невозможно обновить.</b>"
+
+msgid "<b>Update succeeded!</b>"
+msgstr "<b>Обновление успешно завершено!</b>"
+
+msgid "<i>No source selected</i>"
+msgstr "<i>Источник не выбран</i>"
+
+msgid "<i>Testing TCP port…</i>"
+msgstr "<i>Проверка  порта TCP…</i>"
+
+msgid "A fast and easy BitTorrent client"
+msgstr "Быстрый и простой BitTorrent-клиент"
+
+msgid "Active"
+msgstr "Активен"
+
+msgid "Active now"
+msgstr "Активен сейчас"
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Addresses:"
+msgstr "Адреса:"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All files"
+msgstr "Все файлы"
+
+msgid "Allow encryption"
+msgstr "Разрешить шифрование"
+
+msgid "Allowing desktop hibernation"
+msgstr "Разрешение ухода в спящий режим"
+
+msgid "Alternative Speed Limits"
+msgstr "Альтернативное ограничение скорости"
+
+msgid "Append \"._part\" to incomplete files' names"
+msgstr "Добавлять \"._part\" к именам незавершенных файлов"
+
+msgid "Ask Tracker for _More Peers"
+msgstr "Зап_росить у трекера больше участников"
+
+msgid "Asking for more peers in %s"
+msgstr "Запрос дополнительных участников через %s"
+
+msgid "Asking for more peers now… <small>%s</small>"
+msgstr "Запрос дополнительных участников... <small>%s</small>"
+
+msgid "Asking for peer counts in %s"
+msgstr "Запрос количества участников через %s"
+
+msgid "Asking for peer counts now… <small>%s</small>"
+msgstr "Запрос количества участников... <small>%s</small>"
+
+msgid "Automatically _add torrents from:"
+msgstr "Автоматически _добавлять торренты из:"
+
+msgid "BitTorrent Client"
+msgstr "Клиент BitTorrent"
+
+msgid "Blocklist"
+msgstr "Чёрный список"
+
+msgid "Blocklist \"%s\" contains %zu entries"
+msgstr "Список блокировок \"%s\" содержит %zu записи"
+
+msgid "Blocklist \"%s\" updated with %zu entries"
+msgstr "Чёрный список \"%s\" обновлён %zu записями"
+
+msgid "Blocklist contains %'d rule"
+msgid_plural "Blocklist contains %'d rules"
+msgstr[0] "Черный список содержит %'d правило"
+msgstr[1] "Черный список содержит %'d правил"
+msgstr[2] "Черный список содержит %'d правил"
+
+msgid "Blocklist has %'d rule."
+msgid_plural "Blocklist has %'d rules."
+msgstr[0] "Черный список содержит %'d правило."
+msgstr[1] "Черный список содержит %'d правил."
+msgstr[2] "Черный список содержит %'d правил."
+
+msgid "Call _script when torrent is completed:"
+msgstr "Запустить _сценарий после завершения операции с торрентом:"
+
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid ""
+"Click to disable Alternative Speed Limits\n"
+"(%1$s down, %2$s up)"
+msgstr ""
+"Нажмите, чтобы отключить альтернативное ограничение скорости\n"
+"(%1$s загрузка, %2$s раздача)"
+
+msgid ""
+"Click to enable Alternative Speed Limits\n"
+"(%1$s down, %2$s up)"
+msgstr ""
+"Нажмите, чтобы включить альтернативное ограничение скорости\n"
+"(%1$s загрузка, %2$s раздача)"
+
+msgid "Client"
+msgstr "Клиент"
+
+msgid "Co_mment:"
+msgstr "При_мечание:"
+
+msgid "Comment:"
+msgstr "Комментарий:"
+
+msgid "Complete"
+msgstr "Завершено"
+
+msgid "Copy _Magnet Link to Clipboard"
+msgstr "Скопировать magnet-ссылку  в буфер обмена"
+
+msgid "Copyright (c) The Transmission Project"
+msgstr "Copyright © The Transmission Project"
+
+msgid "Couldn't add corrupt torrent"
+msgid_plural "Couldn't add corrupt torrents"
+msgstr[0] "Невозможно добавить поврежденный торрент"
+msgstr[1] "Невозможно добавить поврежденные торренты"
+msgstr[2] "Невозможно добавить поврежденные торренты"
+
+msgid "Couldn't add duplicate torrent"
+msgid_plural "Couldn't add duplicate torrents"
+msgstr[0] "Невозможно добавить дублирующийся торрент"
+msgstr[1] "Невозможно добавить дублирующиеся торренты"
+msgstr[2] "Невозможно добавить дублирующиеся торренты"
+
+msgid "Couldn't bind port %d on %s: %s"
+msgstr "Не удалось открыть порт %d на %s: %s"
+
+msgid "Couldn't bind port %d on %s: %s (%s)"
+msgstr "Не удалось привязать порт %d к %s: %s (%s)"
+
+msgid "Couldn't connect socket %d to %s, port %d (errno %d - %s)"
+msgstr "Не удалось подключить сокет %d к %s на порт %d (код ошибки %d - %s)"
+
+msgid "Couldn't create \"%1$s\": %2$s"
+msgstr "Не удалось создать «%1$s»: %2$s"
+
+msgid "Couldn't create socket: %s"
+msgstr "Не удалось создать сокет: %s"
+
+msgid "Couldn't inhibit desktop hibernation: %s"
+msgstr "Невозможно запретить переход в спящий режим: %s"
+
+msgid "Couldn't move torrent"
+msgstr "Не удалось переместить торрент"
+
+msgid "Couldn't open \"%1$s\": %2$s"
+msgstr "Не удалось открыть «%1$s»: %2$s"
+
+msgid "Couldn't read \"%1$s\": %2$s"
+msgstr "Не удалось прочитать «%1$s»: %2$s"
+
+msgid "Couldn't read \"%s\": %s"
+msgstr "Невозможно получить доступ к \"%s\": %s"
+
+msgid "Couldn't save \"%s\""
+msgstr "Невозможно сохранить \"%s\""
+
+msgid "Couldn't save file \"%1$s\": %2$s"
+msgstr "Не удалось сохранить файл «%1$s»: %2$s"
+
+msgid "Couldn't save temporary file \"%1$s\": %2$s"
+msgstr "Не удалось сохранить временный файл \"%1$s\": %2$s"
+
+msgid "Couldn't set source address %s on %d: %s"
+msgstr "Невозможно изменить адрес источника с %s на %d: %s"
+
+msgid "Couldn't truncate \"%1$s\": %2$s"
+msgstr "Невозможно прервать \"%1$s\": %2$s"
+
+msgid "Create a torrent"
+msgstr "Создать торрент"
+
+msgid "Created \"%s\"!"
+msgstr "Создан \"%s\"!"
+
+msgid "Created by %1$s"
+msgstr "Создан %1$s"
+
+msgid "Created by %1$s on %2$s"
+msgstr "Создан %1$s %2$s"
+
+msgid "Created on %1$s"
+msgstr "Создано %1$s"
+
+msgid "Creating \"%s\""
+msgstr "Создание \"%s\""
+
+msgid "Creating torrent…"
+msgstr "Создание торрента..."
+
+msgid "Current Session"
+msgstr "Текущий сеанс"
+
+msgid "DHT is a tool for finding peers without a tracker."
+msgstr "DHT - это технология поиска участников без использования трекера."
+
+msgid "Debug"
+msgstr "отладочный"
+
+msgid "Delete this torrent's downloaded files?"
+msgid_plural "Delete these %d torrents' downloaded files?"
+msgstr[0] "Удалить загруженные файлы этого торрента?"
+msgstr[1] "Удалить загруженные файлы этих торрентов?"
+msgstr[2] "Удалить загруженные файлы этих торрентов?"
+
+msgid "Dese_lect All"
+msgstr "_Снять выделение"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Dn Blocks"
+msgstr "Принятые блоки"
+
+msgid "Dn Reqs"
+msgstr "Вх. запр."
+
+msgid "Do_wnload (%s):"
+msgstr "За_грузка (%s):"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Down"
+msgstr "Приём"
+
+msgid "Down: %1$s, Up: %2$s"
+msgstr "Загрузка: %1$s, Отдача: %2$s"
+
+msgid "Download"
+msgstr "Скачать"
+
+msgid "Download and share files over BitTorrent"
+msgstr "Загружайте и обменивайтесь файлами в сети BitTorrent"
+
+msgid "Downloaded:"
+msgstr "Загружено:"
+
+msgid "Downloading from %1$'d of %2$'d connected peer"
+msgid_plural "Downloading from %1$'d of %2$'d connected peers"
+msgstr[0] "Приём от %1$'d из %2$'d подключённого участника"
+msgstr[1] "Приём от %1$'d из %2$'d подключенных участников"
+msgstr[2] "Приём от %1$'d из %2$'d подключённых участников"
+
+msgid "Downloading from this peer"
+msgstr "Загрузка от этого участника"
+
+msgid "Downloading metadata from %1$'d peer (%2$d%% done)"
+msgid_plural "Downloading metadata from %1$'d peers (%2$d%% done)"
+msgstr[0] "Загрузка метаданных от %1$'d участника (%2$d%% завершено)"
+msgstr[1] "Загрузка метаданных от %1$'d участников (%2$d%% завершено)"
+msgstr[2] "Загрузка метаданных от %1$'d участников (%2$d%% завершено)"
+
+msgid "Downloads sharing data in the last N minutes are _active:"
+msgstr "Загрузить данные о раздаче за последние N минут _активности:"
+
+msgid "Duration:"
+msgstr "Длительность:"
+
+msgid "Enable Alternative Speed _Limits"
+msgstr "Включить альтернативное ограничение с_корости"
+
+msgid "Enable _automatic updates"
+msgstr "Разрешить _автоматическое обновление"
+
+msgid "Enable _blocklist:"
+msgstr "Включить \"_чёрный список\":"
+
+msgid "Enable _uTP for peer communication"
+msgstr "Использовать _uTP для связи с другими участниками"
+
+msgid "Encrypted connection"
+msgstr "Зашифрованное соединение"
+
+msgid "Error"
+msgstr "ошибок"
+
+msgid "Error opening \"%s\""
+msgstr "Ошибка открытия \"%s\""
+
+msgid "Error opening torrent"
+msgstr "Ошибка при открытии торрента"
+
+msgid "Error reading \"%s\": %s"
+msgstr "Ошибка чтения \"%s\": %s"
+
+msgid "Error registering Transmission as x-scheme-handler/magnet handler: %s"
+msgstr ""
+"Ошибка регистрирования Transmission в качестве обработчика x-scheme-handler/"
+"magnet: %s"
+
+msgid "Error writing \"%s\": %s"
+msgstr "Ошибка записи \"%s\": %s"
+
+msgid "Error:"
+msgstr "Ошибка:"
+
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+msgid "Error: invalid announce URL \"%s\""
+msgstr "Ошибка: \"%s\" - не URL анонсов"
+
+msgid "Every Day"
+msgstr "Каждый день"
+
+msgid "File \"%s\" is in the way"
+msgstr "Файл «%s» в пути"
+
+msgid "File listing not available for combined torrent properties"
+msgstr "Список файлов недоступен одновременно для нескольких торрентов"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Finished"
+msgstr "Завершено"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Forwarded"
+msgstr "Перенаправлен"
+
+msgid "Found Internet Gateway Device \"%s\""
+msgstr "Обнаружен шлюз «%s»"
+
+msgid "Found public address \"%s\""
+msgstr "Обнаружен внешний адрес «%s»"
+
+msgid "Friday"
+msgstr "Пятница"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "GB/s"
+msgstr "ГБ/с"
+
+msgctxt "Gerund"
+msgid "Adding"
+msgstr "Добавление"
+
+msgctxt "Gerund"
+msgid "Downloading"
+msgstr "Сохранение"
+
+msgctxt "Gerund"
+msgid "Seeding"
+msgstr "Раздача"
+
+msgid "Getting new blocklist…"
+msgstr "Сохранение нового списка запретов для доступа…"
+
+msgid "GiB"
+msgstr "ГиБ"
+
+msgid "Got a list of %1$s%2$'d peers%3$s %4$s ago"
+msgstr "Получен список %1$s%2$'d участников%3$s %4$s назад"
+
+msgid "Got a scrape error \"%s%s%s\" %s ago"
+msgstr "Получена ошибка при запросе к трекеру \"%s%s%s\" %s назад"
+
+msgid "Got an error %1$s\"%2$s\"%3$s %4$s ago"
+msgstr "Ошибка %1$s\"%2$s\"%3$s %4$s назад"
+
+msgid ""
+"Got signal %d; trying to shut down cleanly. Do it again if it gets stuck."
+msgstr ""
+"Получен сигнал %d; при попытке выключения. При необходимости повторите."
+
+msgid "HTTP _port:"
+msgstr "HTTP _порт:"
+
+msgid "Hash:"
+msgstr "Хеш:"
+
+msgid "Have"
+msgstr "Содержит"
+
+msgid "Have:"
+msgstr "В наличии:"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Honor global _limits"
+msgstr "Учитывать глобальные о_граничения"
+
+msgid "I _Accept"
+msgstr "Я _принимаю"
+
+msgid "IP addresses may use wildcards, such as 192.168.*.*"
+msgstr "IP-адреса могут включать шаблоны, например 192.168.*.*"
+
+msgid "Idle"
+msgstr "Нет активности"
+
+msgid "Importing \"%s\""
+msgstr "Импортирование \"%s\""
+
+msgid "Incomplete"
+msgstr "Не завершено"
+
+msgid "Information"
+msgstr "Сведения"
+
+msgid "Inhibiting desktop hibernation"
+msgstr "Запретить переход в спящий режим"
+
+msgid "Invalid metadata"
+msgstr "Некорректные метаданные"
+
+msgid "Invalid metadata entry \"%s\""
+msgstr "Запись метаданных «%s» некорректна"
+
+msgid "Is another copy of Transmission already running?"
+msgstr "Уже запущена другая копия Transmission?"
+
+msgid "Keep _incomplete torrents in:"
+msgstr "Сохранять _незавершенные торренты в:"
+
+msgid "KiB"
+msgstr "КиБ"
+
+msgid "LPD is a tool for finding peers on your local network."
+msgstr "LPD - это технология поиска участников в вашей локальной сети"
+
+msgid "Last activity:"
+msgstr "Последняя активность:"
+
+msgid "Level"
+msgstr "Уровень"
+
+msgid "Limit Download Speed"
+msgstr "Ограничить скорость загрузки"
+
+msgid "Limit Upload Speed"
+msgstr "Ограничить скорость раздачи"
+
+msgid "Limit _download speed (%s):"
+msgstr "Ограничить скорость загрузки (%s):"
+
+msgid "Limit _upload speed (%s):"
+msgstr "Ограничить скорость раздачи (%s):"
+
+msgid "List contains invalid URLs"
+msgstr "Список содержит неправильные адреса"
+
+msgid "Listening Port"
+msgstr "Прослушивание порта"
+
+msgid "Loaded %d torrents"
+msgstr "Загружено торрентов: %d"
+
+msgid "Local Address is \"%s\""
+msgstr "Локальный адрес: «%s»"
+
+msgid "Local data is _already there"
+msgstr "Локальные данные уже на ме_сте"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Location:"
+msgstr "Местонахождение:"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MB/s"
+msgstr "МБ/с"
+
+msgid "Maximum active _downloads:"
+msgstr "Максимальное число активных _загрузок:"
+
+msgid "Maximum peers _overall:"
+msgstr "_Общее максимальное количество участников:"
+
+msgid "Maximum peers per _torrent:"
+msgstr "_Максимальное количество участников на торрент:"
+
+msgid "Memory allocation failed"
+msgstr "Не удалось выделить память"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Message Log"
+msgstr "Журнал сообщений"
+
+msgid "Message _Log"
+msgstr "_Журнал сообщений"
+
+msgid "MiB"
+msgstr "МиБ"
+
+msgid "Mixed"
+msgstr "Смешанный"
+
+msgid "Mo_ve .torrent file to the trash"
+msgstr "Пере_местить файл .torrent в корзину"
+
+msgid "Monday"
+msgstr "Понедельник"
+
+msgid "Move _Down"
+msgstr "Переместить в_низ"
+
+msgid "Move _Up"
+msgstr "Переместить в_верх"
+
+msgid "Move to _Bottom"
+msgstr "Переместить в низ _списка"
+
+msgid "Move to _Top"
+msgstr "Переместить вверх _списка"
+
+msgid "Moving \"%s\""
+msgstr "Перемещаю \"%s\""
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "Name"
+msgstr "Источник"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "New Torrent"
+msgstr "Новый торрент"
+
+msgid "No Torrents Selected"
+msgstr "Нет выделенных торрентов"
+
+msgid ""
+"No data found! Ensure your drives are connected or use \"Set Location\". To "
+"re-download, remove the torrent and re-add it."
+msgstr ""
+"Нет данных! Убедитесь, что ваши диски подключены, или используйте "
+"\"Установить местоположение\". Для того, чтобы повторно загрузить файл, "
+"удалите торрент, а затем добавьте его еще раз."
+
+msgid "No errors"
+msgstr "Ошибок нет"
+
+msgid "No source selected"
+msgstr "Источник не выбран"
+
+msgid "No updates scheduled"
+msgstr "Нет запланированных обновлений"
+
+msgid "None"
+msgstr "Н/Д"
+
+msgid "Normal"
+msgstr "Обычный"
+
+msgid "Not a regular file"
+msgstr "Не является обычным файлом"
+
+msgid "Not forwarded"
+msgstr "Не перенаправляется"
+
+msgid "Notification"
+msgstr "Оповещение"
+
+msgid ""
+"Once removed, continuing the transfer will require the torrent file or "
+"magnet link."
+msgid_plural ""
+"Once removed, continuing the transfers will require the torrent files or "
+"magnet links."
+msgstr[0] ""
+"После удаления, для продолжения передачи потребуется торрент-файл или Magnet-"
+"ссылка."
+msgstr[1] ""
+"После удаления, для продолжения передач потребуются торрент-файлы или Magnet-"
+"ссылки."
+msgstr[2] ""
+"После удаления, для продолжения передач потребуются торрент-файлы или Magnet-"
+"ссылки."
+
+msgid "One of these torrents has not finished downloading."
+msgid_plural "Some of these torrents have not finished downloading."
+msgstr[0] "Загрузка одного из этих торрентов не завершена."
+msgstr[1] "Загрузка некоторых из этих торрентов не завершена."
+msgstr[2] "Загрузка некоторых из этих торрентов не завершена."
+
+msgid "One of these torrents is connected to peers."
+msgid_plural "Some of these torrents are connected to peers."
+msgstr[0] "Один из этих торрентов подключен к другим участникам."
+msgstr[1] "Некоторые из этих торрентов подключены к другим участникам."
+msgstr[2] "Некоторые из этих торрентов подключены к другим участникам."
+
+msgid "Only allow these IP a_ddresses to connect:"
+msgstr "Разрешать соединения только c этих IP-адресов:"
+
+msgid "Open File"
+msgstr "Открыть файл"
+
+msgid "Open Fold_er"
+msgstr "Открыть папк_у"
+
+msgid "Open Folder"
+msgstr "Открыть папку"
+
+msgid "Open URL"
+msgstr "Открыть URL"
+
+msgid "Open URL…"
+msgstr "ОТкрыть URL"
+
+msgid "Open _URL…"
+msgstr "Открыть _адресную ссылку…"
+
+msgid "Open a Torrent"
+msgstr "Открыть торрент"
+
+msgid "Open a torrent"
+msgstr "Открыть торрент"
+
+msgid "Open torrent from URL"
+msgstr "Открыть торрент из URL"
+
+msgid "Optimistic unchoke"
+msgstr "Благоприятная передача"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Origin:"
+msgstr "Происхождение:"
+
+msgid "Override normal speed limits manually or at scheduled times"
+msgstr ""
+"Отменяет нормальные ограничения скорости вручную или в запланированное время"
+
+msgid ""
+"PEX is a tool for exchanging peer lists with the peers you're connected to."
+msgstr ""
+"PEX - это технология обмена списками участников с теми, к кому вы "
+"подключаетесь."
+
+msgid "Pass_word:"
+msgstr "Па_роль:"
+
+msgid "Pause all torrents"
+msgstr "Приостановить все торренты"
+
+msgid "Pause torrent"
+msgstr "Приостановить торрент"
+
+msgid "Paused"
+msgstr "Приостановлен"
+
+msgid "Peer Connections"
+msgstr "Соединения с участниками"
+
+msgid "Peer Limits"
+msgstr "Ограничения участника"
+
+msgid "Peer has unchoked us, but we're not interested"
+msgstr "Участник согласен передавать данные, но мы не заинтересованы"
+
+msgid "Peer is an incoming connection"
+msgstr "Участник открыл соединение с нами"
+
+msgid "Peer is connected over µTP"
+msgstr "Участник подключён через µTP"
+
+msgid "Peer list request %1$stimed out%2$s %3$s ago; will retry"
+msgstr ""
+"Время запроса списка участников %1$s истекло %2$s %3$s назад; повтор попытки"
+
+msgid "Peer was found through DHT"
+msgstr "Участник был найден через DHT"
+
+msgid "Peer was found through Peer Exchange (PEX)"
+msgstr "Участник был найден с помощью обмена участниками (PEX)"
+
+msgid "Peers"
+msgstr "Участники"
+
+msgid "Pick a _random port every time Transmission is started"
+msgstr "Использовать _случайный порт при каждом запуске программы"
+
+msgid "Play a _sound when torrents finish"
+msgstr "Воспроизводить _звуковой сигнал когда скачивание торрента завершено"
+
+msgid "Please Verify Local Data! Piece #%zu is corrupt."
+msgstr "Проверьте локальные данные! Часть #%zu повреждена."
+
+msgid "Please correct the errors and try again."
+msgstr "Исправьте ошибки и повторите попытку."
+
+msgid "Port %d forwarded successfully"
+msgstr "Порт %d успешно перенаправлен"
+
+msgid "Port %d isn't forwarded"
+msgstr "Порт %d не может быть перенаправлен"
+
+msgid "Port Forwarding"
+msgstr "Перенаправление портов"
+
+msgid "Port Forwarding (NAT-PMP)"
+msgstr "Перенаправление портов (NAT-PMP)"
+
+msgid "Port Forwarding (UPnP)"
+msgstr "Перенаправление портов (UPnP)"
+
+msgid "Port forwarding successful!"
+msgstr "Перенаправление портов работает!"
+
+msgid "Port forwarding through \"%s\", service \"%s\". (local address: %s:%d)"
+msgstr "Перенаправление через \"%s\", служба \"%s\". (локальный адрес: %s:%d)"
+
+msgid "Port is <b>closed</b>"
+msgstr "Порт <b>закрыт</b>"
+
+msgid "Port is <b>open</b>"
+msgstr "Порт <b>открыт</b>"
+
+msgid "Prefer encryption"
+msgstr "Предпочитать шифрование"
+
+msgid "Present Main Window"
+msgstr "Показать основное окно"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Privacy"
+msgstr "Конфиденциальность"
+
+msgid "Privacy:"
+msgstr "Конфиденциальность:"
+
+msgid "Private"
+msgstr "Закрытый"
+
+msgid "Private to this tracker -- DHT and PEX disabled"
+msgstr "Только для этого трекера — DHT и PEX отключены"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Public"
+msgstr "Публичный"
+
+msgid "Public torrent"
+msgstr "Публичный торрент"
+
+msgid "Queue"
+msgstr "Очередь"
+
+msgid "Queued for download"
+msgstr "Поставлено в очередь на загрузку"
+
+msgid "Queued for seeding"
+msgstr "Поставлено в очередь для раздачи"
+
+msgid "Queued for verification"
+msgstr "В очереди на проверку"
+
+msgid "Queued to ask for more peers"
+msgstr "Запрос дополнительных участников поставлен в очередь"
+
+msgid "Queued to ask for peer counts"
+msgstr "Запрос количества участников поставлен в очередь"
+
+msgid "Ratio %s"
+msgstr "Рейтинг %s"
+
+msgid "Ratio:"
+msgstr "Рейтинг:"
+
+msgid "Ratio: %s"
+msgstr "Рейтинг: %s"
+
+msgid "Re_verse Sort Order"
+msgstr "Об_ратный порядок сортировки"
+
+msgid "Remaining time unknown"
+msgstr "Оставшееся время неизвестно"
+
+msgid "Remaining time:"
+msgstr "Оставшееся время:"
+
+msgid "Remove torrent"
+msgstr "Удалить торрент"
+
+msgid "Remove torrent?"
+msgid_plural "Remove %d torrents?"
+msgstr[0] "Удалить торрент?"
+msgstr[1] "Удалить торренты?"
+msgstr[2] "Удалить торренты?"
+
+msgid "Removing torrent"
+msgstr "Удаление торрента"
+
+msgid "Require encryption"
+msgstr "Требовать шифрование"
+
+msgid "Reset your statistics?"
+msgstr "Сбросить вашу статистику?"
+
+msgid "Restarted manually -- disabling its seed ratio"
+msgstr "Перезагружено вручную -- отключение рейтинга раздачи"
+
+msgid "Running time:"
+msgstr "Длительность:"
+
+msgid "Sa_ve to:"
+msgstr "Со_хранить в:"
+
+msgid "Saturday"
+msgstr "Суббота"
+
+msgid "Save Log"
+msgstr "Сохранить журнал"
+
+msgid "Save to _Location:"
+msgstr "Сохранить в _каталог:"
+
+msgid "Saved \"%s\""
+msgstr "Сохранение \"%s\""
+
+msgid "Scanned %s"
+msgstr "Проверено %s"
+
+msgid "Seed Forever"
+msgstr "Раздавать всегда"
+
+msgid "Seed regardless of activity"
+msgstr "Раздавать независимо от активности"
+
+msgid "Seed regardless of ratio"
+msgstr "Раздавать независимо от рейтинга"
+
+msgid "Seeding Limits"
+msgstr "Ограничения раздачи"
+
+msgid "Seeding to %1$'d of %2$'d connected peer"
+msgid_plural "Seeding to %1$'d of %2$'d connected peers"
+msgstr[0] "Раздача %1$'d из %2$'d подключённого участника"
+msgstr[1] "Раздача %1$'d из %2$'d подключённых участников"
+msgstr[2] "Раздача %1$'d из %2$'d подключённых участников"
+
+msgid "Select Destination Folder"
+msgstr "Выберите папку назначения"
+
+msgid "Select Source File"
+msgstr "Выберите файл-источник"
+
+msgid "Select _All"
+msgstr "Выделить вс_ё"
+
+msgid "Sending upload/download totals to tracker…"
+msgstr "Отправка сводки о выгрузке/загрузке на сервер"
+
+msgid "Server returned \"%1$ld %2$s\""
+msgstr "Сервер вернул \"%1$ld %2$s\""
+
+msgid "Session Ratio"
+msgstr "Рейтинг сеанса"
+
+msgid "Session Transfer"
+msgstr "Передано за сеанс"
+
+msgid "Set Torrent Location"
+msgstr "Указать размещение торрентов"
+
+msgid "Set _Location…"
+msgstr "Выбрать _размещение..."
+
+msgid "Show Transmission icon in the _notification area"
+msgstr "Показывать значок Transmission в области уведомлений"
+
+msgid "Show _backup trackers"
+msgstr "Показать _резервные трекеры"
+
+msgid "Show _more details"
+msgstr "Показать _больше сведений"
+
+msgid "Show _options dialog"
+msgstr "Показать диалог _настроек"
+
+msgid "Show a notification when torrents _finish"
+msgstr "Показывать оповещение когда скачивание торрента будет _завершено"
+
+msgid "Show a notification when torrents are a_dded"
+msgstr "Показывать уведомление после добавления торрентов"
+
+msgid "Show version number and exit"
+msgstr "Вывести номер версии и завершить работу"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Skipping unknown torrent \"%s\""
+msgstr "Пропуск неизвестного торрента \"%s\""
+
+msgid "Sort by A_ge"
+msgstr "Сортировать по _возрасту"
+
+msgid "Sort by Rati_o"
+msgstr "Сортировать по со_отношению"
+
+msgid "Sort by Si_ze"
+msgstr "Сортировать по _размеру"
+
+msgid "Sort by Stat_e"
+msgstr "Сортировать по со_стоянию"
+
+msgid "Sort by Time _Left"
+msgstr "Сортировать по _оставшемуся времени"
+
+msgid "Sort by _Activity"
+msgstr "Сортировать по _активности"
+
+msgid "Sort by _Name"
+msgstr "Сортировать по _названию"
+
+msgid "Sort by _Progress"
+msgstr "Сортировать по степени _загрузки"
+
+msgid "Sort by _Queue"
+msgstr "Упорядочить по _очерёдности"
+
+msgid "Source F_older:"
+msgstr "Исходный к_аталог:"
+
+msgid "Source _File:"
+msgstr "Исходный ф_айл:"
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "Speed Limits"
+msgstr "Ограничения скорости"
+
+msgid "Stalled"
+msgstr "Нет передачи"
+
+msgid "Start _Now"
+msgstr "Запустить _сейчас"
+
+msgid "Start all torrents"
+msgstr "Запустить все торренты"
+
+msgid "Start minimized in notification area"
+msgstr "Запускать свёрнутой в области уведомлений"
+
+msgid "Start torrent"
+msgstr "Запустить торрент"
+
+msgid "Start torrent now"
+msgstr "Начать загрузку сейчас"
+
+msgid "Start with all torrents paused"
+msgstr "Начать с приостановленными торрентами"
+
+msgid "Started %'d time"
+msgid_plural "Started %'d times"
+msgstr[0] "Запущено %'d раз"
+msgstr[1] "Запущено %'d раза"
+msgstr[2] "Запущено %'d раз"
+
+msgid "Starting"
+msgstr "Запускается"
+
+msgid "State changed from \"%1$s\" to \"%2$s\""
+msgstr "Состояние изменилось с «%1$s» на «%2$s»"
+
+msgid "State:"
+msgstr "Состояние:"
+
+msgid "Statistics"
+msgstr "Статистика"
+
+msgid "Status unknown"
+msgstr "Статус неизвестен"
+
+msgid "Stop Seeding at Ratio"
+msgstr "Прекратить раздавать с рейтингом"
+
+msgid "Stop at Ratio (%s)"
+msgstr "Остановить при рейтинге (%s)"
+
+msgid "Stop seeding at _ratio:"
+msgstr "Прекратить раздачу при _рейтинге:"
+
+msgid "Stop seeding at ratio:"
+msgstr "Прекратить раздачу при рейтинге:"
+
+msgid "Stop seeding if idle for N minutes:"
+msgstr "Прекратить раздачу при простое N мин.:"
+
+msgid "Stop seeding if idle for _N minutes:"
+msgstr "Прекратить раздачу при простое N _мин.:"
+
+msgid "Stopped"
+msgstr "Остановлен"
+
+msgid "Stopping"
+msgstr "Останавливается"
+
+msgid "Stopping port forwarding through \"%s\", service \"%s\""
+msgstr "Прекращение перенаправления портов через «%s», служба «%s»"
+
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "TB/s"
+msgstr "ТБ/с"
+
+msgid "Te_st Port"
+msgstr "Про_верить порт"
+
+msgid "The torrent file \"%s\" contains invalid data."
+msgstr "Торрент-файл «%s» содержит повреждённые данные."
+
+msgid "The torrent file \"%s\" encountered an unknown error."
+msgstr "Торрент-файл «%s» содержит неизвестную ошибку."
+
+msgid "The torrent file \"%s\" is already in use."
+msgstr "Торрент-файл «%s» уже используется."
+
+msgid ""
+"These statistics are for your information only. Resetting them doesn't "
+"affect the statistics logged by your BitTorrent trackers."
+msgstr ""
+"Эти статистические данные предназначены исключительно для ознакомления. Их "
+"сброс не влияет на статистику ваших BitTorrent-трекеров."
+
+msgid "They Cancelled"
+msgstr "Отменено другими участниками"
+
+msgid ""
+"This magnet link appears to be intended for something other than BitTorrent. "
+"BitTorrent magnet links have a section containing \"%s\"."
+msgstr ""
+"Эта magnet-ссылка, по-видимому, предназначена не для BitTorrent. Magnet-"
+"ссылки для BitTorrent имеют раздел, содержащий \"%s\"."
+
+msgid "This may take a moment…"
+msgstr "Пожалуйста, подождите…"
+
+msgid "This torrent has not finished downloading."
+msgid_plural "These torrents have not finished downloading."
+msgstr[0] "Загрузка этого торрента не завершена."
+msgstr[1] "Загрузка этих торрентов не завершена."
+msgstr[2] "Загрузка этих торрентов не завершена."
+
+msgid "This torrent is connected to peers."
+msgid_plural "These torrents are connected to peers."
+msgstr[0] "Этот торрент подключен к другим участникам."
+msgstr[1] "Эти торренты подключены к другим участникам."
+msgstr[2] "Эти торренты подключены к другим участникам."
+
+msgid "Thursday"
+msgstr "Четверг"
+
+msgid "TiB"
+msgstr "ТиБ"
+
+msgid "Time"
+msgstr "Время"
+
+msgid ""
+"To add a backup URL, add it on the line after the primary URL.\n"
+"To add another primary URL, add it after a blank line."
+msgstr ""
+"Чтобы добавить резервный URL, добавьте его после основного URL в той же "
+"строке.\n"
+"Чтобы добавить ещё один основной URL, добавьте его в новой строке."
+
+msgid "Torrent"
+msgstr "Торрент"
+
+msgid "Torrent Added"
+msgstr "Добавлен торрент"
+
+msgid "Torrent Complete"
+msgstr "Торрент завершён"
+
+msgid "Torrent Creator is skipping file \"%s\": %s"
+msgstr "При создании торрента пропущен файл «%s»: %s"
+
+msgid "Torrent Options"
+msgstr "Параметры торрента"
+
+msgid "Torrent _location:"
+msgstr "Размещение торре_нтов:"
+
+msgid "Torrent _priority:"
+msgstr "Приоритет _торрента:"
+
+msgid "Torrent files"
+msgstr "Торренты"
+
+msgid "Torrent properties"
+msgstr "Свойства торрента"
+
+msgid "Torrent size:"
+msgstr "Размер торрента:"
+
+msgid "Torrents"
+msgstr "Торренты"
+
+msgid "Total"
+msgstr "Итого"
+
+msgid "Total Ratio"
+msgstr "Общий рейтинг"
+
+msgid "Total Transfer"
+msgstr "Всего передано"
+
+msgid "Tracker"
+msgstr "Трекер"
+
+msgid "Tracker Announce URLs"
+msgstr "URL-адреса объявлений трекера"
+
+msgid "Tracker error: \"%s\""
+msgstr "Ошибка трекера: «%s»"
+
+msgid "Tracker gave a warning: \"%s\""
+msgstr "Трекер выдал предупреждение: \"%s\""
+
+msgid "Tracker gave an error: \"%s\""
+msgstr "Трекер выдал ошибку: \"%s\""
+
+msgid "Tracker had %s%'d seeders and %'d leechers%s %s ago"
+msgstr "На трекере было %s%'d раздающих и %'d принимающих%s %s назад"
+
+msgid "Tracker warning: \"%s\""
+msgstr "Предупреждение трекера: «%s»"
+
+msgid "Tracker will allow requests in %s"
+msgstr "Трекер разрешит запросы через %s"
+
+msgid "Trackers"
+msgstr "Трекеры"
+
+msgid "Transmission"
+msgstr "Transmission"
+
+msgid ""
+"Transmission\n"
+"Up: %1$s %2$s\n"
+"Down: %3$s %4$s"
+msgstr ""
+"Transmission\n"
+"Исх: %1$s %2$s\n"
+"Вх: %3$s %4$s"
+
+msgid "Transmission BitTorrent Client"
+msgstr "BitTorrent-клиент Transmission"
+
+msgid "Transmission Preferences"
+msgstr "Параметры Transmission"
+
+msgid "Transmission doesn't know how to use \"%s\""
+msgstr "Transmission не знает, как использовать \"%s\""
+
+msgid ""
+"Transmission is a file-sharing program. When you run a torrent, its data "
+"will be made available to others by means of upload. You and you alone are "
+"fully responsible for exercising proper judgement and abiding by your local "
+"laws."
+msgstr ""
+"Transmission - это программа для обмена файлами. При запуске торрента, "
+"данные будут предоставлены другим пользователям для загрузки. Вы и только вы "
+"несете полную ответственность за соблюдение действующих федеральных или "
+"местных законов."
+
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgid "U_pload (%s):"
+msgstr "Р_аздача (%s):"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unlimited"
+msgstr "Неограничено"
+
+msgid "Unrecognized URL"
+msgstr "Неизвестный URL"
+
+msgid "Up"
+msgstr "Раздача"
+
+msgid "Up Blocks"
+msgstr "Переданные блоки"
+
+msgid "Up Reqs"
+msgstr "Исх. запр."
+
+msgid "Update Blocklist"
+msgstr "Обновление «чёрного списка»"
+
+msgid "Uploaded:"
+msgstr "Роздано:"
+
+msgid "Uploading to peer"
+msgstr "Передача участнику"
+
+msgid "Use PE_X to find more peers"
+msgstr "Использовать PEX для обмена списками участников"
+
+msgid "Use UPnP or NAT-PMP port _forwarding from my router"
+msgstr "_Использовать перенаправление портов UPnP или NAT-PMP"
+
+msgid "Use _DHT to find more peers"
+msgstr "Использовать _DHT для обнаружения участников"
+
+msgid "Use _Local Peer Discovery to find more peers"
+msgstr "_Использовать LPD для обнаружения участников"
+
+msgid "Use _authentication"
+msgstr "Использовать _аутентификацию"
+
+msgid "Use global settings"
+msgstr "Использовать общие настройки"
+
+msgctxt "Verb"
+msgid "Downloading"
+msgstr "Сохранение"
+
+msgctxt "Verb"
+msgid "Seeding"
+msgstr "Раздача"
+
+msgctxt "Verb"
+msgid "Verifying"
+msgstr "Проверка"
+
+msgid "Verifying local data"
+msgstr "Проверка загруженных данных"
+
+msgid "Verifying local data (%.1f%% tested)"
+msgstr "Проверка локальных данных (%.1f%% проверено)"
+
+msgid "Verifying torrent"
+msgstr "Проверка торрента"
+
+msgid "We Cancelled"
+msgstr "Отменено вами"
+
+msgid "We unchoked this peer, but they're not interested"
+msgstr "Передача участнику была разрешена, но он не заинтересован"
+
+msgid "We would download from this peer if they would let us"
+msgstr "Возможен приём данных от этого участника, если он позволит"
+
+msgid "We would upload to this peer if they asked"
+msgstr "Возможна раздача данных этому участнику, если он будет заинтересован"
+
+msgid "Web"
+msgstr "Веб-интерфейс"
+
+msgid "Web Client"
+msgstr "Веб-клиент"
+
+msgid "Webseeds"
+msgstr "Раздачи через web"
+
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "Weekdays"
+msgstr "Дни недели"
+
+msgid "Weekends"
+msgstr "Выходные"
+
+msgid "Where to look for configuration files"
+msgstr "Где искать файлы конфигурации"
+
+msgid "[torrent files or urls]"
+msgstr "[торрент-файлы или ссылки]"
+
+msgid "_Add"
+msgstr "_Добавить"
+
+msgid "_Announce URL:"
+msgstr "_Сообщить URL:"
+
+msgid "_Compact View"
+msgstr "_Компактный вид"
+
+msgid "_Contents"
+msgstr "_Содержимое"
+
+msgid "_Delete Files and Remove"
+msgstr "_Убрать с раздачи и удалить данные"
+
+msgid "_Destination folder:"
+msgstr "_Папка назначения:"
+
+msgid "_Donate"
+msgstr "_Пожертвовать"
+
+msgid "_Download (%s):"
+msgstr "_Загрузка (%s):"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Enable web client"
+msgstr "_Включить веб-клиент"
+
+msgid "_Encryption mode:"
+msgstr "_Режим шифрования:"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Filterbar"
+msgstr "_Панель _фильтров"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Idle:"
+msgstr "_Ожидание:"
+
+msgid "_Inhibit hibernation when torrents are active"
+msgstr "_Запретить переход в спящий режим во время работы"
+
+msgid "_Maximum peers:"
+msgstr "_Максимальное количество участников:"
+
+msgid "_Move from the current folder"
+msgstr "П_еремещать из текущего каталога"
+
+msgid "_New…"
+msgstr "_Создать…"
+
+msgid "_On days:"
+msgstr "_По дням:"
+
+msgid "_Open web client"
+msgstr "_Открыть веб-клиент"
+
+msgid "_Pause"
+msgstr "_Приостановить"
+
+msgid "_Pause All"
+msgstr "_Приостановить все"
+
+msgid "_Port used for incoming connections:"
+msgstr "_Порт, для входящих подключений:"
+
+msgid "_Private torrent"
+msgstr "_Закрытый торрент"
+
+msgid "_Queue"
+msgstr "_Поставить в очередь"
+
+msgid "_Quit"
+msgstr "_Выход"
+
+msgid "_Quit Now"
+msgstr "_Выйти сейчас"
+
+msgid "_Ratio:"
+msgstr "_Рейтинг:"
+
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgid "_Reset"
+msgstr "_Сбросить"
+
+msgid "_Scheduled times:"
+msgstr "_По расписанию:"
+
+msgid "_Show Transmission"
+msgstr "_Показать Transmission"
+
+msgid "_Show:"
+msgstr "_Показать:"
+
+msgid "_Sort Torrents By"
+msgstr "_Сортировать торренты по"
+
+msgid "_Start"
+msgstr "_Запустить"
+
+msgid "_Start All"
+msgstr "_Запустить все"
+
+msgid "_Start when added"
+msgstr "З_апустить после добавления"
+
+msgid "_Statistics"
+msgstr "_Статистика"
+
+msgid "_Statusbar"
+msgstr "_Строка состояния"
+
+msgid "_Toolbar"
+msgstr "Панель _инструментов"
+
+msgid "_Torrent"
+msgstr "_Торрент"
+
+msgid "_Torrent file:"
+msgstr "_Торрент-файл:"
+
+msgid "_Trackers:"
+msgstr "_Трекеры:"
+
+msgid "_URL"
+msgstr "_Ссылка"
+
+msgid "_Update"
+msgstr "_Обновить"
+
+msgid "_Upload (%s):"
+msgstr "_Раздача (%s):"
+
+msgid "_Username:"
+msgstr "_Имя пользователя:"
+
+msgid "_Verify Local Data"
+msgstr "Про_верить локальные данные"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "blocklist skipped invalid address at line %d"
+msgstr "В чёрном списке пропущен неверный адрес в строке %d"
+
+msgid "kB"
+msgstr "КБ"
+
+msgid "kB/s"
+msgstr "КБ/с"
+
+msgid "no longer forwarding port %d"
+msgstr "перенаправление порта %d прекращено"
+
+msgid "size|Down: %1$s, Up: %2$s"
+msgstr "Принято: %1$s, Роздано: %2$s"
+
+msgid "translator-credits"
+msgstr ""
+"Anton Shestakov <engored@ya.ru>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  .silent https://launchpad.net/~me-silentroach\n"
+"  Abaza https://launchpad.net/~abazinchik\n"
+"  Alex Nikolaenko https://launchpad.net/~ceekay80\n"
+"  Alexander Semyonov https://launchpad.net/~rotuka\n"
+"  Alexey Ivanov https://launchpad.net/~alexey-ivanov\n"
+"  Alexey Kotlyarov https://launchpad.net/~koterpillar\n"
+"  Alexey Torkhov https://launchpad.net/~atorkhov\n"
+"  Andrei Dziahel https://launchpad.net/~develop7\n"
+"  Andrey Olykainen https://launchpad.net/~andrey.olykainen\n"
+"  Andrey Sitnik https://launchpad.net/~iskin\n"
+"  Anton Shestakov https://launchpad.net/~engored\n"
+"  Arseny Solokha https://launchpad.net/~asolokha\n"
+"  Artem Popov https://launchpad.net/~artfwo\n"
+"  ArtemZ https://launchpad.net/~zhirkow-yahoo\n"
+"  AsstZD https://launchpad.net/~eskaer-spamsink\n"
+"  Bashtannik Andrew S. https://launchpad.net/~bashtannik\n"
+"  Capone https://launchpad.net/~bolshakov-alexey\n"
+"  DIX2005 https://launchpad.net/~dimail-box\n"
+"  DooMka https://launchpad.net/~xpym-xpym\n"
+"  Dr Gregory House https://launchpad.net/~greghouse\n"
+"  Egor Bushmelyov https://launchpad.net/~skipper95\n"
+"  Eugene Marshal https://launchpad.net/~lowrider\n"
+"  Evgeniy Devyatkin https://launchpad.net/~edevyatkin\n"
+"  Evgeny https://launchpad.net/~evgeny-ig\n"
+"  Fatroll https://launchpad.net/~fatroll\n"
+"  Fortress https://launchpad.net/~fortress\n"
+"  Grigorev Mihail https://launchpad.net/~grigorevmn\n"
+"  Ignat Loskutov https://launchpad.net/~softwayer\n"
+"  Igor Butvin https://launchpad.net/~bootwin\n"
+"  Igor Zubarev https://launchpad.net/~igor.zubarev\n"
+"  Igor Zubarev https://launchpad.net/~igor4u\n"
+"  Ilya Barygin https://launchpad.net/~randomaction\n"
+"  Ivan https://launchpad.net/~trurl-master\n"
+"  Ivan Kliouchenkov https://launchpad.net/~quick\n"
+"  Kirill Holodilin https://launchpad.net/~charlie-chrl\n"
+"  Krzysztof Klimonda https://launchpad.net/~kklimonda\n"
+"  Litvinov Sergey Sergeevich https://launchpad.net/~srgltv05\n"
+"  Max Riveiro https://launchpad.net/~kavu\n"
+"  Max Schukin https://launchpad.net/~schukin\n"
+"  Maxim Petrov https://launchpad.net/~maximpetrov\n"
+"  Maxim Prokopyev https://launchpad.net/~xjazz\n"
+"  Maxim S. https://launchpad.net/~luvme-nn\n"
+"  Nikita Putko https://launchpad.net/~ktototam98\n"
+"  NoIndex https://launchpad.net/~nikolai-serov\n"
+"  Nosferatu https://launchpad.net/~nusferatu\n"
+"  Oleg Koptev https://launchpad.net/~koptev-oleg\n"
+"  Pavel Dmitriev https://launchpad.net/~dmitrievp\n"
+"  Pavel Kurashov https://launchpad.net/~pavell\n"
+"  Pavels Sevcuks https://launchpad.net/~stlwrt\n"
+"  Phenomen https://launchpad.net/~xphenomen\n"
+"  Roman A. aka BasicXP https://launchpad.net/~basicxp\n"
+"  Rustam Vafin https://launchpad.net/~vafin-rustam\n"
+"  Sergei Medvedev https://launchpad.net/~smedvedeff\n"
+"  Sergey \"Shnatsel\" Davidoff https://launchpad.net/~shnatsel\n"
+"  Sergey Sedov https://launchpad.net/~serg-sedov\n"
+"  Shu https://launchpad.net/~shu3k\n"
+"  Spector https://launchpad.net/~spector\n"
+"  Vadim Rutkovsky https://launchpad.net/~roignac\n"
+"  Victor N. https://launchpad.net/~d447224\n"
+"  Vladimir https://launchpad.net/~vladimir-bezuglyi\n"
+"  Vladimir Yatulchik https://launchpad.net/~yatul\n"
+"  Vyacheslav Sharmanov https://launchpad.net/~vsharmanov\n"
+"  Yevgeny Sysmanov https://launchpad.net/~xghpro\n"
+"  ZwS https://launchpad.net/~anton-sudak\n"
+"  egor panfilov https://launchpad.net/~atom8bit\n"
+"  jmb_kz https://launchpad.net/~jmb-kz\n"
+"  nickkon https://launchpad.net/~nickkon\n"
+"  stmc https://launchpad.net/~whats-up\n"
+"  ttg https://launchpad.net/~xvttgvx\n"
+"  ujin https://launchpad.net/~koshelev-e\n"
+"  Андрей https://launchpad.net/~user843\n"
+"  Андрей Калинин https://launchpad.net/~prize2step\n"
+"  Артём Воротников https://launchpad.net/~vorot93\n"
+"  Денис Победря https://launchpad.net/~arcticfox\n"
+"  Коренберг Марк https://launchpad.net/~socketpair"
+
+msgid "uTP is a tool for reducing network congestion."
+msgstr "uTP - это инструмент для снижения нагрузки на сеть."

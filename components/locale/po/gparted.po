@@ -1,0 +1,987 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gparted trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-08 15:31+0300\n"
+"PO-Revision-Date: 2009-03-07 10:59+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.9.1\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "# Temporary file created by gparted.  It may be deleted.\n"
+msgstr "# Временный файл, созданный gparted. Может быть удалён.\n"
+
+msgid "%1 - GParted"
+msgstr "%1 - GParted"
+
+msgid "%1 B"
+msgstr "%1 Б"
+
+msgid "%1 GiB"
+msgstr "%1 ГБ"
+
+msgid "%1 KiB"
+msgstr "%1 КБ"
+
+msgid "%1 MiB"
+msgstr "%1 МБ"
+
+msgid "%1 TiB"
+msgstr "%1 ТБ"
+
+msgid "%1 of %2 copied"
+msgstr "%1 из %2 скопировано"
+
+msgid "%1 of %2 copied (%3 remaining)"
+msgstr "%1 из %2 скопировано (%3 осталось)"
+
+msgid "%1 of %2 operations completed"
+msgstr "выполнено: %1 из %2"
+
+msgid "%1 of %2 read"
+msgstr "%1 из %2 прочитано"
+
+msgid "%1 of %2 read (%3 remaining)"
+msgstr "%1 из %2 прочитано (%3 осталось)"
+
+msgid "%1 operation is currently pending."
+msgid_plural "%1 operations are currently pending."
+msgstr[0] "Осталась %1 незаконченная операция."
+msgstr[1] "Осталось %1 незаконченных операции."
+msgstr[2] "Осталось %1 незаконченных операций."
+
+msgid "%1 operation pending"
+msgid_plural "%1 operations pending"
+msgstr[0] "%1 незаконченная операция"
+msgstr[1] "%1 незаконченные операции"
+msgstr[2] "%1 незаконченных операций"
+
+msgid "%1 seconds"
+msgstr "секунд: %1"
+
+msgid "%1 sectors copied"
+msgstr "скопировано секторов: %1"
+
+msgid "%1 sectors read"
+msgstr "прочитано секторов: %1"
+
+msgid "%1 warning"
+msgid_plural "%1 warnings"
+msgstr[0] "%1 предупреждение"
+msgstr[1] "%1 предупреждения"
+msgstr[2] "%1 предупреждений"
+
+msgid "A %1 file system requires a partition of at least %2."
+msgstr "Файловая система %1 требует раздела большего, чем %2."
+
+msgid "A partition cannot have a length of %1 sectors"
+msgstr "Раздел не может быть длиной в %1 сектор"
+
+msgid "A partition with a %1 file system has a maximum size of %2."
+msgstr "Максимальный размер раздела с файловой системой %1 — %2."
+
+msgid ""
+"A partition with used sectors (%1) greater than it's length (%2) is not valid"
+msgstr ""
+"Раздел с количеством секторов (%1), большим чем размер (%2) будет "
+"некорректным"
+
+msgid "Activating swap on %1"
+msgstr "Активирование пространства подкачки на %1"
+
+msgid "Active"
+msgstr "активен"
+
+msgid "Advanced"
+msgstr "Подробности"
+
+msgid "After deletion this partition is no longer available for copying."
+msgstr "После удаления этот раздел больше не будет доступен для копирования."
+
+msgid "All operations successfully completed"
+msgstr "Все операции успешно выполнены"
+
+msgid "An error occurred while applying the operations"
+msgstr "Во время применения операций возникла ошибка"
+
+msgid "Apply All Operations"
+msgstr "Применить все операции"
+
+msgid "Apply operations to device"
+msgstr "Применить операции к устройству"
+
+msgid "Applying all listed operations."
+msgstr "Применение всех операций из списка, ожидающих выполнения."
+
+msgid "Applying pending operations"
+msgstr "Применение операций"
+
+msgid "Are you sure you want to apply the pending operations?"
+msgstr "Действительно применить запланированные операции?"
+
+msgid "Are you sure you want to cancel the current operation?"
+msgstr "Действительно хотите прервать текущую операцию?"
+
+msgid "Are you sure you want to delete %1?"
+msgstr "Действительно удалить %1?"
+
+msgid "Available"
+msgstr "Поддерживается"
+
+msgid "BTRFS is not yet supported."
+msgstr "BTRFS на данный момент не поддерживается."
+
+msgid "Because of this some operations may be unavailable."
+msgstr "Из-за этого некоторые операции могут быть недоступны."
+
+msgid ""
+"Because of this you will only have limited access to these devices. Unmount "
+"all mounted partitions on a device to get full access."
+msgstr ""
+"Из-за этого вы будете иметь лишь ограниченный доступ к этим устройствам. "
+"Отключите все смонтированные разделы на устройстве для получения полного "
+"доступа."
+
+msgid "Busy (At least one logical partition is mounted)"
+msgstr "занят (по крайней мере, один логический раздел смонтирован)"
+
+msgid "C_heck"
+msgstr "П_роверить на ошибки"
+
+msgid "Cancel Operation"
+msgstr "Прервать выполнение"
+
+msgid "Canceling an operation might cause SEVERE file system damage."
+msgstr "Прерывание операции может повредить файловую систему."
+
+msgid "Cannot format this file system to %1."
+msgstr "Не удалось отформатировать эту файловую систему в %1. "
+
+msgid "Check"
+msgstr "Проверка на ошибки"
+
+msgid "Check and repair file system (%1) on %2"
+msgstr "Проверить на наличие ошибок и восстановить файловую систему (%1) на %2"
+
+msgid "Choosing the Create button will IMMEDIATELY ERASE ALL DATA on disk %1"
+msgstr ""
+"Нажатие кнопки «Создать» приведёт к НЕМЕДЛЕННОМУ УДАЛЕНИЮ ВСЕХ ДАННЫХ на "
+"диске %1"
+
+msgid "Clear Partition Label on %1"
+msgstr "Очистить метку раздела на %1"
+
+msgid "Clear partition label on %1"
+msgstr "Очистить метку раздела на %1"
+
+msgid "Completed Operations:"
+msgstr "Выполненные операции:"
+
+msgid "Confirming %1"
+msgstr "Перепроверка %1"
+
+msgid "Continue Operation"
+msgstr "Продолжить выполнение"
+
+msgid "Copy"
+msgstr "Копирование"
+
+msgid "Copy %1 to %2"
+msgstr "Копировать %1 на %2"
+
+msgid "Copy %1 to %2 (start at %3)"
+msgstr "Копировать %1 на %2 (начиная с %3)"
+
+msgid "Copy the selected partition to the clipboard"
+msgstr "Копировать выбранный раздел в буфер"
+
+msgid "Could not activate swap"
+msgstr "Не удалось активировать пространство подкачки"
+
+msgid "Could not add this operation to the list."
+msgstr "Не удалось добавить операцию в список."
+
+msgid "Could not deactivate swap"
+msgstr "Не удалось деактивировать пространство подкачки"
+
+msgid "Could not mount %1 on %2"
+msgstr "Не удалось смонтировать %1 на %2"
+
+msgid "Could not unmount %1"
+msgstr "Не удалось размонтировать %1"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Create %1 #%2 (%3, %4) on %5"
+msgstr "Создать %1 #%2 (%3, %4) на %5"
+
+msgid "Create a new partition in the selected unallocated space"
+msgstr "Создать новый раздел в выбранной неразмеченной области"
+
+msgid "Create as:"
+msgstr "Создать как:"
+
+msgid "Create new Partition"
+msgstr "Создать новый раздел"
+
+msgid "Create partition table on %1"
+msgstr "Создать таблицу разделов на %1"
+
+msgid "Create, reorganize, and delete partitions"
+msgstr "Создать, реорганизовать и удалить разделы"
+
+msgid "Cylinders:"
+msgstr "Цилиндров:"
+
+msgid "Deactivating swap on %1"
+msgstr "Деактивирование пространства подкачки на %1"
+
+msgid "Default is to create an msdos partition table."
+msgstr "По умолчанию создаётся таблица разделов msdos."
+
+msgid "Delete %1 (%2, %3)"
+msgstr "Удалить %1 (%2, %3)"
+
+msgid "Delete %1 (%2, %3) from %4"
+msgstr "Удалить  %1 (%2, %3) с %4"
+
+msgid "Delete the selected partition"
+msgstr "Удалить выбранный раздел"
+
+msgid ""
+"Depending on the amount and type of operations this might take a long time."
+msgstr ""
+"В зависимости от видов операций и их количества этот процесс может занять "
+"продолжительное время."
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Device Information"
+msgstr "Информация об устройстве"
+
+msgid "Device _Information"
+msgstr "_Информация об устройстве"
+
+msgid "DiskLabelType:"
+msgstr "Тип метки:"
+
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+msgid "EXECUTING"
+msgstr "ВЫПОЛНЕНИЕ"
+
+msgid "Editing partitions has the potential to cause LOSS of DATA."
+msgstr "Изменение разделов может потенциально привести к ПОТЕРЕ ДАННЫХ."
+
+msgid "Error while creating partition table."
+msgstr "При создании таблицы разделов возникла ошибка."
+
+msgid "Error while reading block at sector %1"
+msgstr "При чтении блока из сектора %1 возникла ошибка"
+
+msgid "Error while writing block at sector %1"
+msgstr "При записи блока в сектор %1 возникла ошибка"
+
+msgid "Extended Partition"
+msgstr "расширенный раздел"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "File System Support"
+msgstr "Поддержка файловых систем"
+
+msgid "File System:"
+msgstr "Файловая система:"
+
+msgid "First Sector:"
+msgstr "Первый сектор:"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Flags:"
+msgstr "Флаги:"
+
+msgid "Format %1 as %2"
+msgstr "Форматировать %1 как %2"
+
+msgid "Free Space Following (MiB):"
+msgstr "Свободное место после (МБ):"
+
+msgid "Free Space Preceding (MiB):"
+msgstr "Свободное место до (МБ):"
+
+msgid "GNOME Partition Editor"
+msgstr "Редактор разделов GNOME"
+
+msgid "GParted"
+msgstr "GParted"
+
+msgid "GParted Details"
+msgstr "Подробности GParted"
+
+msgid "GParted Partition Editor"
+msgstr "Редактор разделов GParted"
+
+msgid "Grow"
+msgstr "Увеличение"
+
+msgid "Grow %1 from %2 to %3"
+msgstr "Увеличить размер %1 с %2 до %3"
+
+msgid "Heads:"
+msgstr "Головок:"
+
+msgid "IMPORTANT"
+msgstr "ВАЖНО"
+
+msgid "INFO"
+msgstr "ИНФОРМАЦИЯ"
+
+msgid ""
+"If you want more partitions you should first create an extended partition. "
+"Such a partition can contain other partitions. Because an extended partition "
+"is also a primary partition it might be necessary to remove a primary "
+"partition first."
+msgstr ""
+"Если вы хотите иметь больше разделов, сначала вам нужно создать расширенный "
+"раздел. Такой раздел может содержать другие разделы. Поскольку расширенный "
+"также является основным разделом, возможно, необходимо будет сначала удалить "
+"основной раздел."
+
+msgid "If you want support, you need to provide the saved details!"
+msgstr ""
+"Для получения поддержки необходимо предоставить сохранённые подробности!"
+
+msgid "Information about %1"
+msgstr "Информация о %1"
+
+msgid "It is not possible to create more than %1 primary partitions"
+msgstr "Невозможно создать более %1 основных разделов"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Label operation failed:  Unable to create temporary file %1.\n"
+msgstr ""
+"Операция с метками не удалась, потому что не удалось создать временный файл "
+"%1.\n"
+
+msgid "Label operation failed:  Unable to write to temporary file %1.\n"
+msgstr ""
+"Не удалось провести операцию с меткой, потому что не удалось записать во "
+"временный файл %1.\n"
+
+msgid "Label:"
+msgstr "Метка:"
+
+msgid "Last Sector:"
+msgstr "Последний сектор:"
+
+msgid "Legend"
+msgstr "Легенда"
+
+msgid "Libparted"
+msgstr "Libparted"
+
+msgid "Linux Unified Key Setup encryption is not yet supported."
+msgstr ""
+"Унифицированная настройка ключей шифрования Linux на данный момент не "
+"поддерживается."
+
+msgid "Logical Partition"
+msgstr "логический раздел"
+
+msgid "Logical Volume Management is not yet supported."
+msgstr "Менеджер логических томов (LVM) на данный момент не поддерживается."
+
+msgid "M_anage Flags"
+msgstr "Уп_равление флагами"
+
+msgid "Manage flags on %1"
+msgstr "Управление флагами на %1"
+
+msgid "Maximum Size: %1 MiB"
+msgstr "Максимальный размер: %1 МБ"
+
+msgid "Minimum Size: %1 MiB"
+msgstr "Минимальный размер: %1 МБ"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid ""
+"Most likely other partitions are also mounted on these mount points. You are "
+"advised to unmount them manually."
+msgstr ""
+"Скорее всего другие разделы также подключены к этим точкам монтирования. "
+"Рекомендуется размонтировать их вручную."
+
+msgid "Mount Point"
+msgstr "Точка монтирования"
+
+msgid "Mounted on %1"
+msgstr "смонтирован на %1"
+
+msgid "Move"
+msgstr "Перемещение"
+
+msgid "Move %1 to the left"
+msgstr "Переместить %1 влево"
+
+msgid "Move %1 to the left and grow it from %2 to %3"
+msgstr "Переместить %1 влево и увеличить размер с %2 до %3"
+
+msgid "Move %1 to the left and shrink it from %2 to %3"
+msgstr "Переместить %1 влево и уменьшить размер с %2 до %3"
+
+msgid "Move %1 to the right"
+msgstr "Переместить %1 вправо"
+
+msgid "Move %1 to the right and grow it from %2 to %3"
+msgstr "Переместить %1 вправо и увеличить размер с %2 до %3"
+
+msgid "Move %1 to the right and shrink it from %2 to %3"
+msgstr "Переместить %1 вправо и уменьшить размер с %2 до %3"
+
+msgid "N/A"
+msgstr "Н/Д"
+
+msgid "New Partition #%1"
+msgstr "Новый раздел #%1"
+
+msgid "New Size (MiB):"
+msgstr "Новый размер (МБ):"
+
+msgid "No devices detected"
+msgstr "Устройств не обнаружено"
+
+msgid "Not Available"
+msgstr "Не поддерживается"
+
+msgid "Not active"
+msgstr "не активен"
+
+msgid ""
+"Not all actions are available on all file systems, in part due to the nature "
+"of file systems and limitations in the required software."
+msgstr ""
+"Не все действия поддерживаются файловыми системами, частично это определено "
+"самой природой файловых систем и ограничениями программного обеспечения."
+
+msgid "Not busy (There are no mounted logical partitions)"
+msgstr "не занят (нет смонтированных логических разделов)"
+
+msgid "Not mounted"
+msgstr "не смонтирован"
+
+msgid "Operation cancelled"
+msgstr "Операция отменена"
+
+msgid "Partition"
+msgstr "Раздел"
+
+msgid "Paste %1"
+msgstr "Вставить %1"
+
+msgid "Paste the partition from the clipboard"
+msgstr "Вставить раздел из буфера"
+
+msgid "Path:"
+msgstr "Путь:"
+
+msgid "Pending _Operations"
+msgstr "С_писок операций"
+
+msgid "Please unmount any logical partitions having a number higher than %1"
+msgstr "Размонтируйте все логические разделы, имеющие номера большие чем %1"
+
+msgid "Primary Partition"
+msgstr "главный раздел раздел"
+
+msgid "Quit GParted?"
+msgstr "Выйти из GParted?"
+
+msgid "Required Software"
+msgstr "Требуемое ПО"
+
+msgid "Rescan For Supported Actions"
+msgstr "Пересканировать поддерживаемые действия"
+
+msgid "Resize"
+msgstr "Изменить размер"
+
+msgid "Resize %1"
+msgstr "Изменение размера %1"
+
+msgid "Resize/Move"
+msgstr "Изменить размер или переместить"
+
+msgid "Resize/Move %1"
+msgstr "Изменение размера или перемещение %1"
+
+msgid "Resize/Move the selected partition"
+msgstr "Изменить размер или переместить выбранный раздел"
+
+msgid "Root privileges are required for running GParted"
+msgstr "Для запуска GParted требуются права root."
+
+msgid "Round to cylinders"
+msgstr "Округлить до цилиндров"
+
+msgid "SUCCESS"
+msgstr "УСПЕШНО"
+
+msgid "Save Details"
+msgstr "Сохранить подробности"
+
+msgid "Scanning %1"
+msgstr "Сканирование %1"
+
+msgid "Scanning all devices..."
+msgstr "Сканирование подключенных устройств..."
+
+msgid "Searching %1 partitions"
+msgstr "Поиск разделов на %1"
+
+msgid "Sectors/Track:"
+msgstr "Секторов/Дорожек:"
+
+msgid "See %1 for more information."
+msgstr "Для получения более подробной информации смотрите %1."
+
+msgid "See the details for more information."
+msgstr "Для получения большей информации смотрите подробности."
+
+msgid "Select new partition table type:"
+msgstr "Выберите новый тип таблицы разделов:"
+
+msgid "Set Partition Label \"%1\" on %2"
+msgstr "Установить метку раздела «%1» на %2"
+
+msgid "Set partition label on %1"
+msgstr "Установить метку раздела на %1"
+
+msgid "Set partition label to \"%1\" on %2"
+msgstr "Установить метку раздела «%1» на %2"
+
+msgid "Shrink"
+msgstr "Уменьшение"
+
+msgid "Shrink %1 from %2 to %3"
+msgstr "Уменьшить размер %1 с %2 до %3"
+
+msgid ""
+"Since GParted is a powerful tool capable of destroying partition tables and "
+"vast amounts of data, only root may run it."
+msgstr ""
+"Поскольку GParted является мощным инструментом, способным разрушить таблицы "
+"разделов и данные, только администратор (root) может запустить его."
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Status:"
+msgstr "Состояние:"
+
+msgid "The file system is damaged"
+msgstr "файловая система повреждена"
+
+msgid "The file system is unknown to GParted"
+msgstr "файловая система неизвестна GParted"
+
+msgid ""
+"The kernel is unable to re-read the partition tables on the following "
+"devices:"
+msgstr "Ядру не удалось перечитать таблицу разделов на следующих устройствах:"
+
+msgid "The partition could not be unmounted from the following mount points:"
+msgstr "Раздел не может быть отключен от следующих точек монтирования:"
+
+msgid "There is no file system available (unformatted)"
+msgstr "Отсутствует файловая система (раздел не отформатирован)"
+
+msgid "This chart shows the actions supported on file systems."
+msgstr "Эта диаграмма показывает действия, поддерживаемые файловыми системами."
+
+msgid "Total Sectors:"
+msgstr "Всего секторов:"
+
+msgid "UUID:"
+msgstr "UUID:"
+
+msgid "Unable to delete %1!"
+msgstr "Невозможно удалить %1!"
+
+msgid "Unable to detect file system! Possible reasons are:"
+msgstr "Невозможно обнаружить файловую систему! Возможные причины:"
+
+msgid "Unable to find mount point"
+msgstr "Невозможно найти точку монтирования"
+
+msgid "Unable to read the contents of this file system!"
+msgstr "Невозможно прочитать содержимое этой файловой системы!"
+
+msgid "Undo Last Operation"
+msgstr "Отменить последнюю операцию"
+
+msgid "Unmount"
+msgstr "Размонтировать"
+
+msgid "Unmounting %1"
+msgstr "Размонтирование %1"
+
+msgid "Unused"
+msgstr "Свободно"
+
+msgid "Unused:"
+msgstr "Свободно:"
+
+msgid "Used"
+msgstr "Использовано"
+
+msgid "Used:"
+msgstr "Использовано:"
+
+msgid "WARNING:  This will ERASE ALL DATA on the ENTIRE DISK %1"
+msgstr "ВНИМАНИЕ: это приведёт к УДАЛЕНИЮ ВСЕХ ДАННЫХ на ВСЁМ ДИСКЕ %1"
+
+msgid "Warning:"
+msgstr "Внимание:"
+
+msgid "You are advised to backup your data before proceeding."
+msgstr "Перед продолжением рекомендуется сделать резервную копию данных."
+
+msgid "_Apply All Operations"
+msgstr "_Применить все операции"
+
+msgid "_Clear All Operations"
+msgstr "О_чистить список операций"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Create Partition Table"
+msgstr "_Создать таблицу разделов"
+
+msgid "_Device"
+msgstr "_Устройство"
+
+msgid "_Devices"
+msgstr "_Устройства"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_File System Support"
+msgstr "_Поддержка файловых систем"
+
+msgid "_Format to"
+msgstr "_Форматировать в"
+
+msgid "_GParted"
+msgstr "_GParted"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Label"
+msgstr "_Метка"
+
+msgid "_Mount on"
+msgstr "_Смонтировать"
+
+msgid "_Partition"
+msgstr "_Раздел"
+
+msgid "_Refresh Devices"
+msgstr "_Обновить список устройств"
+
+msgid "_Resize/Move"
+msgstr "И_зменить размер или переместить"
+
+msgid "_Save Details"
+msgstr "_Сохранить подробности"
+
+msgid "_Swapoff"
+msgstr "_Отключить подкачку"
+
+msgid "_Swapon"
+msgstr "_Включить подкачку"
+
+msgid "_Undo Last Operation"
+msgstr "_Отменить последнюю операцию"
+
+msgid "_Unmount"
+msgstr "_Размонтировать"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "calculate new size and position of %1"
+msgstr "вычислить новый размер и позицию %1"
+
+msgid "calibrate %1"
+msgstr "калибровка %1"
+
+msgid "check file system on %1 for errors and (if possible) fix them"
+msgstr ""
+"проверить на ошибки файловую систему %1 и устранить их, если это возможно"
+
+msgid "checking is not available for this file system"
+msgstr "проверка на ошибки недоступна для этой файловой системы"
+
+msgid "copy %1 sectors"
+msgstr "скопировать %1 секторов"
+
+msgid "copy %1 sectors using a blocksize of %2 sectors"
+msgstr "копировать %1 секторов, используя блок размером %2 секторов"
+
+msgid "copy file system"
+msgstr "копировать файловую систему"
+
+msgid "copy file system of %1 to %2"
+msgstr "копировать файловую систему с %1 на %2"
+
+msgid "copy of %1"
+msgstr "копировать %1"
+
+msgid "create empty partition"
+msgstr "создать пустой раздел"
+
+msgid "create new %1 file system"
+msgstr "создать новую файловую систему %1"
+
+msgid "create temporary mount point (%1)"
+msgstr "создать временную точку монтирования (%1)"
+
+msgid "delete partition"
+msgstr "удалить раздел"
+
+msgid "end: %1"
+msgstr "конец: %1"
+
+msgid "finding optimal blocksize"
+msgstr "вычислить оптимальный размер блока"
+
+msgid "grow file system"
+msgstr "увеличить размер файловой системы"
+
+msgid "grow file system to fill the partition"
+msgstr "увеличить размер файловой системы, заполнив весь раздел"
+
+msgid "grow mounted file system"
+msgstr "увеличить размер смонтированной файловой системы"
+
+msgid "grow partition from %1 to %2"
+msgstr "увеличить раздел с %1 до %2"
+
+msgid "growing is not available for this file system"
+msgstr "увеличение размера этой файловой системы не поддерживается"
+
+msgid "libparted messages"
+msgstr "сообщения libparted"
+
+msgid "mount %1 on %2"
+msgstr "смонтировать %1 на %2"
+
+msgid "mounting %1 on %2"
+msgstr "монтирование %1 к %2"
+
+msgid "move file system"
+msgstr "переместить файловую систему"
+
+msgid "move file system to the left"
+msgstr "переместить файловую систему влево"
+
+msgid "move file system to the right"
+msgstr "переместить файловую систему вправо"
+
+msgid "move partition to the left"
+msgstr "переместить раздел влево"
+
+msgid "move partition to the left and grow it from %1 to %2"
+msgstr "переместить раздел влево и увеличить размер с %1 до %2"
+
+msgid "move partition to the left and shrink it from %1 to %2"
+msgstr "переместить раздел влево и уменьшить размер с %1 до %2"
+
+msgid "move partition to the right"
+msgstr "переместить раздел вправо"
+
+msgid "move partition to the right and grow it from %1 to %2"
+msgstr "переместить раздел вправо и увеличить размер с %1 до %2"
+
+msgid "move partition to the right and shrink it from %1 to %2"
+msgstr "переместить раздел вправо и уменьшить размер с %1 до %2"
+
+msgid "moving requires old and new length to be the same"
+msgstr ""
+"для перемещения необходимо чтобы длины исходного и целевого раздела были "
+"одинаковыми"
+
+msgid ""
+"new and old file system have the same position -- skipping this operation"
+msgstr ""
+"новая и старая файловые системы имеют одинаковые одинаковое расположение — "
+"операция пропущена"
+
+msgid "new and old file system have the same size -- skipping this operation"
+msgstr ""
+"новая и старая файловые системы имеют одинаковые размеры — операция пропущена"
+
+msgid ""
+"new and old partition have the same size and position -- continuing anyway"
+msgstr ""
+"новый и старый раздел одинаковые размеры и позиции — всё равно продолжить"
+
+msgid ""
+"new and old partition have the same size and position -- skipping this "
+"operation"
+msgstr ""
+"новый и старый разделы имеют одинаковые размеры и позиции — операция "
+"пропущена"
+
+msgid "new end: %1"
+msgstr "теперь заканчивается: %1"
+
+msgid "new partition type: %1"
+msgstr "новый тип раздела: %1"
+
+msgid "new size: %1 (%2)"
+msgstr "новый размер: %1 (%2)"
+
+msgid "new start: %1"
+msgstr "теперь начинается: %1"
+
+msgid "old end: %1"
+msgstr "заканчивался: %1"
+
+msgid "old size: %1 (%2)"
+msgstr "старый размер: %1 (%2)"
+
+msgid "old start: %1"
+msgstr "начинался: %1"
+
+msgid "optimal blocksize is %1 sectors (%2)"
+msgstr "оптимальный размер блока %1 секторов (%2)"
+
+msgid "path: %1"
+msgstr "путь: %1"
+
+msgid "perform read-only test"
+msgstr "подготовить тест «только-чтение»"
+
+msgid "perform real move"
+msgstr "подготовить перемещение"
+
+msgid "read %1 sectors"
+msgstr "прочесть %1 секторов"
+
+msgid "read %1 sectors using a blocksize of %2 sectors"
+msgstr "прочитать %1 секторов, используя блок размером %2 секторов"
+
+msgid "real resize"
+msgstr "настоящее изменение размера"
+
+msgid "remount %1 on %2 with the 'resize' flag enabled"
+msgstr "перемонтировать %1 на %2, включив флаг 'resize'"
+
+msgid "remove temporary mount point (%1)"
+msgstr "убрать временную точку монтирования (%1)"
+
+msgid "requested end: %1"
+msgstr "запрашивается конец: %1"
+
+msgid "requested size: %1 (%2)"
+msgstr "запрашивается размер: %1 (%2)"
+
+msgid "requested start: %1"
+msgstr "запрашивается начало: %1"
+
+msgid "resize file system"
+msgstr "измененить размер файловой системы"
+
+msgid "resize/move %1"
+msgstr "измененить размер или переместить %1"
+
+msgid "resize/move partition"
+msgstr "изменить размер или переместить раздел"
+
+msgid "resizing requires old and new start to be the same"
+msgstr ""
+"изменение размера требует, чтобы старое и новое начальные положения совпадали"
+
+msgid "rollback last change to the partition table"
+msgstr "откатить последнее изменение в таблице разделов"
+
+msgid "rollback last transaction"
+msgstr "отменить последнюю транзакцию"
+
+msgid "run simulation"
+msgstr "запустить симуляцию"
+
+msgid "set partition type on %1"
+msgstr "установить тип раздела на %1"
+
+msgid "shrink file system"
+msgstr "уменьшить размер файловой системы"
+
+msgid "shrink partition from %1 to %2"
+msgstr "уменьшить раздел с %1 до %2"
+
+msgid "size: %1 (%2)"
+msgstr "размер: %1 (%2)"
+
+msgid "start: %1"
+msgstr "начало: %1"
+
+msgid "the destination is smaller than the source partition"
+msgstr "раздел назначения меньше, чем раздел-источник"
+
+msgid "translator-credits"
+msgstr ""
+"Александр Шиян <shc@users.sourceforge.net\n"
+"Юрий Мясоедов<omerta13@yandex.ru>"
+
+msgid "unallocated"
+msgstr "не размечено"
+
+msgid "unformatted"
+msgstr "не отформатировано"
+
+msgid "unknown"
+msgstr "неизвестно"
+
+msgid "unmount %1"
+msgstr "размонтировать %1"
+
+msgid "unrecognized"
+msgstr "неизвестный"
+
+msgid "unused"
+msgstr "не используется"
+
+msgid "updating boot sector of %1 file system on %2"
+msgstr "обновление загрузочного сектора файловой системы %1 на %2"
+
+msgid "used"
+msgstr "используется"
+
+msgid "using internal algorithm"
+msgstr "использование внутреннего алгоритма"
+
+msgid "using libparted"
+msgstr "использование libparted"

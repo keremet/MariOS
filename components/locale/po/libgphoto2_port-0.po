@@ -1,0 +1,438 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgphoto2_port 2.4.13\n"
+"Report-Msgid-Bugs-To: gphoto-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2012-03-31 00:03+0200\n"
+"PO-Revision-Date: 2012-02-27 21:16+0400\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%i regular entry available."
+msgid_plural "%i regular entries available."
+msgstr[0] "доступна %i обычная запись."
+msgstr[1] "доступно %i обычных записи."
+msgstr[2] "доступно %i обычных записей."
+
+msgid "'%s' already loaded"
+msgstr "«%s» уже загружен"
+
+msgid "(unknown)"
+msgstr "(неизвестно)"
+
+msgid "Bad parameters"
+msgstr "Неверные аргументы"
+
+msgid "Called for filename '%s'."
+msgstr "Вызвано для файла «%s»."
+
+msgid "Camera is already in use."
+msgstr "Фотоаппарат уже занят."
+
+msgid "Clear halt..."
+msgstr "Очистка признака halt…"
+
+msgid "Closing port..."
+msgstr "Закрытие порта…"
+
+msgid ""
+"Could not claim interface %d (%m). Make sure no other program or kernel "
+"module (such as %s) is using the device and you have read/write access to "
+"the device."
+msgstr ""
+"Невозможно захватить интерфейс %d (%m). Убедитесь, что устройство не занято "
+"другой программой или модулем ядра (таким как %s), и что у вас есть доступ к "
+"устройству по чтению и записи."
+
+msgid ""
+"Could not claim interface %d (%s). Make sure no other program or kernel "
+"module (such as %s) is using the device and you have read/write access to "
+"the device."
+msgstr ""
+"Невозможно захватить интерфейс %d (%s). Убедитесь, что устройство не занято "
+"другой программой или модулем ядра (таким как %s), и что у вас есть доступ к "
+"устройству по чтению и записи."
+
+msgid "Could not claim the USB device"
+msgstr "Невозможно получить контроль над устройством USB"
+
+msgid "Could not close '%s' (%m)."
+msgstr "Не удалось закрыть «%s» (%m)."
+
+msgid "Could not close USB port (%m)."
+msgstr "Невозможно закрыть порт USB (%m)."
+
+msgid "Could not detach kernel driver '%s' of camera device."
+msgstr "Невозможно отключить драйвер ядра «%s» для устройства фотоаппарата."
+
+msgid "Could not detach kernel driver of camera device."
+msgstr "Невозможно отключить драйвер ядра устройства фотоаппарата."
+
+msgid "Could not find 'gp_port_library_operations' in '%s' ('%s')"
+msgstr "Не найден «gp_port_library_operations» в «%s» («%s»)"
+
+msgid ""
+"Could not find USB device (class 0x%x, subclass 0x%x, protocol 0x%x). Make "
+"sure this device is connected to the computer."
+msgstr ""
+"Не найдено устройство USB (класс 0x%x, подкласс 0x%x, протокол 0x%x). "
+"Убедитесь, что устройство подключено к компьютеру."
+
+msgid ""
+"Could not find USB device (vendor 0x%x, product 0x%x). Make sure this device "
+"is connected to the computer."
+msgstr ""
+"Не найдено устройство USB (производитель 0x%x, продукт 0x%x). Убедитесь, что "
+"устройство подключено к компьютеру."
+
+msgid "Could not find some functions in '%s': '%s'."
+msgstr "Не найдены некоторые функции в «%s»: «%s»."
+
+msgid "Could not find the requested device on the USB port"
+msgstr "Не найдено запрошенное устройство на порту USB"
+
+msgid "Could not flush '%s' (%m)."
+msgstr "Невозможно сбросить буферы устройства «%s» (%m)."
+
+msgid "Could not get level of pin %i (%m)."
+msgstr "Невозможно получить уровень pin %i (%m)."
+
+msgid "Could not load '%s' ('%s')."
+msgstr "Невозможно загрузить «%s» («%s»)."
+
+msgid "Could not load '%s': '%s'."
+msgstr "Невозможно загрузить «%s»: «%s»."
+
+msgid "Could not load port driver list: '%s'."
+msgstr "Невозможно загрузить список драйверов портов: «%s»."
+
+msgid "Could not lock device '%s'"
+msgstr "Невозможно заблокировать устройство «%s»"
+
+msgid "Could not lock the device"
+msgstr "Невозможно заблокировать устройство"
+
+msgid "Could not open USB device (%m)."
+msgstr "Невозможно открыть USB-устройство (%m)."
+
+msgid "Could not open USB device (%s)."
+msgstr "Невозможно открыть USB-устройство (%s)."
+
+msgid "Could not query kernel driver of device."
+msgstr "Невозможно опросить драйвер ядра для устройства."
+
+msgid "Could not read from '%s' (%m)."
+msgstr "Не удалось прочитать «%s» (%m)."
+
+msgid "Could not reattach kernel driver of camera device."
+msgstr "Невозможно отключить драйвер ядра устройства фотоаппарата."
+
+msgid "Could not release interface %d (%m)."
+msgstr "Невозможно освободить интерфейс %d (%m)."
+
+msgid "Could not release interface %d (%s)."
+msgstr "Невозможно освободить интерфейс %d (%s)."
+
+msgid "Could not reset USB port (%m)."
+msgstr "Невозможно вернуть в исходное состояние порт USB (%m)."
+
+msgid "Could not reset USB port (%s)."
+msgstr "Невозможно вернуть в исходное состояние порт USB (%s)."
+
+msgid "Could not seek to offset: %x on '%s' (%m)."
+msgstr "Не удалось перейти к смещению: %x на «%s» (%m)."
+
+msgid "Could not send scsi command to: '%s' (%m)."
+msgstr "Не удалось послать команду scsi: «%s» (%m)."
+
+msgid "Could not set altsetting from %d to %d (%m)"
+msgstr "Невозможно установить альтернативную конфигурацию из %d в %d (%m)"
+
+msgid "Could not set altsetting from %d to %d (%s)"
+msgstr "Невозможно установить альтернативную конфигурацию из %d в %d (%s)"
+
+msgid "Could not set config %d/%d (%m)"
+msgstr "Невозможно изменить конфигурацию %d/%d (%m)"
+
+msgid "Could not set config %d/%d (%s)"
+msgstr "Невозможно изменить конфигурацию %d/%d (%s)"
+
+msgid "Could not set level of pin %i to %i (%m)."
+msgstr "Невозможно установить уровень pin %i в %i (%m)."
+
+msgid "Could not set the baudrate to %d"
+msgstr "Невозможно установить скорость %d"
+
+msgid "Could not write to '%s' (%m)."
+msgstr "Не удалось записать в «%s» (%m)."
+
+msgid "Could not write to port (%m)"
+msgstr "Запись в порт невозможна (%m)"
+
+msgid "Could only read %i out of %i byte"
+msgid_plural "Could only read %i out of %i bytes"
+msgstr[0] "Можно прочитать только %i байт из %i"
+msgstr[1] "Можно прочитать только %i байта из %i"
+msgstr[2] "Можно прочитать только %i байтов из %i"
+
+msgid "Could only write %i out of %i byte"
+msgid_plural "Could only write %i out of %i bytes"
+msgstr[0] "Возможно записать только %i байт из %i"
+msgstr[1] "Возможно записать только %i байта из %i"
+msgstr[2] "Возможно записать только %i байтов из %i"
+
+msgid "Counting entry (%i available)..."
+msgid_plural "Counting entries (%i available)..."
+msgstr[0] "Подсчитывается запись (%i доступно)…"
+msgstr[1] "Подсчитываются записи (%i доступно)…"
+msgstr[2] "Подсчитываются записи (%i доступно)…"
+
+msgid "Creating new device..."
+msgstr "Создаётся новое устройство…"
+
+msgid "Current timeout: %i milliseconds"
+msgstr "Текущее время задержки: %i·(в миллисекундах)"
+
+msgid "Device '%s' could not be locked (dev_lock returned %d)"
+msgstr ""
+"Устройство «%s» невозможно заблокировать (функция dev_lock вернула значение "
+"%d)"
+
+msgid "Device '%s' could not be unlocked (dev_unlock returned %d)"
+msgstr ""
+"Устройство «%s» невозможно разблокировать (функция dev_unlock вернула "
+"значение %d)"
+
+msgid "Device '%s' could not be unlocked as it is locked by pid %d."
+msgstr ""
+"Устройство «%s» невозможно разблокировать, так как оно заблокировано "
+"процессом с pid %d."
+
+msgid "Device '%s' could not be unlocked."
+msgstr "Устройство «%s» невозможно разблокировать."
+
+msgid "Device '%s' is locked by pid %d"
+msgstr "Устройство «%s» заблокировано процессом с pid %d"
+
+msgid "Device has a kernel driver attached (%d), detaching it now."
+msgstr "Подключён драйвер ядра «%d». Производится отключение драйвера."
+
+msgid "Device has driver '%s' attached, detaching it now."
+msgstr "Подключён драйвер «%s». Производится отключение драйвера."
+
+msgid "Error clearing a halt condition on the USB port"
+msgstr "Ошибка устранения halt-условия на порту USB"
+
+msgid "Error initializing the port"
+msgstr "Ошибка инициализации порта"
+
+msgid "Error loading a library"
+msgstr "Ошибка загрузки библиотеки функций"
+
+msgid "Error reading from the port"
+msgstr "Ошибка чтения из порта"
+
+msgid "Error setting the serial port speed"
+msgstr "Ошибка установки скорости передачи через последовательный порт"
+
+msgid "Error updating the port settings"
+msgstr "Ошибка обновления настроек порта"
+
+msgid "Error writing to the port"
+msgstr "Ошибка записи в порт"
+
+msgid "Failed to open '%s' (%m)."
+msgstr "Не удалось открыть «%s» (%m)."
+
+msgid "Fixed limit exceeded"
+msgstr "Превышен фиксированный предел"
+
+msgid "Flushing port..."
+msgstr "Сброс буферов порта…"
+
+msgid "Freeing port..."
+msgstr "Освобождение порта…"
+
+msgid "Generic Port"
+msgstr "Обычный порт"
+
+msgid "Getting info of entry %i (%i available)..."
+msgstr "Получение информации о записи %i (%i доступно)…"
+
+msgid "Getting level of pin %i..."
+msgstr "Получение уровня pin %i…"
+
+msgid "Getting timeout..."
+msgstr "Определение времени задержки…"
+
+msgid "I/O problem"
+msgstr "Проблема ввода/вывода"
+
+msgid "Level of pin %i: %i"
+msgstr "Уровень pin %i: %i"
+
+msgid "Loaded '%s' ('%s') from '%s'."
+msgstr "Загружено «%s» («%s») из «%s»."
+
+msgid "Looking for path '%s' (%i entry available)..."
+msgid_plural "Looking for path '%s' (%i entries available)..."
+msgstr[0] "Поиск пути «%s» (доступна %i запись)…"
+msgstr[1] "Поиск пути «%s» (доступно %i записи)…"
+msgstr[2] "Поиск пути «%s» (доступно %i записей)…"
+
+msgid "Looking up entry '%s'..."
+msgstr "Поиск записи «%s»…"
+
+msgid "Media '%s'"
+msgstr "Носитель «%s»"
+
+msgid "No error"
+msgstr "Ошибок нет"
+
+msgid "No error description available"
+msgstr "Описание ошибки недоступно"
+
+msgid "Opening %s port..."
+msgstr "Открытие порта %s…"
+
+msgid "Out of memory"
+msgstr "Недостаточно памяти"
+
+msgid "Parity error."
+msgstr "Ошибка чётности."
+
+msgid "Reading %i=0x%x byte from interrupt endpoint (fast)..."
+msgid_plural "Reading %i=0x%x bytes from interrupt endpoint (fast)..."
+msgstr[0] "Считывается %i=0x%x байт из конечной точки прерывания (ускоренно)…"
+msgstr[1] "Считывается %i=0x%x байта из конечной точки прерывания (ускоренно)…"
+msgstr[2] ""
+"Считывается %i=0x%x байтов из конечной точки прерывания (ускоренно)…"
+
+msgid "Reading %i=0x%x byte from interrupt endpoint..."
+msgid_plural "Reading %i=0x%x bytes from interrupt endpoint..."
+msgstr[0] "Считывается %i=0x%x байт из конечной точки прерывания…"
+msgstr[1] "Считывается %i=0x%x байта из конечной точки прерывания…"
+msgstr[2] "Считывается %i=0x%x байтов из конечной точки прерывания…"
+
+msgid "Reading %i=0x%x byte from port..."
+msgid_plural "Reading %i=0x%x bytes from port..."
+msgstr[0] "Считывается %i=0x%x байт из порта…"
+msgstr[1] "Считывается %i=0x%x байта из порта…"
+msgstr[2] "Считывается %i=0x%x байтов из порта…"
+
+msgid "Reading message (request=0x%x value=0x%x index=0x%x size=%i=0x%x)..."
+msgstr ""
+"Чтение сообщения (запрос=0x%x значение=0x%x индекс=0x%x размер=%i=0x%x)…"
+
+msgid "Sending break (%i millisecond)..."
+msgid_plural "Sending break (%i milliseconds)..."
+msgstr[0] "Посылка сигнала break (%i миллисекунда)…"
+msgstr[1] "Посылка сигнала break (%i миллисекунды)…"
+msgstr[2] "Посылка сигнала break (%i миллисекунд)…"
+
+msgid "Serial Port %i"
+msgstr "Последовательный порт %i"
+
+msgid "Serial port not supported"
+msgstr "Нет поддержки последовательного порта"
+
+msgid "Setting pin %i (%s: '%s') to '%s'..."
+msgstr "Установка pin %i (%s: «%s») в «%s»…"
+
+msgid "Setting settings..."
+msgstr "Установка конфигурации…"
+
+msgid "Setting timeout to %i millisecond..."
+msgid_plural "Setting timeout to %i milliseconds..."
+msgstr[0] "Установка времени задержки в %i·миллисекунду…"
+msgstr[1] "Установка времени задержки в %i·миллисекунды…"
+msgstr[2] "Установка времени задержки в %i·миллисекунд"
+
+msgid "Starting regex search for '%s'..."
+msgstr "Начало поиска «%s» c использованием регулярного выражения…"
+
+msgid "The operation '%s' is not supported by this device"
+msgstr "Действие «%s» не поддерживается этим устройством"
+
+msgid "The port has not yet been initialized"
+msgstr "Порт ещё не был инициализирован"
+
+msgid "The supplied vendor or product id (0x%x,0x%x) is not valid."
+msgstr "Неверный идентификатор производителя или продукта (0x%x,0x%x)."
+
+msgid "Timeout reading from or writing to the port"
+msgstr "Истекло время ожидания ответа при чтении или записи данных в порт"
+
+msgid "Trying '%s'..."
+msgstr "Проверяется «%s»…"
+
+msgid "USB Mass Storage direct IO"
+msgstr "Прямой ввод-вывод USB Mass Storage"
+
+msgid "USB Mass Storage raw SCSI"
+msgstr "USB Mass Storage raw SCSI"
+
+msgid ""
+"USB device (vendor 0x%x, product 0x%x) is a mass storage device, and might "
+"not function with gphoto2. Reference: %s"
+msgstr ""
+"USB устройство (производитель 0x%x, продукт 0x%x) работает как устройство "
+"хранения данных.Программа gphoto2 не может его использовать. Смотрите: %s"
+
+msgid "USB port not supported"
+msgstr "Нет поддержки порта USB"
+
+msgid "Unexpected parity response sequence 0xff 0x%02x."
+msgstr "Неверная последовательность контроля чётности — 0xff 0x%02x"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown pin %i."
+msgstr "Неизвестный pin %i."
+
+msgid "Unknown port"
+msgstr "Неизвестный порт"
+
+msgid "Unspecified error"
+msgstr "Неуказанная ошибка"
+
+msgid "Unsupported operation"
+msgstr "Неподдерживаемое действие"
+
+msgid "Using ltdl to load io-drivers from '%s'..."
+msgstr "Используется ltdl для загрузки драйверов ввода/вывода из «%s»…"
+
+msgid "Writing %i=0x%x byte to port..."
+msgid_plural "Writing %i=0x%x bytes to port..."
+msgstr[0] "Записывается %i=0x%x байт в порт…"
+msgstr[1] "Записывается %i=0x%x байта в порт…"
+msgstr[2] "Записывается %i=0x%x байтов в порт…"
+
+msgid "Writing message (request=0x%x value=0x%x index=0x%x size=%i=0x%x)..."
+msgstr ""
+"Запись сообщения (запрос=0x%x значение=0x%x индекс=0x%x размер=%i=0x%x)…"
+
+msgid "high"
+msgstr "высок."
+
+msgid "libhal error"
+msgstr "ошибка libhal"
+
+msgid "low"
+msgstr "низк."
+
+msgid "re_match failed (%i)"
+msgstr "сбой re_match (%i)"
+
+msgid "regcomp failed"
+msgstr "сбой regcomp"
+
+msgid "regexec failed"
+msgstr "сбой regexec"

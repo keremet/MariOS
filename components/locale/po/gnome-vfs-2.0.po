@@ -1,0 +1,1088 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-vfs HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-01-29 11:00+0900\n"
+"PO-Revision-Date: 2008-01-29 10:30+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid " (invalid Unicode)"
+msgstr " (недопустимая последовательность Юникода)"
+
+msgid "%.1f GB"
+msgstr "%.1f ГБ"
+
+msgid "%.1f KB"
+msgstr "%.1f КБ"
+
+msgid "%.1f MB"
+msgstr "%.1f МБ"
+
+msgid "%s %s Digital Camera"
+msgstr "Цифровая камера %s %s"
+
+msgid "%s %s Music Player"
+msgstr "Музыкальный проигрыватель %s %s"
+
+msgid "%s Drive"
+msgstr "Устройство %s"
+
+msgid "%s Removable Volume"
+msgstr "%s Отключаемый том"
+
+msgid "%s Volume"
+msgstr "Том %s"
+
+msgid "%s/%s Drive"
+msgstr "Устройство %s/%s"
+
+msgid "%s:%d aborted parsing."
+msgstr "%s:%d отменена обработка."
+
+msgid "%s:%u contains NUL characters."
+msgstr "%s:%u содержит символы NUL."
+
+msgid "%s:%u contains no method name."
+msgstr "%s:%u не содержит имени метода."
+
+msgid "%s:%u contains no module name."
+msgstr "%s:%u не содержит имени модуля."
+
+msgid "%s:%u has no options endmarker."
+msgstr "%s:%u не содержит маркера окончания."
+
+msgid "%s:%u has unknown options %s."
+msgstr "%s:%u содержит неизвестный параметр %s."
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u байт"
+msgstr[1] "%u байта"
+msgstr[2] "%u байт"
+
+msgid "AFFS Volume"
+msgstr "Том AFFS"
+
+msgid "AFS Network Volume"
+msgstr "Сетевой том AFS"
+
+msgid "Access denied"
+msgstr "Доступ запрещен"
+
+msgid "Audio CD"
+msgstr "Аудио CD"
+
+msgid "Audio Disc"
+msgstr "Звуковой компакт-диск"
+
+msgid "Authenticate proxy server connections"
+msgstr "Соединения с прокси-сервером требуют авторизации"
+
+msgid "Auto-detected Volume"
+msgstr "Автоопределяемый том"
+
+msgid "Automatic proxy configuration URL"
+msgstr "URL автоматической настройки прокси"
+
+msgid "BSD Volume"
+msgstr "Том BSD"
+
+msgid "Bad file handle"
+msgstr "Заголовок файла неверен"
+
+msgid "Blank CD-R Disc"
+msgstr "Чистый CD-R диск"
+
+msgid "Blank CD-RW Disc"
+msgstr "Чистый CD-RW диск"
+
+msgid "Blank DVD+R Disc"
+msgstr "Чистый DVD+R диск"
+
+msgid "Blank DVD+RW Disc"
+msgstr "Чистый DVD+RW диск"
+
+msgid "Blank DVD-R Disc"
+msgstr "Чистый DVD-R диск"
+
+msgid "Blank DVD-RAM Disc"
+msgstr "Чистый DVD-RAM диск"
+
+msgid "Blank DVD-RW Disc"
+msgstr "Чистый DVD-RW диск"
+
+msgid "Btrfs Linux Volume"
+msgstr "Том Linux (Btrfs)"
+
+msgid "CD Digital Audio"
+msgstr "Звуковой компакт-диск"
+
+msgid "CD-R"
+msgstr "CD-R"
+
+msgid "CD-R Disc"
+msgstr "CD-R диск"
+
+msgid "CD-R/DVD-R"
+msgstr "CD-R/DVD-R"
+
+msgid "CD-R/DVD-RAM"
+msgstr "CD-R/DVD-RAM"
+
+msgid "CD-R/DVD-ROM"
+msgstr "CD-R/DVD-ROM"
+
+msgid "CD-R/DVD-RW"
+msgstr "CD-R/DVD-RW"
+
+msgid "CD-ROM"
+msgstr "CD-ROM"
+
+msgid "CD-ROM Disc"
+msgstr "CD-ROM диск"
+
+msgid "CD-ROM Drive"
+msgstr "Привод CD-ROM"
+
+msgid "CD-ROM/DVD-R"
+msgstr "CD-ROM/DVD-R"
+
+msgid "CD-ROM/DVD-RAM"
+msgstr "CD-ROM/DVD-RAM"
+
+msgid "CD-ROM/DVD-ROM"
+msgstr "CD-ROM/DVD-ROM"
+
+msgid "CD-ROM/DVD-RW"
+msgstr "CD-ROM/DVD-RW"
+
+msgid "CD-RW"
+msgstr "CD-RW"
+
+msgid "CD-RW Disc"
+msgstr "CD-RW диск"
+
+msgid "CD-RW/DVD-R"
+msgstr "CD-RW/DVD-R"
+
+msgid "CD-RW/DVD-RAM"
+msgstr "CD-RW/DVD-RAM"
+
+msgid "CD-RW/DVD-ROM"
+msgstr "CD-RW/DVD-ROM"
+
+msgid "CD-RW/DVD-RW"
+msgstr "CD-RW/DVD-RW"
+
+msgid "CDROM Volume"
+msgstr "Том CDROM"
+
+msgid "CF"
+msgstr "CF"
+
+msgid "CIFS Volume"
+msgstr "Том CIFS"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Cancel Login"
+msgstr "Отменить вход"
+
+msgid "Cannot create pipe for open GIOChannel: %s"
+msgstr "Невозможно создать канал для открытого GIOChannel: %s"
+
+msgid ""
+"Comma separated list of DNS-SD domains that should be visible in the "
+"\"network:///\" location."
+msgstr ""
+"Разделённый запятыми список доменов типа DNS-SD, которые должны быть видимы "
+"по адресу \"network:///\"."
+
+msgid "Compact Flash Drive"
+msgstr "Устройство Compact Flash"
+
+msgid "Configuration file `%s' was not found: %s"
+msgstr "Файл конфигурации \"%s\" не найден: %s"
+
+msgid "Could not find master browser"
+msgstr "Не удалось найти главный браузер"
+
+msgid "Could not parse: %s"
+msgstr "Не удалось разобрать: %s"
+
+msgid "Couldn't run mount process in a pty"
+msgstr "Невозможно запустить процесс монтирования в псевдотерминале"
+
+msgid "Couldn't send password to mount process."
+msgstr "Невозможно отправить сообщение процессу монтирования."
+
+msgid "DVD"
+msgstr "DVD"
+
+msgid "DVD Volume"
+msgstr "Том DVD"
+
+msgid "DVD+R"
+msgstr "DVD+R"
+
+msgid "DVD+R Disc"
+msgstr "DVD+R диск"
+
+msgid "DVD+RW"
+msgstr "DVD+RW"
+
+msgid "DVD+RW Disc"
+msgstr "DVD+RW диск"
+
+msgid "DVD-R"
+msgstr "DVD-R"
+
+msgid "DVD-R Disc"
+msgstr "DVD-R диск"
+
+msgid "DVD-RAM"
+msgstr "DVD-RAM"
+
+msgid "DVD-RAM Disc"
+msgstr "DVD-RAM диск"
+
+msgid "DVD-ROM"
+msgstr "DVD-ROM"
+
+msgid "DVD-ROM Disc"
+msgstr "DVD-ROM диск"
+
+msgid "DVD-RW"
+msgstr "DVD-RW"
+
+msgid "DVD-RW Disc"
+msgstr "DVD-RW диск"
+
+msgid "DVD±R"
+msgstr "DVD±R"
+
+msgid "DVD±RW"
+msgstr "DVD±RW"
+
+msgid "Data corrupted"
+msgstr "Данные повреждены"
+
+msgid "Default component viewer application"
+msgstr "Приложение просмотра компонентов по умолчанию"
+
+msgid "Default terminal application"
+msgstr "Приложение терминала по умолчанию"
+
+msgid ""
+"Deprecated function.  User modifications to the MIME database are no longer "
+"supported."
+msgstr ""
+"Устаревшая функция. Пользовательские изменения базы данных MIME больше не "
+"поддерживаются."
+
+msgid "Didn't find a valid settings file at %s\n"
+msgstr "Допустимый файл параметров в \"%s\" не найден\n"
+
+msgid "Directory busy"
+msgstr "Каталог занят"
+
+msgid "Directory not empty"
+msgstr "Каталог не пуст"
+
+msgid "Disk"
+msgstr "Диск"
+
+msgid "Drive"
+msgstr "Устройство"
+
+msgid "Enables the proxy settings when accessing HTTP over the Internet."
+msgstr "Включает установки прокси-сервера для протокола HTTP через Интернет."
+
+msgid "EncFS Volume"
+msgstr "Том EncFS"
+
+msgid "End of file"
+msgstr "Обнаружен конец файла"
+
+msgid "Enhanced DOS Volume"
+msgstr "Расширенный том DOS"
+
+msgid "Error launching command"
+msgstr "Ошибка выполнения команды"
+
+msgid "Error parsing command line"
+msgstr "Ошибка разбора командной строки"
+
+msgid "Exec argument for default terminal"
+msgstr "Аргумент exec для терминала по умолчанию"
+
+msgid "Ext2 Linux Volume"
+msgstr "Том Linux (Ext2)"
+
+msgid "Ext3 Linux Volume"
+msgstr "Том Linux (Ext3)"
+
+msgid "Ext4 Linux Volume"
+msgstr "Том Linux (Ext4)"
+
+msgid "External %s"
+msgstr "Внешний %s"
+
+msgid "Extra domains to look for DNS-SD services in"
+msgstr ""
+"Дополнительные домены, в которых осуществлять поиск сервисов типа DNS-SD"
+
+msgid "FTP proxy host name"
+msgstr "Имя прокси-сервера для протокола FTP"
+
+msgid "FTP proxy port"
+msgstr "Порт прокси-сервера для протокола FTP"
+
+msgid "FUSE Volume"
+msgstr "Том FUSE"
+
+msgid "Failed to read data from child process %d (%s)"
+msgstr "Ошибка чтения данных из дочернего процесса %d (%s)"
+
+msgid "Failed to start command"
+msgstr "Ошибка при запуске команды"
+
+msgid "File exists"
+msgstr "Файл существует"
+
+msgid "File not found"
+msgstr "Файл не найден"
+
+msgid "File not open"
+msgstr "Файл не открыт"
+
+msgid "File too big"
+msgstr "Файл слишком велик"
+
+msgid "Filesystem"
+msgstr "Файловая система"
+
+msgid "Floppy"
+msgstr "Дискета"
+
+msgid "Floppy Drive"
+msgstr "Дисковод"
+
+msgid "Format not valid"
+msgstr "Формат недопустим"
+
+msgid "Function call deprecated"
+msgstr "Функция устарела"
+
+msgid "Generic error"
+msgstr "Общая ошибка"
+
+msgid "HTTP proxy host name"
+msgstr "Имя прокси-сервера для протокола HTTP"
+
+msgid "HTTP proxy password"
+msgstr "Пароль прокси-сервера для протокола HTTP"
+
+msgid "HTTP proxy port"
+msgstr "Порт прокси-сервера для протокола HTTP"
+
+msgid "HTTP proxy username"
+msgstr "Имя пользователя прокси-сервера для протокола HTTP"
+
+msgid "Hardware Device Volume"
+msgstr "Том аппаратного устройства"
+
+msgid "Home"
+msgstr "Начало"
+
+msgid "Host has no address"
+msgstr "Узел не имеет адреса"
+
+msgid "Host name not valid"
+msgstr "Имя узла недопустимо"
+
+msgid "Host not found"
+msgstr "Узел не найден"
+
+msgid "How to display local DNS-SD service"
+msgstr "Как отображать локальный сервис типа DNS-SD"
+
+msgid "Hsfs CDROM Volume"
+msgstr "Том CDROM (HSFS)"
+
+msgid "I/O error"
+msgstr "Ошибка ввода/вывода"
+
+msgid "IEEE1394 Drive"
+msgstr "Диск IEEE1394"
+
+msgid "ISO 9660 Volume"
+msgstr "Том ISO9660"
+
+msgid ""
+"If true, then connections to the proxy server require authentication. The "
+"username/password combo is defined by \"/system/http_proxy/"
+"authentication_user\" and \"/system/http_proxy/authentication_password\"."
+msgstr ""
+"Если этот ключ установлен, то соединения с прокси-сервером требуют "
+"авторизации. Пара значений имя_пользователя/пароль определяется ключами \"/"
+"system/http_proxy/authentication_user\" и \"/system/http_proxy/"
+"authentication_password\"."
+
+msgid "Internal error"
+msgstr "Внутренняя ошибка"
+
+msgid "Invalid URI"
+msgstr "Неверный URI"
+
+msgid "Invalid filename"
+msgstr "Неверное имя файла"
+
+msgid "Invalid parameters"
+msgstr "Неверные параметры"
+
+msgid "Is a directory"
+msgstr "Является каталогом"
+
+msgid "JFS Volume"
+msgstr "Том JFS"
+
+msgid "Jaz Drive"
+msgstr "Привод Jaz"
+
+msgid "Log In Anyway"
+msgstr "Войти всё равно"
+
+msgid "Login failed"
+msgstr "Вход не удался"
+
+msgid "Looping links encountered"
+msgstr "Обнаружены циклические ссылки"
+
+msgid "MSDOS Volume"
+msgstr "Том MSDOS"
+
+msgid "MacOS Volume"
+msgstr "Том MacOS"
+
+msgid "Memory Stick"
+msgstr "Memory Stick"
+
+msgid "Memory Stick Drive"
+msgstr "Устройство Memory Stick"
+
+msgid "Memory Volume"
+msgstr "Том в памяти"
+
+msgid "Minix Volume"
+msgstr "Том Minix"
+
+msgid "More parsing errors will be ignored."
+msgstr "Остальные ошибки разбора будут проигнорированы."
+
+msgid "NFS Network Volume"
+msgstr "Сетевой том NFS"
+
+msgid "NILFS Linux Volume"
+msgstr "Том Linux (NILFS)"
+
+msgid "Name too long"
+msgstr "Слишком длинное имя"
+
+msgid "Nameserver error"
+msgstr "Ошибка сервера имён"
+
+msgid "Netware Volume"
+msgstr "Том Netware"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Network server"
+msgstr "Сетевой сервер"
+
+msgid "No default action associated"
+msgstr "Отсутствует ассоциированное действие по умолчанию"
+
+msgid "No error"
+msgstr "Ошибки отсутствуют"
+
+msgid "No handler for URL scheme"
+msgstr "Отсутствует обработчик схемы URL"
+
+msgid "No space left on device"
+msgstr "Недостаточно места на устройстве"
+
+msgid "Non-proxy hosts"
+msgstr "Узлы, доступные без прокси"
+
+msgid "Not a directory"
+msgstr "Не является каталогом"
+
+msgid "Not a symbolic link"
+msgstr "Не является символической ссылкой"
+
+msgid "Not enough memory"
+msgstr "Недостаточно памяти"
+
+msgid "Not on the same file system"
+msgstr "Находится не на той же файловой системе"
+
+msgid "Open mode not valid"
+msgstr "Режим открытия недопустим"
+
+msgid "Operation cancelled"
+msgstr "Действие отменено"
+
+msgid "Operation in progress"
+msgstr "Действие выполняется"
+
+msgid "Operation interrupted"
+msgstr "Действие прервано"
+
+msgid "Operation not permitted"
+msgstr "Действие не разрешено"
+
+msgid "Operation stopped"
+msgstr "Действие остановлено"
+
+msgid "Password to pass as authentication when doing HTTP proxying."
+msgstr "Пароль для авторизации на прокси-сервере протокола HTTP."
+
+msgid "Pcfs Solaris Volume"
+msgstr "Том Solaris (PCFS)"
+
+msgid "Pen Drive"
+msgstr "USB-накопитель"
+
+msgid "Possible values are \"merged\", \"separate\" and \"disabled\"."
+msgstr ""
+"Возможные значения \"merged\" (\"совместные\"), \"separate\" (\"раздельные"
+"\") и \"disabled\" (\"отключено\")."
+
+msgid "Protocol error"
+msgstr "Ошибка протокола"
+
+msgid "Proxy configuration mode"
+msgstr "Режим конфигурации прокси-серверов"
+
+msgid "Read only file system"
+msgstr "Файловая система только для чтения"
+
+msgid "Read-only file system"
+msgstr "Файловая система только для чтения"
+
+msgid "Reiser4 Linux Volume"
+msgstr "Том Linux (Reiser4)"
+
+msgid "ReiserFS Linux Volume"
+msgstr "Том Linux (ReiserFS)"
+
+msgid "Request obsoletes service's data"
+msgstr "Запрошенные данные с сервиса устарели"
+
+msgid "Root Volume"
+msgstr "Корневой том"
+
+msgid "Run the command in a terminal"
+msgstr "Запускать программу в терминале"
+
+msgid "SD/MMC"
+msgstr "SD/MMC"
+
+msgid "SD/MMC Drive"
+msgstr "Устройство SD/MMC"
+
+msgid "SMB workgroup"
+msgstr "Рабочая группа SMB"
+
+msgid "SOCKS proxy host name"
+msgstr "Имя прокси-сервера для протокола SOCKS"
+
+msgid "SOCKS proxy port"
+msgstr "Порт прокси-сервера для протокола SOCKS"
+
+msgid "Secure HTTP proxy host name"
+msgstr "Имя прокси-сервера для защищённого протокола HTTP"
+
+msgid "Secure HTTP proxy port"
+msgstr "Порт прокси-сервера для защищённого протокола HTTP"
+
+msgid ""
+"Select the proxy configuration mode. Supported values are \"none\", \"manual"
+"\", \"auto\"."
+msgstr ""
+"Режим конфигурации сервиса прокси. Возможные значения \"none\" (\"отсутствует"
+"\"), \"manual\" (\"ручной\"), \"auto\" (\"автоматический\")."
+
+msgid "Service not available"
+msgstr "Сервис недоступен"
+
+msgid "Smart Media"
+msgstr "Smart Media"
+
+msgid "Smart Media Drive"
+msgstr "Устройство Smart Media"
+
+msgid "Solaris/BSD Volume"
+msgstr "Том Solaris/BSD"
+
+msgid "Sun SAM-QFS Volume"
+msgstr "Том Sun SAM-QFS"
+
+msgid "SuperMount Volume"
+msgstr "Том SuperMount"
+
+msgid "System Volume"
+msgstr "Системный том"
+
+msgid "Temporary Volume"
+msgstr "Временный том"
+
+msgid ""
+"The Windows networking workgroup or domain that the user is part of. In "
+"order for a new workgroup to fully take effect the user may need to log out "
+"and log back in."
+msgstr ""
+"Рабочая группа или домен Windows, к которым относится пользователь. Чтобы "
+"изменение рабочей группы вступило в силу, возможно потребуется повторная "
+"регистрация в системе."
+
+msgid ""
+"The application to use for viewing files that require a component to view "
+"them. The parameter %s will be replaced by the file's URIs, the parameter %c "
+"will be replaced by the component IID."
+msgstr ""
+"Приложение, используемое для просмотра файлов, требующих компонента для "
+"просмотра. Параметр %s будет заменён адресом (URI) файла, параметр %c - "
+"идентификатором (IID) компонента."
+
+msgid "The command used to handle \"aim\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"aim\", если ключ установлен"
+
+msgid "The command used to handle \"callto\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"callto\", если ключ установлен"
+
+msgid "The command used to handle \"ghelp\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"ghelp\", если ключ установлен"
+
+msgid "The command used to handle \"h323\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа h323, если ключ установлен"
+
+msgid "The command used to handle \"http\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"http\", если ключ установлен"
+
+msgid "The command used to handle \"https\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки ссылок URL типа \"https\", если ключ "
+"установлен"
+
+msgid "The command used to handle \"info\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"info\", если ключ установлен"
+
+msgid "The command used to handle \"mailto\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"mailto\", если ключ установлен"
+
+msgid "The command used to handle \"man\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"man\", если ключ установлен"
+
+msgid "The command used to handle \"trash\" URLs, if enabled."
+msgstr ""
+"Команда, используемая для обработки URL типа \"trash\", если ключ установлен"
+
+msgid ""
+"The default terminal application to use for applications that require a "
+"terminal."
+msgstr ""
+"Приложение терминала, используемое по умолчанию приложениями, нуждающимися в "
+"терминале."
+
+msgid "The exec argument to use for the default terminal application."
+msgstr "Аргумент exec, использующийся приложением терминала по умолчанию."
+
+msgid "The handler for \"aim\" URLs"
+msgstr "Обработчик URL типа \"aim\""
+
+msgid "The handler for \"callto\" URLs"
+msgstr "Обработчик URL типа \"callto\""
+
+msgid "The handler for \"ghelp\" URLs"
+msgstr "Обработчик URL типа \"ghelp\""
+
+msgid "The handler for \"h323\" URLs"
+msgstr "Обработчик URL типа h232"
+
+msgid "The handler for \"http\" URLs"
+msgstr "Обработчик URL типа \"http\""
+
+msgid "The handler for \"https\" URLs"
+msgstr "Обработчик URL типа \"https\""
+
+msgid "The handler for \"info\" URLs"
+msgstr "Обработчик URL типа \"info\""
+
+msgid "The handler for \"mailto\" URLs"
+msgstr "Обработчик URL типа \"mailto\""
+
+msgid "The handler for \"man\" URLs"
+msgstr "Обработчик URL типа \"man\""
+
+msgid "The handler for \"trash\" URLs"
+msgstr "Обработчик URL типа \"trash\""
+
+msgid "The identity of the remote computer (%s) is unknown."
+msgstr "Идентификационная информация удалённого компьютера (%s) неизвестна."
+
+msgid "The machine name to proxy FTP through."
+msgstr "Имя машины прокси-сервера для протокола FTP."
+
+msgid "The machine name to proxy HTTP through."
+msgstr "Имя машины прокси-сервера для протокола HTTP."
+
+msgid "The machine name to proxy secure HTTP through."
+msgstr "Имя машины прокси-сервера для защищённого протокола HTTP."
+
+msgid "The machine name to proxy socks through."
+msgstr "Имя машины прокси-сервера для протокола SOCKS."
+
+msgid ""
+"The port on the machine defined by \"/system/http_proxy/host\" that you "
+"proxy through."
+msgstr ""
+"Порт на машине, определённой ключом \"/system/http_proxy/host\" для сервиса "
+"прокси."
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/ftp_host\" that you proxy "
+"through."
+msgstr ""
+"Порт на машине, определённой ключом \"/system/proxy/ftp_host\" для сервиса "
+"прокси."
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/secure_host\" that you "
+"proxy through."
+msgstr ""
+"Порт на машине, определённой ключом \"/system/proxy/secure_host\" для "
+"сервиса прокси."
+
+msgid ""
+"The port on the machine defined by \"/system/proxy/socks_host\" that you "
+"proxy through."
+msgstr ""
+"Порт на машине, определённой ключом \"/system/proxy/socks_host\" для сервиса "
+"прокси."
+
+msgid "The resource is locked"
+msgstr "Ресурс заблокирован"
+
+msgid ""
+"This happens when you log in to a computer the first time.\n"
+"\n"
+"The identity sent by the remote computer is %s. If you want to be absolutely "
+"sure it is safe to continue, contact the system administrator."
+msgstr ""
+"Это происходит, когда вход в сеанс на компьютере осуществляется впервые.\n"
+"\n"
+"Удалённый компьютер прислал идентификационную информацию %s. Чтобы "
+"убедиться, что продолжение соединения будет полностью безопасна, свяжитесь с "
+"ситемным администратором."
+
+msgid ""
+"This key contains a list of hosts which are connected to directly, rather "
+"than via the proxy (if it is active). The values can be hostnames, domains "
+"(using an initial wildcard like *.foo.com), IP host addresses (both IPv4 and "
+"IPv6) and network addresses with a netmask (something like 192.168.0.0/24)."
+msgstr ""
+"Этот ключ содержит список узлов, соединение с которыми осуществляется "
+"напрямую, минуя прокси-сервер (если последний используется). Значения могут "
+"быть именами узлов, доменами (с использованием расширителей типа *.foo.com), "
+"адресами узлов протокола IP (в вариантах IPv4 и IPv6) и сетевыми адресами с "
+"использованием маски (наподобие 192.168.0.0/24)."
+
+msgid "Timeout reached"
+msgstr "Время ожидания истекло"
+
+msgid "Too many links"
+msgstr "Слишком много ссылок"
+
+msgid "Too many open files"
+msgstr "Слишком много открытых файлов"
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"aim\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"aim\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"callto"
+"\" URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"callto\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"ghelp\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"ghelp\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"h323\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа h323."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"http\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"http\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"https\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"https\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"info\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"info\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"mailto"
+"\" URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"mailto\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"man\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"man\"."
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"trash\" "
+"URLs."
+msgstr ""
+"Если этот ключ установлен, то программа, определённая в ключе \"command\", "
+"будет обрабатывать ссылки (URL) типа \"trash\"."
+
+msgid ""
+"True if the command used to handle this type of URL should be run in a "
+"terminal."
+msgstr ""
+"Если этот ключ установлен, то программа,определённая для обработки ссылки "
+"(URL), будет запускаться в терминале."
+
+msgid "URL that provides proxy configuration values."
+msgstr ""
+"Ссылка (URL), предоставляющая значения для автоматической конфигурации "
+"прокси-серверов."
+
+msgid "USB Drive"
+msgstr "Диск USB"
+
+msgid "Udfs Solaris Volume"
+msgstr "Том Solaris (UDFS)"
+
+msgid "Unable to eject media"
+msgstr "Невозможно извлечь носитель"
+
+msgid ""
+"Unable to mount the floppy drive. The floppy is probably in a format that "
+"cannot be mounted."
+msgstr ""
+"Невозможно подсоединить дискету. Возможно, дискета в формате, который не "
+"может быть подсоединен."
+
+msgid ""
+"Unable to mount the floppy drive. There is probably no floppy in the drive."
+msgstr ""
+"Невозможно подсоединить дискету. Возможно, дискета отсутствует в дисководе."
+
+msgid "Unable to mount the selected floppy drive."
+msgstr "Невозможно подсоединить выбранную дискету."
+
+msgid "Unable to mount the selected volume."
+msgstr "Невозможно подсоединить выбранный том."
+
+msgid ""
+"Unable to mount the selected volume. The volume is probably in a format that "
+"cannot be mounted."
+msgstr ""
+"Невозможно подсоединить выбранный том. Возможно, том в формате, который не "
+"может быть подсоединён."
+
+msgid ""
+"Unable to mount the volume. If this is an encrypted drive, then the wrong "
+"password or key was used."
+msgstr ""
+"Невозможно подключить том. Если это зашифрованное устройство, возможно "
+"введен неверный пароль или использован неверный ключ."
+
+msgid "Unable to mount the volume. There is probably no media in the device."
+msgstr ""
+"Невозможно подсоединить том. Возможно, носитель отсутствует в устройстве."
+
+msgid "Unable to unmount connected server"
+msgstr "Невозможно отсоединить подключённый сервер"
+
+msgid "Unable to unmount the selected volume."
+msgstr "Невозможно отсоединить выбранный том."
+
+msgid ""
+"Unable to unmount the selected volume. The volume is in use by one or more "
+"programs."
+msgstr ""
+"Невозможно подсоединить выбранный том. Возможно, том используется одной или "
+"более программой."
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr ""
+"Непредвиденная ошибка в select() при чтении данных из дочернего процесса (%s)"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "Непредвиденная ошибка в waitpid() (%s)"
+
+msgid "Unknown"
+msgstr "Неизв."
+
+msgid "Unknown GnomeVFSSeekPosition %d"
+msgstr "Неизвестное значение GnomeVFSSeekPosition %d"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown job kind %u"
+msgstr "Вид задания %u неизвестен"
+
+msgid "Unknown operation type %u"
+msgstr "Тип операции %u неизвестен"
+
+msgid "Unknown volume"
+msgstr "Неизвестный том"
+
+msgid "Unsupported operation"
+msgstr "Операция не поддерживается"
+
+msgid "Use HTTP proxy"
+msgstr "Использовать прокси-сервер для протокола HTTP"
+
+msgid "Use the %s environment variable to specify a different location.\n"
+msgstr "Используйте переменную окружения \"%s\" для указания другого адреса.\n"
+
+msgid "User name to pass as authentication when doing HTTP proxying."
+msgstr ""
+"Имя пользователя для использования при авторизации на прокси-сервере для "
+"протокола HTTP."
+
+msgid "Volume"
+msgstr "Том"
+
+msgid "Whether the specified command should handle \"aim\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"aim\""
+
+msgid "Whether the specified command should handle \"callto\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"callto\""
+
+msgid "Whether the specified command should handle \"ghelp\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"ghelp\""
+
+msgid "Whether the specified command should handle \"h323\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа h323"
+
+msgid "Whether the specified command should handle \"http\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"http\""
+
+msgid "Whether the specified command should handle \"https\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"https\""
+
+msgid "Whether the specified command should handle \"info\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"info\""
+
+msgid "Whether the specified command should handle \"mailto\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"mailto\""
+
+msgid "Whether the specified command should handle \"man\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"man\""
+
+msgid "Whether the specified command should handle \"trash\" URLs"
+msgstr "Будет ли указанная команда обрабатывать ссылки (URL) типа \"trash\""
+
+msgid "Windows NT Volume"
+msgstr "Том Windows NT"
+
+msgid "Windows Network"
+msgstr "Сеть Windows"
+
+msgid "Windows Shared Volume"
+msgstr "Разделяемый том Windows"
+
+msgid "Windows VFAT Volume"
+msgstr "Том Windows (VFAT)"
+
+msgid "XFS Linux Volume"
+msgstr "Том Linux (XFS)"
+
+msgid "XIAFS Volume"
+msgstr "Том XIAFS"
+
+msgid "Xenix Volume"
+msgstr "Том Xenix"
+
+msgid ""
+"You must log in to access \"%s\".\n"
+"%s"
+msgstr ""
+"Вы должны зарегистрироваться для доступа к \"%s\".\n"
+"%s"
+
+msgid "You must log in to access %s\n"
+msgstr "Вы должны зарегистрироваться для доступа к %s\n"
+
+msgid "You must log in to access %s domain %s\n"
+msgstr "Вы должны зарегистрироваться для доступа к домену %s %s\n"
+
+msgid "Your HTTP Proxy requires you to log in.\n"
+msgstr "Ваш HTTP Proxy требует регистрации.\n"
+
+msgid "Your password will be transmitted encrypted."
+msgstr "Ваш пароль будет передан в зашифрованном виде."
+
+msgid "Your password will be transmitted unencrypted."
+msgstr "Ваш пароль будет передан в незашифрованном виде."
+
+msgid "ZFS Volume"
+msgstr "Раздел ZFS"
+
+msgid "Zip Drive"
+msgstr "Диск ZIP"
+
+msgid "eCryptfs Volume"
+msgstr "Том eCryptfs"

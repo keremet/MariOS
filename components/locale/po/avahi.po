@@ -1,0 +1,613 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: avahi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-04-02 03:23+0200\n"
+"PO-Revision-Date: 2010-08-15 13:16+0400\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2008-04-01 04:32+0000\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -D --browse-domains  Browse for browsing domains instead of services\n"
+"    -a --all             Show all services, regardless of the type\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -t --terminate       Terminate after dumping a more or less complete "
+"list\n"
+"    -c --cache           Terminate after dumping all entries from the cache\n"
+"    -l --ignore-local    Ignore local services\n"
+"    -r --resolve         Resolve services found\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+"    -p --parsable        Output in parsable format\n"
+msgstr ""
+"    -h --help            Вывести данную справку\n"
+"    -V --version         Вывести версию\n"
+"    -D --browse-domains  Искать домены вместо служб\n"
+"    -a --all             Показывать все службы вне зависимости от типа\n"
+"    -d --domain=DOMAIN   Искать в домене\n"
+"    -v --verbose         Включить подробный режим\n"
+"    -t --terminate       Показать более или менее полный список и выйти\n"
+"    -c --cache           Показать все элементы в кэше и выйти\n"
+"    -l --ignore-local    Игнорировать локальные службы\n"
+"    -r --resolve         Преобразовывать найденные службы\n"
+"    -f --no-fail         Не завершать работу, если демон недоступен\n"
+"    -p --parsable        Выводить в машинном формате\n"
+
+msgid ""
+"    -k --no-db-lookup    Don't lookup service types\n"
+"    -b --dump-db         Dump service type database\n"
+msgstr ""
+"    -k --no-db-lookup    Не искать типы служб\n"
+"    -b --dump-db         Вывести базу типов служб\n"
+
+msgid ""
+"%s [options]\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -s --ssh             Browse SSH servers\n"
+"    -v --vnc             Browse VNC servers\n"
+"    -S --shell           Browse both SSH and VNC\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+msgstr ""
+"%s [параметры]\n"
+"\n"
+"    -h --help            Показать эту справку\n"
+"    -s --ssh             Вывести список доступных серверов SSH\n"
+"    -v --vnc             Вывести список доступных серверов VNC\n"
+"    -S --shell           Вывести список доступных серверов SSH и VNC\n"
+"    -d --domain=ДОМЕН    Домен поиска серверов\n"
+
+msgid ""
+"%s [options] %s <host name ...>\n"
+"%s [options] %s <address ... >\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -n --name            Resolve host name\n"
+"    -a --address         Resolve address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -6                   Lookup IPv6 address\n"
+"    -4                   Lookup IPv4 address\n"
+msgstr ""
+"%s [параметры] %s <имя узла...>\n"
+"%s [параметры] %s <адрес... >\n"
+"\n"
+"    -h --help            Вывести данную справку\n"
+"    -V --version         Вывести версию\n"
+"    -n --name            Преобразовать имя узла\n"
+"    -a --address         Преобразовать адрес\n"
+"    -v --verbose         Включить подробный режим\n"
+"    -6                   Искать адрес IPv6\n"
+"    -4                   Искать адрес IPv4\n"
+
+msgid ""
+"%s [options] %s <name> <type> <port> [<txt ...>]\n"
+"%s [options] %s <host-name> <address>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -s --service         Publish service\n"
+"    -a --address         Publish address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -d --domain=DOMAIN   Domain to publish service in\n"
+"    -H --host=DOMAIN     Host where service resides\n"
+"       --subtype=SUBTYPE An additional subtype to register this service "
+"with\n"
+"    -R --no-reverse      Do not publish reverse entry with address\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+msgstr ""
+"%s [параметры] %s <имя> <тип> <порт> [<текст...>]\n"
+"%s [параметры] %s <имя узла> <адрес>\n"
+"\n"
+"    -h --help            Вывести эту справку\n"
+"    -V --version         Вывести версию\n"
+"    -s --service         Опубликовать службу\n"
+"    -a --address         Опубликовать адрес\n"
+"    -v --verbose         Включить подробный режим\n"
+"    -d --domain=ДОМЕН    Домен для публикации службы\n"
+"    -H --host=ДОМЕН      Узел, на котором размещается служба\n"
+"       --subtype=ПОДТИП  Дополнительный подтип для регистрации этой службы\n"
+"    -R --no-reverse      Не опубликовывать элемент обратного адреса\n"
+"    -f --no-fail         Не завершать работу, если процесс службы "
+"недоступен\n"
+
+msgid ""
+"%s [options] <new host name>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -v --verbose         Enable verbose mode\n"
+msgstr ""
+"%s [параметры] <новое имя узла>\n"
+"\n"
+"    -h --help            Вывести данную справку\n"
+"    -V --version         Вывести версию\n"
+"    -v --verbose         Включить подробный режим\n"
+
+msgid ": All for now\n"
+msgstr ": Больше ничего на данный момент\n"
+
+msgid ": Cache exhausted\n"
+msgstr ": Кэш исчерпан\n"
+
+msgid "<i>No service currently selected.</i>"
+msgstr "<i>Служба не выбрана.</i>"
+
+msgid "A NULL terminated list of service types to browse for"
+msgstr "Список типов искомых служб, завершающийся NULL"
+
+msgid "Access denied"
+msgstr "Доступ запрещён"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Address family"
+msgstr "Адресное семейство"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "An unexpected D-Bus error occured"
+msgstr "Неожиданная ошибка D-Bus"
+
+msgid "Avahi Discovery"
+msgstr "Avahi Discovery"
+
+msgid "Avahi SSH Server Browser"
+msgstr "Навигатор Avahi по серверам SSH"
+
+msgid "Avahi VNC Server Browser"
+msgstr "Навигатор Avahi по серверам VNC"
+
+msgid "Avahi Zeroconf Browser"
+msgstr "Обозреватель Avahi Zeroconf"
+
+msgid "Avahi client failure: %s"
+msgstr "Ошибка клиента Avahi: %s"
+
+msgid "Avahi domain browser failure: %s"
+msgstr "Ошибка обозревателя доменов Avahi: %s"
+
+msgid "Avahi resolver failure: %s"
+msgstr "Ошибка преобразователя имён Avahi: %s"
+
+msgid "Bad number of arguments\n"
+msgstr "Неверное количество аргументов\n"
+
+msgid "Bad state"
+msgstr "Неверное состояние"
+
+msgid "Browse Service Types"
+msgstr "Типы искомых служб"
+
+msgid "Browse for Zeroconf services available on your network"
+msgstr "Поиск служб Zeroconf в локальной сети"
+
+msgid "Browse for Zeroconf-enabled SSH Servers"
+msgstr "Просмотр списка серверов SSH с включённой службой Zeroconf"
+
+msgid "Browse for Zeroconf-enabled VNC Servers"
+msgstr "Просмотр списка серверов VNC с включённой службой Zeroconf"
+
+msgid "Browse service type list is empty!"
+msgstr "Список типов искомых служб пуст!"
+
+msgid "Browsing for service type %s in domain %s failed: %s"
+msgstr "Не удалось выполнить поиск службы %s в домене %s: %s"
+
+msgid "Browsing for services in domain <b>%s</b>:"
+msgstr "Поиск служб в домене <b>%s</b>:"
+
+msgid "Browsing for services on <b>local network</b>:"
+msgstr "Поиск служб в <b>локальной сети</b>:"
+
+msgid "Browsing..."
+msgstr "Поиск..."
+
+msgid "Canceled.\n"
+msgstr "Отменено.\n"
+
+msgid "Change domain"
+msgstr "Изменить домен"
+
+msgid "Choose SSH server"
+msgstr "Выберите SSH-сервер"
+
+msgid "Choose Shell Server"
+msgstr "Выберите сервер оболочки"
+
+msgid "Choose VNC server"
+msgstr "Выберите VNC-сервер"
+
+msgid "Client failure, exiting: %s\n"
+msgstr "Ошибка клиента, завершение работы: %s\n"
+
+msgid "Connecting to '%s' ...\n"
+msgstr "Соединение с «%s»...\n"
+
+msgid "DNS failure: FORMERR"
+msgstr "Ошибка DNS: FORMERR"
+
+msgid "DNS failure: NOTAUTH"
+msgstr "Ошибка DNS: NOTAUTH"
+
+msgid "DNS failure: NOTIMP"
+msgstr "Ошибка DNS: NOTIMP"
+
+msgid "DNS failure: NOTZONE"
+msgstr "Ошибка DNS: NOTZONE"
+
+msgid "DNS failure: NXDOMAIN"
+msgstr "Ошибка DNS: NXDOMAIN"
+
+msgid "DNS failure: NXRRSET"
+msgstr "Ошибка DNS: NXRRSET"
+
+msgid "DNS failure: REFUSED"
+msgstr "Ошибка DNS: REFUSED"
+
+msgid "DNS failure: SERVFAIL"
+msgstr "Ошибка DNS: SERVFAIL"
+
+msgid "DNS failure: YXDOMAIN"
+msgstr "Ошибка DNS: YXDOMAIN"
+
+msgid "DNS failure: YXRRSET"
+msgstr "Ошибка DNS: YXRRSET"
+
+msgid "Daemon connection failed"
+msgstr "Не удалось соединиться со службой"
+
+msgid "Daemon not running"
+msgstr "Служба не запущена"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Disconnected, reconnecting ...\n"
+msgstr "Соединение разорвано, повторное подключение...\n"
+
+msgid "Domain"
+msgstr "Домен"
+
+msgid "Domain Name:"
+msgstr "Название домена:"
+
+msgid "E Ifce Prot %-*s %-20s Domain\n"
+msgstr "А Интр Прот %-*s %-20s Домен\n"
+
+msgid "E Ifce Prot Domain\n"
+msgstr "А Интр Прот Домен\n"
+
+msgid "Established under name '%s'\n"
+msgstr "Образована под именем «%s»\n"
+
+msgid "Failed to add address: %s\n"
+msgstr "Не удалось добавить адрес: %s\n"
+
+msgid "Failed to add service: %s\n"
+msgstr "Не удалось добавить службу: %s\n"
+
+msgid "Failed to add subtype '%s': %s\n"
+msgstr "Не удалось добавить подтип «%s»: %s\n"
+
+msgid "Failed to connect to Avahi server: %s"
+msgstr "Не удалось подключиться к серверу Avahi: %s"
+
+msgid "Failed to create address resolver: %s\n"
+msgstr "Не удалось создать преобразователь адресов: %s\n"
+
+msgid "Failed to create browser for %s: %s"
+msgstr "Не удалось создать обозреватель для %s: %s"
+
+msgid "Failed to create client object: %s\n"
+msgstr "Не удалось создать объект клиента: %s\n"
+
+msgid "Failed to create domain browser: %s"
+msgstr "Не удалось создать обозреватель доменов: %s"
+
+msgid "Failed to create entry group: %s\n"
+msgstr "Не удалось создать группу элементов: %s\n"
+
+msgid "Failed to create host name resolver: %s\n"
+msgstr "Не удалось создать преобразователь имён узлов: %s\n"
+
+msgid "Failed to create resolver for %s of type %s in domain %s: %s"
+msgstr "Не удалось создать преобразователь имён для %s типа %s в домене %s: %s"
+
+msgid "Failed to create simple poll object.\n"
+msgstr "Не удалось создать объект простого опроса.\n"
+
+msgid "Failed to parse address '%s'\n"
+msgstr "Не удалось разобрать адрес «%s»\n"
+
+msgid "Failed to parse port number: %s\n"
+msgstr "Ошибка разбора номера порта: %s\n"
+
+msgid "Failed to query host name: %s\n"
+msgstr "Не удалось запросить имя узла: %s\n"
+
+msgid "Failed to query version string: %s\n"
+msgstr "Не удалось запросить строку версии: %s\n"
+
+msgid "Failed to read Avahi domain: %s"
+msgstr "Не удалось открыть домен Avahi: %s"
+
+msgid "Failed to register: %s\n"
+msgstr "Не удалось зарегистрировать: %s\n"
+
+msgid "Failed to resolve address '%s': %s\n"
+msgstr "Не удалось преобразовать адрес «%s»: %s\n"
+
+msgid "Failed to resolve host name '%s': %s\n"
+msgstr "Не удалось преобразовать имя узла «%s»: %s\n"
+
+msgid "Failed to resolve service '%s' of type '%s' in domain '%s': %s\n"
+msgstr "Не удалось преобразовать службу «%s» типа «%s» в домене «%s»: %s\n"
+
+msgid "Host Name"
+msgstr "Имя узла"
+
+msgid "Host name conflict\n"
+msgstr "Конфликт имени узла\n"
+
+msgid "Host name successfully changed to %s\n"
+msgstr "Имя узла успешно изменено на %s\n"
+
+msgid "Initializing..."
+msgstr "Инициализация..."
+
+msgid "Interface:"
+msgstr "Интерфейс:"
+
+msgid "Invalid DNS TTL"
+msgstr "Неверный TTL DNS"
+
+msgid "Invalid DNS class"
+msgstr "Неверный класс DNS"
+
+msgid "Invalid DNS return code"
+msgstr "Неверный код возврата DNS"
+
+msgid "Invalid DNS type"
+msgstr "Неверный тип DNS"
+
+msgid "Invalid Error Code"
+msgstr "Неверный код ошибки"
+
+msgid "Invalid RDATA"
+msgstr "Неверный формат RDATA"
+
+msgid "Invalid address"
+msgstr "Неверный адрес"
+
+msgid "Invalid argument"
+msgstr "Неверный аргумент"
+
+msgid "Invalid configuration"
+msgstr "Неверная конфигурация"
+
+msgid "Invalid domain name"
+msgstr "Неверное имя домена"
+
+msgid "Invalid flags"
+msgstr "Неверные флаги"
+
+msgid "Invalid host name"
+msgstr "Неверное имя узла"
+
+msgid "Invalid interface index"
+msgstr "Неверный индекс интерфейса"
+
+msgid "Invalid number of arguments, expecting exactly one.\n"
+msgstr "Неверное число аргументов, ожидается ровно один.\n"
+
+msgid "Invalid operation"
+msgstr "Неверная операция"
+
+msgid "Invalid packet"
+msgstr "Неверный пакет"
+
+msgid "Invalid port number"
+msgstr "Неверный номер порта"
+
+msgid "Invalid protocol specification"
+msgstr "Неверная спецификация протокола"
+
+msgid "Invalid record"
+msgstr "Неверная запись"
+
+msgid "Invalid record key"
+msgstr "Неверный ключ записи"
+
+msgid "Invalid service name"
+msgstr "Неверное имя службы"
+
+msgid "Invalid service subtype"
+msgstr "Неверный подтип службы"
+
+msgid "Invalid service type"
+msgstr "Неверный тип службы"
+
+msgid "Is empty"
+msgstr "Пустая группа"
+
+msgid "Local name collision"
+msgstr "Перекрытие локальных имён"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Memory exhausted"
+msgstr "Память исчерпана"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name collision, picking new name '%s'.\n"
+msgstr "Коллизия имён, выбрано новое имя «%s».\n"
+
+msgid "No command specified.\n"
+msgstr "Не указана команда.\n"
+
+msgid "No suitable network protocol available"
+msgstr "Не найден подходящий сетевой протокол"
+
+msgid "Not found"
+msgstr "Не найден"
+
+msgid "Not permitted"
+msgstr "Не разрешено"
+
+msgid "Not supported"
+msgstr "Не поддерживается"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "OS Error"
+msgstr "Ошибка ОС"
+
+msgid "Operation failed"
+msgstr "Сбой операции"
+
+msgid "Port"
+msgstr "Порт"
+
+msgid "Resolve Service"
+msgstr "Определение службы"
+
+msgid "Resolve Service Host Name"
+msgstr "Определить имя узла службы"
+
+msgid ""
+"Resolve the host name of the selected service automatically before returning"
+msgstr "Автоматически определить имя узла выбранной службы перед возвратом"
+
+msgid "Resolve the selected service automatically before returning"
+msgstr "Автоматически определить выбранную службу перед возвратом"
+
+msgid "Resource record key is pattern"
+msgstr "Ключ записи ресурса является шаблоном"
+
+msgid "Server version: %s; Host name: %s\n"
+msgstr "Версия сервера: %s; Имя узла: %s\n"
+
+msgid "Service Name"
+msgstr "Имя службы"
+
+msgid "Service Name:"
+msgstr "Имя службы:"
+
+msgid "Service Type"
+msgstr "Тип службы"
+
+msgid "Service Type:"
+msgstr "Тип службы:"
+
+msgid "TXT"
+msgstr "TXT"
+
+msgid "TXT Data"
+msgstr "Данные TXT"
+
+msgid "TXT Data:"
+msgstr "Данные TXT:"
+
+msgid "Terminal"
+msgstr "Терминал"
+
+msgid "The IP port number of the resolved service"
+msgstr "Номер порта протокола IP определённого устройства"
+
+msgid "The TXT data of the resolved service"
+msgstr "Данные TXT определённого устройства"
+
+msgid "The address family for host name resolution"
+msgstr "Определение адресного семейства для имени узла"
+
+msgid "The address of the resolved service"
+msgstr "Адрес определённого устройства"
+
+msgid "The domain to browse in, or NULL for the default domain"
+msgstr "Домен поиска или домен по умолчанию, если NULL"
+
+msgid "The host name of the resolved service"
+msgstr "Имя узла определённого устройства"
+
+msgid "The object passed in was not valid"
+msgstr "Переданный объект недействителен"
+
+msgid "The requested operation is invalid because redundant"
+msgstr "Запрошенная операция неверна, поскольку является излишней"
+
+msgid "The service name of the selected service"
+msgstr "Имя выбранной службы"
+
+msgid "The service type of the selected service"
+msgstr "Тип выбранной службы"
+
+msgid "Timeout reached"
+msgstr "Время ожидания истекло"
+
+msgid "Too few arguments\n"
+msgstr "Слишком мало аргументов\n"
+
+msgid "Too many arguments\n"
+msgstr "Слишком много аргументов\n"
+
+msgid "Too many clients"
+msgstr "Слишком много клиентов"
+
+msgid "Too many entries"
+msgstr "Слишком много элементов"
+
+msgid "Too many objects"
+msgstr "Слишком много объектов"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Version mismatch"
+msgstr "Несоответствие версий"
+
+msgid "Waiting for daemon ...\n"
+msgstr "Ожидание демона...\n"
+
+msgid "_Domain..."
+msgstr "_Домен..."
+
+msgid "avahi_domain_browser_new() failed: %s\n"
+msgstr "Сбой выполнения avahi_domain_browser_new(): %s\n"
+
+msgid "avahi_service_browser_new() failed: %s\n"
+msgstr "Сбой выполнения avahi_service_browser_new(): %s\n"
+
+msgid "avahi_service_type_browser_new() failed: %s\n"
+msgstr "Сбой выполнения avahi_service_type_browser_new(): %s\n"
+
+msgid "empty"
+msgstr "пусто"
+
+msgid "execlp() failed: %s\n"
+msgstr "Сбой выполнения execlp(): %s\n"
+
+msgid "n/a"
+msgstr "н/д"
+
+msgid "service_browser failed: %s\n"
+msgstr "Ошибка в service_browser: %s\n"
+
+msgid "service_type_browser failed: %s\n"
+msgstr "Ошибка в service_type_browser: %s\n"

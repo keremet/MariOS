@@ -1,0 +1,776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-keyring trunk\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"keyring&component=general\n"
+"POT-Creation-Date: 2010-09-13 06:35+0000\n"
+"PO-Revision-Date: 2010-09-24 08:55+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "<Not Part of Certificate>"
+msgstr "<Не часть сертификата>"
+
+msgid "<b>Fingerprints</b>"
+msgstr "<b>Отпечатки пальцев</b>"
+
+msgid "<b>Issued By</b>"
+msgstr "<b>Источник</b>"
+
+msgid "<b>Issued To</b>"
+msgstr "<b>Получатель</b>"
+
+msgid "<b>This certificate has been verified for the following uses:</b>"
+msgstr "<b>Этот сертификат был выдан для следующего:</b>"
+
+msgid "<b>Validity</b>"
+msgstr "<b>Действительность</b>"
+
+msgid "<i>Not Part of Certificate</i>"
+msgstr "<i>Не часть сертификата</i>"
+
+msgid "<i>unknown</i>"
+msgstr "<i>неизвестно</i>"
+
+msgid "<span size='large' weight='bold'>Import Certificates and Keys</span>"
+msgstr "<span size='large' weight='bold'>Импорт ключей и сертификатов</span>"
+
+msgid "A key is needed"
+msgstr "Необходим ключ"
+
+msgid "A read-only session exists"
+msgstr "Есть сеанс только для чтения"
+
+msgid "An administrator session exists"
+msgstr "Есть административный сеанс"
+
+msgid "An application wants access to '%s', but it is locked"
+msgstr "Приложение хочет получить доступ к «%s», но он заблокирован"
+
+msgid "An application wants access to the certificate '%s', but it is locked"
+msgstr ""
+"Приложение хочет получить доступ к сертификату «%s», но он заблокирован"
+
+msgid ""
+"An application wants access to the certificate/key storage '%s', but it is "
+"locked"
+msgstr ""
+"Приложение хочет получить доступ к сертификату/хранилищу ключей «%s», но "
+"доступ заблокирован"
+
+msgid "An application wants access to the keyring '%s', but it is locked"
+msgstr ""
+"Приложение хочет получить доступ к связке ключей «%s», но она заблокирован"
+
+msgid "An application wants access to the private key '%s', but it is locked"
+msgstr ""
+"Приложение хочет получить доступ к секретному ключу «%s», но он заблокирован"
+
+msgid "An application wants access to the public key '%s', but it is locked"
+msgstr ""
+"Приложение хочет получить доступ к открытому ключу «%s», но он заблокирован"
+
+msgid ""
+"An application wants to change the password for the '%s' keyring. Choose the "
+"new password you want to use for it."
+msgstr ""
+"Приложение хочет изменить пароль для связки ключей «%s». Укажите новый "
+"пароль, который хотите использовать."
+
+msgid ""
+"An application wants to create a new keyring called '%s'. Choose the "
+"password you want to use for it."
+msgstr ""
+"Приложение хочет создать новую связку ключей с именем «%s». Необходимо "
+"выбрать пароль для этой связки ключей."
+
+msgid "An error occurred on the device"
+msgstr "На устройстве произошла ошибка"
+
+msgid "An open session exists"
+msgstr "Есть открытый сеанс"
+
+msgid "Another operation is already taking place"
+msgstr "В данный момент выполняется другое действие"
+
+msgid "Another user is already logged in"
+msgstr "Другой пользователь уже вошёл"
+
+msgid "Automatically unlock this keyring whenever I'm logged in"
+msgstr "Автоматически разблокировать эту связку ключей после входа в систему"
+
+msgid ""
+"By choosing to use a blank password, your stored passwords will not be "
+"safely encrypted. They will be accessible by anyone with access to your "
+"files."
+msgstr ""
+"Если ввести пустой пароль, то ваши хранимые пароли не будут надёжно "
+"зашифрованы. Они будут доступны любому, кто имеет доступ к вашим файлам."
+
+msgid "Cannot export because the key is invalid"
+msgstr "Не удалось экспортировать, потому что ключ неверен"
+
+msgid "Cannot export because the key is of the wrong size"
+msgstr "Не удалось экспортировать, потому что ключ имеет неверный размер"
+
+msgid "Cannot export because the key is of the wrong type"
+msgstr "Не удалось экспортировать, потому что ключ имеет неправильный тип"
+
+msgid "Cannot export this key"
+msgstr "Не удалось экспортировать этот ключ"
+
+msgid "Cannot import a key of the wrong size"
+msgstr "Не удалось импортировать ключ неверного размера"
+
+msgid "Cannot import an invalid key"
+msgstr "Не удалось импортировать неверный ключ"
+
+msgid "Cannot import because the key is invalid"
+msgstr "Не удалось импортировать, поскольку ключ неверен"
+
+msgid "Cannot import because the key is of the wrong size"
+msgstr "Не удалось импортировать, поскольку ключ неправильной длины"
+
+msgid "Cannot import because the key is of the wrong type"
+msgstr "Не удалось импортировать, поскольку ключ неправильного типа"
+
+msgid "Cannot include the key in digest"
+msgstr "Не удалось включить ключ в digest"
+
+msgid "Cannot lock data"
+msgstr "Не удалось заблокировать данные"
+
+msgid "Certain fields have invalid values"
+msgstr "Некоторые поля имеют неверные значения"
+
+msgid "Certain required fields are missing"
+msgstr "Некоторые обязательные поля отсутствуют"
+
+msgid "Certificate"
+msgstr "Сертификат"
+
+msgid "Certificate and Key Storage"
+msgstr "Хранилище сертификатов и ключей"
+
+msgid "Change Keyring Password"
+msgstr "Смена пароля связки ключей"
+
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+msgid "Change password for secure storage"
+msgstr "Изменить пароль для хранилища"
+
+msgid "Choose a location to store the imported certificates/keys."
+msgstr "Выберите место для хранения импортированных ключей и сертификатов."
+
+msgid "Choose a new password for the '%s' keyring"
+msgstr "Выберите новый пароль для связки ключей «%s»."
+
+msgid "Choose password for new keyring"
+msgstr "Выберите пароль для новой связки ключей"
+
+msgid "Common Name"
+msgstr "Общее имя"
+
+msgid "Common Name (CN)"
+msgstr "Общее имя (CN)"
+
+msgid "Could not parse invalid or corrupted data."
+msgstr "Не удалось разобрать неверные или повреждённые данные."
+
+msgid "Couldn't parse public SSH key"
+msgstr "Не удалось разобрать открытый ключ SSH"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Country of Citizenship"
+msgstr "Гражданство"
+
+msgid "Country of Residence"
+msgstr "Страна проживания"
+
+msgid "Critical"
+msgstr "Критический"
+
+msgid "DN Qualifier"
+msgstr "Отметка различительного имени"
+
+msgid "DSA"
+msgstr "DSA"
+
+msgid "Date of Birth"
+msgstr "Дата рождения"
+
+msgid "Domain Component"
+msgstr "Область имён"
+
+msgid "Email"
+msgstr "Эл. почта"
+
+msgid "Email Recipient Certificate"
+msgstr "Сертификат получателя почты"
+
+msgid "Email Signer Certificate"
+msgstr "Сертификат отправителя почты"
+
+msgid "Enter Passphrase"
+msgstr "Введите идентификационную фразу"
+
+msgid "Enter password for keyring '%s' to unlock"
+msgstr "Введите пароль для разблокирования связки ключей «%s»"
+
+msgid "Enter password to unlock"
+msgstr "Введите пароль для разблокирования"
+
+msgid "Enter password to unlock the certificate"
+msgstr "Введите пароль для разблокирования сертификата"
+
+msgid "Enter password to unlock the certificate/key storage"
+msgstr "Введите пароль для разблокирования сертификата/хранилища ключей"
+
+msgid "Enter password to unlock the private key"
+msgstr "Введите пароль для разблокирования секретного ключа"
+
+msgid "Enter password to unlock the public key"
+msgstr "Введите пароль для разблокирования открытого ключа"
+
+msgid "Enter password to unlock your login keyring"
+msgstr "Введите пароль для разблокировки связки ключей для входа в систему"
+
+msgid "Expires On"
+msgstr "Истекает"
+
+msgid "Extension"
+msgstr "Расширение"
+
+msgid "Fingerprints"
+msgstr "Отпечатки пальцев"
+
+msgid "Forget this password after"
+msgstr "Забыть этот пароль после"
+
+msgid "Forget this password if idle for"
+msgstr "Забыть этот пароль при простое"
+
+msgid "Forget this password when I log out"
+msgstr "Забыть этот пароль при входе в систему"
+
+msgid "GNOME Keyring: GPG Agent"
+msgstr "Связка ключей GNOME: GPG-агент"
+
+msgid "GNOME Keyring: PKCS#11 Component"
+msgstr "Связка ключей GNOME: компонент PKCS#11"
+
+msgid "GNOME Keyring: SSH Agent"
+msgstr "Связка ключей GNOME: SSH-агент"
+
+msgid "GNOME Keyring: Secret Service"
+msgstr "Связка ключей GNOME: служба безопасности"
+
+msgid "GPG Password Agent"
+msgstr "Агент пароля GPG"
+
+msgid "Gender"
+msgstr "Пол"
+
+msgid "Generation Qualifier"
+msgstr "Отметка поколения"
+
+msgid "Given Name"
+msgstr "Имя"
+
+msgid "Identifier"
+msgstr "Идентификатор"
+
+msgid "Import Certificates/Keys"
+msgstr "Импортировать ключи/сертификаты"
+
+msgid "Import Into:"
+msgstr "Импортировать в:"
+
+msgid "In order to import '%s', it must be unlocked"
+msgstr "Чтобы импортировать «%s», нужно разблокировать его"
+
+msgid "In order to import the certificate '%s', it must be unlocked"
+msgstr "Необходимо разблокировать сертификат «%s», чтобы импортировать его"
+
+msgid "In order to import the certificate, it must be unlocked"
+msgstr "Необходимо разблокировать сертификат «%s», чтобы импортировать его"
+
+msgid "In order to import the data, it must be unlocked"
+msgstr "Необходимо разблокировать данные, чтобы импортировать их"
+
+msgid "In order to import the private key '%s', it must be unlocked"
+msgstr "Необходимо разблокировать секретный ключ «%s», чтобы импортировать его"
+
+msgid "In order to import the private key, it must be unlocked"
+msgstr "Необходимо разблокировать секретный ключ, чтобы импортировать его"
+
+msgid ""
+"In order to prepare '%s' for storage of certificates or keys, a password is "
+"required"
+msgstr ""
+"Чтобы подготовить «%s» для хранения сертификатов и ключей необходимо задать "
+"пароль"
+
+msgid "Initials"
+msgstr "Инициалы"
+
+msgid "Insufficient memory available"
+msgstr "Не хватает доступной памяти"
+
+msgid "Insufficient memory available on device"
+msgstr "Недостаточно памяти, доступной на устройстве"
+
+msgid "Internal error"
+msgstr "Внутренняя ошибка"
+
+msgid "Invalid arguments"
+msgstr "Неправильные параметры"
+
+msgid "Invalid value for field"
+msgstr "Неверное значение поля"
+
+msgid "Issued Certificate"
+msgstr "Выданный сертификат"
+
+msgid "Issued On"
+msgstr "Выпущен"
+
+msgid "Issuer Name"
+msgstr "Имя выдающего"
+
+msgid "Key Algorithm"
+msgstr "Алгоритм ключа"
+
+msgid "Key Parameters"
+msgstr "Параметры ключа"
+
+msgid "Key Size"
+msgstr "Размер ключа"
+
+msgid "Locality"
+msgstr "Местность"
+
+msgid "Lock this keyring after"
+msgstr "Блокировать данную связку ключей после"
+
+msgid "Lock this keyring if idle for"
+msgstr "Блокировать данную связку ключей, если простаивает в течении"
+
+msgid "Lock this keyring when I log out"
+msgstr "Автоматически блокировать связку ключей после выхода из системы"
+
+msgid "Login"
+msgstr "Вход"
+
+msgid "MD2 with RSA"
+msgstr "MD2 с ключом RSA"
+
+msgid "MD5 Fingerprint"
+msgstr "Отпечаток MD5"
+
+msgid "MD5 with RSA"
+msgstr "MD5 с ключом RSA"
+
+msgid "New Keyring Password"
+msgstr "Пароль для новой связки ключей"
+
+msgid "New Password Required"
+msgstr "Требуется задать новый пароль"
+
+msgid "New password required for secure storage"
+msgstr "Для хранилища нужно задать новый пароль"
+
+msgid "New password strength"
+msgstr "Стойкость нового пароля"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No key is needed"
+msgstr "Ключ не нужен"
+
+msgid "No location available to import to"
+msgstr "Нет хранилища для импорта"
+
+msgid "No operation is taking place"
+msgstr "Действий не проводится"
+
+msgid "No random number generator available"
+msgstr "Генератор случайных чисел недоступен"
+
+msgid "No user has logged in"
+msgstr "Нет вошедших пользователей"
+
+msgid "Not Valid After"
+msgstr "Не действителен после"
+
+msgid "Not Valid Before"
+msgstr "Не действителен до"
+
+msgid "Not enough space to store the result"
+msgstr "Недостаточно места для сохранения результата"
+
+msgid "Organization"
+msgstr "Организация"
+
+msgid "Organization (O)"
+msgstr "Организация (O)"
+
+msgid "Organizational Unit"
+msgstr "Подразделение"
+
+msgid "Organizational Unit (OU)"
+msgstr "Подразделение (OU)"
+
+msgid "PGP Key: %s"
+msgstr "Ключ PGP: %s"
+
+msgid "Password cannot be blank"
+msgstr "Пароль не может быть пустым"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Passwords do not match."
+msgstr "Пароли не совпадают."
+
+msgid "Place of Birth"
+msgstr "Место рождения"
+
+msgid "Private Key"
+msgstr "Секретный ключ"
+
+msgid "Pseudonym"
+msgstr "Псевдоним"
+
+msgid "Public Key"
+msgstr "Открытый ключ"
+
+msgid "Public Key Info"
+msgstr "Информация об открытом ключе"
+
+msgid "RSA"
+msgstr "RSA"
+
+msgid "SHA1 Fingerprint"
+msgstr "Отпечаток SHA1"
+
+msgid "SHA1 with DSA"
+msgstr "SHA1 с ключом DSA"
+
+msgid "SHA1 with RSA"
+msgstr "SHA1 с ключом RSA"
+
+msgid "SSH Key Agent"
+msgstr "Агент ключей SSH"
+
+msgid "SSL Client Certificate"
+msgstr "Сертификат клиента SSL"
+
+msgid "SSL Server Certificate"
+msgstr "Сертификат сервера SSL"
+
+msgid "Secret Storage Service"
+msgstr "Служба безопасного хранения"
+
+msgid "Serial Number"
+msgstr "Серийный номер"
+
+msgid "Signature"
+msgstr "Подпись"
+
+msgid "Signature Algorithm"
+msgstr "Алгоритм подписи"
+
+msgid "Signature Parameters"
+msgstr "Параметры подписи"
+
+msgid "State"
+msgstr "Область"
+
+msgid "Store passwords unencrypted?"
+msgstr "Хранить пароли нешифрованными?"
+
+msgid "Street"
+msgstr "Улица"
+
+msgid "Subject Name"
+msgstr "Имя получателя"
+
+msgid "Surname"
+msgstr "Фамилия"
+
+msgid "Telephone Number"
+msgstr "Номер телефона"
+
+msgid "The crypto mechanism has an invalid argument"
+msgstr "Механизм шифрования имеет неверный параметр"
+
+msgid "The crypto mechanism has an invalid parameter"
+msgstr "Механизм шифрования имеет неверный параметр"
+
+msgid "The crypto mechanism is invalid or unrecognized"
+msgstr "Механизм шифрования неверен или не распознан"
+
+msgid "The data cannot be locked"
+msgstr "Данные не могут быть заблокированы"
+
+msgid "The data is locked"
+msgstr "Данные заблокированы"
+
+msgid "The data is not valid or unrecognized"
+msgstr "Данные неверны или не распознаны"
+
+msgid "The data is too long"
+msgstr "Данные слишком длинные"
+
+msgid "The device is invalid or unrecognizable"
+msgstr "Устройство неверно или неопознаваемо"
+
+msgid "The device is not present or unplugged"
+msgstr "Устройство отсутствует или отключено"
+
+msgid "The device is write protected"
+msgstr "Устройство защищено от записи"
+
+msgid "The device was removed or unplugged"
+msgstr "Устройство было удалено или отключено"
+
+msgid "The encrypted data is not valid or unrecognized"
+msgstr "Зашифрованные данные неверны или не распознаны"
+
+msgid "The encrypted data is too long"
+msgstr "Зашифрованные данные слишком длинные"
+
+msgid "The field is invalid or does not exist"
+msgstr "Поле некорректно или не существует"
+
+msgid "The field is read-only"
+msgstr "Поле доступно только для чтения"
+
+msgid "The field is sensitive and cannot be revealed"
+msgstr "Поле содержит важную информацию и не может быть показано"
+
+msgid "The information is sensitive and cannot be revealed"
+msgstr "Информация важна и не может быть раскрыта"
+
+msgid "The key cannot be wrapped"
+msgstr "Этот ключ не может быть разбит"
+
+msgid "The key is different from before"
+msgstr "Ключ отличается от предыдущего"
+
+msgid "The key is missing or invalid"
+msgstr "Ключ отсутствует или неверен"
+
+msgid "The key is of the wrong type"
+msgstr "Ключ имеет неправильный тип"
+
+msgid "The key is the wrong size"
+msgstr "Ключ неправильного размера"
+
+msgid ""
+"The login keyring did not get unlocked when you logged into your computer."
+msgstr ""
+"Ваша связка ключей для входа в систему не была автоматически разблокирована, "
+"когда вы зарегистрировались в компьютере."
+
+msgid "The module cannot create needed threads"
+msgstr "Модуль не может создать необходимые потоки"
+
+msgid "The module cannot lock data properly"
+msgstr "Модуль не может блокировать данные должным образом"
+
+msgid "The module has already been initialized"
+msgstr "Модуль уже инициализирован"
+
+msgid "The module has not been initialized"
+msgstr "Модуль не инициализирован"
+
+msgid "The object is missing or invalid"
+msgstr "Объект отсутствует или неверен"
+
+msgid "The operation failed"
+msgstr "Не удалось выполнить операцию"
+
+msgid "The operation was cancelled"
+msgstr "Операция была отменена"
+
+msgid "The original password was incorrect"
+msgstr "Неверный исходный пароль"
+
+msgid "The password or PIN has expired"
+msgstr "Пароль или PIN устарел"
+
+msgid "The password or PIN is incorrect"
+msgstr "Пароль или PIN неправилен"
+
+msgid "The password or PIN is invalid"
+msgstr "Пароль или PIN неверен"
+
+msgid "The password or PIN is locked"
+msgstr "Пароль или PIN заблокирован"
+
+msgid "The password or PIN is of an invalid length"
+msgstr "Пароль или PIN неверной длинны"
+
+msgid ""
+"The password you use to log in to your computer no longer matches that of "
+"your login keyring."
+msgstr ""
+"Пароль, который вы используете для входа, больше не соответствует паролю "
+"связки ключей для входа в систему"
+
+msgid "The saved state is invalid"
+msgstr "Сохранённое состояние неверно"
+
+msgid "The session is closed"
+msgstr "Сеанс закрыт"
+
+msgid "The session is invalid"
+msgstr "Сеанс некорректен"
+
+msgid "The session is read-only"
+msgstr "Сеанс доступен только для чтения"
+
+msgid "The signature is bad or corrupted"
+msgstr "Подпись плохая или повреждена"
+
+msgid "The signature is unrecognized or corrupted"
+msgstr "Подпись не распознана или повреждена"
+
+msgid "The signature request was rejected by the user"
+msgstr "Запрос подписи был отклонён пользователем"
+
+msgid "The specified slot ID is not valid"
+msgstr "Указанный ID слота не правилен"
+
+msgid "The state cannot be saved"
+msgstr "Состояние не может быть сохранено"
+
+msgid "The unlock password was incorrect"
+msgstr "Неверный пароль разблокировки"
+
+msgid "The user is of an invalid type"
+msgstr "Пользователь неверного типа"
+
+msgid "The user's password or PIN is not set"
+msgstr "Пароль пользователя, или его PIN не установлен"
+
+msgid "This operation cannot be done with this key"
+msgstr "Эта операция не может быть сделана с этим ключом"
+
+msgid "This operation is not supported"
+msgstr "Эта операция не поддерживается"
+
+msgid "Title"
+msgstr "Название"
+
+msgid ""
+"To change the password for '%s', the original and new passwords are required"
+msgstr ""
+"Чтобы изменить пароль для «%s», требуется исходный пароль и новый пароль"
+
+msgid "Too many sessions are active"
+msgstr "Слишком много активных сеансов"
+
+msgid "Too many users of different types logged in"
+msgstr "Вошли слишком много пользователей разных типов"
+
+msgid "Unable to initialize the random number generator"
+msgstr "Невозможно проинициализировать генератор случайных чисел"
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr ""
+"Неизвестная ошибка в select() при чтении данных из дочернего процесса (%s)"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "Неизвестная ошибка в waitpid() (%s)"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unlock"
+msgstr "Разблокирование"
+
+msgid "Unlock Keyring"
+msgstr "Разблокирование связки ключей"
+
+msgid "Unlock Login Keyring"
+msgstr "Разблокирование связки ключей для входа в систему"
+
+msgid "Unlock certificate"
+msgstr "Разблокирование сертификата"
+
+msgid "Unlock certificate/key storage"
+msgstr "Разблокировать сертификат/хранилище ключей"
+
+msgid "Unlock password for: %s"
+msgstr "Пароль для разблокирования: %s"
+
+msgid "Unlock private key"
+msgstr "Разблокирование секретного ключа"
+
+msgid "Unlock public key"
+msgstr "Разблокирование открытого ключа"
+
+msgid "Unnamed"
+msgstr "Безымянный"
+
+msgid "Unnamed Certificate"
+msgstr "Безымянный сертификат"
+
+msgid "Unrecognized or unsupported data."
+msgstr "Нераспознанные или неподдерживаемые данные."
+
+msgid "Use Unsafe Storage"
+msgstr "Использовать небезопасное хранилище"
+
+msgid "User ID"
+msgstr "Идентификатор пользователя"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Version"
+msgstr "Версия"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You are already logged in"
+msgstr "Вы уже вошли"
+
+msgid "_Application:"
+msgstr "П_риложение:"
+
+msgid "_Confirm:"
+msgstr "По_дтвердите пароль:"
+
+msgid "_Details:"
+msgstr "_Подробности:"
+
+msgid "_Name:"
+msgstr "_Имя"
+
+msgid "_Old Password:"
+msgstr "_Старый пароль:"
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "minutes"
+msgstr "мин"

@@ -1,0 +1,180 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libexif-gtk 0.3.6cvs3\n"
+"Report-Msgid-Bugs-To: libexif-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2013-03-06 22:16+0100\n"
+"PO-Revision-Date: 2013-02-28 22:00+0100\n"
+"Last-Translator: Вячеслав Диконов <sdiconov@mail.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Aperture priority"
+msgstr "Приоритет диафрагмы"
+
+msgid "Average"
+msgstr "Средний"
+
+msgid "Center-Weighted Average"
+msgstr "Центрально-взвешенный средний"
+
+msgid "Centimeter"
+msgstr "Сантиметр"
+
+msgid "Cloudy weather"
+msgstr "Облачность"
+
+msgid "Creative program (biased toward depth of field)"
+msgstr "Творческая программа (с приоритетом глубины резкости)"
+
+msgid "D55"
+msgstr "D55"
+
+msgid "D65"
+msgstr "D65"
+
+msgid "D75"
+msgstr "D75"
+
+msgid "Day white fluorescent"
+msgstr "Белая лампа дневного света"
+
+msgid "Daylight"
+msgstr "Дневной свет"
+
+msgid "Daylight fluorescent"
+msgstr "Флуоресцентная лампа дневного света"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Fine weather"
+msgstr "Ясная погода"
+
+msgid "Flash"
+msgstr "Вспышка"
+
+msgid "Flash fired"
+msgstr "Вспышка сработала"
+
+msgid "Fluorescent"
+msgstr "Флуоресцентная лампа"
+
+msgid "ISO studio tungsten"
+msgstr "Студийное вольфрамовое освещение ISO"
+
+msgid "Inch"
+msgstr "Дюйм"
+
+msgid "JPEG compression"
+msgstr "Сжатие JPEG"
+
+msgid "Landscape mode (for landscape photos with the background in focus)"
+msgstr "Альбомный режим (для альбомных фото с передним планом в фокусе)"
+
+msgid "Load"
+msgstr "Загрузить"
+
+msgid "Load..."
+msgstr "Загрузить..."
+
+msgid "Manual"
+msgstr "Ручная"
+
+msgid "Multi Spot"
+msgstr "По многим точкам"
+
+msgid "No thumbnail available."
+msgstr "Нет миниатюрного изображения."
+
+msgid "Normal program"
+msgstr "Нормальная программа"
+
+msgid "Not defined"
+msgstr "Не определено"
+
+msgid "One-chip color area sensor"
+msgstr "Одночиповый датчик цветовой области"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Partial"
+msgstr "Частичный замер"
+
+msgid "Pattern"
+msgstr "Шаблон"
+
+msgid "Portrait mode (for closeup photos with the background out of focus)"
+msgstr ""
+"Портретный режим (съёмка с близкого расстояния с передним планом вне фокуса)"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save As..."
+msgstr "Сохранить как..."
+
+msgid "Shade"
+msgstr "Тень"
+
+msgid "Shutter priority"
+msgstr "Приоритет выдержки"
+
+msgid "Size: %i bytes."
+msgstr "Размер: %i байт."
+
+msgid "Spot"
+msgstr "Точечный замер"
+
+msgid "Standard light A"
+msgstr "Стандартный свет A"
+
+msgid "Standard light B"
+msgstr "Стандартный свет B"
+
+msgid "Standard light C"
+msgstr "Стандартный свет C"
+
+msgid "Three-chip color area sensor"
+msgstr "Трехчиповый датчик цветовой области"
+
+msgid "Thumbnail"
+msgstr "Эскиз"
+
+msgid "Tungsten"
+msgstr "Лампа накаливания"
+
+msgid "Two-chip color area sensor"
+msgstr "Двухчиповый датчик цветовой области"
+
+msgid "Uncompressed"
+msgstr "Несжатый"
+
+msgid "Undefined"
+msgstr "Не определено"
+
+msgid "Unicode"
+msgstr "Юникод (Unicode)"
+
+msgid "Unit:"
+msgstr "Подразделение:"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "White fluorescent"
+msgstr "Белая газоразрядная лампа"

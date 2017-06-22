@@ -1,0 +1,1694 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: nano 2.3.3pre2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-05 03:46-0400\n"
+"PO-Revision-Date: 2014-05-27 08:39+0200\n"
+"Last-Translator: Pavel Maryanov <acid@jack.kiev.ua>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.6.5\n"
+
+msgid ""
+"\n"
+" Compiled options:"
+msgstr ""
+"\n"
+" Параметры сборки:"
+
+msgid ""
+"\n"
+"Buffer not written to %s: %s\n"
+msgstr ""
+"\n"
+"Буфер не записан в %s: %s\n"
+
+msgid ""
+"\n"
+"Buffer not written: %s\n"
+msgstr ""
+"\n"
+"Буфер не записан в %s\n"
+
+msgid ""
+"\n"
+"Buffer written to %s\n"
+msgstr ""
+"\n"
+"Буфер записан в %s\n"
+
+msgid ""
+"\n"
+"Press Enter to continue\n"
+msgstr ""
+"\n"
+"Нажмите ВВОД для продолжения.\n"
+
+msgid ""
+"\n"
+"Press Enter to continue starting nano.\n"
+msgstr ""
+"\n"
+"Нажмите ВВОД для продолжения запуска nano.\n"
+
+msgid " (to replace)"
+msgstr " (что менять)"
+
+msgid " (to replace) in selection"
+msgstr " (что менять) в выделении"
+
+msgid " Email: nano@nano-editor.org\tWeb: http://www.nano-editor.org/"
+msgstr " Эл. почта: nano@nano-editor.org\tСайт: http://www.nano-editor.org/"
+
+msgid ""
+" The following function keys are available in Browser Search mode:\n"
+"\n"
+msgstr ""
+" Следующие функциональные клавиши доступны в режиме Поиск просмотрщика:\n"
+"\n"
+
+msgid " [Backup]"
+msgstr " [Копия]"
+
+msgid " [Backwards]"
+msgstr " [Назад]"
+
+msgid " [Case Sensitive]"
+msgstr " [С учётом регистра]"
+
+msgid " [DOS Format]"
+msgstr " [формат DOS]"
+
+msgid " [Mac Format]"
+msgstr " [формат Mac]"
+
+msgid " [Regexp]"
+msgstr " [РегВыр]"
+
+msgid "\"%.*s%s\" not found"
+msgstr "«%.*s%s» не найден"
+
+msgid "\"%s\" is a device file"
+msgstr "Файл «%s» является файлом устройства"
+
+msgid "\"%s\" is a directory"
+msgstr "Файл «%s» является каталогом"
+
+msgid "\"%s\" not found"
+msgstr "Файл «%s» не найден"
+
+msgid "\"start=\" requires a corresponding \"end=\""
+msgstr "«start=» требует соответствующего «end=»"
+
+msgid "%sWords: %lu  Lines: %ld  Chars: %lu"
+msgstr "%sСлов: %lu  Строк: %ld  Символов: %lu"
+
+msgid "(dir)"
+msgstr "(каталог)"
+
+msgid "(more)"
+msgstr "(ещё)"
+
+msgid "(parent dir)"
+msgstr "(вверх)"
+
+msgid "+LINE,COLUMN"
+msgstr "+СТРОКА,СТОЛБЕЦ"
+
+msgid "--backupdir=<dir>"
+msgstr "--backupdir=<дир>"
+
+msgid "--fill=<#cols>"
+msgstr "--fill=<#столбцы>"
+
+msgid "--operatingdir=<dir>"
+msgstr "--operatingdir=<дир>"
+
+msgid "--quotestr=<str>"
+msgstr "--quotestr=<стр>"
+
+msgid "--speller=<prog>"
+msgstr "--speller=<программа>"
+
+msgid "--syntax=<str>"
+msgstr "--syntax=<стр>"
+
+msgid "--tabsize=<#cols>"
+msgstr "--tabsize=<#чис>"
+
+msgid "-C <dir>"
+msgstr "-C <дир>"
+
+msgid "-Q <str>"
+msgstr "-Q <стр>"
+
+msgid "-T <#cols>"
+msgstr "-T <#чис>"
+
+msgid "-Y <str>"
+msgstr "-Y <стр>"
+
+msgid "-o <dir>"
+msgstr "-o <дир>"
+
+msgid "-r <#cols>"
+msgstr "-r <#столбцы>"
+
+msgid "-s <prog>"
+msgstr "-s <программа>"
+
+msgid "Aa"
+msgstr "AaВв"
+
+msgid "All"
+msgstr "Все"
+
+msgid ""
+"Also, pressing Esc twice and then typing a three-digit decimal number from "
+"000 to 255 will enter the character with the corresponding value.  The "
+"following keystrokes are available in the main editor window.  Alternative "
+"keys are shown in parentheses:\n"
+"\n"
+msgstr ""
+"Также нажатие Esc дважды, затем ввод трёхзначного числа от 000 до 255 "
+"вставит символ с соответствующим кодом. Следующие комбинации клавиш доступны "
+"в главном окне редактора. Альтернативные комбинации показаны по "
+"возрастанию:\n"
+"\n"
+
+msgid "Append"
+msgstr "Доп. в начало"
+
+msgid "Append Selection to File"
+msgstr "Добавить выделенное в конец файла"
+
+msgid "Argument '%s' has an unterminated \""
+msgstr "Аргумент «%s» имеет незакрытую \""
+
+msgid "At first message"
+msgstr "Первое сообщение"
+
+msgid "At last message"
+msgstr "Последнее сообщение"
+
+msgid "Auto indent"
+msgstr "Автоотступы"
+
+msgid "Auto save on exit, don't prompt"
+msgstr "Автозапись при выходе, без лишних вопросов"
+
+msgid "Automatically indent new lines"
+msgstr "Автоматический отступ на новых строках"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Background color \"%s\" cannot be bright"
+msgstr "Цвет фона «%s» не может быть светлым"
+
+msgid "Backspace"
+msgstr "Возврат каретки"
+
+msgid "Backup File"
+msgstr "Резерв. копия"
+
+msgid "Backup files"
+msgstr "Резервные файлы"
+
+msgid "Backwards"
+msgstr "Назад"
+
+msgid "Bad quote string %s: %s"
+msgstr "Недопустимая строка цитирования %s: %s"
+
+msgid "Bad regex \"%s\": %s"
+msgstr "Плохое регулярное выражение «%s»: %s"
+
+msgid "Beg of Par"
+msgstr "НачПар"
+
+msgid "Brought to you by:"
+msgstr "Предоставлен вам:"
+
+msgid ""
+"Browser Go To Directory Help Text\n"
+"\n"
+" Enter the name of the directory you would like to browse to.\n"
+"\n"
+" If tab completion has not been disabled, you can use the Tab key to "
+"(attempt to) automatically complete the directory name.\n"
+"\n"
+" The following function keys are available in Browser Go To Directory mode:\n"
+"\n"
+msgstr ""
+"Текст помощи режима Перейти к директории просмотрщика\n"
+"\n"
+" Введите имя директории, которую Вы хотите просмотреть.\n"
+"\n"
+" Если tab-дополнение не было запрещено, Вы можете использовать клавишу TAB "
+"для [попытки] автоматического дополнения имени директории.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме Перейти к директории "
+"Просмотрщика:\n"
+"\n"
+
+msgid ""
+"Browser Search Command Help Text\n"
+"\n"
+" Enter the words or characters you would like to search for, and then press "
+"Enter.  If there is a match for the text you entered, the screen will be "
+"updated to the location of the nearest match for the search string.\n"
+"\n"
+" The previous search string will be shown in brackets after the search "
+"prompt.  Hitting Enter without entering any text will perform the previous "
+"search.\n"
+"\n"
+msgstr ""
+"Текст помощи команды поиска\n"
+"\n"
+" Введите слова или символы, которые вы собираетесь искать, затем нажмите "
+"Ввод. Если для введеного Вами найдется совпадение, экран переместится в "
+"положение поблизости от найденного совпадения.\n"
+"\n"
+" Предыдущая строка поиска будет показана в скобках после приглашения "
+"'Поиск:'. Нажатие Ввод без редактирования текста продолжит предыдущий "
+"поиск.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме поиска:\n"
+"\n"
+
+msgid "Can now UnJustify!"
+msgstr "Сейчас можно отменить выравнивание!"
+
+msgid "Can't go outside of %s in restricted mode"
+msgstr "Не удаётся выйти за границы %s в ограниченном режиме"
+
+msgid "Can't insert file from outside of %s"
+msgstr "Не удаётся вставить файл снаружи %s"
+
+msgid "Can't move up a directory"
+msgstr "Не удаётся переместить каталог"
+
+msgid "Can't write outside of %s"
+msgstr "Не удаётся записать за пределами %s"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cancel the current function"
+msgstr "Отменить текущую функцию"
+
+msgid "Cancelled"
+msgstr "Отменено"
+
+msgid "Cannot add a color command without a syntax command"
+msgstr "Не удаётся добавить команду цвета без команды синтаксиса"
+
+msgid "Cannot add a header regex without a syntax command"
+msgstr "Не удаётся добавить рег. выражение заголовка без команды синтаксиса"
+
+msgid "Cannot add a linter without a syntax command"
+msgstr "Не удаётся добавить анализатор синтаксиса без команды синтаксиса"
+
+msgid "Cannot add a magic string regex without a syntax command"
+msgstr "Не удаётся добавить магическое рег. выражение без команды синтаксиса"
+
+msgid "Cannot map name \"%s\" to a function"
+msgstr "Не удалось сопоставить имя «%s» к функции"
+
+msgid "Cannot map name \"%s\" to a menu"
+msgstr "Не удалось сопоставить имя «%s» к меню"
+
+msgid "Cannot prepend or append to a symlink with --nofollow set"
+msgstr "Не удаётся дописать в начале или в конце с параметром --nofollow"
+
+msgid "Cannot unset option \"%s\""
+msgstr "Не удалось снять опцию «%s»"
+
+msgid "Case Sens"
+msgstr "Уч.регистр"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close the current file buffer / Exit from nano"
+msgstr "Закрыть текущий буфер / Выйти из nano"
+
+msgid ""
+"Color \"%s\" not understood.\n"
+"Valid colors are \"green\", \"red\", \"blue\",\n"
+"\"white\", \"yellow\", \"cyan\", \"magenta\" and\n"
+"\"black\", with the optional prefix \"bright\"\n"
+"for foreground colors."
+msgstr ""
+"Цвет «%s» не совсем понятен.\n"
+"Разрешены цвета - «green», «red», «blue», \n"
+"«white», «yellow», «cyan», «magenta» и \n"
+"«black», с необязательным префиксом «bright»\n"
+"для цвета фона."
+
+msgid "Color syntax highlighting"
+msgstr "Подсветка синтаксиса"
+
+msgid "Command \"%s\" not allowed in included file"
+msgstr "Команда «%s» не разрешена во включенном файле"
+
+msgid "Command \"%s\" not understood"
+msgstr "Непонятная команда «%s»"
+
+msgid "Command to execute [from %s] "
+msgstr "Команда для выполнения [от %s] "
+
+msgid "Command to execute in new buffer [from %s] "
+msgstr "Команда для выполнения в новом буфере [от %s] "
+
+msgid "Constant cursor position display"
+msgstr "Отображение постоянного положения курсора"
+
+msgid "Constantly show cursor position"
+msgstr "Постоянно показывать позицию курсора"
+
+msgid "Conversion of typed tabs to spaces"
+msgstr "Конвертация табуляций в пробелы"
+
+msgid "Convert typed tabs to spaces"
+msgstr "Конвертировать табуляции в пробелы"
+
+msgid "Copy Text"
+msgstr "Копировать"
+
+msgid "Copy the current line and store it in the cutbuffer"
+msgstr "Копировать текущую строку и сохранить ее в буфере обмена"
+
+msgid "Could not create pipe"
+msgstr "Не удалось создать конвейер"
+
+msgid "Could not find syntax \"%s\" to extend"
+msgstr "Не удалось сопоставить имя «%s» к расширению"
+
+msgid "Could not fork"
+msgstr "Не удалось создать дочерний процесс"
+
+msgid "Could not get size of pipe buffer"
+msgstr "Не удалось получить размер буфера конвейера"
+
+msgid "Couldn't determine hostname for lock file: %s"
+msgstr "Не удалось определить имя компьютера для файла блокировки: %s"
+
+msgid "Couldn't determine my identity for lock file (getpwuid() failed)"
+msgstr ""
+"Не удалось получить мой идентификатор пользователя для файла блокировки "
+"(ошибка getpwuid())"
+
+msgid "Couldn't reopen stdin from keyboard, sorry\n"
+msgstr "Не удалось повторно открыть стандартный ввод с клавиатуры\n"
+
+msgid "Count the number of words, lines, and characters"
+msgstr "Подсчитать количество слов, строк и символов"
+
+msgid "Creating misspelled word list, please wait..."
+msgstr "Идёт создание списка ошибочных слов. Подождите..."
+
+msgid "Cur Pos"
+msgstr "ТекПозиц"
+
+msgid "Cut Text"
+msgstr "Вырезать"
+
+msgid "Cut from cursor to end of line"
+msgstr "Вырезать от курсора до конца строки"
+
+msgid "Cut from the cursor position to the end of the file"
+msgstr "Вырезать от позиции курсора до конца файла"
+
+msgid "Cut the current line and store it in the cutbuffer"
+msgstr "Вырезать текущую строку и сохранить её в буфере обмена"
+
+msgid "Cut to end"
+msgstr "Вырезать до конца"
+
+msgid "CutTillEnd"
+msgstr "Обрез. до конца"
+
+msgid "DIR:"
+msgstr "Дир:"
+
+msgid "DOS Format"
+msgstr "Формат DOS"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete the character to the left of the cursor"
+msgstr "Удалить символ слева от курсора"
+
+msgid "Delete the character under the cursor"
+msgstr "Удалить символ под курсором"
+
+msgid "Detect word boundaries more accurately"
+msgstr "Определять границы слов более точно"
+
+msgid ""
+"Detected a legacy nano history file (%s) which I moved\n"
+"to the preferred location (%s)\n"
+"(see the nano FAQ about this change)"
+msgstr ""
+"Обнаружен старый файл истории nano (%s), который я переместил\n"
+"на новое место (%s)\n"
+"(смотрите в nano FAQ об этом изменении)"
+
+msgid ""
+"Detected a legacy nano history file (%s) which I tried to move\n"
+"to the preferred location (%s) but encountered an error: %s"
+msgstr ""
+"Обнаружен старый файл истории nano (%s), который я попытался переместить\n"
+"на новое место (%s), но произошла ошибка: %s"
+
+msgid "Directory for saving unique backup files"
+msgstr "Каталог для сохранения уникальных резервных файлов"
+
+msgid "Display the position of the cursor"
+msgstr "Показать положение курсора"
+
+msgid "Display this help text"
+msgstr "Показать эту справку"
+
+msgid "Do not read the file (only write it)"
+msgstr "Не читать файл (только писать его)"
+
+msgid "Do quick statusbar blanking"
+msgstr "Делать быструю очистку строки состояния"
+
+msgid "Don't add newlines to the ends of files"
+msgstr "Не добавлять пустые строки в конце файла"
+
+msgid "Don't convert files from DOS/Mac format"
+msgstr "Не преобразовывать из DOS/Mac формата"
+
+msgid "Don't follow symbolic links, overwrite"
+msgstr "Не следовать по символьным ссылкам, переписывать"
+
+msgid "Don't hard-wrap long lines"
+msgstr "Не делать жесткий перенос длинных строк"
+
+msgid "Don't look at nanorc files"
+msgstr "Не использовать на файлы nanorc"
+
+msgid "Don't show the two help lines"
+msgstr "Не показывать две строки помощи внизу"
+
+msgid "Edit a replacement"
+msgstr "Редактировать замену"
+
+msgid "Enable alternate speller"
+msgstr "Использовать альтернативную программу проверки орфографии"
+
+msgid "Enable smart home key"
+msgstr "Включить умную клавишу home"
+
+msgid "Enable soft line wrapping"
+msgstr "Включить мягкий перенос строк"
+
+msgid "Enable suspension"
+msgstr "Разрешить приостановку"
+
+msgid "Enable the use of the mouse"
+msgstr "Разрешить использование мыши"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "End of Par"
+msgstr "КонПар"
+
+msgid "Enter"
+msgstr "Ввод"
+
+msgid "Enter line number, column number"
+msgstr "Введите номер строки и столбца"
+
+msgid "Error deleting lock file %s: %s"
+msgstr "Ошибка удаления файла блокировки %s: %s"
+
+msgid "Error expanding %s: %s"
+msgstr "Ошибка расширения %s: %s"
+
+msgid "Error in %s on line %lu: "
+msgstr "Ошибка в позиции %s строки %lu: "
+
+msgid "Error invoking \"%s\""
+msgstr "Ошибка выполнения «%s»"
+
+msgid "Error invoking \"sort -f\""
+msgstr "Ошибка выполнения «sort -f»"
+
+msgid "Error invoking \"spell\""
+msgstr "Ошибка выполнения «spell»"
+
+msgid "Error invoking \"uniq\""
+msgstr "Ошибка выполнения «uniq»"
+
+msgid "Error opening lock file %s: %s"
+msgstr "Ошибка открытия файла блокировки %s: %s"
+
+msgid "Error reading %s: %s"
+msgstr "Ошибка чтения %s: %s"
+
+msgid "Error reading lock file %s: Not enough data read"
+msgstr "Ошибка чтения файла блокировки %s: Недостаточно данных прочитано"
+
+msgid "Error writing %s: %s"
+msgstr "Ошибка записи %s: %s"
+
+msgid "Error writing backup file %s: %s"
+msgstr "Ошибка записи файла резервной копии %s: %s"
+
+msgid "Error writing lock file %s: %s"
+msgstr "Ошибка записи файла блокировки %s: %s"
+
+msgid "Error writing temp file: %s"
+msgstr "Ошибка записи временного файла: %s"
+
+msgid "Execute Command"
+msgstr "Выполнить команду"
+
+msgid ""
+"Execute Command Help Text\n"
+"\n"
+" This mode allows you to insert the output of a command run by the shell "
+"into the current buffer (or a new buffer in multiple file buffer mode).  If "
+"you need another blank buffer, do not enter any command.\n"
+"\n"
+" The following function keys are available in Execute Command mode:\n"
+"\n"
+msgstr ""
+"Текст помощи режима Внешняя Команда\n"
+"\n"
+" Это меню позволяет вам вставить вывод команды, выполненной в командном "
+"интерпретаторе, в текущий файловый буфер (или в новый буфер в мультибуферном "
+"режиме).  Если вам необходим другой пустой буфер, не вводите никакой команды "
+"вообще.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме Внешняя Команда:\n"
+"\n"
+
+msgid "Execute external command"
+msgstr "Выполнить внешнюю команду"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Exit from nano"
+msgstr "Выход из nano"
+
+msgid "Exit from the file browser"
+msgstr "Выйти из файлового браузера"
+
+msgid "Failed to write backup file, continue saving? (Say N if unsure) "
+msgstr ""
+"Не удалось записать файл резервной копии, продолжить сохранение? (Ответьте Н "
+"- если не уверены)"
+
+msgid "Fatal error: no keys mapped for function \"%s\".  Exiting.\n"
+msgstr "Критическая ошибка: для функции «%s» не назначены клавиши.  Выхожу.\n"
+
+msgid ""
+"File Browser Help Text\n"
+"\n"
+" The file browser is used to visually browse the directory structure to "
+"select a file for reading or writing.  You may use the arrow keys or Page Up/"
+"Down to browse through the files, and S or Enter to choose the selected file "
+"or enter the selected directory.  To move up one level, select the directory "
+"called \"..\" at the top of the file list.\n"
+"\n"
+" The following function keys are available in the file browser:\n"
+"\n"
+msgstr ""
+"Текст помощи просмотрщика файлов\n"
+"\n"
+" Просмотрщик файлов используется для визуального просмотра содержимого "
+"каталога, для выбора файла из этой каталога для операций ввода-вывода. "
+"Пользуйтесь клавишами со стрелками или PageUp/PageDown для перехода по "
+"содержимому каталога, и клавишами S или ВВОД для выбора нужного файла или "
+"входа в выбранный каталог. Для перемещения вверх на одну директорию, "
+"выберите директорию, названную «..» в самом верху списка файлов.\n"
+"\n"
+" Следующие функциональные клавиши доступны в просмотрщике файлов:\n"
+"\n"
+
+msgid "File Name to Append to"
+msgstr "Имя файла для добавления (в начало)"
+
+msgid "File Name to Prepend to"
+msgstr "Имя файла для добавления (в конец)"
+
+msgid "File Name to Write"
+msgstr "Имя файла для записи"
+
+msgid "File exists, OVERWRITE ? "
+msgstr "Файл существует. ПЕРЕЗАПИСАТЬ? "
+
+msgid "File to insert [from %s] "
+msgstr "Файл для вставки [от %s] "
+
+msgid "File to insert into new buffer [from %s] "
+msgstr "Файл для вставки в новый буфер [от %s] "
+
+msgid "File was modified since you opened it, continue saving ? "
+msgstr "Файл был изменён после открытия. Продолжить сохранение?"
+
+msgid "File:"
+msgstr "Файл:"
+
+msgid "Finished checking spelling"
+msgstr "Проверка правописания завершена"
+
+msgid "First File"
+msgstr "ПервыйФайл"
+
+msgid "First Line"
+msgstr "ПервСтрока"
+
+msgid "Fix Backspace/Delete confusion problem"
+msgstr "Решить проблему Backspace/Delete"
+
+msgid "Fix numeric keypad key confusion problem"
+msgstr "Решить проблему зависания цифровой клавиатуры"
+
+msgid "For ncurses:"
+msgstr "Для ncurses:"
+
+msgid "Forward"
+msgstr "Вперёд"
+
+msgid "FullJstify"
+msgstr "Выровнять"
+
+msgid "Get Help"
+msgstr "Помощь"
+
+msgid "Go To Dir"
+msgstr "Перейти к"
+
+msgid "Go To Directory"
+msgstr "К каталогу"
+
+msgid "Go To Line"
+msgstr "К строке"
+
+msgid ""
+"Go To Line Help Text\n"
+"\n"
+" Enter the line number that you wish to go to and hit Enter.  If there are "
+"fewer lines of text than the number you entered, you will be brought to the "
+"last line of the file.\n"
+"\n"
+" The following function keys are available in Go To Line mode:\n"
+"\n"
+msgstr ""
+"Текст помощи режима Перейти к строке\n"
+"\n"
+" Введите номер строки к которой вы желаете перейти и нажмите Ввод. Если в "
+"файле число строк меньше чем введённое число, то окажетесь на последней "
+"строке файла.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме Перейти к строке:\n"
+"\n"
+
+msgid "Go To Text"
+msgstr "К строке"
+
+msgid "Go back one character"
+msgstr "Назад на один символ"
+
+msgid "Go back one word"
+msgstr "Назад на одно слово"
+
+msgid "Go forward one character"
+msgstr "Вперёд на один символ"
+
+msgid "Go forward one word"
+msgstr "Вперёд на одно слово"
+
+msgid "Go just beyond end of paragraph; then of next paragraph"
+msgstr "В конец текущего абзаца; потом следующего абзаца"
+
+msgid "Go one screenful down"
+msgstr "Перейти на экран вниз"
+
+msgid "Go one screenful up"
+msgstr "Перейти на экран вверх"
+
+msgid "Go to beginning of current line"
+msgstr "На начало текущей строки"
+
+msgid "Go to beginning of paragraph; then of previous paragraph"
+msgstr "На начало текущего абзаца; потом следующего абзаца"
+
+msgid "Go to directory"
+msgstr "Перейти к каталогу"
+
+msgid "Go to end of current line"
+msgstr "В конец текущей строки"
+
+msgid "Go to file browser"
+msgstr "Перейти в файловый браузер"
+
+msgid "Go to line and column number"
+msgstr "Перейти на указанный номер строки и столбца"
+
+msgid "Go to next line"
+msgstr "На следующую строку"
+
+msgid "Go to next linter msg"
+msgstr "На следующее сообщение"
+
+msgid "Go to previous line"
+msgstr "На предыдущую строку"
+
+msgid "Go to previous linter msg"
+msgstr "На предыдущее сообщение"
+
+msgid "Go to the first file in the list"
+msgstr "Перейти к первому файлу в списке"
+
+msgid "Go to the first line of the file"
+msgstr "На первую строку файла"
+
+msgid "Go to the last file in the list"
+msgstr "Перейти к последнему файлу в списке"
+
+msgid "Go to the last line of the file"
+msgstr "На последнюю строку файла"
+
+msgid "Go to the matching bracket"
+msgstr "На соответствующую скобку"
+
+msgid "Go to the next file in the list"
+msgstr "Перейти к следующему файлу в списке"
+
+msgid "Go to the previous file in the list"
+msgstr "Перейти к предыдущему файлу в списке"
+
+msgid "Got 0 parsable lines from command: %s"
+msgstr "Получено 0 распознанных строк от комманды: %s"
+
+msgid "Hard wrapping of overlong lines"
+msgstr "Жесткий перенос длинных строк"
+
+msgid "Help mode"
+msgstr "Режим справки"
+
+msgid "Home"
+msgstr "Начало"
+
+msgid "I can't find my home directory!  Wah!"
+msgstr "Не могу найти собственную домашнюю директорию! Йой!"
+
+msgid ""
+"If needed, use nano with the -I option to adjust your nanorc settings.\n"
+msgstr ""
+"Используйте nano с опцией -I, если требуется подстроить параметры вашего "
+"nanorc.\n"
+
+msgid ""
+"If you have selected text with the mark and then search to replace, only "
+"matches in the selected text will be replaced.\n"
+"\n"
+" The following function keys are available in Search mode:\n"
+"\n"
+msgstr ""
+"Если вы выделили текст с помощью пометить, а затем использовали поиск для "
+"замены, то только совпадения из выделенного текста будут заменены.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме поиска:\n"
+"\n"
+
+msgid ""
+"If you need another blank buffer, do not enter any filename, or type in a "
+"nonexistent filename at the prompt and press Enter.\n"
+"\n"
+" The following function keys are available in Insert File mode:\n"
+"\n"
+msgstr ""
+"Если вам требуется другой пустой буфер, не вводите имя файла или тип в "
+"приглашении и нажмите Ввод.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме Вставка файла:\n"
+"\n"
+
+msgid "In Selection:  "
+msgstr "В выделении:  "
+
+msgid "Indent Text"
+msgstr "Отступ"
+
+msgid "Indent the current line"
+msgstr "Увеличить отступ строки"
+
+msgid ""
+"Insert File Help Text\n"
+"\n"
+" Type in the name of a file to be inserted into the current file buffer at "
+"the current cursor location.\n"
+"\n"
+" If you have compiled nano with multiple file buffer support, and enable "
+"multiple file buffers with the -F or --multibuffer command line flags, the "
+"Meta-F toggle, or a nanorc file, inserting a file will cause it to be loaded "
+"into a separate buffer (use Meta-< and > to switch between file buffers).  "
+msgstr ""
+"Текст помощи режима Вставить файл\n"
+"\n"
+" Наберите имя файла для вставки в текущий файловый буфер в текущей позиции "
+"курсора.\n"
+"\n"
+" Если ваш nano скомпилирован с поддержкой нескольких файловых буферов, и "
+"использовались опции -F или --multibuffer, или комбинацией клавиш Meta-F, "
+"или при помощи файла nanorc, то вставка файла приведет к загрузке этого "
+"файла в отдельный буфер (используйте Meta-< and > для переключения между "
+"файловыми буферами).  "
+
+msgid "Insert a newline at the cursor position"
+msgstr "Вставить строку в позиции курсора"
+
+msgid "Insert a tab at the cursor position"
+msgstr "Вставить табуляцию в позиции курсора"
+
+msgid "Insert another file into the current one"
+msgstr "Вставить другой файл в текущий"
+
+msgid "Insert the next keystroke verbatim"
+msgstr "Вставить следующую комбинацию клавиш как есть"
+
+msgid "Internal error: can't match line %d.  Please save your work."
+msgstr ""
+"Внутренняя ошибка: не удаётся сопоставить строку %d. Сохраните свою работу."
+
+msgid "Internal error: cannot set up redo.  Please save your work."
+msgstr ""
+"Внутренняя ошибка: ошибка настройки повторения изменения. Сохраните свою "
+"работу."
+
+msgid "Internal error: cannot set up uncut.  Please save your work."
+msgstr ""
+"Внутренняя ошибка: ошибка настройки отмены обрезки. Сохраните свою работу."
+
+msgid "Internal error: unknown type.  Please save your work."
+msgstr "Внутренняя ошибка: неизвестный тип. Сохраните свою работу"
+
+msgid "Invalid line or column number"
+msgstr "Неправильный номер строки или столбца"
+
+msgid "Invoke the linter, if available"
+msgstr "Проверить синтаксис кода, если доступно"
+
+msgid "Invoke the spell checker, if available"
+msgstr "Проверить орфографию, если доступно"
+
+msgid "Invoking linter, please wait"
+msgstr "Запуск проверки, подождите"
+
+msgid "Invoking spell checker, please wait"
+msgstr "Запуск проверки орфографии, подождите"
+
+msgid "Justify"
+msgstr "Выровнять"
+
+msgid "Justify the current paragraph"
+msgstr "Выровнять текущий абзац"
+
+msgid "Justify the entire file"
+msgstr "Выровнять по ширине текущий абзац"
+
+msgid "Key invalid in non-multibuffer mode"
+msgstr "Недопустимая клавиша в немногобуферном режиме"
+
+msgid "Key invalid in view mode"
+msgstr "Неверная клавиша в режиме просмотра"
+
+msgid "Key name is too short"
+msgstr "Название ключа слишком короткое"
+
+msgid "Key name must begin with \"^\", \"M\", or \"F\""
+msgstr "Привязки клавиш должны начинаться с «^», «M» или «F»"
+
+msgid "Last File"
+msgstr "ПоследнФайл"
+
+msgid "Last Line"
+msgstr "ПослСтрока"
+
+msgid "Log & read location of cursor position"
+msgstr "Сохранять и загружать позицию курсора"
+
+msgid "Log & read search/replace string history"
+msgstr "Сохранять и читать историю поиска/замены строк"
+
+msgid "Mac Format"
+msgstr "Формат Mac"
+
+msgid ""
+"Main nano help text\n"
+"\n"
+" The nano editor is designed to emulate the functionality and ease-of-use of "
+"the UW Pico text editor.  There are four main sections of the editor.  The "
+"top line shows the program version, the current filename being edited, and "
+"whether or not the file has been modified.  Next is the main editor window "
+"showing the file being edited.  The status line is the third line from the "
+"bottom and shows important messages.  "
+msgstr ""
+"Текст помощи nano\n"
+"\n"
+" Редактор nano разработан для эмуляции функциональности и простоты "
+"использования оригинального редактора UW Pico. Редактор разбит на 4 основные "
+"части: верхняя строка содержит версию программы, текущее имя файла, который "
+"редактируется, и были ли внесены изменения в текущий файл. Вторая часть - "
+"это главное окно редактирования, в котором отображен редактируемый файл. "
+"Строка состояния - 3 строка снизу - показывает разные важные сообщения.  "
+
+msgid "Mark Set"
+msgstr "Метка установлена"
+
+msgid "Mark Text"
+msgstr "Отметить"
+
+msgid "Mark Unset"
+msgstr "Метка снята"
+
+msgid "Mark text starting from the cursor position"
+msgstr "Отметить текст от текущей позиции курсора"
+
+msgid "Missing color name"
+msgstr "Отсутствует название цвета"
+
+msgid "Missing key name"
+msgstr "Отсутствует название клавиши"
+
+msgid "Missing linter command"
+msgstr "Отсутствует команда анализатора синтаксиса"
+
+msgid "Missing magic string name"
+msgstr "Отсутствует магическая строка"
+
+msgid "Missing option"
+msgstr "Параметр отсутствует "
+
+msgid "Missing regex string"
+msgstr "Отсутствует регулярное выражение"
+
+msgid "Missing syntax name"
+msgstr "Отсутствует название синтаксиса"
+
+msgid "Modified"
+msgstr "Изменён"
+
+msgid "Mouse support"
+msgstr "Поддержка мыши"
+
+msgid "Must specify a function to bind the key to"
+msgstr "Укажите функцию, которой назначается клавиша"
+
+msgid "Must specify a menu (or \"all\") in which to bind/unbind the key"
+msgstr ""
+"Вы должны указать имя меню (или «все») на которое нужно назначить/убрать "
+"назначение клавиши"
+
+msgid "New Buffer"
+msgstr "Новый буфер"
+
+msgid "New File"
+msgstr "Новый файл"
+
+msgid "Next File"
+msgstr "Следующий файл"
+
+msgid "Next Line"
+msgstr "След. строка"
+
+msgid "Next Lint Msg"
+msgstr "След. сообщ. пров."
+
+msgid "Next Page"
+msgstr "СледCтр"
+
+msgid "Next Word"
+msgstr "След. слово"
+
+msgid "NextHstory"
+msgstr "СледИстор"
+
+msgid "Nn"
+msgstr "NnНн"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Replace"
+msgstr "Не заменять"
+
+msgid "No conversion from DOS/Mac format"
+msgstr "Без преобразования из формата DOS/Mac"
+
+msgid "No current search pattern"
+msgstr "Нечего искать"
+
+msgid "No linter defined for this type of file!"
+msgstr "Для данного типа файла не настроена программа проверки синтаксиса!"
+
+msgid "No matching bracket"
+msgstr "Нет соответствующей скобки"
+
+msgid "No more open file buffers"
+msgstr "Нет больше открытых файловых буферов"
+
+msgid "Non-blank characters required"
+msgstr "Требуется не пустой символ"
+
+msgid "Not a bracket"
+msgstr "Не скобка"
+
+msgid "Nothing in undo buffer!"
+msgstr "Буфер отмены действий пуст!"
+
+msgid "Nothing to re-do!"
+msgstr "Нечего повторять!"
+
+msgid "Option\t\tGNU long option\t\tMeaning\n"
+msgstr "Опция\t\tДлинная форма\t\tЗначение\n"
+
+msgid "Option\t\tMeaning\n"
+msgstr "Опция\t\tЗначение\n"
+
+msgid "Option \"%s\" requires an argument"
+msgstr "Опция «%s» требует аргумент"
+
+msgid "Option is not a valid multibyte string"
+msgstr "Опция не правильная многобайтовая строка"
+
+msgid "Prepend"
+msgstr "Доп. в конец"
+
+msgid "Prepend Selection to File"
+msgstr "Добавить выделенное в начало файла"
+
+msgid "Preserve XON (^Q) and XOFF (^S) keys"
+msgstr "Зарезервировать кнопки XON (^Q) и XOFF (^S)"
+
+msgid "Prev File"
+msgstr "Предыдущий файл"
+
+msgid "Prev Line"
+msgstr "Пред. строка"
+
+msgid "Prev Lint Msg"
+msgstr "Пред. сообщ. пров."
+
+msgid "Prev Page"
+msgstr "ПредCтр"
+
+msgid "Prev Word"
+msgstr "Пред. слово"
+
+msgid "PrevHstory"
+msgstr "ПредИстор"
+
+msgid "Print version information and exit"
+msgstr "Показать версию и выйти"
+
+msgid "Quoting string"
+msgstr "Строка цитирования"
+
+msgid "Read %lu line"
+msgid_plural "Read %lu lines"
+msgstr[0] "Прочитана %lu строка"
+msgstr[1] "Прочитано %lu строки"
+msgstr[2] "Прочитано %lu строк"
+
+msgid "Read %lu line ( Warning: No write permission)"
+msgid_plural "Read %lu lines (Warning: No write permission)"
+msgstr[0] "Прочитана %lu строка (предупреждение: нет доступа на запись)"
+msgstr[1] "Прочитаны %lu строки (предупреждение: нет доступа на запись)"
+msgstr[2] "Прочитано %lu строк (предупреждение: нет доступа на запись)"
+
+msgid ""
+"Read %lu line (Converted from DOS and Mac format - Warning: No write "
+"permission)"
+msgid_plural ""
+"Read %lu lines (Converted from DOS and Mac format - Warning: No write "
+"permission)"
+msgstr[0] ""
+"Прочитана %lu строка (преобразовано из формата Mac и DOS; предупреждение: "
+"нет доступа на запись)"
+msgstr[1] ""
+"Прочитано %lu строки (преобразовано из формата Mac и DOS; предупреждение: "
+"нет доступа на запись)"
+msgstr[2] ""
+"Прочитано %lu строк (преобразовано из формата Mac и DOS; предупреждение: нет "
+"доступа на запись)"
+
+msgid "Read %lu line (Converted from DOS and Mac format)"
+msgid_plural "Read %lu lines (Converted from DOS and Mac format)"
+msgstr[0] "Прочитана %lu строка (преобразовано из формата Mac и DOS)"
+msgstr[1] "Прочитано %lu строки (преобразовано из формата Mac и DOS)"
+msgstr[2] "Прочитано %lu строк (преобразовано из формата Mac и DOS)"
+
+msgid ""
+"Read %lu line (Converted from DOS format - Warning: No write permission)"
+msgid_plural ""
+"Read %lu lines (Converted from DOS format - Warning: No write permission)"
+msgstr[0] ""
+"Прочитана %lu строка (преобразовано из формата DOS; предупреждение: нет "
+"доступа на запись)"
+msgstr[1] ""
+"Прочитано %lu строки (преобразовано из формата DOS; предупреждение: нет "
+"доступа на запись)"
+msgstr[2] ""
+"Прочитано %lu строк (преобразовано из формата DOS; предупреждение: нет "
+"доступа на запись)"
+
+msgid "Read %lu line (Converted from DOS format)"
+msgid_plural "Read %lu lines (Converted from DOS format)"
+msgstr[0] "Прочитана %lu строка (преобразовано из формата DOS)"
+msgstr[1] "Прочитано %lu строки (преобразовано из формата DOS)"
+msgstr[2] "Прочитано %lu строк (преобразовано из формата DOS)"
+
+msgid ""
+"Read %lu line (Converted from Mac format - Warning: No write permission)"
+msgid_plural ""
+"Read %lu lines (Converted from Mac format - Warning: No write permission)"
+msgstr[0] ""
+"Прочитана %lu строка (преобразовано из формата Mac; предупреждение: нет "
+"доступа на запись)"
+msgstr[1] ""
+"Прочитано %lu строки (преобразовано из формата Mac; предупреждение: нет "
+"доступа на запись)"
+msgstr[2] ""
+"Прочитано %lu строк (преобразовано из формата Mac; предупреждение: нет "
+"доступа на запись)"
+
+msgid "Read %lu line (Converted from Mac format)"
+msgid_plural "Read %lu lines (Converted from Mac format)"
+msgstr[0] "Прочитана %lu строка (преобразовано из формата Mac)"
+msgstr[1] "Прочитано %lu строки (преобразовано из формата Mac)"
+msgstr[2] "Прочитано %lu строк (преобразовано из формата Mac)"
+
+msgid "Read File"
+msgstr "ЧитФайл"
+
+msgid "Reading File"
+msgstr "Чтение файла"
+
+msgid "Reading from stdin, ^C to abort\n"
+msgstr "Чтение из стандартного ввода. ^C для прерывания\n"
+
+msgid "Recall the next search/replace string"
+msgstr "Сбросить следующую строку поиска/замены"
+
+msgid "Recall the previous search/replace string"
+msgstr "Сбросить предыдущую строку поиска/замены"
+
+msgid "Received SIGHUP or SIGTERM\n"
+msgstr "Получен SIGHUP или SIGTERM\n"
+
+msgid "Redid action (%s)"
+msgstr "Повторённое действие (%s)"
+
+msgid "Redo"
+msgstr "Повтор"
+
+msgid "Redo the last undone operation"
+msgstr "Повторить последнее отменённое действие"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Refresh (redraw) the current screen"
+msgstr "Обновить текущий экран"
+
+msgid "Regex strings must begin and end with a \" character"
+msgstr ""
+"Строки регулярных выражений должны начинаться и заканчиваться символом \""
+
+msgid "Regexp"
+msgstr "Рег.выраж."
+
+msgid "Repeat the last search"
+msgstr "Повторить последний поиск"
+
+msgid "Replace"
+msgstr "Замена"
+
+msgid "Replace a string or a regular expression"
+msgstr "Заменить текст или регулярное выражение"
+
+msgid "Replace this instance?"
+msgstr "Заменить это вхождение?"
+
+msgid "Replace with"
+msgstr "Заменить на"
+
+msgid "Replaced %lu occurrence"
+msgid_plural "Replaced %lu occurrences"
+msgstr[0] "Замененное %lu вхождение"
+msgstr[1] "Замененные %lu вхождения"
+msgstr[2] "Заменено %lu вхождений"
+
+msgid "Requested fill size \"%s\" is invalid"
+msgstr "Запрошенный размер заполнения «%s» не подходит"
+
+msgid "Requested tab size \"%s\" is invalid"
+msgstr "Запрошенный размер табуляции «%s» не подходит"
+
+msgid "Restricted mode"
+msgstr "Запрещенный режим"
+
+msgid "Reverse the direction of the search"
+msgstr "Изменить направление поиска"
+
+msgid "Save backups of existing files"
+msgstr "Делать резервные копии существующих файлов при сохранении"
+
+msgid "Save file under DIFFERENT NAME ? "
+msgstr "Записать файл под ДРУГИМ ИМЕНЕМ?"
+
+msgid "Save modified buffer (ANSWERING \"No\" WILL DESTROY CHANGES) ? "
+msgstr "Сохранить изменённый буфер? (ИНАЧЕ ВСЕ ИЗМЕНЕНИЯ БУДУТ ПОТЕРЯНЫ)"
+
+msgid "Save modified buffer before linting?"
+msgstr "Сохранить измененный буфер перед проверкой?"
+
+msgid "Scroll Down"
+msgstr "Прокрутить вниз"
+
+msgid "Scroll Up"
+msgstr "Прокрутить вверх"
+
+msgid "Scroll by line instead of half-screen"
+msgstr "Построчная прокрутка вместо полу-экранной"
+
+msgid "Scroll down one line without scrolling the cursor"
+msgstr "Прокрутить одну строку вниз, не перемещая курсор"
+
+msgid "Scroll up one line without scrolling the cursor"
+msgstr "Прокрутить одну строку вверх, не перемещая курсор"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid ""
+"Search Command Help Text\n"
+"\n"
+" Enter the words or characters you would like to search for, and then press "
+"Enter.  If there is a match for the text you entered, the screen will be "
+"updated to the location of the nearest match for the search string.\n"
+"\n"
+" The previous search string will be shown in brackets after the search "
+"prompt.  Hitting Enter without entering any text will perform the previous "
+"search.  "
+msgstr ""
+"Справка по команде поиска\n"
+"\n"
+" Введите искомые слова или символы и нажмите клавишу ВВОД. Если будет "
+"найдено совпадение, в окне будет показано положение поблизости от найденного "
+"текста.\n"
+"\n"
+" В скобках после приглашения «Поиск:» будет показана предыдущая строка "
+"поиска. Если нажать клаишу ВВОД без редактирования текста, будет продолжен "
+"предыдущий поиск.  "
+
+msgid "Search Wrapped"
+msgstr "Поиск завёрнут"
+
+msgid "Search for a string"
+msgstr "Искать текст"
+
+msgid "Search for a string or a regular expression"
+msgstr "Искать текст или регулярное выражение"
+
+msgid "Set hard-wrapping point at column #cols"
+msgstr "Установить точку жесткого переноса строки на #столбцы"
+
+msgid "Set operating directory"
+msgstr "Установить рабочий каталог"
+
+msgid "Set width of a tab to #cols columns"
+msgstr "Установить ширину табуляции в #чис столбцов"
+
+msgid "Show this help text"
+msgstr "Показать эту справку"
+
+msgid "Silently ignore startup issues like rc file errors"
+msgstr "Молча игнорировать ошибки запуска, например rc-файла"
+
+msgid "Smart home key"
+msgstr "Умная клавиша HOME"
+
+msgid "Smooth scrolling"
+msgstr "Плавная прокрутка"
+
+msgid "Soft wrapping of overlong lines"
+msgstr "Мягкий перенос длинных строк"
+
+msgid "Sorry, keystroke \"%s\" may not be rebound"
+msgstr "Привязка «%s» не может быть переназначена"
+
+msgid "Sorry, support for this function has been disabled"
+msgstr "Поддержка этой функции была отключена"
+
+msgid "Special thanks to:"
+msgstr "Особая благодарность:"
+
+msgid ""
+"Spell Check Help Text\n"
+"\n"
+" The spell checker checks the spelling of all text in the current file.  "
+"When an unknown word is encountered, it is highlighted and a replacement can "
+"be edited.  It will then prompt to replace every instance of the given "
+"misspelled word in the current file, or, if you have selected text with the "
+"mark, in the selected text.\n"
+"\n"
+" The following function keys are available in Spell Check mode:\n"
+"\n"
+msgstr ""
+"Текст помощи проверки правописания\n"
+"\n"
+" Программа проверки правописания проверяет орфографию всего текста текущего "
+"файла. Если найдено неизвестное слово, оно подсвечивается и появляется "
+"редактируемая замена этому слову. Затем будет появляться приглашение для "
+"замены каждого вхождения данного ошибочно написанного слова в текущем "
+"файле.\n"
+"\n"
+" Следующие функциональные клавиши доступны в режиме проверки правописания:\n"
+"\n"
+
+msgid "Spell checking failed: %s"
+msgstr "Проверка правописания не удалась: %s"
+
+msgid "Spell checking failed: %s: %s"
+msgstr "Проверка правописания не удалась: %s: %s"
+
+msgid "Start at line LINE, column COLUMN"
+msgstr "Начать со строки СТРОКА, столбца СТОЛБЕЦ"
+
+msgid "Suspend"
+msgstr "Приостановка"
+
+msgid "Suspend the editor (if suspend is enabled)"
+msgstr "Приостановить редактор (если включено)"
+
+msgid "Suspension"
+msgstr "Приостановка"
+
+msgid "Switch to the next file buffer"
+msgstr "Перейти в следующий буфер"
+
+msgid "Switch to the previous file buffer"
+msgstr "Перейти в предыдущий буфер"
+
+msgid "Switched to %s"
+msgstr "Переключено в %s"
+
+msgid "Syntax \"%s\" has no color commands"
+msgstr "Синтаксис «%s» не имеет цветовых команд"
+
+msgid "Syntax definition to use for coloring"
+msgstr "Использовать описание синтаксиса для подсветки"
+
+msgid "Tab"
+msgstr "Табуляция"
+
+msgid "Thank you for using nano!"
+msgstr "Спасибо за то, что выбрали nano!"
+
+msgid "The \"default\" syntax must take no extensions"
+msgstr "Синтаксис «default» не должен иметь расширений"
+
+msgid "The \"none\" syntax is reserved"
+msgstr "Синтаксис «none» зарезервирован"
+
+msgid "The Free Software Foundation"
+msgstr ""
+"The Free Software Foundation (фонд свободного программного обеспечения)"
+
+msgid ""
+"The bottom two lines show the most commonly used shortcuts in the editor.\n"
+"\n"
+" The notation for shortcuts is as follows: Control-key sequences are notated "
+"with a caret (^) symbol and can be entered either by using the Control "
+"(Ctrl) key or pressing the Escape (Esc) key twice.  Escape-key sequences are "
+"notated with the Meta (M-) symbol and can be entered using either the Esc, "
+"Alt, or Meta key depending on your keyboard setup.  "
+msgstr ""
+"Две строки внизу показывают наиболее часто используемые комбинации клавиш.\n"
+"\n"
+" Система обозначений комбинаций клавиш следующая: Комбинации с Control "
+"обозначены символом (^) и вводятся при помощи нажатой кнопки (Ctrl) или "
+"двойном нажатии Escape (Esc); Комбинации с Esc обозначены символом Meta (M) "
+"и могут быть введены при помощи кнопок Esc, Alt или Meta, в зависимости от "
+"используемой клавиатуры.  "
+
+msgid "The nano text editor"
+msgstr "Текстовый редактор nano"
+
+msgid "This is the only occurrence"
+msgstr "Это единственное совпадение"
+
+msgid "This message is for unopened file %s, open it in a new buffer?"
+msgstr "Это сообщение о не открытом файле %s, открыть его в новом буфере?"
+
+msgid "To Bracket"
+msgstr "На скобку"
+
+msgid "To Files"
+msgstr "К файлам"
+
+msgid "To Linter"
+msgstr "Пров. синтак."
+
+msgid "To Spell"
+msgstr "Словарь"
+
+msgid "Toggle appending"
+msgstr "Добавлять в конец"
+
+msgid "Toggle backing up of the original file"
+msgstr "Делать резервные копии оригинала"
+
+msgid "Toggle prepending"
+msgstr "Добавлять в начало"
+
+msgid "Toggle the case sensitivity of the search"
+msgstr "Искать с учётом регистра"
+
+msgid "Toggle the use of DOS format"
+msgstr "Использовать формат DOS"
+
+msgid "Toggle the use of Mac format"
+msgstr "Использовать формат Mac"
+
+msgid "Toggle the use of a new buffer"
+msgstr "Использовать новый буфер"
+
+msgid "Toggle the use of regular expressions"
+msgstr "Использовать регулярные выражения"
+
+msgid "Too many backup files?"
+msgstr "Слишком много резервных файлов?"
+
+msgid "Two single-column characters required"
+msgstr "Требуется два однострочных символа"
+
+msgid "Type '%s -h' for a list of available options.\n"
+msgstr "Введите «%s -h» для получения списка доступных опций.\n"
+
+msgid "Uncut Text"
+msgstr "Отмен. вырезку"
+
+msgid "Uncut from the cutbuffer into the current line"
+msgstr "Вставить содержимое буфера обмена в текущую строку"
+
+msgid "Undid action (%s)"
+msgstr "Отменённое действие (%s)"
+
+msgid "Undo"
+msgstr "Отмена"
+
+msgid "Undo the last operation"
+msgstr "Отменить последнее действие"
+
+msgid "Unicode Input"
+msgstr "Юникод код"
+
+msgid "Unindent Text"
+msgstr "ОтмОтступа"
+
+msgid "Unindent the current line"
+msgstr "Уменьшить отступ строки"
+
+msgid "Unjustify"
+msgstr "Отмен. растяж."
+
+msgid "Unknown Command"
+msgstr "Неизвестная команда"
+
+msgid "Unknown option \"%s\""
+msgstr "Неизвестная опция «%s»"
+
+msgid ""
+"Usage: nano [OPTIONS] [[+LINE,COLUMN] FILE]...\n"
+"\n"
+msgstr ""
+"Использование: nano [ОПЦИИ] [[+СТРОКА,СТОЛБЕЦ] ФАЙЛ]...\n"
+"\n"
+
+msgid "Use \"fg\" to return to nano.\n"
+msgstr "Используйте «fg» для возврата в nano\n"
+
+msgid "Use (vim-style) lock files"
+msgstr "Использовать файлы блокировки (vim-стиль)"
+
+msgid "Use bold instead of reverse video text"
+msgstr "Использовать жирный шрифт вместо обычного"
+
+msgid "Use of one more line for editing"
+msgstr "Использование дополнительной строки для редактирования"
+
+msgid "Use one more line for editing"
+msgstr "Использование дополнительной строки для редактирования"
+
+msgid "Verbatim"
+msgstr "Подробный"
+
+msgid "Verbatim Input"
+msgstr "Ввод «как есть»"
+
+msgid "View"
+msgstr "Смотр"
+
+msgid "View mode (read-only)"
+msgstr "Режим просмотра (только чтение)"
+
+msgid ""
+"Warning: Modifying a file which is not locked, check directory permission?"
+msgstr ""
+"Предупреждение: Изменяя не заблокированный файл, проверять доступ к каталогу?"
+
+msgid "Where Is"
+msgstr "Поиск"
+
+msgid "WhereIs Next"
+msgstr "Найти далее"
+
+msgid "Whitespace display"
+msgstr "Отображение пробелов"
+
+msgid "Window size is too small for nano...\n"
+msgstr "Размер окна слишком мал для Nano...\n"
+
+msgid "Word Count"
+msgstr "Счётчик слов"
+
+msgid ""
+"Write File Help Text\n"
+"\n"
+" Type the name that you wish to save the current file as and press Enter to "
+"save the file.\n"
+"\n"
+" If you have selected text with the mark, you will be prompted to save only "
+"the selected portion to a separate file.  To reduce the chance of "
+"overwriting the current file with just a portion of it, the current filename "
+"is not the default in this mode.\n"
+"\n"
+" The following function keys are available in Write File mode:\n"
+"\n"
+msgstr ""
+"Текст помощи режима Запись файла\n"
+"\n"
+" Наберите имя под которым вы хотите сохранить текущий файл и нажмите Ввод.\n"
+"\n"
+" Если вы отметили текст при помощи Ctrl-^, вам предложат записать только "
+"выделенную часть в отдельный файл. Чтобы понизить шансы переписывания "
+"текущего файла частью этого файла, текущее имя файла не будет именем по "
+"умолчанию в этом режиме.\n"
+"\n"
+" Следующие клавиши доступны в режиме записи файла:\n"
+"\n"
+
+msgid "Write Out"
+msgstr "Записать"
+
+msgid "Write Selection to File"
+msgstr "Записать выделенное в файл"
+
+msgid "Write the current file to disk"
+msgstr "Записать текущий файл на диск"
+
+msgid "Wrote %lu line"
+msgid_plural "Wrote %lu lines"
+msgstr[0] "Записана %lu строка"
+msgstr[1] "Записано %lu строки"
+msgstr[2] "Записано %lu строк"
+
+msgid "XOFF ignored, mumble mumble"
+msgstr "XOFF проигнорирован, мр-бр-бр"
+
+msgid "XON ignored, mumble mumble"
+msgstr "XON проигнорирован, мр-бр-бр"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yy"
+msgstr "YyДд"
+
+msgid "and anyone else we forgot..."
+msgstr ""
+"Дмитрию Рязанцеву за помощь в переводе и всем остальным, кого мы забыли "
+"упомянуть..."
+
+msgid "disabled"
+msgstr "отключено"
+
+msgid "enable/disable"
+msgstr "разрешить/запретить"
+
+msgid "enabled"
+msgstr "включено"
+
+msgid "line %ld/%ld (%d%%), col %lu/%lu (%d%%), char %lu/%lu (%d%%)"
+msgstr "строка %ld/%ld (%d%%), столбец %lu/%lu (%d%%), символ %lu/%lu (%d%%)"
+
+msgid "line break"
+msgstr "новая строка"
+
+msgid "line join"
+msgstr "объединение строк"
+
+msgid "nano is out of memory!"
+msgstr "Недостаточно памяти для nano!"
+
+msgid "text add"
+msgstr "добавление текста"
+
+msgid "text cut"
+msgstr "обрезка текста"
+
+msgid "text delete"
+msgstr "удаление текста"
+
+msgid "text insert"
+msgstr "вставка текста"
+
+msgid "text replace"
+msgstr "замена текста"
+
+msgid "text uncut"
+msgstr "отмена обрезки текста"
+
+msgid "version"
+msgstr "версия"

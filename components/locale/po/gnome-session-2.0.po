@@ -1,0 +1,379 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-"
+"session&component=general\n"
+"POT-Creation-Date: 2010-09-21 19:47+0000\n"
+"PO-Revision-Date: 2010-09-24 08:27+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid " - the GNOME session manager"
+msgstr "— менеджер сеансов GNOME"
+
+msgid "<b>Some programs are still running:</b>"
+msgstr "<b>Некоторые программы всё еще работают:</b>"
+
+msgid "A program is still running:"
+msgstr "Программа всё ещё работает:"
+
+msgid "Add Startup Program"
+msgstr "Новая автоматически запускаемая программа"
+
+msgid "Additional startup _programs:"
+msgstr "Дополнительные _программы, запускаемые при старте:"
+
+msgid "Application does not accept documents on command line"
+msgstr "Приложение не принимает документы, указанные в командной строке"
+
+msgid "Browse…"
+msgstr "Обзор..."
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Не удалось передать URI документа элементу рабочего стола 'Type=Link'"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Choose what applications to start when you log in"
+msgstr "Выберите приложения, запускаемые при входе в сеанс"
+
+msgid "Co_mmand:"
+msgstr "_Команда:"
+
+msgid "Comm_ent:"
+msgstr "Ко_мментарий:"
+
+msgid "Could not connect to the session manager"
+msgstr "Не удалось соединиться с менеджером сеансов"
+
+msgid "Could not create ICE listening socket: %s"
+msgstr "Не удалось создать сокет, слушающий ICE: %s"
+
+msgid "Could not display help document"
+msgstr "Не удалось показать документацию"
+
+msgid "Default session"
+msgstr "Сеанс по умолчанию"
+
+msgid "Disable connection to session manager"
+msgstr "Отключить соединение с менеджером сеансов"
+
+msgid "Do not load user-specified applications"
+msgstr "Не загружать выбранные пользователем приложения"
+
+msgid "Do not require confirmation"
+msgstr "Не требовать подтверждение"
+
+msgid "Edit Startup Program"
+msgstr "Изменить автоматически запускаемую программу"
+
+msgid "Enable debugging code"
+msgstr "Включить отладочный код"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "File Manager"
+msgstr "Менеджер файлов"
+
+msgid "File is not a valid .desktop file"
+msgstr "Файл не является правильным .desktop-файлом"
+
+msgid "GConf key used to look up default session"
+msgstr "Ключ GConf, используемый для поиска сеанса по умолчанию"
+
+msgid "GNOME"
+msgstr "GNOME"
+
+msgid "Hibernate Anyway"
+msgstr "Всё равно перевести в режим сна"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Icon '%s' not found"
+msgstr "Значок «%s» не найден"
+
+msgid "If enabled, gnome-session will prompt the user before ending a session."
+msgstr ""
+"Если этот ключ установлен, gnome-session будет спрашивать пользователя перед "
+"окончанием сеанса."
+
+msgid "If enabled, gnome-session will save the session automatically."
+msgstr ""
+"Если этот ключ установлен, gnome-session будет автоматически сохранять сеанс."
+
+msgid "Kill session"
+msgstr "Убить сеанс"
+
+msgid "List of applications that are part of the default session."
+msgstr "Список приложений, являющихся частью сеанса по умолчанию."
+
+msgid ""
+"List of components that are required as part of the session. (Each element "
+"names a key under \"/desktop/gnome/session/required_components\"). The "
+"Startup Applications preferences tool will not normally allow users to "
+"remove a required component from the session, and the session manager will "
+"automatically add the required components back to the session at login time "
+"if they do get removed."
+msgstr ""
+"Список компонентов, которые требуются запустить как часть этого сеанса. "
+"(каждый элемент соответствует ключу в поддереве «/desktop/gnome/session/"
+"required-components»). Приложение «Параметры запускаемых приложений», как "
+"правило, не позволяет пользователю удалять из сеанса требуемые компоненты, и "
+"менеджер сеансов автоматически добавит требуемые компоненты, если они были "
+"удалены."
+
+msgid "Lock Screen"
+msgstr "Заблокировать экран"
+
+msgid "Log Out Anyway"
+msgstr "Всё равно выйти из системы"
+
+msgid "Log out"
+msgstr "Завершить сеанс"
+
+msgid "Log out of this system now?"
+msgstr "Выйти из системы сейчас?"
+
+msgid "Log out, ignoring any existing inhibitors"
+msgstr "Завершить сеанс, игнорируя любые существующие препятствия"
+
+msgid "Logout prompt"
+msgstr "Запрос при выходе из сеанса"
+
+msgid "NAME"
+msgstr "НАЗВАНИЕ"
+
+msgid "No description"
+msgstr "Нет описания"
+
+msgid "No name"
+msgstr "Нет имени"
+
+msgid "Not a launchable item"
+msgstr "Не является запускаемым элементом"
+
+msgid "Not responding"
+msgstr "Не отвечает"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Override standard autostart directories"
+msgstr "Игнорировать стандартные папки автозапуска"
+
+msgid "Panel"
+msgstr "Панель"
+
+msgid "Program"
+msgstr "Программа"
+
+msgid "Program called with conflicting options"
+msgstr "Программа была вызвана с конфликтующими параметрами"
+
+msgid "Reboot Anyway"
+msgstr "Всё равно перезагрузить"
+
+msgid ""
+"Refusing new client connection because the session is currently being shut "
+"down\n"
+msgstr ""
+"Новые клиентские подключения отклоняются, потому что сеанс сейчас "
+"завершается.\n"
+
+msgid "Required session components"
+msgstr "Требуемые компоненты сеанса"
+
+msgid "S_uspend"
+msgstr "_Ждущий режим"
+
+msgid "Save sessions"
+msgstr "Сохранять сеансы"
+
+msgid "Select Command"
+msgstr "Выберите команду"
+
+msgid "Session management options:"
+msgstr "Параметры управления сеансами:"
+
+msgid "Set the current session name"
+msgstr "Установить название текущего сеанса"
+
+msgid "Show logout dialog"
+msgstr "Отобразить диалог завершения сеанса"
+
+msgid "Show session management options"
+msgstr "Отобразить параметры управления сеансами:"
+
+msgid "Show shutdown dialog"
+msgstr "Отобразить диалог отключения компьютера"
+
+msgid "Shut Down Anyway"
+msgstr "Всё равно выключить"
+
+msgid "Shut down this system now?"
+msgstr "Выключить систему сейчас?"
+
+msgid "Some programs are still running:"
+msgstr "Некоторые программы всё ещё работают:"
+
+msgid "Specify file containing saved configuration"
+msgstr "Указать файл, содержащий сохранённую конфигурацию"
+
+msgid "Specify session management ID"
+msgstr "Указать идентификатор управления сеансом"
+
+msgid "Starting %s"
+msgstr "Запускается «%s»"
+
+msgid "Startup Applications"
+msgstr "Запускаемые приложения"
+
+msgid "Startup Applications Preferences"
+msgstr "Параметры запускаемых приложений"
+
+msgid "Startup Programs"
+msgstr "Автоматически запускаемые программы"
+
+msgid "Suspend Anyway"
+msgstr "Всё равно приостановить систему"
+
+msgid "Switch User Anyway"
+msgstr "Всё равно переключить пользователя"
+
+msgid ""
+"The file manager provides the desktop icons and allows you to interact with "
+"your saved files."
+msgstr ""
+"Менеджер файлов предоставляет значки рабочего стола и позволяет работать с "
+"сохранёнными файлами."
+
+msgid ""
+"The number of minutes of inactivity before the session is considered idle."
+msgstr ""
+"Промежуток времени в минутах, по истечении которого сеанс будет считаться "
+"неактивным."
+
+msgid ""
+"The panel provides the bar at the top or bottom of the screen containing "
+"menus, the window list, status icons, the clock, etc."
+msgstr ""
+"Панель предоставляет собой полосу вверху или внизу экрана, содержащую меню, "
+"список окон, значки состояния, часы и т.д."
+
+msgid "The startup command cannot be empty"
+msgstr "Команда запуска не может быть пустой"
+
+msgid "The startup command is not valid"
+msgstr "Автоматически запускаемая программа недопустима"
+
+msgid ""
+"The window manager is the program that draws the title bar and borders "
+"around windows, and allows you to move and resize windows."
+msgstr ""
+"Менеджер окон - это программа, которая рисует заголовок и обрамление окна, и "
+"позволяет вам перемещать окна и менять их размер."
+
+msgid ""
+"There is a problem with the configuration server.\n"
+"(%s exited with status %d)"
+msgstr ""
+"Произошла проблема с сервером конфигурации.\n"
+"(%s завершился с состоянием %d)"
+
+msgid "This program is blocking logout."
+msgstr "Эта программа блокирует выход из системы."
+
+msgid "This session logs you into GNOME"
+msgstr "Этот сеанс позволяет вам войти в GNOME"
+
+msgid "This system will be automatically shut down in %d second."
+msgid_plural "This system will be automatically shut down in %d seconds."
+msgstr[0] "Система будет выключена автоматически через %d секунду."
+msgstr[1] "Система будет выключена автоматически через %d секунды."
+msgstr[2] "Система будет выключена автоматически через %d секунд."
+
+msgid "Time before session is considered idle"
+msgstr ""
+"Промежуток времени, по истечении которого сеанс будет считаться неактивным"
+
+msgid "Unable to start login session (and unable to connect to the X server)"
+msgstr "Не удалось запустить сеанс (и подключиться к X-серверу)"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Нераспознанная версия desktop-файла «%s»"
+
+msgid "Unrecognized launch option: %d"
+msgstr "Нераспознанный параметр запуска: %d"
+
+msgid "Use dialog boxes for errors"
+msgstr "Использовать диалоговые окна для ошибок"
+
+msgid "Version of this application"
+msgstr "Версия этого приложения"
+
+msgid ""
+"Waiting for programs to finish.  Interrupting these programs may cause you "
+"to lose work."
+msgstr ""
+"Ожидание завершения работы программ.  Прерывание этих программ может "
+"привести к потере вашей работы."
+
+msgid ""
+"Waiting for the program to finish.  Interrupting the program may cause you "
+"to lose work."
+msgstr ""
+"Ожидание завершения работы программы.  Прерывание работы программы может "
+"привести к потере вашех данных."
+
+msgid "Window Manager"
+msgstr "Менеджер окон"
+
+msgid "You are currently logged in as \"%s\"."
+msgstr "Вы вошли в систему как пользователь «%s»."
+
+msgid "You will be automatically logged out in %d second."
+msgid_plural "You will be automatically logged out in %d seconds."
+msgstr[0] "Вы автоматически выйдете из системы через %d секунду."
+msgstr[1] "Вы автоматически выйдете из системы через %d секунды."
+msgstr[2] "Вы автоматически выйдете из системы через %d секунд."
+
+msgid "_Automatically remember running applications when logging out"
+msgstr "_Автоматически запоминать запущенные приложения при выходе из сеанса"
+
+msgid "_Hibernate"
+msgstr "_Спящий режим"
+
+msgid "_Log Out"
+msgstr "_Завершить сеанс"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_Remember Currently Running Application"
+msgstr "_Запомнить запущенные приложения"
+
+msgid "_Restart"
+msgstr "Пе_резагрузить"
+
+msgid "_Shut Down"
+msgstr "В_ыключить"
+
+msgid "_Switch User"
+msgstr "_Переключить пользователя"

@@ -1,0 +1,3988 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+.master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtk"
+"%2b&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-09-25 09:08+0000\n"
+"PO-Revision-Date: 2014-09-25 14:54+0300\n"
+"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
+"Language-Team: Русский <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: Gtranslator 2.91.6\n"
+
+msgid ""
+"\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgstr ""
+"«%s» не может быть преобразовано к значению типа «%s» для атрибута «%s»"
+
+msgid "\"%s\" is not a valid attribute name"
+msgstr "«%s» не является допустимым именем атрибута"
+
+msgid "\"%s\" is not a valid attribute type"
+msgstr "«%s» не является допустимым типом атрибута"
+
+msgid "\"%s\" is not a valid value for attribute \"%s\""
+msgstr "«%s» не является допустимым значением атрибута «%s»"
+
+msgid "%-I:%M %P"
+msgstr "%-I:%M %P"
+
+msgid "%1$s on %2$s"
+msgstr "%1$s на %2$s"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%p (%s)"
+msgstr "%p (%s)"
+
+msgid "%s already exists in the bookmarks list"
+msgstr "%s уже есть в списке закладок"
+
+msgid "%s does not exist in the bookmarks list"
+msgstr "%s отсутствует в списке закладок"
+
+msgid "%s job #%d"
+msgstr "%s задание №%d"
+
+msgid "%s: error launching application: %s\n"
+msgstr "%s: ошибка запуска приложения: %s\n"
+
+msgid "%s: missing application name"
+msgstr "%s: отсутствует название приложения"
+
+msgid "%s: no such application %s"
+msgstr "%s: отсутствует приложение %s"
+
+msgid "(None)"
+msgstr "(Нет)"
+
+msgid "; "
+msgstr "; "
+
+msgid "<%s> element has invalid ID \"%s\""
+msgstr "Элемент <%s> имеет ошибочный идентификатор «%s»"
+
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
+msgstr "Элемент <%s> не имеет ни атрибута «name», ни «id»"
+
+msgid "A <%s> element has already been specified"
+msgstr "Элемент <%s> уже был определён"
+
+msgid "A <text> element can't occur before a <tags> element"
+msgstr "Элемент <text> не может быть расположен до элемента <tags>"
+
+msgid "A file named “%s” already exists.  Do you want to replace it?"
+msgstr "Файл с именем «%s» уже существует. Заменить его?"
+
+msgid "APPLICATION [URI…] — launch an APPLICATION with URI."
+msgstr "ПРИЛОЖЕНИЕ [URI…] — запустить ПРИЛОЖЕНИЕ по URI."
+
+msgid "A_t:"
+msgstr "_В:"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "About %s"
+msgstr "О программе %s"
+
+msgctxt "Accelerator"
+msgid "Disabled"
+msgstr "Выключен"
+
+msgctxt "Accelerator"
+msgid "Invalid"
+msgstr "Неверный"
+
+msgid "Action"
+msgstr "Действие"
+
+msgctxt "Action description"
+msgid "Activates the cell"
+msgstr "Активирует ячейку"
+
+msgctxt "Action description"
+msgid "Activates the color"
+msgstr "Активирует цвет"
+
+msgctxt "Action description"
+msgid "Activates the entry"
+msgstr "Активирует запись"
+
+msgctxt "Action description"
+msgid "Activates the expander"
+msgstr "Активирует экспандер"
+
+msgctxt "Action description"
+msgid "Clicks the button"
+msgstr "Нажимает на кнопку"
+
+msgctxt "Action description"
+msgid "Clicks the menuitem"
+msgstr "Щёлкает по пункту меню"
+
+msgctxt "Action description"
+msgid "Creates a widget in which the contents of the cell can be edited"
+msgstr "Создаёт виджет, содержимое ячейки которого можно изменять"
+
+msgctxt "Action description"
+msgid "Customizes the color"
+msgstr "Изменяет цвет"
+
+msgctxt "Action description"
+msgid "Dismisses the slider"
+msgstr "Убирает ползунок"
+
+msgctxt "Action description"
+msgid "Expands or contracts the row in the tree view containing this cell"
+msgstr "Разворачивает или сворачивает в дереве строку, содержащую эту ячейку"
+
+msgctxt "Action description"
+msgid "Pops up the slider"
+msgstr "Показыват ползунок"
+
+msgctxt "Action description"
+msgid "Presses the combobox"
+msgstr "Нажимает на выпадающий список"
+
+msgctxt "Action description"
+msgid "Selects the color"
+msgstr "Выбирает цвет"
+
+msgctxt "Action description"
+msgid "Toggles the cell"
+msgstr "Переключает ячейку"
+
+msgctxt "Action description"
+msgid "Toggles the switch"
+msgstr "Изменяет состояние переключателя"
+
+msgctxt "Action name"
+msgid "Activate"
+msgstr "Активировать"
+
+msgctxt "Action name"
+msgid "Click"
+msgstr "Щёлкнуть"
+
+msgctxt "Action name"
+msgid "Customize"
+msgstr "Изменить"
+
+msgctxt "Action name"
+msgid "Dismiss"
+msgstr "Убрать"
+
+msgctxt "Action name"
+msgid "Edit"
+msgstr "Изменить"
+
+msgctxt "Action name"
+msgid "Expand or contract"
+msgstr "Развернуть или свернуть"
+
+msgctxt "Action name"
+msgid "Popup"
+msgstr "Показать"
+
+msgctxt "Action name"
+msgid "Press"
+msgstr "Нажать"
+
+msgctxt "Action name"
+msgid "Select"
+msgstr "Выбрать"
+
+msgctxt "Action name"
+msgid "Toggle"
+msgstr "Переключить"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Activate"
+msgstr "Включить"
+
+msgid "Add Cover Page"
+msgstr "Добавить титульный лист"
+
+msgid "Add a class"
+msgstr "Добавить класс"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Adjusts the volume"
+msgstr "Регулирует громкость"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "After"
+msgstr "После"
+
+msgid "All sheets"
+msgstr "Все листы"
+
+msgid "Allocated size"
+msgstr "Занимаемый размер"
+
+msgid "Alpha"
+msgstr "Альфа"
+
+msgid "Amharic (EZ+)"
+msgstr "Амхарский (EZ+)"
+
+msgid "Amount of blue light in the color."
+msgstr "Количество синего оттенка в цвете."
+
+msgid "Amount of green light in the color."
+msgstr "Количество зелёного оттенка в цвете."
+
+msgid "Amount of red light in the color."
+msgstr "Количество красного оттенка в цвете."
+
+msgid "Animations"
+msgstr "Анимации"
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr "Найден анонимный тег; теги не могут быть созданы."
+
+msgid "Any Printer"
+msgstr "Любой принтер"
+
+msgid "Application"
+msgstr "Приложение"
+
+msgid "Application menu"
+msgstr "Меню приложения"
+
+msgid "Artistic License 2.0"
+msgstr "Artistic License 2.0"
+
+msgid "Artwork by"
+msgstr "Графический дизайн"
+
+msgid "Attribute"
+msgstr "Атрибут"
+
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr "Атрибут «%s» ошибочен в элементе <%s> в этом контексте"
+
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr "Атрибут «%s» дважды повторяется в одном элементе <%s>"
+
+msgid "Attribute mapping"
+msgstr "Соответствие атрибутов"
+
+msgid "Authentication"
+msgstr "Проверка доступа"
+
+msgid "Authentication is required on %s"
+msgstr "Для доступа к %s нужно ввести пароль"
+
+msgid "Authentication is required to get a file from %s"
+msgstr "Для получения файла из %s требуется проверить права доступа"
+
+msgid "Authentication is required to get attributes of a job"
+msgstr "Для получения параметров задания требуется проверить права доступа"
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr "Для получения параметров принтера требуется проверить права доступа"
+
+msgid "Authentication is required to get attributes of job '%s'"
+msgstr "Для получения параметров задания %s требуется проверить права доступа"
+
+msgid "Authentication is required to get attributes of printer %s"
+msgstr "Для получения параметров принтера %s требуется проверить права доступа"
+
+msgid "Authentication is required to get default printer of %s"
+msgstr ""
+"Для получения принтера по умолчанию на %s требуется проверить права доступа"
+
+msgid "Authentication is required to get printers from %s"
+msgstr "Для получения списка принтеров от %s требуется проверить права доступа"
+
+msgid "Authentication is required to print a document on %s"
+msgstr "Для печати документа на принтере %s требуется проверить права доступа"
+
+msgid "Authentication is required to print document '%s'"
+msgstr ""
+"Для печати документа на принтере '%s' требуется проверить права доступа"
+
+msgid "Authentication is required to print document '%s' on printer %s"
+msgstr ""
+"Для печати документа %s на принтере %s требуется проверить права доступа"
+
+msgid "Authentication is required to print this document"
+msgstr ""
+"Для печати этого документа на принтере требуется проверить права доступа"
+
+msgid "Authentication is required to print this document on printer %s"
+msgstr "Для печати документа на принтере %s требуется проверить права доступа"
+
+msgid "Auto Select"
+msgstr "Автовыбор"
+
+msgid "BSD 2-Clause License"
+msgstr "BSD 2-Clause License"
+
+msgid "Backend does not support window scaling"
+msgstr "Движок не поддерживает масштабирование окон"
+
+msgid "Be_fore:"
+msgstr "_До:"
+
+msgid "Before"
+msgstr "До"
+
+msgid "Billing Info"
+msgstr "Расположение"
+
+msgid "Binding:"
+msgstr "Привязка:"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "Both"
+msgstr "Оба"
+
+msgid "Both \"id\" and \"name\" were found on the <%s> element"
+msgstr "В элементе <%s> присутствует как «id», так и «name»"
+
+msgid "Bottom to top"
+msgstr "Снизу вверх"
+
+msgid "Bottom to top, left to right"
+msgstr "Снизу вверх, слева направо"
+
+msgid "Bottom to top, right to left"
+msgstr "Снизу вверх, справа налево"
+
+msgid "Bourne Again Shell"
+msgstr "Bourne Again Shell"
+
+msgid "Bourne Shell"
+msgstr "Bourne Shell"
+
+msgid "Brightness of the color."
+msgstr "Яркость цвета."
+
+msgid "Browse Network"
+msgstr "Обзор сети"
+
+msgid "Browse the contents of the network"
+msgstr "Обзор содержимого сети"
+
+msgid "Bubble"
+msgstr "Восходящий"
+
+msgid "Buildable ID"
+msgstr "Идентификатор"
+
+msgid "CLASS"
+msgstr "КЛАСС"
+
+msgid "COLORS"
+msgstr "КОЛИЧЕСТВО_ЦВЕТОВ"
+
+msgid "CSS Classes"
+msgstr "CSS-классы"
+
+msgid "C_ollate"
+msgstr "_Упорядочить"
+
+msgid "C_urrent Page"
+msgstr "_Текущую страницу"
+
+msgid "Cache file created successfully.\n"
+msgstr "Кэш-файл успешно создан.\n"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Cannot change to folder because it is not local"
+msgstr "Не удалось перейти в папку, так как она не является локальной"
+
+msgid "Cannot create a file under %s as it is not a folder"
+msgstr "Невозможно создать файл в %s, так как это не папка"
+
+msgid "Cannot create file as the filename is too long"
+msgstr "Невозможно создать файл: имя файла слишком длинное"
+
+msgid "Cannot end process with PID %d: %s"
+msgstr "Не удалось завершить процесс с PID %d: %s"
+
+msgid "Cannot kill process with PID %d. Operation is not implemented."
+msgstr "Не удалось убить процесс с PID %d. Операция не выполнена."
+
+msgid "Cannot open display: %s"
+msgstr "Не удалось открыть дисплей: %s"
+
+msgid "Caps Lock is on"
+msgstr "Включён режим Caps Lock"
+
+msgid "Capture"
+msgstr "Нисходящий"
+
+msgid "Cedilla"
+msgstr "Седиль"
+
+msgid "Changes are applied instantly and globally, for the whole application."
+msgstr "Изменения вступят в силу немедленно для всего приложения."
+
+msgid "Changes are applied instantly, only for this selected widget."
+msgstr "Изменения вступят в силу немедленно только для выбранного виджета."
+
+msgid "Child Properties"
+msgstr "Дочерние свойства"
+
+msgid "Choose a widget through the inspector"
+msgstr "Выберите виджет в инспекторе"
+
+msgid "Class name"
+msgstr "Имя класса"
+
+msgid "Classified"
+msgstr "Классифицировано"
+
+msgid "Clear log"
+msgstr "Очистить журнал"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"Нажмите на пипетку и выберите с помощью щелчка цвет на любом месте экрана."
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry, "
+"drag a color swatch here or right-click it and select \"Save color here.\""
+msgstr ""
+"Щёлкните по элементу в палитре, чтобы сделать его текущим цветом. Чтобы "
+"изменить этот элемент, перетащите сюда образец цвета или щёлкните правой "
+"клавишей и выберите «Сохранить цвет здесь»"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Co_nnect"
+msgstr "_Подключиться"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgctxt "Color Channel"
+msgid "S"
+msgstr "S"
+
+msgctxt "Color Channel"
+msgid "V"
+msgstr "V"
+
+msgid "Color Name"
+msgstr "Наименование цвета"
+
+msgid "Color Plane"
+msgstr "Цветовая плоскость"
+
+msgid "Color Selection"
+msgstr "Выбор цвета"
+
+msgid "Color Wheel"
+msgstr "Цветовой круг"
+
+msgid "Color _name:"
+msgstr "Наи_менование цвета:"
+
+msgctxt "Color channel"
+msgid "A"
+msgstr "A"
+
+msgctxt "Color channel"
+msgid "Alpha"
+msgstr "Альфа"
+
+msgctxt "Color channel"
+msgid "H"
+msgstr "H"
+
+msgctxt "Color channel"
+msgid "Hue"
+msgstr "Тон"
+
+msgid "Color management unavailable"
+msgstr "Управление цветом недоступно"
+
+msgctxt "Color name"
+msgid "Aluminum 1"
+msgstr "Алюминий 1"
+
+msgctxt "Color name"
+msgid "Aluminum 2"
+msgstr "Алюминий 2"
+
+msgctxt "Color name"
+msgid "Black"
+msgstr "Чёрный"
+
+msgctxt "Color name"
+msgid "Butter"
+msgstr "Масло"
+
+msgctxt "Color name"
+msgid "Chameleon"
+msgstr "Хамелеон"
+
+msgctxt "Color name"
+msgid "Chocolate"
+msgstr "Шоколадный"
+
+msgctxt "Color name"
+msgid "Dark Aluminum 1"
+msgstr "Тёмный алюминий 1"
+
+msgctxt "Color name"
+msgid "Dark Aluminum 2"
+msgstr "Тёмный алюминий 2"
+
+msgctxt "Color name"
+msgid "Dark Butter"
+msgstr "Тёмное масло"
+
+msgctxt "Color name"
+msgid "Dark Chameleon"
+msgstr "Тёмный хамелеон"
+
+msgctxt "Color name"
+msgid "Dark Chocolate"
+msgstr "Тёмный шоколад"
+
+msgctxt "Color name"
+msgid "Dark Gray"
+msgstr "Тёмно-серый"
+
+msgctxt "Color name"
+msgid "Dark Orange"
+msgstr "Тёмно-оранжевый"
+
+msgctxt "Color name"
+msgid "Dark Plum"
+msgstr "Тёмная слива"
+
+msgctxt "Color name"
+msgid "Dark Scarlet Red"
+msgstr "Тёмно-алый"
+
+msgctxt "Color name"
+msgid "Dark Sky Blue"
+msgstr "Тёмный небесно-голубой"
+
+msgctxt "Color name"
+msgid "Darker Gray"
+msgstr "Более тёмный серый"
+
+msgctxt "Color name"
+msgid "Light Aluminum 1"
+msgstr "Светлый алюминий 1"
+
+msgctxt "Color name"
+msgid "Light Aluminum 2"
+msgstr "Светлый алюминий 2"
+
+msgctxt "Color name"
+msgid "Light Butter"
+msgstr "Светлое масло"
+
+msgctxt "Color name"
+msgid "Light Chameleon"
+msgstr "Светлый хамелеон"
+
+msgctxt "Color name"
+msgid "Light Chocolate"
+msgstr "Светлый шоколад"
+
+msgctxt "Color name"
+msgid "Light Gray"
+msgstr "Светло-серый"
+
+msgctxt "Color name"
+msgid "Light Orange"
+msgstr "Светло-оранжевый"
+
+msgctxt "Color name"
+msgid "Light Plum"
+msgstr "Светлая слива"
+
+msgctxt "Color name"
+msgid "Light Scarlet Red"
+msgstr "Светло-алый"
+
+msgctxt "Color name"
+msgid "Light Sky Blue"
+msgstr "Светлый небесно-голубой"
+
+msgctxt "Color name"
+msgid "Lighter Gray"
+msgstr "Более светлый серый"
+
+msgctxt "Color name"
+msgid "Medium Gray"
+msgstr "Серый"
+
+msgctxt "Color name"
+msgid "Orange"
+msgstr "Оранжевый"
+
+msgctxt "Color name"
+msgid "Plum"
+msgstr "Сливовый"
+
+msgctxt "Color name"
+msgid "Scarlet Red"
+msgstr "Алый"
+
+msgctxt "Color name"
+msgid "Sky Blue"
+msgstr "Небесно-голубой"
+
+msgctxt "Color name"
+msgid "Very Dark Gray"
+msgstr "Очень тёмный серый"
+
+msgctxt "Color name"
+msgid "Very Light Gray"
+msgstr "Очень светлый серый"
+
+msgctxt "Color name"
+msgid "White"
+msgstr "Белый"
+
+msgid "Color: %s"
+msgstr "Цвет: %s"
+
+msgid "Column:"
+msgstr "Столбец:"
+
+msgid "Command Line"
+msgstr "Командная строка"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid "Confidential"
+msgstr "Конфиденциально"
+
+msgid "Connect As"
+msgstr "Подключиться как"
+
+msgid "Connect to Server"
+msgstr "Подключиться…"
+
+msgid "Connect to a network server address"
+msgstr "Подключение к серверу по сетевому адресу"
+
+msgid "Connected"
+msgstr "Подключён"
+
+msgid "Convert to PS level 1"
+msgstr "Преобразовать в формат PS уровень 1"
+
+msgid "Convert to PS level 2"
+msgstr "Преобразовать в формат PS уровень 2"
+
+msgid "Copie_s:"
+msgstr "_Копий:"
+
+msgid "Copies"
+msgstr "Копии"
+
+msgid "Copy URL"
+msgstr "Копировать URL"
+
+msgid "Copy _Link Address"
+msgstr "_Скопировать адрес ссылки"
+
+msgid "Copy _Location"
+msgstr "Копировать _адрес"
+
+msgid "Could not clear list"
+msgstr "Не удалось очистить список"
+
+msgid "Could not read the contents of %s"
+msgstr "Не удалось прочитать содержимое %s"
+
+msgid "Could not read the contents of the folder"
+msgstr "Не удалось прочитать содержимое папки"
+
+msgid "Could not remove item"
+msgstr "Не удалось удалить элемент"
+
+msgid "Could not rename %s back to %s: %s.\n"
+msgstr "Не удалось переименовать %s обратно в  %s: %s\n"
+
+msgid "Could not rename %s to %s: %s\n"
+msgstr "Не удалось переименовать %s в %s: %s\n"
+
+msgid "Could not rename %s to %s: %s, removing %s then.\n"
+msgstr "Не удалось переименовать %s в %s: %s, удаляя затем %s.\n"
+
+msgid "Could not select file"
+msgstr "Не удалось выделить файл"
+
+msgid "Could not send the search request"
+msgstr "Не удалось послать запрос на поиск"
+
+msgid "Could not show link"
+msgstr "Не удалось показать ссылку"
+
+msgid "Could not start the search process"
+msgstr "Не удалось начать поиск"
+
+msgid "Count"
+msgstr "Счётчик"
+
+msgid "Count:"
+msgstr "Счётчик:"
+
+msgid "Create Fo_lder"
+msgstr "Создать п_апку"
+
+msgid "Create a custom color"
+msgstr "Создать другой цвет"
+
+msgid "Created by"
+msgstr "Автор"
+
+msgid "Creating AppInfo from id not supported on non unix operating systems"
+msgstr "Создание AppInfo из id поддерживается только в системах UNIX"
+
+msgid "Credits"
+msgstr "Благодарности"
+
+msgid "Cu_t"
+msgstr "В_ырезать"
+
+msgid "Custom"
+msgstr "Другой"
+
+msgid "Custom %sx%s"
+msgstr "Особый %sx%s"
+
+msgid "Custom CSS"
+msgstr "Собственный CSS"
+
+msgid "Custom License"
+msgstr "Другая лицензия"
+
+msgid "Custom Size %d"
+msgstr "Пользовательский размер %d"
+
+msgid "Custom color"
+msgstr "Другой цвет"
+
+msgid "Custom color %d: %s"
+msgstr "Другой цвет %d: %s"
+
+msgid "Custom size"
+msgstr "Пользовательский размер"
+
+msgid "Cyrillic (Transliterated)"
+msgstr "Кириллица (транслитерация)"
+
+msgid "DISPLAY"
+msgstr "ДИСПЛЕЙ"
+
+msgid "Dark variant"
+msgstr "Тёмный вариант"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Decreases the volume"
+msgstr "Понижает громкость"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default Application"
+msgstr "Приложение по умолчанию"
+
+msgid "Default Widget"
+msgstr "Виджет по умолчанию"
+
+msgid "Defined At"
+msgstr "Определён в"
+
+msgid "Defined at: %p (%s)"
+msgstr "Определено в: %p (%s)"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Devices"
+msgstr "Устройства"
+
+msgid ""
+"Dialog is locked.\n"
+"Click to make changes"
+msgstr ""
+"Диалоговое окно заблокировано.\n"
+"Нажмите, чтобы сделать изменения"
+
+msgid ""
+"Dialog is unlocked.\n"
+"Click to prevent further changes"
+msgstr ""
+"Диалоговое окно разблокировано.\n"
+"Нажмите, чтобы предотвратить дальнейшие изменения"
+
+msgid "Disable this custom CSS"
+msgstr "Выключить этот изменённый CSS"
+
+msgid "Do use the Wintab API [default]"
+msgstr "Не использовать Wintab API [по умолчанию]"
+
+msgid "Do you want to use GTK+ Inspector?"
+msgstr "Хотите использовать инспектор GTK+?"
+
+msgid "Documented by"
+msgstr "Документация"
+
+msgid "Domain:"
+msgstr "Домен:"
+
+msgid "Don't batch GDI requests"
+msgstr "Не объединять запросы GDI"
+
+msgid "Don't check for the existence of index.theme"
+msgstr "Не проверять существование файла index.theme"
+
+msgid "Don't include image data in the cache"
+msgstr "Не включать изображения в кэш"
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr "Не использовать Wintab API для поддержки планшета"
+
+msgid "Dormant"
+msgstr "В спящем режиме"
+
+msgid "Down Path"
+msgstr "Вниз по дереву"
+
+msgid "Duplicate object ID '%s' on line %d (previously on line %d)"
+msgstr ""
+"Повторяющийся идентификатор объекта «%s» в строке %d (ранее — в строке %d)"
+
+msgid "Element <%s> is not allowed below <%s>"
+msgstr "Элемент <%s> не может располагаться после <%s>"
+
+msgid "Element <%s> not allowed at toplevel"
+msgstr "Элемент <%s> не может использоваться для верхнего уровня"
+
+msgid "Element <%s> not allowed inside <%s>"
+msgstr "Элемент <%s> не может находиться внутри <%s>"
+
+msgid "Embed GhostScript fonts only"
+msgstr "Встраивать только шрифты GhostScript"
+
+msgid "Empty"
+msgstr "Пусто"
+
+msgid "Enabled"
+msgstr "Включён"
+
+msgid "Enter Location"
+msgstr "Введите расположение"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error creating print preview"
+msgstr "Не удалось создать предварительный просмотр"
+
+msgid "Error from StartDoc"
+msgstr "Ошибка от StartDoc"
+
+msgid "Error launching preview"
+msgstr "Ошибка предварительного просмотра"
+
+msgid "Error parsing commandline options: %s\n"
+msgstr "Ошибка при разборе параметров командной строки: %s\n"
+
+msgid "Error parsing option --gdk-debug"
+msgstr "Ошибка при разборе параметра --gdk-debug"
+
+msgid "Error parsing option --gdk-no-debug"
+msgstr "Ошибка при разборе параметра --gdk-no-debug"
+
+msgid "Even sheets"
+msgstr "Четные листы"
+
+msgid "FLAGS"
+msgstr "ФЛАГИ"
+
+msgid "Failed to load icon"
+msgstr "Не удалось загрузить значок"
+
+msgid "Failed to open file %s : %s\n"
+msgstr "Не удалось открыть файл %s : %s\n"
+
+msgid "Failed to rewrite header\n"
+msgstr "Сбой при перезаписи заголовка\n"
+
+msgid "Failed to start GNOME Software"
+msgstr "Не удалось запустить менеджер приложений GNOME"
+
+msgid "Failed to write cache file: %s\n"
+msgstr "Сбой при открытии кэш-файла: %s\n"
+
+msgid "Failed to write folder index\n"
+msgstr "Сбой при записи индекса папки\n"
+
+msgid "Failed to write hash table\n"
+msgstr "Сбой при записи хеш-таблицы\n"
+
+msgid "Failed to write header\n"
+msgstr "Сбой при записи заголовка\n"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "File System Root"
+msgstr "Корень файловой системы"
+
+msgid "File not found: %s\n"
+msgstr "Файл не найден: %s\n"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Finishing"
+msgstr "Завершение"
+
+msgid "Focus Widget"
+msgstr "Фокусный виджет"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font Family"
+msgstr "Гарнитура шрифта"
+
+msgid "Font Selection"
+msgstr "Выбор шрифта"
+
+msgid "For portable documents"
+msgstr "Для переносимых документов"
+
+msgid "Forget association"
+msgstr "Забыть ассоциацию"
+
+msgid "Forget password _immediately"
+msgstr "_Забыть пароль немедленно"
+
+msgid "Full Volume"
+msgstr "Полная громкость"
+
+msgid "GDK Backend"
+msgstr "Движок GDK"
+
+msgid "GDK debugging flags to set"
+msgstr "Установить указанные отладочные флаги GDK"
+
+msgid "GDK debugging flags to unset"
+msgstr "Сбросить указанные отладочные флаги GDK"
+
+msgid "GNU General Public License, version 2 only"
+msgstr "GNU General Public License, только версии 2"
+
+msgid "GNU General Public License, version 2 or later"
+msgstr "GNU General Public License, версии 2 или позднее"
+
+msgid "GNU General Public License, version 3 only"
+msgstr "GNU General Public License, только версии 3"
+
+msgid "GNU General Public License, version 3 or later"
+msgstr "GNU General Public License, версии 3 или позднее"
+
+msgid "GNU Lesser General Public License, version 2.1 only"
+msgstr "GNU Lesser General Public License, только версии 2.1"
+
+msgid "GNU Lesser General Public License, version 2.1 or later"
+msgstr "GNU Lesser General Public License, версии 2.1 или позднее"
+
+msgid "GNU Lesser General Public License, version 3 only"
+msgstr "GNU Lesser General Public License, только версии 3"
+
+msgid "GNU Lesser General Public License, version 3 or later"
+msgstr "GNU Lesser General Public License, версии 3 или позднее"
+
+msgid ""
+"GTK+ Inspector is an interactive debugger that lets you explore and modify "
+"the internals of any GTK+ application. Using it may cause the application to "
+"break or crash."
+msgstr ""
+"Инспектор GTK+ — это интерактивный отладчик, позволяющий исследовать и "
+"изменять внутренние данные любого приложения GTK+. Использование инспектора "
+"может привести к зависанию или аварийному завершению приложения."
+
+msgid "GTK+ Inspector — %s"
+msgstr "Инспектор GTK+ — %s"
+
+msgid "GTK+ Options"
+msgstr "Параметры GTK+"
+
+msgid "GTK+ Theme"
+msgstr "Тема GTK+"
+
+msgid "GTK+ Version"
+msgstr "Версия GTK+"
+
+msgid "GTK+ debugging flags to set"
+msgstr "Установить указанные отладочные флаги GTK+"
+
+msgid "GTK+ debugging flags to unset"
+msgstr "Сбросить указанные отладочные флаги GTK+"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Gestures"
+msgstr "Жесты"
+
+msgid "Getting printer information failed"
+msgstr "Не удалось получить информацию о принтере"
+
+msgid "Getting printer information…"
+msgstr "Получение информации о принтере…"
+
+msgid "GhostScript pre-filtering"
+msgstr "Фильтрация GhostScript"
+
+msgid "Hide %s"
+msgstr "Скрыть %s"
+
+msgid "Hide Others"
+msgstr "Скрыть остальные"
+
+msgid "Hierarchy"
+msgstr "Иерархия"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Hold the job until it is explicitly released"
+msgstr "Задержать задание до дополнительной команды"
+
+msgid "Home"
+msgstr "Домашняя папка"
+
+msgid "Horizontal"
+msgstr "Горизонтальный"
+
+msgid "Hue"
+msgstr "Тон"
+
+msgid "IPA"
+msgstr "МФА (IPA)"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Icon '%s' not present in theme"
+msgstr "Значок «%s» не присутствует в теме"
+
+msgid "Icon Theme"
+msgstr "Тема значков"
+
+msgid "Ignore hidden"
+msgstr "Игнорировать скрытые"
+
+msgid "Image Quality"
+msgstr "Качество изображения"
+
+msgid "Include image data in the cache"
+msgstr "Включить изображения в кэш"
+
+msgid "Increases the volume"
+msgstr "Повышает громкость"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Intensity of the color."
+msgstr "Интенсивность цвета."
+
+msgid "Inuktitut (Transliterated)"
+msgstr "Инуктитут (транслитерация)"
+
+msgid "Invalid URI"
+msgstr "Неверный URI"
+
+msgid "Invalid argument to CreateDC"
+msgstr "Неверный аргумент для CreateDC"
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr "Неверный аргумент для PrintDlgEx"
+
+msgid "Invalid file name"
+msgstr "Недопустимое имя файла"
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr "Ошибочный дескриптор PrintDlgEx"
+
+msgid "Invalid object type `%s' on line %d"
+msgstr "Недопустимый тип объекта «%s» в строке %d"
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr "Неверный указатель на PrintDlgEx"
+
+msgid "Invalid property: %s.%s on line %d"
+msgstr "Недопустимое свойство: %s.%s в строке %d"
+
+msgid "Invalid root element: '%s'"
+msgstr "Некорректный корневой элемент «%s»"
+
+msgid "Invalid signal `%s' for type `%s' on line %d"
+msgstr "Недопустимый сигнал «%s» для типа «%s» в строке %d"
+
+msgid "Invalid size %s\n"
+msgstr "Недопустимый размер %s\n"
+
+msgid "Invalid type function on line %d: '%s'"
+msgstr "Недопустимый тип функции в строке %d: «%s»"
+
+msgid "Job"
+msgstr "Задание"
+
+msgid "Job Details"
+msgstr "Сведения о задании"
+
+msgid "Job Priority"
+msgstr "Приоритет"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE Вс_тавка слева направо"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM Метка с_лева направо"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO П_ерекрывание слева направо"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Landscape"
+msgstr "Ландшафтное"
+
+msgid ""
+"Launch specified application by its desktop file info\n"
+"optionally passing list of URIs as arguments."
+msgstr ""
+"Запустить указанное приложение по его файлу desktop,\n"
+"передав необязательный список URI в качестве аргументов."
+
+msgid "Layout"
+msgstr "Размещение"
+
+msgid "Left to right"
+msgstr "Слева направо"
+
+msgid "Left to right, bottom to top"
+msgstr "Слева направо, снизу вверх"
+
+msgid "Left to right, top to bottom"
+msgstr "Слева направо, сверху вниз"
+
+msgid "Left-to-Right"
+msgstr "Слева направо"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "Load additional GTK+ modules"
+msgstr "Загрузить дополнительные модули GTK+"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Lock"
+msgstr "Заблокировать"
+
+msgid "Long Edge (Standard)"
+msgstr "По длинной стороне"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "MODULES"
+msgstr "МОДУЛИ"
+
+msgid "Make all warnings fatal"
+msgstr "Сделать все предупреждения фатальными"
+
+msgid "Manage Custom Sizes"
+msgstr "Управление пользовательскими размерами"
+
+msgid "Manage Custom Sizes…"
+msgstr "Управление размерами…"
+
+msgid "Manually enter a location"
+msgstr "Введите расположение вручную"
+
+msgid "Margins from Printer…"
+msgstr "Поля из принтера…"
+
+msgid ""
+"Margins:\n"
+" Left: %s %s\n"
+" Right: %s %s\n"
+" Top: %s %s\n"
+" Bottom: %s %s"
+msgstr ""
+"Поля:\n"
+" левое: %s %s\n"
+" правое: %s %s\n"
+" верхнее: %s %s\n"
+" нижнее: %s %s"
+
+msgid "Maximize"
+msgstr "Развернуть"
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Minimize"
+msgstr "Свернуть"
+
+msgid "Miscellaneous"
+msgstr "Дополнительно"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid "Modified"
+msgstr "Изменён"
+
+msgid "Mount and open %s"
+msgstr "Смонтировать и открыть %s"
+
+msgid "Multipress"
+msgstr "Мультипресс"
+
+msgid "Muted"
+msgstr "Приглушить"
+
+msgid "NAME"
+msgstr "ИМЯ"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Need user intervention"
+msgstr "Необходимо вмешательство пользователя"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "New accelerator…"
+msgstr "Создать ускоритель…"
+
+msgid "New bookmark"
+msgstr "Создать закладку"
+
+msgid "New class"
+msgstr "Создать класс"
+
+msgid "No applications found for “%s”"
+msgstr "Не найдены приложения для «%s»"
+
+msgid "No applications found for “%s” files"
+msgstr "Не найдено приложение для файлов «%s»"
+
+msgid "No applications found for “%s”."
+msgstr "Нет доступных приложений для открытия «%s»."
+
+msgid "No applications found."
+msgstr "Приложения не найдены."
+
+msgid "No deserialize function found for format %s"
+msgstr "Не найдена функция десериализации для формата %s"
+
+msgid "No fonts matched your search. You can revise your search and try again."
+msgstr ""
+"Нет шрифтов, соответствующих вашему запросу. Попробуйте изменить параметры "
+"поиска."
+
+msgid "No item for URI '%s' found"
+msgstr "Не найден элемент для URI «%s»"
+
+msgid "No items found"
+msgstr "Элементы не найдены"
+
+msgid "No pre-filtering"
+msgstr "Не фильтровать перед печатью"
+
+msgid "No printer found"
+msgstr "Принтеры не найдены"
+
+msgid "No profile available"
+msgstr "Нет доступных профилей"
+
+msgid "No recently used resource found with URI `%s'"
+msgstr "Недавно использовавшийся ресурс не найден по URI «%s»"
+
+msgid "No registered application with name '%s' for item with URI '%s' found"
+msgstr ""
+"Не найдено ни одного зарегистрированного приложения с названием «%s» для "
+"элемента с URI «%s»"
+
+msgid ""
+"No theme index file in '%s'.\n"
+"If you really want to create an icon cache here, use --ignore-theme-index.\n"
+msgstr ""
+"Нет индексного файла темы в «%s».\n"
+"Если Вы действительно хотите создать здесь кэш значков, используйте --ignore-"
+"theme-index.\n"
+
+msgid "No theme index file.\n"
+msgstr "Нет файла с индексом темы.\n"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Not a valid icon cache: %s\n"
+msgstr "Некорректный кэш значков: %s\n"
+
+msgid "Not a valid page setup file"
+msgstr "Некорректный файл настройки печати"
+
+msgid "Not available"
+msgstr "Недоступно"
+
+msgid "Not enough free memory"
+msgstr "Недостаточно свободной памяти"
+
+msgctxt "Number format"
+msgid "%d"
+msgstr "%d"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Object Hierarchy"
+msgstr "Иерархия объектов"
+
+msgid "Object: %p (%s)"
+msgstr "Объект: %p (%s)"
+
+msgid "Objects"
+msgstr "Объекты"
+
+msgid "Odd sheets"
+msgstr "Нечетные листы"
+
+msgid "Offline"
+msgstr "Не доступен"
+
+msgid "On _hold"
+msgstr "О_жидание"
+
+msgid "One Sided"
+msgstr "С одной стороны"
+
+msgid "Online"
+msgstr "Доступен"
+
+msgid "Op_acity:"
+msgstr "Не_прозрачность:"
+
+msgid "Open '%s'"
+msgstr "Открыть «%s»"
+
+msgid "Open in New _Tab"
+msgstr "Открыть в новой _вкладке"
+
+msgid "Open in New _Window"
+msgstr "Открыть в новом _окне"
+
+msgid "Open the contents of the file system"
+msgstr "Открыть содержимое файловой системы"
+
+msgid "Open the contents of your desktop in a folder"
+msgstr "Открыть содержимое рабочего стола в папке"
+
+msgid "Open the trash"
+msgstr "Открыть корзину"
+
+msgid "Open your personal folder"
+msgstr "Открыть личную папку"
+
+msgid "Opening %d Item"
+msgid_plural "Opening %d Items"
+msgstr[0] "Открывается %d элемент"
+msgstr[1] "Открывается %d элемента"
+msgstr[2] "Открывается %d элементов"
+
+msgid "Opening %s"
+msgstr "Открывается %s"
+
+msgid "Opening “%s” files."
+msgstr "Открывает файлы «%s»"
+
+msgid "Opening “%s”."
+msgstr "Открывается «%s»"
+
+msgid "Or_ientation:"
+msgstr "_Ориентация:"
+
+msgid "Other Applications"
+msgstr "Другие приложения"
+
+msgid "Other application…"
+msgstr "Другое приложение…"
+
+msgid "Other…"
+msgstr "Другой…"
+
+msgid "Out of paper"
+msgstr "Нет бумаги"
+
+msgid "Outermost element in text must be <text_view_markup> not <%s>"
+msgstr ""
+"Наиболее удалённым элементом в тексте должен быть <text_view_markup>, а не <"
+"%s>"
+
+msgid "Output Tray"
+msgstr "Лоток вывода"
+
+msgid "Output a C header file"
+msgstr "Выдавать заголовочный файл C"
+
+msgid "Output t_ray:"
+msgstr "Выходной лоток:"
+
+msgid "Output to this directory instead of cwd"
+msgstr "Записывать в этот каталог вместо текущего"
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr "Перезаписать существующий кэш-файл, даже если он обновлён"
+
+msgid "PDF"
+msgstr "PDF"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF _Расположение по вертикали"
+
+msgid "Pag_es:"
+msgstr "Страни_цы:"
+
+msgid "Page %u"
+msgstr "Страница %u"
+
+msgid "Page Ordering"
+msgstr "Порядок страниц"
+
+msgid "Page Setup"
+msgstr "Параметры страницы"
+
+msgid "Page or_dering:"
+msgstr "Порядок ст_раниц:"
+
+msgid "Pages"
+msgstr "Страницы"
+
+msgid "Pages Per Sheet"
+msgstr "Страниц на лист"
+
+msgid "Pages per Sheet"
+msgstr "Страниц на лист"
+
+msgid "Pages per _sheet:"
+msgstr "Страниц на _лист:"
+
+msgid "Pages per _side:"
+msgstr "Страниц на _сторону:"
+
+msgid "Paper"
+msgstr "Бумага"
+
+msgid "Paper Margins"
+msgstr "Поля страницы"
+
+msgid "Paper Size"
+msgstr "Размер бумаги"
+
+msgid "Paper Source"
+msgstr "Источник бумаги"
+
+msgid "Paper Type"
+msgstr "Тип бумаги"
+
+msgid "Paper _source:"
+msgstr "_Источник бумаги:"
+
+msgid "Paper _type:"
+msgstr "_Тип бумаги:"
+
+msgid "Parameter Type"
+msgstr "Тип параметры"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Path"
+msgstr "Путь"
+
+msgid "Paused"
+msgstr "Приостановлено"
+
+msgid "Paused; Rejecting Jobs"
+msgstr "Приостановлено; отмена заданий"
+
+msgid "Pick a Color"
+msgstr "Выберите цвет"
+
+msgid "Pick a Font"
+msgstr "Выберите шрифт"
+
+msgid "Pointer: %p"
+msgstr "Указатель: %p"
+
+msgid "Portrait"
+msgstr "Портретное"
+
+msgid "Position on the color wheel."
+msgstr "Положение на цветовом круге."
+
+msgid "Postscript"
+msgstr "Postscript"
+
+msgid "Pre_view"
+msgstr "Образе_ц"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Prefix"
+msgstr "Префикс"
+
+msgid "Preparing"
+msgstr "Подготовка"
+
+msgid "Preparing %d"
+msgstr "Подготовка %d"
+
+msgid "Pri_ority:"
+msgstr "При_оритет:"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Print Document"
+msgstr "Распечатать документ"
+
+msgid "Print at"
+msgstr "Время"
+
+msgid "Print at time"
+msgstr "Время начала печати"
+
+msgid "Print to File"
+msgstr "Печатать в файл"
+
+msgid "Print to LPR"
+msgstr "Печатать на LPR"
+
+msgid "Print to Test Printer"
+msgstr "Печатать на тестовый принтер"
+
+msgid "Printer"
+msgstr "Принтер"
+
+msgid "Printer '%s' has no toner left."
+msgstr "В принтере «%s» закончился тонер."
+
+msgid "Printer '%s' is currently offline."
+msgstr "Принтер «%s» в данный момент отключён."
+
+msgid "Printer '%s' is low on at least one marker supply."
+msgstr "В принтере «%s» заканчивается один из тонеров."
+
+msgid "Printer '%s' is low on developer."
+msgstr "В принтере «%s» заканчивается проявитель."
+
+msgid "Printer '%s' is low on paper."
+msgstr "В принтере «%s» заканчивается бумага."
+
+msgid "Printer '%s' is low on toner."
+msgstr "В принтере «%s» заканчивается тонер."
+
+msgid "Printer '%s' is out of at least one marker supply."
+msgstr "В принтере «%s» закончился один из тонеров."
+
+msgid "Printer '%s' is out of developer."
+msgstr "В принтере «%s» закончился проявитель."
+
+msgid "Printer '%s' is out of paper."
+msgstr "В принтере «%s» закончилась бумага."
+
+msgid "Printer Default"
+msgstr "Умолчания принтера"
+
+msgid "Printer Profile"
+msgstr "Профиль принтера"
+
+msgid "Printer offline"
+msgstr "Принтер отключён"
+
+msgid "Printing %d"
+msgstr "Печать %d"
+
+msgid "Program class as used by the window manager"
+msgstr "Класс программы, используемый менеджером окон"
+
+msgid "Program name as used by the window manager"
+msgstr "Имя программы, используемое менеджером окон"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Property"
+msgstr "Свойство"
+
+msgid "Provides visual indication of progress"
+msgstr "Индикатор выполнения работы"
+
+msgid "Question"
+msgstr "Вопрос"
+
+msgid "Quit %s"
+msgstr "Завершить %s"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE Вст_авка справа налево"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM Метка с_права налево"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO Пере_крывание справа налево"
+
+msgid "Range"
+msgstr "Диапазон"
+
+msgid "Recent"
+msgstr "Недавние"
+
+msgid "Recent files"
+msgstr "Недавние файлы"
+
+msgid "Recommended Applications"
+msgstr "Рекомендуемые приложения"
+
+msgid "Red %d%%, Green %d%%, Blue %d%%"
+msgstr "Красный %d%%, зелёный %d%%, синий %d%%"
+
+msgid "Red %d%%, Green %d%%, Blue %d%%, Alpha %d%%"
+msgstr "Красный %d%%, зелёный %d%%, синий %d%%, прозрачность %d%%"
+
+msgid "Registered U_ser"
+msgstr "_Зарегистрированный пользователь"
+
+msgid "Rejecting Jobs"
+msgstr "Отмена заданий"
+
+msgid "Related Applications"
+msgstr "Связанные приложения"
+
+msgid "Remember _forever"
+msgstr "Запомнить _навсегда"
+
+msgid "Remember password until you _logout"
+msgstr "Запомнить пароль _до выхода из сеанса"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Rename…"
+msgstr "Переименовать…"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Restore"
+msgstr "Восстановить"
+
+msgid "Restore defaults for this widget"
+msgstr "Восстановить параметры по умолчанию для этого виджета"
+
+msgid "Reverse landscape"
+msgstr "Обратное ландшафтное"
+
+msgid "Reverse portrait"
+msgstr "Обратное портретное"
+
+msgid "Right to left"
+msgstr "Справа налево"
+
+msgid "Right to left, bottom to top"
+msgstr "Справа налево, снизу вверх"
+
+msgid "Right to left, top to bottom"
+msgstr "Справа налево, сверху вниз"
+
+msgid "Right-to-Left"
+msgstr "Справа налево"
+
+msgid "SVG"
+msgstr "SVG"
+
+msgid "S_aturation:"
+msgstr "Н_асыщенность:"
+
+msgid "Same as --no-wintab"
+msgstr "То же, что и --no-wintab"
+
+msgid "Sans 12"
+msgstr "Sans 12"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Save the current CSS"
+msgstr "Сохранить текущий CSS"
+
+msgid "Saving CSS failed"
+msgstr "Сбой при сохранении CSS"
+
+msgid "Sc_ale:"
+msgstr "_Масштаб:"
+
+msgid "Se_lection"
+msgstr "_Выделенное"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search font name"
+msgstr "Поиск на названию шрифта"
+
+msgid "Secret"
+msgstr "Секретно"
+
+msgid "Select Application"
+msgstr "Выбрать приложение"
+
+msgid "Select Font"
+msgstr "Выбрать шрифт"
+
+msgid "Select _All"
+msgstr "Выделить вс_ё"
+
+msgid "Select a Color"
+msgstr "Выберите цвет"
+
+msgid "Select a File"
+msgstr "Выберите файл"
+
+msgid "Select a filename"
+msgstr "Выберите имя файла"
+
+msgid "Select an Object"
+msgstr "Выбрать объект"
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr ""
+"Выберите нужный цвет на внешнем кольце. Выберите более тёмный или более "
+"светлый оттенок, используя треугольник."
+
+msgid "Select which type of documents are shown"
+msgstr "Выберите типы отображаемых документов"
+
+msgid "Select which types of files are shown"
+msgstr "Выбрать отображаемые типы файлов"
+
+msgid "Send Widget to Shell"
+msgstr "Отправить виджет в оболочку"
+
+msgid "Serialized data is malformed"
+msgstr "Сериализованные данные неправильно сформированы"
+
+msgid ""
+"Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr ""
+"Сериализованные данные неправильно сформированы. Первым разделом является не "
+"GTKTEXTBUFFERCONTENTS-0001"
+
+msgid "Services"
+msgstr "Сервисы"
+
+msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
+msgstr "Параметр жёстко задан с помощью GTK_TEST_TOUCHSCREEN"
+
+msgid "Setting:"
+msgstr "Параметр:"
+
+msgid "Short Edge (Flip)"
+msgstr "По короткой стороне"
+
+msgid "Show All"
+msgstr "Показать все"
+
+msgid "Show Baselines"
+msgstr "Показывать базовые линии"
+
+msgid "Show GTK+ Options"
+msgstr "Показать параметры GTK+"
+
+msgid "Show Graphic Updates"
+msgstr "Показывать графические обновления"
+
+msgid "Show Pixel Cache"
+msgstr "Показывать пикселный кэш"
+
+msgid "Show _Hidden Files"
+msgstr "Показывать _скрытые файлы"
+
+msgid "Show _Private Resources"
+msgstr "_Показать личные ресурсы"
+
+msgid "Show _Size Column"
+msgstr "Показывать _размер"
+
+msgid "Show data"
+msgstr "Показать данные"
+
+msgid "Si_ze:"
+msgstr "_Размер:"
+
+msgid "Signals"
+msgstr "Сигналы"
+
+msgid "Simple"
+msgstr "Простой"
+
+msgid "Simulate touchscreen"
+msgstr "Эмулировать сенсорный экран"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size Groups"
+msgstr "Группы выравнивания"
+
+msgid "Size of the palette in 8 bit mode"
+msgstr "Размер палитры в 8-битном режиме"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Some of the settings in the dialog conflict"
+msgstr "Некоторые параметры в диалоге конфликтуют"
+
+msgid "Source:"
+msgstr "Источник:"
+
+msgid ""
+"Specify one or more page ranges,\n"
+" e.g. 1-3,7,11"
+msgstr ""
+"Введите один или несколько диапазонов страниц,\n"
+"например, 1-3,7,11"
+
+msgid ""
+"Specify the time of print,\n"
+" e.g. 15:30, 2:35 pm, 14:15:20, 11:46:30 am, 4 pm"
+msgstr ""
+"Задайте время печати,\n"
+" например, 15:30, 14:15:20, 7:20"
+
+msgid "Standard"
+msgstr "Стандарт"
+
+msgid "Starting %s"
+msgstr "Запускается %s"
+
+msgid "State"
+msgstr "Состояние"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgctxt "Stock label"
+msgid "Best _Fit"
+msgstr "Наилучшее _заполнение"
+
+msgctxt "Stock label"
+msgid "C_onnect"
+msgstr "П_одключиться"
+
+msgctxt "Stock label"
+msgid "Cu_t"
+msgstr "_Вырезать"
+
+msgctxt "Stock label"
+msgid "Decrease Indent"
+msgstr "Уменьшить отступ"
+
+msgctxt "Stock label"
+msgid "Error"
+msgstr "Ошибка"
+
+msgctxt "Stock label"
+msgid "Find and _Replace"
+msgstr "Найти и _заменить"
+
+msgctxt "Stock label"
+msgid "Increase Indent"
+msgstr "Увеличить отступ"
+
+msgctxt "Stock label"
+msgid "Information"
+msgstr "Информация"
+
+msgctxt "Stock label"
+msgid "Landscape"
+msgstr "Пейзаж"
+
+msgctxt "Stock label"
+msgid "Page Set_up"
+msgstr "Параметры стран_ицы"
+
+msgctxt "Stock label"
+msgid "Portrait"
+msgstr "Портрет"
+
+msgctxt "Stock label"
+msgid "Print Pre_view"
+msgstr "П_росмотр"
+
+msgctxt "Stock label"
+msgid "Question"
+msgstr "Вопрос"
+
+msgctxt "Stock label"
+msgid "Reverse landscape"
+msgstr "Обратный пейзаж"
+
+msgctxt "Stock label"
+msgid "Reverse portrait"
+msgstr "Обратный портрет"
+
+msgctxt "Stock label"
+msgid "Save _As"
+msgstr "Сохранить _как"
+
+msgctxt "Stock label"
+msgid "Select _All"
+msgstr "Выделить вс_ё"
+
+msgctxt "Stock label"
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgctxt "Stock label"
+msgid "Zoom _In"
+msgstr "У_величить"
+
+msgctxt "Stock label"
+msgid "Zoom _Out"
+msgstr "У_меньшить"
+
+msgctxt "Stock label"
+msgid "_About"
+msgstr "_О программе"
+
+msgctxt "Stock label"
+msgid "_Add"
+msgstr "_Добавить"
+
+msgctxt "Stock label"
+msgid "_Apply"
+msgstr "_Применить"
+
+msgctxt "Stock label"
+msgid "_Ascending"
+msgstr "По воз_растанию"
+
+msgctxt "Stock label"
+msgid "_Bold"
+msgstr "Полу_жирный"
+
+msgctxt "Stock label"
+msgid "_CD-ROM"
+msgstr "_CD-ROM"
+
+msgctxt "Stock label"
+msgid "_Cancel"
+msgstr "О_тменить"
+
+msgctxt "Stock label"
+msgid "_Center"
+msgstr "По _центру"
+
+msgctxt "Stock label"
+msgid "_Clear"
+msgstr "О_чистить"
+
+msgctxt "Stock label"
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgctxt "Stock label"
+msgid "_Color"
+msgstr "_Цвет"
+
+msgctxt "Stock label"
+msgid "_Convert"
+msgstr "П_реобразовать"
+
+msgctxt "Stock label"
+msgid "_Copy"
+msgstr "_Копировать"
+
+msgctxt "Stock label"
+msgid "_Delete"
+msgstr "_Удалить"
+
+msgctxt "Stock label"
+msgid "_Descending"
+msgstr "По _убыванию"
+
+msgctxt "Stock label"
+msgid "_Discard"
+msgstr "От_бросить"
+
+msgctxt "Stock label"
+msgid "_Disconnect"
+msgstr "_Отключиться"
+
+msgctxt "Stock label"
+msgid "_Edit"
+msgstr "_Изменить"
+
+msgctxt "Stock label"
+msgid "_Execute"
+msgstr "_Выполнить"
+
+msgctxt "Stock label"
+msgid "_File"
+msgstr "_Файл"
+
+msgctxt "Stock label"
+msgid "_Fill"
+msgstr "По _ширине"
+
+msgctxt "Stock label"
+msgid "_Find"
+msgstr "_Найти"
+
+msgctxt "Stock label"
+msgid "_Floppy"
+msgstr "_Дискета"
+
+msgctxt "Stock label"
+msgid "_Font"
+msgstr "_Шрифт"
+
+msgctxt "Stock label"
+msgid "_Fullscreen"
+msgstr "_Во весь экран"
+
+msgctxt "Stock label"
+msgid "_Hard Disk"
+msgstr "_Жёсткий диск"
+
+msgctxt "Stock label"
+msgid "_Help"
+msgstr "_Справка"
+
+msgctxt "Stock label"
+msgid "_Home"
+msgstr "_Домой"
+
+msgctxt "Stock label"
+msgid "_Index"
+msgstr "_Индекс"
+
+msgctxt "Stock label"
+msgid "_Information"
+msgstr "_Информация"
+
+msgctxt "Stock label"
+msgid "_Italic"
+msgstr "_Курсив"
+
+msgctxt "Stock label"
+msgid "_Jump to"
+msgstr "Перейти _к"
+
+msgctxt "Stock label"
+msgid "_Leave Fullscreen"
+msgstr "П_окинуть полноэкранный режим"
+
+msgctxt "Stock label"
+msgid "_Left"
+msgstr "По _левому краю"
+
+msgctxt "Stock label"
+msgid "_Network"
+msgstr "_Сеть"
+
+msgctxt "Stock label"
+msgid "_New"
+msgstr "_Создать"
+
+msgctxt "Stock label"
+msgid "_No"
+msgstr "_Нет"
+
+msgctxt "Stock label"
+msgid "_Normal Size"
+msgstr "В обы_чном размере"
+
+msgctxt "Stock label"
+msgid "_OK"
+msgstr "_OK"
+
+msgctxt "Stock label"
+msgid "_Open"
+msgstr "_Открыть"
+
+msgctxt "Stock label"
+msgid "_Paste"
+msgstr "Вст_авить"
+
+msgctxt "Stock label"
+msgid "_Preferences"
+msgstr "_Параметры"
+
+msgctxt "Stock label"
+msgid "_Print"
+msgstr "Пе_чать"
+
+msgctxt "Stock label"
+msgid "_Properties"
+msgstr "_Свойства"
+
+msgctxt "Stock label"
+msgid "_Quit"
+msgstr "В_ыход"
+
+msgctxt "Stock label"
+msgid "_Redo"
+msgstr "Ве_рнуть"
+
+msgctxt "Stock label"
+msgid "_Refresh"
+msgstr "Об_новить"
+
+msgctxt "Stock label"
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgctxt "Stock label"
+msgid "_Revert"
+msgstr "_Восстановить"
+
+msgctxt "Stock label"
+msgid "_Right"
+msgstr "По _правому краю"
+
+msgctxt "Stock label"
+msgid "_Save"
+msgstr "Со_хранить"
+
+msgctxt "Stock label"
+msgid "_Spell Check"
+msgstr "Проверить право_писание"
+
+msgctxt "Stock label"
+msgid "_Stop"
+msgstr "_Остановить"
+
+msgctxt "Stock label"
+msgid "_Strikethrough"
+msgstr "Пере_чёркивание"
+
+msgctxt "Stock label"
+msgid "_Undelete"
+msgstr "Вос_становить удалённое"
+
+msgctxt "Stock label"
+msgid "_Underline"
+msgstr "По_дчёркивание"
+
+msgctxt "Stock label"
+msgid "_Undo"
+msgstr "_Отменить"
+
+msgctxt "Stock label"
+msgid "_Yes"
+msgstr "_Да"
+
+msgctxt "Stock label, media"
+msgid "P_ause"
+msgstr "_Приостановить"
+
+msgctxt "Stock label, media"
+msgid "Pre_vious"
+msgstr "П_редыдущая"
+
+msgctxt "Stock label, media"
+msgid "R_ewind"
+msgstr "_Назад"
+
+msgctxt "Stock label, media"
+msgid "_Forward"
+msgstr "_Вперёд"
+
+msgctxt "Stock label, media"
+msgid "_Next"
+msgstr "_Следующая"
+
+msgctxt "Stock label, media"
+msgid "_Play"
+msgstr "_Воспроизвести"
+
+msgctxt "Stock label, media"
+msgid "_Record"
+msgstr "_Записать"
+
+msgctxt "Stock label, media"
+msgid "_Stop"
+msgstr "_Остановить"
+
+msgctxt "Stock label, navigation"
+msgid "_Back"
+msgstr "На_зад"
+
+msgctxt "Stock label, navigation"
+msgid "_Bottom"
+msgstr "К ни_зу"
+
+msgctxt "Stock label, navigation"
+msgid "_Down"
+msgstr "В_низ"
+
+msgctxt "Stock label, navigation"
+msgid "_First"
+msgstr "В н_ачало"
+
+msgctxt "Stock label, navigation"
+msgid "_Forward"
+msgstr "_Вперёд"
+
+msgctxt "Stock label, navigation"
+msgid "_Last"
+msgstr "В _конец"
+
+msgctxt "Stock label, navigation"
+msgid "_Top"
+msgstr "К _верху"
+
+msgctxt "Stock label, navigation"
+msgid "_Up"
+msgstr "Вв_ерх"
+
+msgid "Style Properties"
+msgstr "Свойства стиля"
+
+msgid ""
+"System policy prevents changes.\n"
+"Contact your system administrator"
+msgstr ""
+"Системная политика препятствует изменениям.\n"
+"Обратитесь к системному администратору"
+
+msgid "T_wo-sided:"
+msgstr "Дву_сторонняя:"
+
+msgid "Tag \"%s\" already defined"
+msgstr "Тег «%s» уже определён"
+
+msgid "Tag \"%s\" does not exist in buffer and tags can not be created."
+msgstr "В буфере отсутствует тег «%s»; теги не могут быть созданы."
+
+msgid "Tag \"%s\" has invalid priority \"%s\""
+msgstr "Тег «%s» имеет ошибочный приоритет «%s»"
+
+msgid "Tag \"%s\" has not been defined."
+msgstr "Тег «%s» не был определён."
+
+msgid "Target"
+msgstr "Целевой"
+
+msgid "Terminal Pager"
+msgstr "Терминальный пейджер"
+
+msgid "Text Direction"
+msgstr "Направление текста"
+
+msgid "Thai-Lao"
+msgstr "Тайская-Лаос"
+
+msgid "The MIT License (MIT)"
+msgstr "The MIT License (MIT)"
+
+msgid "The attribute \"%s\" was found twice on the <%s> element"
+msgstr "Атрибут «%s» был дважды найден в элементе <%s>"
+
+msgid "The color you've chosen."
+msgstr "Выбранный вами цвет."
+
+msgid ""
+"The color you've chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr ""
+"Цвет, который вы выбрали. Вы можете перетащить его в палитру, чтобы "
+"сохранить для последующего использования."
+
+msgid "The cover is open on printer '%s'."
+msgstr "В принтере «%s» открыта крышка."
+
+msgid "The door is open on printer '%s'."
+msgstr "В принтере «%s» открыта дверца."
+
+msgid ""
+"The file already exists in “%s”.  Replacing it will overwrite its contents."
+msgstr ""
+"Файл уже существует в «%s». Его замена приведёт к перезаписи содержимого."
+
+msgid "The folder contents could not be displayed"
+msgstr "Не удалось отобразить содержимое папки"
+
+msgid "The folder could not be created"
+msgstr "Не удалось создать папку"
+
+msgid ""
+"The folder could not be created, as a file with the same name already "
+"exists.  Try using a different name for the folder, or rename the file first."
+msgstr ""
+"Папка не может быть создана, так как файл с таким именем уже существует.  "
+"Выберите другое имя для папки, или переименуйте файл."
+
+msgid "The generated cache was invalid.\n"
+msgstr "Созданный кэш содержит ошибки.\n"
+
+msgid "The item that you selected is not a folder try using a different item."
+msgstr "Выбранный элемент не является папкой. Выберите другой элемент."
+
+msgid "The license of the program"
+msgstr "Лицензия программы"
+
+msgid "The most probable reason is that a temporary file could not be created."
+msgstr "Наиболее вероятная причина: не удалось создать временный файл."
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now."
+msgstr "Выбранный ранее цвет для сравнения с цветом, выбранным сейчас."
+
+msgid ""
+"The previously-selected color, for comparison to the color you're selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr ""
+"Ранее выбранный цвет для сравнения с выбираемым цветом. Вы можете перетащить "
+"этот цвет в палитру или сделать его текущим, перетащив на другой образец "
+"цвета сбоку."
+
+msgid ""
+"The program was not able to create a connection to the indexer daemon.  "
+"Please make sure it is running."
+msgstr ""
+"Не удалось соединиться с сервисом индексированного поиска. Проверьте, что "
+"сервис запущен."
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Theme is hardcoded by GTK_THEME"
+msgstr "Тема жёстко задана с помощью GTK_THEME"
+
+msgid "There is a problem on printer '%s'."
+msgstr "Неполадка с принтером «%s»."
+
+msgid ""
+"This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"%s\">%s</a> for details."
+msgstr ""
+"Это приложение распространяется без КАКИХ-ЛИБО ГАРАНТИЙ.\n"
+"Подробнее в <a href=\"%s\">%s</a>."
+
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr "Тигринья-Эритрея (EZ+)"
+
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr "Тигринья-Эфиопия (EZ+)"
+
+msgid "Time of print"
+msgstr "Время печати"
+
+msgid "Top Command"
+msgstr "Команда top"
+
+msgid "Top Secret"
+msgstr "Совершенно секретно"
+
+msgid "Top to bottom"
+msgstr "Сверху вниз"
+
+msgid "Top to bottom, left to right"
+msgstr "Сверху вниз, слева направо"
+
+msgid "Top to bottom, right to left"
+msgstr "Сверху вниз, справа налево"
+
+msgid "Trace signal emissions on this object"
+msgstr "Трассировать сигналы этого объекта"
+
+msgid "Translated by"
+msgstr "Перевод"
+
+msgid "Transparency of the color."
+msgstr "Прозрачность цвета."
+
+msgid "Trash"
+msgstr "Корзина"
+
+msgid "Try \"%s --help\" for more information."
+msgstr "Попробуйте «%s --help» для дополнительной информации."
+
+msgid "Try using a shorter name."
+msgstr "Используйте более короткое имя."
+
+msgid "Turn off verbose output"
+msgstr "Выключить расширенный вывод"
+
+msgid "Turns volume up or down"
+msgstr "Повышает или понижает громкость"
+
+msgid "Two Sided"
+msgstr "С двух сторон"
+
+msgid "Type name of new folder"
+msgstr "Введите имя новой папки"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Unable to access “%s”"
+msgstr "Не удалось получить доступ к «%s»"
+
+msgid "Unable to eject %s"
+msgstr "Не удалось извлечь %s"
+
+msgid "Unable to end process"
+msgstr "Не удаётся завершить процесс"
+
+msgid "Unable to find an item with URI '%s'"
+msgstr "Не удалось найти элемент с URI «%s»"
+
+msgid "Unable to poll %s for media changes"
+msgstr "Не удалось опросить %s об изменении носителей"
+
+msgid "Unable to start %s"
+msgstr "Не удалось запустить %s"
+
+msgid "Unable to stop %s"
+msgstr "Не удалось остановить %s"
+
+msgid "Unable to unmount %s"
+msgstr "Не удалось размонтировать %s"
+
+msgid "Unavailable"
+msgstr "Недоступно"
+
+msgid "Unclassified"
+msgstr "Не классифицировано"
+
+msgid "Uneditable property type: %s"
+msgstr "Нередактируемое свойство: %s"
+
+msgid "Unexpected character data on line %d char %d"
+msgstr "Непредвиденные символьные данные (строка %d, символ %d)"
+
+msgid "Unexpected start tag '%s' on line %d char %d"
+msgstr "Начальный тег «%s» является непредвиденным (строка %d, символ %d)"
+
+msgid "Unhandled tag: '%s'"
+msgstr "Необработанный тег «%s»"
+
+msgid "Unknown"
+msgstr "Неизвестен"
+
+msgid "Unknown Application (PID %d)"
+msgstr "Неизвестное приложение (PID %d)"
+
+msgid "Unknown error when trying to deserialize %s"
+msgstr "Неизвестная ошибка при попытке десериализации %s"
+
+msgid "Unknown item"
+msgstr "Неизвестный элемент"
+
+msgid "Unlock"
+msgstr "Разблокировать"
+
+msgid "Unnamed section"
+msgstr "Безымянный раздел"
+
+msgid "Unspecified error"
+msgstr "Неуказанная ошибка"
+
+msgid "Unspecified profile"
+msgstr "Неопределённый профиль"
+
+msgid "Untitled filter"
+msgstr "Неозаглавленный фильтр"
+
+msgid "Up Path"
+msgstr "Вверх по дереву"
+
+msgid "Urgent"
+msgstr "Срочно"
+
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+msgid "Validate existing icon cache"
+msgstr "Проверить текущий кэш значков"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Vertical"
+msgstr "Вертикальный"
+
+msgid "Vietnamese (VIQR)"
+msgstr "Вьетнамский (VIQR)"
+
+msgid "Visual"
+msgstr "Внешний вид"
+
+msgid "Volume"
+msgstr "Громкость"
+
+msgid "Volume Down"
+msgstr "Тише"
+
+msgid "Volume Up"
+msgstr "Громче"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Website"
+msgstr "Веб-страница"
+
+msgid "Window scaling"
+msgstr "Масштабирование окна"
+
+msgid "X Input Method"
+msgstr "Метод X Input"
+
+msgid "X display to use"
+msgstr "Используемый X-дисплей"
+
+msgid "XSettings"
+msgstr "XSettings"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yesterday at %-I:%M %P"
+msgstr "Вчера в %-I:%M %P"
+
+msgid "Yesterday at %H:%M"
+msgstr "Вчера в %H:%M"
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as 'orange' in this entry."
+msgstr ""
+"Вы можете ввести в этой строке или шестнадцатеричное значение цвета (в стиле "
+"HTML), или название цвета, например, «orange»."
+
+msgid ""
+"You can temporarily disable this custom CSS by clicking on the \"Pause\" "
+"button above."
+msgstr "Изменённый CSS можно временно отключить, нажав кнопку «Пауза»."
+
+msgid "You can type here any CSS rule recognized by GTK+."
+msgstr "Здесь можно ввести любое CSS-правило, понятное GTK+."
+
+msgid "You may only select folders"
+msgstr "Можно выбирать только папки"
+
+msgid "You need to choose a valid filename."
+msgstr "Необходимо выбрать корректное имя файла."
+
+msgid "Z Shell"
+msgstr "Z Shell"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ Нулевой о_бъединитель"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ Нулевой ра_зъединитель"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS _Нулевой пробел"
+
+msgid "_Add Bookmark"
+msgstr "_Добавить в закладки"
+
+msgid "_Add to Bookmarks"
+msgstr "_Добавить в закладки"
+
+msgid "_After:"
+msgstr "_После:"
+
+msgid "_All Pages"
+msgstr "_Все страницы"
+
+msgid "_Anonymous"
+msgstr "Подключиться _анонимно"
+
+msgid "_Apply"
+msgstr "_Применить"
+
+msgid "_Back"
+msgstr "На_зад"
+
+msgid "_Billing info:"
+msgstr "_Расположение:"
+
+msgid "_Blue:"
+msgstr "_Синий:"
+
+msgid "_Bottom:"
+msgstr "_Нижнее:"
+
+msgid "_Cancel"
+msgstr "_Отмена"
+
+msgid "_Clear List"
+msgstr "О_чистить список"
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "_Connect Drive"
+msgstr "_Подключить диск"
+
+msgid "_Copy"
+msgstr "_Копировать"
+
+msgid "_Copy Location"
+msgstr "Копировать _адрес"
+
+msgid "_Customize"
+msgstr "_Изменить"
+
+msgid "_Delete"
+msgstr "_Удалить"
+
+msgid "_Detect Media"
+msgstr "Определить _носитель"
+
+msgid "_Disconnect Drive"
+msgstr "О_тключить диск"
+
+msgid "_Domain"
+msgstr "_Домен"
+
+msgid "_Eject"
+msgstr "_Извлечь"
+
+msgid "_End Process"
+msgstr "_Завершить процесс"
+
+msgid "_Family:"
+msgstr "_Семейство:"
+
+msgid "_Find New Applications"
+msgstr "_Найти новые приложения"
+
+msgid "_Finish"
+msgstr "З_акончить"
+
+msgid "_Format for:"
+msgstr "_Формат для:"
+
+msgid "_Green:"
+msgstr "_Зелёный:"
+
+msgid "_Height:"
+msgstr "_Высота:"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Hue:"
+msgstr "_Тон:"
+
+msgid "_Left:"
+msgstr "_Левое:"
+
+msgid "_Location:"
+msgstr "_Расположение:"
+
+msgid "_Lock Drive"
+msgstr "_Заблокировать диск"
+
+msgid "_Mount"
+msgstr "_Монтировать"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_Next"
+msgstr "_Следующая"
+
+msgid "_No"
+msgstr "_Нет"
+
+msgid "_Now"
+msgstr "_Сейчас"
+
+msgid "_OK"
+msgstr "_OK"
+
+msgid "_Only print:"
+msgstr "Печатать т_олько:"
+
+msgid "_Open"
+msgstr "_Открыть"
+
+msgid "_Open Link"
+msgstr "_Открыть ссылку"
+
+msgid "_Orientation:"
+msgstr "_Положение:"
+
+msgid "_Output format"
+msgstr "Формат _вывода"
+
+msgid "_Palette:"
+msgstr "Па_литра:"
+
+msgid "_Paper size:"
+msgstr "Размер _бумаги:"
+
+msgid "_Password"
+msgstr "_Пароль"
+
+msgid "_Paste"
+msgstr "Вст_авить"
+
+msgid "_Power On"
+msgstr "_Включить"
+
+msgid "_Preview:"
+msgstr "О_бразец:"
+
+msgid "_Print"
+msgstr "Пе_чать"
+
+msgid "_Red:"
+msgstr "_Красный:"
+
+msgid "_Remember password"
+msgstr "_Запомнить пароль"
+
+msgid "_Remove From List"
+msgstr "_Удалить из списка"
+
+msgid "_Replace"
+msgstr "_Заменить"
+
+msgid "_Reverse"
+msgstr "_Наоборот"
+
+msgid "_Right:"
+msgstr "_Правое:"
+
+msgid "_Safely Remove Drive"
+msgstr "_Безопасное извлечение устройства"
+
+msgid "_Save"
+msgstr "_Сохранить"
+
+msgid "_Save color here"
+msgstr "Со_хранить цвет здесь"
+
+msgid "_Select"
+msgstr "_Выбрать"
+
+msgid "_Start"
+msgstr "_Запустить"
+
+msgid "_Start Multi-disk Device"
+msgstr "_Запустить многодисковое устройство"
+
+msgid "_Stop"
+msgstr "_Остановить"
+
+msgid "_Stop Multi-disk Device"
+msgstr "_Остановить многодисковое устройство"
+
+msgid "_Style:"
+msgstr "_Начертание:"
+
+msgid "_Top:"
+msgstr "_Верхнее:"
+
+msgid "_Unlock Drive"
+msgstr "_Разблокировать диск"
+
+msgid "_Unmount"
+msgstr "_Размонтировать"
+
+msgid "_Username"
+msgstr "_Имя пользователя"
+
+msgid "_Value:"
+msgstr "З_начение:"
+
+msgid "_View All Applications"
+msgstr "_Просмотреть все приложения"
+
+msgid "_Visit File"
+msgstr "_Перейти к файлу"
+
+msgid "_Width:"
+msgstr "_Ширина:"
+
+msgid "_Yes"
+msgstr "_Да"
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr "абвгде АБВГДЕ abcde ABCDE"
+
+msgid "bidirectional"
+msgstr "двунаправленная"
+
+msgid "bidirectional, inverted"
+msgstr "двунаправленная, обратная"
+
+msgid "broadway display type not supported '%s'"
+msgstr "Тип дисплея broadway не поддерживается «%s»"
+
+msgctxt "calendar year format"
+msgid "%Y"
+msgstr "%Y"
+
+msgid "calendar:MY"
+msgstr "calendar:MY"
+
+msgctxt "calendar:day:digits"
+msgid "%d"
+msgstr "%d"
+
+msgctxt "calendar:week:digits"
+msgid "%d"
+msgstr "%d"
+
+msgid "calendar:week_start:0"
+msgstr "calendar:week_start:1"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "inch"
+msgstr "дюймы"
+
+msgctxt "input method menu"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "input method menu"
+msgid "System"
+msgstr "Системный"
+
+msgctxt "input method menu"
+msgid "System (%s)"
+msgstr "Системный (%s)"
+
+msgid "inverted"
+msgstr "обратная"
+
+msgctxt "keyboard label"
+msgid "Alt"
+msgstr "Alt"
+
+msgctxt "keyboard label"
+msgid "AudioLowerVolume"
+msgstr "Уменьшить громкость"
+
+msgctxt "keyboard label"
+msgid "AudioMedia"
+msgstr "Мультимедиа"
+
+msgctxt "keyboard label"
+msgid "AudioMicMute"
+msgstr "Приглушить микрофон"
+
+msgctxt "keyboard label"
+msgid "AudioMute"
+msgstr "Приглушить звук"
+
+msgctxt "keyboard label"
+msgid "AudioNext"
+msgstr "Следующая аудиозапись"
+
+msgctxt "keyboard label"
+msgid "AudioPause"
+msgstr "Приостановить аудиозапись"
+
+msgctxt "keyboard label"
+msgid "AudioPlay"
+msgstr "Воспроизвести аудиозапись"
+
+msgctxt "keyboard label"
+msgid "AudioPrev"
+msgstr "Предыдущая аудиозапись"
+
+msgctxt "keyboard label"
+msgid "AudioRaiseVolume"
+msgstr "Увеличить громкость"
+
+msgctxt "keyboard label"
+msgid "AudioRecord"
+msgstr "Запись звука"
+
+msgctxt "keyboard label"
+msgid "AudioRewind"
+msgstr "Перемотка аудиозаписи"
+
+msgctxt "keyboard label"
+msgid "AudioStop"
+msgstr "Остановить аудиозапись"
+
+msgctxt "keyboard label"
+msgid "Back"
+msgstr "Назад"
+
+msgctxt "keyboard label"
+msgid "BackSpace"
+msgstr "BackSpace"
+
+msgctxt "keyboard label"
+msgid "Backslash"
+msgstr "Backslash"
+
+msgctxt "keyboard label"
+msgid "Battery"
+msgstr "Батарея"
+
+msgctxt "keyboard label"
+msgid "Begin"
+msgstr "Begin"
+
+msgctxt "keyboard label"
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgctxt "keyboard label"
+msgid "Delete"
+msgstr "Delete"
+
+msgctxt "keyboard label"
+msgid "Display"
+msgstr "Монитор"
+
+msgctxt "keyboard label"
+msgid "Down"
+msgstr "Вниз"
+
+msgctxt "keyboard label"
+msgid "End"
+msgstr "End"
+
+msgctxt "keyboard label"
+msgid "Escape"
+msgstr "Escape"
+
+msgctxt "keyboard label"
+msgid "Forward"
+msgstr "Вперёд"
+
+msgctxt "keyboard label"
+msgid "Hibernate"
+msgstr "Спящий режим"
+
+msgctxt "keyboard label"
+msgid "Home"
+msgstr "Home"
+
+msgctxt "keyboard label"
+msgid "Hyper"
+msgstr "Hyper"
+
+msgctxt "keyboard label"
+msgid "Insert"
+msgstr "Insert"
+
+msgctxt "keyboard label"
+msgid "KP_Begin"
+msgstr "Begin (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Delete"
+msgstr "Delete (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Down"
+msgstr "Вниз (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_End"
+msgstr "End (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Enter"
+msgstr "Enter (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Home"
+msgstr "Home (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Insert"
+msgstr "Insert (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Left"
+msgstr "Влево (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Next"
+msgstr "Next (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Page_Down"
+msgstr "Page Down (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Page_Up"
+msgstr "Page Up (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Prior"
+msgstr "Prior (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Right"
+msgstr "Вправо (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Space"
+msgstr "Пробел (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Tab"
+msgstr "Tab (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KP_Up"
+msgstr "Вверх (кейпад)"
+
+msgctxt "keyboard label"
+msgid "KbdBrightnessDown"
+msgstr "Уменьшить яркость клавиатуры"
+
+msgctxt "keyboard label"
+msgid "KbdBrightnessUp"
+msgstr "Увеличить яркость клавиатуры"
+
+msgctxt "keyboard label"
+msgid "Launch1"
+msgstr "Запустить приложение1"
+
+msgctxt "keyboard label"
+msgid "Left"
+msgstr "Влево"
+
+msgctxt "keyboard label"
+msgid "Meta"
+msgstr "Meta"
+
+msgctxt "keyboard label"
+msgid "MonBrightnessDown"
+msgstr "Уменьшить яркость монитора"
+
+msgctxt "keyboard label"
+msgid "MonBrightnessUp"
+msgstr "Увеличить яркость монитора"
+
+msgctxt "keyboard label"
+msgid "Multi_key"
+msgstr "Multi key"
+
+msgctxt "keyboard label"
+msgid "Num_Lock"
+msgstr "Num Lock"
+
+msgctxt "keyboard label"
+msgid "Page_Down"
+msgstr "Page Down"
+
+msgctxt "keyboard label"
+msgid "Page_Up"
+msgstr "Page Up"
+
+msgctxt "keyboard label"
+msgid "Pause"
+msgstr "Pause"
+
+msgctxt "keyboard label"
+msgid "Print"
+msgstr "Print"
+
+msgctxt "keyboard label"
+msgid "Return"
+msgstr "Return"
+
+msgctxt "keyboard label"
+msgid "Right"
+msgstr "Вправо"
+
+msgctxt "keyboard label"
+msgid "ScreenSaver"
+msgstr "Хранитель экрана"
+
+msgctxt "keyboard label"
+msgid "Scroll_Lock"
+msgstr "Scroll Lock"
+
+msgctxt "keyboard label"
+msgid "Shift"
+msgstr "Shift"
+
+msgctxt "keyboard label"
+msgid "Sleep"
+msgstr "Сон"
+
+msgctxt "keyboard label"
+msgid "Space"
+msgstr "Пробел"
+
+msgctxt "keyboard label"
+msgid "Super"
+msgstr "Super"
+
+msgctxt "keyboard label"
+msgid "Suspend"
+msgstr "Ждущий режим"
+
+msgctxt "keyboard label"
+msgid "Sys_Req"
+msgstr "Sys Req"
+
+msgctxt "keyboard label"
+msgid "Tab"
+msgstr "Tab"
+
+msgctxt "keyboard label"
+msgid "TouchpadToggle"
+msgstr "Сенсорная панель"
+
+msgctxt "keyboard label"
+msgid "Up"
+msgstr "Вверх"
+
+msgctxt "keyboard label"
+msgid "WLAN"
+msgstr "WLAN"
+
+msgctxt "keyboard label"
+msgid "WakeUp"
+msgstr "Выход из спящего режима"
+
+msgctxt "keyboard label"
+msgid "WebCam"
+msgstr "Веб-камера"
+
+msgid "mm"
+msgstr "мм"
+
+msgid "output"
+msgstr "вывод"
+
+msgctxt "paper size"
+msgid "#10 Envelope"
+msgstr "Конверт №10"
+
+msgctxt "paper size"
+msgid "#11 Envelope"
+msgstr "Конверт №11"
+
+msgctxt "paper size"
+msgid "#12 Envelope"
+msgstr "Конверт №12"
+
+msgctxt "paper size"
+msgid "#14 Envelope"
+msgstr "Конверт №14"
+
+msgctxt "paper size"
+msgid "#9 Envelope"
+msgstr "Конверт №9"
+
+msgctxt "paper size"
+msgid "10x11"
+msgstr "10x11"
+
+msgctxt "paper size"
+msgid "10x13"
+msgstr "10x13"
+
+msgctxt "paper size"
+msgid "10x14"
+msgstr "10x14"
+
+msgctxt "paper size"
+msgid "10x15"
+msgstr "10x15"
+
+msgctxt "paper size"
+msgid "11x12"
+msgstr "11x12"
+
+msgctxt "paper size"
+msgid "11x15"
+msgstr "11x15"
+
+msgctxt "paper size"
+msgid "12x19"
+msgstr "12x19"
+
+msgctxt "paper size"
+msgid "5x7"
+msgstr "5x7"
+
+msgctxt "paper size"
+msgid "6x9 Envelope"
+msgstr "Конверт 6x9"
+
+msgctxt "paper size"
+msgid "7x9 Envelope"
+msgstr "Конверт 7x9"
+
+msgctxt "paper size"
+msgid "9x11 Envelope"
+msgstr "Конверт 9x11"
+
+msgctxt "paper size"
+msgid "A0"
+msgstr "A0"
+
+msgctxt "paper size"
+msgid "A0x2"
+msgstr "A0x2"
+
+msgctxt "paper size"
+msgid "A0x3"
+msgstr "A0x3"
+
+msgctxt "paper size"
+msgid "A1"
+msgstr "A1"
+
+msgctxt "paper size"
+msgid "A10"
+msgstr "A10"
+
+msgctxt "paper size"
+msgid "A1x3"
+msgstr "A1x3"
+
+msgctxt "paper size"
+msgid "A1x4"
+msgstr "A1x4"
+
+msgctxt "paper size"
+msgid "A2"
+msgstr "A2"
+
+msgctxt "paper size"
+msgid "A2x3"
+msgstr "A2x3"
+
+msgctxt "paper size"
+msgid "A2x4"
+msgstr "A2x4"
+
+msgctxt "paper size"
+msgid "A2x5"
+msgstr "A2x5"
+
+msgctxt "paper size"
+msgid "A3"
+msgstr "A3"
+
+msgctxt "paper size"
+msgid "A3 Extra"
+msgstr "A3 Extra"
+
+msgctxt "paper size"
+msgid "A3x3"
+msgstr "A3x3"
+
+msgctxt "paper size"
+msgid "A3x4"
+msgstr "A3x4"
+
+msgctxt "paper size"
+msgid "A3x5"
+msgstr "A3x5"
+
+msgctxt "paper size"
+msgid "A3x6"
+msgstr "A3x6"
+
+msgctxt "paper size"
+msgid "A3x7"
+msgstr "A3x7"
+
+msgctxt "paper size"
+msgid "A4"
+msgstr "A4"
+
+msgctxt "paper size"
+msgid "A4 Extra"
+msgstr "A4 Extra"
+
+msgctxt "paper size"
+msgid "A4 Tab"
+msgstr "A4 Tab"
+
+msgctxt "paper size"
+msgid "A4x3"
+msgstr "A4x3"
+
+msgctxt "paper size"
+msgid "A4x4"
+msgstr "A4x4"
+
+msgctxt "paper size"
+msgid "A4x5"
+msgstr "A4x5"
+
+msgctxt "paper size"
+msgid "A4x6"
+msgstr "A4x6"
+
+msgctxt "paper size"
+msgid "A4x7"
+msgstr "A4x7"
+
+msgctxt "paper size"
+msgid "A4x8"
+msgstr "A4x8"
+
+msgctxt "paper size"
+msgid "A4x9"
+msgstr "A4x9"
+
+msgctxt "paper size"
+msgid "A5"
+msgstr "A5"
+
+msgctxt "paper size"
+msgid "A5 Extra"
+msgstr "A5 Extra"
+
+msgctxt "paper size"
+msgid "A6"
+msgstr "A6"
+
+msgctxt "paper size"
+msgid "A7"
+msgstr "A7"
+
+msgctxt "paper size"
+msgid "A8"
+msgstr "A8"
+
+msgctxt "paper size"
+msgid "A9"
+msgstr "A9"
+
+msgctxt "paper size"
+msgid "Arch A"
+msgstr "Arch A"
+
+msgctxt "paper size"
+msgid "Arch B"
+msgstr "Arch B"
+
+msgctxt "paper size"
+msgid "Arch C"
+msgstr "Arch C"
+
+msgctxt "paper size"
+msgid "Arch D"
+msgstr "Arch D"
+
+msgctxt "paper size"
+msgid "Arch E"
+msgstr "Arch E"
+
+msgctxt "paper size"
+msgid "B0"
+msgstr "B0"
+
+msgctxt "paper size"
+msgid "B1"
+msgstr "B1"
+
+msgctxt "paper size"
+msgid "B10"
+msgstr "B10"
+
+msgctxt "paper size"
+msgid "B2"
+msgstr "B2"
+
+msgctxt "paper size"
+msgid "B3"
+msgstr "B3"
+
+msgctxt "paper size"
+msgid "B4"
+msgstr "B4"
+
+msgctxt "paper size"
+msgid "B5"
+msgstr "B5"
+
+msgctxt "paper size"
+msgid "B5 Extra"
+msgstr "B5 Extra"
+
+msgctxt "paper size"
+msgid "B6"
+msgstr "B6"
+
+msgctxt "paper size"
+msgid "B6/C4"
+msgstr "B6/C4"
+
+msgctxt "paper size"
+msgid "B7"
+msgstr "B7"
+
+msgctxt "paper size"
+msgid "B8"
+msgstr "B8"
+
+msgctxt "paper size"
+msgid "B9"
+msgstr "B9"
+
+msgctxt "paper size"
+msgid "C0"
+msgstr "C0"
+
+msgctxt "paper size"
+msgid "C1"
+msgstr "C1"
+
+msgctxt "paper size"
+msgid "C10"
+msgstr "C10"
+
+msgctxt "paper size"
+msgid "C2"
+msgstr "C2"
+
+msgctxt "paper size"
+msgid "C3"
+msgstr "C3"
+
+msgctxt "paper size"
+msgid "C4"
+msgstr "C4"
+
+msgctxt "paper size"
+msgid "C5"
+msgstr "C5"
+
+msgctxt "paper size"
+msgid "C6"
+msgstr "C6"
+
+msgctxt "paper size"
+msgid "C6/C5"
+msgstr "C6/C5"
+
+msgctxt "paper size"
+msgid "C7"
+msgstr "C7"
+
+msgctxt "paper size"
+msgid "C7/C6"
+msgstr "C7/C6"
+
+msgctxt "paper size"
+msgid "C8"
+msgstr "C8"
+
+msgctxt "paper size"
+msgid "C9"
+msgstr "C9"
+
+msgctxt "paper size"
+msgid "Choukei 2 Envelope"
+msgstr "Конверт Choukei 2"
+
+msgctxt "paper size"
+msgid "Choukei 3 Envelope"
+msgstr "Конверт Choukei 3"
+
+msgctxt "paper size"
+msgid "Choukei 4 Envelope"
+msgstr "Конверт Choukei 4"
+
+msgctxt "paper size"
+msgid "DL Envelope"
+msgstr "Конверт DL"
+
+msgctxt "paper size"
+msgid "Dai-pa-kai"
+msgstr "Dai-pa-kai"
+
+msgctxt "paper size"
+msgid "European edp"
+msgstr "Европейский edp"
+
+msgctxt "paper size"
+msgid "Executive"
+msgstr "Executive"
+
+msgctxt "paper size"
+msgid "FanFold European"
+msgstr "FanFold европейский"
+
+msgctxt "paper size"
+msgid "FanFold German Legal"
+msgstr "FanFold German Legal"
+
+msgctxt "paper size"
+msgid "FanFold US"
+msgstr "FanFold US"
+
+msgctxt "paper size"
+msgid "Folio"
+msgstr "Folio"
+
+msgctxt "paper size"
+msgid "Folio sp"
+msgstr "Folio sp"
+
+msgctxt "paper size"
+msgid "Government Legal"
+msgstr "Government Legal"
+
+msgctxt "paper size"
+msgid "Government Letter"
+msgstr "Government Letter"
+
+msgctxt "paper size"
+msgid "Index 3x5"
+msgstr "Index 3x5"
+
+msgctxt "paper size"
+msgid "Index 4x6 (postcard)"
+msgstr "Index 4x6 (открытка)"
+
+msgctxt "paper size"
+msgid "Index 4x6 ext"
+msgstr "Index 4x6 ext"
+
+msgctxt "paper size"
+msgid "Index 5x8"
+msgstr "Index 5x8"
+
+msgctxt "paper size"
+msgid "Invite Envelope"
+msgstr "Конверт «Invite»"
+
+msgctxt "paper size"
+msgid "Invoice"
+msgstr "Invoice"
+
+msgctxt "paper size"
+msgid "Italian Envelope"
+msgstr "Итальянский конверт"
+
+msgctxt "paper size"
+msgid "JB0"
+msgstr "JB0"
+
+msgctxt "paper size"
+msgid "JB1"
+msgstr "JB1"
+
+msgctxt "paper size"
+msgid "JB10"
+msgstr "JB10"
+
+msgctxt "paper size"
+msgid "JB2"
+msgstr "JB2"
+
+msgctxt "paper size"
+msgid "JB3"
+msgstr "JB3"
+
+msgctxt "paper size"
+msgid "JB4"
+msgstr "JB4"
+
+msgctxt "paper size"
+msgid "JB5"
+msgstr "JB5"
+
+msgctxt "paper size"
+msgid "JB6"
+msgstr "JB6"
+
+msgctxt "paper size"
+msgid "JB7"
+msgstr "JB7"
+
+msgctxt "paper size"
+msgid "JB8"
+msgstr "JB8"
+
+msgctxt "paper size"
+msgid "JB9"
+msgstr "JB9"
+
+msgctxt "paper size"
+msgid "Monarch Envelope"
+msgstr "Конверт «Monarch»"
+
+msgctxt "paper size"
+msgid "Personal Envelope"
+msgstr "Персональный конверт"
+
+msgctxt "paper size"
+msgid "Postfix Envelope"
+msgstr "Конверт «Postfix»"
+
+msgctxt "paper size"
+msgid "Quarto"
+msgstr "Quarto"
+
+msgctxt "paper size"
+msgid "RA0"
+msgstr "RA0"
+
+msgctxt "paper size"
+msgid "RA1"
+msgstr "RA1"
+
+msgctxt "paper size"
+msgid "RA2"
+msgstr "RA2"
+
+msgctxt "paper size"
+msgid "ROC 16k"
+msgstr "ROC 16k"
+
+msgctxt "paper size"
+msgid "ROC 8k"
+msgstr "ROC 8k"
+
+msgctxt "paper size"
+msgid "SRA0"
+msgstr "SRA0"
+
+msgctxt "paper size"
+msgid "SRA1"
+msgstr "SRA1"
+
+msgctxt "paper size"
+msgid "SRA2"
+msgstr "SRA2"
+
+msgctxt "paper size"
+msgid "Small Photo"
+msgstr "Маленькое фото"
+
+msgctxt "paper size"
+msgid "Super A"
+msgstr "Super A"
+
+msgctxt "paper size"
+msgid "Super B"
+msgstr "Super B"
+
+msgctxt "paper size"
+msgid "Tabloid"
+msgstr "Tabloid"
+
+msgctxt "paper size"
+msgid "US Legal"
+msgstr "US Legal"
+
+msgctxt "paper size"
+msgid "US Legal Extra"
+msgstr "US Legal Extra"
+
+msgctxt "paper size"
+msgid "US Letter"
+msgstr "US Letter"
+
+msgctxt "paper size"
+msgid "US Letter Extra"
+msgstr "US Letter Extra"
+
+msgctxt "paper size"
+msgid "US Letter Plus"
+msgstr "US Letter Plus"
+
+msgctxt "paper size"
+msgid "Wide Format"
+msgstr "Широкий формат"
+
+msgctxt "paper size"
+msgid "a2 Envelope"
+msgstr "Конверт a2"
+
+msgctxt "paper size"
+msgid "asme_f"
+msgstr "asme_f"
+
+msgctxt "paper size"
+msgid "b-plus"
+msgstr "b-plus"
+
+msgctxt "paper size"
+msgid "c"
+msgstr "c"
+
+msgctxt "paper size"
+msgid "c5 Envelope"
+msgstr "Конверт c5"
+
+msgctxt "paper size"
+msgid "d"
+msgstr "d"
+
+msgctxt "paper size"
+msgid "e"
+msgstr "e"
+
+msgctxt "paper size"
+msgid "edp"
+msgstr "edp"
+
+msgctxt "paper size"
+msgid "f"
+msgstr "f"
+
+msgctxt "paper size"
+msgid "hagaki (postcard)"
+msgstr "hagaki (открытка)"
+
+msgctxt "paper size"
+msgid "jis exec"
+msgstr "jis exec"
+
+msgctxt "paper size"
+msgid "juuro-ku-kai"
+msgstr "juuro-ku-kai"
+
+msgctxt "paper size"
+msgid "kahu Envelope"
+msgstr "Конверт hahu"
+
+msgctxt "paper size"
+msgid "kaku2 Envelope"
+msgstr "Конверт kaku2"
+
+msgctxt "paper size"
+msgid "oufuku (reply postcard)"
+msgstr "oufuku (ответная открытка)"
+
+msgctxt "paper size"
+msgid "pa-kai"
+msgstr "pa-kai"
+
+msgctxt "paper size"
+msgid "prc 16k"
+msgstr "prc 16k"
+
+msgctxt "paper size"
+msgid "prc 32k"
+msgstr "prc 32k"
+
+msgctxt "paper size"
+msgid "prc1 Envelope"
+msgstr "Конверт prc1"
+
+msgctxt "paper size"
+msgid "prc10 Envelope"
+msgstr "Конверт prc10"
+
+msgctxt "paper size"
+msgid "prc2 Envelope"
+msgstr "Конверт prc2"
+
+msgctxt "paper size"
+msgid "prc3 Envelope"
+msgstr "prc3"
+
+msgctxt "paper size"
+msgid "prc4 Envelope"
+msgstr "Конверт prc4"
+
+msgctxt "paper size"
+msgid "prc5 Envelope"
+msgstr "Конверт prc5"
+
+msgctxt "paper size"
+msgid "prc6 Envelope"
+msgstr "Конверт prc6"
+
+msgctxt "paper size"
+msgid "prc7 Envelope"
+msgstr "Конверт prc7"
+
+msgctxt "paper size"
+msgid "prc8 Envelope"
+msgstr "Конверт prc8"
+
+msgctxt "paper size"
+msgid "prc9 Envelope"
+msgstr "Конверт prc9"
+
+msgctxt "paper size"
+msgid "you4 Envelope"
+msgstr "Конверт you4"
+
+msgid "paused"
+msgstr "приостановлено"
+
+msgctxt "print operation status"
+msgid "Blocking on issue"
+msgstr "Остановлено из-за ошибки"
+
+msgctxt "print operation status"
+msgid "Finished"
+msgstr "Завершено"
+
+msgctxt "print operation status"
+msgid "Finished with error"
+msgstr "Завершено с ошибкой"
+
+msgctxt "print operation status"
+msgid "Generating data"
+msgstr "Вывод данных"
+
+msgctxt "print operation status"
+msgid "Initial state"
+msgstr "Начальное состояние"
+
+msgctxt "print operation status"
+msgid "Preparing to print"
+msgstr "Подготовка к печати"
+
+msgctxt "print operation status"
+msgid "Printing"
+msgstr "Печать"
+
+msgctxt "print operation status"
+msgid "Sending data"
+msgstr "Отправка данных"
+
+msgctxt "print operation status"
+msgid "Waiting"
+msgstr "Ожидание"
+
+msgid "printer offline"
+msgstr "принтер выключен"
+
+msgid "processing job"
+msgstr "обработка задания"
+
+msgctxt "progress bar label"
+msgid "%d %%"
+msgstr "%d %%"
+
+msgid "ready to print"
+msgstr "готов к печати"
+
+msgctxt "recent menu label"
+msgid "%d. %s"
+msgstr "%d. %s"
+
+msgctxt "recent menu label"
+msgid "_%d. %s"
+msgstr "_%d. %s"
+
+msgctxt "switch"
+msgid "OFF"
+msgstr "○"
+
+msgctxt "switch"
+msgid "ON"
+msgstr "❙ "
+
+msgid "test-output.%s"
+msgstr "тест-печати.%s"
+
+msgid "text may not appear inside <%s>"
+msgstr "текст может не отображаться внутри элемента <%s>"
+
+msgctxt "throbbing progress animation widget"
+msgid "Spinner"
+msgstr "Волчок"
+
+msgctxt "type name"
+msgid "Unknown"
+msgstr "Неизвестный тип"
+
+msgid "unknown"
+msgstr "неизвестен"
+
+msgctxt "volume percentage"
+msgid "%d %%"
+msgstr "%d %%"
+
+msgctxt "year measurement template"
+msgid "2000"
+msgstr "2000"

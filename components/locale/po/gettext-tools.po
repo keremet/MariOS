@@ -1,0 +1,2983 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gettext-tools 0.19.3\n"
+"Report-Msgid-Bugs-To: bug-gnu-gettext@gnu.org\n"
+"POT-Creation-Date: 2015-12-28 08:26+0900\n"
+"PO-Revision-Date: 2014-11-19 09:30+0200\n"
+"Last-Translator: Pavel Maryanov <acid@jack.kiev.ua>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 1.6.9\n"
+
+msgid "                                (only language C++)\n"
+msgstr "                                (только язык C++)\n"
+
+msgid "                                (only languages C, C++, ObjectiveC)\n"
+msgstr "                                (только языки C, C++, ObjectiveC)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+"                                (только языки C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala, Desktop)\n"
+msgstr ""
+"                                (только языки C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, Tcl, Perl, PHP, GCC-source, Glade,\n"
+"                                Lua, JavaScript, Vala, Desktop)\n"
+
+msgid ""
+"                                (only languages C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, YCP, Tcl, Perl, PHP, GCC-source,\n"
+"                                Lua, JavaScript, Vala)\n"
+msgstr ""
+"                                (только языки C, C++, ObjectiveC, Shell,\n"
+"                                Python, Lisp, EmacsLisp, librep, Scheme, "
+"Java,\n"
+"                                C#, awk, YCP, Tcl, Perl, PHP, GCC-source,\n"
+"                                Lua, JavaScript, Vala)\n"
+
+msgid "      --backup=CONTROL        make a backup of def.po\n"
+msgstr "      --backup=МЕТОД          сделать резервную копию def.po\n"
+
+msgid "      --boost                 recognize Boost format strings\n"
+msgstr "      --boost                 распознавать форматные строки Boost\n"
+
+msgid ""
+"      --check-accelerators[=CHAR]  check presence of keyboard accelerators "
+"for\n"
+"                                menu items\n"
+msgstr ""
+"      --check-accelerators[=СИМВОЛ]\n"
+"                              проверить наличие клавиатурных\n"
+"                              эквивалентов для пунктов меню\n"
+
+msgid ""
+"      --check-domain          check for conflicts between domain directives\n"
+"                                and the --output-file option\n"
+msgstr ""
+"      --check-domain          проверить на конфликты между директивами "
+"домена\n"
+"                                и параметром --output-file\n"
+
+msgid "      --check-format          check language dependent format strings\n"
+msgstr ""
+"      --check-format          проверить зависящие от языка форматные строки\n"
+
+msgid ""
+"      --check-header          verify presence and contents of the header "
+"entry\n"
+msgstr ""
+"      --check-header          проверить наличие и содержимое заголовка\n"
+
+msgid "      --clear-fuzzy           set all messages non-'fuzzy'\n"
+msgstr "      --clear-fuzzy           снять все пометки «неточное»\n"
+
+msgid "      --clear-obsolete        set all messages non-obsolete\n"
+msgstr "      --clear-obsolete        снять все пометки «старое»\n"
+
+msgid ""
+"      --clear-previous        remove the \"previous msgid\" from all "
+"messages\n"
+msgstr ""
+"      --clear-previous        удалить «предыдущий msgid» из всех сообщений\n"
+
+msgid ""
+"      --color                 use colors and other text attributes always\n"
+"      --color=WHEN            use colors and other text attributes if WHEN.\n"
+"                              WHEN may be 'always', 'never', 'auto', or "
+"'html'.\n"
+msgstr ""
+"      --color                 всегда использовать цвета и другие\n"
+"                              текстовые атрибуты\n"
+"      --color=КОГДА           использовать цвета и другие "
+"текстовые                               атрибуты в соответствии с КОГДА\n"
+"                              КОГДА может быть: «always» (всегда),\n"
+"                              «never» (никогда), «auto» или «html»\n"
+
+msgid "      --copyright-holder=STRING  set copyright holder in output\n"
+msgstr ""
+"      --copyright-holder=СТРОКА\n"
+"                      задает наименование обладателя авторских прав\n"
+
+msgid "      --csharp                C# mode: generate a .NET .dll file\n"
+msgstr "      --csharp                режим C#: генерировать .dll-файл .NET\n"
+
+msgid "      --csharp                C# mode: input is a .NET .dll file\n"
+msgstr "      --csharp                режим C#: на входе .dll-файл .NET\n"
+
+msgid ""
+"      --csharp-resources      C# resources mode: generate a .NET .resources "
+"file\n"
+msgstr ""
+"      --csharp-resources    режим ресурсов C#: генерировать .resources-файл ."
+"NET\n"
+
+msgid ""
+"      --csharp-resources      C# resources mode: input is a .NET .resources "
+"file\n"
+msgstr ""
+"      --csharp-resources      режим ресурсов C#: на входе .resources-файл ."
+"NET\n"
+
+msgid ""
+"      --debug                 more detailed formatstring recognition result\n"
+msgstr ""
+"      --debug                 более подробный результат разбора форматной "
+"строки\n"
+
+msgid ""
+"      --desktop               Desktop Entry mode: generate a .desktop file\n"
+msgstr ""
+"      --desktop               режим Desktop Entry: генерировать файл ."
+"desktop\n"
+
+msgid ""
+"      --empty                 when removing 'fuzzy', also set msgstr empty\n"
+msgstr ""
+"      --empty                 при удалении «неточных», также делать\n"
+"                              msgstr пустой\n"
+
+msgid ""
+"      --endianness=BYTEORDER  write out 32-bit numbers in the given byte "
+"order\n"
+"                                (big or little, default depends on "
+"platform)\n"
+msgstr ""
+"      --endianness=П_БАЙТ     записывать 32-битные числа в заданном\n"
+"                              порядке байт (big или little, значение по\n"
+"                              умолчанию зависит от платформы)\n"
+
+msgid ""
+"      --escape                use C escapes in output, no extended chars\n"
+msgstr ""
+"      --escape                использовать экранирующие последовательности,\n"
+"                                а не расширенные символы\n"
+
+msgid ""
+"      --flag=WORD:ARG:FLAG    additional flag for strings inside the "
+"argument\n"
+"                              number ARG of keyword WORD\n"
+msgstr ""
+"      --flag=СЛОВО:АРГ:ФЛАГ   дополнительный флаг для строк внутри "
+"аргумента\n"
+"                              номер АРГ ключевого слова СЛОВО\n"
+
+msgid "      --force-po              write PO file even if empty\n"
+msgstr "      --force-po              записать PO-файл, даже если он пуст\n"
+
+msgid ""
+"      --foreign-user          omit FSF copyright in output for foreign user\n"
+msgstr ""
+"      --foreign-user          не выводить уведомление об авторских правах "
+"FSF\n"
+
+msgid ""
+"      --from-code=NAME        encoding of input files\n"
+"                                (except for Python, Tcl, Glade)\n"
+msgstr ""
+"      --from-code=ИМЯ            кодировка входных файлов\n"
+"                                   (кроме Python, Tcl, Glade)\n"
+
+msgid "      --fuzzy                 synonym for --only-fuzzy --clear-fuzzy\n"
+msgstr "      --fuzzy                 синоним для --only-fuzzy --clear-fuzzy\n"
+
+msgid ""
+"      --ignore-file=FILE.po   manipulate only entries not listed in FILE.po\n"
+msgstr ""
+"      --ignore-file=ФАЙЛ.po   обработать сообщения, не перечисленные\n"
+"                              в ФАЙЛЕ.po\n"
+
+msgid "      --indent                indented output style\n"
+msgstr "      --indent                использовать на выводе отступы\n"
+
+msgid ""
+"      --java2                 like --java, and assume Java2 (JDK 1.2 or "
+"higher)\n"
+msgstr ""
+"      --java2                 как --java, но предполагает Java2 (JDK 1.2 или "
+"выше)\n"
+
+msgid "      --kde                   recognize KDE 4 format strings\n"
+msgstr "      --kde                   распознавать форматные строки KDE 4\n"
+
+msgid ""
+"      --keep-header           keep header entry unmodified, don't filter it\n"
+msgstr ""
+"      --keep-header           сохранить заголовок как есть, не фильтровать "
+"его\n"
+
+msgid ""
+"      --lang=CATALOGNAME      set 'Language' field in the header entry\n"
+msgstr "      --lang=ИМЯ_КАТАЛОГА     задать поле «Language» в заголовке\n"
+
+msgid ""
+"      --msgid-bugs-address=EMAIL@ADDRESS  set report address for msgid bugs\n"
+msgstr ""
+"      --msgid-bugs-address=АДРЕС@ЭЛЕКТРОННОЙ.ПОЧТЫ\n"
+"                      задает адрес, куда следует отправлять отчет об "
+"ошибках\n"
+
+msgid ""
+"      --no-escape             do not use C escapes in output (default)\n"
+msgstr ""
+"      --no-escape             не использовать при выводе\n"
+"                                escape-последовательности языка C (по "
+"умолчанию)\n"
+
+msgid "      --no-fuzzy              remove 'fuzzy' marked messages\n"
+msgstr ""
+"      --no-fuzzy              удалить сообщения помеченные как «неточные»\n"
+
+msgid ""
+"      --no-hash               binary file will not include the hash table\n"
+msgstr ""
+"      --no-hash               двоичный файл не будет включать хэш-таблицу\n"
+
+msgid "      --no-location           do not write '#: filename:line' lines\n"
+msgstr "      --no-location           не писать строки «#: файл:строка»\n"
+
+msgid "      --no-location           suppress '#: filename:line' lines\n"
+msgstr "      --no-location           убрать строки «#: файл:строка»\n"
+
+msgid "      --no-obsolete           remove obsolete #~ messages\n"
+msgstr ""
+"      --no-obsolete           удалить сообщения, помеченные как «старые»\n"
+
+msgid ""
+"      --no-translator         assume the PO file is automatically generated\n"
+msgstr ""
+"      --no-translator         предполагать, что PO-файл сгенерирован "
+"автоматически\n"
+
+msgid ""
+"      --no-wrap               do not break long message lines, longer than\n"
+"                              the output page width, into several lines\n"
+msgstr ""
+"      --no-wrap               не разбивать длинные строки, которые длиннее\n"
+"                              ширины выходной страницы\n"
+
+msgid ""
+"      --obsolete              synonym for --only-obsolete --clear-obsolete\n"
+msgstr ""
+"      --obsolete              синоним для --only-obsolete --clear-obsolete\n"
+
+msgid ""
+"      --omit-header           don't write header with 'msgid \"\"' entry\n"
+msgstr ""
+"      --omit-header           не выводить заголовок с полем «msgid \"\"»\n"
+
+msgid ""
+"      --only-file=FILE.po     manipulate only entries listed in FILE.po\n"
+msgstr ""
+"      --only-file=ФАЙЛ.po     обработать сообщения, перечисленные в ФАЙЛЕ."
+"po\n"
+
+msgid "      --only-fuzzy            keep 'fuzzy' marked messages\n"
+msgstr ""
+"      --only-fuzzy            сохранить сообщения помеченные как «неточные»\n"
+
+msgid "      --only-obsolete         keep obsolete #~ messages\n"
+msgstr ""
+"      --only-obsolete         сохранить сообщения, помеченные как «старые»\n"
+
+msgid "      --package-name=PACKAGE  set package name in output\n"
+msgstr "      --package-name=ПАКЕТ    задать имя пакета для вывода\n"
+
+msgid "      --package-version=VERSION  set package version in output\n"
+msgstr ""
+"      --package-version=ВЕРСИЯ\n"
+"                              задать версию пакета для вывода\n"
+
+msgid ""
+"      --previous              keep previous msgids of translated messages\n"
+msgstr ""
+"      --previous              сохранить предыдущие msgid переведённых\n"
+"                              сообщений\n"
+
+msgid ""
+"      --previous              when setting 'fuzzy', keep previous msgids\n"
+"                              of translated messages.\n"
+msgstr ""
+"      --previous              если пометка «неточное», то сохранить\n"
+"                              предыдущие msgid переведённых сообщений\n"
+
+msgid "      --properties-output     write out a Java .properties file\n"
+msgstr "      --properties-output     записать .properties-файл Java\n"
+
+msgid "      --qt                    Qt mode: generate a Qt .qm file\n"
+msgstr "      --qt                    режим Qt: генерировать .qm-файл Qt\n"
+
+msgid "      --qt                    recognize Qt format strings\n"
+msgstr "      --qt                    распознавать форматные строки Qt\n"
+
+msgid "      --set-fuzzy             set all messages 'fuzzy'\n"
+msgstr "      --set-fuzzy             пометить все сообщения как «неточные»\n"
+
+msgid "      --set-obsolete          set all messages obsolete\n"
+msgstr "      --set-obsolete          пометить все сообщения как «старые»\n"
+
+msgid "      --sort-by-file          sort output by file location\n"
+msgstr "      --sort-by-file          сортировать вывод по именам файлов\n"
+
+msgid "      --sort-output           generate sorted output\n"
+msgstr "      --sort-output           сортировать вывод\n"
+
+msgid ""
+"      --source                produce a .java file, instead of a .class "
+"file\n"
+msgstr ""
+"      --source                создавать файл .java, вместо файла .class\n"
+
+msgid "      --statistics            print statistics about translations\n"
+msgstr "      --statistics            напечатать статистику о переводах\n"
+
+msgid "      --strict                enable strict Uniforum mode\n"
+msgstr ""
+"      --strict                строго соответствовать стандарту Uniforum\n"
+
+msgid "      --strict                strict Uniforum output style\n"
+msgstr ""
+"      --strict                выводить в строгом соответствии\n"
+"                              стандарту Uniforum\n"
+
+msgid ""
+"      --strict                write out strict Uniforum conforming .po file\n"
+msgstr ""
+"      --strict                вывод в режиме строгого соответствия "
+"стандарту\n"
+"                                Uniforum\n"
+
+msgid "      --strict                write strict uniforum style\n"
+msgstr ""
+"      --strict                выводить в строгом соответствии стандарту "
+"Uniforum\n"
+
+msgid ""
+"      --stringtable-input     input file is in NeXTstep/GNUstep .strings "
+"syntax\n"
+msgstr ""
+"      --stringtable-input     входной файл имеет синтаксис NeXTstep/GNUstep ."
+"strings\n"
+
+msgid ""
+"      --stringtable-input     input files are in NeXTstep/GNUstep .strings\n"
+"                              syntax\n"
+msgstr ""
+"      --stringtable-input     входные файлы имеют синтаксис NeXTstep/"
+"GNUstep\n"
+"                              .strings\n"
+
+msgid ""
+"      --stringtable-output    write out a NeXTstep/GNUstep .strings file\n"
+msgstr ""
+"      --stringtable-output    записать .strings-файл NeXTstep/GNUstep\n"
+
+msgid "      --style=STYLEFILE       specify CSS style rule file for --color\n"
+msgstr ""
+"      --style=ФАЙЛ_СТИЛЯ      указать файл правил стилей CSS для --color\n"
+
+msgid "      --suffix=SUFFIX         override the usual backup suffix\n"
+msgstr ""
+"      --suffix=СУФФИКС        перекрыть обычный суффикс резервной копии\n"
+
+msgid ""
+"      --tcl                   Tcl mode: generate a tcl/msgcat .msg file\n"
+msgstr ""
+"      --tcl                   режим Tcl: создает .msg-файл для tcl/msgcat\n"
+
+msgid ""
+"      --tcl                   Tcl mode: input is a tcl/msgcat .msg file\n"
+msgstr ""
+"      --tcl                   режим Tcl: на входе .msg-файл для tcl/msgcat\n"
+
+msgid ""
+"      --translated            keep translated, remove untranslated messages\n"
+msgstr ""
+"      --translated            сохранить переведенные, удалить "
+"непереведённые\n"
+
+msgid ""
+"      --untranslated          keep untranslated, remove translated messages\n"
+msgstr ""
+"      --untranslated          сохранить непереведённые, удалить "
+"переведенные\n"
+
+msgid ""
+"      --use-first             use first available translation for each\n"
+"                              message, don't merge several translations\n"
+msgstr ""
+"      --use-first             использовать первый доступный перевод для\n"
+"                              каждого сообщения, не объединять переводы\n"
+
+msgid "      --use-fuzzy             consider fuzzy entries\n"
+msgstr "      --use-fuzzy             использовать неточные записи\n"
+
+msgid "      --use-untranslated      consider untranslated entries\n"
+msgstr "      --use-untranslated      использовать непереведённые записи\n"
+
+msgid "  --template=TEMPLATE         a .desktop file used as a template\n"
+msgstr ""
+"  --template=ШАБЛОН           в качестве шаблона использовать файл .desktop\n"
+
+msgid ""
+"  -<, --less-than=NUMBER      print messages with less than this many\n"
+"                              definitions, defaults to infinite if not set\n"
+msgstr ""
+"  -<, --less-than=ЧИСЛО       вывести те сообщения, для которых число\n"
+"                              определений меньше заданного ЧИСЛА\n"
+"                              (по умолчанию не ограничено)\n"
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 0 if not set\n"
+msgstr ""
+"  ->, --more-than=ЧИСЛО       вывести те сообщения, для которых число\n"
+"                              определений больше заданного ЧИСЛА\n"
+"                              (по умолчанию больше нуля)\n"
+
+msgid ""
+"  ->, --more-than=NUMBER      print messages with more than this many\n"
+"                              definitions, defaults to 1 if not set\n"
+msgstr ""
+"  ->, --more-than=ЧИСЛО       вывести те сообщения, для которых количество\n"
+"                              определений больше заданного ЧИСЛА\n"
+"                              (по умолчанию больше одного)\n"
+
+msgid "  -C, --c++                   shorthand for --language=C++\n"
+msgstr "  -C, --c++                   синоним --language=C++\n"
+
+msgid ""
+"  -C, --check-compatibility   check that GNU msgfmt behaves like X/Open "
+"msgfmt\n"
+msgstr ""
+"  -C, --check-compatibility   проверить, что GNU msgfmt ведет себя так же, \n"
+"                                как X/Open msgfmt\n"
+
+msgid ""
+"  -C, --compendium=FILE       additional library of message translations,\n"
+"                              may be specified more than once\n"
+msgstr ""
+"  -C, --compendium=ФАЙЛ       дополнительная библиотека переводов "
+"сообщений, \n"
+"                              можно указывать несколько раз\n"
+
+msgid ""
+"  -D, --directory=DIRECTORY   add DIRECTORY to list for input files search\n"
+msgstr ""
+"  -D, --directory=КАТАЛОГ     добавить КАТАЛОГ к пути поиска входных файлов\n"
+
+msgid ""
+"  -E, --escape                use C escapes in output, no extended chars\n"
+msgstr ""
+"  -E, --escape                использовать экранирующие последовательности,\n"
+"                              а не расширенные символы\n"
+
+msgid "  -F, --sort-by-file          sort output by file location\n"
+msgstr "  -F, --sort-by-file          сортировать вывод по именам файлов\n"
+
+msgid ""
+"  -L, --language=NAME         recognise the specified language\n"
+"                                (C, C++, ObjectiveC, PO, Shell, Python, "
+"Lisp,\n"
+"                                EmacsLisp, librep, Scheme, Smalltalk, Java,\n"
+"                                JavaProperties, C#, awk, YCP, Tcl, Perl, "
+"PHP,\n"
+"                                GCC-source, NXStringTable, RST, Glade, Lua,\n"
+"                                JavaScript, Vala, Desktop)\n"
+msgstr ""
+"  -L, --language=ИМЯ          распознавать указанный язык\n"
+"                              (C, C++, ObjectiveC, PO, Shell, Python, Lisp,\n"
+"                              EmacsLisp, librep, Scheme, Smalltalk, Java,\n"
+"                              JavaProperties, C#, awk, YCP, Tcl, Perl, PHP,\n"
+"                              GCC-source, NXStringTable, RST, Glade, Lua,\n"
+"                              JavaScript, Vala, Desktop)\n"
+
+msgid ""
+"  -M[STRING], --msgstr-suffix[=STRING]  use STRING or \"\" as suffix for "
+"msgstr\n"
+"                                values\n"
+msgstr ""
+"  -M[СТРОКА], --msgstr-suffix[=СТРОКА]\n"
+"                              использовать СТРОКУ или «» как суффикс\n"
+"                              к значениям msgstr\n"
+
+msgid "  -N, --no-fuzzy-matching     do not use fuzzy matching\n"
+msgstr "  -N, --no-fuzzy-matching     не применять нечеткое сопоставление\n"
+
+msgid ""
+"  -P, --properties-input      input file is in Java .properties syntax\n"
+msgstr ""
+"  -P, --properties-input      входной файл имеет синтаксис Java .properties\n"
+
+msgid ""
+"  -P, --properties-input      input files are in Java .properties syntax\n"
+msgstr ""
+"  -P, --properties-input      входные файлы имеют синтаксис Java ."
+"properties\n"
+
+msgid "  -T, --trigraphs             understand ANSI C trigraphs for input\n"
+msgstr "  -T, --trigraphs             понимать на входе триграфы ANSI C\n"
+
+msgid ""
+"  -U, --update                update def.po,\n"
+"                              do nothing if def.po already up to date\n"
+msgstr ""
+"  -U, --update                обновить def.po,\n"
+"                              ничего не делать, если def.po уже обновлен\n"
+
+msgid "  -V, --version               output version information and exit\n"
+msgstr "  -V, --version               показать информацию о версии и выйти\n"
+
+msgid ""
+"  -a, --alignment=NUMBER      align strings to NUMBER bytes (default: %d)\n"
+msgstr ""
+"  -a, --alignment=ЧИСЛО       выравнивать строки по ЧИСЛУ байт (по "
+"умолчанию: %d)\n"
+
+msgid "  -a, --extract-all           extract all strings\n"
+msgstr "  -a, --extract-all           извлечь все строки\n"
+
+msgid ""
+"  -c, --check                 perform all the checks implied by\n"
+"                                --check-format, --check-header, --check-"
+"domain\n"
+msgstr ""
+"  -c, --check                 произвести все проверки, подразумеваемые\n"
+"                              параметрами --check-format, --check-header,\n"
+"                              --check-domain\n"
+
+msgid ""
+"  -cTAG, --add-comments=TAG   place comment blocks starting with TAG and\n"
+"                                preceding keyword lines in output file\n"
+"  -c, --add-comments          place all comment blocks preceding keyword "
+"lines\n"
+"                                in output file\n"
+msgstr ""
+"  -cТЕГ, --add-comments[=ТЕГ] записать блоки комментариев, начиная с ТЕГА и\n"
+"                              предшествующих ключевых строк в выходной файл\n"
+"  -c, --add-comments          записать все блоки комментариев, начиная с\n"
+"                              предшествующих ключевых строк в выходной файл\n"
+
+msgid ""
+"  -d DIRECTORY                base directory for locale dependent .dll "
+"files\n"
+msgstr ""
+"  -d КАТАТОГ                 базовый каталог для зависящих от локали .dll-"
+"файлов\n"
+
+msgid "  -d DIRECTORY                base directory of .msg message catalogs\n"
+msgstr "  -d КАТАЛОГ                  корневой каталог иерархии .msg-файлов\n"
+
+msgid "  -d DIRECTORY                base directory of .po files\n"
+msgstr "  -d КАТАЛОГ                  корневой каталог файлов .po\n"
+
+msgid ""
+"  -d DIRECTORY                base directory of classes directory hierarchy\n"
+msgstr ""
+"  -d КАТАЛОГ                  корневой каталог иерархии каталогов классов\n"
+
+msgid ""
+"  -d, --default-domain=NAME   use NAME.po for output (instead of messages."
+"po)\n"
+msgstr ""
+"  -d, --default-domain=ИМЯ    выводить в файл ИМЯ.po (вместо messages.po)\n"
+
+msgid "  -d, --repeated              print only duplicates\n"
+msgstr "  -d, --repeated              печатать только дубликаты\n"
+
+msgid ""
+"  -e, --expression=SCRIPT     add SCRIPT to the commands to be executed\n"
+msgstr "  -e, --expression=СЦЕН       добавить СЦЕН к выполняемым командам\n"
+
+msgid ""
+"  -e, --no-escape             do not use C escapes in output (default)\n"
+msgstr ""
+"  -e, --no-escape             не использовать при выводе экранирующие\n"
+"                              последовательности языка C (по умолчанию)\n"
+
+msgid ""
+"  -f, --file=SCRIPTFILE       add the contents of SCRIPTFILE to the "
+"commands\n"
+"                                to be executed\n"
+msgstr ""
+"  -f, --file=ФАЙЛ-СЦЕН        добавить содержимое файла ФАЙЛ-СЦЕН к\n"
+"                                выполняемым командам\n"
+
+msgid "  -f, --files-from=FILE       get list of input files from FILE\n"
+msgstr ""
+"  -f, --files-from=ФАЙЛ       получить список входных файлов из ФАЙЛА\n"
+
+msgid ""
+"  -f, --fqdn, --long          long host name, includes fully qualified "
+"domain\n"
+"                                name, and aliases\n"
+msgstr ""
+"  -f, --fqdn, --long          длинное имя машины, включает полностью\n"
+"                                заданное доменное имя и псевдонимы\n"
+
+msgid "  -f, --use-fuzzy             use fuzzy entries in output\n"
+msgstr ""
+"  -f, --use-fuzzy             использовать при выводе неточные переводы\n"
+
+msgid "  -h, --help                  display this help and exit\n"
+msgstr "  -h, --help                  показать эту справку и выйти\n"
+
+msgid "  -i, --indent                indented output style\n"
+msgstr "  -i, --indent                использовать на выводе отступы\n"
+
+msgid "  -i, --indent                write indented output style\n"
+msgstr "  -i, --indent                использовать на выводе отступы\n"
+
+msgid "  -i, --indent                write the .po file using indented style\n"
+msgstr ""
+"  -i, --indent                форматировать PO-файл, используя отступы\n"
+
+msgid "  -i, --input=INPUTFILE       input PO file\n"
+msgstr "  -i, --input=ВХОДНОЙ-ФАЙЛ    входной PO-файл\n"
+
+msgid "  -i, --input=INPUTFILE       input POT file\n"
+msgstr "  -i, --input=ВХОДНОЙ-ФАЙЛ    входной POT-файл\n"
+
+msgid "  -i, --ip-address            addresses for the hostname\n"
+msgstr "  -i, --ip-address            адреса для заданного имени машины\n"
+
+msgid ""
+"  -j, --java                  Java mode: generate a Java ResourceBundle "
+"class\n"
+msgstr ""
+"  -j, --java                  режим Java: создает Java-класс ResourceBundle\n"
+
+msgid ""
+"  -j, --java                  Java mode: input is a Java ResourceBundle "
+"class\n"
+msgstr ""
+"  -j, --java                  режим Java: на входе Java-класс "
+"ResourceBundle\n"
+
+msgid "  -j, --join-existing         join messages with existing file\n"
+msgstr "  -j, --join-existing         слить сообщения с существующим файлом\n"
+
+msgid ""
+"  -kWORD, --keyword=WORD      look for WORD as an additional keyword\n"
+"  -k, --keyword               do not to use default keywords\n"
+msgstr ""
+"  -k, --keyword[=СЛОВО]       дополнительное ключевое слово для поиска\n"
+"  -k, --keyword               не использовать ключевые слова по умолчанию\n"
+
+msgid "  -l, --locale=LL_CC          set target locale\n"
+msgstr "  -l, --locale=ЯЯ_СС          задает целевую локаль\n"
+
+msgid ""
+"  -l, --locale=LOCALE         locale name, either language or "
+"language_COUNTRY\n"
+msgstr ""
+"  -l, --locale=ЛОКАЛЬ         имя локали, это либо язык, либо язык_СТРАНА\n"
+
+msgid ""
+"  -m, --multi-domain          apply ref.pot to each of the domains in def."
+"po\n"
+msgstr ""
+"  -m, --multi-domain          применить ref.pot ко всем доменам из def.po\n"
+
+msgid ""
+"  -m[STRING], --msgstr-prefix[=STRING]  use STRING or \"\" as prefix for "
+"msgstr\n"
+"                                values\n"
+msgstr ""
+"  -m[СТРОКА], --msgstr-prefix[=СТРОКА]\n"
+"                              использовать СТРОКУ или «» как префикс\n"
+"                              к значениям msgstr\n"
+
+msgid ""
+"  -n, --add-location          generate '#: filename:line' lines (default)\n"
+msgstr ""
+"  -n, --add-location          генерировать строки «#: файл:строка»\n"
+"                              (по умолчанию)\n"
+
+msgid ""
+"  -n, --add-location          preserve '#: filename:line' lines (default)\n"
+msgstr ""
+"  -n, --add-location          сохранять строки «#: файл:строка»\n"
+"                              (по умолчанию)\n"
+
+msgid ""
+"  -n, --quiet, --silent       suppress automatic printing of pattern space\n"
+msgstr ""
+"  -n, --quiet, --silent       выключить автоматическую печать образца\n"
+
+msgid "  -o, --output-file=FILE      write output to specified PO file\n"
+msgstr "  -o, --output-file=ФАЙЛ      записать вывод в указанный файл\n"
+
+msgid "  -o, --output-file=FILE      write output to specified file\n"
+msgstr "  -o, --output-file=ФАЙЛ      записать вывод в указанный файл\n"
+
+msgid "  -o, --output=FILE           write output to specified file\n"
+msgstr "  -o, --output=ФАЙЛ           записать вывод в указанный файл\n"
+
+msgid ""
+"  -p, --output-dir=DIR        output files will be placed in directory DIR\n"
+msgstr "  -p, --output-dir=КАТ        поместить выходные файлы в каталог КАТ\n"
+
+msgid "  -p, --properties-output     write out a Java .properties file\n"
+msgstr "  -p, --properties-output     записать .properties-файл Java\n"
+
+msgid "  -q, --quiet, --silent       suppress progress indicators\n"
+msgstr "  -q, --quiet, --silent       не выводить индикатор хода выполнения\n"
+
+msgid "  -r, --resource=RESOURCE     resource name\n"
+msgstr "  -r, --resource=РЕСУРС       имя ресурса\n"
+
+msgid "  -s, --short                 short host name\n"
+msgstr "  -s, --short                 короткое имя машины\n"
+
+msgid "  -s, --sort-output           generate sorted output\n"
+msgstr "  -s, --sort-output           сортировать вывод\n"
+
+msgid "  -t, --to-code=NAME          encoding for output\n"
+msgstr "  -t, --to-code=ИМЯ           выходная кодировка\n"
+
+msgid ""
+"  -u, --unique                print only unique messages, discard "
+"duplicates\n"
+msgstr ""
+"  -u, --unique                печатать только уникальные, пропуская "
+"дубликаты\n"
+
+msgid ""
+"  -u, --unique                shorthand for --less-than=2, requests\n"
+"                              that only unique messages be printed\n"
+msgstr ""
+"  -u, --unique                сокращение для --less-than=2, запрашивает\n"
+"                              печать только уникальных сообщений\n"
+
+msgid "  -v, --verbose               increase verbosity level\n"
+msgstr ""
+"  -v, --verbose               увеличить подробность диагностических "
+"сообщений\n"
+
+msgid "  -w, --width=NUMBER          set output page width\n"
+msgstr "  -w, --width=ЧИСЛО           задает ширину выходной страницы\n"
+
+msgid "  -x, --exclude-file=FILE.po  entries from FILE.po are not extracted\n"
+msgstr "  -x, --exclude-file=ФАЙЛ.po  не извлекать вхождения из ФАЙЛА.po\n"
+
+msgid "  FILE ...                    input .mo files\n"
+msgstr "  ФАЙЛ ...                    входные .mo-файлы\n"
+
+msgid "  INPUTFILE                   input PO file\n"
+msgstr "  ВХОДНОЙ-ФАЙЛ                входной PO-файл\n"
+
+msgid "  INPUTFILE                   input PO or POT file\n"
+msgstr "  ВХОДНОЙ-ФАЙЛ                входной PO- или POT-файл\n"
+
+msgid "  INPUTFILE ...               input files\n"
+msgstr "  ВХОДНОЙ-ФАЙЛ...             входные файлы\n"
+
+msgid "  def.po                      translations\n"
+msgstr "  def.po                      переводы\n"
+
+msgid "  def.po                      translations referring to old sources\n"
+msgstr ""
+"  def.po                      переводы, ссылающиеся на старые исходники\n"
+
+msgid "  filename.po ...             input files\n"
+msgstr "  имя-файл.po ...             входные файлы\n"
+
+msgid "  ref.pot                     references to new sources\n"
+msgstr "  ref.pot                     ссылки на новые исходники\n"
+
+msgid "  ref.pot                     references to the sources\n"
+msgstr "  ref.pot                     ссылки на исходники\n"
+
+msgid " done.\n"
+msgstr " завершено.\n"
+
+msgid " failed.\n"
+msgstr " завершилась с ошибкой.\n"
+
+msgid " timed out.\n"
+msgstr " время ожидания истекло.\n"
+
+msgid "%d translated message"
+msgid_plural "%d translated messages"
+msgstr[0] "%d переведённое сообщение"
+msgstr[1] "%d переведённых сообщения"
+msgstr[2] "%d переведённых сообщений"
+
+msgid "%s and %s are mutually exclusive"
+msgstr "%s и %s взаимно исключают друг друга"
+
+msgid "%s and %s are mutually exclusive in %s"
+msgstr "%s и %s взаимно исключают друг друга в %s"
+
+msgid "%s and explicit file names are mutually exclusive"
+msgstr "%s и явно заданное имя файла взаимно исключают друг друга"
+
+msgid "%s does not exist"
+msgstr "%s не существует"
+
+msgid "%s exists but cannot read"
+msgstr "%s существует, но недоступен для чтения"
+
+msgid "%s is only valid with %s"
+msgstr "%s допустимо только с %s"
+
+msgid "%s is only valid with %s or %s"
+msgstr "%s допустимо только с %s или %s"
+
+msgid "%s is only valid with %s, %s or %s"
+msgstr "%s допустимо только с %s, %s или %s"
+
+msgid "%s requires a \"--template template\" specification"
+msgstr "для %s требуется указать «--template шаблон»"
+
+msgid "%s requires a \"-d directory\" specification"
+msgstr "для %s требуется указать «-d каталог»"
+
+msgid "%s requires a \"-l locale\" specification"
+msgstr "для %s требуется указать «-l локаль»"
+
+msgid "%s requires a \"-o file\" specification"
+msgstr "для %s требуется указать «-o файл»"
+
+msgid "%s subprocess"
+msgstr "дочерний процесс %s"
+
+msgid "%s subprocess I/O error"
+msgstr "ошибка ввода/вывода в дочернем процессе %s"
+
+msgid "%s subprocess failed"
+msgstr "дочерний процесс %s завершился неуспехом"
+
+msgid "%s subprocess failed with exit code %d"
+msgstr "дочерний процесс %s завершился аварийно с кодом выхода %d"
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "дочерний процесс %s получил фатальный сигнал %d"
+
+msgid "%s subprocess terminated with exit code %d"
+msgstr "дочерний процесс %s завершился с выходным кодом %d"
+
+msgid "%s%s: warning: "
+msgstr "%s%s: предупреждение: "
+
+msgid "%s: "
+msgstr "%s: "
+
+msgid "%s: error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr "%s: ошибка при преобразовании из кодировки «%s» в кодировку «%s»"
+
+msgid "%s: input is not valid in \"%s\" encoding"
+msgstr "%s: неверные данные для кодировки «%s»"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: недопустимый параметр — «%c»\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: у параметра «%c%s» не может быть аргумента\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s: двусмысленный параметр «%s»; возможные варианты:"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: у параметра «--%s» не может быть аргумента\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: для параметра «--%s» требуется аргумент\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: у параметра «-W %s» не может быть аргумента\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: двусмысленный параметр «-W %s»\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: для параметра «-W %s» требуется аргумент\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: для параметра требуется аргумент — «%c»\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: неизвестный параметр «%c%s»\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: неизвестный параметр «--%s»\n"
+
+msgid "%s: warning: source file contains fuzzy translation"
+msgstr "%s: предупреждение: исходный файл содержит неточные переводы"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце файла.\n"
+"Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце файла.\n"
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of file.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце файла.\n"
+"Укажите входную кодировку с помощью параметра --from-code.\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце строки.\n"
+"Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце строки.\n"
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid ""
+"%s:%d: Incomplete multibyte sequence at end of line.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d: Неполная многобайтовая последовательность в конце строки.\n"
+"Укажите входную кодировку с помощью параметра --from-code.\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code.\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid ""
+"%s:%d: Invalid multibyte sequence.\n"
+"Please specify the source encoding through --from-code.\n"
+msgstr ""
+"%s:%d: Неверная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code.\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code\n"
+msgstr ""
+"%s:%d: Длинная неполная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code or through a\n"
+"comment as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"%s:%d: Длинная неполная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid ""
+"%s:%d: Long incomplete multibyte sequence.\n"
+"Please specify the correct source encoding through --from-code.\n"
+msgstr ""
+"%s:%d: Длинная неполная многобайтовая последовательность.\n"
+"Укажите входную кодировку с помощью параметра --from-code.\n"
+
+msgid "%s:%d: can't find string terminator \"%s\" anywhere before EOF"
+msgstr "%s:%d: не удалось найти ограничитель строки «%s» вплоть до конца файла"
+
+msgid "%s:%d: iconv failure"
+msgstr "%s:%d: вызов iconv завершился с ошибкой"
+
+msgid "%s:%d: invalid interpolation (\"\\L\") of 8bit character \"%c\""
+msgstr "%s:%d: неверная интерполяция («\\L») восьмибитного символа «%c»"
+
+msgid "%s:%d: invalid interpolation (\"\\U\") of 8bit character \"%c\""
+msgstr "%s:%d: неверная интерполяция («\\U») восьмибитного символа «%c»"
+
+msgid "%s:%d: invalid interpolation (\"\\l\") of 8bit character \"%c\""
+msgstr "%s:%d: неверная интерполяция («\\l») восьмибитного символа «%c»"
+
+msgid "%s:%d: invalid interpolation (\"\\u\") of 8bit character \"%c\""
+msgstr "%s:%d: неверная интерполяция («\\u») восьмибитного символа «%c»"
+
+msgid "%s:%d: invalid string definition"
+msgstr "%s:%d: неверное определение строки"
+
+msgid "%s:%d: invalid string expression"
+msgstr "%s:%d: неверное строковое выражение"
+
+msgid "%s:%d: invalid variable interpolation at \"%c\""
+msgstr "%s:%d: неверная интерполяция переменной в «%c»"
+
+msgid "%s:%d: missing number after #"
+msgstr "%s:%d: пропущено число после #"
+
+msgid "%s:%d: missing right brace on \\x{HEXNUMBER}"
+msgstr "%s:%d: пропущена закрывающая фигурная скобка в \\x{HEXNUMBER}"
+
+msgid "%s:%d: warning: %s is not allowed"
+msgstr "%s:%d: предупреждение: %s не допускается"
+
+msgid "%s:%d: warning: ')' found where '}' was expected"
+msgstr "%s:%d: предупреждение: встречена «)», где ожидается «}»"
+
+msgid "%s:%d: warning: '}' found where ')' was expected"
+msgstr "%s:%d: предупреждение: встречена «}», где ожидается «)»"
+
+msgid "%s:%d: warning: RegExp literal terminated too early"
+msgstr "%s:%d: предупреждение: литерал RegExp завершился слишком рано"
+
+msgid "%s:%d: warning: invalid Unicode character"
+msgstr "%s:%d: предупреждение: неверный символ Unicode"
+
+msgid "%s:%d: warning: lone surrogate U+%04X"
+msgstr "%s:%d: предупреждение: одиночный заменитель U+%04X"
+
+msgid "%s:%d: warning: regular expression literal terminated too early"
+msgstr ""
+"%s:%d: предупреждение: литерал регулярного выражения завершился слишком рано"
+
+msgid "%s:%d: warning: unterminated XML markup"
+msgstr "%s:%d: предупреждение: незавершенная разметка XML"
+
+msgid "%s:%d: warning: unterminated character constant"
+msgstr "%s:%d: предупреждение: незавершенная символьная константа"
+
+msgid "%s:%d: warning: unterminated regular expression"
+msgstr "%s:%d: предупреждение: незавершенное регулярное выражение"
+
+msgid "%s:%d: warning: unterminated string"
+msgstr "%s:%d: предупреждение: незавершенная строка"
+
+msgid "%s:%d: warning: unterminated string constant"
+msgstr "%s:%d: предупреждение: незавершенная строковая константа"
+
+msgid "%s:%d: warning: unterminated string literal"
+msgstr "%s:%d: предупреждение: незавершенная строка"
+
+msgid ""
+"%s:%lu: warning: the syntax $\"...\" is deprecated due to security reasons; "
+"use eval_gettext instead"
+msgstr ""
+"%s:%lu: предупреждение: синтаксис $\"...\" запрещен по соображениям "
+"безопасности; используйте eval_gettext"
+
+msgid ""
+"%sRead %ld old + %ld reference, merged %ld, fuzzied %ld, missing %ld, "
+"obsolete %ld.\n"
+msgstr ""
+"%sПрочитано сообщений: старых %ld + новых %ld; объединено %ld, помечено "
+"неточными %ld, недостающих %ld, недействительных %ld.\n"
+
+msgid "'"
+msgstr "»"
+
+msgid "'%s' does not use %%C but '%s' uses %%C"
+msgstr "В «%s» не используется %%C, но в «%s» используется %%C"
+
+msgid "'%s' does not use %%m but '%s' uses %%m"
+msgstr "В «%s» не используется %%m, но в «%s» используется %%m"
+
+msgid ""
+"'%s' format string with unnamed arguments cannot be properly localized:\n"
+"The translator cannot reorder the arguments.\n"
+"Please consider using a format string with named arguments,\n"
+"and a mapping instead of a tuple for the arguments.\n"
+msgstr ""
+"Форматная строка «%s» с безымянными аргументами не может быть\n"
+"правильно локализована: переводчик не может поменять местами\n"
+"аргументы.\n"
+"Используйте форматную строку с именованными аргументами и\n"
+"отображение вместо кортежа для аргументов.\n"
+
+msgid ""
+"'%s' is a simple format string, but '%s' is not: it contains an 'L' flag or "
+"a double-digit argument number"
+msgstr ""
+"«%s» является простой строкой формата, но «%s» нет: в ней содержится флаг "
+"«L» или аргумент с числом из двух цифр"
+
+msgid "'%s' is not a valid %s format string, unlike '%s'. Reason: %s"
+msgstr ""
+"Строка «%s» не подходит под формат %s, в отличие от исходной «%s». Причина: "
+"%s"
+
+msgid "'%s' is not a valid encoding name.  Using ASCII as fallback.\n"
+msgstr "«%s» не является корректным именем кодировки. Используется ASCII.\n"
+
+msgid "'%s' uses %%C but '%s' doesn't"
+msgstr "В «%s» используется %%C, но в «%s» нет"
+
+msgid "'%s' uses %%m but '%s' doesn't"
+msgstr "В «%s» используется %%m, но в «%s» нет"
+
+msgid "'domain %s' directive ignored"
+msgstr "директива «domain %s» игнорируется"
+
+msgid "'msgid' and 'msgid_plural' entries do not both begin with '\\n'"
+msgstr "поля «msgid» и «msgid_plural» не начинаются с «\\n»"
+
+msgid "'msgid' and 'msgid_plural' entries do not both end with '\\n'"
+msgstr "поля «msgid» и «msgid_plural» не заканчиваются «\\n»"
+
+msgid "'msgid' and 'msgstr' entries do not both begin with '\\n'"
+msgstr "поля «msgid» и «msgstr» не начинаются с «\\n»"
+
+msgid "'msgid' and 'msgstr' entries do not both end with '\\n'"
+msgstr "поля «msgid» и «msgstr» не заканчиваются «\\n»"
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both begin with '\\n'"
+msgstr "поля «msgid» и «msgstr[%u]» не начинаются с «\\n»"
+
+msgid "'msgid' and 'msgstr[%u]' entries do not both end with '\\n'"
+msgstr "поля «msgid» и «msgstr[%u]» не заканчиваются «\\n»"
+
+msgid ", %d fuzzy translation"
+msgid_plural ", %d fuzzy translations"
+msgstr[0] ", %d неточный перевод"
+msgstr[1] ", %d неточных перевода"
+msgstr[2] ", %d неточных переводов"
+
+msgid ", %d untranslated message"
+msgid_plural ", %d untranslated messages"
+msgstr[0] ", %d непереведённое сообщение"
+msgstr[1] ", %d непереведённых сообщения"
+msgstr[2] ", %d непереведённых сообщений"
+
+msgid ""
+"- Convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+"- Преобразовать каталог переводов к %s с помощью «msgconv»,\n"
+"  затем применить «%s»,\n"
+"  затем преобразовать обратно к %s с помощью «msgconv».\n"
+
+msgid ""
+"- Set LC_ALL to a locale with encoding %s,\n"
+"  convert the translation catalog to %s using 'msgconv',\n"
+"  then apply '%s',\n"
+"  then convert back to %s using 'msgconv'.\n"
+msgstr ""
+"- Установить LC_ALL равной локали с кодировкой %s,\n"
+"  преобразовать каталог переводов к %s с помощью «msgconv»,\n"
+"  затем применить «%s»,\n"
+"  затем преобразовать обратно к %s с помощью «msgconv».\n"
+
+msgid "- Set LC_ALL to a locale with encoding %s.\n"
+msgstr "- Установить LC_ALL равной локали с кодировкой %s.\n"
+
+msgid "--join-existing cannot be used when output is written to stdout"
+msgstr ""
+"параметр --join-existing не может быть использован при записи в стандартный "
+"вывод"
+
+msgid "...but this definition is similar"
+msgstr "...однако здесь определено похожее сообщение"
+
+msgid "<stdin>"
+msgstr "<стандартный ввод>"
+
+msgid "<unnamed>"
+msgstr "<без имени>"
+
+msgid ""
+"A --flag argument doesn't have the <keyword>:<argnum>:[pass-]<flag> syntax: "
+"%s"
+msgstr ""
+"Аргумент --flag не соответствует синтаксису <ключевое-слово>:<номер-арг>:"
+"[pass-]<флаг>: %s"
+
+msgid ""
+"A special builtin command called '0' outputs the translation, followed by a\n"
+"null byte.  The output of \"msgexec 0\" is suitable as input for \"xargs "
+"-0\".\n"
+msgstr ""
+"Специальная встроенная команда «0» выводит перевод и за ним нулевой\n"
+"байт.  Вывод «msgexec 0» подходит для передачи на вход «xargs -0».\n"
+
+msgid ""
+"Although being used in a format string position, the %s is not a valid %s "
+"format string. Reason: %s\n"
+msgstr ""
+"Несмотря на использование в месте, где предполагается форматная строка, %s "
+"не является верной форматной строкой %s. Причина: %s\n"
+
+msgid ""
+"Although declared as such, the %s is not a valid %s format string. Reason: "
+"%s\n"
+msgstr ""
+"Строка %s не является верной форматной строкой %s, хотя и объявлена как "
+"таковая. Причина: %s\n"
+
+msgid ""
+"Applies a command to all translations of a translation catalog.\n"
+"The COMMAND can be any program that reads a translation from standard\n"
+"input.  It is invoked once for each translation.  Its output becomes\n"
+"msgexec's output.  msgexec's return code is the maximum return code\n"
+"across all invocations.\n"
+msgstr ""
+"Применяет указанную команду ко всем переводам из каталога.\n"
+"КОМАНДА может быть любой программой, которая считывает перевод со\n"
+"стандартного ввода. Она вызывается один раз для каждого перевода.  Её\n"
+"вывод отправляется на выход msgexec. Значение, возвращаемое msgexec —\n"
+"это максимальный код возврата среди всех вызовов.\n"
+
+msgid "Applies a filter to all translations of a translation catalog.\n"
+msgstr "Применяет фильтр ко всем переводам каталога.\n"
+
+msgid "Attribute manipulation:\n"
+msgstr "Операции с атрибутами:\n"
+
+msgid "Bruno Haible"
+msgstr "Бруно Хайбл"
+
+msgid "By default the input files are assumed to be in ASCII.\n"
+msgstr "По умолчанию считается, что входные файлы содержат только ASCII.\n"
+
+msgid ""
+"By default the language is guessed depending on the input file name "
+"extension.\n"
+msgstr "По умолчанию язык определяется по расширению входного файла.\n"
+
+msgid "C# compiler not found, try installing pnet"
+msgstr "Не найден компилятор C#, попробуйте поставить pnet"
+
+msgid "C# virtual machine not found, try installing pnet"
+msgstr "Не найдена виртуальная машина C#, попробуйте поставить pnet"
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(), and iconv() does "
+"not support this conversion."
+msgstr ""
+"Невозможно преобразовать из «%s» в «%s». %s полагается на iconv(), но "
+"iconv() не поддерживает это преобразование."
+
+msgid ""
+"Cannot convert from \"%s\" to \"%s\". %s relies on iconv(). This version was "
+"built without iconv()."
+msgstr ""
+"Невозможно преобразовать из «%s» в «%s».  %s полагается на iconv(). Эта "
+"версия была собрана без iconv()."
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format."
+msgstr ""
+"Невозможно вывести несколько доменов перевода в единый файл указанного "
+"формата."
+
+msgid ""
+"Cannot output multiple translation domains into a single file with the "
+"specified output format. Try using PO file syntax instead."
+msgstr ""
+"Невозможно вывести несколько доменов перевода в единый файл указанного "
+"формата.  Попробуйте применить синтаксис PO-файлов."
+
+msgid ""
+"Charset \"%s\" is not a portable encoding name.\n"
+"Message conversion to user's charset might not work.\n"
+msgstr ""
+"Имя «%s» не является переносимым названием кодировки.\n"
+"Преобразование сообщений к кодировке пользователя может не сработать.\n"
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv(),\n"
+"and iconv() does not support \"%s\".\n"
+msgstr ""
+"Кодировка «%s» не поддерживается. %s полагается на iconv(), но iconv() не "
+"поддерживает «%s».\n"
+
+msgid ""
+"Charset \"%s\" is not supported. %s relies on iconv().\n"
+"This version was built without iconv().\n"
+msgstr ""
+"Кодировка «%s» не поддерживается. %s полагается на iconv().\n"
+"Эта версия собрана без iconv().\n"
+
+msgid ""
+"Charset missing in header.\n"
+"Message conversion to user's charset will not work.\n"
+msgstr ""
+"В заголовке не указана кодировка.\n"
+"Преобразование сообщений к кодировке пользователя не сработает.\n"
+
+msgid "Choice of input file language:\n"
+msgstr "Выбор языка входного файла:\n"
+
+msgid ""
+"Compare two Uniforum style .po files to check that both contain the same\n"
+"set of msgid strings.  The def.po file is an existing PO file with the\n"
+"translations.  The ref.pot file is the last created PO file, or a PO "
+"Template\n"
+"file (generally created by xgettext).  This is useful for checking that\n"
+"you have translated each and every message in your program.  Where an exact\n"
+"match cannot be found, fuzzy matching is used to produce better "
+"diagnostics.\n"
+msgstr ""
+"Сравнивает два .po-файла в формате Uniforum, чтобы узнать, содержат ли\n"
+"они одинаковый набор строк, подлежащих переводу.  Файл def.po — это\n"
+"файл со старыми переводами; ref.po — это вновь созданный PO-файл или\n"
+"POT-файл (обычно производимый программой xgettext).  Это полезно,\n"
+"если вы хотите убедиться, что перевели каждое сообщение в программе.\n"
+"Для улучшения диагностики используется приблизительное сравнение, если\n"
+"нельзя найти точное совпадение.\n"
+
+msgid ""
+"Concatenates and merges the specified PO files.\n"
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments, extracted comments, and file positions will be cumulated, except\n"
+"that if --use-first is specified, they will be taken from the first PO file\n"
+"to define them.\n"
+msgstr ""
+"Сцепляет и объединяет заданные PO-файлы.\n"
+"Находит одинаковые сообщения в двух или более указанных PO-файлах.\n"
+"С помощью параметра --more-than можно затребовать вывод сообщений,\n"
+"встречающихся чаще других. И обратно, --less-than может быть\n"
+"использован для получения редко встречающихся сообщений\n"
+"(т. е. --less-than=2 выведет только уникальные сообщения). Переводы,\n"
+"комментарии, извлечённые комментарии и положение в файле сохраняются,\n"
+"но если задан параметр --use-first, то они берутся из первого PO-файла,\n"
+"в котором были определены.\n"
+
+msgid "Continuing anyway, expect parse errors."
+msgstr "Выполнение продолжается, будут ошибки разбора."
+
+msgid "Continuing anyway."
+msgstr "Выполнение продолжается."
+
+msgid ""
+"Conversion from \"%s\" to \"%s\" introduces duplicates: some different "
+"msgids become equal."
+msgstr ""
+"Преобразование из «%s» в «%s» порождает дубликаты: некоторые различающиеся "
+"оригиналы сообщений становятся одинаковыми."
+
+msgid ""
+"Conversion of file %s from %s encoding to %s encoding\n"
+"changes some msgids or msgctxts.\n"
+"Either change all msgids and msgctxts to be pure ASCII, or ensure they are\n"
+"UTF-8 encoded from the beginning, i.e. already in your source code files.\n"
+msgstr ""
+"Преобразование файла %s из кодировки %s в кодировку %s\n"
+"изменяет некоторые msgid или msgctxt.\n"
+"Вы должно переписать все msgid и msgctxt в чистом ASCII либо убедиться, что "
+"они\n"
+"изначально представлены в UTF-8, например в исходных файлах программы.\n"
+
+msgid "Conversion target:\n"
+msgstr "Цель преобразования:\n"
+
+msgid "Convert binary message catalog to Uniforum style .po file.\n"
+msgstr "Преобразует двоичный каталог сообщений в .po-файл в стиле Uniforum.\n"
+
+msgid "Converts a translation catalog to a different character encoding.\n"
+msgstr "Преобразует каталог переводов в другую кодировку.\n"
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl."
+"html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"Лицензия GPLv3+: GNU GPL версии 3 или новее <http://gnu.org/licenses/gpl."
+"html>\n"
+"Это свободное ПО: вы можете продавать и распространять его.\n"
+"Нет НИКАКИХ ГАРАНТИЙ до степени, разрешённой законом.\n"
+
+msgid "Created %s.\n"
+msgstr "Создано %s.\n"
+
+msgid ""
+"Creates a new PO file, initializing the meta information with values from "
+"the\n"
+"user's environment.\n"
+msgstr ""
+"Создаёт новый PO-файл, инициализируя метаинформацию на основе\n"
+"пользовательского окружения.\n"
+
+msgid ""
+"Creates an English translation catalog.  The input file is the last\n"
+"created English PO file, or a PO Template file (generally created by\n"
+"xgettext).  Untranslated entries are assigned a translation that is\n"
+"identical to the msgid.\n"
+msgstr ""
+"Создает каталог английских переводов.  Входной файл — это последний\n"
+"созданный английский PO-файл или шаблон PO-файла (обычно создаваемый\n"
+"программой xgettext).  Непереведённым сообщениям дается перевод,\n"
+"совпадающий с msgid.\n"
+
+msgid "Danilo Segan"
+msgstr "Данило Шеган"
+
+msgid "Desktop Entry mode options:\n"
+msgstr "Параметры режима Desktop Entry:\n"
+
+msgid ""
+"Empty msgid.  It is reserved by GNU gettext:\n"
+"gettext(\"\") returns the header entry with\n"
+"meta information, not the empty string.\n"
+msgstr ""
+"Пустой msgid. Он зарезервирован для GNU gettext:\n"
+"gettext(\"\") возвращает текст заголовка с метаинформацией,\n"
+"а не пустую строку.\n"
+
+msgid "English translations for %s package"
+msgstr "Английские переводы для пакета %s"
+
+msgid "Extract translatable strings from given input files.\n"
+msgstr "Извлекает переводимые строки из указанных входных файлов.\n"
+
+msgid ""
+"Extracts all messages of a translation catalog that match a given pattern\n"
+"or belong to some given source files.\n"
+msgstr ""
+"Извлекает из каталога переводов все сообщения, которые соответствуют\n"
+"заданному образцу или принадлежат заданным исходным файлам.\n"
+
+msgid ""
+"Fetches and outputs the contents of an URL.  If the URL cannot be accessed,\n"
+"the locally accessible FILE is used instead.\n"
+msgstr ""
+"Получает и выводит содержимое заданного URL.  Если к URL невозможно\n"
+"получить доступ, вместо него используется указанный локальный ФАЙЛ.\n"
+
+msgid ""
+"Filters the messages of a translation catalog according to their "
+"attributes,\n"
+"and manipulates the attributes.\n"
+msgstr ""
+"Фильтрует сообщения каталога переводов в соответствии с их атрибутами\n"
+"и манипулирует этими атрибутами.\n"
+
+msgid ""
+"Find messages which are common to two or more of the specified PO files.\n"
+"By using the --more-than option, greater commonality may be requested\n"
+"before messages are printed.  Conversely, the --less-than option may be\n"
+"used to specify less commonality before messages are printed (i.e.\n"
+"--less-than=2 will only print the unique messages).  Translations,\n"
+"comments and extracted comments will be preserved, but only from the first\n"
+"PO file to define them.  File positions from all PO files will be\n"
+"cumulated.\n"
+msgstr ""
+"Находит одинаковые сообщения в двух или более указанных PO-файлах.\n"
+"С помощью параметра --more-than можно затребовать вывод сообщений,\n"
+"встречающихся чаще других. И обратно, --less-than может быть использован\n"
+"для получения редко встречающихся сообщений (т. е. --less-than=2 выведет\n"
+"только уникальные сообщения).  Переводы, комментарии и извлеченные\n"
+"комментарии сохраняются, но только из первого PO-файла, в котором они\n"
+"были определены. Положения в файлах сохраняются из всех PO-файлов.\n"
+
+msgid "Found '~%c' without matching '~%c'."
+msgstr "Встречено «~%c» без соответствующего «~%c»."
+
+msgid ""
+"Found more than one .pot file.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+"Найдено более одного pot-файла.\n"
+"Укажите входной pot-файл с помощью параметра --input.\n"
+
+msgid ""
+"Found no .pot file in the current directory.\n"
+"Please specify the input .pot file through the --input option.\n"
+msgstr ""
+"В текущем каталоге не найден pot-файл.\n"
+"Укажите входной pot-файл с помощью параметра --input.\n"
+
+msgid "Generate binary message catalog from textual translation description.\n"
+msgstr "Создаёт двоичный каталог сообщений из текстового описания переводов.\n"
+
+msgid "If input file is -, standard input is read.\n"
+msgstr "Если входной файл задан как -, читается стандартный ввод.\n"
+
+msgid "If no input file is given or if it is -, standard input is read.\n"
+msgstr ""
+"Если входной файл не задан или задан как -, читается стандартный ввод.\n"
+
+msgid ""
+"If no input file is given, the current directory is searched for the POT "
+"file.\n"
+"If it is -, standard input is read.\n"
+msgstr ""
+"Если входной файл не задан, он ищется в текущем каталоге.\n"
+"Если входной файл задан как -, читается стандартный ввод.\n"
+
+msgid ""
+"If no output file is given, it depends on the --locale option or the user's\n"
+"locale setting.  If it is -, the results are written to standard output.\n"
+msgstr ""
+"Если выходной файл не задан, он зависит от параметра --locale или от\n"
+"установленной локали.  Если он задан как -, результаты выводятся на\n"
+"стандартный вывод.\n"
+
+msgid "If output file is -, output is written to standard output.\n"
+msgstr ""
+"Если выходной файл задан как -, результаты выводятся на стандартный вывод.\n"
+
+msgid "In the directive number %u, \"%s\" is not followed by a comma."
+msgstr "В директиве номер %u после «%s» не стоит запятая."
+
+msgid "In the directive number %u, '%c' cannot start a field name."
+msgstr "В директиве номер %u с «%c» не может начинаться имя поля."
+
+msgid "In the directive number %u, '%c' cannot start a getattr argument."
+msgstr "В директиве номер %u с «%c» не может начинаться аргумент getattr."
+
+msgid "In the directive number %u, '%c' cannot start a getitem argument."
+msgstr "В директиве номер %u с «%c» не может начинаться аргумент getitem."
+
+msgid "In the directive number %u, '%c' is not followed by a digit."
+msgstr "В директиве номер %u после «%c» не стоит цифра."
+
+msgid "In the directive number %u, ',' is not followed by a number."
+msgstr "В директиве номер %u после «,» не стоит число."
+
+msgid "In the directive number %u, '{' is not followed by an argument number."
+msgstr "В директиве номер %u после «{» не стоит номер аргумента."
+
+msgid ""
+"In the directive number %u, '~:[' is not followed by two clauses, separated "
+"by '~;'."
+msgstr ""
+"В директиве номер %u после «~:[» не стоят два предложения, разделенные «~;»."
+
+msgid "In the directive number %u, '~;' is used in an invalid position."
+msgstr "В директиве номер %u «~;» использована в неверном месте."
+
+msgid ""
+"In the directive number %u, a choice contains a number that is not followed "
+"by '<', '#' or '%s'."
+msgstr ""
+"В директиве номер %u оператор выбора содержит число, за которым не следует "
+"«<», «#» или «%s»."
+
+msgid "In the directive number %u, a choice contains no number."
+msgstr "В директиве номер %u оператор выбора не содержит номера."
+
+msgid "In the directive number %u, a precision is not allowed before '%c'."
+msgstr "В директиве номер %u перед «%c» нельзя указывать точность."
+
+msgid ""
+"In the directive number %u, a precision specification is not allowed before "
+"'%c'."
+msgstr ""
+"В директиве номер %u перед «%c» нельзя указывать спецификацию точности."
+
+msgid "In the directive number %u, both the @ and the : modifiers are given."
+msgstr "В директиве номер %u одновременно заданы модификаторы @ и :."
+
+msgid "In the directive number %u, flags are not allowed before '%c'."
+msgstr "В директиве номер %u перед «%c» нельзя писать флаги."
+
+msgid ""
+"In the directive number %u, no more nesting is allowed in a format specifier."
+msgstr ""
+"В директиве номер %u в спецификаторе формата невозможно указать большую "
+"вложенность."
+
+msgid ""
+"In the directive number %u, parameter %u is of type '%s' but a parameter of "
+"type '%s' is expected."
+msgstr ""
+"В директиве номер %u параметр %u принадлежит типу «%s», но ожидается "
+"параметр типа «%s»."
+
+msgid "In the directive number %u, the argument %d is negative."
+msgstr "В директиве номер %u аргумент %d отрицателен."
+
+msgid ""
+"In the directive number %u, the argument number 0 is not a positive integer."
+msgstr ""
+"В директиве номер %u аргумент с номером 0 не является положительным целым "
+"числом."
+
+msgid ""
+"In the directive number %u, the argument number for the precision must be "
+"equal to %u."
+msgstr ""
+"В директиве номер %u номер аргумента для точности должен быть равно %u."
+
+msgid ""
+"In the directive number %u, the argument number is not followed by a comma "
+"and one of \"%s\", \"%s\", \"%s\", \"%s\"."
+msgstr ""
+"В директиве номер %u после номера аргумента не стоит запятая и одно из «%s», "
+"«%s», «%s», «%s»."
+
+msgid ""
+"In the directive number %u, the character '%c' is not a digit between 1 and "
+"9."
+msgstr "В директиве номер %u символ «%c» не является цифрой между 1 и 9."
+
+msgid ""
+"In the directive number %u, the character '%c' is not a valid conversion "
+"specifier."
+msgstr ""
+"В директиве номер %u символ «%c» не является верным спецификатором "
+"преобразования."
+
+msgid "In the directive number %u, the flags combination is invalid."
+msgstr "В директиве номер %u неверная комбинация флагов."
+
+msgid "In the directive number %u, the precision specification is invalid."
+msgstr "В директиве номер %u неверная спецификация точности."
+
+msgid ""
+"In the directive number %u, the precision's argument number 0 is not a "
+"positive integer."
+msgstr ""
+"В директиве номер %u точность аргумента с номером 0 не является "
+"положительным целым числом."
+
+msgid ""
+"In the directive number %u, the size specifier is incompatible with the "
+"conversion specifier '%c'."
+msgstr ""
+"В директиве номер %u спецификатор размера несовместим со спецификатором "
+"преобразования «%c»."
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid date/time "
+"style."
+msgstr ""
+"В директиве номер %u подстрока «%s» не является верным стилем даты/времени."
+
+msgid ""
+"In the directive number %u, the substring \"%s\" is not a valid number style."
+msgstr "В директиве номер %u подстрока «%s» не является верным стилем числа."
+
+msgid "In the directive number %u, the token after '<' is not followed by '>'."
+msgstr ""
+"В директиве номер %u после лексемы, стоящей за «<», нет закрывающего «>»."
+
+msgid ""
+"In the directive number %u, the token after '<' is not the name of a format "
+"specifier macro. The valid macro names are listed in ISO C 99 section 7.8.1."
+msgstr ""
+"В директиве номер %u лексема после «<» не является именем макроса-"
+"спецификации формата. Допустимые имена макросов перечислены в ISO C 99, "
+"раздел 7.8.1."
+
+msgid ""
+"In the directive number %u, the width's argument number 0 is not a positive "
+"integer."
+msgstr ""
+"В директиве номер %u ширина аргумента с номером 0 не является положительным "
+"целым числом."
+
+msgid "In the directive number %u, there is an unterminated format directive."
+msgstr "В директиве номер %u есть незавершённая директива формата."
+
+msgid ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameter."
+msgid_plural ""
+"In the directive number %u, too many parameters are given; expected at most "
+"%u parameters."
+msgstr[0] ""
+"В директиве номер %u указано слишком много параметров; ожидалось не более %u "
+"параметра"
+msgstr[1] ""
+"В директиве номер %u указано слишком много параметров; ожидалось не более %u "
+"параметров"
+msgstr[2] ""
+"В директиве номер %u указано слишком много параметров; ожидалось не более %u "
+"параметров"
+
+msgid "Informative output:\n"
+msgstr "Информационный вывод:\n"
+
+msgid "Input file interpretation:\n"
+msgstr "Интерпретация входного файла:\n"
+
+msgid "Input file location in C# mode:\n"
+msgstr "Нахождение входного файла в режиме C#:\n"
+
+msgid "Input file location in Java mode:\n"
+msgstr "Нахождение входного файла в режиме Java:\n"
+
+msgid "Input file location in Tcl mode:\n"
+msgstr "Нахождение входного файла в режиме Tcl:\n"
+
+msgid "Input file location:\n"
+msgstr "Нахождение входного файла:\n"
+
+msgid "Input file syntax:\n"
+msgstr "Синтаксис входного файла:\n"
+
+msgid ""
+"Input files contain messages in different encodings, %s and %s among "
+"others.\n"
+"Converting the output to UTF-8.\n"
+"To select a different output encoding, use the --to-code option.\n"
+msgstr ""
+"Входные файлы содержат сообщения в разных кодировках, в том числе в %s и "
+"%s.\n"
+"Вывод преобразуется к UTF-8.  Чтобы выбрать другую выходную кодировку,\n"
+"используйте параметр --to-code.\n"
+
+msgid ""
+"Input files contain messages in different encodings, UTF-8 among others.\n"
+"Converting the output to UTF-8.\n"
+msgstr ""
+"Входные файлы содержат сообщения в разных кодировках, в том числе в\n"
+"UTF-8. Вывод преобразуется к UTF-8.\n"
+
+msgid ""
+"Installing GNU libiconv and then reinstalling GNU gettext\n"
+"would fix this problem.\n"
+msgstr ""
+"Чтобы решить эту проблему, установите GNU libiconv и переустановите GNU "
+"gettext.\n"
+
+msgid "Java compiler not found, try installing gcj or set $JAVAC"
+msgstr ""
+"Не найден компилятор Java, поставьте gcj или установите переменную $JAVAC"
+
+msgid "Java virtual machine not found, try installing gij or set $JAVA"
+msgstr ""
+"Не найдена виртуальная машина Java, поставьте gij или установите переменную "
+"$JAVA"
+
+msgid "Language specific options:\n"
+msgstr "Параметры для конкретных языков:\n"
+
+msgid ""
+"Locale charset \"%s\" is different from\n"
+"input file charset \"%s\".\n"
+"Output of '%s' might be incorrect.\n"
+"Possible workarounds are:\n"
+msgstr ""
+"Кодировка локали «%s» отличается входной кодировки «%s».\n"
+"Вывод «%s» может быть неправильным.\n"
+"Возможные методы обойти эту ситуацию:\n"
+
+msgid ""
+"Locale charset \"%s\" is not a portable encoding name.\n"
+"Output of '%s' might be incorrect.\n"
+"A possible workaround is to set LC_ALL=C.\n"
+msgstr ""
+"Кодировка локали «%s» не является переносимым именем кодировки.\n"
+"Вывод «%s» может быть неправильным.\n"
+"Возможный метод обойти эту ситуацию — установить LC_ALL=C.\n"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+"Аргументы, обязательные для длинных параметров, обязательны и для коротких.\n"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+"Similarly for optional arguments.\n"
+msgstr ""
+"Аргументы, обязательные для длинных параметров, обязательны и для коротких.\n"
+"То же и для необязательных аргументов.\n"
+
+msgid ""
+"Merges two Uniforum style .po files together.  The def.po file is an\n"
+"existing PO file with translations which will be taken over to the newly\n"
+"created file as long as they still match; comments will be preserved,\n"
+"but extracted comments and file positions will be discarded.  The ref.pot\n"
+"file is the last created PO file with up-to-date source references but\n"
+"old translations, or a PO Template file (generally created by xgettext);\n"
+"any translations or comments in the file will be discarded, however dot\n"
+"comments and file positions will be preserved.  Where an exact match\n"
+"cannot be found, fuzzy matching is used to produce better results.\n"
+msgstr ""
+"Объединяет два PO-файла в стиле Uniforum в один.  Файл def.po — это\n"
+"существующий РО-файл со переводами, которые будут перенесены в новый\n"
+"файл, если они еще верны.  Комментарии сохраняются, кроме\n"
+"комментариев, извлеченных из исходного текста программы или содержащих\n"
+"имя файла и номер строки.  Файл ref.pot — новый файл со свежими\n"
+"ссылками на исходные тексты, но устаревшими переводами, либо это\n"
+"PO-файл-шаблон (обычно производимый программой xgettext).  В этом\n"
+"файле игнорируются все комментарии, кроме начинающихся с точки или\n"
+"содержащих имя файла и номер строки.  Для улучшения результата\n"
+"используется приблизительное сравнение, если нельзя найти точное\n"
+"совпадение.\n"
+
+msgid "Message selection:\n"
+msgstr "Выбор сообщений:\n"
+
+msgid ""
+"Message selection:\n"
+"  [-N SOURCEFILE]... [-M DOMAINNAME]...\n"
+"  [-J MSGCTXT-PATTERN] [-K MSGID-PATTERN] [-T MSGSTR-PATTERN]\n"
+"  [-C COMMENT-PATTERN] [-X EXTRACTED-COMMENT-PATTERN]\n"
+"A message is selected if it comes from one of the specified source files,\n"
+"or if it comes from one of the specified domains,\n"
+"or if -J is given and its context (msgctxt) matches MSGCTXT-PATTERN,\n"
+"or if -K is given and its key (msgid or msgid_plural) matches MSGID-"
+"PATTERN,\n"
+"or if -T is given and its translation (msgstr) matches MSGSTR-PATTERN,\n"
+"or if -C is given and the translator's comment matches COMMENT-PATTERN,\n"
+"or if -X is given and the extracted comment matches EXTRACTED-COMMENT-"
+"PATTERN.\n"
+"\n"
+"When more than one selection criterion is specified, the set of selected\n"
+"messages is the union of the selected messages of each criterion.\n"
+"\n"
+"MSGCTXT-PATTERN or MSGID-PATTERN or MSGSTR-PATTERN or COMMENT-PATTERN or\n"
+"EXTRACTED-COMMENT-PATTERN syntax:\n"
+"  [-E | -F] [-e PATTERN | -f FILE]...\n"
+"PATTERNs are basic regular expressions by default, or extended regular\n"
+"expressions if -E is given, or fixed strings if -F is given.\n"
+"\n"
+"  -N, --location=SOURCEFILE   select messages extracted from SOURCEFILE\n"
+"  -M, --domain=DOMAINNAME     select messages belonging to domain "
+"DOMAINNAME\n"
+"  -J, --msgctxt               start of patterns for the msgctxt\n"
+"  -K, --msgid                 start of patterns for the msgid\n"
+"  -T, --msgstr                start of patterns for the msgstr\n"
+"  -C, --comment               start of patterns for the translator's "
+"comment\n"
+"  -X, --extracted-comment     start of patterns for the extracted comment\n"
+"  -E, --extended-regexp       PATTERN is an extended regular expression\n"
+"  -F, --fixed-strings         PATTERN is a set of newline-separated strings\n"
+"  -e, --regexp=PATTERN        use PATTERN as a regular expression\n"
+"  -f, --file=FILE             obtain PATTERN from FILE\n"
+"  -i, --ignore-case           ignore case distinctions\n"
+"  -v, --invert-match          output only the messages that do not match "
+"any\n"
+"                              selection criterion\n"
+msgstr ""
+"Выбор сообщений:\n"
+"  [-N ИСХ-ФАЙЛ]... [-M ИМЯ-ДОМЕНА]...\n"
+"  [-J ОБРАЗЕЦ-MSGCTXT] [-K ОБРАЗЕЦ-MSGID] [-T ОБРАЗЕЦ-MSGSTR]\n"
+"  [-C ОБРАЗЕЦ-КОММЕНТАРИЯ] [-X ОБРАЗЕЦ-ИЗВЛЕКАЕМОГО-КОММЕНТАРИЯ]\n"
+"Сообщение выбирается, если оно содержится в одном из указанных\n"
+"исходных файлов, \n"
+"или если оно содержится в одном из указанных доменов,\n"
+"или если задан параметр -J, и контекст сообщения (msgctxt) соответствует\n"
+"ОБРАЗЦУ-MSGCTXT,\n"
+"или если задан параметр -K, и ключ сообщения (msgid или msgid_plural)\n"
+"соответствует ОБРАЗЦУ-MSGID,\n"
+"или если задан параметр -K, и ключ сообщения (msgid или msgid_plural)\n"
+"соответствует ОБРАЗЦУ-MSGID,\n"
+"или если задан параметр -T, и перевод сообщения (msgstr) соответствует\n"
+"ОБРАЗЦУ-MSGSTR,\n"
+"или если задан параметр -C, а комментарий для переводчика соответствует\n"
+"ОБРАЗЦУ-КОММЕНТАРИЯ,\n"
+"или если задан параметр -X, а комментарий для переводчика соответствует\n"
+"ОБРАЗЦУ-ИЗВЛЕКАЕМОГО-КОММЕНТАРИЯ.\n"
+"\n"
+"\n"
+"Когда задано несколько критериев выбора, то множество выбранных\n"
+"сообщений будет объединением сообщений, выбранных по каждому\n"
+"критерию.\n"
+"\n"
+"Синтаксис ОБРАЗЦА-MSGID, ОБРАЗЦА-MSGSTR, ОБРАЗЦА-КОММЕНТАРИЯ или\n"
+"ОБРАЗЦА-ИЗВЛЕКАЕМОГО-КОММЕНТАРИЯ:\n"
+"  [-E | -F] [-e ОБРАЗЕЦ | -f ФАЙЛ]...\n"
+"ОБРАЗЦЫ — это по умолчанию базовые регулярные выражения, либо\n"
+"расширенные регулярные выражения, если задан параметр -E, либо\n"
+"фиксированные строки, если задан параметр -F.\n"
+"\n"
+"  -N, --location=ИСХ-ФАЙЛ     выбрать сообщения, извлеченные из ИСХ-ФАЙЛ\n"
+"  -M, --domain=ИМЯ-ДОМЕНА     выбрать сообщения, принадлежащие домену\n"
+"  -J, --msgctxt               начало образцов msgctxt\n"
+"  -K, --msgid                 начало образцов msgid\n"
+"  -T, --msgstr                начало образцов msgstr\n"
+"  -C, --comment               начало образцов комментариев для переводчика\n"
+"  -X, --extracted-comment     начало образцов извлекаемого комментария\n"
+"  -E, --extended-regexp       ОБРАЗЕЦ является расширенным рег. выражением\n"
+"  -F, --fixed-strings         ОБРАЗЕЦ является набором строк,\n"
+"                              разделённых символами перевода строки\n"
+"  -e, --regexp=ОБРАЗЕЦ        использовать ОБРАЗЕЦ в качестве рег. "
+"выражения\n"
+"  -f, --file=ФАЙЛ             получить ОБРАЗЕЦ из ФАЙЛА\n"
+"  -i, --ignore-case           игнорировать регистр букв\n"
+"  -v, --invert-match          выводить только сообщения, которые не\n"
+"                              соответствуют ни одному критерию выбора\n"
+
+msgid "Non-ASCII character at %s%s."
+msgstr "Не ASCII-символ у %s%s."
+
+msgid "Non-ASCII comment at or before %s%s."
+msgstr "Не ASCII-комментарий у или перед %s%s."
+
+msgid "Non-ASCII string at %s%s."
+msgstr "Не ASCII-строка у %s%s."
+
+msgid "Operation mode:\n"
+msgstr "Режим работы:\n"
+
+msgid "Operation modifiers:\n"
+msgstr "Модификаторы режима работы:\n"
+
+msgid "Output details:\n"
+msgstr "Подробности выходного формата:\n"
+
+msgid ""
+"Output file %s already exists.\n"
+"Please specify the locale through the --locale option or\n"
+"the output .po file through the --output-file option.\n"
+msgstr ""
+"Выходной файл %s уже существует.\n"
+"Укажите локаль с помощью параметра --locale или выходной\n"
+"po-файл с помощью параметра --output-file.\n"
+
+msgid "Output file location in C# mode:\n"
+msgstr "Нахождение выходного файла в режиме C#:\n"
+
+msgid "Output file location in Java mode:\n"
+msgstr "Нахождение выходного файла в режиме Java:\n"
+
+msgid "Output file location in Tcl mode:\n"
+msgstr "Нахождение входного файла в режиме Tcl:\n"
+
+msgid "Output file location in update mode:\n"
+msgstr "Нахождение выходного файла в режиме обновления:\n"
+
+msgid "Output file location:\n"
+msgstr "Нахождение выходного файла:\n"
+
+msgid "Output format:\n"
+msgstr "Формат вывода:\n"
+
+msgid "Peter Miller"
+msgstr "Питер Миллер"
+
+msgid "Please specify the source encoding through --from-code\n"
+msgstr "Укажите входную кодировку с помощью параметра --from-code\n"
+
+msgid ""
+"Please specify the source encoding through --from-code or through a comment\n"
+"as specified in http://www.python.org/peps/pep-0263.html.\n"
+msgstr ""
+"Укажите входную кодировку с помощью параметра --from-code или с помощью\n"
+"комментария, как описано на http://www.python.org/peps/pep-0263.html.\n"
+
+msgid "Please specify the source encoding through --from-code."
+msgstr "Укажите входную кодировку с помощью параметра --from-code."
+
+msgid "Print the machine's hostname.\n"
+msgstr "Печатает имя данной машины.\n"
+
+msgid "Recode Serbian text from Cyrillic to Latin script.\n"
+msgstr "Перекодирует сербский текст из кириллицы в латиницу.\n"
+
+msgid "Report bugs to <bug-gnu-gettext@gnu.org>.\n"
+msgstr "Об ошибках сообщайте по адресу <bug-gnu-gettext@gnu.org>.\n"
+
+msgid "Retrieving %s..."
+msgstr "Получение %s…"
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is located in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr ""
+"Параметры -l и -d обязательны. Входной .dll-файл ищется в подкаталоге\n"
+"указанного каталога, имя этого подкаталога зависит от локали.\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .dll file is written in a\n"
+"subdirectory of the specified directory whose name depends on the locale.\n"
+msgstr ""
+"Параметры -l и -d обязательны. Выходной .dll-файл записывается в\n"
+"подкаталог указанного каталога, имя этого подкаталога зависит от\n"
+"локали.\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is located in the\n"
+"specified directory.\n"
+msgstr ""
+"Параметры -l и -d обязательны. Входной .msg-файл ищется в указанном "
+"каталоге.\n"
+
+msgid ""
+"The -l and -d options are mandatory.  The .msg file is written in the\n"
+"specified directory.\n"
+msgstr ""
+"Параметры -l и -d обязательны. Выходной .msg-файл записывается в указанный "
+"каталог.\n"
+
+msgid ""
+"The -l, -o, and --template options are mandatory.  If -D is specified, "
+"input\n"
+"files are read from the directory instead of the command line arguments.\n"
+msgstr ""
+"Параметры -l, -o и --template обязательны. Если указан -D, то входные\n"
+"файлы читаются из каталога, а не берутся из аргументов командной строки.\n"
+
+msgid ""
+"The FILTER can be any program that reads a translation from standard input\n"
+"and writes a modified translation to standard output.\n"
+msgstr ""
+"Фильтр может быть любой программой, читающей перевод со стандартного ввода "
+"и\n"
+"печатающей измененный перевод на стандартный вывод.\n"
+
+msgid ""
+"The backup suffix is '~', unless set with --suffix or the "
+"SIMPLE_BACKUP_SUFFIX\n"
+"environment variable.\n"
+msgstr ""
+"В качестве суффикса резервных копий используется «~», если не\n"
+"установлен иной с помощью параметра --suffix или переменной окружения\n"
+"SIMPLE_BACKUP_SUFFIX.\n"
+
+msgid ""
+"The character that terminates the directive number %u is not a digit between "
+"1 and 9."
+msgstr "Символ, завершающий директиву номер %u не является цифрой между 1 и 9."
+
+msgid ""
+"The character that terminates the directive number %u is not a valid "
+"conversion specifier."
+msgstr ""
+"Символ, завершающий директиву номер %u не является верным спецификатором "
+"преобразования."
+
+msgid ""
+"The class name is determined by appending the locale name to the resource "
+"name,\n"
+"separated with an underscore.  The -d option is mandatory.  The class is\n"
+"written under the specified directory.\n"
+msgstr ""
+"Имя класса определяется путём добавления имени локали к имени ресурса после\n"
+"символа подчеркивания. Параметр -d обязателен. Класс записывается в "
+"указанный\n"
+"каталог.\n"
+
+msgid ""
+"The class name is determined by appending the locale name to the resource "
+"name,\n"
+"separated with an underscore.  The class is located using the CLASSPATH.\n"
+msgstr ""
+"Имя класса определяется путем добавления имени локали к имени ресурса после\n"
+"символа подчеркивания. Класс ищется с помощью CLASSPATH.\n"
+
+msgid "The default encoding is the current locale's encoding.\n"
+msgstr "По умолчанию используется кодировка текущей локали.\n"
+
+msgid ""
+"The directive number %u ends with an invalid character '%c' instead of '}'."
+msgstr "Директива номер %u заканчивается на неверный символ «%c», а не на «}»."
+
+msgid "The directive number %u ends with an invalid character instead of '}'."
+msgstr "Директива номер %u заканчивается на неверный символ, а не на «}»."
+
+msgid "The directive number %u starts with | but does not end with |."
+msgstr "Директива номер %u начинается с |, но не заканчивается на |."
+
+msgid ""
+"The following msgctxt contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgctxt instead.\n"
+"%s\n"
+msgstr ""
+"Следующий msgctxt содержит не ASCII символы.\n"
+"Это вызовет проблемы у переводчиков, которые не используют ту же\n"
+"кодировку, что и вы. Подумайте об использовании в msgctxt только ASCII.\n"
+"%s\n"
+
+msgid ""
+"The following msgid contains non-ASCII characters.\n"
+"This will cause problems to translators who use a character encoding\n"
+"different from yours. Consider using a pure ASCII msgid instead.\n"
+"%s\n"
+msgstr ""
+"Следующий msgid содержит не ASCII символы.\n"
+"Это вызовет проблемы у переводчиков, которые не используют ту же\n"
+"кодировку, что и вы. Подумайте об использовании в msgid только ASCII.\n"
+"%s\n"
+
+msgid ""
+"The input text is read from standard input.  The converted text is output "
+"to\n"
+"standard output.\n"
+msgstr ""
+"Входной текст читается со стандартного ввода.  Преобразованный текст\n"
+"печатается на стандартный вывод.\n"
+
+msgid ""
+"The new message catalog should contain your email address, so that users "
+"can\n"
+"give you feedback about the translations, and so that maintainers can "
+"contact\n"
+"you in case of unexpected technical problems.\n"
+msgstr ""
+"В новом каталоге сообщений должен быть указан адрес вашей электронной\n"
+"почты, чтобы пользователи могли присылать свои замечания по поводу ваших\n"
+"переводов, а также чтобы сопроводители программ могли связаться с вами\n"
+"на случай, если возникнут непредвиденные технические проблемы.\n"
+
+msgid ""
+"The option --msgid-bugs-address was not specified.\n"
+"If you are using a 'Makevars' file, please specify\n"
+"the MSGID_BUGS_ADDRESS variable there; otherwise please\n"
+"specify an --msgid-bugs-address command line option.\n"
+msgstr ""
+"Не задан параметр --msgid-bugs-address. Если вы используете файл\n"
+"«Makevars», установите в нём переменную MSGID_BUGS_ADDRESS, в\n"
+"противном случае задайте в командной строке параметр --msgid-bugs-address.\n"
+
+msgid "The result is written back to def.po.\n"
+msgstr "Результат записывается обратно в def.po.\n"
+
+msgid ""
+"The results are written to standard output if no output file is specified\n"
+"or if it is -.\n"
+msgstr ""
+"Результаты выводятся на стандартный вывод, если выходной файл не задан\n"
+"или задан как -.\n"
+
+msgid "The string contains a lone '}' after directive number %u."
+msgstr "Строка содержит непарную «}» после директивы номер %u."
+
+msgid "The string ends in the middle of a directive."
+msgstr "Строка обрывается посреди директивы."
+
+msgid ""
+"The string ends in the middle of a directive: found '{' without matching '}'."
+msgstr ""
+"Строка обрывается посреди директивы: найдена «{» без соответствующей «}»."
+
+msgid "The string ends in the middle of a ~/.../ directive."
+msgstr "Строка обрывается посреди директивы ~/.../."
+
+msgid ""
+"The string refers to a shell variable whose value may be different inside "
+"shell functions."
+msgstr ""
+"Строка ссылается на переменную оболочки, чье значение может оказаться иным "
+"внутри функций оболочки."
+
+msgid "The string refers to a shell variable with a non-ASCII name."
+msgstr ""
+"Строка ссылается на переменную оболочки с именем, не представимым в ASCII."
+
+msgid "The string refers to a shell variable with an empty name."
+msgstr "Строка ссылается на переменную оболочки с пустым именем."
+
+msgid ""
+"The string refers to a shell variable with complex shell brace syntax. This "
+"syntax is unsupported here due to security reasons."
+msgstr ""
+"Строка ссылается на переменную оболочки со сложным синтактисом фигурных "
+"скобок.  Этот синтактис не поддерживается в этой программе по соображениям "
+"безопасности."
+
+msgid "The string refers to argument number %u but ignores argument number %u."
+msgstr ""
+"Строка ссылается на аргумент номер %u, но игнорирует аргумент номер %u."
+
+msgid "The string refers to argument number %u in incompatible ways."
+msgstr "Строка ссылается на аргумент номер %u несовместимым образом."
+
+msgid ""
+"The string refers to arguments both through absolute argument numbers and "
+"through unnumbered argument specifications."
+msgstr ""
+"Строка ссылается на аргументы как по абсолютным номерам, так и через "
+"ненумерованные спецификации аргументов."
+
+msgid ""
+"The string refers to arguments both through argument names and through "
+"unnamed argument specifications."
+msgstr ""
+"Строка ссылается на аргументы как по именам, так и по безымянным "
+"спецификациям аргументов."
+
+msgid "The string refers to some argument in incompatible ways."
+msgstr "Строка ссылается на какой-то аргумент несовместимым образом."
+
+msgid "The string refers to the argument named '%s' in incompatible ways."
+msgstr "Строка ссылается на аргумент по имени «%s» несовместимым образом."
+
+msgid ""
+"The string starts in the middle of a directive: found '}' without matching "
+"'{'."
+msgstr ""
+"Строка начинается посреди директивы: найдена «}» без соответствующей «{»."
+
+msgid ""
+"The version control method may be selected via the --backup option or "
+"through\n"
+"the VERSION_CONTROL environment variable.  Here are the values:\n"
+"  none, off       never make backups (even if --backup is given)\n"
+"  numbered, t     make numbered backups\n"
+"  existing, nil   numbered if numbered backups exist, simple otherwise\n"
+"  simple, never   always make simple backups\n"
+msgstr ""
+"Метод управления версиями можно выбрать с помощью параметра --backup или\n"
+"через переменную среды VERSION_CONTROL. Вот допустимые значения:\n"
+"  none, off       не делать резервных копий (даже если задан параметр --"
+"backup)\n"
+"  numbered, t     делать нумерованные резервные копии\n"
+"  existing, nil   нумерованные, если такие уже есть, и простые, если нет\n"
+"  simple, never   всегда делать простые резервные копии\n"
+"\n"
+
+msgid "Try '%s --help' for more information.\n"
+msgstr "По команде «%s --help» можно получить дополнительную информацию.\n"
+
+msgid "Try using the following, valid for %s:"
+msgstr "Попробуйте следующее, подходит для %s:"
+
+msgid "Ulrich Drepper"
+msgstr "Ульрих Дреппер"
+
+msgid ""
+"Unifies duplicate translations in a translation catalog.\n"
+"Finds duplicate translations of the same message ID.  Such duplicates are\n"
+"invalid input for other programs like msgfmt, msgmerge or msgcat.  By\n"
+"default, duplicates are merged together.  When using the --repeated option,\n"
+"only duplicates are output, and all other messages are discarded.  Comments\n"
+"and extracted comments will be cumulated, except that if --use-first is\n"
+"specified, they will be taken from the first translation.  File positions\n"
+"will be cumulated.  When using the --unique option, duplicates are "
+"discarded.\n"
+msgstr ""
+"Убирает дублированные переводы из каталога сообщений.\n"
+"Находит дублированные переводы с одинаковым ID сообщения.  Подобные\n"
+"дубликаты являются недопустимым вводом для других программ, таких как\n"
+"msgfmt, msgmerge или msgcat.  По умолчанию дубликаты сливаются.  При\n"
+"использовании параметра --repeated, выводятся только дублированные\n"
+"сообщения, а все остальные отбрасываются.  Комментарии и извлеченные\n"
+"комментарии сливаются, если только не задан параметр --use-first, в этом\n"
+"случае они берутся из первого перевода.  Позиции в файлах сливаются.\n"
+"При использовании параметра --unique, отбрасываются дублированные\n"
+"сообщения.\n"
+
+msgid "Unknown encoding \"%s\". Proceeding with ASCII instead."
+msgstr "Кодировка «%s» неизвестна. Вместо неё используем ASCII."
+
+msgid "Unknown system error"
+msgstr "Неизвестная системная ошибка"
+
+msgid "Usage: %s [OPTION]\n"
+msgstr "Использование: %s [ПАРАМЕТР]\n"
+
+msgid "Usage: %s [OPTION] COMMAND [COMMAND-OPTION]\n"
+msgstr "Использование: %s [ПАРАМЕТР] КОМАНДА [ПАРАМЕТР-КОМАНДЫ]\n"
+
+msgid "Usage: %s [OPTION] FILTER [FILTER-OPTION]\n"
+msgstr "Использование: %s [ПАРАМЕТР] ФИЛЬТР [ПАРАМЕТР-ФИЛЬТРА]\n"
+
+msgid "Usage: %s [OPTION] INPUTFILE\n"
+msgstr "Использование: %s [ПАРАМЕТР] ВХОДНОЙ-ФАЙЛ\n"
+
+msgid "Usage: %s [OPTION] URL FILE\n"
+msgstr "Использование: %s [ПАРАМЕТР] URL ФАЙЛ\n"
+
+msgid "Usage: %s [OPTION] [FILE]...\n"
+msgstr "Использование: %s [ПАРАМЕТР] [ФАЙЛ]…\n"
+
+msgid "Usage: %s [OPTION] [INPUTFILE]\n"
+msgstr "Использование: %s [ПАРАМЕТР] [ВХОДНОЙ-ФАЙЛ]\n"
+
+msgid "Usage: %s [OPTION] [INPUTFILE]...\n"
+msgstr "Использование: %s [ПАРАМЕТР] [ВХОДНОЙ-ФАЙЛ]…\n"
+
+msgid "Usage: %s [OPTION] def.po ref.pot\n"
+msgstr "Использование: %s [ПАРАМЕТР] def.po ref.pot\n"
+
+msgid "Usage: %s [OPTION] filename.po ...\n"
+msgstr "Использование: %s [ПАРАМЕТР] имя-файла.po …\n"
+
+msgid "Useful FILTER-OPTIONs when the FILTER is 'sed':\n"
+msgstr "Полезные ПАРАМЕТРЫ-ФИЛЬТРА в случае, если ФИЛЬТРОМ является «sed»:\n"
+
+msgid "Valid arguments are:"
+msgstr "Допустимые аргументы:"
+
+msgid "Written by %s and %s.\n"
+msgstr "Авторы программы — %s и %s.\n"
+
+msgid "Written by %s.\n"
+msgstr "Автор программы — %s.\n"
+
+msgid ""
+"You are in a language indifferent environment.  Please set\n"
+"your LANG environment variable, as described in the ABOUT-NLS\n"
+"file.  This is necessary so you can test your translations.\n"
+msgstr ""
+"В вашем окружении не определён предпочтительный язык.\n"
+"Установите переменную окружения LANG как описано в файле ABOUT-NLS. Это\n"
+"необходимо, чтобы вы могли проверить свои переводы.\n"
+
+msgid "_open_osfhandle failed"
+msgstr "ошибка при _open_osfhandle"
+
+msgid "`"
+msgstr "«"
+
+msgid "a format specification for argument %u doesn't exist in '%s'"
+msgstr "спецификация формата аргумента %u не существует в «%s»"
+
+msgid ""
+"a format specification for argument %u, as in '%s', doesn't exist in '%s'"
+msgstr "спецификация формата аргумента %u в «%s» не существует в «%s»"
+
+msgid "a format specification for argument '%s' doesn't exist in '%s'"
+msgstr "для аргумента «%s» нет спецификации формата в «%s»"
+
+msgid ""
+"a format specification for argument '%s', as in '%s', doesn't exist in '%s'"
+msgstr "спецификация формата аргумента «%s» в «%s» не существует в «%s»"
+
+msgid "a format specification for argument {%u} doesn't exist in '%s'"
+msgstr "для аргумента {%u} нет спецификации формата в «%s»"
+
+msgid ""
+"a format specification for argument {%u}, as in '%s', doesn't exist in '%s'"
+msgstr "спецификация формата аргумента {%u} в «%s» не существует в «%s»"
+
+msgid "ambiguous argument %s for %s"
+msgstr "неоднозначный аргумент %s для %s"
+
+msgid "ambiguous argument specification for keyword '%.*s'"
+msgstr "неоднозначная спецификация аргумента для ключевого слова «%.*s»"
+
+msgid "at least one sed script must be specified"
+msgstr "необходимо задать хотя бы один сценарий sed"
+
+msgid "at least two files must be specified"
+msgstr "необходимо задать не менее двух файлов"
+
+msgid "at most one input file allowed"
+msgstr "принимается не более одного входного файла"
+
+msgid "backup type"
+msgstr "тип резервного копирования"
+
+msgid "but header entry lacks a \"nplurals=INTEGER\" attribute"
+msgstr "но в заголовке нет атрибута «nplurals=ЦЕЛОЕ»"
+
+msgid "but header entry lacks a \"plural=EXPRESSION\" attribute"
+msgstr "но в заголовке нет атрибута «plural=ВЫРАЖЕНИЕ»"
+
+msgid "but some messages have one plural form"
+msgid_plural "but some messages have %lu plural forms"
+msgstr[0] "но в некоторых сообщениях есть %lu форма во множественном числе"
+msgstr[1] "но в некоторых сообщениях есть %lu формы во множественном числе"
+msgstr[2] "но в некоторых сообщениях есть %lu форм во множественном числе"
+
+msgid "but some messages have only one plural form"
+msgid_plural "but some messages have only %lu plural forms"
+msgstr[0] "но в некоторых сообщениях только %lu форма во множественном числе"
+msgstr[1] "но в некоторых сообщениях только %lu формы во множественном числе"
+msgstr[2] "но в некоторых сообщениях только %lu форм во множественном числе"
+
+msgid "cannot create a temporary directory using template \"%s\""
+msgstr "невозможно создать временный каталог с помощью шаблона «%s»"
+
+msgid "cannot create output file \"%s\""
+msgstr "невозможно создать файл вывода «%s»"
+
+msgid "cannot create pipe"
+msgstr "невозможно создать канал"
+
+msgid "cannot find a temporary directory, try setting $TMPDIR"
+msgstr "невозможно найти временный каталог, попробуйте установить $TMPDIR"
+
+msgid "cannot open backup file %s for writing"
+msgstr "не удалось открыть файл резервной копии %s для записи"
+
+msgid "cannot remove temporary directory %s"
+msgstr "невозможно удалить временный каталог %s"
+
+msgid "cannot remove temporary file %s"
+msgstr "невозможно удалить временный файл %s"
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "не удалось восстановить fd %d: ошибка dup2"
+
+msgid "cannot set up nonblocking I/O to %s subprocess"
+msgstr ""
+"невозможно организовать неблокирующий ввод/вывод для дочернего процесса %s"
+
+msgid "communication with %s subprocess failed"
+msgstr "ошибка при попытке связи с дочерним процессом %s"
+
+msgid "compilation of C# class failed"
+msgstr "компиляция класса C# завершилась с ошибкой"
+
+msgid "compilation of C# class failed, please try --verbose"
+msgstr "компиляция C#-класса завершилась неуспехом, попробуйте --verbose"
+
+msgid "compilation of Java class failed, please try --verbose or set $JAVAC"
+msgstr ""
+"компиляция класса Java завершилась с ошибкой, попробуйте --verbose или "
+"установите $JAVAC"
+
+msgid "compilation of Java class failed, please try to set $JAVAC"
+msgstr ""
+"компиляция класса Java завершилась с ошибкой, попробуйте установить $JAVAC"
+
+msgid "context mismatch between singular and plural form"
+msgstr "не совпадают контексты у форм в единственном и множественном числе"
+
+msgid "context separator <EOT> within string"
+msgstr "разделитель контекста <EOT> внутри строки"
+
+msgid "could not get host name"
+msgstr "невозможно получить имя машины"
+
+msgid "creation of threads failed"
+msgstr "ошибка при создании нитей"
+
+msgid ""
+"domain \"%s\" in input file '%s' doesn't contain a header entry with a "
+"charset specification"
+msgstr ""
+"домен «%s» во входном файле «%s» не содержит запись заголовка с описанием "
+"кодировки"
+
+msgid "domain name \"%s\" not suitable as file name"
+msgstr "имя домена «%s» не может быть использовано в качестве имени файла"
+
+msgid "domain name \"%s\" not suitable as file name: will use prefix"
+msgstr ""
+"имя домена «%s» недопустимо в качестве имени файла, будет использовано\n"
+"частично усеченное имя домена"
+
+msgid "duplicate message definition"
+msgstr "повторное определение сообщения"
+
+msgid "empty 'msgstr' entry ignored"
+msgstr "пустая запись «msgstr» игнорируется"
+
+msgid "end-of-file within string"
+msgstr "символ конца файла встречен внутри строки"
+
+msgid "end-of-line within string"
+msgstr "символ конца строки встречен внутри строки"
+
+msgid "error after reading \"%s\""
+msgstr "ошибка после чтения «%s»"
+
+msgid "error after reading %s"
+msgstr "ошибка после чтения %s"
+
+msgid "error reading \"%s\""
+msgstr "ошибка чтения «%s»"
+
+msgid "error reading %s"
+msgstr "ошибка чтения %s"
+
+msgid "error reading current directory"
+msgstr "ошибка при чтении текущего каталога"
+
+msgid "error while converting from \"%s\" encoding to \"%s\" encoding"
+msgstr "ошибка при преобразовании из кодировки «%s» в кодировку «%s»"
+
+msgid "error while opening \"%s\" for reading"
+msgstr "ошибка открытия файла «%s» для чтения"
+
+msgid "error while opening \"%s\" for writing"
+msgstr "ошибка открытия «%s» для записи"
+
+msgid "error while opening %s for reading"
+msgstr "ошибка при открытии файла %s для чтения"
+
+msgid "error while reading \"%s\""
+msgstr "ошибка чтения «%s»"
+
+msgid "error while writing \"%s\" file"
+msgstr "ошибка записи файла «%s»"
+
+msgid "error while writing to %s subprocess"
+msgstr "ошибка при записи в дочерний процесс %s"
+
+msgid "error writing %s"
+msgstr "ошибка записи %s"
+
+msgid "error writing stdout"
+msgstr "ошибка записи на стандартный вывод"
+
+msgid "exactly 2 input files required"
+msgstr "необходимо задать два входных файла"
+
+msgid "exactly one input file required"
+msgstr "необходимо задать ровно один входной файл"
+
+msgid "expected two arguments"
+msgstr "ожидается два аргумента"
+
+msgid "failed to create \"%s\""
+msgstr "ошибка при создании «%s»"
+
+msgid "failed to create directory \"%s\""
+msgstr "не удалось создать каталог «%s»"
+
+msgid "fdopen() failed"
+msgstr "ошибка при вызовы fdopen()"
+
+msgid "file \"%s\" contains a not NUL terminated string"
+msgstr "файл «%s» содержит строку, не завершённую нулем"
+
+msgid "file \"%s\" contains a not NUL terminated string, at %s"
+msgstr "файл «%s» содержит строку, не завершённую нулем, в позиции %s"
+
+msgid "file \"%s\" is not in GNU .mo format"
+msgstr "файл «%s» не в соответствует формату GNU .mo"
+
+msgid "file \"%s\" is truncated"
+msgstr "файл «%s» усечён"
+
+msgid "first plural form has nonzero index"
+msgstr "первая форма множественного числа имеет ненулевой индекс"
+
+msgid "format specifications in '%s' and '%s' are not equivalent"
+msgstr "спецификации формата в «%s» и «%s» не эквивалентны"
+
+msgid "format specifications in '%s' and '%s' for argument %u are not the same"
+msgstr "спецификации формата в «%s» и «%s» не совпадают для аргумента %u"
+
+msgid ""
+"format specifications in '%s' and '%s' for argument '%s' are not the same"
+msgstr "в «%s» и «%s» не совпадают спецификации формата для аргумента «%s»"
+
+msgid ""
+"format specifications in '%s' and '%s' for argument {%u} are not the same"
+msgstr "в «%s» и «%s» не совпадают спецификации формата для аргумента {%u}"
+
+msgid "format specifications in '%s' are not a subset of those in '%s'"
+msgstr ""
+"спецификации формата в «%s» не являются подмножеством спецификаций из «%s»"
+
+msgid ""
+"format specifications in '%s' expect a mapping, those in '%s' expect a tuple"
+msgstr "спецификация формата в «%s» ожидает отображение, а в «%s» — кортеж"
+
+msgid ""
+"format specifications in '%s' expect a tuple, those in '%s' expect a mapping"
+msgstr "спецификация формата в «%s» ожидает кортеж, а в «%s» — отображение"
+
+msgid "found %d fatal error"
+msgid_plural "found %d fatal errors"
+msgstr[0] "найдена %d критическая ошибка"
+msgstr[1] "найдено %d критические ошибки"
+msgstr[2] "найдено %d критических ошибок"
+
+msgid "fuzzy 'msgstr' entry ignored"
+msgstr "неточная запись «msgstr» игнорируется"
+
+msgid "header field '%s' missing in header\n"
+msgstr "в заголовке отсутствует поле «%s»\n"
+
+msgid "header field '%s' still has the initial default value\n"
+msgstr ""
+"поле заголовка «%s» всё ещё содержит первоначальное значение по умолчанию\n"
+
+msgid "iconv failure"
+msgstr "вызов iconv завершился неуспехом"
+
+msgid "impossible selection criteria specified (%d < n < %d)"
+msgstr "задан недопустимый критерий выбора (%d < n < %d)"
+
+msgid "incomplete multibyte sequence"
+msgstr "неполная многобайтовая последовательность"
+
+msgid "incomplete multibyte sequence at end of file"
+msgstr "неполная многобайтовая последовательность в конце файла"
+
+msgid "incomplete multibyte sequence at end of line"
+msgstr "неполная многобайтовая последовательность в конце строки"
+
+msgid "inconsistent use of #~"
+msgstr "непоследовательное применение #~"
+
+msgid ""
+"input file '%s' doesn't contain a header entry with a charset specification"
+msgstr "входной файл «%s» не содержит запись заголовка с описанием кодировки"
+
+msgid "input file doesn't contain a header entry with a charset specification"
+msgstr "входной файл не содержит поле заголовка с описанием кодировки"
+
+msgid "input is not valid in \"%s\" encoding"
+msgstr "неверный вход для кодировки «%s»"
+
+msgid ""
+"internationalized messages should not contain the '\\%c' escape sequence"
+msgstr ""
+"переводимые сообщения не должны содержать экранирующую последовательность «\\"
+"%c»"
+
+msgid "invalid argument %s for %s"
+msgstr "неверный аргумент %s для %s"
+
+msgid "invalid control sequence"
+msgstr "неверная управляющая последовательность"
+
+msgid "invalid endianness: %s"
+msgstr "неверный порядок байт: %s"
+
+msgid "invalid multibyte sequence"
+msgstr "неверная многобайтовая последовательность"
+
+msgid "invalid nplurals value"
+msgstr "неверная значение nplurals"
+
+msgid "invalid plural expression"
+msgstr "неверное выражение во множественном числе"
+
+msgid "invalid source_version argument to compile_java_class"
+msgstr "неправильный аргумент source_version для compile_java_class"
+
+msgid "invalid target_version argument to compile_java_class"
+msgstr "неправильный аргумент target_version для compile_java_class"
+
+msgid "keyword \"%s\" unknown"
+msgstr "неизвестное ключевое слово «%s»"
+
+msgid "language '%s' unknown"
+msgstr "язык «%s» неизвестен"
+
+msgid "memory exhausted"
+msgstr "память исчерпана"
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the C# .resources format doesn't support contexts\n"
+msgstr ""
+"каталог сообщений содержит переводы с контекстом, но формат\n"
+".resources C# не поддерживает контексты\n"
+
+msgid ""
+"message catalog has context dependent translations\n"
+"but the Tcl message catalog format doesn't support contexts\n"
+msgstr ""
+"каталог сообщений содержит переводы с контекстом, но формат\n"
+"каталогов сообщений для Tcl не поддерживает контексты\n"
+
+msgid ""
+"message catalog has context dependent translations, but the output format "
+"does not support them."
+msgstr ""
+"каталог сообщений содержит переводы с контекстом, но выходной формат их не "
+"поддерживает."
+
+msgid ""
+"message catalog has msgctxt strings containing characters outside "
+"ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the context strings\n"
+msgstr ""
+"каталог сообщений содержит строки msgctxt с символами не из ISO-8859-1,\n"
+"но формат каталога сообщений Qt поддерживает Unicode только в\n"
+"переведенных строках, но не в контекстах\n"
+
+msgid ""
+"message catalog has msgid strings containing characters outside ISO-8859-1\n"
+"but the Qt message catalog format supports Unicode only in the translated\n"
+"strings, not in the untranslated strings\n"
+msgstr ""
+"каталог сообщений содержит строки msgid с символами не из ISO-8859-1,\n"
+"но формат каталога сообщений Qt поддерживает Unicode только в\n"
+"переведенных строках, но не в оригиналах\n"
+
+msgid "message catalog has plural form translations"
+msgstr "каталог сообщений содержит переводы во множественном числе"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the C# .resources format doesn't support plural handling\n"
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но формат\n"
+".resources C# не поддерживает обработку множественного числа\n"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Qt message catalog format doesn't support plural handling\n"
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но формат\n"
+"каталогов сообщений Qt не поддерживает обработку множественного\n"
+"числа\n"
+
+msgid ""
+"message catalog has plural form translations\n"
+"but the Tcl message catalog format doesn't support plural handling\n"
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но формат\n"
+"каталогов сообщений для Tcl не поддерживает обработку множественного\n"
+"числа\n"
+
+msgid ""
+"message catalog has plural form translations, but lacks a header entry with "
+"\"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\""
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но в нем "
+"заголовка с «Plural-Forms: nplurals=ЦЕЛОЕ; plural=ВЫРАЖЕНИЕ;»"
+
+msgid ""
+"message catalog has plural form translations, but the output format does not "
+"support them."
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но выходной "
+"формат их не поддерживает."
+
+msgid ""
+"message catalog has plural form translations, but the output format does not "
+"support them. Try generating a Java class using \"msgfmt --java\", instead "
+"of a properties file."
+msgstr ""
+"каталог сообщений содержит переводы во множественном числе, но выходной "
+"формат не поддерживает их.  Попробуйте сгенерировать Java-класс с помощью "
+"«msgfmt --java», а не файл properties."
+
+msgid "missing 'msgid_plural' section"
+msgstr "пропущена секция «msgid_plural»"
+
+msgid "missing 'msgstr' section"
+msgstr "пропущена секция «msgstr»"
+
+msgid "missing 'msgstr[]' section"
+msgstr "пропущена секция «msgstr[]»"
+
+msgid "missing command name"
+msgstr "не задана команда"
+
+msgid "missing filter name"
+msgstr "не задано имя фильтра"
+
+msgid "msgstr has too many keyboard accelerator marks '%c'"
+msgstr "в msgstr слишком много отметок клавиатурных эквивалентов «%c»"
+
+msgid "msgstr lacks the keyboard accelerator mark '%c'"
+msgstr "в msgstr недостает отметки клавиатурного эквивалента «%c»"
+
+msgid "no input file given"
+msgstr "не задан входной файл"
+
+msgid "no input file should be given if %s and %s are specified"
+msgstr "нельзя указывать входной файл, если задан %s или %s"
+
+msgid "no input files given"
+msgstr "не заданы входные файлы"
+
+msgid "not a valid Java class name: %s"
+msgstr "%s не является верным именем класса Java"
+
+msgid "nplurals = %lu"
+msgstr "nplurals = %lu"
+
+msgid "nplurals = %lu but plural expression can produce values as large as %lu"
+msgstr ""
+"nplurals = %lu, но выражение во множественном числе может давать значения до "
+"%lu"
+
+msgid "number of format specifications in '%s' and '%s' does not match"
+msgstr "не совпадает количество спецификаций формата в «%s» и «%s»"
+
+msgid ""
+"option '%c' cannot be used before 'J' or 'K' or 'T' or 'C' or 'X' has been "
+"specified"
+msgstr ""
+"параметр «%c» нельзя использовать до того, как заданы «J», «K», «T», «C» или "
+"«X»"
+
+msgid ""
+"plural expression can produce arithmetic exceptions, possibly division by "
+"zero"
+msgstr ""
+"выражение во множественном числе может давать исключительные ситуации в "
+"арифметике, возможно, деление на ноль"
+
+msgid "plural expression can produce division by zero"
+msgstr "выражение во множественном числе может давать деление на ноль"
+
+msgid "plural expression can produce integer overflow"
+msgstr "выражение во множественном числе может дать переполнение целого"
+
+msgid "plural expression can produce negative values"
+msgstr "выражение во множественном числе может давать отрицательные значения"
+
+msgid "plural form has wrong index"
+msgstr "форма множественного числа имеет неправильный индекс"
+
+msgid "plural handling is a GNU gettext extension"
+msgstr "обработка форм во множественном числе является расширением GNU gettext"
+
+msgid "present charset \"%s\" is not a portable encoding name"
+msgstr "текущая кодировка «%s» не является переносимым именем кодировки"
+
+msgid "preserving permissions for %s"
+msgstr "сохранение прав доступа для %s"
+
+msgid "read from %s subprocess failed"
+msgstr "ошибка при чтении из дочернего процесса %s"
+
+msgid "setting permissions for %s"
+msgstr "установка прав доступа для %s"
+
+msgid "standard input"
+msgstr "стандартный ввод"
+
+msgid "standard output"
+msgstr "стандартный вывод"
+
+msgid "target charset \"%s\" is not a portable encoding name."
+msgstr "целевая кодировка «%s» не является переносимым именем кодировки."
+
+msgid "the argument to %s should be a single punctuation character"
+msgstr "аргумент %s должен быть одиночным знаком пунктуации"
+
+msgid "this file may not contain domain directives"
+msgstr "этот файл не может содержать директивы домена"
+
+msgid "this is the location of the first definition"
+msgstr "место появления первого определения"
+
+msgid "this message is untranslated"
+msgstr "это сообщение не переведено"
+
+msgid "this message is used but not defined in %s"
+msgstr "это сообщение не было определено в %s"
+
+msgid "this message is used but not defined..."
+msgstr "это сообщение используется программой, но не было определено..."
+
+msgid "this message needs to be reviewed by the translator"
+msgstr "это сообщение должно быть проверено переводчиком"
+
+msgid "this message should define plural forms"
+msgstr "данное сообщение должно определять формы во множественном числе"
+
+msgid "this message should not define plural forms"
+msgstr "данное сообщение не должно определять формы во множественном числе"
+
+msgid "too many arguments"
+msgstr "слишком много аргументов"
+
+msgid "too many errors, aborting"
+msgstr "слишком много ошибок, завершение"
+
+msgid "two different charsets \"%s\" and \"%s\" in input file"
+msgstr "во входном файле две разные кодировки «%s» и «%s»"
+
+msgid "warning: "
+msgstr "предупреждение: "
+
+msgid "warning: PO file header fuzzy\n"
+msgstr "предупреждение: заголовок PO-файла помечен как неточный\n"
+
+msgid "warning: PO file header missing or invalid\n"
+msgstr "предупреждение: заголовок PO-файла отсутствует или неправилен\n"
+
+msgid "warning: charset conversion will not work\n"
+msgstr "предупреждение: преобразование кодировок не будет работать\n"
+
+msgid "warning: file '%s' extension '%s' is unknown; will try C"
+msgstr ""
+"предупреждение: файл «%s» имеет неизвестное расширение «%s»; трактуется как C"
+
+msgid "warning: invalid Unicode character"
+msgstr "предупреждение: неверный символ Unicode"
+
+msgid "warning: invalid \\uxxxx syntax for Unicode character"
+msgstr "предупреждение: неверный синтаксис \\uxxxx для символа Unicode"
+
+msgid "warning: missing context for keyword '%.*s'"
+msgstr "предупреждение: не указан контекст для ключевого слова «%.*s»"
+
+msgid "warning: missing context for plural argument of keyword '%.*s'"
+msgstr ""
+"предупреждение: не указан контекст для аргумента во множественном числе у "
+"ключевого слова «%.*s»"
+
+msgid "warning: older versions of msgfmt will give an error on this\n"
+msgstr "предупреждение: более старые версии msgfmt выдадут здесь ошибку\n"
+
+msgid "warning: syntax error"
+msgstr "предупреждение: синтаксическая ошибка"
+
+msgid "warning: syntax error, expected ';' after string"
+msgstr "предупреждение: синтаксическая ошибка, после строки ожидается «;»"
+
+msgid "warning: syntax error, expected '=' or ';' after string"
+msgstr ""
+"предупреждение: синтаксическая ошибка, после строки ожидается «=» или «;»"
+
+msgid "warning: this message is not used"
+msgstr "предупреждение: это сообщение не используется"
+
+msgid "warning: unterminated key/value pair"
+msgstr "предупреждение: незавершенная пара ключ/значение"
+
+msgid "warning: unterminated string"
+msgstr "предупреждение: незавершенная строка"
+
+msgid "write error"
+msgstr "ошибка записи"
+
+msgid "write to %s subprocess failed"
+msgstr "ошибка при записи в дочерний процесс %s"
+
+msgid "write to stdout failed"
+msgstr "запись на стандартный вывод завершилась с ошибкой"
+
+msgid "xgettext cannot work without keywords to look for"
+msgstr "xgettext не может работать, не зная искомых ключевых слов"

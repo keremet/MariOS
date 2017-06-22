@@ -1,0 +1,2726 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ekiga HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-02-11 21:33+0900\n"
+"PO-Revision-Date: 2007-02-12 10:30+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "%d user found"
+msgid_plural "%d users found"
+msgstr[0] "Найден %d пользователь"
+msgstr[1] "Найдено %d пользователя"
+msgstr[2] "Найдено %d пользователей"
+
+msgid "%s (with %d voice mail message)"
+msgid_plural "%s (with %d voice mail messages)"
+msgstr[0] "%s (с %d голосовым сообщением)"
+msgstr[1] "%s (с %d голосовыми сообщениями)"
+msgstr[2] "%s (с %d голосовыми сообщениями)"
+
+msgid "%s / List #%d"
+msgstr "%s / Список №%d"
+
+msgid "%s asks the permission to see your presence, saying: \"%s\"."
+msgstr "%s запрашивает разрешения видеть ваше присутствие, ответ: \"%s\"."
+
+msgid "%s asks the permission to see your presence."
+msgstr "%s запрашивает разрешения видеть ваше присутствие."
+
+msgid "0: 56kbps, 1: ISDN, 2: DSL128, 3: DSL512, 4: LAN, 5: Custom"
+msgstr "0: 56Кбит/с, 1: ISDN, 2: DSL128, 3: DSL512, 4: LAN, 5: Другое"
+
+msgid "56k Modem"
+msgstr "Модем 56К"
+
+msgid "A"
+msgstr "Вкл."
+
+msgid "A moving logo will be transmitted during calls."
+msgstr "На время звонка будет передаваться видео с логотипом"
+
+msgid "A:%.1f/%.1f V:%.1f/%.1f FPS:%d/%d"
+msgstr "Звук:%.1f/%.1f Видео:%.1f/%.1f  Кадры:%d/%d"
+
+msgid "A_dd Contact"
+msgstr "До_бавить контакт"
+
+msgid "Abnormal call termination"
+msgstr "Ненормальное завершение вызова"
+
+msgid "Accept"
+msgstr "Принять"
+
+msgid "Account Name"
+msgstr "Учётная запись"
+
+msgid "Account name, e.g. MyAccount"
+msgstr "Имя учётной записи, например МояУчётнаяЗапись"
+
+msgid "Accounts"
+msgstr "Учётные записи"
+
+msgid "Act on selected contact"
+msgstr "Действия для выделенного контакта"
+
+msgid "Add Group"
+msgstr "Добавить группу"
+
+msgid "Add a contact to the roster"
+msgstr "Добавить контакт в список"
+
+msgid "Add a remote contact"
+msgstr "Добавить удалённый контакт"
+
+msgid "Add a roster element"
+msgstr "Добавить элемент в контакты"
+
+msgid "Add an LDAP Address Book"
+msgstr "Добавить адресную книгу LDAP"
+
+msgid "Add new resource-list"
+msgstr "Создать новый список"
+
+msgid "Add the Ekiga.net Directory"
+msgstr "Добавить каталог пользователей Ekiga.net"
+
+msgid "Add to local roster"
+msgstr "Добавить к локальным контактам"
+
+msgid "Address Book"
+msgstr "Адресная книга"
+
+msgid "Address _Book"
+msgstr "Адресная _книга"
+
+msgid "Address incomplete"
+msgstr "Адрес неточен"
+
+msgid "Address, e.g. sip:xyz@ekiga.net"
+msgstr "Адрес, например sip:xyz@ekiga.net"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "Addressbook"
+msgstr "Адресная книга"
+
+msgid "Addressbook _properties"
+msgstr "Свойства адресной _книги"
+
+msgid "Adjust brightness"
+msgstr "Подстройка яркости"
+
+msgid "Adjust color"
+msgstr "Подстройка цвета"
+
+msgid "Adjust contrast"
+msgstr "Подстройка контрастности"
+
+msgid "Adjust whiteness"
+msgstr "Подстройка уровня белого"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "Advanced Settings"
+msgstr "Дополнительные параметры"
+
+msgid ""
+"Allow Ekiga to fall back to software scaling the picture-in-picture if "
+"hardware support is not available. If this is set to false, Ekiga will not "
+"try to open the PIP if hardware support is not available."
+msgstr ""
+"Позволять Ekiga использовать программное масштабирование для создания "
+"картинки в картинке, если аппаратная поддержка недоступна. Если отключено, "
+"Ekiga не будет отображать видео в этом режиме при отсутствии аппаратного "
+"ускорения."
+
+msgid "Allow H.239 per Content Role Mask"
+msgstr "Разрешить роль маски (H.239)"
+
+msgid "Allow picture-in-picture software scaling"
+msgstr "Разрешить программный вывод картинки в картинке"
+
+msgid "Alternative audio output device"
+msgstr "Альтернативное устройство вывода звука"
+
+msgid "Alternative service"
+msgstr "Альтернативная служба"
+
+msgid "Always forward calls to the given host"
+msgstr "Всегда перенапрвлять вызовы на данный узел"
+
+msgid "Ambiguous"
+msgstr "Избыточен"
+
+msgid "Appointment"
+msgstr "Условленная встреча"
+
+msgid "Are you sure you want to remove %s from the addressbook?"
+msgstr "Вы действительно хотите удалить %s из адресной книги?"
+
+msgid "Artwork:"
+msgstr "Дизайн:"
+
+msgid "Ask him/her to see his/her status"
+msgstr "Попросить разрешения видеть его/её статус"
+
+msgid "Ask him/her to see his/her status (pending)"
+msgstr "Попросить разрешения видеть его/её статус (ожидание ответа)"
+
+msgid "Assistant"
+msgstr "Помощники"
+
+msgid "Associate"
+msgstr "Коллеги"
+
+msgid "Audio"
+msgstr "Звук"
+
+msgid "Audio Devices"
+msgstr "Аудиоустройства"
+
+msgid "Audio Input Device"
+msgstr "Устройство ввода звука"
+
+msgid "Audio Output Device"
+msgstr "Устройство вывода звука"
+
+msgid "Audio Ringing Device"
+msgstr "Устройство звонка"
+
+msgid "Audio Settings"
+msgstr "Параметры _звука"
+
+msgid "Audio input device"
+msgstr "Устройство ввода звука"
+
+msgid "Audio output device"
+msgstr "Устройство вывода звука"
+
+msgid "Audio test"
+msgstr "Проверка звука"
+
+msgid "Authentication user:"
+msgstr "Пользователь аутентификации:"
+
+msgid "Authorization to see your presence"
+msgstr "Авторизоваться для уведомления о вашем присутствии"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Automatic answer"
+msgstr "Автоматический ответ"
+
+msgid ""
+"Automatically reject or forward incoming calls if no answer is given after "
+"the specified amount of time (in seconds)"
+msgstr ""
+"Автоматически отклонять или перенаправлять входящие вызовы в случае "
+"отсутствия ответа в течение указанного времени (в секундах)"
+
+msgid "Available"
+msgstr "Доступен"
+
+msgid "Away"
+msgstr "Отошёл"
+
+msgid "Bad event"
+msgstr "Некорректное событие"
+
+msgid "Bad extension"
+msgstr "Расширение не поддерживается"
+
+msgid "Bad gateway"
+msgstr "Некорректный шлюз"
+
+msgid "Bad request"
+msgstr "Неправильный запрос"
+
+msgid "Bad username/password"
+msgstr "Некорректное имя пользователя/пароль"
+
+msgid "Bind _ID:"
+msgstr "Идентификатор _привязки:"
+
+msgid "Book _name:"
+msgstr "_Название книги:"
+
+msgid "Book name, as shown in your dialog box"
+msgstr "Имя книги, указанное в диалоговом окне"
+
+msgid "Both video images"
+msgstr "Оба видеоизображения"
+
+msgid "Breakfast"
+msgstr "Завтрак"
+
+msgid "Busy"
+msgstr "Занят"
+
+msgid "Busy Here"
+msgstr "Занято"
+
+msgid "Busy everywhere"
+msgstr "Везде занято"
+
+msgid "Ca_ll a Number"
+msgstr "Вызвать _номер"
+
+msgid "Call"
+msgstr "Вызов"
+
+msgid "Call Forwarding"
+msgstr "Перенапраление вызовов"
+
+msgid "Call Options"
+msgstr "Параметры вызовов"
+
+msgid "Call Window"
+msgstr "Окно вызова"
+
+msgid "Call _attributes:"
+msgstr "Атрибуты _вызова:"
+
+msgid "Call back test"
+msgstr "Тест обратного вызова"
+
+msgid "Call completed"
+msgstr "Вызов завершён"
+
+msgid "Call forwarded"
+msgstr "Вызов перенаправлен"
+
+msgid "Call history"
+msgstr "История вызовов"
+
+msgid "Call on hold"
+msgstr "Вызов удерживается"
+
+msgid "Call retrieved"
+msgstr "Вызов принят"
+
+msgid "Calling %s..."
+msgstr "Вызов %s…"
+
+msgid "Calls history"
+msgstr "История вызовов"
+
+msgid "Category"
+msgstr "Категория"
+
+msgid "Challenge: "
+msgstr "Секрет: "
+
+msgid "Change the color settings of your video device"
+msgstr "Изменять настройки цвета видео"
+
+msgid "Change the panel section of the main window"
+msgstr "Изменить раздел панели главного окна"
+
+msgid ""
+"Change the panel section of the main window (0=Contacts, 1=Dialpad, 2=Call "
+"history)"
+msgstr ""
+"Изменить раздел панели главного окна («0» — контакты, «1» — панель набора, "
+"«2» — история вызовов)"
+
+msgid "Change the volume of your soundcard"
+msgstr "Изменять громкость воспроизведения"
+
+msgid "Change your preferences"
+msgstr "Изменить параметры пользователя"
+
+msgid "Channel:"
+msgstr "Канал:"
+
+msgid "Chat Window"
+msgstr "Окно разговора"
+
+msgid "Chat to friends and colleagues using a webcam"
+msgstr "Общение с друзьями и коллегами с использованием веб-камеры"
+
+msgid "Choose a sound"
+msgstr "Выберите звук"
+
+msgid "Choose groups:"
+msgstr "Выберите группы:"
+
+msgid ""
+"Choose if you want to guarantee a minimum image quality (possibly leading to "
+"dropped frames in order not to surpass the bitrate limit) or if you prefer "
+"to keep the frame rate"
+msgstr ""
+"Выберите, обеспечить минимально гарантированное качество изображения (может "
+"приводить к потери пакетов из-за ограничений канала) или сохранять кадры в "
+"ущерб качеству"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear List"
+msgstr "Очистить список"
+
+msgid "Click here to refresh the device list"
+msgstr "Щёлкните, чтобы обновить список устройств"
+
+msgid "Click to fetch"
+msgstr "Нажмите, чтобы загрузить"
+
+msgid "Close the Ekiga window"
+msgstr "Закрыть окно Ekiga"
+
+msgid "Co_ntact"
+msgstr "_Контакт"
+
+msgid "Codecs"
+msgstr "Кодеки"
+
+msgid "Con_tacts"
+msgstr "_Контакты"
+
+msgid "Conference room"
+msgstr "Комната конференций"
+
+msgid "Configuration Complete"
+msgstr "Настройка завершена"
+
+msgid "Configuration summary:"
+msgstr "Сводка параметров:"
+
+msgid "Conflict"
+msgstr "Конфликт"
+
+msgid "Congested link to remote party"
+msgstr "Загруженный канал к удалённому абоненту"
+
+msgid "Connected with %s"
+msgstr "Подключён к %s"
+
+msgid ""
+"Connected with %s\n"
+"%s"
+msgstr ""
+"Подключён к %s\n"
+"%s"
+
+msgid "Connection Type"
+msgstr "Тип соединения"
+
+msgid ""
+"Connection will be established in Fast Start mode. Fast Start is a new way "
+"to start calls faster that was introduced in H.323v2. It is not supported by "
+"Netmeeting and using both Fast Start and H.245 Tunneling can crash some "
+"versions of Netmeeting"
+msgstr ""
+"Соединение будет установлено в режиме «Быстрый старт». Это новый режим "
+"быстрой установки соединения, который впервые был представлен в H.323v2. Он "
+"не поддерживается Netmeeting, и одновременное использование быстрого старта "
+"и туннелирования H.245 может привести к сбою некоторых версий Netmeeting"
+
+msgid ""
+"Connection will be established in Fast Start mode. Fast Start is a new way "
+"to start calls faster that was introduced in H.323v2. It is not supported by "
+"Netmeeting and using both Fast Start and H.245 Tunneling can crash some "
+"versions of Netmeeting."
+msgstr ""
+"Соединение будет установлено в режиме «Быстрый Старт». Это новый режим "
+"быстрой установки соединения, который впервые был представлен в H.323v2. Он "
+"не поддерживается Netmeeting, и одновременное использование быстрого старта "
+"и туннелирования H.245 может привести к сбою некоторых версий Netmeeting."
+
+msgid "Consult the balance history"
+msgstr "Просмотреть изменение баланса"
+
+msgid "Consult the call history"
+msgstr "Просмотреть журнал вызовов"
+
+msgid "Contact list _properties"
+msgstr "Параметры списка _контактов"
+
+msgid "Contact list's name:"
+msgstr "Название списка контактов:"
+
+msgid "Contact long status"
+msgstr "Расширенное состояние контактов"
+
+msgid "Contact short status"
+msgstr "Краткое состояние контактов"
+
+msgid "Contacted server"
+msgstr "Ответивший сервер"
+
+msgid "Contacts"
+msgstr "Контакты"
+
+msgid "Continue chat"
+msgstr "Продолжить беседу"
+
+msgid "Contributors:"
+msgstr "Разработчики:"
+
+msgid "Copy link"
+msgstr "Копировать адрес ссылки"
+
+msgid "Could not connect to remote host"
+msgstr "Не удалось подключиться к удаленному узлу"
+
+msgid "Could not connect to server"
+msgstr "Не удалось подключиться к серверу"
+
+msgid "Could not initialize server"
+msgstr "Не удалось инициализировать сервер"
+
+msgid "Could not open the chosen channel."
+msgstr "Не удалось открыть выбранный канал."
+
+msgid "Could not register"
+msgstr "Не удалось зарегистрироваться"
+
+msgid "Could not register to "
+msgstr "Не удалось зарегистрироваться"
+
+msgid "Could not search"
+msgstr "Не удалось запустить поиск"
+
+msgid "Could not send message: "
+msgstr "Не удалось отправить сообщение:"
+
+msgid "Could not unregister"
+msgstr "Не удалось отменить регистрацию"
+
+msgid "Crazy"
+msgstr "Случайные данные"
+
+msgid "Create LDAP directory"
+msgstr "Создать каталог LDAP"
+
+msgid "Custom Message"
+msgstr "Собственное сообщение"
+
+msgid "Custom message..."
+msgstr "Собственное сообщение…"
+
+msgid "DSL/Cable (128 kbit/s uplink)"
+msgstr "Кабель/DSL (128 Кбит/c)"
+
+msgid "DSL/Cable (512 kbit/s uplink)"
+msgstr "Кабель/DSL (512 Кбит/с)"
+
+msgid "DTMF Mode"
+msgstr "Режим DTMF"
+
+msgid "DTMF sending"
+msgstr "Передача DTMF"
+
+msgid "Decline"
+msgstr "Отклонён"
+
+msgid "Define a custom message:"
+msgstr "Определить собственное соощение:"
+
+msgid "Delete custom messages:"
+msgstr "Удалить собственное сообщение:"
+
+msgid "Device removed"
+msgstr "Устройство удалено"
+
+msgid "Devices"
+msgstr "Устройства"
+
+msgid "Dialpad"
+msgstr "Номеронабиратель"
+
+msgid "Dinner"
+msgstr "Обед"
+
+msgid "Disable H.239 Extended Video"
+msgstr "Отключить расширенное видео H.239"
+
+msgid "Disable video hardware acceleration"
+msgstr "Выключить аппаратное ускорение видео"
+
+msgid "Display images from your camera device"
+msgstr "Показывать изображение с вашей камеры"
+
+msgid "Distant contact"
+msgstr "Внешний контакт"
+
+msgid "Do not show this dialog again"
+msgstr "Больше не показывать этот диалог"
+
+msgid "Document root:"
+msgstr "Корень документов:"
+
+msgid "Does not exist anymore"
+msgstr "Больше не существует"
+
+msgid "Duplicate alias"
+msgstr "Название уже существует"
+
+msgid "Echo test"
+msgstr "Тест звонка"
+
+msgid "Edi_t"
+msgstr "_Изменить"
+
+msgid "Edit"
+msgstr "Правка"
+
+msgid "Edit LDAP directory"
+msgstr "Правка каталога на сервере LDAP"
+
+msgid "Edit account"
+msgstr "Правка учётной записи"
+
+msgid "Edit contact"
+msgstr "Редактировать контакт"
+
+msgid "Edit contact list properties"
+msgstr "Правка свойств списка контактов"
+
+msgid "Edit remote contact"
+msgstr "Правка удалённого контакта"
+
+msgid "Edit roster element"
+msgstr "Правка элемента списка"
+
+msgid "Edit your accounts"
+msgstr "Правка вашей учётной записи"
+
+msgid "Ekiga"
+msgstr "Ekiga"
+
+msgid "Ekiga Call Out"
+msgstr "Ekiga Call Out"
+
+msgid "Ekiga Call Out Account"
+msgstr "Учётная запись Ekiga Call Out"
+
+msgid "Ekiga Configuration Assistant (%d of %d)"
+msgstr "Мастер первоначальной настройки (страница %d из %d)"
+
+msgid "Ekiga Preferences"
+msgstr "Настройки Ekiga"
+
+msgid "Ekiga Softphone"
+msgstr "Программный телефон Ekiga"
+
+msgid "Ekiga Sound Events"
+msgstr "Звуковые события Ekiga"
+
+msgid ""
+"Ekiga did not manage to configure your network settings automatically. You "
+"can still use it, but you need to configure your network settings manually.\n"
+"\n"
+"Please see http://wiki.ekiga.org/index.php/Enable_port_forwarding_manually "
+"for instructions"
+msgstr ""
+"Ekiga не удалось автоматически настроить параметры сети. Необходимо "
+"настроить сеть вручную.\n"
+"\n"
+"Для получения подробных инструкций прочитайте страницу http://wiki.ekiga.org/"
+"index.php/Enable_port_forwarding_manually"
+
+msgid ""
+"Ekiga is full-featured SIP and H.323 compatible VoIP, IP-Telephony and "
+"Videoconferencing application that allows you to make audio and video calls "
+"to remote users with SIP and H.323 hardware or software."
+msgstr ""
+"Ekiga — это полнофункциональное SIP и H.323-совместимое приложение для VoIP, "
+"IP-телефонии и видеоконференций, которое позволяет связываться с другими "
+"пользователями, использующими программное или аппаратное обеспечение SIP или "
+"H.323."
+
+msgid ""
+"Ekiga is licensed under the GPL license and as a special exception, you have "
+"permission to link or otherwise combine this program with the programs OPAL, "
+"OpenH323 and PWLIB, and distribute the combination, without applying the "
+"requirements of the GNU GPL to the OPAL, OpenH323 and PWLIB programs, as "
+"long as you do follow the requirements of the GNU GPL for all the rest of "
+"the software thus combined."
+msgstr ""
+"Ekiga распространяется по лицензии GPL со специальным исключением, состоящим "
+"в том, что разрешено компоновать или по другому использовать это приложение "
+"с библиотеками OPAL, OpenH323 и PWLIB и распространять комбинацию без учёта "
+"требований лицензии GPL по отношению к библиотекам OPAL, OpenH323 и PWLIB, "
+"если остальные требования лицензии GPL к остальным частям удовлетворены."
+
+msgid "Ekiga.net Account"
+msgstr "Учётная запись Ekiga.net"
+
+msgid "Ekiga.net Directory"
+msgstr "Каталог пользователей Ekiga.net"
+
+msgid "Enable 'Fast Start'"
+msgstr "Включить «Быстрый старт»"
+
+msgid "Enable H.239"
+msgstr "Включить H.239"
+
+msgid "Enable H.239 control"
+msgstr "Включить контроль H.239"
+
+msgid "Enable H.245 _tunneling"
+msgstr "Включить _туннелирование H.245"
+
+msgid "Enable H.245 tunneling"
+msgstr "Включить туннелирование H.245"
+
+msgid "Enable STUN network detection"
+msgstr "Включить автоопределение конфигурации сети"
+
+msgid "Enable _early H.245"
+msgstr "Включить _ранний H.245"
+
+msgid "Enable account"
+msgstr "Включить учётную запись"
+
+msgid "Enable early H.245"
+msgstr "Включить ранний H.245"
+
+msgid "Enable echo can_celation"
+msgstr "Включить подавление _эха"
+
+msgid "Enable echo cancellation"
+msgstr "Включить подавление эха"
+
+msgid "Enable fast _start procedure"
+msgstr "Включить процедуру быстрого _старта"
+
+msgid "Enable network _detection"
+msgstr "Включить определение _сети"
+
+msgid "Enable silence _detection"
+msgstr "Включить обнаружение _молчания"
+
+msgid "Enable silence detection"
+msgstr "Включить обнаружение молчания"
+
+msgid "Enable the automatic network setup resulting from the STUN test"
+msgstr ""
+"Включить автоматическое определение конфигурации сети с помощью теста STUN"
+
+msgid ""
+"Enter a URI on the left, and click this button to place a call or to hangup"
+msgstr ""
+"Чтобы начать или завершить вызов, введите слева URI слева и нажмите эту "
+"кнопку"
+
+msgid ""
+"Enter the number of seconds after which Ekiga should try refreshing the NAT "
+"binding when STUN is being used"
+msgstr ""
+"Введите число секунд после которого Ekiga будет пытаться обновить таблицу "
+"NAT при использовании STUN"
+
+msgid "Enter your full name"
+msgstr "Введите полное имя"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error while accessing video device %s"
+msgstr "Не удалось получить доступ к устройство захвата видео %s"
+
+msgid "Error while initializing video output"
+msgstr "Ошибка инициализации системы вывода видео"
+
+msgid "Error while opening audio input device %s"
+msgstr "Не удалось открыть устройство ввода звука %s"
+
+msgid "Error while opening audio output device %s"
+msgstr "Ошибка открытия устройства вывода звука %s"
+
+msgid "Error while setting the frame rate."
+msgstr "Ошибка установки частоты кадров."
+
+msgid "Error while setting the frame size."
+msgstr "Ошибка установки размера кадра."
+
+msgid "Event"
+msgstr "Событие"
+
+msgid "Extended Video Roles"
+msgstr "Расширенные роли видео"
+
+msgid "Extended Video Roles:"
+msgstr "Расширенные роли видео:"
+
+msgid "Extension required"
+msgstr "Требуется дополнение URI"
+
+msgid "Failed"
+msgstr "Сбой"
+
+msgid "Family"
+msgstr "Семья"
+
+msgid "Find contacts"
+msgstr "Найти контакты"
+
+msgid "Forbid him/her to see my status"
+msgstr "Запретить ему/ей видеть свой статус"
+
+msgid "Forbidden, please check that username and password are correct"
+msgstr "Запрещено, проверьте правильность ввода имени и пароля"
+
+msgid "Force H.239 Live Role"
+msgstr "Включить роль Live (H.239)"
+
+msgid "Force H.239 Presentation Role"
+msgstr "Включить роль презентации (H.239)"
+
+msgid "Format:"
+msgstr "Формат:"
+
+msgid "Forward _URI:"
+msgstr "URI переадреса_ции:"
+
+msgid "Forward calls to host"
+msgstr "Перенаправлять вызовы на узел"
+
+msgid "Forward calls to the given host if _busy"
+msgstr "Перенапралять вызовы на указанный узел, если _занято"
+
+msgid "Forward calls to the given host if _no answer"
+msgstr "Перенаправлять вызовы на указанный узел, если _нет ответа"
+
+msgid "Forward calls to the given host if busy"
+msgstr "Перенаправлять вызовы на указанный узел, если линия занята"
+
+msgid "Forward calls to the given host if no answer"
+msgstr "Перенаправлять вызовы на указанный узел, если нет ответа"
+
+msgid "Frame Rate"
+msgstr "Частота кадров"
+
+msgid "Frame rate"
+msgstr "Частота кадров"
+
+msgid "Friend"
+msgstr "Друзья"
+
+msgid "Full Name"
+msgstr "Полное имя"
+
+msgid "Full name"
+msgstr "Полное имя"
+
+msgid "Gatekeeper:"
+msgstr "Узел gatekeeper:"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "General Settings"
+msgstr "Общие параметры"
+
+msgid "Get an Ekiga Call Out account"
+msgstr "Получить учётную запись Call Out для Ekiga"
+
+msgid "Get an Ekiga.net SIP account"
+msgstr "Получить учётную запись SIP на сервере Ekiga.net"
+
+msgid "Get help by reading the Ekiga manual"
+msgstr "Получить справку из руководства программы Ekiga"
+
+msgid "Globally not acceptable"
+msgstr "Недоступно везде"
+
+msgid "H.323 Settings"
+msgstr "Параметры H.323"
+
+msgid "H_old Call"
+msgstr "Уд_ерживать вызов"
+
+msgid "Hang up the current call"
+msgstr "Завершить текущий вызов"
+
+msgid "Hangup the current call"
+msgstr "Завершить текущий вызов"
+
+msgid "Here, a \"$\" is replaced by the search string"
+msgstr "Знак «$» заменяется строкой поиска"
+
+msgid "Hold the current call"
+msgstr "Удерживать текущий вызов"
+
+msgid "Holiday"
+msgstr "Выходные"
+
+msgid "I do not want to sign up for the Ekiga Call Out service"
+msgstr "Не подписываться на службу Ekiga Call Out"
+
+msgid "I do not want to sign up for the ekiga.net free service"
+msgstr "Я не хочу подписываться на бесплатный сервис ekiga.net"
+
+msgid "INFO"
+msgstr "INFO"
+
+msgid "IP Telephony, VoIP and Video Conferencing"
+msgstr "IP-телефония, VoIP и видеоконференции"
+
+msgid "ISDN"
+msgstr "ISDN"
+
+msgid "Identifier:"
+msgstr "Идентификатор:"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the field below"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на указанный ниже "
+"узел"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the field below if you already are in a call or if you are in "
+"busy mode"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на указанный ниже "
+"узел, если активен другой вызов (линия занята) или вы находитесь в режиме "
+"«Не беспокоить»"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the field below if you do not answer the call"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на указанный ниже "
+"узел, если вы не отвечаете на вызов"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the protocol settings"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на узел, указанный "
+"в параметрах протокола"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the protocol settings if you already are in a call or if you "
+"are in busy mode"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на указанный узел, "
+"указанный в параметрах протокола, если активен другой вызов (линия занята), "
+"или если вы находитесь в режиме «Не беспокоить»"
+
+msgid ""
+"If enabled, all incoming calls will be forwarded to the host that is "
+"specified in the protocol settings if you do not answer the call"
+msgstr ""
+"Если включено, все входящие вызовы будут перенаправляться на узел, указанный "
+"в параметрах протокола, если вы не отвечаете на вызов"
+
+msgid "If enabled, automatically answer incoming calls"
+msgstr "Если включено, автоматически принимать входящие звонки"
+
+msgid "If enabled, offline contacts will be shown in the roster"
+msgstr ""
+"Если включено, в списке контактов будут отображаться контакты не в сети"
+
+msgid "If enabled, use echo cancellation"
+msgstr "Если включено, используется подавление эха"
+
+msgid "If enabled, use silence detection with the codecs supporting it"
+msgstr ""
+"Использовать обнаружение молчания для поддерживающих эту функцию кодеков"
+
+msgid ""
+"If you do not have a SIP or H323 account, ekiga can only be used on your "
+"local internal network (inside your company, for example).  You will require "
+"an account if you want to be accessible to people on the Internet.  Many web "
+"sites allow you to create an account.  We suggest that you use a free ekiga."
+"net account, which allows you to be joined by any person with a SIP "
+"account.  If you want to call regular phone lines too, we suggest that you "
+"purchase an inexpensive call out account.\n"
+"\n"
+"The following two pages allow you to create such accounts."
+msgstr ""
+"Если у вас нет учётной записи SIP или H323, ekiga можно использовать только "
+"в локальной сети (например, внутри вашей компании). Чтобы другие "
+"пользователи могли общаться с вами по Интернету, необходимо завести учётную "
+"запись. Такую возможность предоставляют многие веб-сайты. Мы предполагаем, "
+"что вы используете бесплатную учётную запись ekiga.net, с помощью которой вы "
+"можете связаться с любым человеком, имеющим учётную запись SIP. Если вы "
+"хотите совершать звонки на обычные телефонные линии, мы предлагаем вам "
+"приобрести недорогую учётную запись.\n"
+"\n"
+"Следующие две страницы позволят вам создать такие учётные записи."
+
+msgid "Illegal status code"
+msgstr "Некорректный код состояния"
+
+msgid "In a call"
+msgstr "Разговор"
+
+msgid "In a call with %s"
+msgstr "Разговор с %s"
+
+msgid "In transit"
+msgstr "В пути"
+
+msgid "Incoming call"
+msgstr "Входящий вызов"
+
+msgid "Incoming call from %s"
+msgstr "Входящий вызов от %s"
+
+msgid "Input device:"
+msgstr "Устройство ввода:"
+
+msgid "Insufficient bandwidth"
+msgstr "Недостаточная полоса пропускания"
+
+msgid "Interact"
+msgstr "Взаимодействие"
+
+msgid "Internal server error"
+msgstr "Внутренняя ошибка сервера"
+
+msgid "Interval too brief"
+msgstr "Интервал слишком мал"
+
+msgid "Introduction to Accounts"
+msgstr "Введение в учётные записи"
+
+msgid "Invalid Server URI\n"
+msgstr "Неверный адрес сервера\n"
+
+msgid "Invalid address"
+msgstr "Неверный адрес"
+
+msgid "Invalid server data"
+msgstr "Данные сервера некорректны"
+
+msgid "Is a preferred contact"
+msgstr "Это предпочитаемый контакт"
+
+msgid "Join a discussion group"
+msgstr "Присоединиться к группе обсуждения"
+
+msgid "Keep current settings"
+msgstr "Сохранять текущие параметры"
+
+msgid "Kind of network selected in the assistant"
+msgstr "Тип сети, выбранный в мастере"
+
+msgid "LAN"
+msgstr "Локальная сеть"
+
+msgid "LDAP Error: "
+msgstr "Ошибка LDAP: "
+
+msgid "LDAP SASL Interaction"
+msgstr "Соединение с LDAP с помощью SASL"
+
+msgid "LDAP servers"
+msgstr "Сервера LDAP"
+
+msgid "Length required"
+msgstr "Требуется длина"
+
+msgid "List #%d"
+msgstr "Список №%d"
+
+msgid "List of configured LDAP servers"
+msgstr "Список настроенных серверов LDAP"
+
+msgid "List of folded groups in the roster"
+msgstr "Список свёрнутых групп в контактах"
+
+msgid "Listen port"
+msgstr "Слушать порт"
+
+msgid "Local roster"
+msgstr "Локальные контакты"
+
+msgid "Local user cleared the call"
+msgstr "Локальный пользователь прервал вызов"
+
+msgid "Local user is busy"
+msgstr "Локальный пользователь занят"
+
+msgid "Local user rejected the call"
+msgstr "Локальный пользователь отказался от вызова"
+
+msgid "Local video image"
+msgstr "Локальное видеоизображение"
+
+msgid "Looking for work"
+msgstr "Ищет работу"
+
+msgid "Loop detected"
+msgstr "Обнаружен цикл"
+
+msgid ""
+"Lost packets: %.1f %%\n"
+"Late packets: %.1f %%\n"
+"Out of order packets: %.1f %%\n"
+"Jitter buffer: %d ms\n"
+"Codecs: %s\n"
+"Resolution: %s %s"
+msgstr ""
+"Потеряно пакетов: %.1f %%\n"
+"Опоздавших пакетов:%.1f %% \n"
+"Пакетов вне последовательности: %.1f %%\n"
+"Буферизация джиттера: %d мс\n"
+"Кодеки: %s\n"
+"Разрешение: %s %s"
+
+msgid "Lunch"
+msgstr "Ланч"
+
+msgid "Makes Ekiga call the given URI"
+msgstr "Вызывать указанный URI с помощью Ekiga"
+
+msgid "Maximum RX video bitrate"
+msgstr "Максимальная скорость приёма видео"
+
+msgid "Maximum TX video bitrate"
+msgstr "Максимальная скорость отправки видео"
+
+msgid "Maximum _jitter buffer (in ms):"
+msgstr "Максимальная зад_ержка (в мс):"
+
+msgid "Maximum jitter buffer"
+msgstr "Максимальная задержка"
+
+msgid "Maximum video _bitrate (in kbits/s):"
+msgstr "Максимальная полоса пропускания _видео (в Кбит/с):"
+
+msgid "Meal"
+msgstr "Еда"
+
+msgid "Meeting"
+msgstr "Встреча"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Message too large"
+msgstr "Сообщение слишком велико"
+
+msgid "Method not allowed"
+msgstr "Метод запрещён"
+
+msgid "Misc Settings"
+msgstr "Различные параметры"
+
+msgid "Missed"
+msgstr "Пропущенные"
+
+msgid "Missed call"
+msgstr "Пропущенный вызов"
+
+msgid "Missed call from"
+msgstr "Пропущенный вызов от"
+
+msgid "Missed call from %s"
+msgstr "Пропущенный вызов от %s"
+
+msgid "Move selected codec priority downwards"
+msgstr "Переместить выделенный кодек в менее приоритетные"
+
+msgid "Move selected codec priority upwards"
+msgstr "Переместить выделенный кодек в более приоритетные"
+
+msgid "Moved permanently"
+msgstr "Перемещён"
+
+msgid "Moved temporarily"
+msgstr "Временно перемещён"
+
+msgid "Multiple choices"
+msgstr "Возможные варианты"
+
+msgid "NAT Binding Timeout"
+msgstr "Задержка таблицы NAT"
+
+msgid "NTSC (America)"
+msgstr "NTSC (Америка)"
+
+msgid "Name of LDAP server, prefixed by ldap://"
+msgstr "Имя сервера LDAP с приставкой ldap://"
+
+msgid "Name of the contact, as shown in your roster"
+msgstr "Имя контакта, указанное в вашем списке"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "Neighbours"
+msgstr "Соседи"
+
+msgid "Network Settings"
+msgstr "Параметры сети"
+
+msgid "New _Contact"
+msgstr "Новый _контакт"
+
+msgid "New device detected"
+msgstr "Найдено новое устройство"
+
+msgid "New resource list"
+msgstr "Новый список адресатов"
+
+msgid "No answer timeout"
+msgstr "Время ожидания ответа"
+
+msgid "No common codec"
+msgstr "Нет общего кодека"
+
+msgid "No device found"
+msgstr "Устройство не найдено"
+
+msgid "No incoming sound will be played."
+msgstr "Входящий звонок не будет слышен."
+
+msgid "No video will be displayed on your machine during this call"
+msgstr "При звонке не будет использовано видео на этой машине"
+
+msgid "Normal size"
+msgstr "Нормальный размер"
+
+msgid "Not acceptable"
+msgstr "Недопустимо"
+
+msgid "Not acceptable here"
+msgstr "Недопустим"
+
+msgid "Not found"
+msgstr "Не найден"
+
+msgid "Not implemented"
+msgstr "Не поддерживается"
+
+msgid "On the phone"
+msgstr "С телефона"
+
+msgid "Only silence will be transmitted."
+msgstr "Собеседники ничего не услышат."
+
+msgid "Open a group chat room"
+msgstr "Открыть комнату для группового чата"
+
+msgid "Open link in browser"
+msgstr "Открыть ссылку в браузере"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Other possible actions"
+msgstr "Другие возможные действия"
+
+msgid "Outbound Proxy"
+msgstr "Исходящий прокси"
+
+msgid "Output device:"
+msgstr "Устройство вывода:"
+
+msgid "PAL (Europe)"
+msgstr "PAL (Европа)"
+
+msgid "Password associated to the user"
+msgstr "Пароль пользователя"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Payment required"
+msgstr "Требуется оплата"
+
+msgid "Personal Data"
+msgstr "Личные сведения"
+
+msgid "Personal Information"
+msgstr "Личные сведения"
+
+msgid "Pick up the current call"
+msgstr "Ответить на текущий вызов"
+
+msgid "Picture quality"
+msgstr "Качество изображения"
+
+msgid "Place a new call"
+msgstr "Сделать новый вызов"
+
+msgid "Place windows displaying video _above other windows"
+msgstr "Помещать окна, отображающие видео, _над другими окнами"
+
+msgid "Place windows displaying video above other windows during calls"
+msgstr ""
+"Размещать окна, отображающие видео, над другими окнами во время вызовов"
+
+msgid "Placed"
+msgstr "Набранные"
+
+msgid "Play"
+msgstr "Воспроизвести"
+
+msgid "Play busy tone"
+msgstr "Воспроизводить сигнал «занято»"
+
+msgid "Play ring tone"
+msgstr "Воспроизводить мелодия звонка"
+
+msgid "Play sound for new instant messages"
+msgstr "Воспроизводить звук при получении сообщений"
+
+msgid "Play sound for new voice mails"
+msgstr "Воспроизводить звук при получении голосовой почты"
+
+msgid "Play sound on incoming calls"
+msgstr "Воспроизводить звук при входящем вызове"
+
+msgid "Play sound on new message"
+msgstr "Воспроизводить звук при получении сообщения"
+
+msgid "Play sound on new voice mail"
+msgstr "Воспроизводить звук при получении голосовой почты"
+
+msgid "Playing"
+msgstr "Играет"
+
+msgid "Please choose the audio input device:"
+msgstr "Выберите устройство ввода звука:"
+
+msgid "Please choose the audio output device:"
+msgstr "Выберите устройство вывода звука:"
+
+msgid "Please choose the audio ringing device:"
+msgstr "Выберите устройство для звонка::"
+
+msgid "Please choose your connection type:"
+msgstr "Выберите тип соединения:"
+
+msgid "Please choose your video input device:"
+msgstr "Выберите устройство захвата видео:"
+
+msgid "Please edit the following fields"
+msgstr "Заполните следующие поля"
+
+msgid "Please edit the following fields (no identifier means global)"
+msgstr ""
+"Заполните следующие поля (при отсутствии идентификатора изменяется всё)"
+
+msgid "Please edit this group name"
+msgstr "Задайте имя группы"
+
+msgid "Please enter your PIN code:"
+msgstr "Введите PIN-код:"
+
+msgid "Please enter your account ID:"
+msgstr "Введите идентификатор:"
+
+msgid "Please enter your first name and your surname:"
+msgstr "Укажите ваши имя и фамилию:"
+
+msgid "Please enter your password:"
+msgstr "Введите ваш пароль:"
+
+msgid "Please enter your username:"
+msgstr "Введите ваше имя пользователя:"
+
+msgid "Please fill in the following fields:"
+msgstr "Заполните следующие поля:"
+
+msgid ""
+"Please fill in this form to add a new contact list to ekiga's remote roster"
+msgstr "Заполните эту форму, чтобы создать новый контакт на сервере Ekiga"
+
+msgid ""
+"Please fill in this form to add a new contact to ekiga's internal roster"
+msgstr "Заполните эту форму, чтобы добавить новый контакт в локальный список"
+
+msgid "Please fill in this form to add a new element to the remote roster"
+msgstr ""
+"Заполните эту форму, чтобы создать новый элемент в контактах, расположенных "
+"удалённо"
+
+msgid ""
+"Please fill in this form to change an existing contact on a remote server"
+msgstr "Заполните эту форму, чтобы изменить существующий контакт на сервере"
+
+msgid ""
+"Please fill in this form to change an existing element of ekiga's internal "
+"roster"
+msgstr ""
+"Заполните эту форму для того, чтобы изменить существующий контакт локального "
+"списка"
+
+msgid ""
+"Please fill in this form to change an existing element of the remote roster"
+msgstr ""
+"Заполните эту форму для того, чтобы изменить существующий элемент списка, "
+"расположенного удалённо"
+
+msgid "Please fill in this form to create a new contact on a remote server"
+msgstr "Заполните эту форму, чтобы создать новый контакт на сервере"
+
+msgid "Please provide a Book Name for this directory\n"
+msgstr "Укажите имя книги для этого каталога\n"
+
+msgid "Please provide a Call attribute\n"
+msgstr "Укажите атрибут вызова\n"
+
+msgid "Please provide a DisplayName attribute\n"
+msgstr "Укажите атрибут DisplayName\n"
+
+msgid "Please provide a Server URI\n"
+msgstr "Укажите адрес сервера\n"
+
+msgid "Please provide a room name"
+msgstr "Укажите название комнаты"
+
+msgid "Please update the following fields:"
+msgstr "Заполните следующие поля:"
+
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Position on the screen of the address book window"
+msgstr "Положение окна адресной книги"
+
+msgid "Position on the screen of the audio settings window"
+msgstr "Положение окна настройки параметров звука"
+
+msgid "Position on the screen of the call window"
+msgstr "Положение на экране окна вызова"
+
+msgid "Position on the screen of the chat window"
+msgstr "Положение окна текстового диалога"
+
+msgid "Position on the screen of the druid window"
+msgstr "Положение окна мастера"
+
+msgid "Position on the screen of the main window"
+msgstr "Положение основного окна"
+
+msgid "Position on the screen of the preferences window"
+msgstr "Положение окна параметров"
+
+msgid "Position on the screen of the video settings window"
+msgstr "Положение окна настройки параметров видео"
+
+msgid "Presence"
+msgstr "Присутствие"
+
+msgid "Prints debug messages in the console (level between 1 and 8)"
+msgstr "Выводить отладочные сообщения на консоль (уровень между 1 и 8)"
+
+msgid "Processing..."
+msgstr "Обработка…"
+
+msgid "Protocols"
+msgstr "Протоколы"
+
+msgid "Proxy authentication required"
+msgstr "Требуется проверка подлинности на прокси-сервере"
+
+msgid "Pseudonym"
+msgstr "Псевдоним"
+
+msgid "Put contact in groups:"
+msgstr "Поместить контакт в группы:"
+
+msgid "Q.931"
+msgstr "Q.931"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "RFC2833"
+msgstr "RFC2823"
+
+msgid "RX: %dx%d"
+msgstr "Приём: %dx%d"
+
+msgid "RX: / "
+msgstr "Приём: / "
+
+msgid "Read"
+msgstr "Прочитать"
+
+msgid "Received"
+msgstr "Принятые"
+
+msgid "Recharge the account"
+msgstr "Оплатить услугу"
+
+msgid "Refreshing"
+msgstr "Обновление"
+
+msgid "Registered"
+msgstr "Зарегистрирован"
+
+msgid "Registrar:"
+msgstr "Регистратор:"
+
+msgid "Reject"
+msgstr "Отклонить"
+
+msgid "Remote URI:"
+msgstr "Удалённый URI:"
+
+msgid "Remote host is offline"
+msgstr "Удалённый узел отключён"
+
+msgid "Remote party host is offline"
+msgstr "Удалённый узел выключен"
+
+msgid "Remote user cleared the call"
+msgstr "Удаленный пользователь прервал вызов"
+
+msgid "Remote user has stopped calling"
+msgstr "Удаленный пользователь прекратил вызывать"
+
+msgid "Remote user is busy"
+msgstr "Удалённый пользователь занят"
+
+msgid "Remote user rejected the call"
+msgstr "Удаленный пользователь отказался от вызова"
+
+msgid "Remote video image"
+msgstr "Удалённое видеоизображение"
+
+msgid "Remote video window position"
+msgstr "Положение окна удалённого видео"
+
+msgid "Remote video window size"
+msgstr "Размер окна удалённого видео"
+
+msgid "Remove contact"
+msgstr "Удалить контакт"
+
+msgid "Rename"
+msgstr "Переименовать"
+
+msgid "Rename group"
+msgstr "Переименовать группу"
+
+msgid "Request URI too long"
+msgstr "URI запроса слишком длинное"
+
+msgid "Request entity too big"
+msgstr "Запрос слишком велик"
+
+msgid "Request pending"
+msgstr "Запрос обработан"
+
+msgid "Request terminated"
+msgstr "Запрос отклонён"
+
+msgid "Resource:"
+msgstr "Ресурс:"
+
+msgid "Resume _Audio"
+msgstr "Возобновить передачу _звука"
+
+msgid "Resume _Video"
+msgstr "Возобновить передачу _видео"
+
+msgid "Ringing device:"
+msgstr "Устройство звонка:"
+
+msgid "Room name"
+msgstr "Название комнаты"
+
+msgid "Run the configuration assistant"
+msgstr "Запустить мастер первоначальной настройки"
+
+msgid "SASL _mechanism"
+msgstr "_Механизм SASL"
+
+msgid "SECAM (France)"
+msgstr "SECAM (Франция)"
+
+msgid "SIP Settings"
+msgstr "Параметры SIP"
+
+msgid "SIP URI"
+msgstr "SIP URI"
+
+msgid "SIP version not supported"
+msgstr "Версия SIP не поддерживается"
+
+msgid "Screencast"
+msgstr "Трансляция экрана"
+
+msgid "Security check failed"
+msgstr "Сбой проверки безопасности"
+
+msgid "See AUTHORS file for full credits"
+msgstr "Полный список авторов находится в файле AUTHORS"
+
+msgid "Select an alternative audio output device to use for sound events."
+msgstr ""
+"Выберите альтернативное устройство вывода звука для воспроизведения звуковых "
+"событий."
+
+msgid "Select the H.239 Video Role"
+msgstr "Выберите роль видео H.239"
+
+msgid ""
+"Select the H.239 Video Role. The values can be 0 (for \"disable extended "
+"video\"), 1 (for \"allow per content role mask\"), 2 (for \"force "
+"presentation\"), or 3 (for \"force live role\")"
+msgstr ""
+"Выберите роль видео H.239. Возможные значения: «0» (отключить расширенное "
+"видео), «1» (разрешить маскирование), «2» (включить презентацию), или "
+"«3» (включить роль live)"
+
+msgid "Select the audio input device to use"
+msgstr "Выберите устройство ввода звука"
+
+msgid "Select the audio output device to use"
+msgstr "Выберите устройство вывода звука"
+
+msgid ""
+"Select the format for video cameras (does not apply to most USB cameras)"
+msgstr ""
+"Выберите формат для видеокамер (не применимо к большинству видеокамер USB)"
+
+msgid "Select the mode for DTMFs sending"
+msgstr "Выбрать режим для отправки сигналов DTMF"
+
+msgid ""
+"Select the mode for sending DTMFs. The values can be 0 (for \"RFC2833\") and "
+"1 (for \"INFO\")"
+msgstr ""
+"Выберите режим отправки DTMF. Допустимые значения: «RFC2833» (0), «INFO» (1)"
+
+msgid ""
+"Select the mode for sending DTMFs. The values can be 0 (for \"String\"), 1 "
+"(for \"Tone\"), 2 (for \"RFC2833\"), or 3 (for \"Q.931\") (default is "
+"\"String\"). Choosing other values than \"String\" disables the Text Chat."
+msgstr ""
+"Выберите режим отправки DTMF. Допустимые значения: «Строка» (0), «Тон» (1), "
+"«RFC2833» (2), «Q.931» (3) (по умолчанию — «Строка»). Выбор любого значения, "
+"отличного от «Строка», отключает обмен текстом."
+
+msgid "Select the ringing audio device to use"
+msgstr "Выберите устройство звонка"
+
+msgid "Select the transmitted video size"
+msgstr "Выберите размер передаваемого видео"
+
+msgid ""
+"Select the transmitted video size: Small (QCIF 176x144) or Large (CIF "
+"352x288)"
+msgstr ""
+"Выберите размер передаваемого видео: маленький (QCIF 176x144) или большой "
+"(CIF 352x288)"
+
+msgid ""
+"Select the video input device to use. If an error occurs when using this "
+"device a test picture will be transmitted."
+msgstr ""
+"Выберите используемое устройство захвата видео. Если при использовании этого "
+"устройства произойдет ошибка, будет передаваться тестовое изображение."
+
+msgid "Self"
+msgstr "Свои"
+
+msgid "Server _URI:"
+msgstr "_URI сервера:"
+
+msgid "Server password:"
+msgstr "Пароль на сервере:"
+
+msgid "Server timeout"
+msgstr "Превышено время ожидания"
+
+msgid "Server username:"
+msgstr "Имя пользователя на сервере:"
+
+msgid "Server:"
+msgstr "Сервер:"
+
+msgid "Service unavailable"
+msgstr "Служба недоступна"
+
+msgid "Services"
+msgstr "Службы"
+
+msgid "Settings"
+msgstr "Параметры"
+
+msgid "Shopping"
+msgstr "Покупки"
+
+msgid "Show Offline _Contacts"
+msgstr "Показывать контакты _вне сети"
+
+msgid "Show offline contacts"
+msgstr "Показывать контакты не в сети"
+
+msgid "Silent"
+msgstr "Тишина"
+
+msgid "Single level"
+msgstr "Один уровень"
+
+msgid "Size of the address book window"
+msgstr "Размер окна адресной книги"
+
+msgid "Size of the audio settings window"
+msgstr "Размер окна параметров звука"
+
+msgid "Size of the call window"
+msgstr "Размер окна вызова"
+
+msgid "Size of the chat window"
+msgstr "Размер окна текстового диалога"
+
+msgid "Size of the druid window"
+msgstr "Размер окна мастера"
+
+msgid "Size of the preferences window"
+msgstr "Размер окна параметров"
+
+msgid "Size of the video settings window"
+msgstr "Размер окна параметров видео"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Sleeping"
+msgstr "Спит"
+
+msgid "Sound Events"
+msgstr "Звуковые события"
+
+msgid "Specify the software scaling algorithm"
+msgstr "Алгоритм программного масштабирования видео"
+
+msgid ""
+"Specify the software scaling algorithm: 0: nearest neighbor, 1: nearest "
+"neighbor with box filter, 2: bilinear filtering, 3: hyperbolic filtering. "
+"Does not apply on windows systems."
+msgstr ""
+"Алгоритм программного масштабирования видео: 0: по ближайшему соседнему, 1: "
+"по ближайшему соседнему с прямоугольным фильтром, 2: билинейная фильтрация, "
+"3: гиперболическая фильтрация. Этот параметр не используется в системе "
+"Windows."
+
+msgid "Standby"
+msgstr "Ожидание"
+
+msgid "Start chat"
+msgstr "Начать беседу"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Stop getting his/her status"
+msgstr "Остановить получение его/её статуса"
+
+msgid "String"
+msgstr "Строка"
+
+msgid "Subtree"
+msgstr "Поддерево"
+
+msgid "Supervisor"
+msgstr "Начальники"
+
+msgid "Suspend _Audio"
+msgstr "Приостановить передачу _звука"
+
+msgid "Suspend _Video"
+msgstr "Приостановить передачу _видео"
+
+msgid "Suspend or resume the audio transmission"
+msgstr "Приостановить или возобновить передачу звука"
+
+msgid "Suspend or resume the video transmission"
+msgstr "Приостановить или возобновить передачу изображения"
+
+msgid "Switch to fullscreen"
+msgstr "Переключиться в полный экран"
+
+msgid "TCP port range"
+msgstr "Диапазон портов TCP"
+
+msgid "TX: %dx%d"
+msgstr "Передача: %dx%d"
+
+msgid "TX: / "
+msgstr "Передача: / "
+
+msgid "Talk to and see people over the Internet"
+msgstr "Живое общение (голос и видео) по Интернету"
+
+msgid "Temporal Spatial Trade Off"
+msgstr "Предпочтения по оптимизации пропускной способности"
+
+msgid "Temporarily unavailable"
+msgstr "Временно недоступно"
+
+msgid "The Audio Codecs List"
+msgstr "Список звуковых кодеков"
+
+msgid "The Gatekeeper cleared the call"
+msgstr "Узел gatekeeper прервал вызов"
+
+msgid "The SIP Outbound Proxy to use for outgoing calls"
+msgstr "Исходящий прокси-сервер для SIP"
+
+msgid "The STUN Server"
+msgstr "Сервер STUN"
+
+msgid ""
+"The STUN server to use for STUN Support. STUN is a technology that permits "
+"passage through some types of NAT gateway"
+msgstr ""
+"Сервер, используемый для поддержки STUN. STUN — это технология, которая "
+"позволяет проходить через некоторые типы шлюзов с трансляцией адресов."
+
+msgid ""
+"The Type of Service (TOS) byte on outgoing RTP IP packets. This byte is used "
+"by the network to provide some level of Quality of Service (QoS). Default "
+"value 184 (0xB8) correspond to Expedited Forwarding (EF) PHB as defined in "
+"RFC 3246."
+msgstr ""
+"Байт типа обслуживания исходящих пакетов RTP IP. Этот байт используется "
+"сетью для обеспечения некоторого качества обслуживания (QoS). Значение по "
+"умолчанию — 184 (0xB8); что соответствует Expedited Forwarding (EF) PHB по "
+"определению RFC 3246."
+
+msgid "The accounts list"
+msgstr "Список учётных записей"
+
+msgid "The audio codecs list"
+msgstr "Список звуковых кодеков"
+
+msgid ""
+"The audio input device is the device that will be used to record your voice "
+"during calls."
+msgstr ""
+"Устройство ввода звука будет использоваться для записи голоса во время "
+"звонков."
+
+msgid ""
+"The audio output device is the device that will be used to play audio during "
+"calls."
+msgstr ""
+"Устройство вывода звука будет использоваться для вывода звука во время "
+"разговора."
+
+msgid ""
+"The audio ringing device is the device that will be used to play the ringing "
+"sound on incoming calls."
+msgstr ""
+"Устройство звонка будет использовано для вывода уведомления о входящих "
+"звонках."
+
+msgid "The busy tone sound"
+msgstr "Звук сигнала «занято»"
+
+msgid ""
+"The chosen sound will be played at the end of calls or calling somebody who "
+"is busy, if enabled"
+msgstr ""
+"Этот звук будет воспроизводиться при завершении вызова или если вызываемый "
+"абонент занят"
+
+msgid "The chosen sound will be played on incoming calls, if enabled"
+msgstr "Этот звук будет воспроизводиться при поступлении входящего вызова"
+
+msgid ""
+"The chosen sound will be played when a new instant message is received, if "
+"enabled"
+msgstr "Этот звук будет воспроизводиться при получении нового сообщения"
+
+msgid ""
+"The chosen sound will be played when a new voice mail is received, if enabled"
+msgstr ""
+"Этот звук будет воспроизводиться при получении нового голосового сообщения"
+
+msgid "The chosen sound will be played when calling somebody, if enabled"
+msgstr "Этот звук будет воспроизводиться при вызове кого-либо"
+
+msgid ""
+"The connection type will permit determining the best quality settings that "
+"Ekiga will use during calls. You can later change the settings individually "
+"in the preferences window."
+msgstr ""
+"Тип соединения позволит определить лучшие параметры качества, которые Ekiga "
+"будет использовать в процессе вызовов. Вы сможете изменить эти параметры "
+"позже в меню настройки."
+
+msgid "The default video view"
+msgstr "Видео по умолчанию"
+
+msgid ""
+"The default video view (0: Local, 1: Remote, 2: Both, 3: Both in a separate "
+"window)"
+msgstr ""
+"Режим видео по умолчанию («0» — локальное, «1» — удалённое, «2» — оба, «3» — "
+"оба в отдельном окне)"
+
+msgid "The dial tone sound"
+msgstr "Звук сигнала длинного гудка"
+
+msgid "The field you are searching for"
+msgstr "Поле, которое вы ищете"
+
+msgid "The gatekeeper, e.g. ekiga.net"
+msgstr "Привратник, например ekiga.net"
+
+msgid "The history of the 100 last calls"
+msgstr "История 100 последних звонков"
+
+msgid "The host where calls should be forwarded if call forwarding is enabled"
+msgstr ""
+"Узел, на который должны перенаправляться вызовы когда включена переадресация"
+
+msgid "The incoming call sound"
+msgstr "Звук входящего вызова"
+
+msgid "The list of accounts to which Ekiga should register"
+msgstr "Список учётных записей используемых Ekiga для регистрации"
+
+msgid "The long status information"
+msgstr "Расширенная информация о состоянии"
+
+msgid ""
+"The maximum RX video bitrate in kbit/s. This value will be signaled to the "
+"peer endpoint that can adjust (if it supports it) its TX bitrate if it is "
+"above the signaled value"
+msgstr ""
+"Максимальная полоса приёма видео в килобит/сек. Это значение будет передано "
+"на удалённый узел, который в некоторых случаях может изменить свою скорость "
+"передачи видео."
+
+msgid ""
+"The maximum TX video bitrate in kbit/s. The video quality and the number of "
+"transmitted frames per second (depends on selected codec) will be "
+"dynamically adjusted above their minimum during calls to try to minimize the "
+"bandwidth to the given value"
+msgstr ""
+"Максимальная полоса передачи видео в килобит/сек. Качество передачи видео и "
+"количество передаваемых в секунду кадров (зависящих от выбранного кодека) "
+"будут автоматически подстраиваться в время звонков таким образом, чтобы "
+"минимизировать полосу пропускания видео до указанного значения"
+
+msgid "The maximum jitter buffer size for audio reception (in ms)"
+msgstr "Максимальный размер буфера принимаемого звука (в мс)"
+
+msgid ""
+"The maximum transmitted frame rate in frames/s. This rate may not be reached "
+"in case a minimum quality was configure via a TSTO value smaller than 31 and "
+"the bitrate selected is not sufficient to support this minimum quality"
+msgstr ""
+"Максимальная частота передачи кадров в секунду. Эта частота может не "
+"достигаться в случае, если предпочтение отдано качеству изображения с "
+"помощью настройки значения TSTO более 31, и выбранная полоса пропускания "
+"недостаточна для поддержки минимального требуемого качества."
+
+msgid ""
+"The maximum video bitrate in kbits/s. The video quality and the effective "
+"frame rate will be dynamically adjusted to keep the bitrate at the given "
+"value."
+msgstr ""
+"Максимальная полоса передачи видео в Кбит/с. Качество передачи видео и "
+"количество передаваемых в секунду кадров будут автоматически подстраиваться "
+"таким образом, чтобы минимизировать полосу пропускания видео до указанного "
+"значения."
+
+msgid "The name of the room you want to enter"
+msgstr "Имя комнаты, в которую хотите войти"
+
+msgid "The new instant message sound"
+msgstr "Звук нового сообщения"
+
+msgid "The new voice mail sound"
+msgstr "Звук нового голосового сообщения"
+
+msgid "The password for the user ID above, if any"
+msgstr "Пароль для идентификатора пользователя (если необходимо)"
+
+msgid ""
+"The port to listen to for incoming connections. Ekiga needs to be restarted "
+"for the new value to take effect"
+msgstr ""
+"Порт для приёма входящих соединений. Чтобы изменение вступило в силу, "
+"необходимо перезапустить Ekiga."
+
+msgid ""
+"The port to listen to for incoming connections. Ekiga needs to be restarted "
+"for the new value to take effect."
+msgstr ""
+"Порт для приёма входящих соединений. Чтобы изменение вступило в силу, "
+"необходимо перезапустить Ekiga."
+
+msgid "The position of the remote video window"
+msgstr "Положение окна удаленного видео"
+
+msgid "The pseudonym you'll have in the room"
+msgstr "Псевдоним, под которым хотите находиться в комнате"
+
+msgid ""
+"The range of TCP ports that Ekiga will use for the H.323 H.245 channel. This "
+"port range has no effect if both participants to the conference are using "
+"H.245 Tunneling."
+msgstr ""
+"Диапазон портов TCP, который Ekiga будет использовать для каналов H.245 "
+"протокола H.323. Чтобы это изменение вступило в силу, необходимо "
+"перезапустить Ekiga. Этот параметр не действует, если оба участника "
+"используют туннелирование H.245."
+
+msgid "The range of UDP ports that Ekiga will use."
+msgstr "Используемый диапазон портов UDP."
+
+msgid "The registrar, e.g. ekiga.net"
+msgstr "Регистратор, например ekiga.net"
+
+msgid ""
+"The resource, such as home or work, allowing to distinguish among several "
+"terminals registered to the same account; leave empty if you do not know "
+"what it is"
+msgstr ""
+"Ресурс («дом» или «работа»), позволяет работать с одной и той же учётной "
+"записью через несколько терминалов; если вы не знаете, что это такое, "
+"оставьте это поле пустым."
+
+msgid ""
+"The selected audio device was successfully opened but it is impossible to "
+"read data from this device. In case it is a pluggable device it may be "
+"sufficient to reconnect it. If not, or if it still is not accessible, please "
+"check your audio setup."
+msgstr ""
+"Выбранное устройство звука открыто, но не удалось начать запись. Если "
+"устройство подключаемое, его повторное подключение может помочь решить "
+"проблему. В противном случае проверьте настройки звука."
+
+msgid ""
+"The selected audio device was successfully opened but it is impossible to "
+"write data to this device. In case it is a pluggable device it may be "
+"sufficient to reconnect it. If not, or if it still is not accessible, please "
+"check your audio setup."
+msgstr ""
+"Выбранное устройство звука было открыто, но начать воспроизведение не "
+"удалось. Если устройство подключаемое, его повторное подключение может "
+"помочь решить проблему. В противном случае проверьте настройки звука."
+
+msgid "The server, e.g. jabber.org"
+msgstr "Сервер, например, jabber.org"
+
+msgid "The short status information"
+msgstr "Краткая информация о состоянии"
+
+msgid "The size of the remote video window"
+msgstr "Размер окна удалённого видео"
+
+msgid ""
+"The sound that will be played at the end of calls or when calling somebody "
+"who is busy, if enabled"
+msgstr ""
+"Этот звук будет воспроизводиться в конце вызовов или при вызове кого-то, кто "
+"занят"
+
+msgid "The sound that will be played on incoming calls, if enabled"
+msgstr "Этот звук будет воспроизводиться при получении входящего вызова"
+
+msgid "The sound that will be played when calling somebody, if enabled"
+msgstr "Этот звук будет воспроизводиться при вызове кого-либо"
+
+msgid ""
+"The sound that will be played when there is a new instant message, if enabled"
+msgstr "Этот звук будет воспроизводиться при наличии нового сообщения"
+
+msgid ""
+"The sound that will be played when there is a new voice mail, if enabled"
+msgstr ""
+"Этот звук будет воспроизводиться при наличии нового голосового сообщения"
+
+msgid "The timeout should be at least 10 seconds."
+msgstr "Задержка должна быть не менее 10 секунд."
+
+msgid "The transport protocol port, if different than the default"
+msgstr ""
+"Порт транспортного протокола, если отличается от используемого по умолчанию"
+
+msgid ""
+"The user name used during authentication, if different than the user name; "
+"leave empty if you do not have one"
+msgstr ""
+"Имя пользователя, использующееся во время аутентификации (если отличается от "
+"обычного имени пользователя, в противном случае оставьте пустым). "
+
+msgid "The user name, e.g. jim"
+msgstr "Имя пользователя, например jim"
+
+msgid ""
+"The username and password are used to login to your existing account at the "
+"ekiga.net free SIP service. If you do not have an ekiga.net SIP address yet, "
+"you may first create an account below. This will provide a SIP address that "
+"allows people to call you.\n"
+"\n"
+"You may skip this step if you use an alternative SIP service, or if you "
+"would prefer to specify the login details later."
+msgstr ""
+"Имя пользователя и пароль, используемые для подключения к вашей существующей "
+"учетной записи на бесплатной службе SIP ekiga.net. Если у вас еще нет "
+"учетной записи ekiga.net, вы можете получить ее по указанной ниже ссылке. "
+"Вам будет предоставлен адрес SIP, который даст другим людям возможность "
+"вызывать вас.\n"
+"\n"
+"Вы можете пропустить этот шаг, если вы используете альтернативную службу "
+"SIP, или если вы предпочитаете указать параметры для подключения позже."
+
+msgid "The video channel number to use (to select camera, tv or other sources)"
+msgstr "Номер используемого видеоканала (камера, ТВ или другой источник)"
+
+msgid "The video codecs list"
+msgstr "Список видео кодеков"
+
+msgid ""
+"The video input device is the device that will be used to capture video "
+"during calls."
+msgstr ""
+"Устройство захвата видео будет использовано для ввода изображения во время "
+"звонков."
+
+msgid "The video view before having switched to fullscreen"
+msgstr "Режим видео перед переключением в полноэкранный режим"
+
+msgid ""
+"The video view before having switched to fullscreen (same values as "
+"video_view)"
+msgstr ""
+"Режим видео перед переключением в полноэкранный режим (варианты такие же, "
+"как в ключе video_view)"
+
+msgid "The zoom value"
+msgstr "Кратность увеличения"
+
+msgid ""
+"The zoom value in percent to apply to images displayed in the main GUI (can "
+"be 50, 100, or 200)"
+msgstr ""
+"Кратность увеличения, применяемого к изображениям в основном интерфейсе "
+"(может быть 0.50, 1.00 или 2.00)"
+
+msgid ""
+"There was an error opening or initializing the video output. Please verify "
+"that no other application is using the accelerated video output."
+msgstr ""
+"Во время инициализации системы вывода видео возникла ошибка. Проверьте, что "
+"другое приложение не использует аппаратное ускорение вывода видео."
+
+msgid ""
+"There was an error opening or initializing the video output. Please verify "
+"that you are using a color depth of 24 or 32 bits per pixel."
+msgstr ""
+"Во время инициализации системы вывода видео возникла ошибка. Проверьте, что "
+"используется глубина цвета 24 или 32 бита."
+
+msgid ""
+"There was an error while opening the device. In case it is a pluggable "
+"device it may be sufficient to reconnect it. If not, or if it still is not "
+"accessible, please check your permissions and make sure that the appropriate "
+"driver is loaded."
+msgstr ""
+"При открытии устройства произошла ошибка. Если устройство подключаемое, его "
+"повторное подключение может помочь решить проблему. В противном случае "
+"проверьте права доступа к устройству и работу драйвера."
+
+msgid "This enables H.239 capability for additional video roles"
+msgstr "Включает возможности H.239 для дополнительных ролей видео"
+
+msgid "This enables H.239 capability for additional video roles."
+msgstr "Включает возможности H.239 для дополнительных ролей видео."
+
+msgid ""
+"This enables H.245 Tunneling mode. In H.245 Tunneling mode H.245 messages "
+"are encapsulated into the H.225 channel (port 1720). This saves one TCP "
+"connection during calls. H.245 Tunneling was introduced in H.323v2 and "
+"Netmeeting does not support it. Using both Fast Start and H.245 Tunneling "
+"can crash some versions of Netmeeting."
+msgstr ""
+"Включает режим туннелирования H.245. В этом режиме сообщения H.245 "
+"встраиваются в канал H.225 (порт 1270). Это позволяет не создавать ещё одно "
+"TCP соединение при вызовах. Туннелирование H.245 было представлено в "
+"H.323v2. Оно не поддерживается Netmeeting, и одновременное использование "
+"быстрого старта и туннелирования H.245 может привести к сбою в некоторых "
+"версиях Netmeeting."
+
+msgid "This enables H.245 early in the setup"
+msgstr "Включает H.245 на ранней стадии соединения"
+
+msgid ""
+"This is the Ekiga general configuration assistant. The following steps will "
+"set up Ekiga by asking a few simple questions.\n"
+"\n"
+"Once you have completed these steps, you can always change them later by "
+"selecting Preferences in the Edit menu."
+msgstr ""
+"Добро пожаловать в Мастер общей настройки Ekiga. Вы сможете настроить Ekiga,"
+"ответив на несколько несложных вопросов.\n"
+"\n"
+"Изменить сделанные Мастером настройки после завершения его работы можно при "
+"помощи пункта \"Параметры\" в меню \"Правка\"."
+
+msgid ""
+"This key disables DirectX (on win32) and XVideo (on Linux) video hardware "
+"acceleration"
+msgstr ""
+"Выключает аппаратное ускорение DirectX (в системе Windows) и XVideo (в Linux)"
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for "
+"more details. You should have received a copy of the GNU General Public "
+"License along with this program; if not, write to the Free Software "
+"Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+"Это приложение распространяется в надежде на то, что приложение будет "
+"полезно, но БЕЗ ВСЯКИХ ГАРАНТИЙ; не гарантируется даже ПРИГОДНОСТЬ или "
+"СООТВЕТСТВИЕ КАКИМ-ЛИБО ТРЕБОВАНИЯМ. Для получения дополнительной информации "
+"ознакомьтесь с GNU General Public License. Вы должны получить копию GNU "
+"General Public License вместе с приложением. Если этого не произошло, "
+"напишите to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, "
+"Boston, MA 02111-1307, USA."
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 2 of the License, or (at your option) "
+"any later version. "
+msgstr ""
+"Это приложение ― свободное программное обеспечение. Вы можете распространять "
+"или изменять его при условиях соответствия GNU General Public License "
+"опубликованной Free Software Foundation; либо версии 2 лицензии, либо (на "
+"ваше усмотрение) любой более поздней версии."
+
+msgid ""
+"Time in seconds after which the account registration is automatically retried"
+msgstr ""
+"Время в секундах, по истечении которого повторяется попытка регистрация уч. "
+"записи"
+
+msgid "Timeout"
+msgstr "Время истекло"
+
+msgid "Timeout to reject or forward unanswered incoming calls (in seconds):"
+msgstr ""
+"Отклонять или перенаправлять неотвеченные входящие звонки после (в сек):"
+
+msgid "Timeout:"
+msgstr "Задержка:"
+
+msgid "Tone"
+msgstr "Тон"
+
+msgid "Too many hops"
+msgstr "Слишком много узлов коммутации"
+
+msgid "Transfer"
+msgstr "Передача"
+
+msgid "Transfer call to:"
+msgstr "Переадресовать вызов на:"
+
+msgid "Transfer the current call"
+msgstr "Переадресовать текущий вызов"
+
+msgid "Transport error"
+msgstr "Ошибка связи"
+
+msgid "Type of Service (TOS) byte on outgoing RTP IP packets"
+msgstr "Байт типа обслуживания исходящих пакетов RTP IP"
+
+msgid "UDP port range"
+msgstr "Диапазон портов UDP"
+
+msgid "Unable to open help file."
+msgstr "Не удалось открыть файл справки."
+
+msgid ""
+"Unable to open the selected audio device for playing. In case it is a "
+"pluggable device it may be sufficient to reconnect it. If not, or if it "
+"still is not accessible, please check your audio setup, the permissions and "
+"that the device is not busy."
+msgstr ""
+"Не удалось открыть выбранное звуковое устройство для воспроизведения звука. "
+"Если устройство подключаемое, его повторное подключение может помочь решить "
+"проблему. В противном случае проверьте настройки звука, права доступа к "
+"устройству и убедитесь, что другие приложения не занимают устройство."
+
+msgid ""
+"Unable to open the selected audio device for recording. In case it is a "
+"pluggable device it may be sufficient to reconnect it. If not, or if it "
+"still is not accessible, please check your audio setup, the permissions and "
+"that the device is not busy."
+msgstr ""
+"Не удалось открыть выбранное звуковое устройство для записи звука. Если "
+"устройство подключаемое, его повторное подключение может помочь решить "
+"проблему. В противном случае проверьте настройки звука, права доступа к "
+"устройству и убедитесь, что другие приложения не занимают устройство."
+
+msgid "Unauthorized"
+msgstr "Не разрешено"
+
+msgid "Undecipherable"
+msgstr "Не поддаётся анализу"
+
+msgid "Unknown"
+msgstr "Неизвестный"
+
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+msgid "Unnamed"
+msgstr "Неизвестный"
+
+msgid "Unregistered"
+msgstr "Отключён"
+
+msgid "Unsorted"
+msgstr "Неупорядоченный"
+
+msgid "Unsupported URI scheme"
+msgstr "Схема URI не поддерживается"
+
+msgid "Unsupported media type"
+msgstr "Способ передачи не поддерживается"
+
+msgid "Use SASL"
+msgstr "Использовать SASL"
+
+msgid "Use TLS"
+msgstr "Использовать TLS"
+
+msgid "Use it"
+msgstr "Использовать"
+
+msgid "Use proxy"
+msgstr "Использовать прокси"
+
+msgid "User ID; leave blank for anonymous / nonauthenticated"
+msgstr ""
+"Идентификатор пользователя. Для анонимного пользователя оставьте пустым"
+
+msgid "User is not available"
+msgstr "Пользователь недоступен"
+
+msgid "User not found"
+msgstr "Пользователь не найден"
+
+msgid "User:"
+msgstr "Пользователь:"
+
+msgid "Username:"
+msgstr "Пользователь:"
+
+msgid "Video"
+msgstr "Видео"
+
+msgid "Video Conference"
+msgstr "Видеоконференция"
+
+msgid "Video Devices"
+msgstr "Видеоустройства"
+
+msgid "Video Display"
+msgstr "Отображение видео"
+
+msgid "Video Input Device"
+msgstr "Устройство захвата видео"
+
+msgid "Video Settings"
+msgstr "Параметры _видео"
+
+msgid "Video channel"
+msgstr "Канал видео"
+
+msgid "Video format"
+msgstr "Формат видео"
+
+msgid "Video input device"
+msgstr "Устройство захвата видео"
+
+msgid "Video preview"
+msgstr "Образец видео"
+
+msgid "Video size"
+msgstr "Размер видео"
+
+msgid "Video test"
+msgstr "Проверка видео"
+
+msgid "View information about Ekiga"
+msgstr "Показать информацию о программе Ekiga"
+
+msgid "View the call history"
+msgstr "Показать журнал вызовов"
+
+msgid "View the contacts list"
+msgstr "Показать список контактов"
+
+msgid "View the dialpad"
+msgstr "Показать номеронабиратель"
+
+msgid "VoIP _URI:"
+msgstr "VoIP _URI:"
+
+msgid "Waiting for search results"
+msgstr "Ожидание результатов поиска"
+
+msgid "Wavefiles"
+msgstr "Звуковые файлы"
+
+msgid "Welcome to Ekiga"
+msgstr "Ekiga"
+
+msgid ""
+"Whether to prefer to sustain the max. frame rate or lower it possibly in "
+"order to keep a minimum level of (spatial) quality for all frames. 0: "
+"Highest minimal quality, 31: lowest minimal quality"
+msgstr ""
+"Предпочитать ли поддерживать максимальную частоту кадров или снижать её для "
+"того, чтобы обеспечить качество изображения для всех кадров. Значения в "
+"диапазоне: 0: обеспечивать наивысшее качество изображения, 31: предпочитать "
+"частоту кадров."
+
+msgid "Working"
+msgstr "За работой"
+
+msgid "Writable:"
+msgstr "Записываемый:"
+
+msgid "You already have a contact with this address!"
+msgstr "Уже есть контакт с этим адресом!"
+
+msgid ""
+"You can make calls to regular phones and cell numbers worldwide using Ekiga. "
+"To enable this, you need to do two things:\n"
+"- First buy an account at the URL below.\n"
+"- Then enter your account ID and PIN code.\n"
+"The service will work only if your account is created using the URL in this "
+"dialog.\n"
+msgstr ""
+"С помощью Ekiga можно совершать звонки на номера стационарных и мобильных "
+"телефонов по всему миру. Чтобы активировать эту услугу, необходимо сделать "
+"следующее:\n"
+"- Купить учётную запись по ссылке ниже.\n"
+"- Ввести полученный идентификатор и код ПИН.\n"
+"Сервис будет работать только в том случае, если учётная запись создаётся с "
+"помощью ссылки в этом диалоге.\n"
+
+msgid "You did not supply a host to register to."
+msgstr "Не задано имя сервера для регистрации."
+
+msgid "You did not supply a name for that account."
+msgstr "Не задано название учётной записи."
+
+msgid "You did not supply a user name for that account."
+msgstr "Не задано имя пользователя в этой учётной записи."
+
+msgid "You have %d message"
+msgid_plural "You have %d messages"
+msgstr[0] "Получено %d сообщение"
+msgstr[1] "Получено %d сообщения"
+msgstr[2] "Получено %d сообщений"
+
+msgid "You have %d unread text message"
+msgid_plural "You have %d unread text messages"
+msgstr[0] "У вас %d непрочитанное сообщение"
+msgstr[1] "У вас %d непрочитанных сообщения"
+msgstr[2] "У вас %d непрочитанных сообщений"
+
+msgid ""
+"You have now finished the Ekiga configuration. All the settings can be "
+"changed in the Ekiga preferences. Enjoy!"
+msgstr ""
+"Настройка Ekiga завершена. Все параметры могут быть изменены в диалоге "
+"настройки Ekiga."
+
+msgid "You supplied an unsupported address"
+msgstr "Вы вписали неподдерживаемый адрес"
+
+msgid "Your answer is: "
+msgstr "Ваш ответ: "
+
+msgid ""
+"Your driver doesn't seem to support any of the color formats supported by "
+"Ekiga.\n"
+" Please check your kernel driver documentation in order to determine which "
+"Palette is supported."
+msgstr ""
+"Ваш драйвер не поддерживает ни один из форматов цвета, поддерживаемых "
+"Ekiga.\n"
+" Проверьте по документации вашего ядра, какая именно палитра поддерживается."
+
+msgid ""
+"Your first name and surname will be used when connecting to other VoIP and "
+"videoconferencing software."
+msgstr ""
+"Ваши имя и фамилия будут использоваться при подключении к другим программам "
+"для VoIP и видеоконференций."
+
+msgid "Your video driver doesn't support the requested video format."
+msgstr "Ваш видеодрайвер не поддерживает требуемый формат видео."
+
+msgid "Zoom in"
+msgstr "Увеличить масштаб"
+
+msgid "Zoom out"
+msgstr "Уменьшить масштаб"
+
+msgid "_Account ID:"
+msgstr "Иденти_фикатор:"
+
+msgid "_Accounts"
+msgstr "Учётные записи"
+
+msgid "_Action"
+msgstr "_Действие"
+
+msgid "_Add a Jabber/XMPP Account"
+msgstr "_Добавить учётную запись _Jabber/XMPP"
+
+msgid "_Add a SIP Account"
+msgstr "Добавить учётную запись _SIP"
+
+msgid "_Add a new contact"
+msgstr "_Новый контакт"
+
+msgid "_Add an Ekiga Call Out Account"
+msgstr "Добавить учётную запись Ekiga _Call Out"
+
+msgid "_Add an Ekiga.net Account"
+msgstr "Добавить учётную запись _Ekiga.net"
+
+msgid "_Add an H.323 Account"
+msgstr "Добавить учётную запись _H.323"
+
+msgid "_Always forward calls to the given host"
+msgstr "_Всегда перенаправлять вызовы на указанный узел"
+
+msgid "_Authentication user:"
+msgstr "Пользователь _аутентификации:"
+
+msgid "_Automatically answer incoming calls"
+msgstr "_Автоматически отвечать на входящие звонки"
+
+msgid "_Base DN:"
+msgstr "_Основное уникальное имя (Distinguished Name (DN)):"
+
+msgid "_Call"
+msgstr "_Вызвать"
+
+msgid "_Call History"
+msgstr "История в_ызовов"
+
+msgid "_Cell phone:"
+msgstr "Мо_бильный телефон:"
+
+msgid "_Chat"
+msgstr "_Беседа"
+
+msgid "_Configuration Assistant"
+msgstr "Мастер настр_ойки"
+
+msgid "_Detect devices"
+msgstr "_Поиск устройств"
+
+msgid "_Dialpad"
+msgstr "_Номеронабиратель"
+
+msgid "_Disable"
+msgstr "В_ыключить"
+
+msgid "_DisplayName attribute:"
+msgstr "Атрибут _DisplayName:"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Enable"
+msgstr "Вкл_ючить"
+
+msgid "_Filter template:"
+msgstr "_Шаблон фильтрации:"
+
+msgid "_Full name:"
+msgstr "_Имя:"
+
+msgid "_Fullscreen"
+msgstr "Во весь _экран"
+
+msgid "_Gatekeeper:"
+msgstr "_Узел gatekeeper:"
+
+msgid "_Hangup"
+msgstr "_Завершить вызов"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Home phone:"
+msgstr "_Домашний телефон:"
+
+msgid "_Local Video"
+msgstr "_Локальное видео"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_New Contact"
+msgstr "_Создать контакт"
+
+msgid "_Office phone:"
+msgstr "Р_абочий телефон:"
+
+msgid "_Outbound proxy:"
+msgstr "_Исходящий прокси-сервер:"
+
+msgid "_PIN code:"
+msgstr "Код _PIN:"
+
+msgid "_Pager:"
+msgstr "_Пейджер:"
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "_Pick up"
+msgstr "_Ответить"
+
+msgid "_Picture-in-Picture"
+msgstr "_Картинка-в-картинке"
+
+msgid "_Refresh"
+msgstr "_Обновить"
+
+msgid "_Refresh contact list"
+msgstr "_Обновить список контактов"
+
+msgid "_Registrar:"
+msgstr "_Регистратор:"
+
+msgid "_Remote Video"
+msgstr "_Удаленное видео"
+
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgid "_Remove addressbook"
+msgstr "_Удалить адресную книгу"
+
+msgid "_Retrieve Call"
+msgstr "_Принять вызов"
+
+msgid "_Search Filter:"
+msgstr "Фильтр _поиска:"
+
+msgid "_Search scope"
+msgstr "_Область поиска"
+
+msgid "_Send DTMF as:"
+msgstr "_Посылать DTMF как:"
+
+msgid "_Smile..."
+msgstr "_Смайл…"
+
+msgid "_Timeout:"
+msgstr "_Задержка:"
+
+msgid "_Transfer Call"
+msgstr "П_ереадресовать вызов"
+
+msgid "_User:"
+msgstr "Пол_ьзователь:"
+
+msgid "_Video Preview"
+msgstr "_Образец видео"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "abc"
+msgstr "abc"
+
+msgid "authenticating"
+msgstr "выполняется аутентификация"
+
+msgid "connected"
+msgstr "подключён"
+
+msgid "connecting"
+msgstr "выполняется подключение"
+
+msgid "decide later (also close or cancel this dialog)"
+msgstr "решить позднее (также закрывает или отменяет этот диалог)"
+
+msgid "def"
+msgstr "def"
+
+msgid "disconnected"
+msgstr "отключён"
+
+msgid "error authenticating loudmouth account"
+msgstr "ошибка аутентификации учётной записи loudmouth"
+
+msgid "error connecting"
+msgstr "ошибка подключения"
+
+msgid "error connecting (%s)"
+msgstr "ошибка подключения (%s)"
+
+msgid "ghi"
+msgstr "ghi"
+
+msgid "grant him/her the permission to see your presence"
+msgstr "разрешить ему/ей видеть ваше присутствие"
+
+msgid "identifier@server"
+msgstr "идентификатор@сервер"
+
+msgid "inactive"
+msgstr "неактивна"
+
+msgid "jkl"
+msgstr "jkl"
+
+msgid "mno"
+msgstr "mno"
+
+msgid "pqrs"
+msgstr "pqrs"
+
+msgid "refuse him/her the permission to see your presence"
+msgstr "не разрешать ему/ей видеть ваше присутствие"
+
+msgid "says:"
+msgstr "сказал(а):"
+
+msgid "translator-credits"
+msgstr ""
+"Валек Филиппов <frob@df.ru>\n"
+"Виталий Липатов <lav@altlinux.ru>\n"
+"Леонид Кантер <leon@asplinux.ru>\n"
+"Василий Фаронов <qvvx@yandex.ru>\n"
+"Юрий Козлов <yuray@komyakino.ru>"
+
+msgid "tuv"
+msgstr "tuv"
+
+msgid "user offline"
+msgstr "пользователь не в сети"
+
+msgid "wxyz"
+msgstr "wxyz"

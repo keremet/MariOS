@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-08-03 16:58+0300\n"
+"PO-Revision-Date: 2010-04-26 19:48+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team:  <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%s already in configuration file\n"
+msgstr "%s уже содержится в файле конфигурации\n"
+
+msgid "An exception occurred '%s'"
+msgstr "Возникло исключение \"%s\""
+
+msgid "An unsupported action was attempted"
+msgstr "Произошла попытка выполнить неподдерживаемое действие"
+
+msgid "An unsupported storage action was attempted"
+msgstr "Произошла попытка выполнить неподдерживаемое действие с хранилищем"
+
+msgid "An unsupported stream action was attempted"
+msgstr "Произошла попытка выполнить неподдерживаемое действие потока"
+
+msgid "Application unique name"
+msgstr "Уникальное имя приложения"
+
+msgid "Bonobo Activation options:"
+msgstr "Параметры активации Bonobo:"
+
+msgid "Bonobo Echo server factory"
+msgstr "Фабрика эхо-сервера Bonobo"
+
+msgid "Bonobo Echo server sample program"
+msgstr "Образец программы эхо-сервера Bonobo"
+
+msgid "Bonobo activation options"
+msgstr "Параметры активации Bonobo"
+
+msgid "Bonobo-activation configuration file contains:\n"
+msgstr "Файл конфигурации сервиса Bonobo-activation содержит:\n"
+
+msgid "CORBA CosNaming service."
+msgstr "Сервис CosNaming среды CORBA."
+
+msgid "Can't find symbol Bonobo_Plugin_info in `%s'"
+msgstr "Невозможно найти символ Bonobo_Plugin_info в \"%s\""
+
+msgid "Cannot activate object from factory"
+msgstr "Невозможно активировать объект из фабрики"
+
+msgid "Child process did not give an error message, unknown failure occurred"
+msgstr ""
+"Процесс-потомок не выдал сообщения об ошибке, произошел неопознанный сбой"
+
+msgid "Command is insensitive"
+msgstr "Команда является бессмысленной"
+
+msgid "Could not create an instance of the sample echo component"
+msgstr "Не удалось создать экземпляр образца компонента эхо"
+
+msgid "Could not parse badly formed XML document %s"
+msgstr ""
+"Не удалось разобрать неверно сформированный документ формата XML \"%s\""
+
+msgid "Could not save configuration file.\n"
+msgstr "Не удалось сохранить файл конфигурации.\n"
+
+msgid "Couldn't find which child the server was listed in"
+msgstr "Не удалось найти потомка со ссылкой на сервер"
+
+msgid "Couldn't spawn a new process"
+msgstr "Не удается породить новый процесс"
+
+msgid "Custom CORBA POA"
+msgstr "Прочий адаптер CORBA POA"
+
+msgid "DIRECTORY"
+msgstr "КАТАЛОГ"
+
+msgid "Directory to add to configuration file"
+msgstr "Каталог, который нужно добавить в файл конфигурации"
+
+msgid "Directory to read .server files from"
+msgstr "Каталог, из которого будут считываться файлы типа .server"
+
+msgid "Directory to remove from configuration file"
+msgstr "Каталог, который нужно удалить из файла конфигурации"
+
+msgid "Display directories in configuration file"
+msgstr "Показать каталоги из файла конфигурации"
+
+msgid "Display path to configuration file"
+msgstr "Показать путь к файлу конфигурации"
+
+msgid "EOF from child process\n"
+msgstr "EOF от дочернего процесса\n"
+
+msgid "EXPRESSION"
+msgstr "ВЫРАЖЕНИЕ"
+
+msgid "Echo component"
+msgstr "Компонент Эхо"
+
+msgid "Echo component factory"
+msgstr "Фабрика компонента Эхо"
+
+msgid "Error checking error; no exception"
+msgstr "Произошла ошибка проверки ошибок; исключение отсутствует"
+
+msgid "Exception activating '%s'"
+msgstr "Исключение \"%s\" активируется"
+
+msgid "FD"
+msgstr "FD"
+
+msgid "Factory `%s' returned NIL for `%s'"
+msgstr "Фабрика \"%s\" возвратила для \"%s\" значение NIL"
+
+msgid "Failed to activate '%s'"
+msgstr "Произошёл сбой при активации \"%s\""
+
+msgid "Failed to activate object"
+msgstr "Произошёл сбой при активации объекта"
+
+msgid "Failed to read from child process: %s\n"
+msgstr "Произошёл сбой при чтении из процесса-потомка: %s\n"
+
+msgid "Failed to resolve, or extend '%s'"
+msgstr "Произошёл сбой при разрешении или расширении «%s»"
+
+msgid "File descriptor to print IOR on"
+msgstr "Дескриптор файла для печати IOR"
+
+msgid "File descriptor to write IOR to"
+msgstr "Дескриптор файла для записи IOR"
+
+msgid "General activation error with no description"
+msgstr "Произошла общая ошибка активирования без описания"
+
+msgid "HTTP Moniker"
+msgstr "Моникер HTTP"
+
+msgid "I could not initialize Bonobo"
+msgstr "Не удалось инициализировать систему Bonobo"
+
+msgid "IID to activate"
+msgstr "IID для активации"
+
+msgid "IO Error"
+msgstr "Произошла ошибка ввода-вывода"
+
+msgid "IO Error on storage"
+msgstr "Произошла ошибка ввода-вывода в хранилище"
+
+msgid "IO Error on stream"
+msgstr "Произошла ошибка ввода-вывода в потоке"
+
+msgid "Invalid argument value"
+msgstr "Значение аргумента недопустимо"
+
+msgid "Moniker activation timed out"
+msgstr "Время ожидания активации моникера превышено"
+
+msgid "Moniker has an unknown moniker prefix"
+msgstr "Моникер имеет неизвестный префикс"
+
+msgid "Moniker interface cannot be found"
+msgstr "Невозможно найти интерфейс моникера"
+
+msgid "Name"
+msgstr "Наименование"
+
+msgid "Name already exists in storage"
+msgstr "Название уже существует в хранилище"
+
+msgid "Name service"
+msgstr "Сервис имён"
+
+msgid "No permission to access stream"
+msgstr "Отсутствуют права на доступ к потоку"
+
+msgid "No permission to do operation on storage"
+msgstr "Отсутствуют права для выполнения действий c хранилищем"
+
+msgid "Not a valid Activation ID"
+msgstr "Идентификатор активации (Activation ID) недопустим"
+
+msgid "Notification service"
+msgstr "Сервис уведомления"
+
+msgid "Notification service for activation"
+msgstr "Сервис уведомления для активации"
+
+msgid "ORB IOR handling moniker"
+msgstr "Моникер обработки ORB IOR"
+
+msgid "Object is not a storage"
+msgstr "Объект не является хранилищем"
+
+msgid "Object is not a stream"
+msgstr "Объект не является потоком"
+
+msgid "Object not found"
+msgstr "Объект не найден"
+
+msgid "Object not found in storage"
+msgstr "Объект в хранилище не найден"
+
+msgid "PATH"
+msgstr "PATH"
+
+msgid "POA"
+msgstr "POA"
+
+msgid "Please, make sure you have permissions to write to '%s'.\n"
+msgstr "Убедитесь, что у вас есть права на запись в \"%s\".\n"
+
+msgid "Prevent registering of server with OAF"
+msgstr "Запретить регистрацию сервера через OAF"
+
+msgid "Property '%s' has no value"
+msgstr "Свойству \"%s\" не задано значение"
+
+msgid "Query expression to evaluate"
+msgstr "Выражение-запрос для разбора"
+
+msgid ""
+"Register as the user's activation server without locking.  Warning: this "
+"option can have dangerous side effects on the stability of the user's "
+"running session, and should only be used for debugging purposes"
+msgstr ""
+"Зарегистрировать как сервер активации пользователя без блокирования.  "
+"Внимание: этот параметр может оказывать опасные побочные эффекты на "
+"стабильность текущего сеанса пользователя, и может использоваться только в "
+"отладочных целях."
+
+msgid "Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"Выполните '%s --help', чтобы просмотреть полный список доступных параметров "
+"командной строки.\n"
+
+msgid "Serve as an ActivationContext (default is as an ObjectDirectory only)"
+msgstr ""
+"Обрабатывать как ActivationContext (по умолчанию только как ObjectDirectory)"
+
+msgid "Shlib `%s' didn't contain `%s'"
+msgstr "Разделяемая библиотека \"%s\" не содержит \"%s\""
+
+msgid "Show Bonobo Activation options"
+msgstr "Отображать параметры активации Bonobo"
+
+msgid "Standard Moniker factory"
+msgstr "Фабрика стандартного моникера"
+
+msgid "Storage is not empty"
+msgstr "Хранилище не пусто"
+
+msgid "Successfully wrote configuration file.\n"
+msgstr "Файл конфигурации успешно записан.\n"
+
+msgid "Syntax error in object description"
+msgstr "Синтаксическая ошибка присутствует в описании объекта"
+
+msgid "Syntax error within moniker"
+msgstr "Произошла синтаксическая ошибка в моникере"
+
+msgid ""
+"The Bonobo Activation configuration file was not read successfully. Please, "
+"check it is valid in: %s"
+msgstr ""
+"Не удалось прочитать файл конфигурации Bonobo Activation. Проверьте, что "
+"файл \"%s\" указан правильно"
+
+msgid "Trying dir %s"
+msgstr "Идёт попытка открыть каталог \"%s\""
+
+msgid "Unknown command or verb"
+msgstr "Команда или действие неизвестны"
+
+msgid "We don't handle activating shlib objects in a remote process yet"
+msgstr ""
+"Активация объектов разделяемых библиотек в удалённых процессах ещё не "
+"поддерживается"
+
+msgid "a NULL iid is not valid"
+msgstr "IID не может иметь значение NULL"
+
+msgid "config database backend failed "
+msgstr "произошёл сбой в модуле конфигурационной базы данных"
+
+msgid ""
+"configuration file is:\n"
+"    %s\n"
+msgstr ""
+"файл конфигурации:\n"
+"    %s\n"
+
+msgid "g_module_open of `%s' failed with `%s'"
+msgstr "Произошёл сбой в  функции g_module_open для \"%s\" с \"%s\""
+
+msgid "generic Oaf activation moniker"
+msgstr "общий моникер активации Oaf"
+
+msgid "generic Oaf query moniker"
+msgstr "общий моникер запроса Oaf"
+
+msgid "generic factory 'new' moniker"
+msgstr "общий моникер \"new\" фабрики"
+
+msgid "generic item moniker"
+msgstr "общий моникер элемента"
+
+msgid "iid %s has a NULL location"
+msgstr "Местоположение iid %s равно NULL"
+
+msgid "iid %s has a NULL type"
+msgstr "iid %s равен NULL"
+
+msgid "incorrect data type"
+msgstr "неправильный тип данных"
+
+msgid "invalid character '%c' in iid '%s'"
+msgstr "Cимвол \"%c\" в iid \"%s\" недопустим"
+
+msgid "invalid path to XML user interface element"
+msgstr "недопустимый путь к XML-элементу пользовательского интерфейса"
+
+msgid "malformed user interface XML description"
+msgstr "неправильное XML-описание пользовательского интерфейса"
+
+msgid "property has invalid type"
+msgstr "свойство имеет недопустимый тип"
+
+msgid "property is read only"
+msgstr "свойство только для чтения"
+
+msgid "property not found"
+msgstr "свойство не найдено"
+
+msgid "stream MonikerExtender"
+msgstr "потоковый MonikerExtender"
+
+msgid "stream not found"
+msgstr "поток не найден"
+
+msgid "the requested UI attribute didn't exist"
+msgstr "запрошенный атрибут интерфейса пользователя не существовал"
+
+msgid "there is not a properly structured configuration file\n"
+msgstr "файл конфигурации имеет неправильную структуру\n"

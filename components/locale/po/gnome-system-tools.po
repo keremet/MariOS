@@ -1,0 +1,2821 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-system-tools HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-04-06 22:32+0900\n"
+"PO-Revision-Date: 2008-06-27 11:14+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "\"%s\" already exists, please set another name."
+msgstr "Имя \"%s\" уже существует, пожалуйста выберите другое"
+
+msgid "\"%s\" is an invalid path"
+msgstr "Путь \"%s\" указан неверно"
+
+msgid "\"%s\" is not a valid VGA value."
+msgstr "\"%s\" не является корректным значением VGA."
+
+msgid "(unconfigured)"
+msgstr "(ненастроено)"
+
+msgid "16,777,216"
+msgstr "16,777,216"
+
+msgid "32,768"
+msgstr "32,768"
+
+msgid "65,536"
+msgstr "65,536"
+
+msgid "<b>Account data</b>"
+msgstr "<b>Учетная запись</b>"
+
+msgid "<b>Allowed hosts</b>"
+msgstr "<b>Разрешенные узлы</b>"
+
+msgid "<b>Connection settings</b>"
+msgstr "<b>Настройки соединения</b>"
+
+msgid "<b>Connection</b>"
+msgstr "<b>Соединение</b>"
+
+msgid "<b>DNS Servers</b>"
+msgstr "<b>Серверы имен</bb>"
+
+msgid "<b>Host Settings</b>"
+msgstr "<b>Настройки узла</b>"
+
+msgid "<b>Hosts settings</b>"
+msgstr "<b>Настройки узлов</b>"
+
+msgid "<b>Internet service provider data</b>"
+msgstr "<b>Данные об Интернет провайдере</b>"
+
+msgid "<b>Modem settings</b>"
+msgstr "<b>Настройки модема</b>"
+
+msgid "<b>Search Domains</b>"
+msgstr "<b>Искать домены</b>"
+
+msgid "<b>Security</b>"
+msgstr "<b>Безопасность</b>"
+
+msgid "<b>Selection</b>"
+msgstr "<b>Выделение</b>"
+
+msgid "<b>Share properties</b>"
+msgstr "<b>Параметры распространения</b>"
+
+msgid "<b>Shared folder</b>"
+msgstr "<b>Общая папка</b>"
+
+msgid "<b>Time zone</b>"
+msgstr "<b>Часовой пояс</b>"
+
+msgid "<b>WINS server</b>"
+msgstr "<b>Серверы WINS</b>"
+
+msgid "<b>Windows sharing Settings</b>"
+msgstr "<b>Настройки публикации файлов в Windows</b>"
+
+msgid "<b>Wireless settings</b>"
+msgstr "<b>Настройки беспроводной связи</b>"
+
+msgid ""
+"<b>You need %s privileges to use this tool. Enter a password to modify your "
+"system configuration.</b>"
+msgstr ""
+"<b>Для использования этой программы нужны привилегии %s. Введите пароль для "
+"изменения параметров вашей системы.</b>"
+
+msgid ""
+"<span size=\"larger\" weight=\"bold\">Several bootloaders have been found</"
+"span>\n"
+"\n"
+"please select which do you want to configure"
+msgstr ""
+"<span size=\"larger\" weight=\"bold\">Было найденно несколько начальных "
+"загрузчиков</span>\n"
+"\n"
+"Пожалуйста, выберите, какой будет подлежать настройке"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Please enter your root password</span>"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">Введите пароль суперпользователя</span>"
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">The platform you are running is not "
+"supported by this tool</span>"
+msgstr ""
+"<span weight=\"bold\" size=\"larger\">Данная платформа неподдерживается</"
+"span>"
+
+msgid "<span weight=\"bold\">Advanced Settings</span>"
+msgstr "<span weight=\"bold\">Дополнительные настройки</span>"
+
+msgid "<span weight=\"bold\">Automatic UID/GID</span>"
+msgstr "<span weight=\"bold\">Автоматический UID/GID</span>"
+
+msgid "<span weight=\"bold\">Basic Settings</span>"
+msgstr "<span weight=\"bold\">Общие настройки</span>"
+
+msgid "<span weight=\"bold\">Contact Information</span>"
+msgstr "<span weight=\"bold\">Контактная информация</span>"
+
+msgid "<span weight=\"bold\">Group Members</span>"
+msgstr "<span weight=\"bold\">Члены группы</span>"
+
+msgid "<span weight=\"bold\">Image Settings</span>"
+msgstr "<span weight=\"bold\">Настройки образа</span>"
+
+msgid "<span weight=\"bold\">Optional Settings</span>"
+msgstr "<span weight=\"bold\">Optional Settings</span>"
+
+msgid "<span weight=\"bold\">Other Settings</span>"
+msgstr "<span weight=\"bold\">Другие настройки</span>"
+
+msgid "<span weight=\"bold\">Password Settings</span>"
+msgstr "<span weight=\"bold\">Настройки пароля</span>"
+
+msgid "<span weight=\"bold\">Password</span>"
+msgstr "<span weight=\"bold\">Пароль</span>"
+
+msgid "<span weight=\"bold\">Profile Settings</span>"
+msgstr "<span weight=\"bold\">Настройки профиля</span>"
+
+msgid "<span weight=\"bold\">Starting the Computer</span>"
+msgstr "<span weight=\"bold\">Starting the Computer</span>"
+
+msgid "<span weight=\"bold\">System Defaults</span>"
+msgstr "<span weight=\"bold\">Системные установки</span>"
+
+msgid "<span weight=\"bold\">User Profile</span>"
+msgstr "<span weight=\"bold\">Пользовательский профиль</span>"
+
+msgid "A group name must be specified"
+msgstr "Имя группы должно быть указанно"
+
+msgid "A password must be provided."
+msgstr "Должен быть указан пароль."
+
+msgid "A user name must be specified."
+msgstr "Должно быть указано имя пользователя."
+
+msgid "Account"
+msgstr "Аккаунт"
+
+msgid "Actions scheduler"
+msgstr "Планировщик заданий"
+
+msgid "Activate this connection on boot"
+msgstr "Активировать это соединение при начальной загрузке"
+
+msgid "Activating interface \"%s\""
+msgstr "Активация интерфейса \"%s\""
+
+msgid "Add NTP Server"
+msgstr "Добавить NTP сервер"
+
+msgid "Add a shared path, modifies it if it already exists"
+msgstr "Добавить путь публикации, исправить существующий"
+
+msgid "Add allowed hosts"
+msgstr "Добавить разрешенные узлы"
+
+msgid "Add or remove users and groups"
+msgstr "Добавить или удалить пользователей или группы"
+
+msgid "Add, remove or edit the users and groups that may access this computer"
+msgstr ""
+"Добавление, удаление или правка пользователей и групп, имеющих доступ к "
+"этому компьютеру"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid "Advanced settings:"
+msgstr "Дополнительные настройки:"
+
+msgid "Africa/Abidjan"
+msgstr "Африка/Абиджан"
+
+msgid "Africa/Accra"
+msgstr "Африка/Аккра"
+
+msgid "Africa/Addis_Ababa"
+msgstr "Африка/Аддис_Абеба"
+
+msgid "Africa/Algiers"
+msgstr "Африка/Алжир"
+
+msgid "Africa/Bamako"
+msgstr "Африка/Бамако"
+
+msgid "Africa/Bangui"
+msgstr "Африка/Банги"
+
+msgid "Africa/Banjul"
+msgstr "Африка/Банджул"
+
+msgid "Africa/Bissau"
+msgstr "Африка/Биссау"
+
+msgid "Africa/Blantyre"
+msgstr "Африка/Блантайр"
+
+msgid "Africa/Brazzaville"
+msgstr "Африка/Браззавиль"
+
+msgid "Africa/Bujumbura"
+msgstr "Африка/Бужумбура"
+
+msgid "Africa/Cairo"
+msgstr "Африка/Каир"
+
+msgid "Africa/Casablanca"
+msgstr "Африка/Касабланка"
+
+msgid "Africa/Ceuta"
+msgstr "Африка/Кеута"
+
+msgid "Africa/Conakry"
+msgstr "Африка/Конакри"
+
+msgid "Africa/Dakar"
+msgstr "Африка/Дакар"
+
+msgid "Africa/Dar_es_Salaam"
+msgstr "Африка/Дар_Эс_Салам"
+
+msgid "Africa/Djibouti"
+msgstr "Африка/Джибути"
+
+msgid "Africa/Douala"
+msgstr "Африка/Дуала"
+
+msgid "Africa/El_Aaiun"
+msgstr "Африка/Эль_Ааюн"
+
+msgid "Africa/Freetown"
+msgstr "Африка/Фритаун"
+
+msgid "Africa/Gaborone"
+msgstr "Африка/Габороне"
+
+msgid "Africa/Harare"
+msgstr "Африка/Хараре"
+
+msgid "Africa/Johannesburg"
+msgstr "Африка/Иоганнесбург"
+
+msgid "Africa/Kampala"
+msgstr "Африка/Кампала"
+
+msgid "Africa/Khartoum"
+msgstr "Африка/Хартум"
+
+msgid "Africa/Kigali"
+msgstr "Африка/Кигали"
+
+msgid "Africa/Kinshasa"
+msgstr "Африка/Киншаса"
+
+msgid "Africa/Lagos"
+msgstr "Африка/Лагос"
+
+msgid "Africa/Libreville"
+msgstr "Африка/Либревиль"
+
+msgid "Africa/Lome"
+msgstr "Африка/Ломе"
+
+msgid "Africa/Luanda"
+msgstr "Африка/Луанда"
+
+msgid "Africa/Lubumbashi"
+msgstr "Африка/Лубумбаши"
+
+msgid "Africa/Lusaka"
+msgstr "Африка/Лусака"
+
+msgid "Africa/Malabo"
+msgstr "Африка/Малабо"
+
+msgid "Africa/Maputo"
+msgstr "Африка/Мапуту"
+
+msgid "Africa/Maseru"
+msgstr "Африка/Масеру"
+
+msgid "Africa/Mbabane"
+msgstr "Африка/Мбабане"
+
+msgid "Africa/Mogadishu"
+msgstr "Африка/Могадишу"
+
+msgid "Africa/Monrovia"
+msgstr "Африка/Монровия"
+
+msgid "Africa/Nairobi"
+msgstr "Африка/Найроби"
+
+msgid "Africa/Ndjamena"
+msgstr "Африка/Нджамена"
+
+msgid "Africa/Niamey"
+msgstr "Африка/Ниамей"
+
+msgid "Africa/Nouakchott"
+msgstr "Африка/Нуакшот"
+
+msgid "Africa/Ouagadougou"
+msgstr "Африка/Уагадугу"
+
+msgid "Africa/Porto-Novo"
+msgstr "Африка/Порто-Ново"
+
+msgid "Africa/Sao_Tome"
+msgstr "Африка/Сан_Томе"
+
+msgid "Africa/Tripoli"
+msgstr "Африка/Триполи"
+
+msgid "Africa/Tunis"
+msgstr "Африка/Тунис"
+
+msgid "Africa/Windhoek"
+msgstr "Африка/Виндхоек"
+
+msgid "Aliases"
+msgstr "Псевдонимы"
+
+msgid "Aliases:"
+msgstr "Псевдонимы:"
+
+msgid "Allow _browsing folder"
+msgstr "Разрешать _просматривать папку"
+
+msgid "Allow user to:"
+msgstr "Разрешать пользователю:"
+
+msgid "Allowed host/network"
+msgstr "Разрешённые узлы/сети"
+
+msgid "Allowed hosts:"
+msgstr "Разрешённые узлы"
+
+msgid "Allows applications to use printers"
+msgstr "Позволяет приложениям использовать принтер"
+
+msgid "Allows users to login graphically"
+msgstr "Позволяет пользователям входить в систему"
+
+msgid "America/Adak"
+msgstr "Африка/Адак"
+
+msgid "America/Anchorage"
+msgstr "Америка/Анкоридж"
+
+msgid "America/Anguilla"
+msgstr "Америка/Ангилла"
+
+msgid "America/Antigua"
+msgstr "Америка/Антигуа"
+
+msgid "America/Araguaina"
+msgstr "Америка/Арагвайя"
+
+msgid "America/Argentina/Buenos_Aires"
+msgstr "Америка/Аргентина/Буэнос_Айрес"
+
+msgid "America/Argentina/Catamarca"
+msgstr "Америка/Аргентина/Катамарка"
+
+msgid "America/Argentina/Cordoba"
+msgstr "Америка/Аргентина/Кордова"
+
+msgid "America/Argentina/Jujuy"
+msgstr "Америка/Аргентина/Жужуй"
+
+msgid "America/Argentina/La_Rioja"
+msgstr "Америка/Аргентина/Ла_Риоха"
+
+msgid "America/Argentina/Mendoza"
+msgstr "Америка/Аргентина/Мендоса"
+
+msgid "America/Argentina/Rio_Gallegos"
+msgstr "Америка/Аргентина/Рио_Гальегос"
+
+msgid "America/Argentina/San_Juan"
+msgstr "Америка/Аргентина/Сан_Хуан"
+
+msgid "America/Argentina/Tucuman"
+msgstr "Америка/Аргентина/Тукуман"
+
+msgid "America/Argentina/Ushuaia"
+msgstr "Америка/Аргентина/Ушуайя"
+
+msgid "America/Aruba"
+msgstr "Америка/Аруба"
+
+msgid "America/Asuncion"
+msgstr "Америка/Асунсьон"
+
+msgid "America/Atikokan"
+msgstr "Америка/Атикокан"
+
+msgid "America/Bahia"
+msgstr "Америка/Баия"
+
+msgid "America/Barbados"
+msgstr "Америка/Барбадос"
+
+msgid "America/Belem"
+msgstr "Америка/Белем"
+
+msgid "America/Belize"
+msgstr "Америка/Белиз"
+
+msgid "America/Blanc-Sablon"
+msgstr "Америка/Блан-Саблон"
+
+msgid "America/Boa_Vista"
+msgstr "Америка/Боа_Виста"
+
+msgid "America/Bogota"
+msgstr "Америка/Богота"
+
+msgid "America/Boise"
+msgstr "Америка/Бойсе"
+
+msgid "America/Buenos_Aires"
+msgstr "Америка/Буэнос_Айрес"
+
+msgid "America/Cambridge_Bay"
+msgstr "Америка/Кембридж_Бэй"
+
+msgid "America/Campo_Grande"
+msgstr "Америка/Кампо_Гранде"
+
+msgid "America/Cancun"
+msgstr "Америка/Канкун"
+
+msgid "America/Caracas"
+msgstr "Америка/Каракас"
+
+msgid "America/Catamarca"
+msgstr "Америка/Катамарка"
+
+msgid "America/Cayenne"
+msgstr "Америка/Кайена"
+
+msgid "America/Cayman"
+msgstr "Америка/Кайман"
+
+msgid "America/Chicago"
+msgstr "Америка/Чикаго"
+
+msgid "America/Chihuahua"
+msgstr "Америка/Чихуауа"
+
+msgid "America/Cordoba"
+msgstr "Америка/Кордоба"
+
+msgid "America/Costa_Rica"
+msgstr "Америка/Коста_Рика"
+
+msgid "America/Cuiaba"
+msgstr "Америка/Куяба"
+
+msgid "America/Curacao"
+msgstr "Америка/Куракао"
+
+msgid "America/Danmarkshavn"
+msgstr "Америка/Данмаркхавн"
+
+msgid "America/Dawson"
+msgstr "Америка/Доусон"
+
+msgid "America/Dawson_Creek"
+msgstr "Америка/Доусон_Крик"
+
+msgid "America/Denver"
+msgstr "Америка/Денвер"
+
+msgid "America/Detroit"
+msgstr "Америка/Детройт"
+
+msgid "America/Dominica"
+msgstr "Америка/Доминика"
+
+msgid "America/Edmonton"
+msgstr "Америка/Эдмонтон"
+
+msgid "America/Eirunepe"
+msgstr "Америка/Эйрунепе"
+
+msgid "America/El_Salvador"
+msgstr "Америка/Эль_Сальвадор"
+
+msgid "America/Fortaleza"
+msgstr "Америка/Форталеза"
+
+msgid "America/Glace_Bay"
+msgstr "Америка/Глейс_Бэй"
+
+msgid "America/Godthab"
+msgstr "Америка/Годтхэб"
+
+msgid "America/Goose_Bay"
+msgstr "Америка/Гус_Бэй"
+
+msgid "America/Grand_Turk"
+msgstr "Америка/Гранд_Тюрк"
+
+msgid "America/Grenada"
+msgstr "Америка/Гренада"
+
+msgid "America/Guadeloupe"
+msgstr "Америка/Гваделупа"
+
+msgid "America/Guatemala"
+msgstr "Америка/Гватемала"
+
+msgid "America/Guayaquil"
+msgstr "Америка/Гуякиль"
+
+msgid "America/Guyana"
+msgstr "Америка/Гайана"
+
+msgid "America/Halifax"
+msgstr "Америка/Галифакс"
+
+msgid "America/Havana"
+msgstr "Америка/Гавана"
+
+msgid "America/Hermosillo"
+msgstr "Америка/Эрмосильо"
+
+msgid "America/Indiana/Indianapolis"
+msgstr "Америка/Индиана/Индианаполис"
+
+msgid "America/Indiana/Knox"
+msgstr "Америка/Индиана/Нокс"
+
+msgid "America/Indiana/Marengo"
+msgstr "Америка/Индиана/Маренго"
+
+msgid "America/Indiana/Petersburg"
+msgstr "Америка/Индиана/Петербург"
+
+msgid "America/Indiana/Vevay"
+msgstr "Америка/Индиана/Вевай"
+
+msgid "America/Indiana/Vincennes"
+msgstr "Америка/Индиана/Винсенн"
+
+msgid "America/Inuvik"
+msgstr "Америка/Инувик"
+
+msgid "America/Iqaluit"
+msgstr "Америка/Икальют"
+
+msgid "America/Jamaica"
+msgstr "Америка/Ямайка"
+
+msgid "America/Jujuy"
+msgstr "Америка/Жужуй"
+
+msgid "America/Juneau"
+msgstr "Америка/Жунеао"
+
+msgid "America/Kentucky/Louisville"
+msgstr "Америка/Кентукки/Луисвилл"
+
+msgid "America/Kentucky/Monticello"
+msgstr "Америка/Кентукки/Монтиселло"
+
+msgid "America/La_Paz"
+msgstr "Америка/Ла_Пас"
+
+msgid "America/Lima"
+msgstr "Америка/Лима"
+
+msgid "America/Los_Angeles"
+msgstr "Америка/Лос_Анджелес"
+
+msgid "America/Maceio"
+msgstr "Америка/Масейо"
+
+msgid "America/Managua"
+msgstr "Америка/Манагуа"
+
+msgid "America/Manaus"
+msgstr "Америка/Манаус"
+
+msgid "America/Martinique"
+msgstr "Америка/Мартиника"
+
+msgid "America/Mazatlan"
+msgstr "Америка/Мазатлан"
+
+msgid "America/Mendoza"
+msgstr "Америка/Мендоса"
+
+msgid "America/Menominee"
+msgstr "Америка/Меномини"
+
+msgid "America/Merida"
+msgstr "Америка/Мерида"
+
+msgid "America/Mexico_City"
+msgstr "Америка/Мехико"
+
+msgid "America/Miquelon"
+msgstr "Америка/Микелон"
+
+msgid "America/Moncton"
+msgstr "Америка/Монктон"
+
+msgid "America/Monterrey"
+msgstr "Америка/Монтеррей"
+
+msgid "America/Montevideo"
+msgstr "Америка/Монтевидео"
+
+msgid "America/Montreal"
+msgstr "Америка/Монреаль"
+
+msgid "America/Montserrat"
+msgstr "Америка/Монсеррат"
+
+msgid "America/Nassau"
+msgstr "Америка/Нассау"
+
+msgid "America/New_York"
+msgstr "Америка/Нью_Йорк"
+
+msgid "America/Nipigon"
+msgstr "Америка/Нипигон"
+
+msgid "America/Nome"
+msgstr "Америка/Номе"
+
+msgid "America/Noronha"
+msgstr "Америка/Норонья"
+
+msgid "America/North_Dakota/Center"
+msgstr "Америка/Северная_Дакота/Центр"
+
+msgid "America/North_Dakota/New_Salem"
+msgstr "Америка/Северная_Дакота/Нью-Салем"
+
+msgid "America/Panama"
+msgstr "Америка/Панама"
+
+msgid "America/Pangnirtung"
+msgstr "Америка/Пангниртунг"
+
+msgid "America/Paramaribo"
+msgstr "Америка/Парамарибо"
+
+msgid "America/Phoenix"
+msgstr "Америка/Феникс"
+
+msgid "America/Port-au-Prince"
+msgstr "Америка/Порт-о-Пренс"
+
+msgid "America/Port_of_Spain"
+msgstr "Америка/Порт_оф_Спейн"
+
+msgid "America/Porto_Velho"
+msgstr "Америка/Порто_Вельо"
+
+msgid "America/Puerto_Rico"
+msgstr "Америка/Пуэрто_Рико"
+
+msgid "America/Rainy_River"
+msgstr "Америка/Рэйни_Ривер"
+
+msgid "America/Rankin_Inlet"
+msgstr "Америка/Рэнкин_Инлет"
+
+msgid "America/Recife"
+msgstr "Америка/Ресифе"
+
+msgid "America/Regina"
+msgstr "Америка/Регина"
+
+msgid "America/Rio_Branco"
+msgstr "Америка/Рио_Бранко"
+
+msgid "America/Santiago"
+msgstr "Америка/Сантьяго"
+
+msgid "America/Santo_Domingo"
+msgstr "Америка/Санто_Доминго"
+
+msgid "America/Sao_Paulo"
+msgstr "Америка/Сан_Паулу"
+
+msgid "America/Scoresbysund"
+msgstr "Америка/Скорсбизунд"
+
+msgid "America/Shiprock"
+msgstr "Америка/Шипрок"
+
+msgid "America/St_Johns"
+msgstr "Америка/Сент_Джонс"
+
+msgid "America/St_Kitts"
+msgstr "Америка/Сент_Киттс"
+
+msgid "America/St_Lucia"
+msgstr "Америка/Сент_Лючия"
+
+msgid "America/St_Thomas"
+msgstr "Америка/Сент_Томас"
+
+msgid "America/St_Vincent"
+msgstr "Америка/Сент_Винсент"
+
+msgid "America/Swift_Current"
+msgstr "Америка/Свифт_Каррент"
+
+msgid "America/Tegucigalpa"
+msgstr "Америка/Тегусигальпа"
+
+msgid "America/Thule"
+msgstr "Америка/Тхуле"
+
+msgid "America/Thunder_Bay"
+msgstr "Америка/Тандер_Бэй"
+
+msgid "America/Tijuana"
+msgstr "Америка/Тиджуана"
+
+msgid "America/Toronto"
+msgstr "Америка/Торонто"
+
+msgid "America/Tortola"
+msgstr "Америка/Тортола"
+
+msgid "America/Vancouver"
+msgstr "Америка/Ванкувер"
+
+msgid "America/Whitehorse"
+msgstr "Америка/Уайтхорс"
+
+msgid "America/Winnipeg"
+msgstr "Америка/Виннипег"
+
+msgid "America/Yakutat"
+msgstr "Америка/Якутат"
+
+msgid "America/Yellowknife"
+msgstr "Америка/Йеллоунайф"
+
+msgid "An error occured switching to Automatic mode."
+msgstr "Ошибка при переходе в автоматический режим."
+
+msgid "An error occured switching to Manual mode."
+msgstr "Ошибка при переключении в ручной режим"
+
+msgid "An unexpected error has occurred"
+msgstr "Произошла непредвиденная ошибка"
+
+msgid "Analyzes your incoming mail for virus"
+msgstr "Анализ входящей почты на вирусы"
+
+msgid "Antarctica/Casey"
+msgstr "Антарктика/Кейси"
+
+msgid "Antarctica/Davis"
+msgstr "Антарктика/Дэвис"
+
+msgid "Antarctica/DumontDUrville"
+msgstr "Антарктика/ДюмонДюрвиль"
+
+msgid "Antarctica/Mawson"
+msgstr "Антарктика/Моусон"
+
+msgid "Antarctica/McMurdo"
+msgstr "Антарктика/МакМурдо"
+
+msgid "Antarctica/Palmer"
+msgstr "Антарктика/Палмер"
+
+msgid "Antarctica/Rothera"
+msgstr "Антарктида/Ротера"
+
+msgid "Antarctica/South_Pole"
+msgstr "Антарктика/Южный_Полюс"
+
+msgid "Antarctica/Syowa"
+msgstr "Антарктика/Суйова"
+
+msgid "Antarctica/Vostok"
+msgstr "Антарктика/Восток"
+
+msgid "Antivirus"
+msgstr "Антивирус"
+
+msgid "Apply them now?"
+msgstr "Применить их прямо сейчас?"
+
+msgid "Arctic/Longyearbyen"
+msgstr "Арктика/Лонгербайен"
+
+msgid "Are you sure you want to deactivate this service?"
+msgstr "Вы уверены в том, что вы хотите деактивировать сервис?"
+
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Вы уверены в том что хотите удалить %s?"
+
+msgid "Are you sure you want to delete group \"%s\"?"
+msgstr "Вы уверены в том что хотите удалить группу \"%s\"?"
+
+msgid "Are you sure you want to delete this share?"
+msgstr "Вы действительно хотите удалить этот ресурс?"
+
+msgid "Are you sure you want to delete user \"%s\"?"
+msgstr "Вы уверены в том, что вы хотите удалить пользователя %s?"
+
+msgid "Asia/Aden"
+msgstr "Азия/Аден"
+
+msgid "Asia/Almaty"
+msgstr "Азия/Алма_Аты"
+
+msgid "Asia/Amman"
+msgstr "Азия/Амман"
+
+msgid "Asia/Anadyr"
+msgstr "Азия/Анадырь"
+
+msgid "Asia/Aqtau"
+msgstr "Азия/Актау"
+
+msgid "Asia/Aqtobe"
+msgstr "Азия/Актобе"
+
+msgid "Asia/Ashgabat"
+msgstr "Азия/Ашхабад"
+
+msgid "Asia/Baghdad"
+msgstr "Азия/Багдад"
+
+msgid "Asia/Bahrain"
+msgstr "Азия/Бахрейн"
+
+msgid "Asia/Baku"
+msgstr "Азия/Баку"
+
+msgid "Asia/Bangkok"
+msgstr "Азия/Бангкок"
+
+msgid "Asia/Beirut"
+msgstr "Азия/Бейрут"
+
+msgid "Asia/Bishkek"
+msgstr "Азия/Бишкек"
+
+msgid "Asia/Brunei"
+msgstr "Азия/Бруней"
+
+msgid "Asia/Choibalsan"
+msgstr "Азия/Чойболсан"
+
+msgid "Asia/Colombo"
+msgstr "Азия/Коломбо"
+
+msgid "Asia/Damascus"
+msgstr "Азия/Дамаск"
+
+msgid "Asia/Dhaka"
+msgstr "Азия/Дакка"
+
+msgid "Asia/Dili"
+msgstr "Азия/Дили"
+
+msgid "Asia/Dubai"
+msgstr "Азия/Дубай"
+
+msgid "Asia/Dushanbe"
+msgstr "Азия/Душанбе"
+
+msgid "Asia/Gaza"
+msgstr "Азия/Газа"
+
+msgid "Asia/Hong_Kong"
+msgstr "Азия/Гонгконг"
+
+msgid "Asia/Hovd"
+msgstr "Азия/Ховд"
+
+msgid "Asia/Irkutsk"
+msgstr "Азия/Иркутск"
+
+msgid "Asia/Jakarta"
+msgstr "Азия/Джакарта"
+
+msgid "Asia/Jayapura"
+msgstr "Азия/Джаяпура"
+
+msgid "Asia/Jerusalem"
+msgstr "Азия/Иерусалим"
+
+msgid "Asia/Kabul"
+msgstr "Азия/Кабул"
+
+msgid "Asia/Kamchatka"
+msgstr "Азия/Камчатка"
+
+msgid "Asia/Karachi"
+msgstr "Азия/Карачи"
+
+msgid "Asia/Katmandu"
+msgstr "Азия/Катманду"
+
+msgid "Asia/Krasnoyarsk"
+msgstr "Азия/Красноярск"
+
+msgid "Asia/Kuala_Lumpur"
+msgstr "Азия/Куала_Лумпур"
+
+msgid "Asia/Kuching"
+msgstr "Азия/Кучинг"
+
+msgid "Asia/Kuwait"
+msgstr "Азия/Кувейт"
+
+msgid "Asia/Macau"
+msgstr "Азия/Макао"
+
+msgid "Asia/Magadan"
+msgstr "Азия/Магадан"
+
+msgid "Asia/Makassar"
+msgstr "Азия/Макассар"
+
+msgid "Asia/Manila"
+msgstr "Азия/Манила"
+
+msgid "Asia/Muscat"
+msgstr "Азия/Мускат"
+
+msgid "Asia/Nicosia"
+msgstr "Азия/Никозия"
+
+msgid "Asia/Novosibirsk"
+msgstr "Азия/Новосибирск"
+
+msgid "Asia/Omsk"
+msgstr "Азия/Омск"
+
+msgid "Asia/Oral"
+msgstr "Азия/Уральск"
+
+msgid "Asia/Phnom_Penh"
+msgstr "Азия/Пном_Пень"
+
+msgid "Asia/Pontianak"
+msgstr "Азия/Понтианак"
+
+msgid "Asia/Pyongyang"
+msgstr "Азия/Пхеньян"
+
+msgid "Asia/Qatar"
+msgstr "Азия/Катар"
+
+msgid "Asia/Qyzylorda"
+msgstr "Азия/Кызылорда"
+
+msgid "Asia/Rangoon"
+msgstr "Азия/Рангун"
+
+msgid "Asia/Riyadh"
+msgstr "Азия/Рияд"
+
+msgid "Asia/Sakhalin"
+msgstr "Азия/Сахалин"
+
+msgid "Asia/Samarkand"
+msgstr "Азия/Самарканд"
+
+msgid "Asia/Seoul"
+msgstr "Азия/Сеул"
+
+msgid "Asia/Shanghai"
+msgstr "Азия/Шанхай"
+
+msgid "Asia/Singapore"
+msgstr "Азия/Сингапур"
+
+msgid "Asia/Taipei"
+msgstr "Азия/Тайпей"
+
+msgid "Asia/Tashkent"
+msgstr "Азия/Ташкент"
+
+msgid "Asia/Tbilisi"
+msgstr "Азия/Тбилиси"
+
+msgid "Asia/Tehran"
+msgstr "Азия/Тегеран"
+
+msgid "Asia/Thimphu"
+msgstr "Азия/Тхимпху"
+
+msgid "Asia/Tokyo"
+msgstr "Азия/Токио"
+
+msgid "Asia/Ulaanbaatar"
+msgstr "Азия/Уланбатор"
+
+msgid "Asia/Vientiane"
+msgstr "Азия/Вьентьян"
+
+msgid "Asia/Vladivostok"
+msgstr "Азия/Владивосток"
+
+msgid "Asia/Yakutsk"
+msgstr "Азия/Якутск"
+
+msgid "Asia/Yekaterinburg"
+msgstr "Азия/Екатеринбург"
+
+msgid "Asia/Yerevan"
+msgstr "Азия/Ереван"
+
+msgid "Ask at boot"
+msgstr "Спрашивать при загрузке"
+
+msgid "Assign a random password by default"
+msgstr "Случайный пароль по умолчанию"
+
+msgid "Atlantic/Azores"
+msgstr "Атлантика/Азоры"
+
+msgid "Atlantic/Bermuda"
+msgstr "Атлантика/Бермуды"
+
+msgid "Atlantic/Canary"
+msgstr "Атлантика/Канары"
+
+msgid "Atlantic/Cape_Verde"
+msgstr "Атлантика/Капо_Верде"
+
+msgid "Atlantic/Madeira"
+msgstr "Атлантика/Мадейра"
+
+msgid "Atlantic/Reykjavik"
+msgstr "Атлантика/Рейкьявик"
+
+msgid "Atlantic/South_Georgia"
+msgstr "Атлантика/Южная_Джорджия"
+
+msgid "Atlantic/St_Helena"
+msgstr "Атлантика/остров_Святой_Елены"
+
+msgid "Atlantic/Stanley"
+msgstr "Атлантика/Стенли"
+
+msgid "Australia/Adelaide"
+msgstr "Атлантика/Аделаида"
+
+msgid "Australia/Brisbane"
+msgstr "Австралия/Брисбен"
+
+msgid "Australia/Broken_Hill"
+msgstr "Австралия/Брокен_Хилл"
+
+msgid "Australia/Currie"
+msgstr "Австралия/Карри"
+
+msgid "Australia/Darwin"
+msgstr "Австралия/Дарвин"
+
+msgid "Australia/Hobart"
+msgstr "Австралия/Хобарт"
+
+msgid "Australia/LHI"
+msgstr "Австралия/LHI"
+
+msgid "Australia/Lindeman"
+msgstr "Австралия/Линдеман"
+
+msgid "Australia/Lord_Howe"
+msgstr "Австралия/Лорд_Хоу"
+
+msgid "Australia/Melbourne"
+msgstr "Австралия/Мельбурн"
+
+msgid "Australia/NSW"
+msgstr "Австралия/NSW"
+
+msgid "Australia/Perth"
+msgstr "Австралия/Перт"
+
+msgid "Australia/Sydney"
+msgstr "Австралия/Сидней"
+
+msgid "Authentication fails"
+msgstr "Ошибка проверки подлинности"
+
+msgid "Automatic"
+msgstr "Автоматический режим"
+
+msgid ""
+"Bad password: %s.\n"
+"Please try with a new password"
+msgstr ""
+"Плохой пароль: %s.\n"
+"Пожалуйста попробуйте новый пароль"
+
+msgid "Boot"
+msgstr "Загрузка"
+
+msgid "Boot Append Editor"
+msgstr "Редкатор загрузки"
+
+msgid "Boot Image Editor"
+msgstr "Редактор загрузочного образа"
+
+msgid "Boot Manager Settings"
+msgstr "Настройки менеджера загрузки ОС"
+
+msgid "C_lear"
+msgstr "О_чистить"
+
+msgid "C_onfiguration:"
+msgstr "К_онфигурация:"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cannot create a home directory on an automounted filesystem."
+msgstr ""
+"Невозможно создать домашний каталог в файловой системе с автоматическим "
+"монтированием."
+
+msgid "Change _Host name"
+msgstr "Изменить имя _узла"
+
+msgid "Change system time, date, and timezone"
+msgstr "Установка времени, даты и часового пояса."
+
+msgid "Changing profile"
+msgstr "Изменение профиля"
+
+msgid "Check password _quality"
+msgstr "Проверить качество пароля"
+
+msgid ""
+"Check that it is correctly typed and that it is correctly supported by your "
+"system."
+msgstr ""
+"Проверьте что введенное значение корректно и поддерживается Вашей системой."
+
+msgid ""
+"Check that the device is not busy and that is correctly attached to the "
+"computer."
+msgstr "Проверьте что устройство не занято и подключено к Вашему компьютеру."
+
+msgid ""
+"Check that the settings are correct for this network and that the computer "
+"is correctly connected to it."
+msgstr ""
+"Проверьте что настройки этой сети правильны и что компьютер действительно "
+"подсоединен к ней."
+
+msgid "Check that this character is not used."
+msgstr "Проверьте что данные символы не используются."
+
+msgid ""
+"Check that you have access to this network and that the computer is actually "
+"working and running the SSH daemon"
+msgstr ""
+"Проверьте, есть ли у вас доступ к этой сети, что удаленный узел работает и "
+"на нем запущен SSHD"
+
+msgid "Check that you have permissions to run this command"
+msgstr ""
+"Проверьте, что у вас есть права для того, чтобы запуситить данную команду"
+
+msgid "Check that you have provided the same password in both text fields."
+msgstr "Убедитесь, что вы написали одинаковые пароли в обоих полях ввода."
+
+msgid ""
+"Check that you typed it correctly and that you haven't activated the \"caps "
+"lock\" key"
+msgstr ""
+"Проверьте, что вы правильно ввели пароль и то, что в тот момент когда вы его "
+"набирали не была включена клавиша \"Caps Lock\""
+
+msgid "Choice"
+msgstr "Выбор"
+
+msgid ""
+"Choose a kernel image to boot, and a partition to mount as the root "
+"partition. Optionally, you may also enter parameters passed to the kernel at "
+"boot time."
+msgstr ""
+"Выберите загружаемый образ ядра и раздел диска для монтирования в корень. "
+"Можно также указать параметры ядра при загрузке."
+
+msgid "Choose which folders are visible to other users on your network"
+msgstr "Выберите папки, видимые другим пользователям в локальной сети"
+
+msgid "Click \"Forward\" to continue"
+msgstr "Нажмите \"Вперед\" для продолжения"
+
+msgid "Clock synchronization service"
+msgstr "Синхронизация часов"
+
+msgid ""
+"Comma separated list of hosts that the GST will be able to access when the "
+"remote configuration option is enabled"
+msgstr ""
+"Список узлов, разделенных запятыми, с которых разрешена конфигурация системы "
+"с помощью системных средств."
+
+msgid "Comment"
+msgstr "Коментарий"
+
+msgid "Comment:"
+msgstr "Коментарий:"
+
+msgid "Computer activity logger"
+msgstr "Журналирование"
+
+msgid "Con_firmation:"
+msgstr "Под_тверждение:"
+
+msgid "Configure a network interface"
+msgstr "Настроить сетевой интерфейс"
+
+msgid "Configure network devices and connections"
+msgstr "Настроить сетевые устройства и соединения"
+
+msgid "Configure the first network interface with a specific type"
+msgstr "Установить тип первого сетевого интерфейса"
+
+msgid "Configure the system boot process"
+msgstr "Настройить процесс загрузки системы"
+
+msgid "Configure which folders are available for your network neighborhood"
+msgstr "Задать папки доступные для сетевого окружения"
+
+msgid "Configure which services will be run when the system starts"
+msgstr "Установить какие службы будут запущенны при загрузке системы"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgid "Connections"
+msgstr "Соединения"
+
+msgid "Continue"
+msgstr "Продолжить"
+
+msgid "Could not autodetect modem device"
+msgstr "Не удалось найти модем"
+
+msgid "Could not display help"
+msgstr "Не удалось отобразить помощь"
+
+msgid "Could not enable the interface %s"
+msgstr "Не удается активировать интерфейс %s"
+
+msgid "Could not execute the backend"
+msgstr "Не удалось запустить внутренюю программу"
+
+msgid "Could not find widget: %s"
+msgstr "Не удалось найти виджет: %s"
+
+msgid "Could not run \"%s\""
+msgstr "Не удалось запустить \"%s\""
+
+msgid "Create New Group"
+msgstr "Создать новую группу"
+
+msgid "Create New profile"
+msgstr "Создать новый профиль"
+
+msgid "Create location"
+msgstr "Создать расположение"
+
+msgid "Creating a new boot image"
+msgstr "Создать новый образ"
+
+msgid "Creating a new boot image (%d of %d)"
+msgstr "Создание нового загрузочного образа (%d of %d)"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "DNS services"
+msgstr "Службы DNS"
+
+msgid "D_omain name:"
+msgstr "Имя _домена:"
+
+msgid "Data storage system"
+msgstr "Система хранения данных"
+
+msgid "Database server"
+msgstr "Сервер базы данных"
+
+msgid "Days between warning and password expiration:"
+msgstr "Дней между предупреждением и блокированием пароля:"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default _gateway device:"
+msgstr "_Шлюз по умолчанию:"
+
+msgid "Default _group:"
+msgstr "_Группа по умолчанию:"
+
+msgid "Default _shell:"
+msgstr "_Shell по умолчанию:"
+
+msgid "Delete current location"
+msgstr "Удалить текущее расположение"
+
+msgid "Delete profile \"%s\"?"
+msgstr "Удалить профиль \"%s\"?"
+
+msgid "Delivers your outgoing mail"
+msgstr "Доставляет вашу почту"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Device:"
+msgstr "Устройство:"
+
+msgid "Do not share"
+msgstr "Не публиковать"
+
+msgid "Do not use WINS server"
+msgstr "Не использовать сервер WINS"
+
+msgid "Do you want to remove this location?"
+msgstr "Вы действительно хотите удалить расположение?"
+
+msgid "Domain / _Workgroup"
+msgstr "Домен / _Рабочая группа"
+
+msgid "Don't ask me again"
+msgstr "Не спрашивать в следующий раз"
+
+msgid "Don't show me this again"
+msgstr "Не показывать в следующий раз"
+
+msgid "Dos"
+msgstr "DOS"
+
+msgid "Downloads your mail from remote accounts"
+msgstr "Скачивает почту с удаленных почтовых ящиков"
+
+msgid "E_nable this connection"
+msgstr "_Активировать соединение"
+
+msgid "Enable IDE SCSI emulation"
+msgstr "Включить эмуляцию IDE SCSI"
+
+msgid "Enter Password"
+msgstr "Введите пароль"
+
+msgid ""
+"Enter a name for the boot image, and specify what kind of operating system "
+"it is."
+msgstr ""
+"Введите имя загрузочного образа и укажите какая это будет операционная "
+"система."
+
+msgid "Error connection signal `%s' in widget `%s'"
+msgstr "Ошибка подключения сигнала \"%s\" в виджете \"%s\""
+
+msgid "Error creating boot image"
+msgstr "Произошла ошибка при создания загрузочного образа"
+
+msgid "Error deleting boot image"
+msgstr "При удалении загрузочного образа произошла ошибка"
+
+msgid "Error modifying boot image"
+msgstr "Произошла ошибка при изменении загрузочного образа"
+
+msgid "Error saving profile"
+msgstr "Произошла ошибка при сохранении профиля"
+
+msgid "Ethernet connection"
+msgstr "Соединение Ethernet"
+
+msgid "Europe/"
+msgstr "Европа/"
+
+msgid "Europe/Amsterdam"
+msgstr "Европа/Амстердам"
+
+msgid "Europe/Andorra"
+msgstr "Европа/Андорра"
+
+msgid "Europe/Athens"
+msgstr "Европа/Афины"
+
+msgid "Europe/Belgrade"
+msgstr "Европа/Белград"
+
+msgid "Europe/Berlin"
+msgstr "Европа/Берлин"
+
+msgid "Europe/Bratislava"
+msgstr "Европа/Братислава"
+
+msgid "Europe/Brussels"
+msgstr "Европа/Брюссель"
+
+msgid "Europe/Bucharest"
+msgstr "Европа/Бухарест"
+
+msgid "Europe/Budapest"
+msgstr "Европа/Будапешт"
+
+msgid "Europe/Chisinau"
+msgstr "Европа/Кишинэу"
+
+msgid "Europe/Copenhagen"
+msgstr "Европа/Копенгаген"
+
+msgid "Europe/Dublin"
+msgstr "Европа/Дублин"
+
+msgid "Europe/Gibraltar"
+msgstr "Европа/Гибралтар"
+
+msgid "Europe/Guernsey"
+msgstr "Европа/Гернси"
+
+msgid "Europe/Helsinki"
+msgstr "Европа/Хельсинки"
+
+msgid "Europe/Isle_of_Man"
+msgstr "Европа/Остров_Мэн"
+
+msgid "Europe/Istanbul"
+msgstr "Европа/Стамбул"
+
+msgid "Europe/Jersey"
+msgstr "Европа/Джерси"
+
+msgid "Europe/Kaliningrad"
+msgstr "Европа/Калининград"
+
+msgid "Europe/Kiev"
+msgstr "Европа/Киев"
+
+msgid "Europe/Lisbon"
+msgstr "Европа/Лиссабон"
+
+msgid "Europe/Ljubljana"
+msgstr "Европа/Любляна"
+
+msgid "Europe/London"
+msgstr "Европа/Лондон"
+
+msgid "Europe/Luxembourg"
+msgstr "Европа/Люксембург"
+
+msgid "Europe/Madrid"
+msgstr "Европа/Мадрид"
+
+msgid "Europe/Malta"
+msgstr "Европа/Мальта"
+
+msgid "Europe/Mariehamn"
+msgstr "Европа/Мариехамн"
+
+msgid "Europe/Minsk"
+msgstr "Европа/Минск"
+
+msgid "Europe/Monaco"
+msgstr "Европа/Монако"
+
+msgid "Europe/Moscow"
+msgstr "Европа/Москва"
+
+msgid "Europe/Oslo"
+msgstr "Европа/Осло"
+
+msgid "Europe/Paris"
+msgstr "Европа/Париж"
+
+msgid "Europe/Podgorica"
+msgstr "Европа/Подгорица"
+
+msgid "Europe/Prague"
+msgstr "Европа/Прага"
+
+msgid "Europe/Riga"
+msgstr "Европа/Рига"
+
+msgid "Europe/Rome"
+msgstr "Европа/Рим"
+
+msgid "Europe/Samara"
+msgstr "Европа/Самара"
+
+msgid "Europe/San_Marino"
+msgstr "Европа/Сан_Марино"
+
+msgid "Europe/Sarajevo"
+msgstr "Европа/Сараево"
+
+msgid "Europe/Simferopol"
+msgstr "Европа/Симферополь"
+
+msgid "Europe/Skopje"
+msgstr "Европа/Скопле"
+
+msgid "Europe/Sofia"
+msgstr "Европа/София"
+
+msgid "Europe/Stockholm"
+msgstr "Европа/Стокгольм"
+
+msgid "Europe/Tallinn"
+msgstr "Европа/Таллин"
+
+msgid "Europe/Tirane"
+msgstr "Европа/Тирана"
+
+msgid "Europe/Uzhgorod"
+msgstr "Европа/Ужгород"
+
+msgid "Europe/Vaduz"
+msgstr "Европа/Вадуз"
+
+msgid "Europe/Vatican"
+msgstr "Европа/Ватикан"
+
+msgid "Europe/Vienna"
+msgstr "Европа/Вена"
+
+msgid "Europe/Vilnius"
+msgstr "Европа/Вильнюс"
+
+msgid "Europe/Volgograd"
+msgstr "Европа/Волгоград"
+
+msgid "Europe/Warsaw"
+msgstr "Европа/Варшава"
+
+msgid "Europe/Zagreb"
+msgstr "Европа/Загреб"
+
+msgid "Europe/Zaporozhye"
+msgstr "Европа/Запорожье"
+
+msgid "Europe/Zurich"
+msgstr "Европа/Цюрих"
+
+msgid "Executes scheduled actions"
+msgstr "Выполняет запланированные задания"
+
+msgid "FTP service"
+msgstr "Сервер FTP"
+
+msgid "File sharing service"
+msgstr "Служба разделения файлов"
+
+msgid "Finished"
+msgstr "Завершено"
+
+msgid "Finished creating a new boot image"
+msgstr "Создание нового загрузочного образа завершенно"
+
+msgid "Folder sharing service"
+msgstr "Система публикации папок"
+
+msgid "GID"
+msgstr "GID"
+
+msgid "GNOME System Tools"
+msgstr "Утилиты настройки системы"
+
+msgid "GNU/Hurd"
+msgstr "GNU/Hurd"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "General Windows sharing settings"
+msgstr "Общие настройки публикации файлов в сетях Windows"
+
+msgid "Generate _random password"
+msgstr "Сгенерировать _произвольный пароль"
+
+msgid "Graphical login manager"
+msgstr "Графическое приглашение"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Group \"%s\" already exists"
+msgstr "Группа \"%s\" уже существует"
+
+msgid "Group ID %s already exists"
+msgstr "ID группы %s уже существует"
+
+msgid "Group ID must be a positive number"
+msgstr "ID групы должен быть положительным числом"
+
+msgid "Group ID of the \"root\" user should not be modified"
+msgstr "ID группы \"root\" не должен быть изменён."
+
+msgid "Group _ID:"
+msgstr "_ID группы:"
+
+msgid "Group _members:"
+msgstr "_Члены группы:"
+
+msgid "Group _name:"
+msgstr "_Имя группы:"
+
+msgid "Group name contains"
+msgstr "Название группы содержит"
+
+msgid "Group name has invalid characters"
+msgstr "Имя группы содержит запрещенные символы"
+
+msgid "Group name is empty"
+msgstr "Название группы пусто"
+
+msgid "Group name of the \"root\" user should not be modified"
+msgstr "Имя группы \"root\" не должено быть изменёно"
+
+msgid "Group properties"
+msgstr "Установки группы:"
+
+msgid "Groups"
+msgstr "Группы"
+
+msgid "Home"
+msgstr "Домашний каталог"
+
+msgid "Home directory of the \"root\" user should not be modified"
+msgstr "Домашний каталог пользователя \"root\" не должен быть изменён"
+
+msgid "Home directory should not be empty"
+msgstr "Домашний каталог должен быть не пустым"
+
+msgid "Hongkong"
+msgstr "Гонгконг"
+
+msgid "Host alias settings"
+msgstr "Настройки псевдонимов узлов"
+
+msgid "Host name:"
+msgstr "Имя узла:"
+
+msgid "Hosts"
+msgstr "Узлы"
+
+msgid "Hosts in the %s network"
+msgstr "Узлы в сети %s"
+
+msgid "INTERFACE"
+msgstr "Интерфейс"
+
+msgid "IP Address"
+msgstr "IP адрес"
+
+msgid "IP address:"
+msgstr "IP адрес:"
+
+msgid "ISDN connection"
+msgstr "ISDN соединение"
+
+msgid ""
+"If you know for sure that it works like one of the platforms listed below, "
+"you can select that and continue. Note, however, that this might damage the "
+"system configuration or downright cripple your computer."
+msgstr ""
+"Если Вы действительно уверены, что работа происходит так же, как на одной из "
+"платформ, перечисленных ниже, Вы можете выбрать ее и продолжить. Однако, "
+"велик риск повреждения системной конфигурации, данных и даже компьютера"
+
+msgid "Incomplete path in home directory"
+msgstr "Неполный путь к домашнему каталогу."
+
+msgid "Incomplete path in shell"
+msgstr "Неполный путь к командной строке"
+
+msgid "Indian/Antananarivo"
+msgstr "Индийский океан/Антананариву"
+
+msgid "Indian/Chagos"
+msgstr "Индийский океан/Чагос"
+
+msgid "Indian/Christmas"
+msgstr "Индийский океан/Кристмас"
+
+msgid "Indian/Cocos"
+msgstr "Индийский океан/Кокос"
+
+msgid "Indian/Comoro"
+msgstr "Индийский океан/Коморо"
+
+msgid "Indian/Kerguelen"
+msgstr "Индийский океан/Кергелен"
+
+msgid "Indian/Mahe"
+msgstr "Индийский океан/Мэй"
+
+msgid "Indian/Maldives"
+msgstr "Индийский океан/Мальдивы"
+
+msgid "Indian/Mauritius"
+msgstr "Индийский океан/Маврикий"
+
+msgid "Indian/Mayotte"
+msgstr "Индийский океан/Майотт"
+
+msgid "Indian/Reunion"
+msgstr "Индийский океан/Реюньон"
+
+msgid "Infrared connection"
+msgstr "Инфракрасное соединение"
+
+msgid "Install NTP support"
+msgstr "Установить поддержку NTP"
+
+msgid "Interface name:"
+msgstr "Имя интерфейса:"
+
+msgid "Interface properties"
+msgstr "Свойства интерфейса"
+
+msgid "Invalid VGA value"
+msgstr "Неверное значение VGA"
+
+msgid "Invalid character \"%c\" in comment"
+msgstr "В комментариях невозможно использовать символ \"%c\""
+
+msgid "Invalid group ID"
+msgstr "Неверное ID группы"
+
+msgid "Invalid image name: \"%s\"."
+msgstr "Имя образа \"%s\" некорректно."
+
+msgid "Invalid image: \"%s\"."
+msgstr "Некорректный образ: \"%s\"."
+
+msgid "Invalid root device: \"%s\"."
+msgstr "Корневое устройство \"%s\" указано неверно."
+
+msgid "Invalid user ID"
+msgstr "Неверный идентификатор пользователя"
+
+msgid "Japan"
+msgstr "Япония"
+
+msgid "Keeps a log of your computer activity"
+msgstr "Сохраняет журнал активности"
+
+msgid "Kernel Image"
+msgstr "Образ ядра"
+
+msgid "Key _type:"
+msgstr "Тип _ключа:"
+
+msgid "Last GST version executed"
+msgstr "Последняя выполнявшаяся версия прораммы системные стредства"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Linux swap"
+msgstr "Linux swap"
+
+msgid "Location name:"
+msgstr "Имя расположения:"
+
+msgid "Location:"
+msgstr "Расположение:"
+
+msgid "Ma_ximum days a password may be used:"
+msgstr "Максимум дней когда пароль может использоваться:"
+
+msgid "Mail agent"
+msgstr "Почтовый агент"
+
+msgid "Mail fetcher"
+msgstr "Сбор почты"
+
+msgid "Make sure you provide a home directory."
+msgstr "Убедитесь в том, что вы точно указали путь к домашней директории"
+
+msgid "Manual"
+msgstr "Ручной режим"
+
+msgid "Maximum UID:"
+msgstr "Максимальный UID:"
+
+msgid "Mi_nimum days between password changes:"
+msgstr "Минимум дней между тем когда пароль должен быть изменен:"
+
+msgid "Minimum GID:"
+msgstr "Минимальный GID:"
+
+msgid "Minimum UID:"
+msgstr "Минимальный UID:"
+
+msgid "Minimum days allowed between password changes:"
+msgstr "Минимальное время для смены пароля в днях:"
+
+msgid "Modem"
+msgstr "Модем"
+
+msgid "Modem connection"
+msgstr "Соединение по модему"
+
+msgid "Mounts your volumes automatically"
+msgstr "Автоматически подсоединяет новые разделы"
+
+msgid "NFS"
+msgstr "NFS"
+
+msgid "NTP server"
+msgstr "NTP сервер"
+
+msgid "NTP support is not installed"
+msgstr "Поддержка протокола NTP не установлена"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "Netmask:"
+msgstr "Маска подсети:"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Network Administration"
+msgstr "Администрирование сети"
+
+msgid "Network name (_ESSID):"
+msgstr "Сетевое имя (_ESSID):"
+
+msgid "Network service"
+msgstr "Сетевая служба"
+
+msgid "Network settings"
+msgstr "Сетевые настройки"
+
+msgid "Network:"
+msgstr "Сеть:"
+
+msgid "Networking"
+msgstr "Сетевые настройки"
+
+msgid "Non-described network-specific service"
+msgstr "Неописанное сетевая служба"
+
+msgid "Non-described system-specific service"
+msgstr "Неописанная системная служба"
+
+msgid "Number of colors:"
+msgstr "Количество цветов:"
+
+msgid "Number of days that a password may be used:"
+msgstr "Время использования пароля в днях:"
+
+msgid "O_ffice location:"
+msgstr "_Расположение:"
+
+msgid ""
+"Off\n"
+"Low\n"
+"Medium\n"
+"Loud"
+msgstr ""
+"Выключено\n"
+"Тихо\n"
+"Средне\n"
+"Громко"
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Other computers in your network will stop viewing this."
+msgstr "Удаленные узлы не смогут получить доступ."
+
+msgid "Other parameters:"
+msgstr "Другие параметры:"
+
+msgid "PATH"
+msgstr "Путь"
+
+msgid "PRC"
+msgstr "КНР"
+
+msgid "P_assword"
+msgstr "_Пароль"
+
+msgid "Pacific/Apia"
+msgstr "Тихий океан/Апиа"
+
+msgid "Pacific/Auckland"
+msgstr "Тихий океан/Окленд"
+
+msgid "Pacific/Chatham"
+msgstr "Тихий океан/Чатем"
+
+msgid "Pacific/Easter"
+msgstr "Тихий океан/остров_Пасхи"
+
+msgid "Pacific/Efate"
+msgstr "Тихий океан/Эфат"
+
+msgid "Pacific/Enderbury"
+msgstr "Тихий океан/Эндербери"
+
+msgid "Pacific/Fakaofo"
+msgstr "Тихий океан/Факаофо"
+
+msgid "Pacific/Fiji"
+msgstr "Тихий океан/Фиджи"
+
+msgid "Pacific/Funafuti"
+msgstr "Тихий океан/Фунафути"
+
+msgid "Pacific/Galapagos"
+msgstr "Тихий океан/Галапагос"
+
+msgid "Pacific/Gambier"
+msgstr "Тихий океан/Гамбиер"
+
+msgid "Pacific/Guadalcanal"
+msgstr "Тихий океан/Гвадалканал"
+
+msgid "Pacific/Guam"
+msgstr "Тихий океан/Гуам"
+
+msgid "Pacific/Honolulu"
+msgstr "Тихий океан/Гонолулу"
+
+msgid "Pacific/Johnston"
+msgstr "Тихий океан/Джонстон"
+
+msgid "Pacific/Kiritimati"
+msgstr "Тихий океан/Киритимати"
+
+msgid "Pacific/Kosrae"
+msgstr "Тихий океан/Косраэ"
+
+msgid "Pacific/Kwajalein"
+msgstr "Тихий океан/Кваджалейн"
+
+msgid "Pacific/Majuro"
+msgstr "Тихий океан/Маджуро"
+
+msgid "Pacific/Marquesas"
+msgstr "Тихий океан/Маркизы"
+
+msgid "Pacific/Midway"
+msgstr "Тихий океан/Мидуэй"
+
+msgid "Pacific/Nauru"
+msgstr "Тихий океан/Науру"
+
+msgid "Pacific/Niue"
+msgstr "Тихий океан/Ниуэ"
+
+msgid "Pacific/Norfolk"
+msgstr "Тихий океан/Норфолк"
+
+msgid "Pacific/Noumea"
+msgstr "Тихий океан/Ноумеа"
+
+msgid "Pacific/Pago_Pago"
+msgstr "Тихий океан/Паго_Паго"
+
+msgid "Pacific/Palau"
+msgstr "Тихий океан/Палао"
+
+msgid "Pacific/Pitcairn"
+msgstr "Тихий океан/Питкерн"
+
+msgid "Pacific/Ponape"
+msgstr "Тихий океан/Понапе"
+
+msgid "Pacific/Port_Moresby"
+msgstr "Тихий океан/Порт_Морсби"
+
+msgid "Pacific/Rarotonga"
+msgstr "Тихий океан/Раротонга"
+
+msgid "Pacific/Saipan"
+msgstr "Тихий океан/Сайпан"
+
+msgid "Pacific/Tahiti"
+msgstr "Тихий океан/Таити"
+
+msgid "Pacific/Tarawa"
+msgstr "Тихий океан/Тарава"
+
+msgid "Pacific/Tongatapu"
+msgstr "Тихий океан/Тонгатапу"
+
+msgid "Pacific/Truk"
+msgstr "Тихий океан/Трук"
+
+msgid "Pacific/Wake"
+msgstr "Тихий океан/Уэйк"
+
+msgid "Pacific/Wallis"
+msgstr "Тихий океан/Уоллис"
+
+msgid "Parallel port connection"
+msgstr "Соединение через параллельный порт"
+
+msgid "Password"
+msgstr "Пароль"
+
+msgid "Password confirmation is not correct."
+msgstr "Подтверждение пароля и пароль не совпадают."
+
+msgid "Password confirmation isn't correct"
+msgstr "Подтверждение пароля не совпадает с самим паролем"
+
+msgid "Password set to: "
+msgstr "Пароль будет таким: "
+
+msgid "Password should not be empty"
+msgstr "Пароль не должен быть пустым"
+
+msgid "Passwords do not match"
+msgstr "Пароли не совпадают"
+
+msgid "Periodically s_ynchronize clock with Internet servers:"
+msgstr "Периодическая _синхронизация часов с серверами в сети Интернет:"
+
+msgid ""
+"Plain (ASCII)\n"
+"Hexadecimal"
+msgstr ""
+"Текст (ASCII)\n"
+"Шестнадцатиричный"
+
+msgid ""
+"Please enter full path for home directory\n"
+"<span size=\"smaller\">i.e.: /home/john</span>."
+msgstr ""
+"Пожалуйста, укажите полный путь к домашнему каталогу\n"
+"<span size=\"smaller\">например: /home/john</span>."
+
+msgid ""
+"Please enter full path for shell\n"
+"<span size=\"smaller\">i.e.: /bin/sh</span>."
+msgstr ""
+"Введите полный путь до shell'а\n"
+"<span size=\"smaller\">например: /bin/sh</span>."
+
+msgid ""
+"Please install and activate NTP support in the system to enable "
+"synchronization of your local time server with Internet time servers."
+msgstr ""
+"Установите и активируйте поддержку NTP для обеспечения возможности "
+"синхронизации локального сервера времени с серварами Интернет."
+
+msgid "Please pick an alternative base directory for the users home directory."
+msgstr "Выберите другой базовый каталог для домашнего каталога пользователя."
+
+msgid "Please select a different User ID."
+msgstr "Выберите другой идентификатор пользователя."
+
+msgid "Please select a different group name"
+msgstr "Пожалуйста выберите другое имя группы"
+
+msgid "Please select a different user name."
+msgstr "Выберите другое имя пользователя."
+
+msgid "Please set a valid group name, using only lower case letters"
+msgstr ""
+"Пожалуйста установите допустимое название группы, используя символы нижнего "
+"регистра."
+
+msgid ""
+"Please set a valid user name consisting of a lower case letter followed by "
+"lower case letters and numbers."
+msgstr ""
+"Пожалуйста выберите допустимое имя пользователя, используя только символы "
+"нижнего регистра и цифры."
+
+msgid "Poland"
+msgstr "Польша"
+
+msgid "Preferred bootloader that boot-admin will configure"
+msgstr ""
+"Предпочтительный загрузчик, конфигурируемый с помощью программы настройки "
+"загрузчика"
+
+msgid "Printer service"
+msgstr "Печать"
+
+msgid "Privileges"
+msgstr "Привилегии"
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Profile _name:"
+msgstr "_Имя профиля:"
+
+msgid "Protect with password"
+msgstr "Защитить паролем"
+
+msgid "ROK"
+msgstr "Республика Корея"
+
+msgid "Read only"
+msgstr "Только чтение"
+
+msgid "Remote administration"
+msgstr "Администрирование удаленно"
+
+msgid "Remote hosts"
+msgstr "Удаленные узлы"
+
+msgid "Remote shell server"
+msgstr "Удаленная командная строка"
+
+msgid "Resolution:"
+msgstr "Разрешение:"
+
+msgid "Run _Without Password"
+msgstr "Запустить _без пароля"
+
+msgid "SMB"
+msgstr "SMB"
+
+msgid "S_ynchronize clock with Internet servers:"
+msgstr "Синхронизировать часы с Интернет серверами:"
+
+msgid "Se_lect Servers..."
+msgstr "Вы_брать серверы..."
+
+msgid "Seconds to wait before loading default kernel or OS"
+msgstr "Ожидание в секундах до загрузки ОС по умолчанию"
+
+msgid "Secure shell server"
+msgstr "Безопасная удаленная командная строка"
+
+msgid "Select a kernel image"
+msgstr "Образ ядра"
+
+msgid "Select an initrd image"
+msgstr "Образ диска с драйверами (initrd)"
+
+msgid "Select location name"
+msgstr "Выберите расположение"
+
+msgid "Select the services that you wish to activate:"
+msgstr "Сервисы для активации:"
+
+msgid "Services"
+msgstr "Службы"
+
+msgid "Services settings"
+msgstr "Настройки служб"
+
+msgid "Set password b_y hand"
+msgstr "Ввести пароль _вручную"
+
+msgid "Settings for \"%s\""
+msgstr "Установки для \"%s\""
+
+msgid "Settings for Group %s"
+msgstr "Установки для группы %s"
+
+msgid "Settings for User %s"
+msgstr "Установки для пользователя %s"
+
+msgid "Settings for profile %s"
+msgstr "Установки профиля %s"
+
+msgid ""
+"Several users may share a single user ID, but it's not common and may lead "
+"to security problems."
+msgstr ""
+"Несколько пользователей могут использовать один идентификатор пользователя, "
+"но это не стандартная операция и она может ввызвать проблемы с защищенностью "
+"системы."
+
+msgid "Share folder"
+msgstr "Общая папка"
+
+msgid "Share this folder with other computers"
+msgstr "Опубликовать папку для доступа с удаленных узлов"
+
+msgid "Share with:"
+msgstr "Общая с:"
+
+msgid "Shared Folders"
+msgstr "Опубликованные папки"
+
+msgid "Shared folders settings"
+msgstr "Настройки публикации папок"
+
+msgid "Shares files over the Internet"
+msgstr "Разделяет файлы по Интернету"
+
+msgid "Shares folders over your network"
+msgstr "Разделяет папки по вашей сети"
+
+msgid "Shares your web pages over the Internet"
+msgstr "Публикует ваши веб-страницы в Интернете"
+
+msgid "Sharing services are not installed"
+msgstr "Поддержка публикации папок не установлена"
+
+msgid "Shell"
+msgstr "Shell"
+
+msgid "Show a_ll users and groups"
+msgstr "Показывать всех пользователей и все группы"
+
+msgid "Specify IP address"
+msgstr "Задать IP адрес"
+
+msgid "Specify hostname"
+msgstr "Задать узел"
+
+msgid "Specify network"
+msgstr "Задать сеть"
+
+msgid "Specify the partition on which the operating system is installed."
+msgstr "Укажите раздел диска на который операционная система установленна."
+
+msgid "Start and stop daemons and system services"
+msgstr "Включение и отключение демонов и системных служб"
+
+msgid ""
+"Static IP address\n"
+"DHCP"
+msgstr ""
+"Статический адрес IP\n"
+"DHCP"
+
+msgid "Synchronize _Now"
+msgstr "Син_хронизировать сейчас"
+
+msgid "Synchronize only once with Internet servers:"
+msgstr "Однократно синхронизировать с серверами в сети Интернет:"
+
+msgid "Synchronizes your computer clock with Internet time servers"
+msgstr "Синхронизирует часы вашего компьютера с серверами временив Интернете"
+
+msgid "Synchronzing clock now..."
+msgstr "Синхронизация часов..."
+
+msgid "System service"
+msgstr "Системная служба"
+
+msgid "TYPE"
+msgstr "Тип"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "The \"root\" user should not be deleted"
+msgstr "Пользователь \"root\" не должен быть удален"
+
+msgid ""
+"The GST are able to do remote configuration through SSH, enable this option "
+"to use this feature"
+msgstr ""
+"Системные средства позволяют настраивать систему удаленно через SSH, эта "
+"настройка влючает такую возможность"
+
+msgid "The configuration could not be loaded"
+msgstr "Не удалось загрузить установки"
+
+msgid "The configuration will show empty"
+msgstr "Эта конфигурация будет отображаться пустой"
+
+msgid "The default profile should not be deleted"
+msgstr "Профиль по умолчанию не может быть удален"
+
+msgid "The entered password is invalid"
+msgstr "Неверный пароль"
+
+msgid "The file \"%s\" is missing or could not be read."
+msgstr "Файл \"%s\" не найден или не может быть прочитан."
+
+msgid "The group \"root\" should not be deleted"
+msgstr "Группа \"root\" не должена быть удалена"
+
+msgid "The group name is too long"
+msgstr "Слишком длинное название группы"
+
+msgid "The host name has changed"
+msgstr "Имя узла изменено"
+
+msgid "The interface %s is active"
+msgstr "Интерфейс %s активен"
+
+msgid "The interface %s is not active"
+msgstr "Интерфейс %s не активен"
+
+msgid "The interface %s is not configured"
+msgstr "Интерфейс %s не сконфигурирован"
+
+msgid "The interface does not exist"
+msgstr "Интерфейс не существует"
+
+msgid "The last GST version that this computer has run"
+msgstr "Последняя выполнявшаяся на этом узле версия системных средств"
+
+msgid ""
+"The new boot image has been added. Please click \"Apply\" to save your "
+"changes."
+msgstr ""
+"Новый загрузочный образ был создан. Нажмите \"Применить\" для того, "
+"чтобысохранить изменения."
+
+msgid "The profile must have a default home"
+msgstr "У профиля должен быть задан домашний каталог"
+
+msgid "The profile must have a default shell"
+msgstr "У профиля должен быть shell по умолчанию"
+
+msgid "The profile must have a name"
+msgstr "У профиля должно быть имя"
+
+msgid "The tool could not connect to the computer"
+msgstr "Программа не может соединиться с удаленным компьютером."
+
+msgid "The user name is empty"
+msgstr "Имя пользователя пусто"
+
+msgid "The user name is too long"
+msgstr "Слишком длинное имя пользователя"
+
+msgid "There are changes which have not been applied"
+msgstr "Существуют несохраненные изменения"
+
+msgid "There was an error creating the child process, the tool will close now."
+msgstr ""
+"Возникла ошибка при создании дочернего процесса. Инструмент будет закрыт."
+
+msgid "There was an error running the backend script"
+msgstr "При запуске фонового сценария произошла ошибка"
+
+msgid ""
+"This assistant is designed to help you quickly and easily add a new boot "
+"image to your system."
+msgstr ""
+"Эта программа поможет Вам быстро и легко добавить новый загрузочный образ в "
+"Вашу систему."
+
+msgid "This computer is a WINS server"
+msgstr "Этот компьютер является сервером WINS"
+
+msgid ""
+"This is still a work in progress, and so it may have serious bugs. Due to "
+"the nature of these tools, bugs may render your computer <span weight=\"bold"
+"\">practically useless</span>, costing time, effort and sanity points. You "
+"have been warned. Thank you for trying out this prerelease of the GNOME "
+"System Tools!"
+msgstr ""
+"Работа все еще идет, поэтому возможны серьёзные ошибки. Эти средства "
+"работают с очень опасным материалом и такие ошибки могут сделать Ваш "
+"компьютер <span weight=\"bold\">бесполезным</span>, отнимая у Вас время, "
+"усилия и средства. Вы предупреждены. Спасибо за использование этой "
+"предварительной версии Системных Средств!"
+
+msgid ""
+"This key stores the bootloader that boot-admin will configure if there are "
+"more than one installed, if it's not set or isn't valid, then boot-admin "
+"will ask the user"
+msgstr ""
+"Этот ключ содержит загрузчик, конфигурируемый при настройке загрузчика.Если "
+"установлено более одного загрузчика, или значение ключа не установлено или "
+"некорректно, программа настройки загрузчика спросит пользователя"
+
+msgid ""
+"This may affect your system behavior in several ways, possibly leading to "
+"data loss"
+msgstr "Это может навредить работе Вашей системы и привести к потере данных"
+
+msgid "This may leave files with invalid group ID in the filesystem."
+msgstr "Могут остаться файлы с неверным идентификатором группы."
+
+msgid "This may leave this operating system unbootable."
+msgstr "Это может сделать загрузку системы невозможной."
+
+msgid "This profile is used for setting default data for new users"
+msgstr ""
+"Этот профиль используется для выставления значений по умолчанию для "
+"создаваемых пользователей"
+
+msgid ""
+"This will disable this user's access to the system without deleting the "
+"user's home directory."
+msgstr ""
+"Доступ пользователя в систему будет запрещён, но домашний каталог останется."
+
+msgid ""
+"This will prevent you from launching new applications, and so you will have "
+"to log in again. Continue anyway?"
+msgstr ""
+"Это не позволит вам запускать новые приложения и поэтому вам нужнобудет "
+"войти заново. Продолжить в любом случае?"
+
+msgid "This would leave the system unusable"
+msgstr "Это может сделать систему непригодной к использованию"
+
+msgid "This would leave the system unusable."
+msgstr "Это может сделать систему непригодной к использованию"
+
+msgid "Time and Date"
+msgstr "Дата и время"
+
+msgid "Time and Date Settings"
+msgstr "Установки даты и времени"
+
+msgid "Time servers"
+msgstr "Серверы времени"
+
+msgid "Time zone"
+msgstr "Часовой пояс"
+
+msgid "Time zone:"
+msgstr "Часовой пояс:"
+
+msgid "To be valid, the group name should have less than %d character"
+msgid_plural "To be valid, the group name should have less than %d characters"
+msgstr[0] "Допустимое имя группы должно иметь меньше чем %i символов."
+msgstr[1] "Допустимое имя пользователя должно иметь меньше чем %i символа."
+msgstr[2] "Допустимое имя пользователя должно иметь меньше чем %i символов."
+
+msgid "To be valid, the user name should have less than %d character"
+msgid_plural "To be valid, the user name should have less than %d characters"
+msgstr[0] "Допустимое имя пользователя должно иметь меньше чем %i символ."
+msgstr[1] "Допустимое имя пользователя должно иметь меньше чем %i символа."
+msgstr[2] "Допустимое имя пользователя должно иметь меньше чем %i символов."
+
+msgid ""
+"Tones\n"
+"Pulses"
+msgstr ""
+"Тональный\n"
+"Импульсный"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type address"
+msgstr "Тип адреса:"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "US/Pacific"
+msgstr "US/Тихий океан"
+
+msgid "Unknown"
+msgstr "Неизвестный"
+
+msgid "Unsupported Platform"
+msgstr "Неподдерживаемая платформа"
+
+msgid "Use WINS Server"
+msgstr "Использовать сервер WINS"
+
+msgid "Use the Internet service provider nameservers"
+msgstr "Использовать сервера имен провайдера Интернет"
+
+msgid "Use this window to select the computer you wish to configure"
+msgstr "Выберите компьютер который вы бы хотели настроить"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "User Account Editor"
+msgstr "Редактор пользовательских счетов"
+
+msgid "User GID is"
+msgstr "GID пользователя содержит"
+
+msgid "User ID \"%s\" already exists"
+msgstr "Идентификатор пользователя ID \"%s\" уже существует"
+
+msgid "User ID %s already exists"
+msgstr "ID пользователя %s уже существует"
+
+msgid "User ID is"
+msgstr "ID пользователя "
+
+msgid "User ID must be a positive number."
+msgstr "Идентификатор пользователя должен быть положительным числом."
+
+msgid "User ID of the \"root\" user should not be modified"
+msgstr "ID пользователя \"root\" не должен быть изменён."
+
+msgid "User _ID:"
+msgstr "_ID пользователя:"
+
+msgid "User _password:"
+msgstr "Пароль пользователя:"
+
+msgid "User details"
+msgstr "О пользователе"
+
+msgid "User name \"%s\" already exists"
+msgstr "Пользователь \"%s\" уже существует"
+
+msgid "User name contains"
+msgstr "Имя пользователя содержит"
+
+msgid "User name for the \"root\" user should not be modified"
+msgstr "Имя пользователя для пользователя \"root\" не должно быть изменено"
+
+msgid "User name has invalid characters"
+msgstr "Имя пользователя содержит запрещенные символы"
+
+msgid "User name new\"%s\" already exists"
+msgstr "Имя пользователя new\"%s\" уже существует"
+
+msgid "User privileges"
+msgstr "Привилегии пользователя"
+
+msgid "User profiles"
+msgstr "Профили пользователей"
+
+msgid "User roles"
+msgstr "Роли пользователя"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "Users and Groups"
+msgstr "Пользователи и группы"
+
+msgid "Video modes (only frame buffer)"
+msgstr "Видео режимы (только frame buffer)"
+
+msgid "Volumes mounter"
+msgstr "Подсоединение разделов"
+
+msgid "WEP _key:"
+msgstr "_Ключ WEP:"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Web server"
+msgstr "Web серверы"
+
+msgid "Welcome to the %s prerelease of the GNOME System Tools"
+msgstr "Добро пожаловать в %s пререлиз программы GNOME System Tools"
+
+msgid "Whether the tools will use remote administration or not"
+msgstr "Использовать удаленное администрирование"
+
+msgid "Whether the users-admin tool should show all users and groups or not"
+msgstr ""
+"Показывать все группы и всех пользователей в программе настройки "
+"пользователей"
+
+msgid "Whether the warning dialog should be shown or not"
+msgstr "Показывать диалог с предупреждение"
+
+msgid "Windows 9x"
+msgstr "Windows 9x"
+
+msgid "Windows NT"
+msgstr "Windows NT"
+
+msgid "Windows sharing settings"
+msgstr "Публикация файлов в сетях Windows"
+
+msgid "Wireless connection"
+msgstr "Беспроводное соединение"
+
+msgid "Without at least one boot image your computer will not start."
+msgstr "Ваш компьютер не запустится, если не указать образ."
+
+msgid ""
+"You need administrator privileges to use this tool. Enter a password to "
+"modify your system configuration."
+msgstr ""
+"Для использования этой программы нужны привилегии администратора. Введите "
+"пароль для изменения параметров вашей системы."
+
+msgid ""
+"You need to install at least either Samba or NFS in order to share your "
+"folders. The tool will close now."
+msgstr ""
+"Нужно установить либо поддержку Samba либо NFS для того, чтобы иметь "
+"возможность публиковать Ваши папки. Это приложение будет закрыто."
+
+msgid "You will not be able to recover this profile after pressing \"apply\"."
+msgstr "Вы не сможете востановить данный профиль после нажатия \"Применить\"."
+
+msgid ""
+"Your system is currently configured to manage the\\nnetwork automatically. "
+"Click \"%s\" to manually\\nconfigure the network connection."
+msgstr ""
+"В настоящее время в системе настроено автоматическое \\nуправление сетью. "
+"Щелкните \"%s\" для настройки \\nсетевого подключения вручную."
+
+msgid ""
+"Your system is currently configured to manage the\\nnetwork manually. Click "
+"\"%s\" to have the\\nnetwork configured automatically.\\n\\nOtherwise click "
+"\"%s\" to continue to\\nconfigure the network manually."
+msgstr ""
+"В системе в настоящее время настроено \\nуправление сетью в ручном режиме. "
+"Щелкните \"%s\" для настройки \\nсети в автоматическом режиме.\\n\\nЩелкните "
+"\"%s\" для продолжения настройки \\nсети в ручном режиме."
+
+msgid "_Activate"
+msgstr "_Включить"
+
+msgid "_Activate on boot"
+msgstr "_Активировать при начальной загрузке"
+
+msgid "_Add"
+msgstr "_Добавить"
+
+msgid "_Add Group..."
+msgstr "_Добавить группу..."
+
+msgid "_Add Profile..."
+msgstr "_Добваить профиль..."
+
+msgid "_Add User..."
+msgstr "_Добавить пользователя..."
+
+msgid "_Add host"
+msgstr "_Добавить узел"
+
+msgid "_Add..."
+msgstr "_Добавить..."
+
+msgid "_All users:"
+msgstr "_Все пользователи:"
+
+msgid "_Autodetect"
+msgstr "_Автообнаружение"
+
+msgid "_Comments"
+msgstr "_Коментарии"
+
+msgid "_Date:"
+msgstr "_Дата:"
+
+msgid "_Days between warning and password expiration:"
+msgstr "_Дней между предупреждением и блокированием пароля:"
+
+msgid "_Deactivate"
+msgstr "Выключить"
+
+msgid "_Delete"
+msgstr "_Удалить"
+
+msgid "_Device:"
+msgstr "_Устройство:"
+
+msgid "_Dial prefix:"
+msgstr "Префикс при наборе:"
+
+msgid "_Dial type:"
+msgstr "Способ _набора:"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Edit User Profiles..."
+msgstr "_Изменить профили пользователя..."
+
+msgid "_Gateway address:"
+msgstr "_Gateway адрес:"
+
+msgid "_Generate"
+msgstr "_Создать"
+
+msgid "_Home directory:"
+msgstr "_Домашняя каталог:"
+
+msgid "_Home phone:"
+msgstr "_Домашний телефон:"
+
+msgid "_Host description:"
+msgstr "_Описание узла:"
+
+msgid "_Hostname:"
+msgstr "Имя _узла:"
+
+msgid "_IP address:"
+msgstr "_IP адрес:"
+
+msgid "_Initrd image path:"
+msgstr "Путь к образу _Initrd:"
+
+msgid "_Kernel image path:"
+msgstr "Путь к образу _ядра:"
+
+msgid "_Local IP:"
+msgstr "_Локальный IP:"
+
+msgid "_Main group:"
+msgstr "_Основная группа:"
+
+msgid "_Modem port:"
+msgstr "Порт _модема:"
+
+msgid "_Module path:"
+msgstr "Путь к _модулю:"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_Operating system:"
+msgstr "_Операционная система:"
+
+msgid "_Parameters:"
+msgstr "_Параметры:"
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "_Path:"
+msgstr "_Путь:"
+
+msgid "_Phone number:"
+msgstr "Номер _телефона:"
+
+msgid "_Profile:"
+msgstr "_Профиль:"
+
+msgid "_Properties"
+msgstr "_Параметры"
+
+msgid "_Read only"
+msgstr "Только _чтение"
+
+msgid "_Real name:"
+msgstr "_Настоящее имя:"
+
+msgid "_Remote IP:"
+msgstr "_Удаленный IP:"
+
+msgid "_Retry if the connection breaks or fails to start"
+msgstr "_Попробовать еще раз при разрыве или неудаче соединения."
+
+msgid "_Root file system device:"
+msgstr "Устройство _корневой файловой системы:"
+
+msgid "_Select Time Zone..."
+msgstr "_Выбрать часовой пояс..."
+
+msgid "_Set modem as default route to internet"
+msgstr "Установить _модем как устройство по умолачнию для доступа в Интеренет"
+
+msgid "_Share folder"
+msgstr "О_публиковать папку"
+
+msgid "_Shell:"
+msgstr "_Shell:"
+
+msgid "_Subnet mask:"
+msgstr "Маска _подсети:"
+
+msgid "_Time:"
+msgstr "_Время:"
+
+msgid "_Username:"
+msgstr "_Имя пользователя:"
+
+msgid "_Volume:"
+msgstr "_Громкость:"
+
+msgid "_Work phone:"
+msgstr "_Рабочий телефон:"

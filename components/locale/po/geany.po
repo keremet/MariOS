@@ -1,0 +1,4385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Geany 1.25\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-11-01 19:03+0100\n"
+"PO-Revision-Date: 2015-11-08 01:01+0300\n"
+"Last-Translator: Pavel Roschin <rpg89(at)post(dot)ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"\n"
+"<i>Other plugins depend on this. Disable them first to allow deactivation.</"
+"i>\n"
+msgstr ""
+"\n"
+"<i>Этот модуль нужен для работы других. Отключите сначала зависимые модули.</"
+"i>\n"
+
+msgid " (new instance)"
+msgstr " (новый экземпляр)"
+
+msgid "\"%s\" was not found."
+msgstr "Не удалось найти \"%s\"."
+
+msgid "\"Smart\" home key"
+msgstr "\"Умная\" клавиша \"Home\""
+
+msgid "%d file saved."
+msgid_plural "%d files saved."
+msgstr[0] "%d файл сохранён."
+msgstr[1] "%d файла сохранены."
+msgstr[2] "%d файлов сохранено."
+
+msgid ""
+"%d, %e, %f, %p, %l are substituted in command and directory fields, see "
+"manual for details."
+msgstr ""
+"Шаблоны для подстановки в команду и рабочий каталог: %d, %e, %f, %p и %l, "
+"смотрите руководство для более детальной информации."
+
+msgid "%dL"
+msgstr "%dL"
+
+msgid ""
+"%s\n"
+"\n"
+"The file on disk may now be truncated!"
+msgstr ""
+"%s\n"
+"\n"
+"Файл на диске может быть усечён!"
+
+msgid "%s %s -- %s (in directory: %s)"
+msgstr "%s %s -- %s (в каталоге: %s)"
+
+msgid "%s (in directory: %s)"
+msgstr "%s (в каталоге: %s)"
+
+msgid "%s Properties"
+msgstr "Свойства %s"
+
+msgid "%s commands"
+msgstr "Команды для языка: %s"
+
+msgid "%s document"
+msgstr "документ %s"
+
+msgid "%s file"
+msgstr "файл %s"
+
+msgid "%s script"
+msgstr "скрипт %s"
+
+msgid "%s source file"
+msgstr "Файл %s"
+
+msgid "%s: replaced %d occurrence of \"%s\" with \"%s\"."
+msgid_plural "%s: replaced %d occurrences of \"%s\" with \"%s\"."
+msgstr[0] "%s: произведена %d замена \"%s\" на \"%s\"."
+msgstr[1] "%s: произведено %d замены \"%s\" на \"%s\"."
+msgstr[2] "%s: произведено %d замен \"%s\" на \"%s\"."
+
+msgid "(built on or after %s)"
+msgstr "(собрано %s или позднее)"
+
+msgid "(only inside Geany)"
+msgstr "(только внутри Geany)"
+
+msgid "(with BOM)"
+msgstr "(с BOM)"
+
+msgid "(without BOM)"
+msgstr "(без BOM)"
+
+msgid ", read-only"
+msgstr ", только чтение"
+
+msgid "--- Separator ---"
+msgstr "--- Разделитель ---"
+
+msgid "<b>Auto-close quotes and brackets</b>"
+msgstr "<b>Автозавершение кавычек и скобок</b>"
+
+msgid "<b>Commands</b>"
+msgstr "<b>Команды</b>"
+
+msgid "<b>Completions</b>"
+msgstr "<b>Автозавершение</b>"
+
+msgid "<b>Display</b>"
+msgstr "<b>Отображение</b>"
+
+msgid "<b>Editor tabs</b>"
+msgstr "<b>Вкладки редактора текста</b>"
+
+msgid "<b>Encodings</b>"
+msgstr "<b>Кодировки</b>"
+
+msgid "<b>Features</b>"
+msgstr "<b>Особые функции</b>"
+
+msgid "<b>Fonts</b>"
+msgstr "<b>Шрифты</b>"
+
+msgid "<b>Icon size</b>"
+msgstr "<b>Размер иконок</b>"
+
+msgid "<b>Icon style</b>"
+msgstr "<b>Стиль панели инструментов</b>"
+
+msgid "<b>Indentation</b>"
+msgstr "<b>Отступы</b>"
+
+msgid "<b>Keyboard shortcuts</b>"
+msgstr "<b>Сочетания клавиш</b>"
+
+msgid "<b>Long line marker</b>"
+msgstr "<b>Маркер длинной строки</b>"
+
+msgid "<b>Message window</b>"
+msgstr "<b>Окно сообщений</b>"
+
+msgid "<b>Miscellaneous</b>"
+msgstr "<b>Разное</b>"
+
+msgid "<b>New files</b>"
+msgstr "<b>Новые файлы</b>"
+
+msgid "<b>Page %d of %d</b>"
+msgstr "<b>Страница %d из %d</b>"
+
+msgid "<b>Paths</b>"
+msgstr "<b>Пути</b>"
+
+msgid "<b>Printing</b>"
+msgstr "<b>Печать</b>"
+
+msgid "<b>Projects</b>"
+msgstr "<b>Проекты</b>"
+
+msgid "<b>Saving files</b>"
+msgstr "<b>Сохранение файлов</b>"
+
+msgid "<b>Search</b>"
+msgstr "<b>Поиск</b>"
+
+msgid "<b>Shutdown</b>"
+msgstr "<b>Завершение работы</b>"
+
+msgid "<b>Sidebar</b>"
+msgstr "<b>Боковая панель</b>"
+
+msgid "<b>Startup</b>"
+msgstr "<b>Запуск</b>"
+
+msgid "<b>Tab positions</b>"
+msgstr "<b>Положение вкладок</b>"
+
+msgid "<b>Template data</b>"
+msgstr "<b>Данные шаблонов</b>"
+
+msgid "<b>Terminal</b>"
+msgstr "<b>Терминал</b>"
+
+msgid "<b>Tool paths</b>"
+msgstr "<b>Пути утилит</b>"
+
+msgid "<b>Toolbar</b>"
+msgstr "<b>Панель инструментов</b>"
+
+msgid "<b>Various preferences</b>"
+msgstr "<b>Разные опции</b>"
+
+msgid "<b>Virtual spaces</b>"
+msgstr "<b>Виртуальные пробелы</b>"
+
+msgid "<i>Warning: read the manual before changing these preferences.</i>"
+msgstr ""
+"<i>Предупреждение: прочтите руководство перед изменением этих параметров.</i>"
+
+msgid ""
+"<i>Warning: these settings are overridden by the current project. See "
+"<b>Project->Properties</b>.</i>"
+msgstr ""
+"<i>Внимание: эти настройки переопределены в текущем проекте. Загляните в "
+"<b>Проект->Свойства</b>.</i>"
+
+msgid "A fast and lightweight IDE"
+msgstr "Быстрая и легковесная среда разработки"
+
+msgid "A fast and lightweight IDE using GTK+"
+msgstr "Быстрая и легковесная среда разработки, использующая GTK+"
+
+msgid "A quoted Windows program name must be entirely inside the quotes"
+msgstr ""
+"Экранированная команда Windows должна быть полностью заключена в кавычки"
+
+msgid ""
+"A string which is added when toggling a line comment in a source file, it is "
+"used to mark the comment as toggled."
+msgstr ""
+"Строка, которая будет добавлена в начале комментария. При переключении "
+"режима комментирования строк она используется для пометки комментариев как "
+"переключенных."
+
+msgid ""
+"A terminal emulator command (%c is substituted with the Geany run script "
+"filename)"
+msgstr ""
+"Команда эмулятора терминала (вместо %c будет подставлено имя файла скрипта "
+"запуска Geany)"
+
+msgid "About Geany"
+msgstr "О Geany"
+
+msgid "Accessed:"
+msgstr "Последний доступ:"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Active"
+msgstr "Активный"
+
+msgid ""
+"Add a little header to every page containing the page number, the filename "
+"and the current date (see below). It takes 3 lines of the page."
+msgstr ""
+"Добавлять небольшой заголовок в начало каждой страницы с указанием номера "
+"страницы, имени файла и текущей даты (см. ниже). Это занимает 3 строки."
+
+msgid "Add line numbers to the printed page"
+msgstr "Добавлять номера строк на печатаемой странице"
+
+msgid ""
+"Add page numbers at the bottom of each page. It takes 2 lines of the page."
+msgstr "Добавлять номера страниц. Это займёт 2 строки внизу каждой страницы."
+
+msgid "Adds a file browser tab to the sidebar."
+msgstr "Добавить просмотр файлов на боковую панель."
+
+msgid "All Source"
+msgstr "Все файлы исходного кода"
+
+msgid "All files"
+msgstr "Все типы"
+
+msgid ""
+"All: search all files in the directory\n"
+"Project: use file patterns defined in the project settings\n"
+"Custom: specify file patterns manually"
+msgstr ""
+"Все: искать среди всех файлов в каталоге\n"
+"Проект: использовать шаблоны имён файлов, заданные в настройках проекта\n"
+"Указать: указать шаблоны имён файлов вручную"
+
+msgid ""
+"Allows the VTE to receive keyboard shortcuts (apart from focus commands)"
+msgstr ""
+"Позволяет терминалу получать сочетания горячих клавиш (кроме команд фокуса)"
+
+msgid "Always"
+msgstr "Всегда"
+
+msgid "Always show virtual spaces beyond the end of lines"
+msgstr "Всегда показывать виртуальные пробелы после окончания строк"
+
+msgid "Always wrap search"
+msgstr "Всегда искать с начала файла"
+
+msgid "Always wrap search around the document"
+msgstr "Всегда начинать поиск с начала документа"
+
+msgid ""
+"An error occurred or file information could not be retrieved (e.g. from a "
+"new file)."
+msgstr ""
+"Произошла ошибка или информация о файле не может быть получена (например, "
+"это новый файл)."
+
+msgid ""
+"An error occurred while converting the file from UTF-8 in \"%s\". The file "
+"remains unsaved."
+msgstr ""
+"Произошла ошибка при переводе файла из UTF-8 в \"%s\". Файл остался "
+"несохранённым."
+
+msgid "Anchors"
+msgstr "Якоря"
+
+msgid "Any unsaved changes will be lost."
+msgstr "Все несохранённые изменения будут потеряны."
+
+msgid "Appendix"
+msgstr "Приложение"
+
+msgid "Apply the default indentation settings to all documents"
+msgstr "Использовать ширину отступа по умолчанию во всех документах"
+
+msgid "Arabic"
+msgstr "Арабская"
+
+msgid "Architectures"
+msgstr "Архитектуры"
+
+msgid "Are you sure you want to reload '%s'?"
+msgstr "Вы уверены, что хотите заново загрузить '%s'?"
+
+msgid "Armenian"
+msgstr "Армянская"
+
+msgid "Arrow characters"
+msgstr "Символы стрелок"
+
+msgid "As _HTML..."
+msgstr "В _HTML..."
+
+msgid "As _LaTeX..."
+msgstr "В _LaTeX..."
+
+msgid "Assembly"
+msgstr "Сборка"
+
+msgid "Auto Save"
+msgstr "Автоматическое сохранение"
+
+msgid "Auto save _interval:"
+msgstr "_Интервал автоматического сохранения:"
+
+msgid "Auto-close curly bracket when typing an opening one"
+msgstr "Автозавершение фигурных скобок при вводе открывающей"
+
+msgid "Auto-close double quote when typing an opening one"
+msgstr "Автозавершение двойных кавычек при вводе открывающей"
+
+msgid "Auto-close parenthesis when typing an opening one"
+msgstr "Автозавершение скобок при вводе открывающей"
+
+msgid "Auto-close single quote when typing an opening one"
+msgstr "Автоматически закрывать одинарную кавычку при вводе открывающей"
+
+msgid "Auto-close square-bracket when typing an opening one"
+msgstr "Автозавершение квадратных скобок при вводе открывающей"
+
+msgid "Auto-focus widgets (focus follows mouse)"
+msgstr "Автоматический фокус для виджетов (фокус следует за мышью)"
+
+msgid "Auto-indent mode:"
+msgstr "Тип авто-отступа:"
+
+msgid "Autocomplete all words in document"
+msgstr "Автозавершение всех слов в документе"
+
+msgid "Autocomplete symbols"
+msgstr "Автозавершение имён"
+
+msgid ""
+"Automatic completion of known symbols in open files (function names, global "
+"variables, ...)"
+msgstr ""
+"Автоматическое завершение известных имён объектов в открытых файлах (имена "
+"функций, глобальные переменные и т.д.)"
+
+msgid "Automatic continuation of multi-line comments"
+msgstr "Автоматическое продолжение многострочных комментариев"
+
+msgid "Autosave: Saved %d file automatically."
+msgid_plural "Autosave: Saved %d files automatically."
+msgstr[0] "Автоматическое сохранение: Автоматически сохранён %d файл."
+msgstr[1] "Автоматическое сохранение: Автоматически сохранено %d файла."
+msgstr[2] "Автоматическое сохранение: Автоматически сохранено %d файлов."
+
+msgid "Available Items"
+msgstr "Доступные элементы"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background color:"
+msgstr "Цвет фона:"
+
+msgid "Background image:"
+msgstr "Фоновое изображение:"
+
+msgid "Backup Copy"
+msgstr "Резервная копия"
+
+msgid "Backup Copy: Directory could not be created (%s)."
+msgstr "Резервная копия: Каталог не может быть создан (%s)."
+
+msgid "Backup Copy: File could not be read (%s)."
+msgstr "Резервная копия: Файл \"%s\" недоступен для чтения."
+
+msgid "Backup Copy: File could not be saved (%s)."
+msgstr "Резервная копия: Файл \"%s\" недоступен для записи."
+
+msgid "Backup directory does not exist or is not writable."
+msgstr "Каталог для резервных копий не существует или недоступен для записи."
+
+msgid "Bad regex for filetype %s: %s"
+msgstr "Плохое регулярное выражение для типа файлов  %s: %s"
+
+msgid "Bad regex: %s"
+msgstr "Неверное регулярное выражение: %s"
+
+msgid "Baltic"
+msgstr "Прибалтийская"
+
+msgid "Base GType:"
+msgstr "Базовый GType:"
+
+msgid "Base class:"
+msgstr "Базовый класс:"
+
+msgid ""
+"Base directory of all files that make up the project. This can be a new "
+"path, or an existing directory tree. You can use paths relative to the "
+"project filename."
+msgstr ""
+"Путь к каталогу, содержащему файлы, составляющие проект. Это может быть как "
+"новый каталог, так и уже существующий. Вы можете использовать относительные "
+"пути (относительно имени проекта)."
+
+msgid "Base header:"
+msgstr "Базовый заголовок:"
+
+msgid "Base path:"
+msgstr "Путь к каталогу:"
+
+msgid "Base source:"
+msgstr "Базовый класс:"
+
+msgid "Basic"
+msgstr "Базовый"
+
+msgid "Be verbose"
+msgstr "Выводить подробности"
+
+msgid "Beep on errors or when compilation has finished"
+msgstr "Сигнал при ошибках или по окончании сборки"
+
+msgid "Blocks"
+msgstr "Блоки"
+
+msgid "Bottom"
+msgstr "Внизу"
+
+msgid "Browser:"
+msgstr "Браузер:"
+
+msgid "Build"
+msgstr "Сборка"
+
+msgid "Build options"
+msgstr "Опции сборки"
+
+msgid "Build the current file"
+msgstr "Собрать текущий файл"
+
+msgid "Build the current file with Make and the default target"
+msgstr "Собрать данный файл, используя утилиту Make и цель сборки по умолчанию"
+
+msgid "Build the current file with Make and the specified target"
+msgstr "Собрать текущий файл, используя утилиту Make и указанную цель"
+
+msgid "C Standard Library"
+msgstr "Стандартная библиотека C"
+
+msgid "C++ (C Standard Library)"
+msgstr "C++ (Стандартная библиотека C)"
+
+msgid "C++ STL"
+msgstr "С++ STL"
+
+msgid "C++ Standard Library"
+msgstr "Cтандартная библиотека C++"
+
+msgid "C_ase sensitive"
+msgstr "С _учётом регистра"
+
+msgid "C_hange"
+msgstr "_Изменить"
+
+msgid "C_lose All"
+msgstr "_Закрыть все"
+
+msgid "C_onfiguration Files"
+msgstr "_Файлы настроек"
+
+msgid "C_opy"
+msgstr "_Копировать"
+
+msgid "C_reate"
+msgstr "С_оздать"
+
+msgid "Calls the View->Toggle All Additional Widgets command"
+msgstr "Вызывает команду Вид->Показать/скрыть все панели"
+
+msgid ""
+"Cannot execute command \"%s\" from the template: %s. Check the path in the "
+"template."
+msgstr ""
+"Не удалось запустить команду \"%s\" из шаблона: %s. Проверьте корректность "
+"пути в шаблоне."
+
+msgid "Cannot execute context action command \"%s\": %s. %s"
+msgstr "Не удалось выполнить команду контекстного действия \"%s\": %s. %s"
+
+msgid ""
+"Cannot execute custom command \"%s\": %s. Check the path setting in Custom "
+"Commands."
+msgstr ""
+"Не удалось выполнить пользовательскую команду \"%s\": %s. Проверьте "
+"правильность пути в пользовательских командах."
+
+msgid ""
+"Cannot execute grep tool \"%s\": %s. Check the path setting in Preferences."
+msgstr ""
+"Не могу запустить утилиту grep \"%s\": %s. Проверьте правильность пути в "
+"настройках."
+
+msgid ""
+"Cannot execute print command \"%s\": %s. Check the path setting in "
+"Preferences."
+msgstr ""
+"Не могу запустить команду печати \"%s\": %s. Проверьте правильность пути в "
+"настройках."
+
+msgid ""
+"Cannot execute terminal command \"%s\": %s. Check the path setting in "
+"Preferences."
+msgstr ""
+"Не могу выполнить команду \"%s\": %s. Проверьте правильность пути в "
+"настройках."
+
+msgid "Cannot save read-only document '%s'!"
+msgstr "Не удалось сохранить документ '%s', доступный только для чтения!"
+
+msgid "Cascading Stylesheet"
+msgstr "Файл каскадной таблицы стилей (CSS)"
+
+msgid "Celtic"
+msgstr "Кельтская"
+
+msgid "Central European"
+msgstr "Центральноевропейская"
+
+msgid "Change _Color Scheme..."
+msgstr "_Цветовые схемы..."
+
+msgid "Change _Font..."
+msgstr "Выбрать _шрифт..."
+
+msgid ""
+"Change the directory to the base directory of the currently opened project"
+msgstr "Изменить путь на каталог текущего открытого проекта"
+
+msgid "Changed:"
+msgstr "Изменён:"
+
+msgid "Chapter"
+msgstr "Глава"
+
+msgid "Character"
+msgstr "Символ"
+
+msgid "Characters to type for autocompletion:"
+msgstr "Минимальное количество символов для автозавершения:"
+
+msgid "Characters:"
+msgstr "Символов:"
+
+msgid "Check the path setting in Filetype configuration."
+msgstr "Проверьте правильность пути в настройках типов файлов."
+
+msgid "Check the path setting in Preferences."
+msgstr "Проверьте правильность пути в настройках."
+
+msgid "Chinese Simplified"
+msgstr "Китайская упрощенная"
+
+msgid "Chinese Traditional"
+msgstr "Китайская традиционная"
+
+msgid "Choose Project Base Path"
+msgstr "Выберите путь к каталогу проекта:"
+
+msgid "Choose Project Filename"
+msgstr "Выберите имя файла проекта"
+
+msgid "Choose Terminal Font"
+msgstr "Выберите шрифт терминала"
+
+msgid ""
+"Choose a special character from the list below and double click on it or use "
+"the button to insert it at the current cursor position."
+msgstr ""
+"Выберите специальный символ из списка ниже и дважды щелкните на нём или "
+"используйте кнопку для того, чтобы вставить символ на текущую позицию "
+"курсора."
+
+msgid "Choose font"
+msgstr "Выбрать шрифт"
+
+msgid "Choose more build actions"
+msgstr "Другие команды сборки"
+
+msgid "Choose which plugins should be loaded at startup:"
+msgstr "При запуске загружать следующие модули:"
+
+msgid "Cl_ear"
+msgstr "О_чистить"
+
+msgid "Class"
+msgstr "Класс"
+
+msgid "Class Builder"
+msgstr "Генератор классов"
+
+msgid "Classes"
+msgstr "Классы"
+
+msgid "Classic Mac (CR)"
+msgstr "Классический Мac (CR)"
+
+msgid "Click to set menu item label"
+msgstr "Щёлкните для указания метки элемента меню"
+
+msgid "Clipboard"
+msgstr "Буфер обмена"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close All"
+msgstr "_Закрыть все"
+
+msgid "Close Ot_her Documents"
+msgstr "Закрыть ост_альные"
+
+msgid "Close _dialog"
+msgstr "Закрыть _диалог"
+
+msgid "Close all"
+msgstr "Закрыть все"
+
+msgid "Close all open files"
+msgstr "Закрыть все открытые файлы"
+
+msgid "Close the current file"
+msgstr "Закрыть текущий файл"
+
+msgid "Co_mmands"
+msgstr "Ко_манды"
+
+msgid "Code folding"
+msgstr "Сворачивание блоков кода"
+
+msgid "Color Chooser"
+msgstr "Выбор цвета"
+
+msgid "Color Schemes"
+msgstr "Цветовые схемы"
+
+msgid "Color:"
+msgstr "Цвет:"
+
+msgid "Column:"
+msgstr "Столбец:"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "Command:"
+msgstr "Команда:"
+
+msgid "Comment line(s)"
+msgstr "Закомментировать строки"
+
+msgid "Comment toggle marker:"
+msgstr "Маркер переключения комментариев:"
+
+msgid "Company name"
+msgstr "Имя компании:"
+
+msgid "Company:"
+msgstr "Компания:"
+
+msgid "Compilation failed."
+msgstr "Сборка завершилась с ошибкой."
+
+msgid "Compilation finished successfully."
+msgstr "Сборка прошла успешно."
+
+msgid "Compile"
+msgstr "Скомпилировать"
+
+msgid "Compile the current file"
+msgstr "Скомпилировать текущий файл"
+
+msgid "Compile the current file with Make"
+msgstr "Скомпилировать текущий файл, используя утилиту Make"
+
+msgid "Compiler"
+msgstr "Компилятор"
+
+msgid "Complete snippet"
+msgstr "Завешить фрагмент кода"
+
+msgid "Complete word"
+msgstr "Завершить слово"
+
+msgid "Completion list height:"
+msgstr "Количество строк в списке завершения:"
+
+msgid "Completions"
+msgstr "Автозавершение"
+
+msgid "Components"
+msgstr "Компоненты"
+
+msgid "Config"
+msgstr "Файл настроек"
+
+msgid "Configuration directory could not be created (%s)."
+msgstr "Каталог настроек не может быть создан (%s)."
+
+msgid ""
+"Configuration directory could not be created (%s).\n"
+"There could be some problems using Geany without a configuration directory.\n"
+"Start Geany anyway?"
+msgstr ""
+"Папка настроек не может быть создана (%s).\n"
+"Могут возникнуть некоторые проблемы при использовании Geany без папки "
+"настроек.\n"
+"Запустить Geany в любом случае?"
+
+msgid "Configuration files reloaded."
+msgstr "Файлы настроек загружены заново."
+
+msgid "Configure Plugins"
+msgstr "Настроить модули"
+
+msgid "Confirm exit"
+msgstr "Подтверждение выхода"
+
+msgid "Constants"
+msgstr "Константы"
+
+msgid "Constructor type:"
+msgstr "Тип конструктора:"
+
+msgid "Conte_xt Action"
+msgstr "_Контекстное действие"
+
+msgid "Context Action"
+msgstr "Контекстное действие"
+
+msgid ""
+"Context action command. The currently selected word can be used with %s. It "
+"can appear anywhere in the given command and will be replaced before "
+"execution."
+msgstr ""
+"Команда для контекстного действия. Текущее выделенное слово можно "
+"подставлять с помощью %s. Его можно вставлять в любом месте указанной "
+"команды, и подстановка будет выполнена до её выполнения."
+
+msgid "Context action:"
+msgstr "Контекстное действие:"
+
+msgid ""
+"Continue automatically multi-line comments in languages like C, C++ and Java "
+"when a new line is entered inside such a comment"
+msgstr ""
+"Автоматически продолжать многострочные комментарии в таких языках, как C, C+"
+"+ и Java, когда в таком комментарии введена новая строка."
+
+msgid "Contributors"
+msgstr "Участники"
+
+msgid "Convert and Set to CR (Classic _Mac)"
+msgstr "Заменить окончания строк на CR (классический _Mac)"
+
+msgid "Convert and Set to _CR/LF (Windows)"
+msgstr "Заменить окончания строк на _CR/LF (Windows)"
+
+msgid "Convert and Set to _LF (Unix)"
+msgstr "Заменить окончания строк на _LF (Unix)"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Copy _All"
+msgstr "_Копировать все"
+
+msgid "Copy the current selection"
+msgstr "Скопировать выделенное"
+
+msgid ""
+"Copyright (c)  2005-2015\n"
+"Colomban Wendling\n"
+"Nick Treleaven\n"
+"Matthew Brush\n"
+"Enrico Tröger\n"
+"Frank Lanitz\n"
+"All rights reserved."
+msgstr ""
+"Copyright (c)  2005-2015\n"
+"Colomban Wendling\n"
+"Nick Treleaven\n"
+"Matthew Brush\n"
+"Enrico Tröger\n"
+"Frank Lanitz\n"
+"Все права защищены."
+
+msgid "Could not execute configured external command '%s' (%s)."
+msgstr "Не удалось выполнить внешнюю команду '%s' (%s)."
+
+msgid "Could not find file '%s' - trying the current document path."
+msgstr ""
+"Не удалось найти файл '%s' - пробую использовать путь текущего документа."
+
+msgid "Could not find file '%s'."
+msgstr "Не могу найти файл '%s'."
+
+msgid "Could not load tags file '%s'."
+msgstr "Не удалось загрузить файл тегов '%s'."
+
+msgid "Could not open directory (%s)"
+msgstr "Не могу открыть каталог (%s)"
+
+msgid "Could not open file %s (%s)"
+msgstr "Не удалось открыть файл %s (%s)"
+
+msgid "Could not open file %s (File not found)"
+msgstr "Не удалось открыть файл %s (файл не найден)"
+
+msgid "Create C++ Class"
+msgstr "Создать класс С++"
+
+msgid "Create Cla_ss"
+msgstr "Создать _класс"
+
+msgid "Create Class"
+msgstr "Создать класс"
+
+msgid "Create GTK+ Class"
+msgstr "Создать класс GTK+"
+
+msgid "Create PHP Class"
+msgstr "Создать класс PHP"
+
+msgid "Create a new file"
+msgstr "Создать новый файл"
+
+msgid "Create a new file for each command-line filename that doesn't exist"
+msgstr "Создавать новые документы из командной строки, если файл не существует"
+
+msgid "Create a new file from a template"
+msgstr "Создать _новый файл из шаблона"
+
+msgid "Create constructor"
+msgstr "Создать конструктор"
+
+msgid "Create destructor"
+msgstr "Создать деструктор"
+
+msgid "Create the project's base path directory?"
+msgstr "Создать каталог проекта?"
+
+msgid "Creates source files for new class types."
+msgstr "Создает файлы исходного кода для новых типов классов."
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid "Cu_t Current Line(s)"
+msgstr "_Вырезать строки"
+
+msgid "Curly brackets { }"
+msgstr "Фигурные скобки { }"
+
+msgid "Current chars"
+msgstr "Текущие символы"
+
+msgid "Cursor blinks"
+msgstr "Мигающий курсор"
+
+msgid "Custom"
+msgstr "Указать"
+
+msgid "Custom Date Format"
+msgstr "Свой формат даты"
+
+msgid "Custom Text"
+msgstr "Свой текст"
+
+msgid "Customize Toolbar"
+msgstr "Настроить панель инструментов"
+
+msgid "Cut"
+msgstr "Вырезать"
+
+msgid "Cut the current selection"
+msgstr "Вырезать выделенное"
+
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+msgid "Cyrillic/Russian"
+msgstr "Кириллица/Русская"
+
+msgid "Cyrillic/Ukrainian"
+msgstr "Кириллица/Украинская"
+
+msgid "D_uplicate Line or Selection"
+msgstr "_Дублировать строку"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Date & time:"
+msgstr "Дата и время:"
+
+msgid "Date format string could not be converted (possibly too long)."
+msgstr ""
+"Не удалось сконвертировать строку формата даты (вероятно, она слишком "
+"длинная)"
+
+msgid "Date format:"
+msgstr "Формат даты:"
+
+msgid "Date/_Time format for backup files (\"man strftime\" for details):"
+msgstr ""
+"Формат _даты и времени для резервных копий (см. сведения в \"man strftime\"):"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Debug Messages"
+msgstr "Отладочные сообщения"
+
+msgid "Debug _Messages"
+msgstr "Отладочные _сообщения"
+
+msgid "Decrease indent"
+msgstr "Уменьшить отступ"
+
+msgid "Decrease indent by one space"
+msgstr "Уменьшить отступ на один пробел"
+
+msgid "Decrease indentation"
+msgstr "Уменьшить отступ"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default encoding (existing non-Unicode files):"
+msgstr "Кодировка по умолчанию (для файлов с кодировкой, отличной от Unicode):"
+
+msgid "Default encoding (new files):"
+msgstr "Кодировка по умолчанию (для новых файлов):"
+
+msgid "Default end of line characters:"
+msgstr "Символы конца строки по умолчанию:"
+
+msgid "Defines"
+msgstr "Определения"
+
+msgid ""
+"Defines whether to use the Windows native dialogs or whether to use the GTK "
+"default dialogs"
+msgstr ""
+"Определяет, использовать ли диалоги Windows или использовать стандартные "
+"диалоги библиотеки GTK."
+
+msgid "Definition of \"%s\" not found."
+msgstr "Определение \"%s\" не найдено."
+
+msgid "Delete the current selection"
+msgstr "Удалить выделенное"
+
+msgid "Delete to line end"
+msgstr "Удалить до конца строки"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Detect from file"
+msgstr "Распознать по содержимому"
+
+msgid "Detect type from file"
+msgstr "Распознать тип по содержимому файла"
+
+msgid "Detect width from file"
+msgstr "Распознать ширину по содержимому файла"
+
+msgid "Developer:"
+msgstr "Разработчик:"
+
+msgid "Developers"
+msgstr "Разработчики"
+
+msgid "Did not send document %s to the printing subsystem."
+msgstr "Документ %s не был отправлен на печать."
+
+msgid "Directory _levels to include in the backup destination:"
+msgstr "Уровень _вложенности каталогов для резервных копий:"
+
+msgid ""
+"Directory not changed because the terminal may contain some input (press Ctrl"
+"+C or Enter to clear it)."
+msgstr ""
+"Каталог не изменён, так как терминал может содержать незавершённую команду "
+"(нажмите Ctrl+C или Enter, чтобы очистить терминал)."
+
+msgid "Disable Drag and Drop"
+msgstr "Отключить Drag&Drop"
+
+msgid ""
+"Disable drag and drop completely in the editor window so you can't drag and "
+"drop any selections within or outside of the editor window"
+msgstr ""
+"Отключить Drag&Drop в окне редактора, перетаскивание выделенного в окно и из "
+"окна редактора станет невозможным"
+
+msgid "Disable menu shortcut key (F10 by default)"
+msgstr "Отключить горячую клавишу для меню (по умолчанию F10)"
+
+msgid "Disable this option to keep the dialog open"
+msgstr "Отключите эту опцию, чтобы оставить диалог открытым"
+
+msgid "Disabled"
+msgstr "Отключено"
+
+msgid "Discard history"
+msgstr "Сброс истории"
+
+msgid "Disk check timeout:"
+msgstr "Период проверки диска:"
+
+msgid "Display"
+msgstr "Отображение"
+
+msgid "Display height in rows for the autocompletion list"
+msgstr "Количество строк, отображаемых в списке автозавершения."
+
+msgid "Display:"
+msgstr "Отображение:"
+
+msgid "Displayed Items"
+msgstr "Отображаемые элементы"
+
+msgid "Do not show virtual spaces"
+msgstr "Не показывать виртуальные пробелы"
+
+msgid "Do you really want to quit?"
+msgstr "Вы действительно хотите выйти?"
+
+msgid "Do you want to close it before proceeding?"
+msgstr "Закрыть его перед продолжением?"
+
+msgid "Do you want to reload it?"
+msgstr "Вы действительно хотите загрузить его заново?"
+
+msgid "Do you want to save it before closing?"
+msgstr "Сохранить файл перед закрытием?"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Document %s was sent to the printing subsystem."
+msgstr "Документ %s отправлен на печать."
+
+msgid "Document Setup"
+msgstr "Параметры документа"
+
+msgid "Document successfully exported as '%s'."
+msgstr "Документ успешно экспортирован как '%s'."
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Don't load auto completion data (see documentation)"
+msgstr "Не загружать данные для автозавершения (см. документацию)"
+
+msgid "Don't load plugins"
+msgstr "Не загружать модули"
+
+msgid "Don't load terminal support"
+msgstr "Не загружать поддержку терминала"
+
+msgid "Don't load the previous session's files"
+msgstr "Не загружать файлы предыдущей сессии"
+
+msgid "Don't open files in a running instance, force opening a new instance"
+msgstr ""
+"Не открывать файлы в запущенной копии программы, а принудительно запускать "
+"новую"
+
+msgid "Don't preprocess C/C++ files when generating tags"
+msgstr "Не использовать препроцессор для файлов C/C++ при создании тэгов "
+
+msgid "Don't show message window at startup"
+msgstr "Не показывать окно сообщений при запуске"
+
+msgid "Don't use run script"
+msgstr "Не использовать скрипт для запуска"
+
+msgid ""
+"Don't use the simple run script which is usually used to display the exit "
+"status of the executed program"
+msgstr ""
+"Не использовать простой скрипт, который обычно используется для отображения "
+"кода завершения выполненной программы"
+
+msgid "Double quotes \" \""
+msgstr "Двойные кавычки \" \""
+
+msgid "Double-clicking hides all additional widgets"
+msgstr "Двойной щелчок скрывает все дополнительные окна"
+
+msgid "Drop rest of word on completion"
+msgstr "Отбрасывать окончания слов при завершении"
+
+msgid "E_ncoding:"
+msgstr "_Кодировка:"
+
+msgid "E_xtra options:"
+msgstr "Дополнительные _опции:"
+
+msgid "East Asian"
+msgstr "Восточная _Азия"
+
+msgid "East European"
+msgstr "_Восточноевропейская"
+
+msgid "East _Asian"
+msgstr "Восто_чноазиатская"
+
+msgid "Editor"
+msgstr "Редактор"
+
+msgid "Editor:"
+msgstr "Редактор:"
+
+msgid "Enable newline to strip the trailing spaces on the previous line"
+msgstr "Убирать пробелы в конце строки при переходе на новую строку"
+
+msgid "Enable plugin support"
+msgstr "Включить поддержку модулей"
+
+msgid "Enable save when losing _focus"
+msgstr "Сохранять при потере _фокуса"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Encoding:"
+msgstr "Кодировка:"
+
+msgid "Ensure consistent line endings"
+msgstr "Следить за единообразием переносов строк"
+
+msgid "Ensure new line at file end"
+msgstr "Следить за наличием новой строки в конце файла"
+
+msgid "Ensures that at the end of the file is a new line"
+msgstr "Следить за тем, что в конце файла находится новая строка"
+
+msgid ""
+"Ensures that newline characters always get converted before saving, avoiding "
+"mixed line endings in the same file"
+msgstr ""
+"Символы новой строки перед сохранением всегда будут преобразовываться в "
+"единый формат, что позволяет избежать смешивания разных типов символов конца "
+"строки в одном файле"
+
+msgid "Enter Tab Width"
+msgstr "Ширина табуляции:"
+
+msgid "Enter custom text here, all entered text is appended to the command."
+msgstr "Введите здесь свои опции, весь введенный текст передаётся команде."
+
+msgid ""
+"Enter here a custom date and time format. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Введите свой формат даты и времени. Вы можете использовать любые "
+"подстановки, применимые к функции strftime ANSI C."
+
+msgid "Enter the amount of spaces which should be replaced by a tab character."
+msgstr "Количество пробелов, которые будут заменены символом табуляции."
+
+msgid "Enter the line you want to go to:"
+msgstr "Введите строку, на которую нужно перейти:"
+
+msgid "Enter tool paths below. Tools you do not need can be left blank."
+msgstr "Введите пути к утилитам. Для ненужных утилит пути можно не указывать."
+
+msgid "Entities"
+msgstr "Сущности"
+
+msgid "Enums"
+msgstr "Перечисления"
+
+msgid "Environment"
+msgstr "Окружение"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid ""
+"Error message: %s\n"
+"The error occurred at \"%s\" (line: %d, column: %d)."
+msgstr ""
+"Текст ошибки:  %s\n"
+"Ошибка возникла в \"%s\" (строка: %d, столбец: %d)."
+
+msgid "Error message: %s."
+msgstr "Текст ошибки: %s."
+
+msgid "Error regular expression:"
+msgstr "Регулярное выражение, являющееся признаком ошибки:"
+
+msgid "Error renaming file."
+msgstr "Ошибка при переименовании."
+
+msgid "Error saving file (%s)."
+msgstr "Ошибка при сохранении файла (%s)."
+
+msgid "Error saving file."
+msgstr "Ошибка при сохранении файла."
+
+msgid "Events"
+msgstr "События"
+
+msgid ""
+"Example:\n"
+"CFLAGS=`pkg-config gtk+-2.0 --cflags` %s -g gtk2.c.tags /usr/include/gtk-2.0/"
+"gtk/gtk.h\n"
+msgstr ""
+"Пример:\n"
+"CFLAGS=`pkg-config gtk+-2.0 --cflags` %s -g gtk2.c.tags /usr/include/gtk-2.0/"
+"gtk/gtk.h\n"
+
+msgid "Executables"
+msgstr "Исполняемые"
+
+msgid "Execute commands"
+msgstr "Выполнить команды"
+
+msgid "Execute programs in the VTE"
+msgstr "Выполнять программы в терминале"
+
+msgid "Execute:"
+msgstr "Выполнить:"
+
+msgid ""
+"Explicitly defines a filetype for the file, if it would not be detected by "
+"filename extension.\n"
+"Note if you choose multiple files, they will all be opened with the chosen "
+"filetype."
+msgstr ""
+"Ручная установка типа открываемого файла, если файл не будет распознан по "
+"его расширению. \n"
+"Заметьте: если вы выбрали несколько файлов, они будут открыты с выбранным "
+"типом файла."
+
+msgid ""
+"Explicitly defines an encoding for the file, if it would not be detected. "
+"This is useful when you know that the encoding of a file cannot be detected "
+"correctly by Geany.\n"
+"Note if you choose multiple files, they will all be opened with the chosen "
+"encoding."
+msgstr ""
+"Ручная установка кодировки открываемого файла, если автоматическое "
+"распознавание не сработает. Это удобно, когда вы знаете, что Geany "
+"некорректно определяет кодировку файла. Заметьте: если вы выбрали несколько "
+"файлов, они все будут открыты в выбранной кодировке."
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export File"
+msgstr "Экспортировать файл"
+
+msgid "Exports the current file into different formats."
+msgstr "Экспортировать текущий файл в различные форматы."
+
+msgid "Extern Variables"
+msgstr "Внешние переменные"
+
+msgid "External open command:"
+msgstr "Внешняя команда для открытия файла:"
+
+msgid "Extra plugin path:"
+msgstr "Дополнительный путь для модулей:"
+
+msgid "Failed to change to the working directory"
+msgstr "Не удалось сменить рабочий каталог"
+
+msgid "Failed to close file '%s': fclose() failed: %s"
+msgstr "Не удалось закрыть файл '%s': ошибка в fclose(): %s"
+
+msgid "Failed to convert template file \"%s\" to UTF-8"
+msgstr "Не могу преобразовать шаблон \"%s\" в UTF-8"
+
+msgid "Failed to create tags file, perhaps because no tags were found.\n"
+msgstr "Не удалось создать файл тегов, возможно, тегов найдено не было.\n"
+
+msgid "Failed to execute \"%s\" (start-script could not be created: %s)"
+msgstr "Не удалось выполнить \"%s\" (скрипт запуска не может быть создан: %s)"
+
+msgid "Failed to load one or more session files."
+msgstr "Не удалось загрузить один или несколько файлов сессии."
+
+msgid "Failed to open file '%s' for writing: fopen() failed: %s"
+msgstr "Не удалось открыть файл '%s' для записи: ошибка в fopen(): %s"
+
+msgid ""
+"Failed to spawn the configured browser command. Please correct it or enter "
+"another one."
+msgstr ""
+"Не удалось выполнить заданную в конфигурации команду вызова браузера. "
+"Пожалуйста, исправьте её или замените другой."
+
+msgid "Failed to write file '%s': fwrite() failed: %s"
+msgstr "Не удалось выполнить запись в файл '%s': ошибка в fwrite(): %s"
+
+msgid "Features"
+msgstr "Возможности"
+
+msgid "Fi_les:"
+msgstr "_Файлы:"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File \"%s\" was not found on disk!"
+msgstr "Файл \"%s\" не найден на диске!"
+
+msgid "File %s closed."
+msgstr "Файл %s закрыт."
+
+msgid "File %s opened(%d%s)."
+msgstr "Файл %s открыт (%d%s)."
+
+msgid "File %s printed."
+msgstr "Файл %s напечатан."
+
+msgid "File %s reloaded."
+msgstr "Файл %s загружен заново."
+
+msgid "File %s saved."
+msgstr "Файл %s сохранён."
+
+msgid "File '%s' could not be written (%s)."
+msgstr "Файл '%s' недоступен для записи (%s)."
+
+msgid "File Browser"
+msgstr "Просмотр файлов"
+
+msgid ""
+"File not executed because the terminal may contain some input (press Ctrl+C "
+"or Enter to clear it)."
+msgstr ""
+"Файл не выполнен, так как терминал может содержать незавершённую команду "
+"(нажмите Ctrl+C или Enter, чтобы очистить терминал)."
+
+msgid "File patterns, e.g. *.c *.h"
+msgstr "Шаблоны файлов (например, *.c *.h)"
+
+msgid "File patterns:"
+msgstr "Шаблоны файлов:"
+
+msgid "File tabs will be placed on the left of the notebook"
+msgstr "Новые закладки будут располагаться слева от блокнота"
+
+msgid "File tabs will be placed on the right of the notebook"
+msgstr "Новые закладки будут располагаться справа от блокнота"
+
+msgid "Filename already exists!"
+msgstr "Файл с таким именем уже существует!"
+
+msgid "Filename of libvte.so"
+msgstr "Имя файла библиотеки libvte.so"
+
+msgid "Filename:"
+msgstr "Имя файла:"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid ""
+"Filter your files with the usual wildcards. Separate multiple patterns with "
+"a space."
+msgstr ""
+"Фильтровать файлы по указанному шаблону (обычный wildcard). Шаблоны "
+"разделяются пробелами."
+
+msgid "Filter:"
+msgstr "Фильтр:"
+
+msgid "Find"
+msgstr "Найти"
+
+msgid "Find Document Usage"
+msgstr "Статистика документа"
+
+msgid "Find Next"
+msgstr "Найти следующее"
+
+msgid "Find Next _Selection"
+msgstr "Найти _следующее выделение"
+
+msgid "Find Pre_vious Selection"
+msgstr "Найти _предыдущее выделенное"
+
+msgid "Find Previous"
+msgstr "Найти предыдущее"
+
+msgid "Find Usage"
+msgstr "Найти использование"
+
+msgid "Find _Document Usage"
+msgstr "Найти использования _документа"
+
+msgid "Find _Next"
+msgstr "Найти _следующее"
+
+msgid "Find _Previous"
+msgstr "Найти _предыдущее"
+
+msgid "Find _Usage"
+msgstr "_Найти использования"
+
+msgid "Find in F_iles..."
+msgstr "Найти в _файлах..."
+
+msgid "Find in Files"
+msgstr "Найти в файлах"
+
+msgid "Find the entered text in the current file"
+msgstr "Найти введённый текст в текущем файле"
+
+msgid "Focus"
+msgstr "Фокус"
+
+msgid "Focus File List"
+msgstr "Фокус на список файлов"
+
+msgid "Focus Path Entry"
+msgstr "Фокус на ввод пути"
+
+msgid "Fold all"
+msgstr "Свернуть все"
+
+msgid ""
+"Fold or unfold all children of a fold point. By pressing the Shift key while "
+"clicking on a fold symbol the contrary behavior is used."
+msgstr ""
+"Сворачивать или разворачивать все вложенные элементы. При нажатой клавише "
+"Shift поведение будет противоположным."
+
+msgid "Fold/unfold all children of a fold point"
+msgstr "Сворачивать/разворачивать все вложенные элементы"
+
+msgid "Follow path of the current file"
+msgstr "Устанавливать путь вслед за текущим файлом"
+
+msgid "Follow the path of the current file"
+msgstr "Следовать пути текущего файла"
+
+msgid "Font updated (%s)."
+msgstr "Шрифт обновлён (%s)."
+
+msgid "Font:"
+msgstr "Шрифт:"
+
+msgid "Foreground color:"
+msgstr "Цвет текста:"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Forward declaration \"%s\" not found."
+msgstr "Предварительное объявление \"%s\" не найдено."
+
+msgid "Found %d match for \"%s\"."
+msgid_plural "Found %d matches for \"%s\"."
+msgstr[0] "Найдено %d совпадение для \"%s\"."
+msgstr[1] "Найдено %d совпадения для \"%s\"."
+msgstr[2] "Найдено %d совпадений для \"%s\"."
+
+msgid "Full_screen"
+msgstr "На весь _экран"
+
+msgid "Fullscreen"
+msgstr "На весь экран"
+
+msgid "Functions"
+msgstr "Функции"
+
+msgid "Functions / Procedures"
+msgstr "Функции / Процедуры"
+
+msgid "Functions / Subroutines"
+msgstr "Функции / Процедуры"
+
+msgid "Functions / Tasks"
+msgstr "Функции / Задачи"
+
+msgid "Geany"
+msgstr "Geany"
+
+msgid "Geany cannot start!"
+msgstr "Geany не может запуститься!"
+
+msgid ""
+"Geany looks by default in the global installation path and in the "
+"configuration directory. The path entered here will be searched additionally "
+"for plugins. Leave blank to disable."
+msgstr ""
+"Geany по умолчанию ищет модули в каталоге установки и каталоге конфигурации. "
+"По пути указанному здесь будет осуществлён дополнительный поиск модулей. "
+"Оставьте пустым, чтобы отключить."
+
+msgid "Geany needs to move your old configuration directory before starting."
+msgstr ""
+"Перед запуском Geany необходимо переместить ваш старый каталог с настройками."
+
+msgid "Geany project files"
+msgstr "Файлы проекта Geany"
+
+msgid "Geany tag files (*.*.tags)"
+msgstr "Файлы тегов Geany (*.*.tags)"
+
+msgid ""
+"Geany tried to access the Unix Domain socket of another instance running as "
+"another user.\n"
+"This is a fatal error and Geany will now quit."
+msgstr ""
+"Попытка соединения с сокетом копии Geany, запущенной от имени другого "
+"пользователя.\n"
+"Дальнейшее продолжение работы невозможно."
+
+msgid "General"
+msgstr "Общее"
+
+msgid "Generate global tags file (see documentation)"
+msgstr "Создать глобальный файл тегов (смотрите документацию)"
+
+msgid "Georgian"
+msgstr "Грузинская"
+
+msgid "Gettext translation"
+msgstr "Файл перевода (Gettext)"
+
+msgid ""
+"Gives the focus automatically to widgets below the mouse cursor. Works for "
+"the main editor widget, the scribble, the toolbar search and goto line "
+"fields and the VTE."
+msgstr ""
+"Автоматически передавать фокус виджету под курсором мыши. Работает для "
+"главного окна редактора, заметок, поиска на панели инструментов, полей "
+"перехода к строке и терминала."
+
+msgid "Global"
+msgstr "Глобально"
+
+msgid "Go to"
+msgstr "Перейти"
+
+msgid "Go to End of Display Line"
+msgstr "К концу текущей строки"
+
+msgid "Go to End of Line"
+msgstr "Перейти к концу строки"
+
+msgid "Go to Line"
+msgstr "Перейти на строку"
+
+msgid "Go to Ne_xt Marker"
+msgstr "Перейти к с_ледующему маркеру"
+
+msgid "Go to Next Word Part"
+msgstr "Перейти к концу слова"
+
+msgid "Go to Pre_vious Marker"
+msgstr "Перейти к п_редыдущему маркеру"
+
+msgid "Go to Previous Word Part"
+msgstr "Перейти к началу слова"
+
+msgid "Go to Start of Display Line"
+msgstr "Перейти к началу текущей строки"
+
+msgid "Go to Start of Line"
+msgstr "Перейти к началу строки"
+
+msgid "Go to T_ag Declaration"
+msgstr "Перейти к _объявлению тега"
+
+msgid "Go to Tag Declaration"
+msgstr "Перейти к объявлению тега"
+
+msgid "Go to Tag Definition"
+msgstr "Перейти к определению тега"
+
+msgid "Go to _Tag Definition"
+msgstr "Перейти к _определению тега"
+
+msgid "Go to matching brace"
+msgstr "Перейти к парной скобке"
+
+msgid "Goto Field"
+msgstr "Перейти к полю"
+
+msgid "Grab Key"
+msgstr "Захватить клавишу"
+
+msgid "Greek"
+msgstr "Греческая"
+
+msgid "Greek characters"
+msgstr "Греческие символы"
+
+msgid "Grep:"
+msgstr "Утилита grep:"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Group:"
+msgstr "Группа:"
+
+msgid "H1 Headings"
+msgstr "Заголовок (H1)"
+
+msgid "H2 Headings"
+msgstr "Заголовок (H2)"
+
+msgid "H3 Headings"
+msgstr "Заголовок (H3)"
+
+msgid "HTML (name)"
+msgstr "HTML (имя)"
+
+msgid "HTML Characters"
+msgstr "Символы HTML"
+
+msgid "HTML characters"
+msgstr "Символы HTML"
+
+msgid "H_ide Sidebar"
+msgstr "_Скрыть боковую панель"
+
+msgid "Header file:"
+msgstr "Файл заголовка:"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew Visual"
+msgstr "Иврит (Визуальный)"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid ""
+"Here you can change keyboard shortcuts for various actions. Select one and "
+"press the Change button to enter a new shortcut, or double click on an "
+"action to edit the string representation of the shortcut directly."
+msgstr ""
+"Здесь вы можете изменять сочетания клавиш для различных действий. Достаточно "
+"дважды щёлкнуть левой кнопкой мыши на действии или выбрать одно действие и "
+"нажать кнопку \"Изменить\", чтобы создать новое сочетание. Также вы можете "
+"редактировать строку сочетания напрямую."
+
+msgid "Hide file extensions:"
+msgstr "Скрыть расширения файлов:"
+
+msgid "Hide the Find dialog"
+msgstr "Скрыть диалоговое окно поиска"
+
+msgid "Hide the Find dialog after clicking Find Next/Previous"
+msgstr "Скрывать окно поиска после нажатия \"Найти следующее/предыдущее\"."
+
+msgid "Home"
+msgstr "Домой"
+
+msgid ""
+"How often to check for changes to document files on disk, in seconds. Zero "
+"disables checking."
+msgstr ""
+"Периодичность проверки на изменение файлов на диске (в секундах). Нулевое "
+"значение отключает проверку."
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ID Selectors"
+msgstr "Идентификаторы"
+
+msgid "INS"
+msgstr "ВСТ"
+
+msgid "ISO 8859-1 characters"
+msgstr "Символы ISO 8859-1"
+
+msgid "ISO C99"
+msgstr "ISO C99"
+
+msgid "I_nsert"
+msgstr "_Вставить"
+
+msgid "I_nsert Comments"
+msgstr "Вставить комм_ентарии"
+
+msgid "Images _and text"
+msgstr "Иконки _и текст"
+
+msgid "Implementations"
+msgstr "Реализации"
+
+msgid "Implements:"
+msgstr "Наследование:"
+
+msgid "Imports"
+msgstr "Импорт"
+
+msgid "In Se_lection"
+msgstr "В в_ыделенном"
+
+msgid "In Sessi_on"
+msgstr "В с_ессии"
+
+msgid "In_dent Type"
+msgstr "Т_ип отступа"
+
+msgid "Increase indent"
+msgstr "Увеличить отступ"
+
+msgid "Increase indent by one space"
+msgstr "Увеличить отступ на один пробел"
+
+msgid "Increase indentation"
+msgstr "Увеличить отступ"
+
+msgid "Indent Widt_h"
+msgstr "_Ширина отступа"
+
+msgid "Indentation"
+msgstr "Отступы"
+
+msgid "Independent commands"
+msgstr "Независимые команды"
+
+msgid "Indexes"
+msgstr "Индексы"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Inheritance"
+msgstr "Наследование"
+
+msgid "Initial version:"
+msgstr "Стартовая версия:"
+
+msgid "Initials of the developer name"
+msgstr "Инициалы имени разработчика"
+
+msgid "Initials:"
+msgstr "Инициалы:"
+
+msgid "Insert"
+msgstr "Вставить"
+
+msgid "Insert Alternative _White Space"
+msgstr "Вставить переменный _пробел"
+
+msgid "Insert Dat_e"
+msgstr "Вставить _дату"
+
+msgid "Insert File _Header"
+msgstr "Вставить _заголовок файла"
+
+msgid "Insert Mu_ltiline Comment"
+msgstr "Вставить _многострочный комментарий"
+
+msgid "Insert New Line After Current"
+msgstr "Вставить новую строку после текущей"
+
+msgid "Insert New Line Before Current"
+msgstr "Вставить новую строку перед текущей"
+
+msgid "Insert Special HTML Characters"
+msgstr "Вставить специальные символы HTML"
+
+msgid "Insert _BSD License Notice"
+msgstr "Вставить уведомление  _BSD"
+
+msgid "Insert _ChangeLog Entry"
+msgstr "_Вставить описание изменений"
+
+msgid "Insert _Function Description"
+msgstr "Вставить _описание функции"
+
+msgid "Insert _GPL Notice"
+msgstr "Вставить уведомление _GPL"
+
+msgid "Insert date"
+msgstr "Вставить дату"
+
+msgid "Insert line numbers before each line in the exported document"
+msgstr ""
+"Вставлять номера строк в начале каждой строки экспортируемого документа"
+
+msgid "Insert matching closing tag for XML/HTML"
+msgstr "Вставлять соответствующие закрывающие теги для XML/HTML"
+
+msgid "Inserts HTML character entities like '&amp;'."
+msgstr "Вставляет символы HTML как \"&amp;\"."
+
+msgid "Instant Save"
+msgstr "Немедленное сохранение"
+
+msgid "Integrated Development Environment"
+msgstr "Интегрированная среда разработки"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Interfaces"
+msgstr "Интерфейсы"
+
+msgid "Invalid command: %s"
+msgstr "Неверная команда: %s"
+
+msgid "Invalid directory for find in files."
+msgstr "Для поиска в файлах указан недопустимый каталог."
+
+msgid "Invalid working directory \"%s\""
+msgstr "Некорректный рабочий каталог \"%s\""
+
+msgid "Invert all colors, by default using white text on a black background"
+msgstr ""
+"Инвертировать все цвета, по умолчанию использовать белый текст на черном фоне"
+
+msgid "Invert syntax highlighting colors"
+msgstr "Инвертировать цвета подсветки синтаксиса"
+
+msgid "Invert the sense of matching, to select non-matching lines"
+msgstr ""
+"Инвертировать смысл соответствия, для выбора не совпадающих с шаблоном строк"
+
+msgid "Is abstract"
+msgstr "Абстрактный"
+
+msgid "Is singleton"
+msgstr "Одиночка (singleton)"
+
+msgid "Japanese"
+msgstr "Японская"
+
+msgid "Join lines"
+msgstr "Объединить строки"
+
+msgid "Jump to the entered line number"
+msgstr "Перейти на введённый номер строки"
+
+msgid "Keybindings"
+msgstr "Сочетания клавиш"
+
+msgid "Keyboard Shortcuts"
+msgstr "Сочетания клавиш"
+
+msgid "Keyboard _Shortcuts"
+msgstr "Сочетания _клавиш"
+
+msgid "Keys"
+msgstr "Клавиши"
+
+msgid "Korean"
+msgstr "Корейская"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Labels"
+msgstr "Метки"
+
+msgid "Left"
+msgstr "Слева"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid ""
+"License text could not be found, please visit http://www.gnu.org/licenses/"
+"gpl-2.0.txt to view it online."
+msgstr ""
+"Текст лицензии не найден; пожалуйста, посетите http://www.gnu.org/licenses/"
+"gpl-2.0.txt, чтобы ознакомиться с ним."
+
+msgid "Line"
+msgstr "Строка"
+
+msgid "Line _Breaking"
+msgstr "Перенос _строк"
+
+msgid "Line breaking column:"
+msgstr "Обрезать текст по столбцу:"
+
+msgid "Line wrapping"
+msgstr "Перенос строк"
+
+msgid "Lines:"
+msgstr "Строк:"
+
+msgid "Load Ta_gs..."
+msgstr "_Загрузить теги..."
+
+msgid "Load Tags"
+msgstr "Загрузить теги"
+
+msgid "Load files from the last session"
+msgstr "Загрузить файлы из последней сессии"
+
+msgid "Load virtual terminal support"
+msgstr "Загружать виртуальный терминал"
+
+msgid "Loaded %s tags file '%s'."
+msgstr "Загружено файл с тэгами %s '%s'."
+
+msgid "Location:"
+msgstr "Размещение:"
+
+msgid "MOD"
+msgstr "МОД"
+
+msgid "M_iscellaneous"
+msgstr "_Прочее"
+
+msgid "M_ove Line(s) Down"
+msgstr "Переместить строку(и) вниз"
+
+msgid "Macros"
+msgstr "Макросы"
+
+msgid "Mail address:"
+msgstr "Электронная почта:"
+
+msgid "Make Custom _Target..."
+msgstr "Собрать заданную _цель..."
+
+msgid "Make _Object"
+msgstr "Собрать _объектный файл"
+
+msgid "Make all"
+msgstr "Собрать все"
+
+msgid "Make custom target"
+msgstr "Собрать указанную цель"
+
+msgid "Make object"
+msgstr "Собрать объектный файл"
+
+msgid "Makefile"
+msgstr "Файл сборки (Makefile)"
+
+msgid "Mark all matches in the current document"
+msgstr "Выделить все совпадения в текущем документе"
+
+msgid "Marks spaces with dots and tabs with arrows"
+msgstr "Помечать пробелы точками, а табуляции стрелками."
+
+msgid "Markup Languages"
+msgstr "Языки разметки"
+
+msgid "Match braces"
+msgstr "Совмещать скобки"
+
+msgid "Match from s_tart of word"
+msgstr "Совпадение с _начала слова"
+
+msgid "Match only a _whole word"
+msgstr "Совпадение только _всего слова"
+
+msgid "Mathematical characters"
+msgstr "Математические символы"
+
+msgid "Max. symbol name suggestions:"
+msgstr "Максимальное количество предложений для имени объекта:"
+
+msgid "Maximum number of entries to display in the autocompletion list"
+msgstr "Максимальное количество предлагаемых вариантов в списке автозавершения"
+
+msgid "Members"
+msgstr "Члены"
+
+msgid "Message window:"
+msgstr "Окно сообщений:"
+
+msgid "Messages"
+msgstr "Сообщения"
+
+msgid "Methods"
+msgstr "Методы"
+
+msgid "Middle Eastern"
+msgstr "_Средний Восток"
+
+msgid ""
+"Minimal delay (in milliseconds) between two automatic updates of the symbol "
+"list. Note that a too short delay may have performance impact, especially "
+"with large files. A delay of 0 disables real-time updates."
+msgstr ""
+"Минимальная задержка (в миллисекундах) между двумя автоматическими "
+"обновлениями списка символов. Обратите внимание, что слишком маленькая "
+"задержка может сказаться на производительности, особенно в больших файлах. "
+"Значение 0 запрещает обновление в реальном времени."
+
+msgid "Miscellaneous"
+msgstr "Прочее"
+
+msgid "Miscellaneous characters"
+msgstr "Прочие символы"
+
+msgid "Modified:"
+msgstr "Модифицирован:"
+
+msgid "Module"
+msgstr "Модуль"
+
+msgid "Modules"
+msgstr "Модули"
+
+msgid "Move cursor in snippet"
+msgstr "Перемещать курсор в фрагменте"
+
+msgid "Move document first"
+msgstr "Переместить документ в начало"
+
+msgid "Move document last"
+msgstr "Переместить документ в конец"
+
+msgid "Move document left"
+msgstr "Переместить документ влево"
+
+msgid "Move document right"
+msgstr "Переместить документ вправо"
+
+msgid "Move it now?"
+msgstr "Переместить это?"
+
+msgid "Move line(s) down"
+msgstr "Переместить строки вниз"
+
+msgid "Move line(s) up"
+msgstr "Переместить строки вверх"
+
+msgid "Move the current documents into the new project's session?"
+msgstr "Переместить открытые документы в сессию нового проекта?"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "Namespace"
+msgstr "Пространство имён"
+
+msgid "Namespaces"
+msgstr "Пространства имён"
+
+msgid "Navigate back a location"
+msgstr "Вернуться на шаг назад"
+
+msgid "Navigate forward a location"
+msgstr "Перейти на шаг вперёд"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "New (with _Template)"
+msgstr "Создать из _шаблона"
+
+msgid "New Project"
+msgstr "Новый проект"
+
+msgid "New file \"%s\" opened."
+msgstr "Открыт новый файл \"%s\"."
+
+msgid "Newline strips trailing spaces"
+msgstr "Новая строка убирает лишние пробелы"
+
+msgid "Next Me_ssage"
+msgstr "_Следующее сообщение"
+
+msgid "Next Message"
+msgstr "Следующее сообщение"
+
+msgid "Next error"
+msgstr "Следующая ошибка"
+
+msgid "Next to current"
+msgstr "За текущей"
+
+msgid "No custom commands defined."
+msgstr "Пользовательские команды не определены."
+
+msgid "No filetype"
+msgstr "Тип файла не определён"
+
+msgid "No matches found for \"%s\"."
+msgstr "Совпадений для  \"%s\" не найдено."
+
+msgid "No matches found."
+msgstr "Совпадений не найдено."
+
+msgid "No more build errors."
+msgstr "Ошибок сборки больше нет."
+
+msgid "No more message items."
+msgstr "Сообщений больше нет."
+
+msgid "No plugins available."
+msgstr "Нет доступных модулей."
+
+msgid "No tags found"
+msgstr "Тэгов нет."
+
+msgid "No text to find."
+msgstr "Нет текста для поиска."
+
+msgid "None"
+msgstr "Пустой"
+
+msgid "Nordic"
+msgstr "Скандинавская"
+
+msgid "Note: Item 2 opens a dialog and appends the response to the command."
+msgstr ""
+"Примечание: для команды 2 будет открыт диалог, позволяющий ввести "
+"дополнительные параметры."
+
+msgid ""
+"Note: To apply these settings to all currently open documents, use "
+"<i>Project->Apply Default Indentation</i>."
+msgstr ""
+"Замечание: Чтобы применить эти настройки ко всем документам, используйте "
+"<i>Проект->Использовать ширину отступа по умолчанию</i>."
+
+msgid "Notebook tab"
+msgstr "Вкладка"
+
+msgid "Notebook tabs"
+msgstr "Вкладки"
+
+msgid "OVR"
+msgstr "ЗАМ"
+
+msgid "Only for rectangular selections"
+msgstr "Только для выделения столбцом"
+
+msgid ""
+"Only show virtual spaces beyond the end of lines when drawing a rectangular "
+"selection"
+msgstr ""
+"Показывать виртуальные пробелы только после окончания строк при выделении "
+"столбцом"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Open File"
+msgstr "Открыть файл"
+
+msgid "Open Project"
+msgstr "Открыть проект"
+
+msgid "Open Selected F_ile"
+msgstr "Открыть _выбранный файл"
+
+msgid "Open _Externally"
+msgstr "Открыть во _внешней программе"
+
+msgid ""
+"Open a color chooser dialog, to interactively pick colors from a palette"
+msgstr "Открыть диалог выбора цвета, позволяющий выбирать цвет из палитры"
+
+msgid "Open a recent file"
+msgstr "Предыдущие файлы"
+
+msgid "Open all FILES in read-only mode (see documentation)"
+msgstr "Открыть все файлы в режиме \"только чтение\" (см. документацию)"
+
+msgid "Open an existing file"
+msgstr "Открыть существующий файл"
+
+msgctxt "Open dialog action"
+msgid "_View"
+msgstr "_Вид"
+
+msgid "Open in New _Window"
+msgstr "Открыть в новом _окне"
+
+msgid "Open in _Geany"
+msgstr "Открыть в _Geany"
+
+msgid "Open new documents from the command-line"
+msgstr "Открывать новые документы из командной строки"
+
+msgid "Open selected file"
+msgstr "Открыть выбранный файл"
+
+msgid "Opens at startup the files from the last session"
+msgstr "Открывать файлы из последнего сеанса работы при загрузке программы"
+
+msgid ""
+"Opens the file in read-only mode. If you choose more than one file to open, "
+"all files will be opened read-only."
+msgstr ""
+"Открытие файла в режиме \"только чтение\". Если выбрать более чем один файл "
+"для открытия, все выбранные файлы будут открыты в режиме \"только чтение\"."
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Other options to pass to Grep"
+msgstr "Прочие параметры для передачи утилите grep"
+
+msgid "Other:"
+msgstr "Прочие:"
+
+msgid "Override Geany keybindings"
+msgstr "Переопределить сочетания клавиш Geany"
+
+msgid "Override that keybinding?"
+msgstr "Переопределить это сочетание?"
+
+msgid "Overwrite?"
+msgstr "Перезаписать?"
+
+msgid "Owner:"
+msgstr "Владелец:"
+
+msgid "P_lugin Preferences"
+msgstr "Настройки _модулей"
+
+msgid "Pack the toolbar to the main menu to save vertical space"
+msgstr ""
+"Поместить панель инструментов в основное меню для увеличения вертикального "
+"пространства"
+
+msgid "Package"
+msgstr "Пакет"
+
+msgid "Page %d of %d"
+msgstr "Страница %d из %d"
+
+msgid "Page Set_up"
+msgstr "_Параметры страницы"
+
+msgid "Paginating"
+msgstr "Разбивка на страницы"
+
+msgid "Paragraph"
+msgstr "Абзац"
+
+msgid "Parenthesis ( )"
+msgstr "Скобки ( )"
+
+msgid "Parts"
+msgstr "Части"
+
+msgid "Passing data and executing custom command: %s"
+msgstr "Передаются данные и выполняется пользовательская команда: %s"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Paste the contents of the clipboard"
+msgstr "Вставить содержимое буфера обмена"
+
+msgid "Path (and possibly additional arguments) to your favorite browser"
+msgstr ""
+"Путь (и, возможно, дополнительные аргументы) к вашему любимому браузеру"
+
+msgid ""
+"Path of the file representing the project and storing its settings. It "
+"should normally have the \"%s\" extension."
+msgstr ""
+"Путь до файла, в котором хранится проект и его параметры. Обычно он имеет "
+"расширение \"%s\"."
+
+msgid ""
+"Path to start in when opening or saving files. Must be an absolute path."
+msgstr ""
+"Начальный каталог для открытия и сохранения файлов. Путь должен быть "
+"абсолютным. Оставьте пустым, чтобы использовать текущий рабочий каталог."
+
+msgid "Path to start in when opening project files"
+msgstr "Начальный каталог для открытия файлов проекта"
+
+msgid "Path to the command for printing files (use %f for the filename)"
+msgstr ""
+"Путь к команде для вывода файла на печать (используйте %f вместо имени файла)"
+
+msgid ""
+"Perform regular expression matching on the whole buffer at once rather than "
+"line by line, allowing matches to span multiple lines.  In this mode, "
+"newline characters are part of the input and can be captured as normal "
+"characters by the pattern."
+msgstr ""
+"Регулярное выражение будет обрабатывать весь буфер за раз, а не строку за "
+"строкой, что позволяет захватывать сразу несколько строк одним регулярным "
+"выражением. В этом режиме символы новой строки становятся частью входных "
+"данных и могут соответствовать шаблону как обычные символы."
+
+msgid "Permissions:"
+msgstr "Права:"
+
+msgid "Placement of new file tabs:"
+msgstr "Расположение новых вкладок:"
+
+msgid "Please set a print command in the preferences dialog first."
+msgstr "Пожалуйста, сначала укажите команду для печати в диалоге настроек."
+
+msgid ""
+"Please set the filetype for the current file before using this function."
+msgstr ""
+"Пожалуйста, установите тип файла для текущего документа перед использованием "
+"этой функции."
+
+msgid "Plugin"
+msgstr "Модуль"
+
+msgid "Plugin configuration directory could not be created."
+msgstr "Каталог настроек модулей не может быть создан."
+
+msgid "Plugins"
+msgstr "Модули"
+
+msgid "Position:"
+msgstr "Позиция:"
+
+msgid "Pr_evious Message"
+msgstr "_Предыдущее сообщение"
+
+msgid "Preference_s"
+msgstr "_Настройки"
+
+msgid "Preferences"
+msgstr "Настройки"
+
+msgid "Press the combination of the keys you want to use for \"%s\"."
+msgstr "Укажите сочетание клавиш для \"%s\""
+
+msgid ""
+"Pressing tab/shift-tab indents/unindents instead of inserting a tab character"
+msgstr ""
+"Нажатие Tab/Shift+Tab увеличивает/уменьшает отступ вместо того, чтобы "
+"вставить символ табуляции"
+
+msgid "Previous Message"
+msgstr "Предыдущее сообщение"
+
+msgid "Previous Translators"
+msgstr "Предыдущие переводчики"
+
+msgid "Previous error"
+msgstr "Предыдущая ошибка"
+
+msgid "Print"
+msgstr "Печать"
+
+msgid "Print Geany's installation prefix"
+msgstr "Вывести инсталляционный префикс Geany"
+
+msgid "Print document"
+msgstr "Печать документа"
+
+msgid "Print internal filetype names"
+msgstr "Выводить внутренние имена типов файлов"
+
+msgid "Print line numbers"
+msgstr "Показывать номера строк"
+
+msgid "Print only the basename (without the path) of the printed file"
+msgstr "Печатать только имя файла, опуская путь к нему"
+
+msgid "Print only the basename(without the path) of the printed file"
+msgstr "Печатать только имя файла, опуская путь к нему."
+
+msgid "Print page header"
+msgstr "Печатать заголовки страниц"
+
+msgid "Print page numbers"
+msgstr "Печатать номера страниц"
+
+msgid "Printing"
+msgstr "Печать"
+
+msgid "Printing of %s failed (%s)."
+msgstr "Печать %s завершилась с ошибкой (%s)."
+
+msgid ""
+"Prints a vertical line in the editor window at the given cursor position "
+"(see below)"
+msgstr ""
+"Отображать вертикальную линию в окне редактора на заданной позиции (см. "
+"ниже)."
+
+msgid "Procedures"
+msgstr "Процедуры"
+
+msgid "Process could not be stopped (%s)."
+msgstr "Процесс не может быть остановлен (%s)."
+
+msgid "Process failed (%s)"
+msgstr "Процесс дал сбой (%s)"
+
+msgid "Process failed, no working directory"
+msgstr "Ошибка: не указан рабочий каталог"
+
+msgid "Processes / Blocks / Components"
+msgstr "Процессы / Блоки / Компоненты"
+
+msgid "Program"
+msgstr "Программа"
+
+msgid "Program not found"
+msgstr "Программа не найдена"
+
+msgid "Programming Languages"
+msgstr "Языки программирования"
+
+msgid "Programs"
+msgstr "Программы"
+
+msgid "Project"
+msgstr "Проект"
+
+msgid "Project \"%s\" closed."
+msgstr "Проект \"%s\" закрыт."
+
+msgid "Project \"%s\" created."
+msgstr "Проект \"%s\" создан."
+
+msgid "Project \"%s\" opened."
+msgstr "Проект \"%s\" открыт."
+
+msgid "Project \"%s\" saved."
+msgstr "Проект \"%s\" сохранён."
+
+msgid "Project Properties"
+msgstr "Свойства проекта"
+
+msgid "Project base directory could not be created (%s)."
+msgstr "Каталог для проекта не может быть создан (%s)."
+
+msgid "Project file \"%s\" could not be loaded."
+msgstr "Файл проекта \"%s\" не может быть загружен."
+
+msgid "Project file could not be written"
+msgstr "Не удалось выполнить запись в файл проекта"
+
+msgid "Project file could not be written (%s)."
+msgstr "Не удалось выполнить запись в файл проекта (%s)."
+
+msgid "Project files"
+msgstr "Файлы проекта"
+
+msgid "Project files:"
+msgstr "Файлы проекта:"
+
+msgid "Project name"
+msgstr "Название проекта"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Punctuation characters"
+msgstr "Знаки препинания"
+
+msgid "Question"
+msgstr "Вопрос"
+
+msgid "Quit"
+msgstr "Выход"
+
+msgid "Quit Geany"
+msgstr "Выйти из Geany"
+
+msgid "RO "
+msgstr "ТЧ"
+
+msgid "R_eload As"
+msgstr "За_грузить заново как"
+
+msgid "R_ename"
+msgstr "Переи_меновать"
+
+msgid "Range:"
+msgstr "Интервал:"
+
+msgid "Re-open last closed tab"
+msgstr "Открыть последнюю закрытую вкладку"
+
+msgid "Re_place All"
+msgstr "З_аменить все"
+
+msgid "Read _Only"
+msgstr "Только _чтение"
+
+msgid "Read-only:"
+msgstr "Только чтение:"
+
+msgid "Read:"
+msgstr "Чтение:"
+
+msgid "Recent _Files"
+msgstr "Недавние _файлы"
+
+msgid "Recent files list length:"
+msgstr "Длина списка недавних файлов:"
+
+msgid "Redo"
+msgstr "Повторить"
+
+msgid "Redo the last modification"
+msgstr "Повторить последнее изменение"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Reload file"
+msgstr "Обновить файл"
+
+msgid "Reload symbol list"
+msgstr "Обновить список символов"
+
+msgid "Reload the current file from disk"
+msgstr "Заново загрузить текущий файл с диска"
+
+msgid "Remove Error Indicators"
+msgstr "Убрать индикаторы ошибок"
+
+msgid "Remove Error _Indicators"
+msgstr "Убрать индикаторы о_шибок"
+
+msgid "Remove Markers"
+msgstr "Удалить маркеры"
+
+msgid "Remove Markers and Error Indicators"
+msgstr "Убрать маркеры и индикаторы ошибок"
+
+msgid "Remove _Markers"
+msgstr "Удалить _маркеры"
+
+msgid ""
+"Removes all messages from the status bar. The messages are still displayed "
+"in the status messages window."
+msgstr ""
+"Удалить все сообщения из строки состояния. Сообщения по-прежнему "
+"отображаются в окне сообщений о состоянии."
+
+msgid "Removes trailing spaces and tabs and the end of lines"
+msgstr "Убирать лишние пробелы, табуляции и окончания строк"
+
+msgid ""
+"Renders the font size of the document together with the current zoom level"
+msgstr ""
+"Устанавливает размер шрифта для отображения документа в соответствии с "
+"текущим масштабом"
+
+msgid "Replace"
+msgstr "Заменить"
+
+msgid "Replace & Fi_nd"
+msgstr "Найти _и заменить"
+
+msgid "Replace Tabs with S_paces"
+msgstr "_Заменить табуляции пробелами"
+
+msgid ""
+"Replace \\\\, \\t, \\n, \\r and \\uXXXX (Unicode characters) with the "
+"corresponding control characters"
+msgstr ""
+"Заменять \\\\, \\t, \\n, \\r и \\uXXXX (символы Unicode) соответствующими "
+"управляющими символами"
+
+msgid "Replace all matches found in the currently selected text"
+msgstr "Заменить все совпадения в выделенном тексте"
+
+msgid "Replace spaces with tabs"
+msgstr "Заменить пробелы табуляциями"
+
+msgid "Replace special characters"
+msgstr "Заменить специальные символы"
+
+msgid "Replace tabs with space"
+msgstr "Заменить табуляции пробелами"
+
+msgid "Replace text in the current document"
+msgstr "Замена текста в текущем документе"
+
+msgid "Replace wit_h:"
+msgstr "Заменить _на:"
+
+msgid "Replaced %u matches in %u documents."
+msgstr "Произведено %u замен(ы) в %u документе(ах)."
+
+msgid "Replaces all tabs in document with spaces"
+msgstr "Заменить пробелами все табуляции в документе."
+
+msgid "Report a _Bug..."
+msgstr "Соо_бщить об ошибке..."
+
+msgid "Reset"
+msgstr "Сбросить"
+
+msgid "Return a list of open documents in a running Geany instance"
+msgstr "Вернуть список открытых документов в запущенной копии Geany"
+
+msgid "Right"
+msgstr "Справа"
+
+msgid "Romanian"
+msgstr "Румынская"
+
+msgid "Run"
+msgstr "Запустить"
+
+msgid "Run or view the current file"
+msgstr "Запустить или посмотреть текущий файл"
+
+msgid ""
+"Run programs in VTE instead of opening a terminal emulation window. Please "
+"note, programs executed in VTE cannot be stopped"
+msgstr ""
+"Запускать программы в терминале вместо того, чтобы открывать отдельное окно. "
+"Внимание: программы, выполняемые в терминале, нельзя остановить."
+
+msgid "SE & SW Asian"
+msgstr "_Юго-восточная и юго-западная Азия"
+
+msgid "SP"
+msgstr "ПРБ"
+
+msgid "S_elect Current Line(s)"
+msgstr "Выделить _текущие строки"
+
+msgid "S_mart Line Indent"
+msgstr "Использовать \"_умный\" отступ"
+
+msgid "S_ystem default"
+msgstr "Системные _настройки"
+
+msgid "Sa_ve All"
+msgstr "Сохранить _все"
+
+msgid "Sa_ve all open files"
+msgstr "Со_хранить все открытые файлы"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save Actions"
+msgstr "Действия по сохранению"
+
+msgid "Save All"
+msgstr "Сохранить _все"
+
+msgid "Save File"
+msgstr "Сохранить файл"
+
+msgid "Save _As..."
+msgstr "Сохранить как..."
+
+msgid "Save all"
+msgstr "Сохранить все"
+
+msgid "Save all open files"
+msgstr "Сохранить все открытые файлы"
+
+msgid "Save as"
+msgstr "Сохранить как"
+
+msgid "Save only current open _file"
+msgstr "Сохранить только текущий открытый _файл"
+
+msgid "Save the current file"
+msgstr "Сохранить текущий файл"
+
+msgid "Save the file and rename it"
+msgstr "Сохранить и переименовать файл."
+
+msgid "Save window position and geometry"
+msgstr "Сохранять позицию и размеры окна"
+
+msgid "Saves the window position and geometry and restores it at the start"
+msgstr "Сохранять позицию и размеры окна и восстанавливать их при запуске"
+
+msgid "Scribble"
+msgstr "Заметки"
+
+msgid "Scripting Languages"
+msgstr "Скриптовые языки"
+
+msgid "Scroll down the view by one line"
+msgstr "Прокрутить вниз на одну строку"
+
+msgid "Scroll on keystroke"
+msgstr "Прокрутка по нажатию на клавиши"
+
+msgid "Scroll on output"
+msgstr "Прокрутка по мере вывода"
+
+msgid "Scroll to current line"
+msgstr "Прокрутить до текущей строки"
+
+msgid "Scroll up the view by one line"
+msgstr "Прокрутить наверх на одну строку"
+
+msgid "Scrollback lines:"
+msgstr "Прокручиваемые строки:"
+
+msgid "Se_lect Current Paragraph"
+msgstr "Выделить _абзац"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search Field"
+msgstr "Найти поле"
+
+msgid "Search _backwards"
+msgstr "Поиск _в обратном направлении"
+
+msgid "Search completed with %d match."
+msgid_plural "Search completed with %d matches."
+msgstr[0] "Поиск завершён, найдено %d совпадений."
+msgstr[1] "Поиск завершён, найдено %d совпадение."
+msgstr[2] "Поиск завершён, найдено %d совпадение."
+
+msgid "Search failed."
+msgstr "Не удалось выполнить поиск."
+
+msgid "Searching..."
+msgstr "Идёт поиск..."
+
+msgid "Sect1"
+msgstr "Секция1"
+
+msgid "Sect2"
+msgstr "Секция2"
+
+msgid "Sect3"
+msgstr "Секция3"
+
+msgid "Section"
+msgstr "Раздел"
+
+msgid "Section Level 1"
+msgstr "Раздел уровень 1"
+
+msgid "Section Level 2"
+msgstr "Раздел уровень 2"
+
+msgid "Section Level 3"
+msgstr "Раздел уровень 3"
+
+msgid "Section Level 4"
+msgstr "Раздел уровень 4"
+
+msgid "Sections"
+msgstr "Разделы"
+
+msgid "See grep's manual page for more information"
+msgstr "См. справку grep для более подробной информации."
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select All"
+msgstr "Выбрать все"
+
+msgid "Select Browser"
+msgstr "Выберите браузер"
+
+msgid "Select Directory"
+msgstr "Выбрать каталог"
+
+msgid "Select File"
+msgstr "Выбрать файл"
+
+msgid "Select Folder"
+msgstr "Выбрать каталог"
+
+msgid "Select current word"
+msgstr "Выбрать слово"
+
+msgid ""
+"Select items to be displayed on the toolbar. Items can be reordered by drag "
+"and drop."
+msgstr ""
+"Выбор элементов, отображаемых на панели инструментов. Элементы можно "
+"упорядочивать путём перетаскивания."
+
+msgid "Select to next word part"
+msgstr "Выделить до окончания слова"
+
+msgid "Select to previous word part"
+msgstr "Выделить до начала слова"
+
+msgid "Send to Custom Command 1"
+msgstr "Передать пользовательской команде 1"
+
+msgid "Send to Custom Command 2"
+msgstr "Передать пользовательской команде 2"
+
+msgid "Send to Custom Command 3"
+msgstr "Передать пользовательской команде 3"
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "Set Build Commands"
+msgstr "Установить пользовательские команды"
+
+msgid "Set Custom Commands"
+msgstr "Установить пользовательские команды"
+
+msgid "Set File_type"
+msgstr "_Установить тип файла"
+
+msgid "Set Line E_ndings"
+msgstr "Установить _окончания строк"
+
+msgid "Set _Encoding"
+msgstr "Установить _кодировку"
+
+msgid "Set encoding:"
+msgstr "Кодировка:"
+
+msgid "Set filetype:"
+msgstr "Тип файла:"
+
+msgid ""
+"Set initial column number for the first opened file (useful in conjunction "
+"with --line)"
+msgstr ""
+"Задать начальный номер столбца для первого открытого файла (полезно в "
+"сочетании с --line)"
+
+msgid "Set initial line number for the first opened file"
+msgstr "Установить начальный номер строки для первого открытого файла"
+
+msgid "Set menu item label"
+msgstr "Метка элемента меню"
+
+msgid "Set path from document"
+msgstr "Установить путь из документа"
+
+msgid ""
+"Set the information to be used in templates. See the documentation for "
+"details."
+msgstr ""
+"Введите информацию для использования в шаблонах. Подробности смотрите в "
+"документации."
+
+msgid "Sets the background color of the text in the terminal widget"
+msgstr "Устанавливает цвет фона для окна терминала"
+
+msgid "Sets the color of the long line marker"
+msgstr "Установить цвет маркера длинной строки"
+
+msgid "Sets the default encoding for newly created files"
+msgstr "Устанавливает кодировку по умолчанию для создаваемых файлов"
+
+msgid "Sets the default encoding for opening existing non-Unicode files"
+msgstr ""
+"Устанавливает кодировку по умолчанию для открытия существующих файлов с "
+"кодировкой, отличной от Unicode"
+
+msgid "Sets the editor font"
+msgstr "Установить шрифт для редактора текста"
+
+msgid "Sets the font for the message window"
+msgstr "Установить шрифт для окна сообщений"
+
+msgid "Sets the font for the symbol list"
+msgstr "Установить шрифт для списка тегов"
+
+msgid "Sets the font for the terminal widget"
+msgstr "Устанавливает шрифт для окна терминала"
+
+msgid "Sets the foreground color of the text in the terminal widget"
+msgstr "Устанавлиивает цвет текста для окна терминала"
+
+msgid "Sets the path to the background image in the terminal widget"
+msgstr "Устанавливает путь до фонового изображения для окна терминала"
+
+msgid ""
+"Sets the path to the shell which should be started inside the terminal "
+"emulation"
+msgstr ""
+"Устанавливает путь к оболочке, которая должна быть запущена в терминале"
+
+msgid "Setting %s indentation mode for %s."
+msgstr "Установлен режим отступа \"%s\" для %s."
+
+msgid "Setting indentation width to %d for %s."
+msgstr "Установлена ширина отступа %d для %s."
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Shell"
+msgstr "Shell скрипт"
+
+msgid "Shell:"
+msgstr "Оболочка:"
+
+msgid "Shortcut"
+msgstr "Сокращение"
+
+msgid "Show Color Chooser"
+msgstr "Показать выбор цвета"
+
+msgid "Show Indentation _Guides"
+msgstr "Отображать линии _отступов"
+
+msgid "Show Line _Endings"
+msgstr "Отображать _завершение строк"
+
+msgid "Show Message _Window"
+msgstr "_Показывать окно сообщений"
+
+msgid "Show S_ymbol List"
+msgstr "Показать список _символов"
+
+msgid "Show Side_bar"
+msgstr "Показывать _боковую панель"
+
+msgid "Show White S_pace"
+msgstr "Отображать _пробелы"
+
+msgid "Show _Document List"
+msgstr "Показать список _документов"
+
+msgid "Show _Hidden Files"
+msgstr "Показать _скрытые файлы"
+
+msgid "Show _Line Numbers"
+msgstr "Отображать _номера строк"
+
+msgid "Show _Markers Margin"
+msgstr "Отображать _поле для маркеров"
+
+msgid "Show _Paths"
+msgstr "Показать _пути"
+
+msgid "Show _Toolbar"
+msgstr "Показывать панель _инструментов"
+
+msgid "Show _hidden files"
+msgstr "Показывать скр_ытые файлы"
+
+msgid "Show calltip"
+msgstr "Показывать подсказки"
+
+msgid "Show close buttons"
+msgstr "Показывать кнопки закрытия"
+
+msgid "Show documents list"
+msgstr "Показывать список документов"
+
+msgid "Show editor tabs"
+msgstr "Показывать вкладки редактора текста"
+
+msgid "Show hidden files"
+msgstr "Показать скрытые файлы"
+
+msgid "Show indentation guides"
+msgstr "Показывать индикаторы отступа"
+
+msgid "Show line endings"
+msgstr "Показывать окончания строк"
+
+msgid "Show line numbers"
+msgstr "Показывать _номера строк"
+
+msgid "Show markers margin"
+msgstr "Отступ для _маркера строк"
+
+msgid "Show sidebar"
+msgstr "Показывать боковую панель"
+
+msgid "Show status bar"
+msgstr "Показывать строку состояния"
+
+msgid "Show symbol list"
+msgstr "Отображать список символов"
+
+msgid "Show t_oolbar"
+msgstr "Показывать панель _инструментов"
+
+msgid "Show the current document"
+msgstr "Показать текущий документ"
+
+msgid "Show the preferences dialog"
+msgstr "Показать диалог настроек"
+
+msgid "Show version and exit"
+msgstr "Показать версию программы и выйти"
+
+msgid "Show white space"
+msgstr "Показывать пробелы"
+
+msgid "Shows a confirmation dialog on exit"
+msgstr "При закрытии показывать диалог подтверждения выхода"
+
+msgid ""
+"Shows a small cross button in the file tabs to easily close files when "
+"clicking on it (requires restart of Geany)"
+msgstr ""
+"Показывать маленькие кнопки с крестиком, на вкладках, рядом с названиями "
+"файлов, чтобы можно было легко закрывать их одним щелчком (потребуется "
+"перезапуск программы)"
+
+msgid "Shows or hides the Line Number margin"
+msgstr "Включить или выключить отображение номеров строк в редакторе"
+
+msgid ""
+"Shows or hides the small margin right of the line numbers, which is used to "
+"mark lines"
+msgstr ""
+"Показывает или прячет отступ для маркера, справа от номеров строк. Маркером "
+"можно отмечать определенные строки."
+
+msgid "Shows small dotted lines to help you to use the right indentation"
+msgstr "Показывать пунктирные линии, чтобы проще было выбрать нужные отступы"
+
+msgid "Shows the line ending character"
+msgstr "Отображать символ окончания строки"
+
+msgid "Side by Side"
+msgstr "По вертикали"
+
+msgid "Sidebar:"
+msgstr "Боковая панель:"
+
+msgid "Single quotes ' '"
+msgstr "Одинарные кавычки ' '"
+
+msgid "Singletons"
+msgstr "Синглтоны"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Snippet completion"
+msgstr "Автозавершение фрагментов кода"
+
+msgid ""
+"Some of the many contributors (for a more detailed list, see the file %s):"
+msgstr ""
+"Некоторые из многих участников проекта (более детальный список в файле %s):"
+
+msgid "Sort by _Appearance"
+msgstr "Сортировать по _появлению"
+
+msgid "Sort by _Name"
+msgstr "Сортировать по _имени"
+
+msgid "Source file:"
+msgstr "Файл исходного кода:"
+
+msgid "South European"
+msgstr "Южноевропейская"
+
+msgid ""
+"Space separated list of file patterns used for the find in files dialog (e."
+"g. *.c *.h)"
+msgstr ""
+"Список шаблонов поиска, разделённых пробелами (например, *.c *.h), "
+"используемых для поиска в диалоге файлов"
+
+msgid "Spaces"
+msgstr "Пробелы"
+
+msgid "Special Characters"
+msgstr "Специальные символы"
+
+msgid ""
+"Specifies the history in lines, which you can scroll back in the terminal "
+"widget"
+msgstr ""
+"Устанавливает количество строк, которые можно прокрутить назад в окне "
+"терминала"
+
+msgid "Specifies the number of files which are stored in the Recent files list"
+msgstr "Количество файлов, сохраняемых в списке недавно открытых файлов."
+
+msgid ""
+"Specify a format for the date and time stamp which is added to the page "
+"header on each page. You can use any conversion specifiers which can be used "
+"with the ANSI C strftime function."
+msgstr ""
+"Укажите формат для отображения даты и времени для добавления на печатаемые "
+"страницы. Можно использовать любые параметры, которые годятся для функции "
+"strftime ANSI C."
+
+msgid ""
+"Specify a format for the {datetime} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Укажите формат для группового символа {datetime}. Можно использовать любые "
+"параметры, которые годятся для функции strftime ANSI C."
+
+msgid ""
+"Specify a format for the {date} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Укажите формат для группового символа {date}. Можно использовать любые "
+"параметры, которые годятся для функции strftime ANSI C."
+
+msgid ""
+"Specify a format for the {year} wildcard. You can use any conversion "
+"specifiers which can be used with the ANSI C strftime function."
+msgstr ""
+"Укажите формат для группового символа {year}. Можно использовать любые "
+"параметры, которые годятся для функции strftime ANSI C."
+
+msgid "Split Window"
+msgstr "Разделить окно"
+
+msgid "Splits the editor view into two windows."
+msgstr "Разделяет окно редактирования на два отдельных окна."
+
+msgid "Square brackets [ ]"
+msgstr "Угловые скобки [ ]"
+
+msgid "Startup"
+msgstr "Запуск"
+
+msgid "Startup path:"
+msgstr "Рабочий каталог при запуске:"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Status messages"
+msgstr "Дежурные сообщения"
+
+msgid "Steps"
+msgstr "Шаги"
+
+msgid "Stop scrolling at last line"
+msgstr "Останавливать прокрутку на последней строке"
+
+msgid "Store project file inside the project base directory"
+msgstr "Хранить файл проекта внутри основного каталог проекта"
+
+msgid "Strip trailing spaces and tabs"
+msgstr "Убирать лишние пробелы и табуляции"
+
+msgid "Structs"
+msgstr "Структуры"
+
+msgid "Structures"
+msgstr "Структуры"
+
+msgid "Subsection"
+msgstr "Подраздел"
+
+msgid "Subsubsection"
+msgstr "Субподраздел"
+
+msgid "Suppress snippet completion"
+msgstr "Подавлять автозавершение фрагментов кода"
+
+msgid "Suppress status messages in the status bar"
+msgstr "Подавлять вывод дежурных сообщений в строке состояния"
+
+msgid "Switch to Compiler"
+msgstr "Переключиться на компилятор"
+
+msgid "Switch to Document"
+msgstr "Перейти к документу"
+
+msgid "Switch to Editor"
+msgstr "Перейти к редактору"
+
+msgid "Switch to Message Window"
+msgstr "Показывать окно сообщений"
+
+msgid "Switch to Messages"
+msgstr "Перейти к сообщениям"
+
+msgid "Switch to Scribble"
+msgstr "Перейти к заметкам"
+
+msgid "Switch to Search Bar"
+msgstr "Перейти к поиску"
+
+msgid "Switch to Sidebar"
+msgstr "Перейти к боковой панели"
+
+msgid "Switch to Sidebar Document List"
+msgstr "Перейти к списку документов"
+
+msgid "Switch to Sidebar Symbol List"
+msgstr "Перейти к списку тегов"
+
+msgid "Switch to VTE"
+msgstr "Переключиться в терминал"
+
+msgid "Switch to last used document"
+msgstr "Перейти на последний документ"
+
+msgid "Switch to last used document after closing a tab"
+msgstr ""
+"Перейти на последний документ, с которым шла работа, после закрытия вкладки"
+
+msgid "Switch to left document"
+msgstr "Перейти на документ слева"
+
+msgid "Switch to right document"
+msgstr "Перейти на документ справа"
+
+msgid "Switch to status message list at new message"
+msgstr "Перейти к сообщениям статуса при появлении новых"
+
+msgid ""
+"Switch to the status message tab (in the notebook window at the bottom) if a "
+"new status message arrives"
+msgstr ""
+"Переключать на закладку \"Статус\" (в служебной области снизу), если там "
+"появилось новое сообщение"
+
+msgid "Symbol list update frequency:"
+msgstr "Частота обновления списка символов:"
+
+msgid "Symbol list:"
+msgstr "Список символов:"
+
+msgid "Symbols"
+msgstr "Символы"
+
+msgid "System _default"
+msgstr "_По умолчанию"
+
+msgid "T/S"
+msgstr "ТАБ/ПРБ"
+
+msgid "TAB"
+msgstr "ТАБ"
+
+msgid "T_abs and Spaces"
+msgstr "_Табуляции и пробелы"
+
+msgid "T_abs and spaces"
+msgstr "_Табуляция и пробелы"
+
+msgid "T_oggle Case of Selection"
+msgstr "Переключить _регистр выделенного текста"
+
+msgid "Tab key indents"
+msgstr "Отступ при помощи клавиши Tab"
+
+msgid "Tables"
+msgstr "Таблицы"
+
+msgid "Tabs"
+msgstr "Табуляция"
+
+msgid "Tabs and Spaces"
+msgstr "Табуляции и пробелы"
+
+msgid "Targets"
+msgstr "Цели"
+
+msgid "Technical characters"
+msgstr "Технические символы"
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Terminal"
+msgstr "Терминал"
+
+msgid "Terminal:"
+msgstr "Терминал:"
+
+msgid "Text ended before matching quote was found"
+msgstr "Текст команды завершился до того, как была найдена парная кавычка"
+
+msgid "Text was empty (or contained only whitespace)"
+msgstr "Текст команды пуст (или содержит только пробелы)"
+
+msgid "Thai"
+msgstr "Тайская"
+
+msgid "The '%s' project is open."
+msgstr "Проект '%s' открыт."
+
+msgid "The Geany developer team"
+msgstr "Команда разработчиков Geany"
+
+msgid ""
+"The amount of characters which are necessary to show the symbol "
+"autocompletion list"
+msgstr ""
+"Количество символов, которые необходимо ввести, чтобы было показан список "
+"вариантов для автозавершения."
+
+msgid ""
+"The background color of characters after the given cursor position (see "
+"below) changed to the color set below, (this is recommended if you use "
+"proportional fonts)"
+msgstr ""
+"Цвет фона символов после заданной позиции (см. ниже) меняется на цвет, "
+"который установлен ниже (рекомендуется, если вы используете пропорциональные "
+"шрифты)."
+
+msgid ""
+"The buffer's previous state is stored in the history and undoing restores "
+"it. You can disable this by discarding the history upon reload. This message "
+"will not be displayed again but Your choice can be changed in the various "
+"preferences."
+msgstr ""
+"Предыдущее состояние буфера находится в истории и отмена действия "
+"восстанавливает его. Вы можете отключить данное поведение, выполняя сброс "
+"истории при перезагрузке. Данное сообщение не будет отображаться повторно, "
+"но ваш выбор может быть изменён в настройках \"Разное\"."
+
+msgid "The combination '%s' is already used for \"%s\"."
+msgstr "Комбинация клавиш \"%s\" уже используется для \"%s\"."
+
+msgid ""
+"The command to execute when using \"Open with\". You can use %f and %d "
+"wildcards.\n"
+"%f will be replaced with the filename including full path\n"
+"%d will be replaced with the path name of the selected file without the "
+"filename"
+msgstr ""
+"Команда для выполнения по действию \"Открыть в\". Можно использовать "
+"обозначения %f и %d.\n"
+"%f будет заменено на имя файла, включая полный путь к нему.\n"
+"%d будет заменено только на путь, без имени файла."
+
+msgid "The current filetype overrides the default style."
+msgstr "Текущий тип файла переопределяет стандартный стиль."
+
+msgid "The document has been closed."
+msgstr "Документ закрыт."
+
+msgid "The executed custom command exited with an unsuccessful exit code."
+msgstr "Выполненная команда пользователя завершилась с ошибкой."
+
+msgid ""
+"The executed custom command returned an error. Your selection was not "
+"changed. Error message: %s"
+msgstr ""
+"Выполнение команды пользователя завершилось с ошибкой. Изменений сделано не "
+"было. Текст сообщения об ошибке: %s"
+
+msgid ""
+"The file \"%s\" could not be opened properly and has been truncated. This "
+"can occur if the file contains a NULL byte. Be aware that saving it can "
+"cause data loss.\n"
+"The file was set to read-only."
+msgstr ""
+"Файл  \"%s\" не удалось открыть правильно, и он был усечён. Это может "
+"случиться, если в файле находится нулевой байт. Внимание: сохранение файла "
+"может привести к потере данных.\n"
+"Файл открыт в режиме \"только чтение\"."
+
+msgid ""
+"The file \"%s\" does not look like a text file or the file encoding is not "
+"supported."
+msgstr ""
+"Файл \"%s\" не похож на текстовой или такая кодировка файла не "
+"поддерживается."
+
+msgid "The file \"%s\" is not valid %s."
+msgstr "Файл  \"%s\" не является корректным %s."
+
+msgid ""
+"The file \"%s\" will be printed with the following command:\n"
+"\n"
+"%s"
+msgstr ""
+"Файл \"%s\" будет напечатан при помощи следующей команды:\n"
+"\n"
+"%s"
+
+msgid "The file '%s' already exists. Do you want to overwrite it?"
+msgstr "Файл '%s' уже существует. Перезаписать?"
+
+msgid "The file '%s' is not saved."
+msgstr "Файл \"%s\" не сохранён."
+
+msgid "The file '%s' on the disk is more recent than the current buffer."
+msgstr "Файл '%s' на диске более новый, чем в текущем буфере."
+
+msgid "The file has been reloaded."
+msgstr "Файл был загружен заново."
+
+msgid "The following keyboard shortcuts are configurable:"
+msgstr "Можно настроить следующие сочетания клавиш:"
+
+msgid ""
+"The long line marker is a thin vertical line in the editor, it helps to mark "
+"long lines, or as a hint to break the line. Set this value to a value "
+"greater than 0 to specify the column where it should appear."
+msgstr ""
+"Маркер длинной строки - это вертикальная тонкая линия в редакторе. Помогает "
+"отмечать длинные строки или является сигналом для перехода на следующую "
+"строку. Установите число, большее нуля, для указания номера столбца, где "
+"следует отображать этот маркер."
+
+msgid "The name of the developer"
+msgstr "Имя разработчика:"
+
+msgid "The path \"%s\" does not exist."
+msgstr "Каталог \"%s\" не существует."
+
+msgid ""
+"The plugin \"%s\" is not binary compatible with this release of Geany - "
+"please recompile it."
+msgstr ""
+"Модуль \"%s\" несовместим с этой версией Geany - пожалуйста, скомпилируйте "
+"его заново."
+
+msgid "The specified project name is too long (max. %d characters)."
+msgstr "Указанное имя проекта слишком длинное (максимум %d символов)."
+
+msgid "The specified project name is too short."
+msgstr "Указанное имя проекта слишком короткое."
+
+msgid "The width in chars of a single indent"
+msgstr "Ширина в символах для отображения одного отступа"
+
+msgid "This is Geany %s."
+msgstr "Это Geany %s."
+
+msgid "This may cause color schemes to display incorrectly."
+msgstr "Это может вызвать неправильное отображение цветовых схем."
+
+msgid ""
+"This option disables the automatic detection of the file encoding when "
+"opening non-Unicode files and opens the file with the specified encoding "
+"(usually not needed)"
+msgstr ""
+"Эта опция отключает автоматическое определение кодировки файла при открытии; "
+"файлы c кодировкой, отличной от Unicode, будут открыватся в указанной "
+"кодировке. Обычно в этом нет необходимости."
+
+msgid ""
+"This option disables the keybinding to popup the menu bar (default is F10). "
+"Disabling it can be useful if you use, for example, Midnight Commander "
+"within the VTE."
+msgstr ""
+"Эта опция отключает горячую клавишу для вызова меню (обычно F10). Это может "
+"пригодиться, например, если вы используете Midnight Commander в окне "
+"терминала."
+
+msgid "This plugin provides different actions related to saving of files."
+msgstr "Данный модуль предлагает различные действия для сохранения файлов."
+
+msgid "Toggle All Additional Widgets"
+msgstr "Показать/скрыть все дополнительные элементы"
+
+msgid "Toggle All _Additional Widgets"
+msgstr "Показать/скрыть _все панели"
+
+msgid "Toggle Line breaking"
+msgstr "Переключить перенос строк"
+
+msgid "Toggle Line wrapping"
+msgstr "Переключить режим переноса строк"
+
+msgid "Toggle Messages Window"
+msgstr "Показать/скрыть окно сообщений"
+
+msgid "Toggle Sidebar"
+msgstr "Показать/скрыть боковую панель"
+
+msgid "Toggle current fold"
+msgstr "Свернуть/развернуть текущий блок"
+
+msgid "Toggle line commentation"
+msgstr "Переключить комментирование строк"
+
+msgid "Toggle marker"
+msgstr "Переключить маркер"
+
+msgid "Toggle plugin status"
+msgstr "Переключить статус модуля"
+
+msgid "Toggle the documents list on and off"
+msgstr "Включить/выключить отображение списка документов"
+
+msgid "Toggle the symbol list on and off"
+msgstr "Переключить отображение списка символов"
+
+msgid "Too many items selected!"
+msgstr "Выбрано слишком много объектов!"
+
+msgid "Toolbar"
+msgstr "Панель инструментов"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Top"
+msgstr "Вверху"
+
+msgid "Top and Bottom"
+msgstr "По горизонтали"
+
+msgid "Traits"
+msgstr "Типажи"
+
+msgid "Translators"
+msgstr "Переводчики"
+
+msgid "Triggers"
+msgstr "Триггеры"
+
+msgid "Try to resave the file?"
+msgstr "Попытаться сохранить файл заново?"
+
+msgid "Turkish"
+msgstr "Турецкая"
+
+msgid "Type Selectors"
+msgstr "Типы"
+
+msgid ""
+"Type a defined short character sequence and complete it to a more complex "
+"string using a single keypress"
+msgstr ""
+"Введите определенную короткую последовательность символов и дополните её до "
+"более сложной строки  одним нажатием клавиши"
+
+msgid "Type constructors"
+msgstr "Конструкторы типов"
+
+msgid "Type here what you want, use it as a notice/scratch board"
+msgstr ""
+"Здесь можно писать что угодно. Используйте это поле для заметок и быстрых "
+"записей."
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Typedefs / Enums"
+msgstr "Типы / Перечисления"
+
+msgid "Types"
+msgstr "Типы"
+
+msgid "U_ncomment Line(s)"
+msgstr "_Раскомментировать"
+
+msgid "Uncomment line(s)"
+msgstr "Раскомментировать строки"
+
+msgid "Undo"
+msgstr "Отменить"
+
+msgid "Undo history will be lost."
+msgstr "Вся история изменений будет потеряна."
+
+msgid "Undo the last modification"
+msgstr "Отменить последнее изменение"
+
+msgid "Unfold all"
+msgstr "Развернуть все"
+
+msgid "Unicode"
+msgstr "Юникод"
+
+msgid "Unknown error executing child process"
+msgstr "Неизвестная ошибка при запуске дочернего процесса"
+
+msgid "Unknown filetype extension for \"%s\".\n"
+msgstr "Неизвестное расширение имени файла для \"%s\".\n"
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid ""
+"Usage: %s -g <Tag File> <File list>\n"
+"\n"
+msgstr ""
+"Использование: %s -g <файл тэгов> <список файлов>\n"
+"\n"
+
+msgid ""
+"Use POSIX-like regular expressions. For detailed information about using "
+"regular expressions, please read the documentation."
+msgstr ""
+"Использовать регулярные выражения POSIX. Для более подробной информации по "
+"использованию регулярных выражений см. документацию."
+
+msgid "Use Windows native dialogs"
+msgstr "Использовать диалоги Windows"
+
+msgid "Use _escape sequences"
+msgstr "Escape-_последовательности"
+
+msgid "Use an alternate configuration directory"
+msgstr "Использовать другой каталог настроек"
+
+msgid "Use an external command for printing"
+msgstr "Использовать внешнюю команду для печати"
+
+msgid ""
+"Use current word under the cursor when opening the Find, Find in Files or "
+"Replace dialog and there is no selection"
+msgstr ""
+"Использовать слово, находящееся под курсором, при открытии диалогов \"Найти"
+"\", \"Найти в файлах\" или \"Заменить\", если нет выделенного фрагмента"
+
+msgid "Use fixed encoding when opening non-Unicode files"
+msgstr ""
+"Использовать одну и ту же кодировку для открытия файлов с кодировкой, "
+"отличной от Unicode"
+
+msgid "Use global settings"
+msgstr "Использовать глобальные настройки"
+
+msgid "Use indicators to show compile errors"
+msgstr "Использовать индикаторы для показа ошибок при сборке"
+
+msgid "Use multi-line matchin_g"
+msgstr "_Многострочный поиск"
+
+msgid "Use native GTK printing"
+msgstr "Использовать стандартный механизм печати GTK"
+
+msgid "Use one tab per indent"
+msgstr "Использовать один символ табуляции при отступе"
+
+msgid "Use project-based session files"
+msgstr "Использовать файлы сессий для проектов"
+
+msgid ""
+"Use spaces if the total indent is less than the tab width, otherwise use both"
+msgstr ""
+"Использовать пробелы, если общий отступ меньше ширины символа табуляции, в "
+"противном случае использовать пробелы и табуляции"
+
+msgid "Use spaces when inserting indentation"
+msgstr "Использовать пробелы при отступе"
+
+msgid "Use the basename of the printed file"
+msgstr "Использовать только имя текущего файла"
+
+msgid "Use the current file's directory for Find in Files"
+msgstr "Использовать каталог текущего файла для \"Найти в файлах\""
+
+msgid "Use the current word under the cursor for Find dialogs"
+msgstr "Использовать слово под курсором для диалогов поиска"
+
+msgid "Use the project's base directory"
+msgstr "Использовать каталог проекта"
+
+msgid ""
+"Use this socket filename for communication with a running Geany instance"
+msgstr ""
+"Использовать это имя файла сокета для соединения с запущенной копией Geany"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Variables"
+msgstr "Переменные"
+
+msgid "Variables / Signals"
+msgstr "Переменные / Сигналы"
+
+msgid "Various"
+msgstr "Разное"
+
+msgid "Version number, which a new file initially has"
+msgstr "Номер версии, которую изначально имеет новый файл"
+
+msgid ""
+"Version:\t%s\n"
+"Author(s):\t%s\n"
+"Filename:\t%s"
+msgstr ""
+"Версия:\t%s\n"
+"Автор(ы):\t%s\n"
+"Путь:\t%s"
+
+msgid "Vietnamese"
+msgstr "Вьетнамская"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Views"
+msgstr "Отображения"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Warning: non-standard hard tab width: %d != 8!"
+msgstr "Внимание: нестандартная ширина табуляции: %d != 8"
+
+msgid "West European"
+msgstr "_Западноевропейская"
+
+msgid "Western"
+msgstr "Латиница"
+
+msgid ""
+"When \"smart\" home is enabled, the HOME key will move the caret to the "
+"first non-blank character of the line, unless it is already there, it moves "
+"to the very beginning of the line. When this feature is disabled, the HOME "
+"key always moves the caret to the start of the current line, regardless of "
+"its current position."
+msgstr ""
+"При использовании \"умной\" клавиши Home по её нажатию курсор будет "
+"перемещаться к первому непробельному символу в строке. Если же курсор уже "
+"находится там, то он переместится к самому началу строки. Без этой функции "
+"клавиша Home всегда переносит курсор в самое начало строки."
+
+msgid ""
+"When enabled, a project file is stored by default inside the project base "
+"directory when creating new projects instead of one directory above the base "
+"directory. You can still change the path of the project file in the New "
+"Project dialog."
+msgstr ""
+"Если включено, при создании нового проекта файл проекта будет хранится "
+"внутри главного каталога проектов, а не на один каталог выше базового "
+"каталога. У вас остается возможность изменения пути к проектному файлу в "
+"диалоге \"Новый проект\" (\"Проект\"->\"Новый\")."
+
+msgid ""
+"Whether the virtual terminal emulation (VTE) should be loaded at startup, "
+"disable it if you do not need it"
+msgstr ""
+"Должна ли при запуске программы загружаться библиотека для эмуляции "
+"виртуального терминала. Отключите, если вам это не требуется."
+
+msgid ""
+"Whether to beep if an error occurred or when the compilation process has "
+"finished"
+msgstr ""
+"Подавать ли звуковой сигнал при возникновении ошибки и при окончании "
+"компиляции"
+
+msgid "Whether to blink the cursor"
+msgstr "Должен ли курсор мигать"
+
+msgid ""
+"Whether to detect the indentation type from file contents when a file is "
+"opened"
+msgstr "Определять ли тип отступов по содержимому открываемого файла"
+
+msgid ""
+"Whether to detect the indentation width from file contents when a file is "
+"opened"
+msgstr "Определять ли тип отступов по содержимому открываемого файла"
+
+msgid "Whether to execute \"cd $path\" when you switch between opened files"
+msgstr ""
+"Выполнять ли \"cd $path\", когда вы переключаетесь между открытыми файлами"
+
+msgid ""
+"Whether to place file tabs next to the current tab rather than at the edges "
+"of the notebook"
+msgstr "Помещать новую вкладку редактора текста сразу за текущей, а не в конце"
+
+msgid "Whether to scroll to the bottom if a key was pressed"
+msgstr "Осуществлять ли прокрутку вниз, если была нажата клавиша"
+
+msgid "Whether to scroll to the bottom when output is generated"
+msgstr "Прокручивать ли вниз, если что-то было выведено"
+
+msgid "Whether to show the status bar at the bottom of the main window"
+msgstr "Установить, показывать ли строку состояния внизу главного окна"
+
+msgid "Whether to stop scrolling one page past the last line of a document"
+msgstr "Останавливает прокрутку на последней строке документа"
+
+msgid ""
+"Whether to store a project's session files and open them when re-opening the "
+"project"
+msgstr ""
+"Хранить ли файлы сессии проекта и открыть их при повторном открытии проекта"
+
+msgid ""
+"Whether to use indicators (a squiggly underline) to highlight the lines "
+"where the compiler found a warning or an error"
+msgstr ""
+"Использовать ли индикаторы (волнистое подчеркивание) для выделения строк, "
+"где компилятор обнаружил предупреждение или ошибку"
+
+msgid "Wi_ki"
+msgstr "Wi_ki"
+
+msgid "Width:"
+msgstr "Ширина:"
+
+msgid "Without encoding"
+msgstr "Без кодировки"
+
+msgid "Word Count"
+msgstr "Подсчёт слов"
+
+msgid "Word part completion"
+msgstr "Автозавершение фрагментов кода"
+
+msgid "Words:"
+msgstr "Слов:"
+
+msgid "Working directory"
+msgstr "Рабочий каталог"
+
+msgid "Wrap search and find again?"
+msgstr "Перейти в начало и возобновить поиск?"
+
+msgid ""
+"Wrap the line at the window border and continue it on the next line. Note: "
+"line wrapping has a high performance cost for large documents so should be "
+"disabled on slow machines."
+msgstr ""
+"Переносить длинные строки при достижении края окна, продолжая их с новой "
+"строки. Примечание: динамический перенос строк является ресурсоёмким "
+"процессом при работе с большими документами, поэтому на слабых машинах "
+"следует его отключать."
+
+msgid "Write:"
+msgstr "Запись:"
+
+msgid "XML/HTML tag auto-closing"
+msgstr "Автозакрытие тегов XML/HTML"
+
+msgid "Year:"
+msgstr "Год:"
+
+msgid ""
+"You can send the current selection to any of these commands and the output "
+"of the command replaces the current selection."
+msgstr ""
+"Вы можете передать текущее выделение любой из этих команд, и её вывод "
+"заменит текущее выделение."
+
+msgid "You have specified an invalid project filename."
+msgstr "Недопустимое имя проекта."
+
+msgid ""
+"Your configuration directory has been successfully moved from \"%s\" to \"%s"
+"\"."
+msgstr "Ваш каталог с настройками успешно перемещён из  \"%s\" в \"%s\"."
+
+msgid ""
+"Your old configuration directory \"%s\" could not be moved to \"%s\" (%s). "
+"Please move manually the directory to the new location."
+msgstr ""
+"Ваш каталог с настройками \"%s\" не может быть перемещён в \"%s\" (%s). "
+"Пожалуйста, переместите каталог с настройками вручную."
+
+msgid "Zoom In"
+msgstr "Увеличить"
+
+msgid "Zoom Out"
+msgstr "Уменьшить"
+
+msgid "Zoom Reset"
+msgstr "Обычный размер"
+
+msgid "Zoom in the text"
+msgstr "Увеличить текст"
+
+msgid "Zoom out the text"
+msgstr "Уменьшить текст"
+
+msgid "[FILES...]"
+msgstr "[ФАЙЛЫ...]"
+
+msgid "_1"
+msgstr "_1"
+
+msgid "_2"
+msgstr "_2"
+
+msgid "_3"
+msgstr "_3"
+
+msgid "_4"
+msgstr "_4"
+
+msgid "_5"
+msgstr "_5"
+
+msgid "_6"
+msgstr "_6"
+
+msgid "_7"
+msgstr "_7"
+
+msgid "_8"
+msgstr "_8"
+
+msgid "_Allow"
+msgstr "_Позволять"
+
+msgid "_Append toolbar to the menu"
+msgstr "_Добавить панель инструментов в меню"
+
+msgid "_Apply Default Indentation"
+msgstr "При_менить отступы по умолчанию"
+
+msgid "_Auto-indentation"
+msgstr "_Автоматический отступ"
+
+msgid "_Auto-replace Special Characters"
+msgstr "_Автоматически заменять специальные символы"
+
+msgid "_Build"
+msgstr "_Сборка"
+
+msgid "_C++ Class..."
+msgstr "Класс _C++..."
+
+msgid "_Clone"
+msgstr "Клонировать"
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "_Collapse All"
+msgstr "_Свернуть все"
+
+msgid "_Color Chooser"
+msgstr "_Выбор цвета"
+
+msgid "_Comment Line(s)"
+msgstr "За_комментировать"
+
+msgid "_Compile"
+msgstr "_Скомпилировать"
+
+msgid "_Copy Current Line(s)"
+msgstr "_Копировать строки"
+
+msgid "_Decrease Indent"
+msgstr "У_меньшить отступ"
+
+msgid "_Delete Current Line(s)"
+msgstr "_Удалить строки"
+
+msgid "_Detect from Content"
+msgstr "_Распознать по содержимому файла"
+
+msgid "_Directory to save backup files in:"
+msgstr "_Каталог для сохранения резервных копий:"
+
+msgid "_Directory:"
+msgstr "_Каталог:"
+
+msgid "_Document"
+msgstr "_Документ"
+
+msgid "_Don't save"
+msgstr "_Не сохранять"
+
+msgid "_Donate..."
+msgstr "Сделать _пожертвование..."
+
+msgid "_East European"
+msgstr "_Восточноевропейская"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Enable"
+msgstr "_Включить"
+
+msgid "_Execute"
+msgstr "_Выполнить"
+
+msgid "_Expand All"
+msgstr "_Развернуть все"
+
+msgid "_Export"
+msgstr "_Экспорт"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Filetype Configuration"
+msgstr "Настройка типов _файлов"
+
+msgid "_Filetype to use for newly opened files:"
+msgstr "_Тип файла по умолчанию для создаваемых файлов:"
+
+msgid "_Find All"
+msgstr "_Найти все"
+
+msgid "_Find in Files..."
+msgstr "_Найти в файлах..."
+
+msgid "_Find..."
+msgstr "Найти..."
+
+msgid "_Fold All"
+msgstr "_Свернуть все"
+
+msgid "_Format"
+msgstr "_Форматирование"
+
+msgid "_GTK+ Class..."
+msgstr "Класс _GTK+..."
+
+msgid "_Go to Line..."
+msgstr "Перейти на с_троку..."
+
+msgid "_HTML Replacement"
+msgstr "Замена в _HTML"
+
+msgid "_Help"
+msgstr "Спр_авка"
+
+msgid "_Hide Message Window"
+msgstr "_Скрыть окно сообщений"
+
+msgid "_Hide Toolbar"
+msgstr "_Скрыть панель инструментов"
+
+msgid "_Images only"
+msgstr "Только и_конки"
+
+msgid "_In Document"
+msgstr "В _документе"
+
+msgid "_Increase Indent"
+msgstr "У_величить отступ"
+
+msgid "_Input Methods"
+msgstr "Методы _ввода"
+
+msgid "_Insert"
+msgstr "_Вставить"
+
+msgid "_Insert \"include <...>\""
+msgstr "Встав_ить \"include <...>\""
+
+msgid "_Insert Special HTML Characters..."
+msgstr "Вставить _специальные символы HTML..."
+
+msgid "_Insert line numbers"
+msgstr "_Добавлять номера строк"
+
+msgid "_Invert search results"
+msgstr "_Инвертировать результаты поиска"
+
+msgid "_Large icons"
+msgstr "_Большие"
+
+msgid "_Line Wrapping"
+msgstr "Динамический _перенос строк"
+
+msgid "_Make"
+msgstr "_Собрать"
+
+msgid "_Make All"
+msgstr "Собрать _всё"
+
+msgid "_Mark"
+msgstr "_Пометить"
+
+msgid "_Mark All"
+msgstr "_Пометить все"
+
+msgid "_Markup Languages"
+msgstr "Языки _разметки"
+
+msgid "_Middle Eastern"
+msgstr "_Средневосточная"
+
+msgid "_More"
+msgstr "_Ещё"
+
+msgid "_More Options"
+msgstr "_Больше настроек"
+
+msgid "_Move Line(s) Up"
+msgstr "Переместить строку(и) вверх"
+
+msgid "_New..."
+msgstr "_Новый..."
+
+msgid "_Next"
+msgstr "_Следующее"
+
+msgid "_Next Error"
+msgstr "Сл_едующая ошибка"
+
+msgid "_Open..."
+msgstr "_Открыть..."
+
+msgid "_Override"
+msgstr "_Переопределить"
+
+msgid "_Overwrite"
+msgstr "_Перезаписать"
+
+msgid "_PHP Class..."
+msgstr "Класс _PHP..."
+
+msgid "_Plugin Manager"
+msgstr "_Менеджер модулей"
+
+msgid "_Previous"
+msgstr "_Предыдущее"
+
+msgid "_Previous Error"
+msgstr "_Предыдущая ошибка"
+
+msgid "_Print status message if files have been automatically saved"
+msgstr "_Выводить дежурное сообщение при автоматическом сохранении файлов"
+
+msgid "_Print..."
+msgstr "_Печать..."
+
+msgid "_Programming Languages"
+msgstr "Языки _программирования"
+
+msgid "_Project"
+msgstr "Про_ект"
+
+msgid "_Recent Projects"
+msgstr "_Последние проекты"
+
+msgid "_Recurse in subfolders"
+msgstr "_Рекурсивно в подкаталогах"
+
+msgid "_Reflow Lines/Block"
+msgstr "Пере_форматировать строки/блок"
+
+msgid "_Reload"
+msgstr "_Загрузить заново"
+
+msgid "_Reload Configuration"
+msgstr "_Обновить настройки"
+
+msgid "_Replace"
+msgstr "_Заменить"
+
+msgid "_Replace Characters in Selection"
+msgstr "_Заменить символы в выделении"
+
+msgid "_Replace Spaces with Tabs..."
+msgstr "Заменить пробелы _табуляциями..."
+
+msgid "_Replace..."
+msgstr "_Заменить..."
+
+msgid "_Restart Terminal"
+msgstr "_Перезапуск терминала"
+
+msgid "_SE & SW Asian"
+msgstr "Юговосточная и Югозападная _Азия"
+
+msgid "_Scripting Languages"
+msgstr "_Скриптовые языки"
+
+msgid "_Search"
+msgstr "П_оиск"
+
+msgid "_Search for:"
+msgstr "_Искать:"
+
+msgid "_Send Selection to"
+msgstr "О_тправить выделенное в"
+
+msgid "_Send Selection to Terminal"
+msgstr "_Отправить выделенное в терминал"
+
+msgid "_Set Build Commands"
+msgstr "_Установить команды сборки"
+
+msgid "_Set Custom Date Format"
+msgstr "_Установить формат даты"
+
+msgid "_Set Path From Document"
+msgstr "_Установить путь из документа"
+
+msgid "_Side by Side"
+msgstr "По _вертикали"
+
+msgid "_Small icons"
+msgstr "_Маленькие"
+
+msgid "_Spaces"
+msgstr "_Пробелы"
+
+msgid "_Split Window"
+msgstr "_Разделить окно"
+
+msgid "_Strip Trailing Spaces"
+msgstr "Удалить _лишние пробелы в конце строк"
+
+msgid "_Tabs"
+msgstr "_Табуляция"
+
+msgid "_Text only"
+msgstr "Только _текст"
+
+msgid "_Toggle Line Commentation"
+msgstr "_Переключить комментарий"
+
+msgid "_Toolbar Preferences"
+msgstr "Свойства панели _инструментов"
+
+msgid "_Tools"
+msgstr "_Инструменты"
+
+msgid "_Top and Bottom"
+msgstr "По _горизонтали"
+
+msgid "_Transpose Current Line"
+msgstr "П_ереставить строку"
+
+msgid "_Unfold All"
+msgstr "_Развернуть все"
+
+msgid "_Unicode"
+msgstr "_Юникод"
+
+msgid "_Unsplit"
+msgstr "_Отменить разделение"
+
+msgid "_Use Custom Date Format"
+msgstr "_Использовать свой формат даты"
+
+msgid "_Use current zoom level"
+msgstr "_Использовать текущий уровень увеличения"
+
+msgid "_Use regular expressions"
+msgstr "_Использовать регулярные выражения"
+
+msgid "_Very small icons"
+msgstr "_Очень маленькие"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "_Website"
+msgstr "Са_йт проекта"
+
+msgid "_West European"
+msgstr "_Западноевропейская"
+
+msgid "_Word Count"
+msgstr "_Количество слов"
+
+msgid "_Write Unicode BOM"
+msgstr "Использовать _Unicode BOM"
+
+msgid "all"
+msgstr "все"
+
+msgid "built on %s with "
+msgstr "(собрано %s или позднее)"
+
+msgid "custom"
+msgstr "указать"
+
+msgid "dd.mm.yyyy"
+msgstr "дд.мм.гггг"
+
+msgid "dd.mm.yyyy hh:mm:ss"
+msgstr "дд.мм.гггг чч:мм:сс"
+
+msgid "developer"
+msgstr "разработчик"
+
+msgid "email address of the developer"
+msgstr "адрес электронной почты разработчика"
+
+msgid "failed to substitute %%p, no project active"
+msgstr "не удалось заменить %%p, нет активного проекта"
+
+msgid "invalid VTE library \"%s\": missing symbol \"%s\""
+msgstr "неправильная библиотека VTE \"%s\": отсутствует идентификатор \"%s\""
+
+msgid "invisible"
+msgstr "невидимый"
+
+msgid ""
+"line: %l / %L\t col: %c\t sel: %s\t %w      %t      %mmode: %M      "
+"encoding: %e      filetype: %f      scope: %S"
+msgstr ""
+"строка: %l / %L\t столбец: %c\t выделено: %s\t %w      %t      %mрежим: "
+"%M      кодировка: %e      тип файла: %f      область действия: %S"
+
+msgid "maintainer"
+msgstr "ведущий разработчик"
+
+msgid "mm.dd.yyyy"
+msgstr "мм.дд.гггг"
+
+msgid "mm.dd.yyyy hh:mm:ss"
+msgstr "мм.дд.гггг чч:мм:сс"
+
+msgid "project"
+msgstr "проект"
+
+msgid "projects"
+msgstr "проекты"
+
+msgid "seconds"
+msgstr "сек"
+
+msgid "selection"
+msgstr "выделение"
+
+msgid "translation maintainer"
+msgstr "ведущий переводчик"
+
+msgid "unknown"
+msgstr "неизвестно"
+
+msgid "untitled"
+msgstr "без имени"
+
+msgid "whole document"
+msgstr "весь документ"
+
+msgid "yyyy/mm/dd"
+msgstr "гггг/мм/дд"
+
+msgid "yyyy/mm/dd hh:mm:ss"
+msgstr "гггг/мм/дддд чч:мм:сс"

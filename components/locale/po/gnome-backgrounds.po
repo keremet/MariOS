@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-backgrounds.HEAD.ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-08-08 21:37+0400\n"
+"PO-Revision-Date: 2008-08-08 21:42+0300\n"
+"Last-Translator: Alexandre Prokoudine <alexandre.prokoudine@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.10.2\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Aqua"
+msgstr "Вода"
+
+msgid "Blinds"
+msgstr "Жалюзи"
+
+msgid "Dune"
+msgstr "Дюна"
+
+msgid "Flow"
+msgstr "Поток"
+
+msgid "Fresh Flower"
+msgstr "Оранжевый цветок"
+
+msgid "Garden"
+msgstr "Сад"
+
+msgid "Green Meadow"
+msgstr "Зелёный луг"
+
+msgid "Gulp"
+msgstr "Глоток"
+
+msgid "Lady Bird"
+msgstr "Божья коровка"
+
+msgid "Rain Drops"
+msgstr "Капли дождя"
+
+msgid "Silk"
+msgstr "Шелк"
+
+msgid "Spring"
+msgstr "Весна"
+
+msgid "Storm"
+msgstr "Шторм"
+
+msgid "Two Wings"
+msgstr "Два крыла"
+
+msgid "Waves"
+msgstr "Волны"
+
+msgid "Wood"
+msgstr "Древесина"
+
+msgid "Yellow Flower"
+msgstr "Жёлтый цветок"

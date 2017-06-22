@@ -1,0 +1,1078 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-03-09 01:13+0300\n"
+"PO-Revision-Date: 2008-03-05 21:05+0300\n"
+"Last-Translator: Yuri Kozlov <kozlov.y@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "  - OK? (yes or no)"
+msgstr " - ОК? (\"да\" или \"нет\")"
+
+msgid " (press return)"
+msgstr " (нажмите \"Enter\")"
+
+msgid " (yes or no)"
+msgstr " (\"да\" или \"нет\")"
+
+msgid "%a %b %d %T %Y"
+msgstr "%a, %d %b"
+
+msgid "%s is a link to something that is not a folder"
+msgstr "%s является ссылкой на что-то, что не является папкой"
+
+msgid "%s is a link without a destination location"
+msgstr "%s является ссылкой без адреса назначения"
+
+msgid "%s is not a folder"
+msgstr "\"%s\" не является каталогом"
+
+msgid "'%s': %s"
+msgstr "'%s': %s"
+
+msgid "A logo for the about box"
+msgstr "Эмблема для окна \"О программе\""
+
+msgid "A preview of the image currently specified"
+msgstr "Просмотр образца выбранного изображения"
+
+msgid "A single author entry"
+msgstr "Автор программы"
+
+msgid "A single documenter entry"
+msgstr "Автор документации к программе"
+
+msgid "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz"
+msgstr "В чащах юга жил-был цитрус. Да, но фальшивый экземпляръ!"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "About %s"
+msgstr "О программе \"%s\""
+
+msgid "About this application"
+msgstr "Получить информацию об этой программе"
+
+msgid ""
+"An error has occurred while trying to launch the default web browser.\n"
+"Please check your settings in the 'Preferred Applications' preference tool."
+msgstr ""
+"Возникла ошибка при попытке запуска браузера по умолчанию.\n"
+"Проверьте правильность установок в пункте \"Предпочитаемые приложения\" меню "
+"\"Настройки Рабочего стола\"."
+
+msgid ""
+"An error occurred while loading or saving configuration information for %s. "
+"Some of your configuration settings may not work properly."
+msgstr ""
+"Произошла ошибка при загрузке или сохранении конфигурационной информации для "
+"%s. Некоторые из установок могут не функционировать правильно."
+
+msgid "App ID"
+msgstr "Идентификатор приложения"
+
+msgid "Authentication Required"
+msgstr "Аутентификация требуется"
+
+msgid "Author entry"
+msgstr "Автор"
+
+msgid "Authors"
+msgstr "Авторы"
+
+msgid "Background Color"
+msgstr "Цвет фона"
+
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgid "Background color as a GdkColor"
+msgstr "Цвет фона в формате GdkColor"
+
+msgid "Background color is set"
+msgstr "Цвет фона установлен"
+
+msgid "Background color set"
+msgstr "Набор цветов фона"
+
+msgid "Bookmark saving failed (%s)"
+msgstr "Произошёл сбой при сохранении закладки (%s)"
+
+msgid "Browse"
+msgstr "Просмотреть"
+
+msgid "Browse Dialog Title"
+msgstr "Заголовок диалога выбора файла"
+
+msgid "Bulleted List"
+msgstr "Маркированный список"
+
+msgid "C_lear"
+msgstr "О_чистить"
+
+msgid "C_redits"
+msgstr "_Авторы"
+
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Can't find an hbox, using a normal file selection"
+msgstr "Невозможно найти hbox, используется обычное выделение файлов"
+
+msgid "Cancel Logout"
+msgstr "Отменить завершение сеанса"
+
+msgid "Child Item 1"
+msgstr "Дочерний элемент 1"
+
+msgid "Child Item 2"
+msgstr "Дочерний элемент 2"
+
+msgid "Choose Icon"
+msgstr "Выбор значка"
+
+msgid "Clear the selection"
+msgstr "Очистить выделение"
+
+msgid "Close the current file"
+msgstr "Закрыть текущий файл"
+
+msgid "Close the current window"
+msgstr "Закрыть текущее окно"
+
+msgid "Co_nnect"
+msgstr "_Подключиться"
+
+msgid "Color used to draw the link"
+msgstr "Цвет, используемый для ссылки"
+
+msgid "Comments about the program"
+msgstr "Комментарий о программе"
+
+msgid "Comments string"
+msgstr "Строка комментария"
+
+msgid "Con_firm password:"
+msgstr "_Подтвердите пароль:"
+
+msgid "Configure the application"
+msgstr "Настроить приложение"
+
+msgid "Connect _anonymously"
+msgstr "Подключиться _анонимно"
+
+msgid "Connect as u_ser:"
+msgstr "Подключиться _как пользователь:"
+
+msgid "Contents Background Color"
+msgstr "Цвет содержимого фона"
+
+msgid "Contents Background color"
+msgstr "Цвет содержимого фона"
+
+msgid "Contents Background color as a GdkColor"
+msgstr "Цвет содержимого фона в формате GdkColor"
+
+msgid "Contents Background color is set"
+msgstr "Цвет содержимого фона установлен"
+
+msgid "Contents Background color set"
+msgstr "Набор цветов содержимого фона"
+
+msgid "Copy the selection"
+msgstr "Скопировать выделение в буфер обмена"
+
+msgid "Copyright information for the program"
+msgstr "Информация об авторских правах на программу"
+
+msgid "Copyright string"
+msgstr "Авторское право"
+
+msgid "Could not create '%s': %s"
+msgstr "Не удалось создать \"%s\": %s"
+
+msgid "Could not get info for '%s': %s"
+msgstr "Не удалось получить информацию о \"%s\": %s"
+
+msgid "Could not get information for file '%s': %s"
+msgstr "Не удалось получить информацию о файле \"%s\": %s"
+
+msgid "Could not monitor '%s': %s"
+msgstr "Не удалось отследить \"%s\": %s"
+
+msgid "Could not open link"
+msgstr "Не удалось открыть ссылку"
+
+msgid "Create New _Window"
+msgstr "Создать новое _окно"
+
+msgid "Create a new window"
+msgstr "Создать новое окно"
+
+msgid "Create a progress widget."
+msgstr "Создавать виджет продвижения."
+
+msgid "Create a status widget."
+msgstr "Создавать виджет строки состояния."
+
+msgid "Credits"
+msgstr "Авторы"
+
+msgid ""
+"Credits to the translators. This string should be marked as translatable"
+msgstr ""
+"Благодарности переводчикам. Эта строка должна быть помечена для перевода"
+
+msgid "Cu_t"
+msgstr "_Вырезать"
+
+msgid "Cut the selection"
+msgstr "Вырезать выделение в буфер обмена"
+
+msgid "DISPLAY"
+msgstr "ДИСПЛЕЙ"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "DateEdit Flags"
+msgstr "Флаги виджета DateEdit"
+
+msgid "Default Path"
+msgstr "Исходный путь"
+
+msgid "Default path for the Browse file window."
+msgstr "Исходный путь для окна выбора файла."
+
+msgid "Directory Entry"
+msgstr "Строка каталога"
+
+msgid "Directory that will be searched for icons."
+msgstr "Каталог, в котором будет производиться поиск значков."
+
+msgid "Disable Crash Dialog"
+msgstr "Отключить диалог сбоя приложения"
+
+msgid "Disable connection to session manager"
+msgstr "Отключить соединение с диспетчером сеанса"
+
+msgid "Do Preview"
+msgstr "Показывать образец"
+
+msgid "Documented by"
+msgstr "Документация"
+
+msgid "Documenter entry"
+msgstr "Автор документации"
+
+msgid "Documenters"
+msgstr "Авторы документации"
+
+msgid "ERROR: "
+msgstr "ОШИБКА: "
+
+msgid "End World Hunger"
+msgstr "Конец Всемирного Голода"
+
+msgid "End the current game"
+msgstr "Закончить эту игру"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error getting information for '%s'"
+msgstr "Не удалось получить информацию о \"%s\""
+
+msgid "Exit the test"
+msgstr "Выйти из теста"
+
+msgid ""
+"Failed to load image '%s': reason not known, probably a corrupt image file"
+msgstr ""
+"Сбой при загрузке изображения \"%s\": причина неизвестна, возможно, файл "
+"изображения повреждён"
+
+msgid "Failed to open file '%s': %s"
+msgstr "Сбой при открытии файла \"%s\": %s"
+
+msgid "Fi_les"
+msgstr "Фай_лы"
+
+msgid "Fi_les/"
+msgstr "Фай_лы/"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "Filename"
+msgstr "Имя файла"
+
+msgid "Filename that should be displayed in the file entry."
+msgstr "Имя файла, которое должно быть отображено в строке файла."
+
+msgid "Filename that should be displayed in the icon entry."
+msgstr "Имя файла, которое должно быть отображено в строке значков."
+
+msgid "Find Ne_xt"
+msgstr "Найти _далее"
+
+msgid "Flags for how DateEdit looks"
+msgstr "Флаги, определяющие вид виджета DateEdit"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font name"
+msgstr "Название шрифта"
+
+msgid "Font size for label"
+msgstr "Размер шрифта для меток"
+
+msgid "Font size for label in font info mode"
+msgstr "Размер шрифта для меток в режиме информации о шрифте"
+
+msgid "Foreground color of the title"
+msgstr "Цвет текста заголовка"
+
+msgid "Foreground color of the title as a GdkColor"
+msgstr "Цвет текста заголовка как GdkColor"
+
+msgid "Foreground color of the title is set"
+msgstr "Цвет текста заголовка установлен"
+
+msgid "GNOME GConf UI Support"
+msgstr "Поддержка интерфейса пользователя системы GConf Гнома"
+
+msgid "GNOME GUI Library"
+msgstr "Библиотека пользовательского интерфейса среды Гном"
+
+msgid "GNOME GUI Library:"
+msgstr "Библиотека графического интерфейса среды GNOME:"
+
+msgid "GTK entry"
+msgstr "Строка GTK"
+
+msgid "Get a hint for your next move"
+msgstr "Получить подсказку для следующего хода"
+
+msgid "GnomeEntry"
+msgstr "GnomeEntry"
+
+msgid ""
+"GnomeEntry that the file entry uses for entering filenames.  You can use "
+"this property to get the GnomeEntry if you need to modify or query any of "
+"its parameters."
+msgstr ""
+"Строка GnomeEntry, которую файловая строка использует для ввода имён файлов. "
+"Можно использовать это свойство для получения строки GnomeEntry, если "
+"необходимо модифицировать или запросить любой из параметров."
+
+msgid "GnomeIconSelection: '%s' does not exist or is not a directory"
+msgstr ""
+"GnomeIconSelection: Файл \"%s\" не существует или не является каталогом"
+
+msgid "GnomeIconSelection: couldn't open directory '%s'"
+msgstr "GnomeIconSelection: не удалось открыть каталог \"%s\""
+
+msgid "GtkEntry"
+msgstr "GtkEntry"
+
+msgid ""
+"GtkEntry that the file entry uses for entering filenames.  You can use this "
+"property to get the GtkEntry if you need to modify or query any of its "
+"parameters."
+msgstr ""
+"Строка GtkEntry, которую файловая строка использует для ввода имён файлов. "
+"Можно использовать это свойство для получения строки GtkEntry, если "
+"необходимо модифицировать или запросить любой из параметров."
+
+msgid "GtkFileChooser Action"
+msgstr "Действие GtkFileChooser"
+
+msgid "Has Progress"
+msgstr "Имеет строку продвижения"
+
+msgid "Has Status"
+msgstr "Имеет строку состояния"
+
+msgid ""
+"Here you should enter the name of the directory where icon images are "
+"located."
+msgstr "Здесь следует ввести имя каталога, где размещены значки."
+
+msgid "Hint for item 1"
+msgstr "Подсказка для элемента 1"
+
+msgid "Hint for item 2"
+msgstr "Подсказка для элемента 2"
+
+msgid "History ID"
+msgstr "Идентификатор истории"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon Selector"
+msgstr "Выбор значков"
+
+msgid "Icon path"
+msgstr "Путь к значку"
+
+msgid ""
+"Icon picker dialog.  You can use this property to get the GtkDialog if you "
+"need to modify or query any of its properties."
+msgstr ""
+"Диалог выбора значков. Можно использовать это свойство для получения диалога "
+"GtkDialog, если необходимо изменить или запросить любое из свойств."
+
+msgid "Icon selection dialog"
+msgstr "Диалог выбора значков"
+
+msgid "Icons Only"
+msgstr "Только значки"
+
+msgid "Image Preview"
+msgstr "Образец изображения"
+
+msgid "Indent"
+msgstr "Сделать отступ"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Initial Time"
+msgstr "Исходное время"
+
+msgid "Interactivity"
+msgstr "Интерактивность"
+
+msgid "Level of user activity required."
+msgstr "Требуется активность пользователя."
+
+msgid "Link color"
+msgstr "Цвет ссылки"
+
+msgid "List of authors of the programs"
+msgstr "Список авторов программы"
+
+msgid "List of people documenting the program"
+msgstr "Список людей, писавших документацию к программе"
+
+msgid "Loading Icons..."
+msgstr "Идёт загрузка значков..."
+
+msgid "Logo"
+msgstr "Эмблема"
+
+msgid "Logo Background Color"
+msgstr "Цвет фона эмблемы"
+
+msgid "Logo Background color"
+msgstr "Цвет фона эмблемы"
+
+msgid "Logo Background color as a GdkColor"
+msgstr "Цвет фона эмблемы в формате GdkColor"
+
+msgid "Logo Background color is set"
+msgstr "Цвет фона эмблемы установлен"
+
+msgid "Logo Background color set"
+msgstr "Набор цветов фона эмблемы"
+
+msgid "Logo image"
+msgstr "Изображение эмблемы"
+
+msgid "Lower Hour"
+msgstr "Первый час"
+
+msgid "Lower hour in the time popup selector"
+msgstr "Самый ранний час в окне выбора времени"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Modal"
+msgstr "Модальный"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Modify the file's properties"
+msgstr "Изменить свойства файла"
+
+msgid "Name of the selected font"
+msgstr "Название выбранного шрифта"
+
+msgid "Network Servers"
+msgstr "Сетевые серверы"
+
+msgid "No Image"
+msgstr "Нет изображения"
+
+msgid "Numbered List"
+msgstr "Нумерованный список"
+
+msgid "Open a dialog to specify the color"
+msgstr "Открыть диалог для определения цвета"
+
+msgid "Open a file"
+msgstr "Открыть файл"
+
+msgid "PREFIX"
+msgstr "ПРЕФИКС"
+
+msgid "Password quality:"
+msgstr "Качество пароля:"
+
+msgid "Paste the clipboard"
+msgstr "Вставить из буфера обмена"
+
+msgid "Path"
+msgstr "Путь"
+
+msgid "Path to file"
+msgstr "Путь к файлу"
+
+msgid "Pause the game"
+msgstr "Приостановить эту игру"
+
+msgid "Pick a Font"
+msgstr "Выбрать шрифт"
+
+msgid "Pick a color"
+msgstr "Выбрать цвет"
+
+msgid "Picker dialog"
+msgstr "Окно выбора"
+
+msgid "Pixmap Directory"
+msgstr "Каталог изображений"
+
+msgid "Please pick the icon you want."
+msgstr "Выберите желаемый значок."
+
+msgid "Pop up a file selector to choose a file"
+msgstr "Вызвать диалог для выбора файла"
+
+msgid "Prefere_nces"
+msgstr "_Параметры"
+
+msgid "Preview"
+msgstr "Образец"
+
+msgid "Preview text"
+msgstr "Образец текста"
+
+msgid "Preview text shown in the dialog"
+msgstr "Текст, показываемый для демонстрации выбранного шрифта"
+
+msgid "Print S_etup..."
+msgstr "_Настроить печать..."
+
+msgid "Print the current file"
+msgstr "Напечатать текущий файл"
+
+msgid "Priority Text Beside Icons"
+msgstr "Текст рядом со значками"
+
+msgid "Program name"
+msgstr "Имя программы"
+
+msgid "Program version"
+msgstr "Версия программы"
+
+msgid "Progress"
+msgstr "Продвижение"
+
+msgid "Question"
+msgstr "Вопрос"
+
+msgid "Quit the application"
+msgstr "Выйти из программы"
+
+msgid "R_eplace..."
+msgstr "_Заменить..."
+
+msgid "Received invalid color data\n"
+msgstr "Получены неправильные данные цвета\n"
+
+msgid "Redo the undone action"
+msgstr "Вернуть отменённое действие"
+
+msgid "Redo the undone move"
+msgstr "Вернуть отменённый ход"
+
+msgid "Replace a string"
+msgstr "Заменить строку"
+
+msgid "Restart the game"
+msgstr "Перезапустить игру с начала"
+
+msgid "Revert to a saved version of the file"
+msgstr "Вернуться к сохранённой версии файла"
+
+msgid "Sans 14"
+msgstr "Sans 14"
+
+msgid "Save _As..."
+msgstr "Сохранить _как..."
+
+msgid "Save the current file"
+msgstr "Сохранить текущий файл"
+
+msgid "Save the current file with a different name"
+msgstr "Сохранить текущий файл под другим именем"
+
+msgid "Score"
+msgstr "Счёт"
+
+msgid "Search again for the same string"
+msgstr "Повторно найти ту же строку"
+
+msgid "Search for a string"
+msgstr "Найти строку"
+
+msgid "Select Date"
+msgstr "Выберите Дату"
+
+msgid "Select Time"
+msgstr "Выберите время"
+
+msgid "Select _All"
+msgstr "Выделить вс_е"
+
+msgid "Select everything"
+msgstr "Выделить все"
+
+msgid "Select file"
+msgstr "Выбрать файл"
+
+msgid "Select the date from a calendar"
+msgstr "Выберите дату из календаря"
+
+msgid "Select the time from a list"
+msgstr "Выберите время из списка"
+
+msgid "Session management"
+msgstr "Управление сеансом"
+
+msgid "Session management:"
+msgstr "Управление сеансом:"
+
+msgid "Setup the page settings for your current printer"
+msgstr "Установить настройки страницы для текущего принтера"
+
+msgid "Show Finish"
+msgstr "Показать кнопку \"Завершить\""
+
+msgid "Show GNOME GUI options"
+msgstr "Отображать параметры GNOME GUI"
+
+msgid "Show Help"
+msgstr "Показать кнопку \"Справка\""
+
+msgid "Show session management options"
+msgstr "Отображать параметры управления сеансами"
+
+msgid "Show size"
+msgstr "Показывать размер"
+
+msgid "Show size in font info mode"
+msgstr "Показывать размер в режиме информации о шрифте"
+
+msgid "Show the 'Finish' button instead of the 'Next' button"
+msgstr "Показать кнопку \"Завершить\" вместо кнопки \"Вперёд\""
+
+msgid "Show the 'Help' button"
+msgstr "Показать кнопку \"Справка\""
+
+msgid "Specify prefix of saved configuration"
+msgstr "Указать префикс сохранённой конфигурации"
+
+msgid "Specify session management ID"
+msgstr "Указать идентификатор управления сеансом"
+
+msgid "Start a new game"
+msgstr "Начать новую игру"
+
+msgid "Table Borders"
+msgstr "Границы таблицы"
+
+msgid "Table Fill"
+msgstr "Заполнение таблицы"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text Below Icons"
+msgstr "Текст под значками"
+
+msgid "Text Only"
+msgstr "Только текст"
+
+msgid "The GTK entry"
+msgstr "Строка GTK"
+
+msgid "The URL that GnomeHRef activates"
+msgstr "Ссылка (URL), активируемая через структуру GnomeHRef"
+
+msgid ""
+"The application \"%s\" attempted to change an aspect of your configuration "
+"that your system administrator or operating system vendor does not allow you "
+"to change. Some of the settings you have selected may not take effect, or "
+"may not be restored next time you use the application."
+msgstr ""
+"Приложение \"%s\" попыталось изменить что-то в вашей конфигурации, что не "
+"позволено изменять системным администратором или операционной системой. "
+"Некоторые из выбранных установок могут не иметь эффекта или могут не быть "
+"восстановлены при следующем запуске приложения."
+
+msgid "The application ID string"
+msgstr "Строка идентификатора приложения"
+
+msgid "The initial time"
+msgstr "Исходное время"
+
+msgid "The mode of operation of the font picker"
+msgstr "Режим действия выбора шрифта"
+
+msgid "The name of the program"
+msgstr "Название программы"
+
+msgid "The selected GtkFont"
+msgstr "Выбранный шрифт GtkFont"
+
+msgid "The text on the button"
+msgstr "Текст на кнопке"
+
+msgid "The time currently selected"
+msgstr "Выбранное время"
+
+msgid "The title of the selection dialog box"
+msgstr "Заголовок диалога выбора"
+
+msgid "The type of operation that the file selector is performing."
+msgstr "Тип действия, которое выполняет селектор файлов."
+
+msgid "The version of the program"
+msgstr "Версия программы"
+
+msgid "This button will open a window to let you select an icon."
+msgstr "Эта кнопка откроет окно, позволяющее выбрать значок."
+
+msgid "This button will take you to the URI that it displays."
+msgstr "Эта кнопка вызовет переход к отображаемому ею идентификатору (URI)"
+
+msgid "This dialog box lets you select an icon."
+msgstr "Этот диалог позволяет выбрать значок."
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Title Foreground"
+msgstr "Цвет заголовка"
+
+msgid "Title Foreground Color"
+msgstr "Цвет текста заголовка"
+
+msgid "Title Foreground color set"
+msgstr "Набор цветов заголовка"
+
+msgid "Title for the Browse file dialog."
+msgstr "Заголовок для диалога выбора файла."
+
+msgid "Title for the Browse icon dialog."
+msgstr "Заголовок диалога выбора значка."
+
+msgid "Title of the druid"
+msgstr "Заголовок помощника"
+
+msgid "Top Ten"
+msgstr "Верхние десять"
+
+msgid "Top Watermark"
+msgstr "Верхняя отметка"
+
+msgid "Translated by"
+msgstr "Перевод"
+
+msgid "Translator credits"
+msgstr "Благодарности переводчикам"
+
+msgid "URL"
+msgstr "Ссылка (URL)"
+
+msgid "Un-Indent"
+msgstr "Вернуть отступ"
+
+msgid "Undo the last action"
+msgstr "Отменить последнее действие"
+
+msgid "Undo the last move"
+msgstr "Отменить последний ход"
+
+msgid ""
+"Unique identifier for the file entry.  This will be used to save the history "
+"list."
+msgstr ""
+"Уникальный идентификатор для файловой строки. Он будет использован для "
+"сохранения истории."
+
+msgid ""
+"Unique identifier for the icon entry.  This will be used to save the history "
+"list."
+msgstr ""
+"Уникальный идентификатор для строки значка. Он будет использован для "
+"хранения истории."
+
+msgid "Upper Hour"
+msgstr "Последний час"
+
+msgid "Upper hour in the time popup selector"
+msgstr "Самый поздний час в окне выбора времени"
+
+msgid "Use Desktop Default (%s)"
+msgstr "Использовать исходное значение рабочего стола (%s)"
+
+msgid "Use GtkFileChooser"
+msgstr "Использовать GtkFileChooser"
+
+msgid "Use font in label"
+msgstr "Использовать шрифт в метках"
+
+msgid "Use font in the label in font info mode"
+msgstr "Использовать шрифт в метках в режиме информации о шрифте"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "View help for this application"
+msgstr "Вызвать справку для этого приложения"
+
+msgid "View the scores"
+msgstr "Посмотреть набранные очки"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid "Warning: "
+msgstr "Предупреждение: "
+
+msgid "Watermark image for the top"
+msgstr "Изображение для верхней отметки"
+
+msgid "Whether the Browse file window should be modal."
+msgstr "Должно ли окно выбора файла быть модальным."
+
+msgid ""
+"Whether the file entry is being used to enter directory names or complete "
+"filenames."
+msgstr ""
+"Будет ли файловая строка использоваться для ввода названия каталога или "
+"полного имени файла."
+
+msgid "Whether the pixmap entry should have a preview."
+msgstr "Надо ли показывать образец изображения."
+
+msgid ""
+"Whether to use the new GtkFileChooser widget or the GtkFileSelection widget "
+"to select files."
+msgstr ""
+"Следует ли использовать новый виджет GtkFileChooser или виджет "
+"GtkFileSelection для выбора файлов."
+
+msgid "Written by"
+msgstr "Программирование"
+
+msgid "X display to use"
+msgstr "Используемый дисплей X"
+
+msgid ""
+"You must log in to access \"%s\".\n"
+"%s"
+msgstr ""
+"Необходимо войти в сеанс, чтобы иметь доступ к \"%s\".\n"
+"%s"
+
+msgid "You must log in to access %s\n"
+msgstr "Необходимо войти в сеанс, чтобы иметь доступ к \"%s\"\n"
+
+msgid "You must log in to access %s domain %s\n"
+msgstr "Необходимо войти в сеанс, чтобы иметь доступ к \"%s\" домена \"%s\"\n"
+
+msgid "Your HTTP Proxy requires you to log in.\n"
+msgstr "Прокси типа HTTP требует входа в сеанс.\n"
+
+msgid "Your password will be transmitted encrypted."
+msgstr "Ваш пароль будет передан зашифрованным."
+
+msgid "Your password will be transmitted unencrypted."
+msgstr "Ваш пароль будет передан незашифрованным."
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Browse..."
+msgstr "П_росмотреть..."
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "_Close This Window"
+msgstr "_Закрыть это окно"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Copy"
+msgstr "_Копировать"
+
+msgid "_Details"
+msgstr "По_дробности"
+
+msgid "_Domain:"
+msgstr "_Домен:"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Edit/"
+msgstr "_Правка/"
+
+msgid "_End Game"
+msgstr "_Закончить игру"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_File/"
+msgstr "_Файл/"
+
+msgid "_Find..."
+msgstr "_Найти..."
+
+msgid "_Forget password immediately"
+msgstr "_Забыть пароль немедленно"
+
+msgid "_Game"
+msgstr "_Игра"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Hint"
+msgstr "_Подсказка"
+
+msgid "_New"
+msgstr "_Создать"
+
+msgid "_New Game"
+msgstr "_Новая игра"
+
+msgid "_New password:"
+msgstr "_Новый пароль:"
+
+msgid "_New/"
+msgstr "_Создать/"
+
+msgid "_Open..."
+msgstr "_Открыть..."
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "_Paste"
+msgstr "Вст_авить"
+
+msgid "_Pause Game"
+msgstr "_Приостановить игру"
+
+msgid "_Print..."
+msgstr "Пе_чать..."
+
+msgid "_Properties"
+msgstr "_Свойства"
+
+msgid "_Quit"
+msgstr "В_ыход"
+
+msgid "_Redo"
+msgstr "Ве_рнуть"
+
+msgid "_Redo Move"
+msgstr "Ве_рнуть ход"
+
+msgid "_Remember forever"
+msgstr "_Запомнить навсегда"
+
+msgid "_Remember password until you logout"
+msgstr "_Запомнить пароль до выхода из сеанса"
+
+msgid "_Restart Game"
+msgstr "Пе_резапустить игру"
+
+msgid "_Revert"
+msgstr "_Восстановить"
+
+msgid "_Save"
+msgstr "Со_хранить"
+
+msgid "_Scores..."
+msgstr "_Узнать счёт..."
+
+msgid "_Settings"
+msgstr "_Параметры"
+
+msgid "_Settings/"
+msgstr "_Параметры/"
+
+msgid "_Undo"
+msgstr "_Отменить"
+
+msgid "_Undo Move"
+msgstr "_Отменить ход"
+
+msgid "_Username:"
+msgstr "И_мя пользователя:"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "_View/"
+msgstr "_Вид/"
+
+msgid "_Windows"
+msgstr "_Окна"
+
+msgid "_Windows/"
+msgstr "_Окна/"
+
+msgid "gnome_date_edit_get_date deprecated, use gnome_date_edit_get_time"
+msgstr ""
+"Вызов функции gnome_date_edit_get_date устарел, используйте функцию "
+"gnome_date_edit_get_time"
+
+msgid "n"
+msgstr "н"
+
+msgid "no"
+msgstr "нет"
+
+msgid "sans 12"
+msgstr "sans 12"
+
+msgid "y"
+msgstr "д"
+
+msgid "yes"
+msgstr "да"

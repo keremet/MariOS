@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_15924\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2013-12-05 19:26+0400\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.4\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Afaka"
+msgstr "Афакская"
+
+msgid "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)"
+msgstr "Анатолийские иероглифы (хетто-лувийские иероглифы)"
+
+msgid "Arabic"
+msgstr "Арабская"
+
+msgid "Armenian"
+msgstr "Армянская"
+
+msgid "Avestan"
+msgstr "Авестийская"
+
+msgid "Balinese"
+msgstr "Балийская"
+
+msgid "Bamum"
+msgstr "Бамумская"
+
+msgid "Bassa Vah"
+msgstr "Басса"
+
+msgid "Batak"
+msgstr "Батакская"
+
+msgid "Bengali"
+msgstr "Бенгальская"
+
+msgid "Blissymbols"
+msgstr "Блиссимволика"
+
+msgid "Book Pahlavi"
+msgstr "Пахлави книжная"
+
+msgid "Bopomofo"
+msgstr "Бопомофо"
+
+msgid "Brahmi"
+msgstr "Брахми"
+
+msgid "Braille"
+msgstr "Брайля"
+
+msgid "Buginese"
+msgstr "Бугинизийская"
+
+msgid "Buhid"
+msgstr "Бухид"
+
+msgid "Carian"
+msgstr "Карийская"
+
+msgid "Caucasian Albanian"
+msgstr "Кавказская албанская"
+
+msgid "Chakma"
+msgstr "Чакмийская"
+
+msgid "Cham"
+msgstr "Чамская"
+
+msgid "Cherokee"
+msgstr "Чероки"
+
+msgid "Cirth"
+msgstr "Кирт"
+
+msgid "Code for inherited script"
+msgstr "Код для унаследованного письма"
+
+msgid "Code for uncoded script"
+msgstr "Неизвестная или недействительная письменность"
+
+msgid "Code for undetermined script"
+msgstr "Общепринятая"
+
+msgid "Code for unwritten documents"
+msgstr "Ненаписанная"
+
+msgid "Coptic"
+msgstr "Коптская"
+
+msgid "Cuneiform, Sumero-Akkadian"
+msgstr "Шумеро-аккадская клинопись"
+
+msgid "Cypriot"
+msgstr "Кипрская"
+
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+msgid "Cyrillic (Old Church Slavonic variant)"
+msgstr "Старославянская"
+
+msgid "Deseret (Mormon)"
+msgstr "Дезерет"
+
+msgid "Devanagari (Nagari)"
+msgstr "Деванагари"
+
+msgid "Duployan shorthand, Duployan stenography"
+msgstr "Дуплоянская скоропись, Дуплоянская стенография"
+
+msgid "Egyptian demotic"
+msgstr "Египетская демотическая"
+
+msgid "Egyptian hieratic"
+msgstr "Египетская иератическая"
+
+msgid "Egyptian hieroglyphs"
+msgstr "Египетская иероглифическая"
+
+msgid "Elbasan"
+msgstr "Эльбасанская"
+
+msgid "Ethiopic (Geʻez)"
+msgstr "Эфиопская"
+
+msgid "Georgian (Mkhedruli)"
+msgstr "Грузинская хуцури"
+
+msgid "Glagolitic"
+msgstr "Глаголица"
+
+msgid "Gothic"
+msgstr "Готская"
+
+msgid "Grantha"
+msgstr "Грантха"
+
+msgid "Greek"
+msgstr "Греческая"
+
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+msgid "Gurmukhi"
+msgstr "Гурмукхи"
+
+msgid "Han (Hanzi, Kanji, Hanja)"
+msgstr "Китайская"
+
+msgid "Han (Simplified variant)"
+msgstr "Упрощенная китайская"
+
+msgid "Han (Traditional variant)"
+msgstr "Традиционная китайская"
+
+msgid "Hangul (Hangŭl, Hangeul)"
+msgstr "Хангул"
+
+msgid "Hanunoo (Hanunóo)"
+msgstr "Хануну"
+
+msgid "Hatran"
+msgstr "Хатра"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hiragana"
+msgstr "Хирагана"
+
+msgid "Imperial Aramaic"
+msgstr "Имперская арамейская"
+
+msgid "Indus (Harappan)"
+msgstr "Хараппская (письменность долины Инда)"
+
+msgid "Inscriptional Pahlavi"
+msgstr "Пахлави в надписях"
+
+msgid "Inscriptional Parthian"
+msgstr "Парфянский в надписях"
+
+msgid "Japanese (alias for Han + Hiragana + Katakana)"
+msgstr "Японская (тоже, что и хань+хирагана+катакана)"
+
+msgid "Japanese syllabaries (alias for Hiragana + Katakana)"
+msgstr "Японское силлабическое письмо (псевдоним для Хирагана + Катакана)"
+
+msgid "Javanese"
+msgstr "Яванская"
+
+msgid "Jurchen"
+msgstr "Чжурчжэньская"
+
+msgid "Kaithi"
+msgstr "Кайтхи"
+
+msgid "Kannada"
+msgstr "КаннадаKannada"
+
+msgid "Katakana"
+msgstr "Катакана"
+
+msgid "Kayah Li"
+msgstr "Кайа"
+
+msgid "Kharoshthi"
+msgstr "Кхароштхи"
+
+msgid "Khmer"
+msgstr "Кхмерская"
+
+msgid "Khojki"
+msgstr "Хойки"
+
+msgid "Khudawadi, Sindhi"
+msgstr "Худавади, Синдхи"
+
+msgid "Khutsuri (Asomtavruli and Nuskhuri)"
+msgstr "Хуцури (асомтаврули и нусхури)"
+
+msgid "Korean (alias for Hangul + Han)"
+msgstr "Корейская (псевдоним для хангул + хан)"
+
+msgid "Kpelle"
+msgstr "Кпелле"
+
+msgid "Lao"
+msgstr "Лаосская"
+
+msgid "Latin"
+msgstr "Латинская"
+
+msgid "Latin (Fraktur variant)"
+msgstr "Латинская фрактура"
+
+msgid "Latin (Gaelic variant)"
+msgstr "Гэльская латинская"
+
+msgid "Lepcha (Róng)"
+msgstr "Лепха"
+
+msgid "Limbu"
+msgstr "Лимбу"
+
+msgid "Linear A"
+msgstr "Линейное письмо А"
+
+msgid "Linear B"
+msgstr "Линейное письмо Б"
+
+msgid "Lisu (Fraser)"
+msgstr "Лису (алфавит Фрейзера)"
+
+msgid "Loma"
+msgstr "Лома"
+
+msgid "Lycian"
+msgstr "Лициан"
+
+msgid "Lydian"
+msgstr "Лидийская"
+
+msgid "Mahajani"
+msgstr "Махаянская"
+
+msgid "Malayalam"
+msgstr "Малаяльская"
+
+msgid "Mandaic, Mandaean"
+msgstr "Мандейская"
+
+msgid "Manichaean"
+msgstr "Манихейская"
+
+msgid "Mathematical notation"
+msgstr "Математическая запись"
+
+msgid "Mayan hieroglyphs"
+msgstr "Майя"
+
+msgid "Meitei Mayek (Meithei, Meetei)"
+msgstr "Манипури"
+
+msgid "Mende Kikakui"
+msgstr "Менде Кикакуи"
+
+msgid "Meroitic Cursive"
+msgstr "Мероитская курсивная"
+
+msgid "Meroitic Hieroglyphs"
+msgstr "Мероитская иероглифическая"
+
+msgid "Miao (Pollard)"
+msgstr "Мяо (письмо Полларда)"
+
+msgid "Modi, Moḍī"
+msgstr "Моди"
+
+msgid "Mongolian"
+msgstr "Монгольская"
+
+msgid "Moon (Moon code, Moon script, Moon type)"
+msgstr "Азбука Муна"
+
+msgid "Mro, Mru"
+msgstr "Мро"
+
+msgid "Multani"
+msgstr "Мултани"
+
+msgid "Myanmar (Burmese)"
+msgstr "Майанмарская"
+
+msgid "Nabataean"
+msgstr "Набатейская"
+
+msgid "Nakhi Geba ('Na-'Khi ²Ggŏ-¹baw, Naxi Geba)"
+msgstr "Наси (геба)"
+
+msgid "New Tai Lue"
+msgstr "Новый Тайский Ле"
+
+msgid "Nüshu"
+msgstr "Нюй-шу"
+
+msgid "N’Ko"
+msgstr "Нко"
+
+msgid "Ogham"
+msgstr "Огамическая"
+
+msgid "Ol Chiki (Ol Cemet’, Ol, Santali)"
+msgstr "Ол Чики"
+
+msgid "Old Hungarian (Hungarian Runic)"
+msgstr "Старовенгерская (венгерская руническая)"
+
+msgid "Old Italic (Etruscan, Oscan, etc.)"
+msgstr "Староитальянская (этрусская, оскская и т. д.)"
+
+msgid "Old North Arabian (Ancient North Arabian)"
+msgstr "Северноаравийская"
+
+msgid "Old Permic"
+msgstr "Древнепермская"
+
+msgid "Old Persian"
+msgstr "Староперсидская"
+
+msgid "Old South Arabian"
+msgstr "Древний южноаравийский"
+
+msgid "Old Turkic, Orkhon Runic"
+msgstr "Древнетюркская, Орхонская руническая"
+
+msgid "Oriya"
+msgstr "Ория"
+
+msgid "Osmanya"
+msgstr "Османская"
+
+msgid "Pahawh Hmong"
+msgstr "Пахау хмонг"
+
+msgid "Palmyrene"
+msgstr "Пальмирская"
+
+msgid "Pau Cin Hau"
+msgstr "Пау Син Хау"
+
+msgid "Phags-pa"
+msgstr "Пагспа"
+
+msgid "Phoenician"
+msgstr "Финикийская"
+
+msgid "Psalter Pahlavi"
+msgstr "Пахлави псалтирная"
+
+msgid "Rejang (Redjang, Kaganga)"
+msgstr "Реджанг (каганга)"
+
+msgid "Reserved for private use (end)"
+msgstr "Зарезервировано для частного использования (конец)"
+
+msgid "Reserved for private use (start)"
+msgstr "Зарезервировано для частного использования (начало)"
+
+msgid "Rongorongo"
+msgstr "Ронго-ронго"
+
+msgid "Runic"
+msgstr "Руническая"
+
+msgid "Samaritan"
+msgstr "Самаритянская"
+
+msgid "Sarati"
+msgstr "Сарати"
+
+msgid "Saurashtra"
+msgstr "Саураштра"
+
+msgid "Sharada, Śāradā"
+msgstr "Шарадская"
+
+msgid "Shavian (Shaw)"
+msgstr "Алфавит Шоу"
+
+msgid "Siddham, Siddhaṃ, Siddhamātṛkā"
+msgstr "Сиддхам, сиддхаматрика"
+
+msgid "SignWriting"
+msgstr "Язык знаков"
+
+msgid "Sinhala"
+msgstr "Сингальская"
+
+msgid "Sora Sompeng"
+msgstr "Сора сомпенг"
+
+msgid "Sundanese"
+msgstr "Сунданская"
+
+msgid "Syloti Nagri"
+msgstr "Силоти Нагри"
+
+msgid "Symbols"
+msgstr "Символы"
+
+msgid "Syriac"
+msgstr "Сирийская"
+
+msgid "Syriac (Eastern variant)"
+msgstr "Восточно-сирийская"
+
+msgid "Syriac (Estrangelo variant)"
+msgstr "Сирийская эстрангело"
+
+msgid "Syriac (Western variant)"
+msgstr "Западно-сирийская"
+
+msgid "Tagalog (Baybayin, Alibata)"
+msgstr "Тагальская (байбайин, алибата)"
+
+msgid "Tagbanwa"
+msgstr "Тагбанва"
+
+msgid "Tai Le"
+msgstr "Тайский Ле"
+
+msgid "Tai Tham (Lanna)"
+msgstr "Тай Там (Ланна)"
+
+msgid "Tai Viet"
+msgstr "Тайский Вьет"
+
+msgid "Takri, Ṭākrī, Ṭāṅkrī"
+msgstr "Такрийская"
+
+msgid "Tamil"
+msgstr "Тамильская"
+
+msgid "Tangut"
+msgstr "Тангутская"
+
+msgid "Telugu"
+msgstr "Телугу"
+
+msgid "Tengwar"
+msgstr "Тенгварская"
+
+msgid "Thaana"
+msgstr "Таана"
+
+msgid "Thai"
+msgstr "Тайская"
+
+msgid "Tibetan"
+msgstr "Тибетская"
+
+msgid "Tifinagh (Berber)"
+msgstr "Древнеливийская"
+
+msgid "Tirhuta"
+msgstr "Тирхутская"
+
+msgid "Ugaritic"
+msgstr "Угаритская"
+
+msgid "Unified Canadian Aboriginal Syllabics"
+msgstr "Унифицированные Символы Канадских Аборигенов"
+
+msgid "Vai"
+msgstr "Вайская"
+
+msgid "Visible Speech"
+msgstr "Видимая речь"
+
+msgid "Warang Citi (Varang Kshiti)"
+msgstr "Варанг-кшити (Варанг-сити)"
+
+msgid "Woleai"
+msgstr "Волеаи"
+
+msgid "Yi"
+msgstr "Йи (ицзу)"

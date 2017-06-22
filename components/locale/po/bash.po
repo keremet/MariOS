@@ -1,0 +1,350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GNU bash 3.1-release\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-11 11:19-0500\n"
+"PO-Revision-Date: 2006-01-05 21:28+0300\n"
+"Last-Translator: Evgeniy Dushistov <dushistov@mail.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=KOI8-R\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "\t-%s or -o option\n"
+msgstr "\t-%s или опция -o\n"
+
+msgid "%c%c: invalid option"
+msgstr "%c%c: недопустимая опция"
+
+msgid "%d: invalid file descriptor: %s"
+msgstr "%d: недопустимый дескриптор файла: %s"
+
+msgid "%s can be invoked via "
+msgstr "%s может быть вызван с помощью"
+
+msgid "%s is a function\n"
+msgstr "%s является функцией\n"
+
+msgid "%s is a shell keyword\n"
+msgstr "%s является ключевым словом оболочки\n"
+
+msgid "%s is not bound to any keys.\n"
+msgstr "%s не привязана не к одной из клавиш.\n"
+
+msgid "%s out of range"
+msgstr "%s выходит за пределы допустимых значений"
+
+msgid "%s: %s out of range"
+msgstr "%s: %s выходит за пределы допустимых значений"
+
+msgid "%s: %s: bad interpreter"
+msgstr "%s: %s: плохой интерпретатор"
+
+msgid "%s: binary operator expected"
+msgstr "%s: ожидается использование бинарного оператора"
+
+msgid "%s: cannot assign to non-numeric index"
+msgstr "%s; не могу приписать не числовой индекс"
+
+msgid "%s: cannot create: %s"
+msgstr "%s: не могу создать: %s"
+
+msgid "%s: cannot delete: %s"
+msgstr "%s: не могу удалить:  %s"
+
+msgid "%s: cannot destroy array variables in this way"
+msgstr "%s: не могу удалить переменную-массив таким способом"
+
+msgid "%s: cannot execute binary file"
+msgstr "%s: не могу запустить бинарный файл"
+
+msgid "%s: cannot execute: %s"
+msgstr "%s: не могу запустить: %s"
+
+msgid "%s: cannot open temp file: %s"
+msgstr "%s: не могу открыть временный файл: %s"
+
+msgid "%s: cannot open: %s"
+msgstr "%s: не могу открыть: %s"
+
+msgid "%s: cannot overwrite existing file"
+msgstr "%s: не могу переписать уже существующий файл"
+
+msgid "%s: cannot read: %s"
+msgstr "%s: не могу прочитать: %s"
+
+msgid "%s: cannot unset"
+msgstr "%s: не могу сбросить"
+
+msgid "%s: cannot unset: readonly %s"
+msgstr "%s: не могу сбросить: доступно только для чтения %s"
+
+msgid "%s: command not found"
+msgstr "%s: команда не найдена"
+
+msgid "%s: error retrieving current directory: %s: %s\n"
+msgstr "%s: ошибка получения текущей директории: %s: %s\n"
+
+msgid "%s: file is too large"
+msgstr "%s: слишком большой файл"
+
+msgid "%s: file not found"
+msgstr "%s: файл не найден"
+
+msgid "%s: first non-whitespace character is not `\"'"
+msgstr "%s: первый непробельный символ не `\"'"
+
+msgid "%s: host unknown"
+msgstr "%s: хост неизвестен"
+
+msgid "%s: illegal option -- %c\n"
+msgstr "%s: недопустимая опция -- %c\n"
+
+msgid "%s: invalid file descriptor specification"
+msgstr "%s: недопустимое описание файлового дескриптора"
+
+msgid "%s: invalid option"
+msgstr "%s: неправильная опция"
+
+msgid "%s: invalid option name"
+msgstr "%s: недопустимое имя опции"
+
+msgid "%s: invalid service"
+msgstr "%s: недопустимый сервис"
+
+msgid "%s: invalid shell option name"
+msgstr "%s: недопустимое имя опции оболочки"
+
+msgid "%s: invalid signal specification"
+msgstr "%s: недопустимая спецификация сигнала"
+
+msgid "%s: is a directory"
+msgstr "%s: является директорией"
+
+msgid "%s: missing colon separator"
+msgstr "%s: пропущен разделитель двоеточие"
+
+msgid "%s: no such job"
+msgstr "%s: не такой задачи"
+
+msgid "%s: not a function"
+msgstr "%s: не функция"
+
+msgid "%s: not a regular file"
+msgstr "%s: не является обычным файлом"
+
+msgid "%s: not a shell builtin"
+msgstr "%s: не встроенна в оболочку"
+
+msgid "%s: not an array variable"
+msgstr "%s: не переменная-массив"
+
+msgid "%s: not found"
+msgstr "%s: не найден"
+
+msgid "%s: numeric argument required"
+msgstr "%s: требуется числовой аргумент"
+
+msgid "%s: option requires an argument"
+msgstr "%s: опция требует аргумента"
+
+msgid "%s: parameter null or not set"
+msgstr "%s: параметр null или не установлен"
+
+msgid "%s: readonly function"
+msgstr "%s: доступная только на чтение функция"
+
+msgid "%s: readonly variable"
+msgstr "%s: доступная только на чтение переменная"
+
+msgid "%s: unary operator expected"
+msgstr "%s: ожидается использование унарного оператора"
+
+msgid "/tmp must be a valid directory name"
+msgstr "/tmp должна быть действительным именем директории"
+
+msgid "Aborting..."
+msgstr "Завершаю работу..."
+
+msgid "GNU long options:\n"
+msgstr "Длинные опции в стеле GNU:\n"
+
+msgid "HOME not set"
+msgstr "переменная HOME не установлена"
+
+msgid "I have no name!"
+msgstr "У меня нет имени!"
+
+msgid "OLDPWD not set"
+msgstr "переменная OLDPWD не установлена"
+
+msgid "Shell options:\n"
+msgstr "Опции оболочки:\n"
+
+msgid "The mail in %s has been read\n"
+msgstr "Почта в %s была прочитана\n"
+
+msgid "There are stopped jobs.\n"
+msgstr "Есть приостановленные задачи.\n"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid ""
+"Usage:\t%s [GNU long option] [option] ...\n"
+"\t%s [GNU long option] [option] script-file ...\n"
+msgstr ""
+"Использование:\n"
+"%s [длинные опции а-ля `GNU'] [опции] ...\n"
+"\t%s [длинные опции а-ля `GNU'] [опции] файл_со_скриптом...\n"
+
+msgid "Use \"%s\" to leave the shell.\n"
+msgstr "Используйте \"%s\", чтобы завершиться работу с  оболочкой.\n"
+
+msgid "You have mail in $_"
+msgstr "У вас есть почта в $_"
+
+msgid "You have new mail in $_"
+msgstr "У вас есть новая почта в $_"
+
+msgid "`%c': bad command"
+msgstr "`%c': плохая команда"
+
+msgid "`%c': invalid format character"
+msgstr "%c': недопустимый символ форматирования"
+
+msgid "`%s': missing format character"
+msgstr "`%s': пропущен символ форматирования"
+
+msgid "`%s': not a pid or valid job spec"
+msgstr "`%s': не идентификатор  процесса или правильное имя задачи"
+
+msgid "`%s': not a valid identifier"
+msgstr "`%s': неправильный идентификатор"
+
+msgid "`%s': unknown function name"
+msgstr "`%s': имя функции неизвестно"
+
+msgid "`)' expected"
+msgstr "ожидается `)' "
+
+msgid "`)' expected, found %s"
+msgstr "ожидался `)', найден %s"
+
+msgid "argument"
+msgstr "аргумент"
+
+msgid "argument expected"
+msgstr "предполагается что будет использован аргумент"
+
+msgid "attempted assignment to non-variable"
+msgstr "попытка присвоения не-переменной"
+
+msgid "bad array subscript"
+msgstr "неправильный индекс массива"
+
+msgid "can only be used in a function"
+msgstr "может быть использована только в функции"
+
+msgid "cannot duplicate fd %d to fd %d"
+msgstr "не могу дублировать fd %d в fd %d"
+
+msgid "cannot open named pipe %s for reading"
+msgstr "не могу открыть именной канал %s для чтения"
+
+msgid "cannot open named pipe %s for writing"
+msgstr "не могу открыть именной канал %s для записи"
+
+msgid "could not find /tmp, please create!"
+msgstr "не могу найти /tmp, пожалуйста создайте!"
+
+msgid "division by 0"
+msgstr "деление на 0"
+
+msgid "expected `)'"
+msgstr "ожидался `)'"
+
+msgid "expression expected"
+msgstr "ожидалось выражение"
+
+msgid "file descriptor out of range"
+msgstr "файловый дескриптор за пределами допустимого диапазона"
+
+msgid "filename argument required"
+msgstr "требуется аргумент имя файла"
+
+msgid "invalid number"
+msgstr "недопустимое число"
+
+msgid "invalid signal number"
+msgstr "недопустимый номер сигнала"
+
+msgid "last command: %s\n"
+msgstr "последняя команда: %s\n"
+
+msgid "missing `)'"
+msgstr "пропущен `)'"
+
+msgid "missing `]'"
+msgstr "пропущен `]'"
+
+msgid "no closing `%c' in %s"
+msgstr "нет закрывающего `%c' в %s"
+
+msgid "no command found"
+msgstr "не нашел такую команду"
+
+msgid "no match: %s"
+msgstr "нет совпадения с: %s"
+
+msgid "no other directory"
+msgstr "нет другой директории"
+
+msgid "not login shell: use `exit'"
+msgstr ""
+"оболочка не является запущенной после входа в систему: используйте `exit' "
+
+msgid "octal number"
+msgstr "число в восьмеричной системе исчисления"
+
+msgid "only meaningful in a `for', `while', or `until' loop"
+msgstr "имеет смысл только в циклах `for', `while', или `until'"
+
+msgid "read error: %d: %s"
+msgstr "ошибка чтения: %d: %s"
+
+msgid "redirection error: cannot duplicate fd"
+msgstr "ошибка перенаправления: не могу дублировать fd"
+
+msgid "syntax error"
+msgstr "ошибка синтаксиса"
+
+msgid "syntax error in expression"
+msgstr "синтаксическая ошибка в выражение"
+
+msgid "syntax error near `%s'"
+msgstr "ошибка синтаксиса около `%s'"
+
+msgid "syntax error: `((%s))'"
+msgstr "ошибка синтаксиса: `((%s))'"
+
+msgid "syntax error: `;' unexpected"
+msgstr "ошибка синтаксиса: `;' не ожидается"
+
+msgid "syntax error: operand expected"
+msgstr "ошибка синтаксиса: ожидается операнд"
+
+msgid "syntax error: unexpected end of file"
+msgstr "ошибка синтаксиса: неожиданный конец файла"
+
+msgid "too many arguments"
+msgstr "слишком много аргументов"
+
+msgid "unknown command error"
+msgstr "неизвестная ошибка команды"
+
+msgid "write error: %s"
+msgstr "ошибка записи: %s"

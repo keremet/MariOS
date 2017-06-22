@@ -1,0 +1,621 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GEGL 0.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-01 11:40+0400\n"
+"PO-Revision-Date: 2012-04-01 12:03+0400\n"
+"Last-Translator: Александр Прокудин <alexandre.prokoudine@gmail.com>\n"
+"Language-Team: русский <gnome-cyr@lists.gnome.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2); 10<=4 && (n%100<10 || n"
+"%100>=20) ? 1 : 2);\n"
+
+msgid "Adapation to colour variation across the image"
+msgstr "Адаптация к изменению цвета по всему изображению"
+
+msgid "Adapation to light variation across the image"
+msgstr "Адаптация к изменению яркости по всему изображению"
+
+msgid "Alpha"
+msgstr "Альфа"
+
+msgid "Alpha channel"
+msgstr "Альфа-канал"
+
+msgid "Amount of blue"
+msgstr "Количество синего"
+
+msgid "Amount of green"
+msgstr "Количество зелёного"
+
+msgid "Amount of red"
+msgstr "Количество красного"
+
+msgid "Amount to increase brightness"
+msgstr "Величина изменения яркости"
+
+msgid "Amplitude"
+msgstr "Амплитуда"
+
+msgid "Amplitude of the ripple"
+msgstr "Амплитуда ряби"
+
+msgid "Angle"
+msgstr "Угол"
+
+msgid "Angle in degree"
+msgstr "Угол в градусах"
+
+msgid "Angle of blur in degrees"
+msgstr "Угол размывания в градусах"
+
+msgid "Angle to rotate (clockwise)"
+msgstr "Угол вращения (по часовой стрелке)"
+
+msgid "Applies whirling and pinching on the image"
+msgstr "Применить к изображению эффект вихря и щипка"
+
+msgid "Azimuth"
+msgstr "Азимут"
+
+msgid "Behavior"
+msgstr "Поведение"
+
+msgid "Behavior of the op"
+msgstr "Поведение операции"
+
+msgid "Beta"
+msgstr "Бета"
+
+msgid "Bitrate"
+msgstr "Скорость потока"
+
+msgid "Block Height"
+msgstr "Высота блока"
+
+msgid "Block Width"
+msgstr "Ширина блока"
+
+msgid "Block size"
+msgstr "Размер блока"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Blue channel"
+msgstr "Синий канал"
+
+msgid "Blur radius"
+msgstr "Радиус размывания"
+
+msgid "Blur radius."
+msgstr "Радиус размывания"
+
+msgid "Brighten:"
+msgstr "Яркость:"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Buffer location"
+msgstr "Расположение буфера"
+
+msgid "Cache buffer"
+msgstr "Буфер кэша"
+
+msgid "Camera:"
+msgstr "Камера:"
+
+msgid "Center"
+msgstr "Центр"
+
+msgid "Chromatic Adaptation"
+msgstr "Адаптация к цвету"
+
+msgid "Circle depth in percent"
+msgstr "Глубина круга в процентах"
+
+msgid "Clockwise"
+msgstr "По часовой стрелке"
+
+msgid "Clone a buffer"
+msgstr "Склонировать буфер"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color of the grid lines"
+msgstr "Цвет линий сетки"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "Curve"
+msgstr "Кривая"
+
+msgid "Depth"
+msgstr "Глубина"
+
+msgid "Detail"
+msgstr "Детализация"
+
+msgid "Dither"
+msgstr "Подмешивание шума"
+
+msgid "Edge preservation"
+msgstr "Сохранение краёв"
+
+msgid "Edge:"
+msgstr "Край:"
+
+msgid "Effect Hardness"
+msgstr "Жёсткость эффекта"
+
+msgid "Effect Size"
+msgstr "Размер эффекта"
+
+msgid "Effect Strength"
+msgstr "Сила эффекта"
+
+msgid "Falloff linearity"
+msgstr "Линейность спада"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Fill Color"
+msgstr "Цвет заливки"
+
+msgid "Fill rule"
+msgstr "Правило заливки"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Focal of the camera"
+msgstr "Фокусное расстояние"
+
+msgid "Font family"
+msgstr "Гарнитура"
+
+msgid "Font family (utf8)"
+msgstr "Гарнитура (UTF-8)"
+
+msgid "Fractal Type"
+msgstr "Тип фрактала"
+
+msgid "Fractal type"
+msgstr "Тип фрактала"
+
+msgid "Frame"
+msgstr "Кадр"
+
+msgid "Frame number"
+msgstr "Номер кадра"
+
+msgid "GEGL graph visualizer."
+msgstr "Визуализатор графов GEGL"
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Global colour saturation factor"
+msgstr "Глобальный коэффициент насыщенности цвета"
+
+msgid "Gradient threshold for detail enhancement"
+msgstr "Порог градиента для усиления детализации"
+
+msgid "Green"
+msgstr "Зелёный"
+
+msgid "Green channel"
+msgstr "Зелёный канал"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "Height of blocks in pixels"
+msgstr "Высота блока в пикселах"
+
+msgid "Height of grid lines in pixels"
+msgstr "Высота линий сетки в пикселах"
+
+msgid "Horizontal"
+msgstr "Горизонтальное"
+
+msgid "Horizontal center of vignetting"
+msgstr "Центр виньетирования по горизонтали"
+
+msgid "Horizontal position"
+msgstr "Положение по горизонтали"
+
+msgid "Horizontal scale factor"
+msgstr "Коэффициент масштабирования по горизонтали"
+
+msgid "Horizontal shear amount"
+msgstr "Величина наклона по горизонтали"
+
+msgid "Horizontal translation"
+msgstr "Перемещение по горизонтали"
+
+msgid "Horizontal width of cells pixels"
+msgstr "Ширина ячеек в пикселах"
+
+msgid "How many iteratarions to run the algorithm with"
+msgstr "Количество итераций выполнения алгоритма"
+
+msgid "Hue"
+msgstr "Тон"
+
+msgid "Intended temperature"
+msgstr "Конечная температура"
+
+msgid "Iteration"
+msgstr "Итерация"
+
+msgid "Iterations"
+msgstr "Итераций"
+
+msgid "JPEG 2000 image loader"
+msgstr "Загрузчик изображений JPEG 2000"
+
+msgid "JPG image loader"
+msgstr "Загрузчик изображений JPEG"
+
+msgid "Justification"
+msgstr "Выключка"
+
+msgid "Keep Signal"
+msgstr "Сохранять знак результата"
+
+msgid "Lambda"
+msgstr "Лямбда"
+
+msgid "Lanczos-width"
+msgstr "Ширина по Ланцошу"
+
+msgid "Length"
+msgstr "Длина"
+
+msgid "Length of blur in pixels"
+msgstr "Длина размывания в пикселах"
+
+msgid "Lens:"
+msgstr "Объектив:"
+
+msgid "Levels"
+msgstr "Уровней"
+
+msgid "Light Adaptation"
+msgstr "Адаптация к свету"
+
+msgid "Line Height"
+msgstr "Высота линий"
+
+msgid "Line Width"
+msgstr "Ширина линий"
+
+msgid "Linear motion blur"
+msgstr "Линейное размывание движением"
+
+msgid "Loaded"
+msgstr "Загружен"
+
+msgid "Maker:"
+msgstr "Производитель:"
+
+msgid "Map backwards"
+msgstr "Развернуть"
+
+msgid "Map from top"
+msgstr "Отобразить сверху"
+
+msgid "Module '%s' load error: %s"
+msgstr "Ошибка загрузки модуля '%s': %s"
+
+msgid "Module error"
+msgstr "Ошибка модуля"
+
+msgid "Monochrome channel mixer"
+msgstr "Монохромный микшер каналов"
+
+msgid "Node"
+msgstr "Узел"
+
+msgid "Noise"
+msgstr "Шум"
+
+msgid "Normalize"
+msgstr "Нормировка"
+
+msgid "Number of colors"
+msgstr "Количество цветов"
+
+msgid "Offset angle"
+msgstr "Угол смещения"
+
+msgid "Offset angle."
+msgstr "Угол смещения"
+
+msgid "Offset: "
+msgstr "Смещение:"
+
+msgid "Opacity"
+msgstr "Непрозрачность"
+
+msgid "Operation"
+msgstr "Операция"
+
+msgid "Origin-x"
+msgstr "Центр по X"
+
+msgid "Origin-y"
+msgstr "Центр по Y"
+
+msgid "Original temperature"
+msgstr "Исходная температура"
+
+msgid "Other color"
+msgstr "Другой цвет"
+
+msgid "Output format"
+msgstr "Формат вывода"
+
+msgid "Overall brightness of the image"
+msgstr "Общая яркость изображения"
+
+msgid "Performs an averaging of a square box of pixels"
+msgstr "Выполнить усреднение прямоугольника пикселов"
+
+msgid "Period"
+msgstr "Период"
+
+msgid "Period of the ripple"
+msgstr "Период ряби"
+
+msgid "Phase shift"
+msgstr "Смещение фазы"
+
+msgid "Pinch"
+msgstr "Щипок"
+
+msgid "Pinch amount"
+msgstr "Величина щипка"
+
+msgid "Pixel depth"
+msgstr "Глубина в пикселах"
+
+msgid "Proportion"
+msgstr "Пропорция"
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Radius 1"
+msgstr "Радиус 1"
+
+msgid "Radius 2"
+msgstr "Радиус 2"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Red channel"
+msgstr "Красный канал"
+
+msgid "Rotation"
+msgstr "Вращение"
+
+msgid "Sampler"
+msgstr "Интерполяция"
+
+msgid "Sampler used internally"
+msgstr "Используемый тип интерполяции"
+
+msgid "Samples"
+msgstr "Сэмплов"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Scale"
+msgstr "Масштаб"
+
+msgid "Scale, strength of effect"
+msgstr "Масштаб, сила эффекта"
+
+msgid "Script"
+msgstr "Сценарий"
+
+msgid "Shape"
+msgstr "Фигура"
+
+msgid "Shape to use: 0=circle 1=diamond 2=square"
+msgstr "Используемая фигура: 0=круг 1=ромб 2=квадрат"
+
+msgid "Shears the buffer"
+msgstr "Наклон буфера"
+
+msgid "Shift horizontal"
+msgstr "Смещение по горизонтали:"
+
+msgid "Shift vertical"
+msgstr "Смещение по вертикали"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size X"
+msgstr "Величина по X"
+
+msgid "Size Y"
+msgstr "Величина по Y"
+
+msgid "Softness"
+msgstr "Мягкость"
+
+msgid "Source"
+msgstr "Источник"
+
+msgid "Standard deviation (spatial scale factor)"
+msgstr "Стандартное отклонение (фактор пространственного масштаба)"
+
+msgid ""
+"Standard deviation for the horizontal axis. (multiply by ~2 to get radius)"
+msgstr ""
+"Стандартное отклонение по горизонтальной оси (умножить в ~2 раза для "
+"получения радиуса)"
+
+msgid ""
+"Standard deviation for the vertical axis. (multiply by ~2 to get radius.)"
+msgstr ""
+"Стандартное отклонение по вертикальной оси (умножить в ~2 раза для получения "
+"радиуса)"
+
+msgid "Std. Dev."
+msgstr "Стандартное отклонение"
+
+msgid "Strength"
+msgstr "Сила"
+
+msgid "Strength of local detail enhancement"
+msgstr "Сила локального усиления детализации"
+
+msgid "Stroke Color"
+msgstr "Цвет обводки"
+
+msgid "Stroke opacity"
+msgstr "Непрозрачность обводки"
+
+msgid "Stroke width"
+msgstr "Толщина обводки"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "The contrast curve."
+msgstr "Кривая контрастности"
+
+msgid "The value of gray threshold"
+msgstr "Значение порога серого"
+
+msgid "The value of hue"
+msgstr "Значение тона"
+
+msgid "The value of saturation"
+msgstr "Значение насыщенности"
+
+msgid "The value of the turbulence"
+msgstr "Величина турбулентности"
+
+msgid "Threshold"
+msgstr "Порог"
+
+msgid "To polar"
+msgstr "В полярное"
+
+msgid "Turbulence"
+msgstr "Турбулентность"
+
+msgid "Type of wave"
+msgstr "Тип волны"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Values"
+msgstr "Значения"
+
+msgid "Vertical"
+msgstr "Вертикальное"
+
+msgid "Vertical center of vignetting"
+msgstr "Центр виньетирования по вертикали"
+
+msgid "Vertical position"
+msgstr "Положение по вертикали"
+
+msgid "Vertical scale factor"
+msgstr "Коэффициент масштабирования по вертикали"
+
+msgid "Vertical shear amount"
+msgstr "Величина наклона по вертикали"
+
+msgid "Vertical translation"
+msgstr "Перемещение по вертикали"
+
+msgid "Vertical width of cells in pixels"
+msgstr "Высота ячеек в пикселах"
+
+msgid "Wave type"
+msgstr "Тип волны"
+
+msgid "Whirl"
+msgstr "Вихрь"
+
+msgid "Whirl angle (degrees)"
+msgstr "Угол вихря (в градусах)"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Width of blocks in pixels"
+msgstr "Ширина блока в пикселах"
+
+msgid "Width of grid lines in pixels"
+msgstr "Ширина линий сетки в пикселах"
+
+msgid "Width of the Lanczos function"
+msgstr "Ширина функции Ланцоша"
+
+msgid "X"
+msgstr "X"
+
+msgid "X offset"
+msgstr "Смещение по X"
+
+msgid "X shift:"
+msgstr "Смещение по X:"
+
+msgid "X-coordinate of origin"
+msgstr "Координата центра вращения по X"
+
+msgid "X:"
+msgstr "X:"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "Y offset"
+msgstr "Смещение по Y"
+
+msgid "Y shift:"
+msgstr "Смещение по Y:"
+
+msgid "Y-coordinate of origin"
+msgstr "Координата центра вращения по Y"
+
+msgid "Y:"
+msgstr "Y:"
+
+msgid "Z offset"
+msgstr "Смещение по Z"
+
+msgid "Zoom:"
+msgstr "Масштаб:"
+
+msgid "babl format"
+msgstr "Формат babl"
+
+msgid "frames per second"
+msgstr "кадров в секунду"

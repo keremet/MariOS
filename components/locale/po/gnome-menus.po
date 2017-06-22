@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-menus HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-29 20:38+0900\n"
+"PO-Revision-Date: 2007-01-16 15:48+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"\n"
+"\n"
+"\n"
+"==== Menu changed, reloading ====\n"
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"\n"
+"==== Меню изменено, перегружается ====\n"
+"\n"
+"\n"
+
+msgid " <excluded>"
+msgstr " <excluded>"
+
+msgid "- test GNOME's implementation of the Desktop Menu Specification"
+msgstr ""
+"- проверка реализации спецификации Desktop Menu, использованной в GNOME"
+
+msgid "Accessories"
+msgstr "Стандартные"
+
+msgid "Administration"
+msgstr "Администрирование"
+
+msgid "Applications"
+msgstr "Приложения"
+
+msgid "Applications that did not fit in other categories"
+msgstr "Приложения, не подпадающие ни под какие категории"
+
+msgid ""
+"Cannot find home directory: not set in /etc/passwd and no value for $HOME in "
+"environment"
+msgstr ""
+"Не удается найти домашний каталог: не установлен ни в /etc/passwd, ни при "
+"помощи переменной $HOME"
+
+msgid "Change system-wide settings (affects all users)"
+msgstr "Изменение системных установок (влияет на всех пользователей)"
+
+msgid "Desktop accessories"
+msgstr "Стандартные приложения"
+
+msgid "Developer Tools"
+msgstr "Инструменты разработки"
+
+msgid "Edit Menus"
+msgstr "Редактирование меню"
+
+msgid "Education"
+msgstr "Образовательные"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "Games and amusements"
+msgstr "Игры и развлечения"
+
+msgid "Graphics"
+msgstr "Графика"
+
+msgid "Graphics applications"
+msgstr "Графические приложения"
+
+msgid "Hardware"
+msgstr "Оборудование"
+
+msgid "Include <Exclude>d entries"
+msgstr "Включать исключенные элементы"
+
+msgid "Include NoDisplay=true entries"
+msgstr "Включать элементы NoDisplay=true"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Internet and Network"
+msgstr "Интернет и сеть"
+
+msgid "Invalid desktop file ID"
+msgstr "Неверный ID desktop-файла"
+
+msgid "Look and Feel"
+msgstr "Оформление"
+
+msgid "MENU_FILE"
+msgstr "MENU_FILE"
+
+msgid "Menu Editor"
+msgstr "Редактор меню"
+
+msgid "Menu file"
+msgstr "Файл меню"
+
+msgid "Menu tree is empty"
+msgstr "Дерево меню пусто"
+
+msgid "Monitor for menu changes"
+msgstr "Отслеживать изменения в меню"
+
+msgid "Multimedia menu"
+msgstr "Мультимедиа"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Network-related settings"
+msgstr "Параметры, относящиеся к настройке сети"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Office Applications"
+msgstr "Офисные приложения"
+
+msgid "Other"
+msgstr "Прочие"
+
+msgid "Personal"
+msgstr "Персональные"
+
+msgid "Personal preferences"
+msgstr "Персональные предпочтения"
+
+msgid "Personal preferences and administration settings"
+msgstr "Личные предпочтения и административные параметры"
+
+msgid "Personal settings"
+msgstr "Персональные параметры"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Programming"
+msgstr "Программирование"
+
+msgid "Programs for Internet access such as web and email"
+msgstr "Программы для работы с Интернетом (почта, браузер и т.п.)"
+
+msgid "Settings controlling the desktop appearance and behavior"
+msgstr "Параметры, влияющие на внешний вид и поведение рабочего стола"
+
+msgid "Settings for several hardware devices"
+msgstr "Параметры нескольких аппаратных устройств"
+
+msgid "Show"
+msgstr "Отображать"
+
+msgid "Simple Menu Editor %s"
+msgstr "Простой редактор меню %s"
+
+msgid "Sound & Video"
+msgstr "Аудио и видео"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System Tools"
+msgstr "Системные"
+
+msgid "System configuration and monitoring"
+msgstr "Средства конфигурации и мониторинга системы"
+
+msgid "System settings"
+msgstr "Системные параметры"
+
+msgid "Tools for software development"
+msgstr "Средства для разработки программ"
+
+msgid "Universal Access"
+msgstr "Специальные возможности"
+
+msgid "Universal Access Settings"
+msgstr "Параметры специальных возможностей"
+
+msgid "[Invalid Filename]"
+msgstr "[неверное имя файла]"
+
+msgid "_Applications:"
+msgstr "_Приложения:"
+
+msgid "_Defaults"
+msgstr "_Исходный вид"
+
+msgid "_Menus:"
+msgstr "_Меню:"

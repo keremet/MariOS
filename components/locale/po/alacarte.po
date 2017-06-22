@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: alacarte HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2008-09-25 14:59+0900\n"
+"PO-Revision-Date: 2008-09-25 14:59+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Change which applications are shown on the main menu"
+msgstr "Выбор приложений, отображаемых в главном меню"
+
+msgid "It_ems:"
+msgstr "_Элементы:"
+
+msgid "Item"
+msgstr "Элемент"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Move Down"
+msgstr "Переместить вниз"
+
+msgid "Move Up"
+msgstr "Переместить вверх"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Ne_w Item"
+msgstr "_Новый элемент"
+
+msgid "New _Separator"
+msgstr "Новый _разделитель"
+
+msgid "Restore the default menu layout"
+msgstr "Восстановить первоначальный вид меню"
+
+msgid "Revert Changes?"
+msgstr "Откатить изменения?"
+
+msgid "Revert all menus to original settings?"
+msgstr "Вернуть все меню к первоначальному состоянию?"
+
+msgid "Show"
+msgstr "Показать"
+
+msgid "_Menus:"
+msgstr "_Меню:"
+
+msgid "_New Menu"
+msgstr "Новое _меню"
+
+msgid "_Revert to Original"
+msgstr "_Вернуть исходное состояние"

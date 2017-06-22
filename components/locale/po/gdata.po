@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgdata master\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-18 08:45+0200\n"
+"PO-Revision-Date: 2010-03-04 20:57+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgid "A %s element was missing required content."
+msgstr "Внутри элемента %s пропущено требуемое содержимое."
+
+msgid "A CAPTCHA must be filled out to log in."
+msgstr "Чтобы войти, необходимо заполнить поле CAPTCHA."
+
+msgid "A required element (%s) was not present."
+msgstr "Отсутствует требуемый элемент (%s)."
+
+msgid "A required property of a %s element (%s) was not present."
+msgstr "Отсутствует требуемое свойство элемента %s (%s)."
+
+msgid "A singleton element (%s) was duplicated."
+msgstr "Повторение единичного элемента (%s)."
+
+msgid "Authentication required: %s"
+msgstr "Требуется аутентификация: %s"
+
+msgid "Empty document."
+msgstr "Пустой документ."
+
+msgid "Error code %u when deleting an entry: %s"
+msgstr "Произошла ошибка %u при удалении записи: %s"
+
+msgid "Error code %u when downloading: %s"
+msgstr "Произошла ошибка %u при загрузке: %s"
+
+msgid "Error code %u when inserting an entry: %s"
+msgstr "Произошла ошибка %u при добавлении записи: %s"
+
+msgid "Error code %u when querying: %s"
+msgstr "Произошла ошибка %u при выполнении запроса: %s"
+
+msgid "Error code %u when updating an entry: %s"
+msgstr "Произошла ошибка %u при обновлении записи: %s"
+
+msgid "Error code %u when uploading: %s"
+msgstr "Произошла ошибка %u при загрузке: %s"
+
+msgid "Error parsing XML: %s"
+msgstr "Ошибка разбора XML: %s"
+
+msgid "Invalid redirect URI: %s"
+msgstr "Неверное перенаправление URI: %s"
+
+msgid "Invalid request URI or header, or unsupported nonstandard parameter: %s"
+msgstr ""
+"Неверный запрос URI или заголовок, или неподдерживаемый нестандартный "
+"параметр: %s"
+
+msgid "Query parameter not allowed for albums."
+msgstr "Параметр запроса недопустим для альбомов."
+
+msgid "The album did not have a feed link."
+msgstr "У альбома отсутствует лента новостей."
+
+msgid "The album has already been inserted."
+msgstr "Альбом уже добавлен."
+
+msgid "The calendar did not have a content source."
+msgstr "У календаря нет источника данных."
+
+msgid "The content of a %s element (\"%s\") was not in ISO 8601 format."
+msgstr "Содержимое элемента %s («%s») не соответствует формату ISO 8601."
+
+msgid "The content of a %s element (\"%s\") was not in hexadecimal RGB format."
+msgstr ""
+"Содержимое элемента %s («%s») не соответствует шестнадцатеричному формату "
+"RGB."
+
+msgid "The content of a %s element (\"%s\") was unknown."
+msgstr "Неизвестное содержимое элемента %s («%s»)."
+
+msgid "The document has already been uploaded."
+msgstr "Документ уже загружен."
+
+msgid "The entry has already been inserted."
+msgstr "Запись уже вставлена."
+
+msgid "The entry has been modified since it was downloaded: %s"
+msgstr "Запись была изменена с момента последней загрузки: %s"
+
+msgid "The owner's rule may not be deleted."
+msgstr "Владелец правила не может быть удалён."
+
+msgid "The requested resource was not found: %s"
+msgstr "Запрошенный ресурс не найден: %s"
+
+msgid "The rule has already been inserted."
+msgstr "Правило уже добавлено."
+
+msgid "The server returned a malformed response."
+msgstr "Сервер вернул неверный ответ."
+
+msgid "The supplied document had an invalid content type."
+msgstr "Предлагаемый документ имеет неверный тип."
+
+msgid "The value of the %s property of a %s element (\"%s\") was unknown."
+msgstr "Неизвестное значение свойства %s элемента %s («%s»)."
+
+msgid "The video did not have a related videos <link>."
+msgstr "Видео не содержит связанных видео <link>."
+
+msgid "This account has been deleted. (%s)"
+msgstr "Учётная запись удалена. (%s)"
+
+msgid "This account has been disabled. (%s)"
+msgstr "Учётная запись отключена. (%s)"
+
+msgid "This account's access to this service has been disabled. (%s)"
+msgstr "Доступ учётной записи к этой службе отключён. (%s)"
+
+msgid "This service is not available at the moment."
+msgstr "В данный момент служба недоступна."
+
+msgid "This service is not available at the moment. (%s)"
+msgstr "В данный момент служба недоступна. (%s)"
+
+msgid ""
+"Unknown error code \"%s\" in domain \"%s\" received with location \"%s\"."
+msgstr "Неизвестный код ошибки «%s» в домене «%s» по адресу «%s»."
+
+msgid ""
+"You have exceeded your entry quota. Please delete some entries and try again."
+msgstr ""
+"Достигнуто максимальное количество записей. Удалите несколько записей и "
+"повторите попытку."
+
+msgid ""
+"You have made too many API calls recently. Please wait a few minutes and try "
+"again."
+msgstr ""
+"За короткий промежуток времени сделано слишком много API-запросов. Подождите "
+"несколько минут и повторите попытку снова."
+
+msgid "You have not agreed to the service's terms and conditions. (%s)"
+msgstr "Вы не одобрили лицензионное соглашение. (%s)"
+
+msgid "You must be authenticated to do this."
+msgstr "Чтобы сделать это, необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to download documents."
+msgstr "Для загрузки документов необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to insert an album."
+msgstr "Для добавления альбома необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to move documents."
+msgstr "Для перемещения документов необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to query all calendars."
+msgstr "Для доступа ко всем календарям необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to query contacts."
+msgstr "Для доступа к контактам необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to query documents."
+msgstr "Для доступа к документам необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to query your own calendars."
+msgstr "Для доступа к личным календарям необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to update documents."
+msgstr "Для обновления документов необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to upload a file."
+msgstr "Для загрузки файла необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to upload a video."
+msgstr "Для загрузки видео, необходимо пройти аутентификацию."
+
+msgid "You must be authenticated to upload documents."
+msgstr "Для загрузки документов необходимо пройти аутентификацию."
+
+msgid "You must specify a username or be authenticated to query a user."
+msgstr ""
+"Для доступа к пользователю необходимо указать имя пользователя или пройти "
+"аутентификацию."
+
+msgid "You must specify a username or be authenticated to query all albums."
+msgstr ""
+"Для доступа ко всем альбомам необходимо указать имя пользователя или пройти "
+"аутентификацию."
+
+msgid "Your account's e-mail address has not been verified. (%s)"
+msgstr "Адрес эл. почты вашей учётной записи не был проверен. (%s)"
+
+msgid "Your username or password were incorrect."
+msgstr "Ваше имя пользователя или пароль неверны."

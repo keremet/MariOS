@@ -1,0 +1,1215 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: deskbar-applet gnome-2-22\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-03 18:03+0200\n"
+"PO-Revision-Date: 2010-02-22 17:22+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "<b>Available Extensions</b>"
+msgstr "<b>Доступные расширения</b>"
+
+msgid "<b>Choose the language the results should be in:</b>"
+msgstr "<b>Выберите язык вывода результатов:</b>"
+
+msgid "<b>Extensions with Errors</b>"
+msgstr "<b>Расширения с ошибками</b>"
+
+msgid "<b>Focus</b>"
+msgstr "<b>Фокус</b>"
+
+msgid "<b>Loaded Extensions</b>"
+msgstr "<b>Загруженные расширения</b>"
+
+msgid "<b>Search Engines</b>"
+msgstr "<b>Поисковые системы</b>"
+
+msgid "<b>Width</b>"
+msgstr "<b>Ширина</b>"
+
+msgid "<b>Window Behavior</b>"
+msgstr "<b>Поведение окна</b>"
+
+msgid "<big><b>Login for %s</b></big>"
+msgstr "<big><b>Авторизация на %s</b></big>"
+
+msgid "<big><b>Login to %s rejected</b></big>"
+msgstr "<big><b>В авторизованном доступе к %s отказано</b></big>"
+
+msgid ""
+"<i><small><b>Note:</b> To use a shortcut (for example <b>wp</b>) to search "
+"for <b>something</b>, type \"<b>wp something</b>\" in the deskbar</small></"
+"i>."
+msgstr ""
+"<i><small><b>Примечание:</b> Чтобы использовать сокращение (например, <b>wp</"
+"b>) для поиска <b>чего-нибудь</b>, наберите «<b>wp что-нибудь</b>» в апплете "
+"Deskbar</small></i>."
+
+msgid "<i><small>Drag and drop an extension to change its order.</small></i>"
+msgstr ""
+"<i><small>Для смены порядка следования расширений перетащите и бросьте их.</"
+"small></i>"
+
+msgid "<i>Empty history</i>"
+msgstr "<i>Очистить историю</i>"
+
+msgid "<i>Empty</i>"
+msgstr "<i>Пусто</i>"
+
+msgid "<small>(%(remain)s)</small> Post <i>\"%(msg)s\"</i>"
+msgstr "<small>(%(remain)s)</small> Заметка <i>\"%(msg)s\"</i>"
+
+msgid "?"
+msgstr "?"
+
+msgid "A file named \"%s\" already exists.  Do you want to replace it?"
+msgstr "Файл «%s» уже существует. Заменить его?"
+
+msgid "A list of available extensions is downloaded."
+msgstr "Загружен список доступных расширений."
+
+msgid ""
+"A post is already awaiting submission; please wait before you post another "
+"message"
+msgstr ""
+"Одна заметка ожидает публикации; подождите перед тем, как делать следующую"
+
+msgid "A problem occured"
+msgstr "Возникла ошибка"
+
+msgid "About"
+msgstr "О программе"
+
+msgid "Actions"
+msgstr "Действия"
+
+msgid "Add OpenSearch Website"
+msgstr "Добавить веб-сайт OpenSearch"
+
+msgid "Additional results for category <b>%s</b>"
+msgstr "Дополнительные результаты для категории <b>%s</b>"
+
+msgid "All Extensions"
+msgstr "Все расширения"
+
+msgid "An all-in-one action bar"
+msgstr "Единая панель действий"
+
+msgid "An all-in-one action bar."
+msgstr "Единая панель действий."
+
+msgid "Arabic"
+msgstr "Арабский"
+
+msgid "As you type, Wikipedia will offer suggestions."
+msgstr "Wikipedia предлагает статьи на выбор по мере набора"
+
+msgid "Audio"
+msgstr "Звуковые файлы"
+
+msgid ""
+"Autocompletion Needs to be Enabled\n"
+"We cannot provide e-mail addresses from your address book unless "
+"autocompletion is enabled.  To do this, from your mail program's menu, "
+"choose Edit → Preferences, and then Autocompletion."
+msgstr ""
+"Нужно включить автозавершение\n"
+"Нельзя искать адреса из адресной книги, не включив автозавершение. Чтобы его "
+"включить, откройте почтовую программу и выберите «Правка» → «Параметры», "
+"затем «Автозавершение»."
+
+msgid "Back to Matches"
+msgstr "Назад к результатам поиска"
+
+msgid "Beagle"
+msgstr "Beagle"
+
+msgid "Beagle Live"
+msgstr "Beagle Live"
+
+msgid "Beagle daemon is not running."
+msgstr "Демон Beagle не запущен."
+
+msgid "Beagle does not seem to be installed."
+msgstr "Похоже, Beagle не установлен."
+
+msgid "Beagled could not be found in your $PATH."
+msgstr "Beagled не найден в $PATH."
+
+msgid "Bookmark Name"
+msgstr "Имя закладки"
+
+msgid "Bulgarian"
+msgstr "Болгарский"
+
+msgid "Calculate simple equations"
+msgstr "Решать простые уравнения"
+
+msgid "Calculator"
+msgstr "Калькулятор"
+
+msgid "Calendar: %s"
+msgstr "Календарь: %s"
+
+msgid "Cannot execute program:"
+msgstr "Не удалось выполнить программу:"
+
+msgid "Cannot show URL:"
+msgstr "Не удалось показать URL:"
+
+msgid "Catalan"
+msgstr "Каталонский"
+
+msgid "Check the description beneath for further details."
+msgstr "Подробности приведены в описании ниже."
+
+msgid "Chinese"
+msgstr "Китайский"
+
+msgid "Chinese (Simplified)"
+msgstr "Китайский (упрощенный)"
+
+msgid "Chinese (Traditional)"
+msgstr "Китайский (традиционный)"
+
+msgid "Choose Folder"
+msgstr "Выбрать папку"
+
+msgid ""
+"Choose the language you want to use or enter the code of your language "
+"manually"
+msgstr ""
+"Выберите язык, статьи на котором должны быть предложены, либо введите его "
+"код вручную"
+
+msgid ""
+"Choose whether triggering the keyboard shortcut also pastes the current "
+"selection in the search box."
+msgstr ""
+"Должно ли содержимое текущего выделения автоматически передаваться в окно "
+"поиска при его активации через клавиатуру."
+
+msgid "Clear History"
+msgstr "Очистить историю"
+
+msgid "Clear entry after match has been selected"
+msgstr "Очищать ли поле поиска после выбора результата"
+
+msgid "Collapsed categories"
+msgstr "Свёрнутые категории"
+
+msgid "Computer Actions"
+msgstr "Действия с компьютером"
+
+msgid "Configure Google"
+msgstr "Параметры поиска через Google"
+
+msgid "Configure Yahoo!"
+msgstr "Параметры Yahoo!"
+
+msgid "Contents"
+msgstr "Содержимое"
+
+msgid "Conversations"
+msgstr "Беседы"
+
+msgid "Copy <b>%(name)s</b> to clipboard"
+msgstr "Скопировать <b>%(name)s</b> в буфер обмена"
+
+msgid "Copy <b>%(origtext)s = %(name)s</b> to clipboard"
+msgstr "Скопировать <b>%(origtext)s = %(name)s</b> в буфер обмена"
+
+msgid ""
+"Could not load beagle, libbeagle has been compiled without python bindings."
+msgstr "Не удалось загрузить Beagle: libbeagle собрана без привязок к Python."
+
+msgid "Could not retrieve templates directory"
+msgstr "Не удалось получить каталог с шаблонами"
+
+msgid "Create %s"
+msgstr "Создать %s"
+
+msgid "Create Document"
+msgstr "Создать документ"
+
+msgid "Create new files from your templates"
+msgstr "Создавать новые файлы из шаблонов"
+
+msgid "Create note <b>%(name)s</b>"
+msgstr "Создать заметку <b>%(name)s</b>"
+
+msgid "Credentials for %s"
+msgstr "Удостоверение личности для %s"
+
+msgid "Croatian"
+msgstr "Хорватский"
+
+msgid "Czech"
+msgstr "Чешский"
+
+msgid "Danish"
+msgstr "Датский"
+
+msgid "Delete note <b>%(name)s</b>"
+msgstr "Удалить заметку <b>%(name)s</b>"
+
+msgid "Description missing"
+msgstr "Нет описания"
+
+msgid "Deskbar"
+msgstr "Deskbar"
+
+msgid "Deskbar Applet"
+msgstr "Апплет Deskbar"
+
+msgid "Deskbar Preferences"
+msgstr "Параметры Deskbar"
+
+msgid "Deskbar Preferences — Web Searches"
+msgstr "Параметры Deskbar — Поисковые системы"
+
+msgid "Deskbar Website"
+msgstr "Веб-сайт Deskbar"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid "Developer Documentation"
+msgstr "Документация для разработчика"
+
+msgid "Devhelp is not installed"
+msgstr "Devhelp не установлен"
+
+msgid "Dictionary"
+msgstr "Словарь"
+
+msgid "Display additional actions"
+msgstr "Показывать дополнительные действия"
+
+msgid "Display extensions with tag:"
+msgstr "Отображать расширения с меткой:"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Downloading extension"
+msgstr "Загрузка модуля"
+
+msgid "Dutch"
+msgstr "Голландский"
+
+msgid "Edit OpenSearch Website"
+msgstr "Редактировать веб-сайт OpenSearch"
+
+msgid "Edit contact %s"
+msgstr "Изменить контакт %s"
+
+msgid "Edit contact <b>%(name)s</b> (%(email)s)"
+msgstr "Изменить контакт <b>%(name)s</b> (%(email)s)"
+
+msgid "Emails"
+msgstr "Письма"
+
+msgid "Enabled handlers"
+msgstr "Включённые обработчики"
+
+msgid "English"
+msgstr "Английский"
+
+msgid ""
+"Enter the location (URL) of the OpenSearch description document for this "
+"website. The name and description can be loaded automatically from this "
+"document or you can just enter your own values manually."
+msgstr ""
+"Введите адрес (URL) документа OpenSearch с описанием для этого веб-сайта. "
+"Название и описание могут быть автоматически загружены из этого документа, "
+"либо введены вручную."
+
+msgid "Enter your del.icio.us username below"
+msgstr "Введите ниже своё имя пользователя del.icio.us"
+
+msgid "Epiphany is not your preferred browser."
+msgstr "Epiphany не является вашим предпочтительным браузером."
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error posting to %s"
+msgstr "Ошибка при обновлении журнала %s"
+
+msgid "Estonian"
+msgstr "Эстонский"
+
+msgid "Execute %s"
+msgstr "Выполнить %s"
+
+msgid "Execute %s in terminal"
+msgstr "Выполнить %s в терминале"
+
+msgid ""
+"Extension could not be installed due to a problem with the provided file"
+msgstr "Из-за проблемы с загруженным файлом не удалось установить расширение"
+
+msgid "Extension has been installed successfully"
+msgstr "Модуль успешно установлен"
+
+msgid "Extensions with Errors"
+msgstr "Расширения с ошибками"
+
+msgid "Extracting archive"
+msgstr "Распаковка архива"
+
+msgid ""
+"Failed to post update to %(domain)s.\n"
+"Please make sure that:\n"
+"\n"
+" • Your internet connection is working\n"
+" • You can connect to <i>http://%(domain)s</i> in\n"
+"    your web browser\n"
+" • Your credentials in the preferences are correct"
+msgstr ""
+"Не удалось обновить журнал на %(domain)s.\n"
+"Убедитесь в том,что:\n"
+"\n"
+" • соединение с Интернетом корректно установлено\n"
+" • вы можете соединиться с <i>http://%(domain)s</i> при\n"
+"    помощи веб-браузера\n"
+" • данные учетной записи введены правильно"
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Files and Folders Search"
+msgstr "Поиск файлов и папок"
+
+msgid "Files, Folders and Places"
+msgstr "Файлы, папки и места"
+
+msgid "Find files and folders by searching for a name pattern"
+msgstr "Искать файлы и папки по шаблону имени"
+
+msgid "Finnish"
+msgstr "Финский"
+
+msgid "Firefox version must be at least %s and less than %s"
+msgstr "Необходим Firefox с номером версии между %s и %s"
+
+msgid "Folder:"
+msgstr "Папка:"
+
+msgid "French"
+msgstr "Французский"
+
+msgid "From <i>%s</i>"
+msgstr "От <i>%s</i>"
+
+msgid "GNOME dictionary is not installed"
+msgstr "Словарь GNOME не установлен"
+
+msgid "GNOME search tool is not installed"
+msgstr "Средство поиска GNOME не установлено"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Go to location of %s"
+msgstr "Открыть местоположение %s"
+
+msgid "Google Code Search"
+msgstr "Поиск при помощи Google Code"
+
+msgid "Google Search"
+msgstr "Поиск через Google"
+
+msgid "Greek"
+msgstr "Греческий"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Hibernate"
+msgstr "В спящий режим"
+
+msgid "Hibernate the machine"
+msgstr "Перевести компьютер в спящий режим"
+
+msgid "Hibernate this system now?"
+msgstr "Перевести компьютер в спящий режим?"
+
+msgid "History"
+msgstr "История"
+
+msgid "Hungarian"
+msgstr "Венгерский"
+
+msgid "Icelandic"
+msgstr "Исландский"
+
+msgid ""
+"If enabled it will clear the entry after a search result has been selected"
+msgstr ""
+"Если этот ключ установлен, после выбора одного из результатов поиска "
+"содержимое поля поиска будет стёрто."
+
+msgid ""
+"If enabled, the window will be closed after an action has been activated"
+msgstr ""
+"Если этот ключ установлен, после запуска действия окно поиска будет закрыто."
+
+msgid "If you delete a note it is permanently lost."
+msgstr "Если удалить заметку, она будет утеряна навсегда."
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Indonesian"
+msgstr "Индонезийский"
+
+msgid "Installing extension"
+msgstr "Установка модуля"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid "Japanese"
+msgstr "Японский"
+
+msgid "Keybinding"
+msgstr "Комбинация клавиш"
+
+msgid "Korean"
+msgstr "Корейский"
+
+msgid "Latvian"
+msgstr "Латвийский"
+
+msgid "Launch <b>%(name)s</b> (%(prog)s)"
+msgstr "Запустить <b>%(name)s</b> (%(prog)s)"
+
+msgid "Launch a program by its name and/or description"
+msgstr "Запускать программы по их имени и/или описанию"
+
+msgid "Lithuanian"
+msgstr "Литовский"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Location missing"
+msgstr "Нет адреса"
+
+msgid "Lock"
+msgstr "Заблокировать"
+
+msgid "Lock the screen"
+msgstr "Заблокировать экран"
+
+msgid "Log Out"
+msgstr "Завершить сеанс"
+
+msgid "Log out of this system now?"
+msgstr "Завершить сеанс?"
+
+msgid "Logoff, shutdown, restart, suspend and related actions."
+msgstr ""
+"Завершить сеанс, выключить компьютер, перезагрузить, перевести в ждущий "
+"режим, и тому подобное."
+
+msgid "Look up word definitions in the dictionary"
+msgstr "Искать определение и перевод слов в словаре"
+
+msgid "Lookup %s in dictionary"
+msgstr "Искать %s в словаре"
+
+msgid "Mail (Address Book)"
+msgstr "Почта (по адресной книге)"
+
+msgid "Make sure the URL points to a valid OpenSearch description document."
+msgstr ""
+"Проверьте корректность адреса, указывающего на документ OpenSearch с "
+"описанием"
+
+msgid "Milliseconds to wait before starting to search"
+msgstr "Сколько миллисекунд ждать перед началом поиска"
+
+msgid "Minimum number of characters needed to start searching"
+msgstr "Минимальное число символов, необходимое для начала поиска"
+
+msgid "Mozilla/Firefox is not your preferred browser."
+msgstr "Mozilla/Firefox не является вашим предпочтительным браузером."
+
+msgid "Name missing"
+msgstr "Нет названия"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "New Extensions"
+msgstr "Новые расширения"
+
+msgid "New accelerator…"
+msgstr "Новая комбинация клавиш..."
+
+msgid "News"
+msgstr "Новости"
+
+msgid "Norwegian"
+msgstr "Норвежский"
+
+msgid "Note: %s"
+msgstr "Примечание: %s"
+
+msgid "Notes"
+msgstr "Заметки"
+
+msgid "Open %s"
+msgstr "Открыть %s"
+
+msgid "Open %s containing %s"
+msgstr "Открыть %s, содержащий %s"
+
+msgid "Open <b>%(name)s</b> with <b>%(program)s</b>"
+msgstr "Открыть <b>%(name)s</b> в <b>%(program)s</b>"
+
+msgid "Open Bookmark %s"
+msgstr "Открыть закладку %s"
+
+msgid "Open History Item %s"
+msgstr "Открыть элемент истории %s"
+
+msgid "Open article <i>%(name)s</i> in <b>Wikipedia</b>"
+msgstr "Открыть статью <i>%(name)s</i> из <b>Википедии</b>"
+
+msgid "Open audio disc %s"
+msgstr "Открыть звуковой диск %s"
+
+msgid "Open location %s"
+msgstr "Открыть адрес %s"
+
+msgid "Open network place %s"
+msgstr "Открыть сетевой ресурс %s"
+
+msgid "Open note <b>%(name)s</b>"
+msgstr "Открыть заметку <b>%(name)s</b>"
+
+msgid "Open package <i>%(name)s</i>"
+msgstr "Открыть пакет <i>%(name)s</i>"
+
+msgid "Open web pages and send emails by typing a complete address"
+msgstr "Открывать веб-страницы и посылать письма, введя полный адрес"
+
+msgid "Open your web bookmarks by name"
+msgstr "Открывать ваши закладки из веб-браузера по имени"
+
+msgid "Open your web history by name"
+msgstr "Открывать сайты из истории веб-браузера по имени"
+
+msgid "OpenSearch"
+msgstr "OpenSearch"
+
+msgid "OpenSearch Settings"
+msgstr "Настройки OpenSearch"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "People"
+msgstr "Люди"
+
+msgid "Persian"
+msgstr "Персидский"
+
+msgid "Places"
+msgstr "Места"
+
+msgid "Please enter a description for this website"
+msgstr "Введите описание этого веб-сайта"
+
+msgid "Please enter a name for this website"
+msgstr "Введите название этого веб-сайта"
+
+msgid "Please enter a valid location (URL) for this website"
+msgstr "Введите корректный адрес (URL) для этого веб-сайта"
+
+msgid ""
+"Please note that Deskbar Applet does not support authentication via OpenID. "
+"You must configure a username and password on the <i>identi.ca</i> website "
+"if you haven't already."
+msgstr ""
+"Заметьте, что апплет Desktbar не поддерживает авторизацию с помощью OpenID. "
+"Для работы необходимо настроить имя пользователя и пароль на сайте <i>http://"
+"identi.ca</i>."
+
+msgid "Please provide your credentials for <b>%s</b>"
+msgstr "Предъявите удостоверение личности для <b>%s</b>"
+
+msgid "Please verify your credentials for <b>%s</b>"
+msgstr "Проверьте ваши данные для <b>%s</b>"
+
+msgid "Polish"
+msgstr "Польский"
+
+msgid "Portuguese"
+msgstr "Португальский"
+
+msgid "Post updates to your Twitter account"
+msgstr "Писать заметки на Twitter"
+
+msgid "Post updates to your identi.ca account"
+msgstr "Писать заметки на identi.ca"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Programs"
+msgstr "Программы"
+
+msgid "Provides suggestions for queries related to the submitted query"
+msgstr "Автоматически предлагать варианты поисковых запросов"
+
+msgid "Python module json or simplejson are not available"
+msgstr "Не удалось найти модуль json или simplejson для python"
+
+msgid "Quit"
+msgstr "Выйти"
+
+msgid "Really delete this note?"
+msgstr "Удалить эту заметку?"
+
+msgid "Reboot"
+msgstr "Перезагрузить"
+
+msgid "Reboot the machine"
+msgstr "Перезагрузить компьютер"
+
+msgid "Recent Documents"
+msgstr "Недавние документы"
+
+msgid "Recognize previously used searches"
+msgstr "Узнавать вводившиеся раньше запросы"
+
+msgid "Replace"
+msgstr "Заменить"
+
+msgid "Restart"
+msgstr "Перезагрузить"
+
+msgid "Restart the computer"
+msgstr "Перезагрузить компьютер"
+
+msgid "Restart this system now?"
+msgstr "Перезагрузить компьютер?"
+
+msgid "Retrieve your recently accessed files and locations"
+msgstr "Получить ваши недавно открывавшиеся файлы и местоположения"
+
+msgid "Retrieving list of extensions"
+msgstr "Загружается список расширений"
+
+msgid "Retrieving the extension index"
+msgstr "Загрузка списка модулей"
+
+msgid "Romanian"
+msgstr "Румынский"
+
+msgid "Russian"
+msgstr "Русский"
+
+msgid "Search <b>%(name)s</b> for <i>%(text)s</i>"
+msgstr "Искать в <b>%(name)s</b> <i>%(text)s</i>"
+
+msgid "Search <b>Google Code Search</b> for <i>%(name)s</i>"
+msgstr "Искать <i>%(name)s</i> в <b>Google Code Search</b>"
+
+msgid "Search <b>Google</b> for <i>%(name)s</i>"
+msgstr "Искать <i>%(name)s</i> в <b>Yahoo!</b>"
+
+msgid "Search <b>Yahoo!</b> for <i>%(name)s</i>"
+msgstr "Искать в <b>Yahoo!</b> <i>%(name)s</i>"
+
+msgid "Search Devhelp for a function name"
+msgstr "Искать в Devhelp по имени функции"
+
+msgid "Search Yahoo! as you type"
+msgstr "Искать в Yahoo! по мере набора запроса"
+
+msgid "Search all of your documents (using Beagle)"
+msgstr "Поиск по всем вашим документам (с помощью Beagle)"
+
+msgid "Search all of your documents (using Beagle), as you type"
+msgstr ""
+"Искать по всем вашим документам при помощи Beagle по мере набора запроса"
+
+msgid "Search for %s using Beagle"
+msgstr "Искать %s, используя Beagle"
+
+msgid "Search for file names like %s"
+msgstr "Искать файлы с именем, похожим на %s"
+
+msgid "Search in Devhelp for %s"
+msgstr "Искать в Devhelp %s"
+
+msgid "Search public source code for function definitions and sample code"
+msgstr "Искать в открытом исходном коде определение функций и примеры кода"
+
+msgid "Search selection when triggering the shortcut"
+msgstr "Искать выделенный текст по комбинации клавиш"
+
+msgid "Search terms through Google Search engine."
+msgstr "Искать при помощи Google"
+
+msgid "Search the web via your browser's search settings"
+msgstr "Искать в вебе, используя настройки вашего браузера"
+
+msgid "Search your Tomboy notes"
+msgstr "Искать в ваших заметках Tomboy"
+
+msgid "Search your del.icio.us bookmarks by tag name"
+msgstr "Искать среди ваших закладок del.icio.us по имени метки"
+
+msgid "Searches"
+msgstr "Поиск"
+
+msgid "Searches any OpenSearch-compliant website"
+msgstr "Поиск на веб-сайтах, совместимых с OpenSearch"
+
+msgid "Selects the user interface to use: one of \"Window\" or \"Button\""
+msgstr "Применяемый пользовательский интерфейс: «Window» или «Button»"
+
+msgid "Send %s via e-mail"
+msgstr "Послать %s по электронной почте"
+
+msgid "Send Email to <b>%(name)s</b> (%(email)s)"
+msgstr "Послать письмо <b>%(name)s</b> (%(email)s)"
+
+msgid "Send mail to your contacts by typing their name or e-mail address"
+msgstr "Посылать письма вашим контактам, набрав их имя или электронный адрес"
+
+msgid "Serbian"
+msgstr "Сербский"
+
+msgid "Shortcut"
+msgstr "Сокращение"
+
+msgid "Shortcuts for Bookmarked Searches"
+msgstr "Сокращения для поиска"
+
+msgid "Show all available search engines"
+msgstr "Показывать все доступные поисковые системы"
+
+msgid "Show only the primary search engine"
+msgstr "Показывать только основную поисковую систему"
+
+msgid "Show previously used actions"
+msgstr "Показывать вводившиеся раньше запросы"
+
+msgid "Show search entry"
+msgstr "Показать строку поиска"
+
+msgid "Shut Down"
+msgstr "Выключить"
+
+msgid "Shut down this system now?"
+msgstr "Выключить компьютер?"
+
+msgid "Shutdown"
+msgstr "Выключить"
+
+msgid "Shutdown the machine"
+msgstr "Выключить компьютер"
+
+msgid "Slovak"
+msgstr "Словацкий"
+
+msgid "Slovenian"
+msgstr "Словенский"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Stick to panel"
+msgstr "Прикрепить к панели"
+
+msgid "Suspend"
+msgstr "В ждущий режим"
+
+msgid "Suspend the machine"
+msgstr "Перевести компьютер в ждущий режим"
+
+msgid "Suspend this system now?"
+msgstr "Перевести компьютер в ждущий режим?"
+
+msgid "Swedish"
+msgstr "Шведский"
+
+msgid "Switch User"
+msgstr "Сменить пользователя"
+
+msgid "Switch to <b>%(name)s</b>"
+msgstr "Переключиться на <b>%(name)s</b>"
+
+msgid "Switch to an existing window by name."
+msgstr "Переключиться на существующее окно по его имени."
+
+msgid "Templates"
+msgstr "Шаблоны"
+
+msgid "Templates directory %s does not exist"
+msgstr "Каталог с шаблонами %s не существует"
+
+msgid "Thai"
+msgstr "Тайский"
+
+msgid "The applet's entry width in number of characters"
+msgstr "Ширина строки ввода в символах"
+
+msgid "The default height of the window in pixels"
+msgstr "Высота окна в пикселах по умолчанию"
+
+msgid "The default position of the window on the screen (X coordinate)"
+msgstr "Положение окна на экране по умолчанию (по оси X)"
+
+msgid "The default position of the window on the screen (Y coordinate)"
+msgstr "Положение окна на экране по умолчанию (по оси Y)"
+
+msgid "The default width of the window in pixels"
+msgstr "Ширина окна в пикселах по умолчанию"
+
+msgid "The extension will be downloaded and installed."
+msgstr "Модуль будет загружен и установлен."
+
+msgid ""
+"The file already exists in \"%s\".  Replacing it will overwrite its contents."
+msgstr ""
+"Файл уже существует в «%s». Если его заменить, то его содержимое будет "
+"перезаписано."
+
+msgid "The key sequence will focus Deskbar-Applet, allowing to type quickly"
+msgstr ""
+"Последовательность нажатых клавиш, вызывающая окно ввода Deskbar для поиска."
+
+msgid ""
+"The list of categories to be collapsed when displayed. Valid categories are: "
+"default, history, documents, emails, conversations, files, people, places, "
+"actions, web, websearch, news and notes."
+msgstr ""
+"Список категорий, сворачиваемых при показе. Допустимыми являются следующие "
+"категории: default, history, documents, emails, conversations, files, "
+"people, places, actions, web, websearch, news и notes."
+
+msgid ""
+"The list of exported class names of the enabled handlers sorted by priority. "
+"The leftmost has the highest priority."
+msgstr ""
+"Список имён экспортированных классов включённых обработчиков, упорядоченных "
+"по приоритету. Чем левее расположен класс, тем выше его приоритет."
+
+msgid "The maximum number of items stored in history"
+msgstr "Максимальное число записей, хранимых в истории"
+
+msgid ""
+"The minimum number of characters that need to be typed before the applet "
+"starts showing matches"
+msgstr ""
+"Минимальное число символов, которое нужно ввести, чтобы начали появляться "
+"результаты поиска."
+
+msgid ""
+"The shortcut \"%s\" cannot be used because it will prevent correct operation "
+"of your keyboard.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Нельзя использовать комбинацию клавиш «%s», потому что набирать с ней будет "
+"невозможно.\n"
+"Попробуйте добавить клавишу вроде Control, Alt или Shift.\n"
+
+msgid ""
+"The time in milliseconds between a keystroke in the search entry and the "
+"actual search being performed"
+msgstr ""
+"Время в миллисекундах между нажатием клавиши в строке поиска и запуском "
+"поиска."
+
+msgid "This handler requires a more recent gtk version (2.9.0 or newer)."
+msgstr "Этому обработчику нужна более новая версия GTK+ (2.9.0 или выше)."
+
+msgid "This system will be automatically hibernated in %s second."
+msgid_plural "This system will be automatically hibernated in %s seconds."
+msgstr[0] ""
+"Компьютер будет автоматически переведён в спящий режим через %s секунду."
+msgstr[1] ""
+"Компьютер будет автоматически переведён в спящий режим через %s секунды."
+msgstr[2] ""
+"Компьютер будет автоматически переведён в спящий режим через %s секунд."
+
+msgid "This system will be automatically restarted in %s second."
+msgid_plural "This system will be automatically restarted in %s seconds."
+msgstr[0] "Компьютер будет автоматически перезагружен через %s секунду."
+msgstr[1] "Компьютер будет автоматически перезагружен через %s секунды."
+msgstr[2] "Компьютер будет автоматически перезагружен через %s секунд."
+
+msgid "This system will be automatically shut down in %s second."
+msgid_plural "This system will be automatically shut down in %s seconds."
+msgstr[0] "Компьютер будет автоматически выключен через %s секунду."
+msgstr[1] "Компьютер будет автоматически выключен через %s секунды."
+msgstr[2] "Компьютер будет автоматически выключен через %s секунд."
+
+msgid "This system will be automatically suspended in %s second."
+msgid_plural "This system will be automatically suspended in %s seconds."
+msgstr[0] ""
+"Компьютер будет автоматически переведён в ждущий режим через %s секунду."
+msgstr[1] ""
+"Компьютер будет автоматически переведён в ждущий режим через %s секунды."
+msgstr[2] ""
+"Компьютер будет автоматически переведён в ждущий режим через %s секунд."
+
+msgid "This value only takes effect when \"ui_name\" is set to \"Button\""
+msgstr ""
+"Используется только в случае, если \"ui_name\" имеет значение \"Button\""
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Tomboy Notes"
+msgstr "Заметки Tomboy"
+
+msgid "Tomboy does not seem to be installed."
+msgstr "Похоже, Tomboy не установлен."
+
+msgid ""
+"Tomboy does not seem to be the correct version.\n"
+"Tomboy %s or greater must be installed."
+msgstr ""
+"Похоже, версия Tomboy несовместима.\n"
+"Должен быть установлен Tomboy версии %s или новее."
+
+msgid "Turkish"
+msgstr "Турецкий"
+
+msgid "Turn off the computer"
+msgstr "Выключить компьютер"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "URL of %s"
+msgstr "URL %s"
+
+msgid "Ukrainian"
+msgstr "Украинский"
+
+msgid "Unable to load description document"
+msgstr "Не удалось загрузить документ с описанием"
+
+msgid "Uncategorized"
+msgstr "Не категоризовано"
+
+msgid "Update Available"
+msgstr "Доступно обновление"
+
+msgid ""
+"Update your %s account with the message:\n"
+"\n"
+"\t<i>%s</i>"
+msgstr ""
+"Обновить ваш журнал %s сообщением:\n"
+"\n"
+"\t<i>%s</i>"
+
+msgid "User name:"
+msgstr "Имя пользователя:"
+
+msgid "Username: "
+msgstr "Имя пользователя:"
+
+msgid "Version:"
+msgstr "Версия:"
+
+msgid "Video"
+msgstr "Видеофайлы"
+
+msgid "View <i>%(name)s</i> at <b>Google Code Search</b>"
+msgstr "Просмотреть <b>%(name)s</b> в <b>Google Code Search</b>"
+
+msgid "View your files, folders, bookmarks, drives, network places by name"
+msgstr "Открывать ваши файлы, папки, закладки, диски, сетевые ресурсы по имени"
+
+msgid "Visit identi.ca website"
+msgstr "Посетить сайт identi.ca"
+
+msgid "Web"
+msgstr "Веб"
+
+msgid "Web Bookmarks (Epiphany)"
+msgstr "Закладки веб-браузера (Epiphany)"
+
+msgid "Web Bookmarks (Mozilla)"
+msgstr "Закладки веб-браузера (Mozilla)"
+
+msgid "Web History (Epiphany)"
+msgstr "История просмотра веба (Epiphany)"
+
+msgid "Web History (Mozilla)"
+msgstr "История просмотра веба (Mozilla)"
+
+msgid "Web Search"
+msgstr "Поиск в вебе"
+
+msgid "Web Searches (Epiphany)"
+msgstr "Поиск в вебе (Epiphany)"
+
+msgid "Web Searches (Mozilla)"
+msgstr "Поиск в вебе (Mozilla)"
+
+msgid "Website: <b>%(name)s</b>"
+msgstr "Веб-сайт: <b>%(name)s</b>"
+
+msgid "Whether to close the window after an action has been activated"
+msgstr "Закрывать ли окно после запуска действия"
+
+msgid ""
+"Whether to show only the preferred search engine, rather than all available "
+"engines. This only affects Mozilla-based web browsers such as Firefox."
+msgstr ""
+"Показывать ли результаты от предпочитаемого поискового механизма вместо "
+"результатов поиска всеми механизмами. Относится только к браузерам на основе "
+"Mozilla вроде Firefox."
+
+msgid "Whether triggering Deskbar-Applet pastes the current selection"
+msgstr "Вставлять ли выделение при активации Deskbar"
+
+msgid "Wikipedia Suggest"
+msgstr "Автоподбор статей Wikipedia"
+
+msgid "Wikipedia Suggest settings"
+msgstr "Параметры автоподбора статей Wikipedia"
+
+msgid "Window Switcher"
+msgstr "Переключатель окон"
+
+msgid "Window height"
+msgstr "Высота окна"
+
+msgid "Window width"
+msgstr "Ширина окна"
+
+msgid "Windows"
+msgstr "Окна"
+
+msgid "With %s"
+msgstr "С %s"
+
+msgid "X-coordinate of window"
+msgstr "X-координата окна"
+
+msgid "Y-coordinate of window"
+msgstr "Y-координата окна"
+
+msgid "Yahoo! Search"
+msgstr "Поиск в Yahoo!"
+
+msgid "Yahoo! Suggestions"
+msgstr "Автоподсказка запросов на Yahoo!"
+
+msgid "You can configure in which language the results should be."
+msgstr "Вы можете указать, на каком языке должны быть результаты поиска."
+
+msgid "You can configure the search engines you want to use."
+msgstr "Вы можете настроить поисковые системы, которые хотите использовать."
+
+msgid "You can customize which search engines are offered."
+msgstr "Вы можете настроить список предлагаемых поисковых систем."
+
+msgid "You can manage the list of websites used by the OpenSearch module here."
+msgstr ""
+"Отсюда можно управлять списком веб-сайтов, используемым модулем OpenSearch."
+
+msgid "You can modify your del.icio.us account."
+msgstr "Вы можете изменить вашу учётную запись на del.icio.us."
+
+msgid "You can set shortcuts for your searches."
+msgstr "Вы можете указать сокращения для поиска"
+
+msgid "You need to configure your del.icio.us account."
+msgstr "Вам нужно настроить учётную запись на del.icio.us."
+
+msgid "You will be automatically logged out in %s second."
+msgid_plural "You will be automatically logged out in %s seconds."
+msgstr[0] "Сеанс будет автоматически завершён через %s секунду."
+msgstr[1] "Сеанс будет автоматически завершён через %s секунды."
+msgstr[2] "Сеанс будет автоматически завершён через %s секунд."
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Check For Updates"
+msgstr "Про_верить наличие обновлений"
+
+msgid "_Check for new extensions"
+msgstr "Пров_ерить наличие новых расширений"
+
+msgid "_Clear History"
+msgstr "О_чистить историю"
+
+msgid "_Description:"
+msgstr "_Описание:"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Install"
+msgstr "_Установить"
+
+msgid "_Keyboard shortcut to focus:"
+msgstr "_Комбинация клавиш:"
+
+msgid "_Location (URL):"
+msgstr "_Адрес (URL):"
+
+msgid "_More…"
+msgstr "Подро_бнее..."
+
+msgid "_Name:"
+msgstr "_Название:"
+
+msgid "_Preferences"
+msgstr "_Параметры"
+
+msgid "_Reload"
+msgstr "_Перезагрузить"
+
+msgid "_Update"
+msgstr "О_бновить"
+
+msgid "characters"
+msgstr "символов"
+
+msgid "del.icio.us Account"
+msgstr "Учётная запись del.icio.us"
+
+msgid "del.icio.us Bookmarks"
+msgstr "Закладки del.icio.us"
+
+msgid "identi.ca"
+msgstr "identi.ca"
+
+msgid "translator-credits"
+msgstr ""
+"Александр Прокудин <alexandre.prokoudine@gmail.com>\n"
+"Василий Фаронов <qvvx@yandex.ru>"

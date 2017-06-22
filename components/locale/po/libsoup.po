@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libsoup master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=libsoup&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2015-03-30 10:26+0000\n"
+"PO-Revision-Date: 2015-03-31 00:58+0300\n"
+"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
+"Language-Team: Русский <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+msgid "Can't create a TLS server without a TLS certificate"
+msgstr "Невозможно создать TLS-сервер  без TLS-сертификата"
+
+msgid "Can't import non-socket as SoupSocket"
+msgstr ""
+"Невозможно импортировать объект, отличный от сокета, в качестве SoupSocket"
+
+msgid "Can't import unconnected socket"
+msgstr "Невозможно импортировать неподключенный сокет"
+
+msgid "Cannot truncate SoupBodyInputStream"
+msgstr "Не удалось отсечь SoupBodyInputStream"
+
+msgid "Connection terminated unexpectedly"
+msgstr "Соединение было неожиданно разорвано"
+
+msgid "Could not import existing socket: "
+msgstr "Не удалось импортировать существующий сокет: "
+
+msgid "Could not listen on address %s, port %d: "
+msgstr "Не удалось начать прослушивание по адресу %s (порт — %d): "
+
+msgid "Could not parse HTTP request"
+msgstr "Не удалось разобрать HTTP-запрос"
+
+msgid "Could not parse HTTP response"
+msgstr "Не удалось разобрать HTTP-ответ"
+
+msgid "Could not parse URI '%s'"
+msgstr "Не удалось разобрать URI «%s»"
+
+msgid "Failed to completely cache the resource"
+msgstr "Не удалось полностью закэшировать ресурс"
+
+msgid "Hostname has no base domain"
+msgstr "Имя компьютера не содержит доменной части"
+
+msgid "Hostname is an IP address"
+msgstr "Имя компьютера является IP-адресом"
+
+msgid "Incorrect WebSocket \"%s\" header"
+msgstr "Неправильный заголовок WebSocket «%s»"
+
+msgid "Invalid '%s' URI: %s"
+msgstr "Недопустимый URI «%s»: %s"
+
+msgid "Invalid WebSocket key"
+msgstr "Неверный ключ WebSocket"
+
+msgid "Invalid hostname"
+msgstr "Неверное имя компьютера"
+
+msgid "Invalid seek request"
+msgstr "Неверный запрос поиска"
+
+msgid "Network stream unexpectedly closed"
+msgstr "Сетевой поток неожиданно закрылся"
+
+msgid "No URI provided"
+msgstr "Не указан URI"
+
+msgid "Not an HTTP URI"
+msgstr "Формат URI отличается от HTTP"
+
+msgid "Not enough domains"
+msgstr "Недостаточно доменных имён в адресе"
+
+msgid "Operation was cancelled"
+msgstr "Действие отменено"
+
+msgid "Operation would block"
+msgstr "Действие заблокировано"
+
+msgid "Output buffer is too small"
+msgstr "Слишком маленький буфер вывода"
+
+msgid "Server ignored WebSocket handshake"
+msgstr "Сервер проигнорировал подтверждение связи WebSocket"
+
+msgid "Server rejected WebSocket handshake"
+msgstr "Сервер отклонил подтверждение связи WebSocket"
+
+msgid "Server requested unsupported extension"
+msgstr "Сервер запросил неподдерживаемое расширение"
+
+msgid "Server requested unsupported protocol"
+msgstr "Сервер запросил неподдерживаемый протокол"
+
+msgid "Server returned incorrect \"%s\" key"
+msgstr "Сервер вернул неправильный ключ «%s»"
+
+msgid "The server did not accept the WebSocket handshake."
+msgstr "Сервер не принимает подтверждение связи WebSocket."
+
+msgid "Unrecognized HTTP response encoding"
+msgstr "Нераспознанная кодировка HTTP-ответа"
+
+msgid "Unsupported URI scheme '%s'"
+msgstr "Неподдерживаемая схема URI «%s»"
+
+msgid "Unsupported WebSocket subprotocol"
+msgstr "Неподдерживаемый подпротокол WebSocket"
+
+msgid "Unsupported WebSocket version"
+msgstr "Неподдерживаемая версия WebSocket"
+
+msgid "WebSocket handshake expected"
+msgstr "Ожидается подтверждение связи WebSocket"

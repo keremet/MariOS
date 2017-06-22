@@ -1,0 +1,4046 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rhythmbox trunk\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=rhythmbox&component=general\n"
+"POT-Creation-Date: 2011-01-08 08:09+0000\n"
+"PO-Revision-Date: 2011-01-13 19:44+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid ""
+"     * A legal framework protecting the artists (thanks to the Creative "
+"Commons licenses)."
+msgstr ""
+"     * правовую базу защиты исполнителей (благодаря лицензии Creative "
+"Commons);"
+
+msgid ""
+"     * An adaptive music recommendation system based on iRATE to help "
+"listeners discover new artists based on their tastes\n"
+"       and on other criteria such as their location."
+msgstr ""
+"     * систему музыкальных рекомендаций, которая основывается на iRATE и "
+"помогает слушателям найти новых исполнителей\n"
+"согласно музыкальным предпочтениям пользователя и другим критериям, включая "
+"языковые."
+
+msgid "     * Founder/owner runs it -- support a small business"
+msgstr "    * основатель и владелец Magnatune поддерживает малый бизнес;"
+
+msgid "     * Free, simple and quick access to the music, for everyone."
+msgstr "     * свободный, простой и быстрый доступ к музыке;"
+
+msgid "     * The possibility of making direct donations to the artists."
+msgstr "     * возможность сделать пожертвование напрямую исполнителю;"
+
+msgid "     * The use of the latest Peer-to-Peer technologies"
+msgstr "     * использование новейших технологий пиринговых сетей;"
+
+msgid ""
+"    * 50% of payment goes to artist (makes buyer feel good: they're helping "
+"the world)"
+msgstr "    * исполнитель получает 50% от оплаты, совершённой покупателем;"
+
+msgid "    * All albums and artists hand-picked"
+msgstr "    * все альбомы и исполнители тщательно отбираются вручную;"
+
+msgid ""
+"    * Downloads and CDs are both available (no other site on the internet "
+"sells both)"
+msgstr ""
+"    * имеется возможность загрузки музыки и покупки компакт-дисков (ни один "
+"другой сайт не предоставляет эти две услуги одновременно);"
+
+msgid ""
+"    * Extensive biographical info about each musician, and artist photo -- "
+"feel a strong connection to the artist"
+msgstr ""
+"    * подробные биографические сведения о каждом музыканте и фотографии "
+"исполнителей предоставляют более полноценное восприятие творчества;"
+
+msgid "    * Free listening of all songs"
+msgstr "    * бесплатное прослушивание любых композиций;"
+
+msgid ""
+"    * Full color, high quality cover art PDF available for most albums - "
+"easy to print"
+msgstr ""
+"    * высококачественные цветные обложки альбомов в формате PDF, которые "
+"легко распечатать;"
+
+msgid ""
+"    * Low pressure environment - nothing flashing, no audio ads while "
+"listening to albums"
+msgstr ""
+"    * никаких аудио-вставок с рекламой и прочих раздражающих вещей во время "
+"прослушивания альбомов;"
+
+msgid ""
+"    * Music selection is unique to Magnatune, unlike most on-line stores "
+"that have more-or-less the same (gigantic) selection\n"
+msgstr ""
+"    * уникальный музыкальный ассортимент, в отличие от большинства онлайн-"
+"магазинов с их более-менее одинаковым (гигантским) выбором.\n"
+
+msgid ""
+"    * No copy protection on the music (DRM) which allows playing music on "
+"any device (unlike iTunes/MSN/etc)"
+msgstr ""
+"    * отсутствие защиты от копирования музыки (DRM), которое позволяет "
+"прослушивать музыку на любом устройстве (в отличие от iTunes/MSN/и т. п.);"
+
+msgid "    * No need to \"register\" to listen or buy"
+msgstr ""
+"    * нет необходимости в «регистрации» для прослушивания или совершения "
+"покупок;"
+
+msgid ""
+"    * Not part of the \"evil\" major label machine - for those that hate the "
+"music biz and want to help topple it"
+msgstr ""
+"    * Magnatune не является частью огромной лейбл-машины — для тех, кто "
+"ненавидит музыкальный бизнес и хочет помочь в его свержении;"
+
+msgid "    * Not venture-capital backed big business"
+msgstr "    * не венчурный капитал при поддержке большого бизнеса;"
+
+msgid ""
+"    * Our genres are hard to find in record stores and not on radio (though "
+"do appear on college radio)"
+msgstr ""
+"    * предлагаемые музыкальные направления трудно найти в музыкальных "
+"магазинах или услышать по радио;"
+
+msgid ""
+"    * Perfect quality downloads (CD copy) are available when you download "
+"(not inferior quality sound)"
+msgstr "    * отличное качество звука (копии компакт-дисков);"
+
+msgid ""
+"    * Radio stations and \"genre mix\" playlists allow background listening "
+"- can do work while listening to our music"
+msgstr "    * фоновое прослушивание радиостанций и списков воспроизведения;"
+
+msgid "    * Smaller selection means easier to find good music"
+msgstr "    * ограниченный выбор позволяет проще отыскать хорошую музыку;"
+
+msgid ""
+"    * Variable pricing scheme means you can pay as little as $5 for an album "
+"if you choose"
+msgstr "    * различные схемы оплаты позволяют вам платить от $5 за альбом;"
+
+msgid "    * Very simple user interface, quick to play music"
+msgstr "    * простой интерфейс, позволяющий быстро прослушать композицию;"
+
+msgid "    * Wide variety of genres, can fit any mood"
+msgstr "    * широкое разнообразие жанров, подходящих под любое настроение;"
+
+msgid "$10 US (better than average)"
+msgstr "$10 США (лучше, чем в среднем)"
+
+msgid "$11 US"
+msgstr "$11 США"
+
+msgid "$12 US (generous)"
+msgstr "12$ США (щедро)"
+
+msgid "$13 US"
+msgstr "13$ США"
+
+msgid "$14 US"
+msgstr "14$ США"
+
+msgid "$15 US (VERY generous!)"
+msgstr "15$ США (ОЧЕНЬ щедро!)"
+
+msgid "$16 US"
+msgstr "16$ США"
+
+msgid "$17 US"
+msgstr "17$ США"
+
+msgid "$18 US (We love you!)"
+msgstr "18$ США (Мы любим вас!)"
+
+msgid "$5 US"
+msgstr "5$ США"
+
+msgid "$6 US"
+msgstr "6$ США"
+
+msgid "$7 US"
+msgstr "7$ США"
+
+msgid "$8 US (typical)"
+msgstr "8$ США (обычно)"
+
+msgid "$9 US"
+msgstr "9$ США"
+
+msgid "%a %I:%M %p"
+msgstr "%a %I:%M %p"
+
+msgid "%b %d %I:%M %p"
+msgstr "%b %d %I:%M %p"
+
+msgid "%b %d %Y"
+msgstr "%b %d %Y"
+
+msgid "%d (%d)"
+msgid_plural "All %d (%d)"
+msgstr[0] "Всего %d (%d)"
+msgstr[1] "Всего %d (%d)"
+msgstr[2] "Всего %d (%d)"
+
+msgid "%d Star"
+msgid_plural "%d Stars"
+msgstr[0] "%d звезда"
+msgstr[1] "%d звезды"
+msgstr[2] "%d звёзд"
+
+msgid "%d album (%d)"
+msgid_plural "All %d albums (%d)"
+msgstr[0] "Всего %d альбом (%d)"
+msgstr[1] "Всего %d альбома (%d)"
+msgstr[2] "Всего %d альбомов (%d)"
+
+msgid "%d artist (%d)"
+msgid_plural "All %d artists (%d)"
+msgstr[0] "Всего %d исполнитель (%d)"
+msgstr[1] "Всего %d исполнителя (%d)"
+msgstr[2] "Всего %d исполнителей (%d)"
+
+msgid "%d episode"
+msgid_plural "%d episodes"
+msgstr[0] "%d эпизод"
+msgstr[1] "%d эпизода"
+msgstr[2] "%d эпизодов"
+
+msgid "%d feed"
+msgid_plural "All %d feeds"
+msgstr[0] "Всего %d лента"
+msgstr[1] "Всего %d ленты"
+msgstr[2] "Всего %d лент"
+
+msgid "%d genre (%d)"
+msgid_plural "All %d genres (%d)"
+msgstr[0] "Всего %d жанр (%d)"
+msgstr[1] "Всего %d жанра (%d)"
+msgstr[2] "Всего %d жанров (%d)"
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] "%d час"
+msgstr[1] "%d часа"
+msgstr[2] "%d часов"
+
+msgid "%d import errors"
+msgid_plural "%d import errors"
+msgstr[0] "%d ошибка внесения в фонотеку"
+msgstr[1] "%d ошибки внесения в фонотеку"
+msgstr[2] "%d ошибок внесения в фонотеку"
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d минута"
+msgstr[1] "%d минуты"
+msgstr[2] "%d минут"
+
+msgid "%d missing file"
+msgid_plural "%d missing files"
+msgstr[0] "%d отсутствующий файл"
+msgstr[1] "%d отсутствующих файла"
+msgstr[2] "%d отсутствующих файлов"
+
+msgid ""
+"%d of the %d files to be transferred are not in a format supported by the "
+"target device, and no encoders are available for the supported formats."
+msgstr ""
+"Формат %d из %d файлов, предназначенных для передачи, не поддерживается "
+"целевым устройством, отсутствуют декодеры для поддерживаемых форматов."
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d секунда"
+msgstr[1] "%d секунды"
+msgstr[2] "%d секунд"
+
+msgid "%d song"
+msgid_plural "%d songs"
+msgstr[0] "%d композиция"
+msgstr[1] "%d композиции"
+msgstr[2] "%d композиций"
+
+msgid "%d station"
+msgid_plural "%d stations"
+msgstr[0] "%d станция"
+msgstr[1] "%d станции"
+msgstr[2] "%d станций"
+
+msgid "%d:%02d"
+msgstr "%d:%02d"
+
+msgid "%d:%02d of %d:%02d"
+msgstr "%d:%02d из %d:%02d"
+
+msgid "%d:%02d of %d:%02d remaining"
+msgstr "Осталось %d:%02d из %d:%02d"
+
+msgid "%d:%02d:%02d"
+msgstr "%d:%02d:%02d"
+
+msgid "%d:%02d:%02d of %d:%02d:%02d"
+msgstr "%d:%02d:%02d из %d:%02d:%02d"
+
+msgid "%d:%02d:%02d of %d:%02d:%02d remaining"
+msgstr "Осталось %d:%02d:%02d из %d:%02d:%02d"
+
+msgid "%ld day"
+msgid_plural "%ld days"
+msgstr[0] "%ld день"
+msgstr[1] "%ld дня"
+msgstr[2] "%ld дней"
+
+msgid "%ld hour"
+msgid_plural "%ld hours"
+msgstr[0] "%ld час"
+msgstr[1] "%ld часа"
+msgstr[2] "%ld часов"
+
+msgid "%ld minute"
+msgid_plural "%ld minutes"
+msgstr[0] "%ld минута"
+msgstr[1] "%ld минуты"
+msgstr[2] "%ld минут"
+
+msgid "%lu kbps"
+msgstr "%lu Кбит/с"
+
+msgid "%s"
+msgstr "%s"
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"%s\n"
+"Чтобы увидеть полный список доступных параметров, запустите «%s --help».\n"
+
+msgid "%s %s"
+msgstr "%s %s"
+
+msgid "%s %s %s"
+msgstr "%s %s %s"
+
+msgid "%s (%d tracks)"
+msgstr "%s (дорожек: %d)"
+
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+msgid "%s (Paused)"
+msgstr "%s (Приостановлено)"
+
+msgid "%s Fan Radio"
+msgstr "Фан-радио %s"
+
+msgid "%s Group Radio"
+msgstr "Радио группы %s"
+
+msgid "%s Properties"
+msgstr "Свойства %s"
+
+msgid "%s Radio"
+msgstr "Радио %s"
+
+msgid "%s Sync Settings"
+msgstr "Параметры синхронизации %s"
+
+msgid "%s Tag Radio"
+msgstr "Радио по меткам %s"
+
+msgid "%s and %s"
+msgstr "%s и %s"
+
+msgid "%s no longer supports this type of station"
+msgstr "%s больше не поддерживает этот тип станции"
+
+msgid "%s plays"
+msgstr "%s воспроизводит"
+
+msgid "%s's Library"
+msgstr "Фонотека %s"
+
+msgid "%s's Loved Tracks"
+msgstr "Любимые песни %s"
+
+msgid "%s's Mix Radio"
+msgstr "Микс-радио %s"
+
+msgid "%s's Music"
+msgstr "Музыка %s"
+
+msgid "%s's Neighbourhood"
+msgstr "Соседское радио %s"
+
+msgid "%s's Recommended Radio"
+msgstr "Рекомендованное радио %s"
+
+msgid "%s, %s and %s"
+msgstr "%s, %s и %s"
+
+msgid "%s. Would you like to add the podcast feed anyway?"
+msgstr "%s. Всё равно добавить ленту подкастов?"
+
+msgid "(Paused) %s"
+msgstr "(Приостановлено) %s"
+
+msgid "-15.0 dB"
+msgstr "-15.0 дБ"
+
+msgid "0 seconds"
+msgstr "0 секунд"
+
+msgid "0.0 dB"
+msgstr "0.0 дБ"
+
+msgid "000 kbps"
+msgstr "000 Кбит/с"
+
+msgid "128K MP3"
+msgstr "128K MP3"
+
+msgid "15.0 dB"
+msgstr "15.0 дБ"
+
+msgid "<Invalid unicode>"
+msgstr "<Неверная кодировка>"
+
+msgid "<b>Add Remote</b>"
+msgstr "<b>Добавить удалённый источник</b>"
+
+msgid "<b>Download Manager</b>"
+msgstr "<b>Менеджер загрузок</b>"
+
+msgid "<b>Download</b>"
+msgstr "<b>Загрузка</b>"
+
+msgid "<b>Information</b>"
+msgstr "<b>Информация</b>"
+
+msgid "<b>Jamendo</b>"
+msgstr "<b>Jamendo</b>"
+
+msgid "<b>Lyrics Folder</b>"
+msgstr "<b>Папка с текстами песен</b>"
+
+msgid "<b>Magnatune online music store</b>"
+msgstr "<b>Музыкальный онлайн-магазин Magnatune</b>"
+
+msgid "<b>Playlist format</b>"
+msgstr "<b>Формат списка воспроизведения</b>"
+
+msgid "<b>Search engines</b>"
+msgstr "<b>Поисковые машины</b>"
+
+msgid "<b>Sharing</b>"
+msgstr "<b>Распространение</b>"
+
+msgid "<b>Sync Preferences</b>"
+msgstr "<b>Синхронизировать параметры</b>"
+
+msgid "<b>Sync Preview</b>"
+msgstr "<b>Синхронизировать предпросмотр</b>"
+
+msgid "<b>System</b>"
+msgstr "<b>Система</b>"
+
+msgid "<b>Volume usage</b>"
+msgstr "<b>Использование тома</b>"
+
+msgid "<span foreground=\"red\">Could not pair with this Remote.</span>"
+msgstr ""
+"<span foreground=\"red\">Не удалось создать сопряжение с этим удалённым "
+"источником.</span>"
+
+msgid ""
+"<span size=\"x-large\" weight=\"bold\">Do you want to initialize your iPod?</"
+"span>"
+msgstr ""
+"<span size=\"x-large\" weight=\"bold\">Хотите проинициализировать iPod?</"
+"span>"
+
+msgid "A sample plugin in C with no features"
+msgstr "Простой модуль на C без функционала"
+
+msgid "A sample plugin in Python with no features"
+msgstr "Простой модуль на Python без функционала"
+
+msgid "A sample plugin in Vala with no features"
+msgstr "Простой модуль на Vala без функционала"
+
+msgid "A_dd if any criteria are matched"
+msgstr "_Добавлять при выполнении любого из условий"
+
+msgid "A_lbum"
+msgstr "А_льбом"
+
+msgid "A_lbum:"
+msgstr "А_льбом:"
+
+msgid "About %s left"
+msgstr "Осталось примерно %s"
+
+msgid "Activate the source matching the specified URI"
+msgstr "Включить источник, совпадающий с указанным URI"
+
+msgid "Add _to Play Queue"
+msgstr "_Добавить в очередь воспроизведения"
+
+msgid "Add all tracks in this playlist to the queue"
+msgstr "Добавить все дорожки из этого списка воспроизведения в очередь"
+
+msgid "Add each selected song to a new playlist"
+msgstr "Добавить каждую выбранную композицию в новый список воспроизведения"
+
+msgid "Add each selected song to the play queue"
+msgstr "Добавить каждую выбранную композицию в очередь воспроизведения"
+
+msgid "Add new playlist to iPod"
+msgstr "Добавить новый список воспроизведения в iPod"
+
+msgid "Add specified tracks to the play queue"
+msgstr "Добавить выбранные дорожки в очередь воспроизведения"
+
+msgid "Add to P_laylist"
+msgstr "Д_обавить в список воспроизведения"
+
+msgid "Added files:"
+msgstr "Добавленные файлы:"
+
+msgid "Additional GStreamer plugins are required to play some of these files."
+msgstr ""
+"Для воспроизведения этих файлов требуются дополнительные модули GStreamer."
+
+msgid "Additional GStreamer plugins are required to play this file: %s"
+msgstr ""
+"Для воспроизведения этого файла необходимы дополнительные модули GStreamer: "
+"%s"
+
+msgid ""
+"Adds support for playing media from and sending media to DLNA/UPnP network "
+"devices, and enables Rhythmbox to be controlled by a DLNA/UPnP ControlPoint"
+msgstr ""
+"Добавляет поддержку воспроизведения и передачи мультимедийного контента на "
+"сетевые устройства UPnP/DLNA и позволяет управлять Rhythmbox через DLNA/UPnP"
+
+msgid ""
+"Adds support to Rhythmbox for playing and downloading albums from Jamendo"
+msgstr ""
+"Добавляет в Rhythmbox возможность прослушивания и загрузки альбомов через "
+"Jamendo"
+
+msgid ""
+"Adds support to Rhythmbox for playing and purchasing from the Magnatune "
+"online music store"
+msgstr ""
+"Добавляет в Rhythmbox возможность прослушивать и покупать музыку в "
+"музыкальном Интернет-магазине Magnatune"
+
+msgid "Advanced"
+msgstr "Дополнительно"
+
+msgid ""
+"After you press OK, Rhythmbox will wait until you connect to it with winpdb "
+"or rpdb2. If you have not set a debugger password in GConf, it will use the "
+"default password ('rhythmbox')."
+msgstr ""
+"После нажатия кнопки OK Rhythmbox будет ожидать подключения к нему с помощью "
+"winpdb или rpdb2. Если пароль для отладчика в GConf установлен не был, будет "
+"использован пароль по умолчанию («rhythmbox»)."
+
+msgid "Albu_m sort order:"
+msgstr "Порядок упорядочивания _альбомов:"
+
+msgid "Albu_m:"
+msgstr "_Альбом:"
+
+msgid "Album"
+msgstr "Альбом"
+
+msgid "Album (ideal loudness for all tracks)"
+msgstr "Альбом (идеальная громкость всех дорожек)"
+
+msgid "Album a_rtist sort order:"
+msgstr "Порядок упорядочивания _исполнителей альбома:"
+
+msgid "Album a_rtist:"
+msgstr "_Исполнитель альбома:"
+
+msgid "Albums"
+msgstr "Альбомы"
+
+msgid "Alert Buttons"
+msgstr "Кнопки предупреждения"
+
+msgid "Alert Type"
+msgstr "Тип предупреждения"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "All Magnatune downloads have been completed."
+msgstr "Все закачки Magnatune завершены."
+
+msgid "All Music"
+msgstr "Вся музыка"
+
+msgid "Always shown"
+msgstr "Показывать всегда"
+
+msgid "Always visible"
+msgstr "Видимый всегда"
+
+msgid ""
+"An error occurred while trying to authorize the download.\n"
+"The Magnatune server returned:\n"
+"%s"
+msgstr ""
+"Во время авторизации закачки возникла ошибка.\n"
+"Сервер Magnatune вернул следующее сообщение:\n"
+"%s"
+
+msgid ""
+"An error occurred while trying to download the album.\n"
+"The error text is:\n"
+"%s"
+msgstr ""
+"Во время загрузки альбома возникла ошибка.\n"
+"Текст ошибки:\n"
+"%s"
+
+msgid "Application does not accept documents on command line"
+msgstr "Приложение не поддерживает открытие документов через командную строку"
+
+msgid "April (04)"
+msgstr "Апрель (04)"
+
+msgid "Artist"
+msgstr "Исполнитель"
+
+msgid "Artist (Album) - Number - Title"
+msgstr "Исполнитель (Альбом) - Номер - Название"
+
+msgid "Artist - Album"
+msgstr "Исполнитель - Альбом"
+
+msgid "Artist - Number - Title"
+msgstr "Исполнитель - Номер - Название"
+
+msgid "Artist - Title"
+msgstr "Исполнитель - Название"
+
+msgid "Artist Information"
+msgstr "Об исполнителе"
+
+msgid "Artist s_ort order:"
+msgstr "Порядок _упорядочивания исполнителей:"
+
+msgid "Artist/Album"
+msgstr "Исполнитель/Альбом"
+
+msgid "Artist/Artist - Album"
+msgstr "Исполнитель/Исполнитель - Альбом"
+
+msgid "Artist/Artist - Album/Artist (Album) - 01 - Title.ogg"
+msgstr ""
+"Исполнитель/Исполнитель - Альбом/Исполнитель (Альбом) - 01 - Название.ogg"
+
+msgid "Artists"
+msgstr "Исполнители"
+
+msgid "Astraweb (www.astraweb.com)"
+msgstr "Astraweb (www.astraweb.com)"
+
+msgid "Audio CD Player"
+msgstr "Проигрыватель звуковых компакт-дисков"
+
+msgid "Audio CD Recorder"
+msgstr "Запись звуковых компакт-дисков"
+
+msgid "Audio Conversion Error"
+msgstr "Ошибка преобразования аудио-данных"
+
+msgid "Audio formats:"
+msgstr "Звуковые форматы:"
+
+msgid "Audio recording error"
+msgstr "Ошибка при записи звука"
+
+msgid "August (08)"
+msgstr "Август (08)"
+
+msgid "Authentication error"
+msgstr "Ошибка аутентификации"
+
+msgid "Authentication error. Please try logging in again."
+msgstr "Ошибка аутентификации. Попробуйте войти в систему снова."
+
+msgid "Author:"
+msgstr "Автор:"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "BPM"
+msgstr "Удар./мин"
+
+msgid "BPM:"
+msgstr "Удар./мин:"
+
+msgid "Ban"
+msgstr "Заблокировать"
+
+msgid "Ban the current track from being played again"
+msgstr "Запретить проигрывание этой дорожки в будущем"
+
+msgid "Basic"
+msgstr "Основные"
+
+msgid "Bitrate:"
+msgstr "Битовая частота:"
+
+msgid "Browse This A_lbum"
+msgstr "Все композиции из этого _альбома"
+
+msgid "Browse This _Artist"
+msgstr "Все композиции этого _исполнителя"
+
+msgid "Browse This _Genre"
+msgstr "Все композиции этого _жанра"
+
+msgid "Browse..."
+msgstr "Обзор..."
+
+msgid "Browser Views"
+msgstr "Внешний вид браузера"
+
+msgid "Buffering"
+msgstr "Буферизация"
+
+msgid "Burn"
+msgstr "Записать"
+
+msgid "By extension"
+msgstr "Согласно расширению"
+
+msgid "C_omment"
+msgstr "К_омментарий"
+
+msgid "C_onfigure..."
+msgstr "Н_астроить..."
+
+msgid "C_ontinue"
+msgstr "_Продолжить"
+
+msgid "C_reate"
+msgstr "_Создать"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Невозможно передать URI в запись «Type=Link» файла .desktop"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cancel Downloads"
+msgstr "Отменить загрузку"
+
+msgid "Cancel Episode Download"
+msgstr "Отменить загрузку эпизода"
+
+msgid "Cannot access CD"
+msgstr "Не удалось прочитать компакт-диск"
+
+msgid "Cannot access CD: %s"
+msgstr "Не удалось прочитать компакт-диск: %s"
+
+msgid "Cannot find drive"
+msgstr "Не удалось найти устройство"
+
+msgid "Cannot find drive %s"
+msgstr "Не удалось найти устройство %s"
+
+msgid "Cannot get free space at %s: %s"
+msgstr "Не удалось выделить свободное место на %s: %s"
+
+msgid "Cannot read CD: %s"
+msgstr "Не удалось прочитать компакт-диск: %s"
+
+msgid "Change and configure plugins"
+msgstr "Добавить и настроить модули расширения"
+
+msgid "Change song"
+msgstr "Сменить композицию"
+
+msgid "Change the music volume"
+msgstr "Изменить громкость"
+
+msgid "Change the status of the party mode"
+msgstr "Переключить в режим вечеринки"
+
+msgid "Change the visibility of the browser"
+msgstr "Включить/выключить браузер"
+
+msgid "Change the visibility of the context pane"
+msgstr "Изменить видимость боковой панели"
+
+msgid "Change the visibility of the side pane"
+msgstr "Показать/скрыть боковую панель"
+
+msgid "Change the visibility of the song position slider"
+msgstr "Переключить отображение ползунка навигации"
+
+msgid "Change the visibility of the statusbar"
+msgstr "Показать/скрыть строку состояния"
+
+msgid "Change the visibility of the toolbar"
+msgstr "Показать/скрыть панель управления"
+
+msgid "Change this automatic playlist"
+msgstr "Изменить автоматический список воспроизведения"
+
+msgid "Change volume"
+msgstr "Изменить громкость"
+
+msgid "Change whether the queue is visible as a source or a sidebar"
+msgstr "Показать/скрыть очередь воспроизведения в боковой панели"
+
+msgid "Check for _new episodes:"
+msgstr "_Проверять новые эпизоды:"
+
+msgid "Check if Rhythmbox is already running"
+msgstr "Проверить, не запущен ли уже Rhythmbox"
+
+msgid "Checking (%d/%d)"
+msgstr "Проверка (%d/%d)"
+
+msgid "Choose Library Location"
+msgstr "Выбрать расположение фонотеки"
+
+msgid "Choose a playlist to be loaded"
+msgstr "Выбрать список воспроизведения для загрузки"
+
+msgid "Choose file to be added to the Library"
+msgstr "Выбрать файлы для добавления в фонотеку"
+
+msgid "Choose folder to be added to the Library"
+msgstr "Выбрать папку для добавления в фонотеку"
+
+msgid "Choose lyrics folder..."
+msgstr "Выбрать папку с текстами песен..."
+
+msgid "Choose music to play"
+msgstr "Выберите музыку для прослушивания"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear _Queue"
+msgstr "_Очистить очередь"
+
+msgid "Clear the search text"
+msgstr "Очистить строку поиска"
+
+msgid "Clock is not set correctly"
+msgstr "Часы установлены неправильно"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Configure Plugins"
+msgstr "Настройка модулей"
+
+msgid "Connect to _DAAP share..."
+msgstr "Подкл_ючиться к ресурсу DAAP..."
+
+msgid "Connect to a new DAAP share"
+msgstr "Подключиться к новому ресурсу DAAP"
+
+msgid "Connecting"
+msgstr "Соединение"
+
+msgid "Connecting to music share"
+msgstr "Подключение к источнику"
+
+msgid "Connecting..."
+msgstr "Соединение…"
+
+msgid "Connection error. Please try logging in again."
+msgstr "Ошибка подключения. Попробуйте войти в систему снова."
+
+msgid "Contents after sync"
+msgstr "Содержание после синхронизации"
+
+msgid "Context Pane"
+msgstr "Боковая панель"
+
+msgid "Contributors:"
+msgstr "Свой вклад внесли:"
+
+msgid "Control Rhythmbox using an infrared remote control"
+msgstr ""
+"Возможность управлять Rhythmbox с помощью инфракрасного пульта "
+"дистанционного управления"
+
+msgid "Control Rhythmbox using key shortcuts"
+msgstr "Управляйте Rhythmbox с помощью комбинаций клавиш"
+
+msgid "Converting audio tracks"
+msgstr "Преобразование аудио-дорожек"
+
+msgid "Copy CD"
+msgstr "Копировать компакт-диск"
+
+msgid "Copy selection"
+msgstr "Копировать выделенное"
+
+msgid "Copy tracks to the library"
+msgstr "Копировать дорожки в фонотеку"
+
+msgid "Copyright:"
+msgstr "Авторские права:"
+
+msgid "Could not connect to shared music"
+msgstr "Не удалось подключиться к ресурсу"
+
+msgid "Could not create CD lookup thread"
+msgstr "Не удалось создать поток для поиска по компакт-диску"
+
+msgid "Could not create a GStreamer sink element to write to %s"
+msgstr "Не удалось создать элемент-приёмник GStreamer для записи в %s"
+
+msgid "Could not create audio CD"
+msgstr "Не удалось создать звуковой компакт-диск"
+
+msgid "Could not determine audio track durations"
+msgstr "Не удалось определить длительность звуковой дорожки"
+
+msgid "Could not duplicate disc"
+msgstr "Не удалось создать копию компакт-диска"
+
+msgid ""
+"Could not find enough temporary space to convert audio tracks.  %s MB "
+"required."
+msgstr ""
+"Не удалось найти достаточно свободного места для преобразования звуковых "
+"дорожек. Требуется %s МБ."
+
+msgid "Could not find temporary space!"
+msgstr "Нет места для временных файлов"
+
+msgid "Could not find this album on MusicBrainz."
+msgstr "Не удалось найти этот альбом на MusicBrainz."
+
+msgid "Could not get current track position"
+msgstr "Не удалось получить текущее положение дорожки"
+
+msgid "Could not get track time for file: %s"
+msgstr "Не удалось определить продолжительность файла: %s"
+
+msgid "Could not load the music database:"
+msgstr "Не удалось загрузить базу данных музыки:"
+
+msgid "Could not pair with this Remote."
+msgstr "Не удалось выполнить сопряжение с этим удалённым источником."
+
+msgid "Could not pause playback"
+msgstr "Не удалось приостановить воспроизведение"
+
+msgid "Could not remove temporary directory '%s': %s"
+msgstr "Не удалось удалить каталог временных файлов «%s»: %s"
+
+msgid "Could not retrieve state from processing pipeline"
+msgstr "Не удалось получить информацию о состоянии из рабочего конвейера"
+
+msgid "Could not start pipeline playing"
+msgstr "Не удалось начать воспроизведение через конвейер"
+
+msgid "Couldn't access %s: %s"
+msgstr "Не удалось получить доступ к %s: %s"
+
+msgid "Couldn't display help"
+msgstr "Не удалось показать справку"
+
+msgid "Couldn't get account details"
+msgstr "Не удалось получить подробности об учётной записи"
+
+msgid "Couldn't load Audio CD"
+msgstr "Не удалось загрузить звуковой компакт-диск"
+
+msgid "Couldn't purchase album"
+msgstr "Не удалось купить альбом"
+
+msgid "Couldn't read playlist"
+msgstr "Не удалось прочитать список воспроизведения"
+
+msgid "Couldn't save playlist"
+msgstr "Не удалось сохранить список воспроизведения"
+
+msgid "Couldn't start playback"
+msgstr "Не удалось начать воспроизведение"
+
+msgid "Couldn't stop playback"
+msgstr "Не удалось остановить воспроизведение"
+
+msgid "Couldn't store account information"
+msgstr "Не удалось сохранить информацию об учётной записи"
+
+msgid "Cover art"
+msgstr "Обложки альбомов"
+
+msgid "Create Audio CD"
+msgstr "Создать звуковой компакт-диск"
+
+msgid "Create Automatic Playlist"
+msgstr "Создать автоматический список воспроизведения"
+
+msgid "Create Station"
+msgstr "Создать станцию"
+
+msgid "Create a Radio Station"
+msgstr "Создать радиостанцию"
+
+msgid "Create a copy of this audio CD"
+msgstr "Создать копию этого звукового компакт-диска"
+
+msgid "Create a new FM Radio station"
+msgstr "Добавить новую FM-радиостанцию"
+
+msgid "Create a new Internet Radio station"
+msgstr "Добавить новую Интернет-радиостанцию"
+
+msgid "Create a new automatically updating playlist"
+msgstr "Создать автоматически обновляемый список воспроизведения"
+
+msgid "Create a new playlist"
+msgstr "Создать список воспроизведения"
+
+msgid "Create a new playlist on this device"
+msgstr "Создать новый список воспроизведения на этом устройстве"
+
+msgid "Create an audio CD from playlist"
+msgstr "Создать звуковой компакт-диск на основе списка воспроизведения"
+
+msgid "Create audio CD from '%s'?"
+msgstr "Создать звуковой компакт-диск на основе списка воспроизведения «%s»?"
+
+msgid "Create audio CD from playlist?"
+msgstr "Создать звуковой компакт-диск на основе списка воспроизведения?"
+
+msgid "Create automatically updating playlist where:"
+msgstr "Создать автоматически обновляющийся список воспроизведения, где:"
+
+msgid "Crossfade Duration (Seconds)"
+msgstr "Продолжительность затухания (в секундах)"
+
+msgid "Cu_t"
+msgstr "_Вырезать"
+
+msgid "Current contents"
+msgstr "Текущее содержание"
+
+msgid "Current song is not seekable"
+msgstr "Текущую композицию нельзя перемотать"
+
+msgid "Cut selection"
+msgstr "Вырезать выделенное"
+
+msgid "D-BUS communication error"
+msgstr "Ошибка связи по шине D-BUS"
+
+msgid "DAAP Music Sharing"
+msgstr "Доступ DAAP"
+
+msgid "DAAP Music Sharing Preferences"
+msgstr "Настройки доступа DAAP"
+
+msgid "DLNA/UPnP sharing and control support"
+msgstr "Поддержка доступа и управления через UPnP"
+
+msgid "D_eselect All"
+msgstr "С_нять выделение"
+
+msgid "Da_te added"
+msgstr "До_бавлено в фонотеку"
+
+msgid "Dark Lyrics (darklyrics.com)"
+msgstr "Dark Lyrics (darklyrics.com)"
+
+msgid "Database version:"
+msgstr "Версия базы данных:"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Date Added"
+msgstr "Добавлено"
+
+msgid "Date added:"
+msgstr "Добавлено в фонотеку:"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "December (12)"
+msgstr "Декабрь (12)"
+
+msgid "Decrease playback volume"
+msgstr "Уменьшить громкость воспроизведения"
+
+msgid "Decrease the playback volume"
+msgstr "Уменьшить громкость воспроизведения"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Delete Feed"
+msgstr "Удалить ленту"
+
+msgid "Delete Playlist"
+msgstr "Удалить список воспроизведения"
+
+msgid "Delete _Episode Only"
+msgstr "Удалить только _эпизод"
+
+msgid "Delete _Feed Only"
+msgstr "_Удалить только ленту"
+
+msgid "Delete each selected item"
+msgstr "Удалить каждый выбранный элемент"
+
+msgid "Delete playlist"
+msgstr "Удалить список воспроизведения"
+
+msgid "Delete station"
+msgstr "Удалить станцию"
+
+msgid "Delete the podcast episode and downloaded file?"
+msgstr "Удалить эпизод подкаста и загруженный файл?"
+
+msgid "Delete the podcast feed and downloaded files?"
+msgstr "Удалить ленту подкастов и загруженные файлы?"
+
+msgid "Delete this playlist"
+msgstr "Удалить этот список воспроизведения"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Deselect all songs"
+msgstr "Снять выделение со всех композиций"
+
+msgid "Desktop"
+msgstr "на рабочий стол"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid ""
+"Device '%s' could not be opened. Check the access permissions on the device."
+msgstr ""
+"Устройство «%s» не может быть открыто. Проверьте права доступа к этому "
+"устройству."
+
+msgid "Device '%s' does not contain any media"
+msgstr "Устройство «%s» не содержит носителей информации"
+
+msgid "Device _name:"
+msgstr "_Название устройства:"
+
+msgid "Device node:"
+msgstr "Узел устройства:"
+
+msgid "Devices"
+msgstr "Устройства"
+
+msgid "Digital Audio Player"
+msgstr "Цифровой звуковой проигрыватель"
+
+msgid "Disable"
+msgstr "Выключить"
+
+msgid "Disable connection to session manager"
+msgstr "Запретить подключение к диспетчеру сеансов"
+
+msgid "Disabled"
+msgstr "Выключен"
+
+msgid "Disconnect from DAAP share"
+msgstr "Отключиться от источника DAAP"
+
+msgid "Display device properties"
+msgstr "Показать свойства устройства"
+
+msgid "Display iPod properties"
+msgstr "Показать свойства iPod"
+
+msgid "Display lyrics for the playing song"
+msgstr "Показывать текст песни для проигрываемой композиции"
+
+msgid "Display music player help"
+msgstr "Показать справку музыкального проигрывателя"
+
+msgid "Displays visualizations"
+msgstr "Отображает визуализацию"
+
+msgid "Do not register the shell"
+msgstr "Не создавать оболочку для управления"
+
+msgid "Do not update the library with file changes"
+msgstr "Не обновлять фонотеку после изменения её файлов"
+
+msgid "Do you wish to interrupt writing this disc?"
+msgstr "Прервать запись этого диска?"
+
+msgid "Don't present an existing Rhythmbox window"
+msgstr "Не вызывать существующее окно Rhythmbox"
+
+msgid "Don't save any data permanently (implies --no-registration)"
+msgstr "Никогда не сохранять данные (включает --no-registration)"
+
+msgid "Don't start a new instance of Rhythmbox"
+msgstr "Не запускать новый экземпляр Rhythmbox"
+
+msgid "Don't sync"
+msgstr "Не синхронизировать"
+
+msgid "Donate Money to this Artist"
+msgstr "Пожертвовать денег этому исполнителю"
+
+msgid "Download"
+msgstr "Загрузить"
+
+msgid "Download Album"
+msgstr "Загрузить альбом"
+
+msgid "Download Error"
+msgstr "Ошибка загрузки"
+
+msgid "Download Podcast Episode"
+msgstr "Загрузить эпизод подкаста"
+
+msgid "Download _Episode"
+msgstr "_Загрузить эпизод"
+
+msgid "Download location:"
+msgstr "Папка для загрузок:"
+
+msgid "Download the currently playing track"
+msgstr "Загрузить дорожку, воспроизводимую в данный момент"
+
+msgid "Download this album from Magnatune"
+msgstr "Загрузить этот альбом с Magnatune"
+
+msgid "Download this album using BitTorrent"
+msgstr "Загрузить этот альбом, используя BitTorrent"
+
+msgid "Downloaded"
+msgstr "Загружено"
+
+msgid "Downloading Magnatune Album(s)"
+msgstr "Загрузка альбома(ов) Magnatune"
+
+msgid "Downloading podcast"
+msgstr "Загружается подкаст"
+
+msgid "Drive %s is not a recorder"
+msgstr "Устройство %s не может записывать диски"
+
+msgid "Drive is busy"
+msgstr "Привод уже используется"
+
+msgid "Drop artwork here"
+msgstr "Сюда можно перетащить подходящее изображение"
+
+msgid "Duplicate Audio CD..."
+msgstr "Копировать звуковой компакт-диск..."
+
+msgid "Duration:"
+msgstr "Продолжительность:"
+
+msgid "Edit Automatic Playlist"
+msgstr "Изменить автоматический список воспроизведения"
+
+msgid "Edit music player preferences"
+msgstr "Изменить настройки музыкального проигрывателя"
+
+msgid "Eject this medium"
+msgstr "Извлечь носитель"
+
+msgid "Embedded"
+msgstr "встроенный"
+
+msgid "Empty file"
+msgstr "Пустой файл"
+
+msgid "Empty the play queue before adding new tracks"
+msgstr "Очистить очередь воспроизведения перед добавлением новых дорожек"
+
+msgid "Enable debug output"
+msgstr "Включить отладочный вывод"
+
+msgid "Enable debug output matching a specified string"
+msgstr "Включить отладочный вывод по заданной строке"
+
+msgid "Enable remote python debugging with rpdb2"
+msgstr "Включает возможность удалённой отладки с использованием rpdb2"
+
+msgid "Enable visual effects?"
+msgstr "Включить визуальные эффекты?"
+
+msgid "Enabled"
+msgstr "Включён"
+
+msgid "Episode Properties"
+msgstr "Свойства эпизода"
+
+msgid "Episodes"
+msgstr "Эпизоды"
+
+msgid "Erase information on this disc?"
+msgstr "Стереть информацию с этого диска?"
+
+msgid "Erasing CD"
+msgstr "Очистка компакт-диска"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error creating podcast download directory"
+msgstr "Не удалось создать папку для подкастов"
+
+msgid "Error in podcast"
+msgstr "Ошибка в подкасте"
+
+msgid "Error looking up artist %s on jamendo.com"
+msgstr "Ошибка поиска исполнителя %s на jamendo.com"
+
+msgid "Error looking up p2plink for album %s on jamendo.com"
+msgstr "Не удалось найти ссылку для сети P2P на альбом %s на jamendo.com"
+
+msgid "Error message"
+msgstr "Сообщение об ошибке"
+
+msgid "Error transferring track"
+msgstr "Ошибка передачи дорожки"
+
+msgid "Error tuning station: %i - %s"
+msgstr "Ошибка при настройке станции: %i - %s"
+
+msgid "Error tuning station: %s"
+msgstr "Ошибка настройки станции: %s"
+
+msgid "Error tuning station: invalid response"
+msgstr "Ошибка при настройке станции: некорректный ответ"
+
+msgid "Error tuning station: no response"
+msgstr "Ошибка при настройке станции: отсутствует ответ"
+
+msgid "Error tuning station: unexpected response"
+msgstr "Ошибка при настройке станции: неожиданный ответ"
+
+msgid "Error while saving song information"
+msgstr "Ошибка при сохранении информации о композиции"
+
+msgid "Every day"
+msgstr "Каждый день"
+
+msgid "Every hour"
+msgstr "Каждый час"
+
+msgid "Every week"
+msgstr "Каждую неделю"
+
+msgid "Example Path:"
+msgstr "Образец пути:"
+
+msgid "Extra Large"
+msgstr "очень высокое"
+
+msgid "Extract"
+msgstr "Копировать"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "FLAC"
+msgstr "FLAC"
+
+msgid "FM Radio"
+msgstr "FM-Радио"
+
+msgid "F_older hierarchy:"
+msgstr "Ие_рархия папок:"
+
+msgid "Failed"
+msgstr "Не удалась"
+
+msgid "Failed to create %s element; check your installation"
+msgstr ""
+"Не удалось создать элемент %s; проверьте правильность установки программы"
+
+msgid "Failed to create GStreamer element; check your installation"
+msgstr ""
+"Не удалось создать элемент GStreamer; проверьте правильность установки "
+"программы"
+
+msgid "Failed to create GStreamer pipeline to play %s"
+msgstr "Не удалось создать конвейер GStreamer для воспроизведения %s"
+
+msgid "Failed to create a source element; check your installation"
+msgstr ""
+"Не удалось создать исходный элемент; проверьте правильность установки "
+"программы"
+
+msgid "Failed to create audio output element; check your installation"
+msgstr ""
+"Не удалось создать элемент аудио-вывода; проверьте правильность установки "
+"программы"
+
+msgid "Failed to create pipeline"
+msgstr "Не удалось создать конвейер"
+
+msgid "Failed to create playbin2 element; check your GStreamer installation"
+msgstr ""
+"Не удалось создать элемент playbin2; проверьте правильность установки "
+"GStreamer"
+
+msgid "Failed to create the player: %s"
+msgstr "Не удалось создать проигрыватель: %s"
+
+msgid "Failed to create the recorder: %s"
+msgstr "Не удалось создать записыватель: %s"
+
+msgid "Failed to link GStreamer pipeline; check your installation"
+msgstr ""
+"Не удалось соединить конвейер GStreamer; проверьте правильность установки "
+"программы"
+
+msgid "Failed to link new stream into GStreamer pipeline"
+msgstr "Не удалось соединить новый поток с конвейером GStreamer"
+
+msgid "Failed to link new visual effect into the GStreamer pipeline"
+msgstr "Не удалось соединить визуальные эффекты с конвейером GStreamer"
+
+msgid "Failed to open output device"
+msgstr "Не удалось открыть устройство вывода"
+
+msgid "Failed to open output device: %s"
+msgstr "Не удалось открыть устройство вывода: %s"
+
+msgid "Failed to start new stream"
+msgstr "Не удалось начать новый поток"
+
+msgid "February (02)"
+msgstr "Февраль (02)"
+
+msgid "Feed"
+msgstr "Лента"
+
+msgid "Feed:"
+msgstr "Лента:"
+
+msgid "Feeds"
+msgstr "Ленты"
+
+msgid "Fetch album covers from the Internet"
+msgstr "Загрузка обложек альбомов из Интернета"
+
+msgid "Fetch song lyrics from the Internet"
+msgstr "Получение текстов песен из Интернета"
+
+msgid "File corrupted during write"
+msgstr "Во время записи файл был повреждён"
+
+msgid "File is not a valid .desktop file"
+msgstr "Файл не является корректным файлом .desktop"
+
+msgid "File name:"
+msgstr "Имя файла:"
+
+msgid "File size:"
+msgstr "Размер файла:"
+
+msgid "Filter music display by genre, artist, album, or title"
+msgstr ""
+"Показать музыкальные композиции, содержащие указанную строку в записях о "
+"жанре, исполнителе, альбоме или названии композиции"
+
+msgid "Find out about Magnatune at "
+msgstr "Узнать больше о Magnatune по адресу "
+
+msgid "Finished Downloading"
+msgstr "Загрузка завершена"
+
+msgid "Finished creating audio CD."
+msgstr "Запись звукового компакт-диска завершена."
+
+msgid ""
+"Finished creating audio CD.\n"
+"Create another copy?"
+msgstr ""
+"Запись звукового компакт-диска завершена.\n"
+"Создать ещё одну копию?"
+
+msgid "Finished downloading podcast"
+msgstr "Загрузка подкастов завершена"
+
+msgid "Finishing write"
+msgstr "Завершение записи"
+
+msgid "Firmware version:"
+msgstr "Версия прошивки:"
+
+msgid "Forget known Remotes"
+msgstr "Забыть удалённые источники"
+
+msgid "Former Maintainers:"
+msgstr "Бывшие сопровождающие:"
+
+msgid "Frequency of radio station"
+msgstr "Частота вещания радиостанции"
+
+msgid "Fullscreen"
+msgstr "полноэкранный"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "GStreamer error: failed to change state"
+msgstr "Ошибка GStreamer: не удалось сменить состояние"
+
+msgid "G_enres, artists and albums"
+msgstr "Ж_анры, исполнители и альбомы"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Genre"
+msgstr "Жанр"
+
+msgid "Get an account at "
+msgstr "Получите учётную запись на"
+
+msgid "Get information about this artist"
+msgstr "Получить информацию об этом исполнителе"
+
+msgid "Help!"
+msgstr "Help!"
+
+msgid "Hide"
+msgstr "Скрыть"
+
+msgid "Hide all tracks"
+msgstr "Скрыть все дорожки"
+
+msgid "Hide the Rhythmbox window"
+msgstr "Скрыть окно Rhythmbox"
+
+msgid "Hide the music player window"
+msgstr "Спрятать главное окно проигрывателя"
+
+msgid "Host:port of DAAP share:"
+msgstr "Узел:порт ресурса DAAP:"
+
+msgid "I don't have a Magnatune account"
+msgstr "У меня нет учётной записи Magnatune"
+
+msgid "I have a download account"
+msgstr "У меня есть учётная запись для скачивания"
+
+msgid "I have a streaming account"
+msgstr "У меня есть учётная запись для потоков"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IM Status"
+msgstr "Состояние IM"
+
+msgid "Icons only"
+msgstr "Только значки"
+
+msgid ""
+"If you choose to delete the episode and file, they will be permanently "
+"lost.  Please note that you can delete the episode but keep the downloaded "
+"file by choosing to delete the episode only."
+msgstr ""
+"После удаления файл и эпизод будут потеряны навсегда. Заметьте, что можно "
+"удалить эпизод, но оставить загруженный файл, выбрав соответствующий вариант."
+
+msgid ""
+"If you choose to delete the feed and files, they will be permanently lost.  "
+"Please note that you can delete the feed but keep the downloaded files by "
+"choosing to delete the feed only."
+msgstr ""
+"После удаления файлов и ленты они будут потеряны навсегда. Заметьте, что "
+"можно удалить ленту, но оставить загруженные файлы, выбрав соответствующий "
+"вариант."
+
+msgid "Image provided by Last.fm"
+msgstr "Изображение получено с Last.fm"
+
+msgid "Image/label border"
+msgstr "Рамка изображения/метки"
+
+msgid "Import Errors"
+msgstr "Ошибки внесения в фонотеку"
+
+msgid "Import File into Library"
+msgstr "Добавить файл в фонотеку"
+
+msgid "Import Folder into Library"
+msgstr "Добавить папку в фонотеку"
+
+msgid "Import _File..."
+msgstr "_Добавить файл..."
+
+msgid "Importing (%d/%d)"
+msgstr "Добавление (%d/%d)"
+
+msgid "Incomplete metadata for this CD"
+msgstr "Неполные метаданные по этому компакт-диску"
+
+msgid "Increase playback volume"
+msgstr "Увеличить громкость воспроизведения"
+
+msgid "Increase the playback volume"
+msgstr "Увеличить громкость воспроизведения"
+
+msgid "Inform Zeitgeist about your activity"
+msgstr "Передавать Zeitgeist сведения об активности"
+
+msgid "Inhibit Power Manager from suspending the machine while playing"
+msgstr ""
+"Не позволяет системе входить в спящий или ждущий режим при прослушивании "
+"музыки"
+
+msgid "Insert a blank CD"
+msgstr "Вставьте чистый компакт-диск"
+
+msgid "Insert a rewritable or blank CD"
+msgstr "Вставьте чистый или перезаписываемый компакт-диск"
+
+msgid "Install Plugins"
+msgstr "Установить модули"
+
+msgid "Interactive python console"
+msgstr "Интерактивная консоль Python"
+
+msgid "Internal GStreamer problem; file a bug"
+msgstr ""
+"Внутренняя проблема GStreamer, отправьте разработчикам сообщение об ошибке"
+
+msgid "Internet Radio"
+msgstr "Интернет-радиостанция"
+
+msgid "Invalid URL"
+msgstr "Некорректный URL"
+
+msgid "Invalid property type %s for property %s"
+msgstr "Неизвестный тип свойства %s у свойства %s"
+
+msgid "Invalid share name"
+msgstr "Некорректное имя в сети"
+
+msgid "Invalid station URL"
+msgstr "Некорректный URL станции"
+
+msgid "Invalid writer device: %s"
+msgstr "Неверное устройство записи: %s"
+
+msgid ""
+"It seems you are running Rhythmbox remotely.\n"
+"Are you sure you want to enable the visual effects?"
+msgstr ""
+"Возможно, Rhythmbox запущен на удалённом узле.\n"
+"Включить визуальные эффекты?"
+
+msgid "Jamendo"
+msgstr "Jamendo"
+
+msgid "Jamendo Preferences"
+msgstr "Настройки Jamendo"
+
+msgid ""
+"Jamendo is a new model for artists to promote, publish, and be paid for "
+"their music."
+msgstr ""
+"Jamendo — новая модель, позволяющая исполнителям продвигать, публиковать "
+"музыку и получать за неё деньги."
+
+msgid "Jamendo is the only platform that joins together :"
+msgstr "Jamendo — единственная платформа, объединяющая вместе:"
+
+msgid ""
+"Jamendo users can discover and share albums, but also review them or start a "
+"discussion on the forums.\n"
+"Albums are democratically rated based on the visitors’ reviews.\n"
+"If they fancy an artist they can support him by making a donation."
+msgstr ""
+"Пользователи Jamendo могут не только искать и распространять альбомы, но и "
+"рецензировать их или принимать участие в их обсуждении на форуме.\n"
+"Рейтинг альбомов составляется на основе количества обращений к рецензиям.\n"
+"Посетители могут поддержать понравившегося исполнителя, сделав пожертвование."
+
+msgid "January (01)"
+msgstr "Январь (01)"
+
+msgid "July (07)"
+msgstr "Июль (07)"
+
+msgid "Jump to next song"
+msgstr "Перейти к следующей композиции"
+
+msgid "Jump to previous song"
+msgstr "Перейти к предыдущей композиции"
+
+msgid "June (06)"
+msgstr "Июнь (06)"
+
+msgid "LIRC "
+msgstr "LIRC "
+
+msgid "L_ocation:"
+msgstr "Мес_тоположение:"
+
+msgid "Language:"
+msgstr "Язык:"
+
+msgid "Large"
+msgstr "высокое"
+
+msgid "Last Played"
+msgstr "Прослушано"
+
+msgid "Last Seen"
+msgstr "Просмотрено"
+
+msgid "Last episode:"
+msgstr "Последний эпизод:"
+
+msgid "Last played:"
+msgstr "Прослушано:"
+
+msgid "Last submission time:"
+msgstr "Последняя отправка данных:"
+
+msgid "Last updated:"
+msgstr "Последнее обновление:"
+
+msgid "Last.fm"
+msgstr "Last.fm"
+
+msgid "Learn more about ReplayGain at replaygain.org"
+msgstr "Узнать подробнее о ReplayGain на replaygain.org"
+
+msgid "Leo's Lyrics (www.leoslyrics.com)"
+msgstr "Leo's Lyrics (www.leoslyrics.com)"
+
+msgid "Library"
+msgstr "Фонотека"
+
+msgid "Library Location"
+msgstr "Расположение фонотеки"
+
+msgid "Library Structure"
+msgstr "Структура фонотеки"
+
+msgid "Library _name:"
+msgstr "_Название фонотеки:"
+
+msgid "Library of User:"
+msgstr "Фонотека пользователя:"
+
+msgid "Libre.fm"
+msgstr "Libre.fm"
+
+msgid "Linear"
+msgstr "Линейно"
+
+msgid "Linear looping"
+msgstr "Линейное проигрывание"
+
+msgid "Linear, removing entries once played"
+msgstr "Линейно, исключая уже проигранные записи"
+
+msgid "Links"
+msgstr "Ссылки"
+
+msgid "Listened by Group:"
+msgstr "Группа слушает:"
+
+msgid "Lo_cation"
+msgstr "Распо_ложение"
+
+msgid "Load Playlist"
+msgstr "Загрузить список воспроизведения"
+
+msgid "Loading Jamendo catalog"
+msgstr "Загрузка каталога Jamendo"
+
+msgid "Loading Magnatune catalog"
+msgstr "Загрузка каталога Magnatune"
+
+msgid "Loading biography for %s"
+msgstr "Загрузка биографии %s"
+
+msgid "Loading lyrics for %s by %s"
+msgstr "Загрузка текста песен для %s с %s"
+
+msgid "Loading top albums for %s"
+msgstr "Загрузка наиболее популярных альбомов %s"
+
+msgid "Location"
+msgstr "Расположение"
+
+msgid "Location:"
+msgstr "Расположение:"
+
+msgid "Log in"
+msgstr "Войти"
+
+msgid "Logging in"
+msgstr "Осуществляется вход"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Lossless"
+msgstr "Без потерь"
+
+msgid "Love"
+msgstr "Мне нравится!"
+
+msgid "Loved Tracks"
+msgstr "Любимые песни"
+
+msgid "Lyrc (lyrc.com.ar)"
+msgstr "Lyrc (lyrc.com.ar)"
+
+msgid "Lyrics"
+msgstr "Текст песни"
+
+msgid "Lyrics Plugin Preferences"
+msgstr "Настройки модуля Lyrics"
+
+msgid "Lyrics not found"
+msgstr "Текст песни не найден"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MP3 (200Kbps)"
+msgstr "MP3 (200Кбит/с)"
+
+msgid "MPEG Version 3.0 URL"
+msgstr "URL ресурсов MPEG версии 3.0"
+
+msgid "Magnatune"
+msgstr "Magnatune"
+
+msgid "Magnatune Information"
+msgstr "Информация Magnatune"
+
+msgid "Magnatune Preferences"
+msgstr "Настройки Magnatune"
+
+msgid "Magnatune Store"
+msgstr "Магазин Magnatune"
+
+msgid ""
+"Magnatune is an online record label that is not evil. Some of their key "
+"attributes are:\n"
+msgstr "Magnatune — онлайн-лейбл, ключевыми особенностями которого являются:\n"
+
+msgid "Maintainers:"
+msgstr "Сопровождающие:"
+
+msgid "Make the main window smaller"
+msgstr "Уменьшить главное окно"
+
+msgid "Manually"
+msgstr "Вручную"
+
+msgid "Manufacturer:"
+msgstr "Производитель:"
+
+msgid "March (03)"
+msgstr "Март (03)"
+
+msgid "Mark this song as loved"
+msgstr "Отметить эту композицию как любимую"
+
+msgid "Maximum possible"
+msgstr "Максимально возможная"
+
+msgid "May (05)"
+msgstr "Май (05)"
+
+msgid "Media Player Keys"
+msgstr "Мультимедийные клавиши"
+
+msgid "Media Player Properties"
+msgstr "Свойства медиапроигрывателя"
+
+msgid "Media player device error"
+msgstr "Ошибка взаимодействия с устройством"
+
+msgid "MediaServer2 D-Bus interface"
+msgstr "Интерфейс MediaServer2 D-Bus"
+
+msgid "Minutes"
+msgstr "минут"
+
+msgid "Missing Files"
+msgstr "Отсутствующие файлы"
+
+msgid "Mix Radio for User:"
+msgstr "Микс-радио для пользователя:"
+
+msgid "Mode:"
+msgstr "Режим:"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid "Mount point:"
+msgstr "Точка монтирования:"
+
+msgid "Move each selected item to the trash"
+msgstr "Удалить каждый выбранный элемент в корзину"
+
+msgid "Multiple Albums Found"
+msgstr "Найдено несколько альбомов"
+
+msgid "Multiple Song Properties"
+msgstr "Свойства нескольких композиций"
+
+msgid "Multiple locations set"
+msgstr "Заданы несколько мест"
+
+msgid "Music"
+msgstr "Музыка"
+
+msgid "Music Player"
+msgstr "Музыкальный проигрыватель"
+
+msgid "Music Player Preferences"
+msgstr "Настройки музыкального проигрывателя"
+
+msgid "Music Player Visualization"
+msgstr "Визуализация музыкального проигрывателя"
+
+msgid "Music management and playback software for GNOME."
+msgstr "Программа воспроизведения и управления музыкой для GNOME."
+
+msgid "Mute playback"
+msgstr "Приглушить"
+
+msgid "My Library"
+msgstr "Фонотека"
+
+msgid "My Neighbourhood"
+msgstr "Соседство"
+
+msgid "My Recommendations"
+msgstr "Рекомендации"
+
+msgid "My Top Rated"
+msgstr "Любимые композиции"
+
+msgid "Neighbourhood of User:"
+msgstr "Близость пользователя:"
+
+msgid "Network Buffer Size (kB)"
+msgstr "Размер сетевого буфера (КБ)"
+
+msgid "Never"
+msgstr "Никогда"
+
+msgid "Never shown"
+msgstr "Не показывать"
+
+msgid "Never visible"
+msgstr "Невидимый"
+
+msgid "New DAAP share"
+msgstr "Новый ресурс DAAP"
+
+msgid "New Downloads"
+msgstr "Новые загрузки"
+
+msgid "New Episodes"
+msgstr "Новые эпизоды"
+
+msgid "New FM R_adio Station"
+msgstr "Добавить _FM-радиостанцию"
+
+msgid "New FM Radio Station"
+msgstr "Добавление FM-радиостанции"
+
+msgid "New Internet Radio Station"
+msgstr "Добавление Интернет-радиостанции"
+
+msgid "New Internet _Radio Station..."
+msgstr "Добавить _Интернет-радиостанцию..."
+
+msgid "New Playlist"
+msgstr "Новый список воспроизведения"
+
+msgid "New Podcast Feed"
+msgstr "Добавление ленты подкастов"
+
+msgid "New _Automatic Playlist..."
+msgstr "Создать _автоматический список воспроизведения..."
+
+msgid "New playlist"
+msgstr "Новый список воспроизведения"
+
+msgid "New updates available from"
+msgstr "Новые обновления доступны с"
+
+msgid "Next"
+msgstr "Следующая"
+
+msgid "No Stars"
+msgstr "Нет звёзд"
+
+msgid "No artist specified."
+msgstr "Исполнитель не определён."
+
+msgid "No information available"
+msgstr "Нет информации"
+
+msgid "No lyrics found"
+msgstr "Текст песни не найден"
+
+msgid "No next song"
+msgstr "Это последняя композиция в списке"
+
+msgid "No previous song"
+msgstr "Это первая композиция в списке"
+
+msgid "No registered source can handle URI %s"
+msgstr "Ни один из зарегистрированных источников не может обработать URI %s"
+
+msgid "No registered source matches URI %s"
+msgstr "Ни один из зарегистрированных источников не совпадает с URI %s"
+
+msgid "No space left on MTP device"
+msgstr "На устройстве MTP не осталось места"
+
+msgid "No writable drives found"
+msgstr "Не удалось найти устройство для записи"
+
+msgid ""
+"None of the tracks to be transferred are in a format supported by the target "
+"device, and no encoders are available for the supported formats."
+msgstr ""
+"Формат дорожек, предназначенных для передачи, не поддерживается целевым "
+"устройством, отсутствуют декодеры для поддерживаемых форматов."
+
+msgid "Normal"
+msgstr "обычное"
+
+msgid "Not Downloaded"
+msgstr "Не загружено"
+
+msgid "Not Playing"
+msgstr "Ничего не воспроизводится"
+
+msgid "Not a launchable item"
+msgstr "Не может быть запущено"
+
+msgid "Not currently playing"
+msgstr "Ничего не воспроизводится"
+
+msgid "Not enough content to play station"
+msgstr "Недостаточно содержимого для прослушивания этой станции"
+
+msgid "Not enough space in %s"
+msgstr "Недостаточно свободного места на %s"
+
+msgid "Not playing"
+msgstr "Ничего не воспроизводится"
+
+msgid "Nothing Playing"
+msgstr "Ничего не воспроизводится"
+
+msgid "November (11)"
+msgstr "Ноябрь (11)"
+
+msgid "Now Playing"
+msgstr "Сейчас воспроизводится"
+
+msgid "Number - Title"
+msgstr "Номер - Название"
+
+msgid "Number. Artist - Title"
+msgstr "Номер. Исполнитель - Название"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "October (10)"
+msgstr "Октябрь (10)"
+
+msgid "Ogg Vorbis"
+msgstr "Ogg Vorbis"
+
+msgid "Ogg Vorbis (300Kbps)"
+msgstr "Ogg Vorbis (300Кбит/с)"
+
+msgid ""
+"On Jamendo, the artists distribute their music under Creative Commons "
+"licenses.\n"
+"In a nutshell, they allow you to download, remix and share their music "
+"freely.\n"
+"It's a \"Some rights reserved\" agreement, perfectly suited for the new "
+"century."
+msgstr ""
+"В системе Jamendo исполнители распространяют свою музыку согласно лицензии "
+"Creative Commons.\n"
+"По существу, они разрешают загружать, распространять и создавать новые "
+"композиции на основе своих музыкальных произведений.\n"
+"Соглашение «некоторые права защищены» отлично соответствует духу нового "
+"времени."
+
+msgid "On the desktop"
+msgstr "На рабочем столе"
+
+msgid "Options"
+msgstr "Параметры"
+
+msgid "Other"
+msgstr "Другое"
+
+msgid "Owns the main window"
+msgstr "Управляет главным окном"
+
+msgid "Party _Mode"
+msgstr "_Вечеринка"
+
+msgid "Password for streaming %s radio using the deprecated API"
+msgstr "Пароль для потокового радио %s с устаревшим API"
+
+msgid "Password:"
+msgstr "Пароль:"
+
+msgid "Paste selection"
+msgstr "Вставить выделенное"
+
+msgid "Path for database file to use"
+msgstr "Используемый путь к базе данных"
+
+msgid "Path for playlists file to use"
+msgstr "Путь к файлу списков воспроизведения"
+
+msgid "Pause"
+msgstr "Приостановить"
+
+msgid "Pause playback"
+msgstr "Приостановить воспроизведение"
+
+msgid "Pause playback if currently playing"
+msgstr "Приостановить воспроизведение, если оно активно"
+
+msgid "Paused, %s"
+msgstr "Приостановлено, %s"
+
+msgid "Pixbuf Object"
+msgstr "Объект Pixbuf"
+
+msgid "Play"
+msgstr "Воспроизвести"
+
+msgid "Play Count"
+msgstr "Прослушиваний"
+
+msgid "Play Queue"
+msgstr "Очередь воспроизведения"
+
+msgid "Play _Queue as Side Pane"
+msgstr "_Очередь в боковой панели"
+
+msgid "Play a specified URI, importing it if necessary"
+msgstr "Воспроизвести указанный URI, добавив его в фонотеку, если необходимо"
+
+msgid "Play and organize your music collection"
+msgstr "Программа воспроизведения и управления вашей музыкальной коллекцией"
+
+msgid "Play count:"
+msgstr "Прослушиваний:"
+
+msgid "Play first song again after all songs are played"
+msgstr "Повторное воспроизведение композиций из списка"
+
+msgid "Play from the source matching the specified URI"
+msgstr "Воспроизвести из источника, совпадающего с указанным URI"
+
+msgid "Play songs in a random order"
+msgstr "Воспроизводить композиции в случайном порядке"
+
+msgid "Playback"
+msgstr "Воспроизведение"
+
+msgid "Playback Error"
+msgstr "Ошибка воспроизведения"
+
+msgid "Playback is muted.\n"
+msgstr "Громкость воспроизведения приглушена.\n"
+
+msgid "Playback position not available"
+msgstr "Позиция воспроизведения недоступна"
+
+msgid "Playback volume is %f.\n"
+msgstr "Текущий уровень громкости воспроизведения: %f.\n"
+
+msgid "Player Backend"
+msgstr "Звуковая подсистема"
+
+msgid "Playing"
+msgstr "Сейчас воспроизводится"
+
+msgid "Playlist %s already exists"
+msgstr "Список воспроизведения с именем «%s» уже существует"
+
+msgid "Playlist %s is an automatic playlist"
+msgstr "Список воспроизведения «%s» — автоматический"
+
+msgid "Playlist too long"
+msgstr "Список воспроизведения слишком длинный"
+
+msgid "Playlist was empty"
+msgstr "Список воспроизведения пуст"
+
+msgid "Playlists"
+msgstr "Списки воспроизведения"
+
+msgid "Playlists:"
+msgstr "Списки воспроизведения:"
+
+msgid "Please enter the passcode displayed on your device."
+msgstr "Введите код, показанный на устройстве."
+
+msgid "Please make sure another application is not using the drive."
+msgstr "Убедитесь, что другое приложение не использует привод."
+
+msgid "Please put a blank CD in the drive."
+msgstr "Вставьте чистый компакт-диск в привод."
+
+msgid "Please put a rewritable or blank CD in the drive."
+msgstr "Вставьте чистый или перезаписываемый компакт-диск в привод."
+
+msgid "Please replace the disc in the drive with a blank CD."
+msgstr "Замените компакт-диск в приводе на чистый."
+
+msgid "Please replace the disc in the drive with a rewritable or blank CD."
+msgstr "Замените компакт-диск в приводе на перезаписываемый или чистый."
+
+msgid "Plu_gins"
+msgstr "_Модули"
+
+msgid "Plugin"
+msgstr "Модуль"
+
+msgid "Plugin Error"
+msgstr "Ошибка подключения модуля"
+
+msgid "Podcast"
+msgstr "Подкаст"
+
+msgctxt "Podcast"
+msgid "New"
+msgstr "Создать"
+
+msgid "Podcast Error"
+msgstr "Ошибка подкаста"
+
+msgid "Podcasts"
+msgstr "Подкасты"
+
+msgid "Podcasts:"
+msgstr "Подкасты:"
+
+msgid "Portable Players"
+msgstr "Портативные аудио-устройства"
+
+msgid "Portable Players - MTP"
+msgstr "Портативные аудио-устройства - MTP"
+
+msgid "Portable Players - iPod"
+msgstr "Портативные аудио-устройства - iPod"
+
+msgid "Power Manager"
+msgstr "Управление питанием"
+
+msgid "Pr_operties"
+msgstr "_Свойства"
+
+msgid "Pre_vious"
+msgstr "П_редыдущая"
+
+msgid "Prefere_nces"
+msgstr "_Параметры"
+
+msgid "Preferred audio _format:"
+msgstr "Предпочитаемый аудио _формат:"
+
+msgid "Preparing to write CD"
+msgstr "Подготовка компакт-диска к записи"
+
+msgid "Previous"
+msgstr "Предыдущая"
+
+msgid "Print formatted details of the song"
+msgstr "Вывести информацию о композиции в указанном формате"
+
+msgid "Print the current playback volume"
+msgstr "Вывести текущий уровень громкости"
+
+msgid "Print the title and artist of the playing song"
+msgstr "Вывести название и исполнителя проигрываемой композиции"
+
+msgid "Progress"
+msgstr "Степень выполнения:"
+
+msgid ""
+"Provides an implementation of the MediaServer2 D-Bus interface specification"
+msgstr "Предоставляет реализацию спецификаций интерфейса MediaServer2 D-Bus"
+
+msgid "Python Console"
+msgstr "Консоль Python"
+
+msgid "Python Debugger"
+msgstr "Отладчик для Python"
+
+msgid "Python Sample Plugin"
+msgstr "Образец модуля на Python"
+
+msgid "Python Source"
+msgstr "Исходный код на Python"
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Quality:"
+msgstr "Качество:"
+
+msgid "Queued tracks:"
+msgstr "В очереди:"
+
+msgid "Quit Rhythmbox"
+msgstr "Выйти из Rhythmbox"
+
+msgid "Quit the music player"
+msgstr "Выйти из музыкального проигрывателя"
+
+msgid "Radio"
+msgstr "Радио"
+
+msgctxt "Radio"
+msgid "New"
+msgstr "Создать"
+
+msgid "Radio (equal loudness for all tracks)"
+msgstr "Радио (одинаковая громкость всех дорожек)"
+
+msgid "Random by rating"
+msgstr "Случайно с учётом оценки"
+
+msgid "Random by time since last play"
+msgstr ""
+"Случайно с учётом времени, прошедшего с времени последнего воспроизведения"
+
+msgid "Random by time since last play and rating"
+msgstr "Случайно с учётом времени последнего воспроизведения и оценки"
+
+msgid "Random with equal weights"
+msgstr "Случайно с учётом одинакового веса"
+
+msgid "Rating"
+msgstr "Оценка"
+
+msgid "Read less"
+msgstr "Скрыть подробности"
+
+msgid "Read more"
+msgstr "Читать далее"
+
+msgid "Reason"
+msgstr "Причина"
+
+msgid "Recently Added"
+msgstr "Недавно добавленные"
+
+msgid "Recently Listened Tracks"
+msgstr "Недавно прослушанные песни"
+
+msgid "Recently Played"
+msgstr "Недавно прослушанные"
+
+msgid "Recommendations"
+msgstr "Рекомендации"
+
+msgid "Recommendations for User:"
+msgstr "Рекомендации для пользователя:"
+
+msgid "Record audio CDs from playlists and duplicate audio CDs"
+msgstr ""
+"Запись звуковых CD из списков воспроизведений и создание копий звуковых CD"
+
+msgid "Recording error"
+msgstr "Ошибка при записи"
+
+msgid "Redownload purchased music at "
+msgstr "Загрузить приобретённую музыку на "
+
+msgid "Refresh Profile"
+msgstr "Обновить профиль"
+
+msgid "Refresh your Profile"
+msgstr "Обновить профиль"
+
+msgid "Reload"
+msgstr "Перезагрузить"
+
+msgid "Reload Album Information"
+msgstr "Перезагрузить информацию об альбоме"
+
+msgid "Reload a blank CD"
+msgstr "Замените компакт-диск на чистый"
+
+msgid "Reload a rewritable or blank CD"
+msgstr "Замените компакт-диск на перезаписываемый или чистый"
+
+msgid "Remotes"
+msgstr "Удалённые источники"
+
+msgid "Remove"
+msgstr "Убрать"
+
+msgid "Remove From Playlist"
+msgstr "Удалить из списка воспроизведения"
+
+msgid "Remove all songs from the play queue"
+msgstr "Удалить все композиции из очереди воспроизведения"
+
+msgid "Remove each selected item from the library"
+msgstr "Удалить каждый выбранный элемент из фонотеки"
+
+msgid "Remove each selected item from the play queue"
+msgstr "Удалить каждый выбранный элемент из очереди воспроизведения"
+
+msgid "Remove each selected song from the playlist"
+msgstr "Удалить каждую выбранную композицию из списка воспроизведения"
+
+msgid "Removed files:"
+msgstr "Удалённые файлы:"
+
+msgid "Rename MTP-device"
+msgstr "Переименовать MTP-устройство"
+
+msgid "Rename iPod"
+msgstr "Переименовать iPod"
+
+msgid "Rename playlist"
+msgstr "Переименовать список воспроизведения"
+
+msgid "Rename station"
+msgstr "Переименовать станцию"
+
+msgid "Replace _All"
+msgstr "Заменить вс_ё"
+
+msgid "ReplayGain"
+msgstr "ReplayGain"
+
+msgid "ReplayGain GStreamer plugins not available"
+msgstr "Модули ReplayGain GStreamer не доступны"
+
+msgid "ReplayGain _mode:"
+msgstr "_Режим ReplayGain:"
+
+msgid "ReplayGain preferences"
+msgstr "Параметры ReplayGain"
+
+msgid "Request failed"
+msgstr "Не удалось выполнить запрос"
+
+msgid "Require _password:"
+msgstr "Требовать _пароль:"
+
+msgid "Resume playback if currently paused"
+msgstr "Продолжить воспроизведение, если оно остановлено"
+
+msgid "Retrieving songs from music share"
+msgstr "Получение композиций с музыкального ресурса"
+
+msgid "Rhythmbox"
+msgstr "Rhythmbox"
+
+msgid "Rhythmbox Music Player"
+msgstr "Музыкальный проигрыватель Rhythmbox"
+
+msgid "Rhythmbox Website"
+msgstr "Веб-сайт Rhythmbox"
+
+msgid "Rhythmbox could not duplicate the disc"
+msgstr "Не удалось создать копию компакт-диска"
+
+msgid "Rhythmbox could not get access to the CD device."
+msgstr "Не удалось получить доступ к CD-приводу."
+
+msgid "Rhythmbox could not record the audio disc"
+msgstr "Rhythmbox не удалось записать звуковой диск"
+
+msgid ""
+"Rhythmbox could not understand the Magnatune catalog, please file a bug."
+msgstr ""
+"Не удалось прочитать каталог Magnatune, сообщите об ошибке разработчикам "
+"Rhythmbox."
+
+msgid "Rhythmbox couldn't access the CD."
+msgstr "Не удалось получить доступ к компакт-диску."
+
+msgid "Rhythmbox couldn't read the CD information."
+msgstr "Не удалось считать информацию с компакт-диска."
+
+msgid ""
+"Rhythmbox has detected a device that is probably an uninitialized or "
+"corrupted iPod. It must be initialized before Rhythmbox can use it, but this "
+"will destroy any song metadata already present. If you wish Rhythmbox to "
+"initialize the iPod, please fill in the information below. If the device is "
+"not an iPod, or you do not wish to initialize it, please click cancel."
+msgstr ""
+"Rhythmbox обнаружил устройство, которое, возможно, является "
+"неинициализированным или повреждённым устройством iPod. Перед использованием "
+"устройства в Rhythmbox оно должно быть инициализировано, но это приведёт к "
+"разрушению всех уже существующих метаданных композиций. Чтобы "
+"инициализировать iPod, заполните расположенную нижу информацию. Если "
+"устройство не является iPod, или вы не хотите инициализировать его, нажмите "
+"кнопку «Отменить»."
+
+msgid ""
+"Rhythmbox is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+msgstr ""
+"Rhythmbox распространяется в надежде на то, что приложение будет полезно,\n"
+"но БЕЗ ВСЯКИХ ГАРАНТИЙ; не гарантируется даже ПРИГОДНОСТЬ или СООТВЕТСТВИЕ\n"
+"КАКИМ-ЛИБО ТРЕБОВАНИЯМ. Для получения дополнительной информации "
+"ознакомьтесь\n"
+"с GNU General Public License.\n"
+
+msgid ""
+"Rhythmbox is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2 of the License, or\n"
+"(at your option) any later version.\n"
+msgstr ""
+"Rhythmbox ― свободное программное обеспечение. Вы можете распространять\n"
+"или изменять его при условиях соответствия GNU General Public License, "
+"опубликованной\n"
+"Free Software Foundation; либо версии 2 лицензии, либо\n"
+"(на ваше усмотрение) любой более поздней версии.\n"
+
+msgid "S_kip All"
+msgstr "П_ропустить все"
+
+msgid "S_tatusbar"
+msgstr "_Строка состояния"
+
+msgid "S_ubmit Album"
+msgstr "Предло_жить альбом"
+
+msgid "Sample Plugin"
+msgstr "Образец модуля"
+
+msgid "Save Playlist"
+msgstr "Сохранить список воспроизведения"
+
+msgid "Save a playlist to a file"
+msgstr "Сохранить список воспроизведения в файл"
+
+msgid "Save the play queue to a file"
+msgstr "Сохранить список воспроизведения в файл"
+
+msgid "Scan for new Removable Media"
+msgstr "Сканировать сменные носители на наличие мультимедийных файлов"
+
+msgid "Screen:"
+msgstr "Экран:"
+
+msgid "Scroll the view to the currently playing song"
+msgstr "Прокрутка списка до текущей воспроизводимой записи"
+
+msgid "Search albums"
+msgstr "Искать по альбомам"
+
+msgid "Search all fields"
+msgstr "Искать по всем полям"
+
+msgid "Search artists"
+msgstr "Искать по исполнителям"
+
+msgid "Search podcast episodes"
+msgstr "Найти эпизоды подкастов"
+
+msgid "Search podcast feeds"
+msgstr "Найти ленты подкастов"
+
+msgid "Search titles"
+msgstr "Искать по названиям композиций"
+
+msgid "Searching for lyrics..."
+msgstr "Выполняется поиск текста песни..."
+
+msgid "Searching... drop artwork here"
+msgstr ""
+"Загрузка обложки альбома... Сюда можно перетащить подходящее изображение"
+
+msgid "Seek in current track"
+msgstr "Поиск по текущей дорожке"
+
+msgid "Select Folder For Podcasts"
+msgstr "Выберите папку для подкастов"
+
+msgid "Select _All"
+msgstr "Выделить вс_ё"
+
+msgid "Select all songs"
+msgstr "Выделить все композиции"
+
+msgid "Select playlist format:"
+msgstr "Выбрать формат списка:"
+
+msgid "Select the source matching the specified URI"
+msgstr "Выбрать источник, совпадающий с указанным URI"
+
+msgid "Select tracks to be extracted"
+msgstr "Выберите дорожки для извлечения"
+
+msgid "Send files by mail, instant message..."
+msgstr "Отправить файлы почте, мгновенным сообщением..."
+
+msgid "Send selected tracks by email or instant message"
+msgstr ""
+"Отправить выбранные дорожки по эл. почте или программе обмена мгновенными "
+"сообщениями"
+
+msgid "Send to..."
+msgstr "Отправить…"
+
+msgid "Send tracks"
+msgstr "Отправить дорожки"
+
+msgid "September (09)"
+msgstr "Сентябрь (09)"
+
+msgid "Serial number:"
+msgstr "Заводской номер:"
+
+msgid "Session management options:"
+msgstr "Параметры управления сеансом:"
+
+msgid "Set the browser to view only this album"
+msgstr "Просмотреть в браузере композиции только из этого альбома"
+
+msgid "Set the browser to view only this artist"
+msgstr "Просмотреть в браузере композиции только этого исполнителя"
+
+msgid "Set the browser to view only this genre"
+msgstr "Просмотреть в браузере композиции только этого жанра"
+
+msgid "Set the playback volume"
+msgstr "Установить уровень громкости воспроизведения"
+
+msgid "Set the rating of the current song"
+msgstr "Поставить оценку текущей композиции"
+
+msgid "Sh_uffle"
+msgstr "В сл_учайном порядке"
+
+msgid "Share music and play shared music on your local network"
+msgstr "Распространение и воспроизведение музыки в вашей локальной сети"
+
+msgid "Shared"
+msgstr "Доступно"
+
+msgid "Shared music _name:"
+msgstr "_Имя в сети:"
+
+msgid "Shoutcast playlist"
+msgstr "Список воспроизведения Shoutcast"
+
+msgid "Show N_otifications"
+msgstr "Показывать _уведомления"
+
+msgid "Show Rhythmbox's python console"
+msgstr "Показать консоль Python"
+
+msgid "Show _All Tracks"
+msgstr "По_казать все дорожки"
+
+msgid "Show all tracks"
+msgstr "Показать все дорожки"
+
+msgid "Show all tracks in this music source"
+msgstr "Показать все дорожки в фонотеке"
+
+msgid "Show information about the music player"
+msgstr "Показать информацию о музыкальном проигрывателе"
+
+msgid "Show information on each selected song"
+msgstr "Показывать информацию о каждой выбранной композиции"
+
+msgid "Show information related to the currently playing artist and song."
+msgstr "Показывать информацию о текущей композиции и исполнителе."
+
+msgid "Show more _details"
+msgstr "_Показать подробности"
+
+msgid "Show notification of the playing song"
+msgstr "Показать уведомление о воспроизводимой композиции"
+
+msgid "Show notifications of song changes and other events"
+msgstr "Показывать уведомления при смене композиции и других событиях"
+
+msgid "Show session management options"
+msgstr "Показать параметры управления сеансом"
+
+msgid "Shown when the main window is hidden"
+msgstr "Показывать, когда главное окно скрыто"
+
+msgid "Shuffle"
+msgstr "Случайно"
+
+msgid "Shuffle Queue"
+msgstr "Перемешать"
+
+msgid "Shuffle the tracks in the play queue"
+msgstr "Перемешать композиции в очереди воспроизведения"
+
+msgid "Shuffle the tracks in this playlist"
+msgstr "Перемешать композиции в этом списке воспроизведения"
+
+msgid "Side _Pane"
+msgstr "_Боковая панель"
+
+msgid "Similar to Artist:"
+msgstr "Похожие исполнители:"
+
+msgid "Site:"
+msgstr "Веб-сайт:"
+
+msgid "Small"
+msgstr "низкое"
+
+msgid "Song L_yrics"
+msgstr "_Текст песни"
+
+msgid "Song Lyrics"
+msgstr "Текст песни"
+
+msgid "Song Properties"
+msgstr "Свойства композиции"
+
+msgid "Sorting"
+msgstr "Упорядочивание"
+
+msgid "Source to activate"
+msgstr "Включить источник"
+
+msgid "Source to play from"
+msgstr "Воспроизвести из источника"
+
+msgid "Source to select"
+msgstr "Выбрать источник"
+
+msgid "Source:"
+msgstr "Источник:"
+
+msgid "Specify file containing saved configuration"
+msgstr "Указать файл, содержащий сохранённые настройки"
+
+msgid "Specify session management ID"
+msgstr "Укажите ID диспетчера сеанса"
+
+msgid "Start or stop visualization"
+msgstr "Включить/выключить визуализацию"
+
+msgid "Start playback"
+msgstr "Начать воспроизведение"
+
+msgid "Start playing the next song"
+msgstr "Начать воспроизведение следующей композиции"
+
+msgid "Start playing the previous song"
+msgstr "Начать воспроизведение предыдущей композиции"
+
+msgid "Starting %s"
+msgstr "Запуск %s"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Status Icon"
+msgstr "Значок состояния"
+
+msgid "Status icon and notification popups"
+msgstr "Значок состояния и всплывающие уведомления"
+
+msgid "Status icon preferences"
+msgstr "Параметры значка состояния"
+
+msgid "Status:"
+msgstr "Состояние:"
+
+msgid "Stop downloading purchased albums"
+msgstr "Остановить загрузку купленного альбома"
+
+msgid "Stop playback"
+msgstr "Остановить воспроизведение"
+
+msgid "Stores"
+msgstr "Магазины"
+
+msgid "Stream error"
+msgstr "Ошибка потока"
+
+msgid "Submission statistics"
+msgstr "Статистика"
+
+msgid "Submit listening data"
+msgstr "Предоставленные данные о прослушивании"
+
+msgid "Submits song information to Last.fm and plays Last.fm radio streams"
+msgstr ""
+"Отправляет сведения о композиции на Last.fm и проигрывает потоковое радио "
+"Last.fm"
+
+msgid "Subscribe to a new Podcast Feed"
+msgstr "Подписаться на новую ленту подкастов"
+
+msgid "Support for Apple iPod devices (show the content, play from device)"
+msgstr ""
+"Поддержка устройств Apple iPod (просмотр содержимого, воспроизведение с "
+"устройства)"
+
+msgid "Support for FM radio broadcasting services"
+msgstr "Поддержка служб вещания FM-радио"
+
+msgid "Support for MTP devices (show the content, transfer, play from device)"
+msgstr ""
+"Поддержка MTP-устройств (просмотр содержимого, передача, воспроизведение с "
+"устройства)"
+
+msgid "Support for broadcasting services transmitted via the Internet"
+msgstr "Поддержка служб вещания, передающих через Интернет"
+
+msgid "Support for generic audio player devices (plus PSP and Nokia 770)"
+msgstr ""
+"Поддержка распространённых портативных аудио-устройств (включая PSP и Nokia "
+"770)"
+
+msgid "Support for playing of audio CDs as music source"
+msgstr "Поддержка звуковых компакт-дисков как источника музыки"
+
+msgid "Support for recording audio CDs from playlists"
+msgstr ""
+"Поддержка записи компакт-дисков с музыкой на основе списка воспроизведения"
+
+msgid "Sync"
+msgstr "Синхронизация"
+
+msgid "Sync with Library"
+msgstr "Синхронизировать с фонотекой"
+
+msgid "Sync with the device"
+msgstr "Синхронизировать с устройством"
+
+msgid "Synchronize media player with the library"
+msgstr "Синхронизация медиапроигрывателя с библиотекой"
+
+msgid "T_oolbar"
+msgstr "_Панель управления"
+
+msgid "TerraBrasil (terra.com.br)"
+msgstr "TerraBrasil (terra.com.br)"
+
+msgid "Text below icons"
+msgstr "Текст под значками"
+
+msgid "Text beside icons"
+msgstr "Текст рядом со значками"
+
+msgid "Text only"
+msgstr "Только текст"
+
+msgid "The Beatles"
+msgstr "The Beatles"
+
+msgid ""
+"The GStreamer elements required for ReplayGain processing are not available. "
+"The missing elements are: %s"
+msgstr ""
+"Элементы GStreamer, требующиеся для обработки ReplayGain, не доступны. "
+"Отсутствующие элементы: %s"
+
+msgid "The MIME type of the file could not be identified"
+msgstr "Не удалось определить MIME-тип этого файла"
+
+msgid ""
+"The URL \"%s\" has already been added as a radio station. If this is a "
+"podcast feed, please remove the radio station."
+msgstr ""
+"Ресурс «%s» уж был добавлен как радиостанция. Если это лента подкастов, "
+"удалите соответствующую радиостанцию."
+
+msgid "The URL \"%s\" is not valid, please check it."
+msgstr "Некорректный URL «%s», проверьте правильность написания."
+
+msgid ""
+"The URL '%s' does not appear to be a podcast feed. It may be the wrong URL, "
+"or the feed may be broken. Would you like Rhythmbox to attempt to use it "
+"anyway?"
+msgstr ""
+"URL «%s» не указывает на ленту подкастов. Возможно, он введён неправильно, "
+"или указанный ресурс не работает. Игнорировать ошибки и продолжить "
+"использование ресурса?"
+
+msgid "The buttons shown in the alert dialog"
+msgstr "Кнопки диалогового окна предупреждения"
+
+msgid ""
+"The database was created by a later version of Rhythmbox.  This version of "
+"Rhythmbox cannot read the database."
+msgstr ""
+"База данных была создана более поздней версией программы Rhythmbox. Текущая "
+"версия Rhythmbox не может прочитать базу данных."
+
+msgid "The feed does not contain any downloadable items"
+msgstr "Поток не содержит элементов, пригодных для загрузки"
+
+msgid "The file \"%s\" already exists. Do you want to replace it?"
+msgstr "Файл «%s» уже существует. Хотите заменить его?"
+
+msgid "The music share '%s' requires a password to connect"
+msgstr "Для доступа к «%s» необходим пароль"
+
+msgid "The pixbuf to render."
+msgstr "Pixbuf для отображения."
+
+msgid "The playlist file may be in an unknown format or corrupted."
+msgstr "Файл списка воспроизведения имеет неизвестный формат или повреждён."
+
+msgid "The shared music name '%s' is already taken. Please choose another."
+msgstr "Имя «%s» кем-то уже используется. Выберите другое."
+
+msgid "The type of alert"
+msgstr "Тип предупреждения"
+
+msgid ""
+"There is not enough space on the device to transfer the selected music, "
+"playlists and podcasts."
+msgstr ""
+"На данном устройстве недостаточно свободного места для передачи выбранной "
+"музыки, списков воспроизведений и подкастов."
+
+msgid ""
+"There was a problem accessing the keyring. Check the debug output for more "
+"information."
+msgstr ""
+"Ошибка доступа к связке ключей. Подробнее смотрите в отладочной информации."
+
+msgid "There was a problem adding this podcast: %s.  Please verify the URL: %s"
+msgstr ""
+"При добавлении ленты подкастов произошла ошибка: %s.  Проверьте правильность "
+"URL: «%s»"
+
+msgid "There was an error writing to the CD"
+msgstr "При записи на компакт-диск возникла ошибка"
+
+msgid ""
+"There was an error writing to the CD:\n"
+"%s"
+msgstr ""
+"При записи компакт-диска возникла ошибка:\n"
+"%s"
+
+msgid ""
+"These new rules make Jamendo able to use the new powerful means of digital "
+"distribution like\n"
+"Peer-to-Peer networks such as BitTorrent or eMule to legally distribute "
+"albums at near-zero cost."
+msgstr ""
+"Эти новые правила позволяют Jamendo использовать новые возможности "
+"легального цифрового распространения\n"
+"в пиринговых сетях (например, BitTorrent или eMule) музыкальных альбомов по "
+"стоимости, близкой к нулевой."
+
+msgid "This %s appears to have information already recorded on it."
+msgstr "Возможно, на %s уже записана информация."
+
+msgid ""
+"This CD could be more than one album. Please select which album it is below "
+"and press <i>Continue</i>."
+msgstr ""
+"Этому компакт-диску соответствует несколько альбомов. Выберите ниже "
+"подходящий альбом и нажмите <i>Продолжить</i>."
+
+msgid "This CD could not be queried: %s\n"
+msgstr "Не удалось получить информацию об этом компакт-диске: %s\n"
+
+msgid ""
+"This information is only available to last.fm users. Please enter your "
+"account details in the last.fm plugin configuration."
+msgstr ""
+"Эта информация доступна только для пользователей last.fm. Введите информацию "
+"о своей учётной записи в настройке модуля last.fm."
+
+msgid "This may result in an unusable disc."
+msgstr ""
+"Это может привести к непригодности диска для дальнейшего использования."
+
+msgid ""
+"This playlist is %s minutes long.  This exceeds the length of a standard "
+"audio CD.  If the destination medium is larger than a standard audio CD "
+"please insert it in the drive and try again."
+msgstr ""
+"Продолжительность списка воспроизведения в минутах: %s. Это больше, чем "
+"способен вместить стандартный компакт-диск. Если записываемый носитель "
+"больше стандартного компакт-диска, вставьте его в привод и повторите попытку."
+
+msgid "This playlist is too long to write to an audio CD."
+msgstr ""
+"Время воспроизведения списка слишком велико, чтобы все композиции из этого "
+"списка поместились на компакт-диск."
+
+msgid "This station is only available to %s subscribers"
+msgstr "Эта станция доступна только для подписчиков %s"
+
+msgid "This version of Rhythmbox has been banned."
+msgstr "Эта версия Rhythmbox была заблокирована."
+
+msgid "Ti_me"
+msgstr "_Время"
+
+msgid "Ticket To Ride"
+msgstr "Ticket To Ride"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Timeout while setting pipeline to NULL"
+msgstr ""
+"Истекло время ожидания при попытке установить конвейер в NULL (timeout while "
+"setting pipeline to NULL)"
+
+msgid "Title"
+msgstr "Название"
+
+msgid "Title:"
+msgstr "Название:"
+
+msgid "Titles"
+msgstr "Композиции"
+
+msgid "Today %I:%M %p"
+msgstr "Сегодня %I:%M %p"
+
+msgid "Toggle Conte_xt Pane"
+msgstr "Пере_ключить боковую панель"
+
+msgid "Toggle play/pause mode"
+msgstr "Переключить режим воспроизведения/паузы"
+
+msgid "Too many symlinks"
+msgstr "Слишком много символьных ссылок"
+
+msgid "Toolbar Button Labels"
+msgstr "Подписи кнопок панели"
+
+msgid "Top Artists"
+msgstr "Лучшие исполнители"
+
+msgid "Top Fans of Artist:"
+msgstr "Любимые фаны исполнителя:"
+
+msgid "Top Tracks"
+msgstr "Лучшие дорожки"
+
+msgid "Top albums by %s"
+msgstr "Наиболее популярные альбомы %s"
+
+msgid "Top songs by %s"
+msgstr "Наиболее популярные композиции %s"
+
+msgid "Track"
+msgstr "#"
+
+msgid "Track %d"
+msgstr "Дорожка %d"
+
+msgid "Track %u"
+msgstr "Дорожка %u"
+
+msgid "Track _number"
+msgstr "_Дорожка"
+
+msgid "Track _number:"
+msgstr "_Дорожка:"
+
+msgid "Track list not available"
+msgstr "Список дорожек не доступен"
+
+msgid "Track submission failed too many times"
+msgstr "Слишком часто возникают ошибки при попытке передачи дорожки"
+
+msgid "Tracks Loved by User:"
+msgstr "Любимые песни пользователя:"
+
+msgid "Tracks Tagged with:"
+msgstr "Отмеченные дорожки:"
+
+msgid "Tracks submitted:"
+msgstr "Передано дорожек:"
+
+msgid "Tracks:"
+msgstr "Дорожки:"
+
+msgid "Transferring track %d out of %d"
+msgstr "Передача звуковых дорожек: %d из %d"
+
+msgid "Transferring track %d out of %d (%.0f%%)"
+msgstr "Передача звуковых дорожек: %d из %d (%.0f%%)"
+
+msgid "Tuning station"
+msgstr "Настройка станции"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "URI to play"
+msgstr "URI для проигрывания"
+
+msgid "URL already added"
+msgstr "Ресурс уже добавлен"
+
+msgid "URL of internet radio station:"
+msgstr "URL Интернет-радиостанции:"
+
+msgid "URL of podcast feed:"
+msgstr "URL ленты подкастов:"
+
+msgid "Unable to activate plugin %s"
+msgstr "Не удалось задействовать модуль %s"
+
+msgid "Unable to build an audio track list"
+msgstr "Не удалось построить список звуковых дорожек"
+
+msgid "Unable to build an audio track list."
+msgstr "Не удалось создать список аудио-дорожек."
+
+msgid "Unable to change station URI to %s, as that station already exists"
+msgstr ""
+"Не удалось изменить URI станции на %s, так как подобная станция уже "
+"существует"
+
+msgid "Unable to change station property"
+msgstr "Не удалось изменить свойства станции"
+
+msgid "Unable to check file type: %s"
+msgstr "Не удалось установить тип файла: %s"
+
+msgid "Unable to copy file from MTP device: %s"
+msgstr "Не удалось скопировать файл с устройства MTP: %s"
+
+msgid "Unable to create audio CD"
+msgstr "Не удалось создать звуковой компакт-диск"
+
+msgid "Unable to create audio CD project"
+msgstr "Не удалось создать проект звукового CD"
+
+msgid "Unable to create tag-writing elements"
+msgstr "Не удалось создать элемент записи тегов"
+
+msgid "Unable to create the download directory for %s: %s"
+msgstr "Не удалось создать папку для загрузки %s: %s"
+
+msgid "Unable to display requested URI"
+msgstr "Невозможно показать запрошенный URI"
+
+msgid "Unable to eject"
+msgstr "Не удалось извлечь носитель"
+
+msgid "Unable to identify file type"
+msgstr "Не удалось установить тип файла"
+
+msgid "Unable to initialize new iPod"
+msgstr "Не удалось инициализировать новый iPod"
+
+msgid "Unable to load catalog"
+msgstr "Не удалось загрузить каталог"
+
+msgid "Unable to move %s to %s: %s"
+msgstr "Не удалось переместить %s в %s: %s"
+
+msgid "Unable to move user data files"
+msgstr "Не удалось переместить файлы данных пользователя"
+
+msgid "Unable to open temporary file: %s"
+msgstr "Не удалось открыть временный файл: %s"
+
+msgid "Unable to open the %s %s device"
+msgstr "Не удалось открыть устройство %s %s"
+
+msgid "Unable to parse the feed contents"
+msgstr "Не удалось обработать содержание ленты"
+
+msgid "Unable to retrieve album information:"
+msgstr "Не удалось получить информацию об альбоме:"
+
+msgid "Unable to retrieve artist information:"
+msgstr "Не удалось получить информацию об исполнителе:"
+
+msgid "Unable to send file to MTP device: %s"
+msgstr "Не удалось отправить файл на устройство MTP: %s"
+
+msgid "Unable to start video output"
+msgstr "Не удалось вывести изображение"
+
+msgid "Unable to start visualization"
+msgstr "Не удалось включить визуализацию"
+
+msgid "Unable to transfer all tracks. Do you want to continue?"
+msgstr "Не удалось передать все дорожки. Хотите продолжить?"
+
+msgid "Unable to transfer tracks"
+msgstr "Не удалось передать дорожки"
+
+msgid "Unable to unlink '%s'"
+msgstr "Не удалось разорвать ссылку «%s»"
+
+msgid "Unable to unmount"
+msgstr "Не удалось отсоединить том"
+
+msgid "Unable to write audio project"
+msgstr "Не удалось записать звуковой проект"
+
+msgid "Unable to write audio project file %s: %s"
+msgstr "Не удалось записать файл звукового проекта %s: %s"
+
+msgid "Unexpected end of stream!"
+msgstr "Неожиданный конец потока!"
+
+msgid "Unexpected file type: %s"
+msgstr "Неожиданный тип файла: %s"
+
+msgid "Unhandled action in burn_action_changed_cb"
+msgstr "Необработанное событие в burn_action_changed_cb"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown Artist"
+msgstr "Неизвестный исполнитель"
+
+msgid "Unknown Title"
+msgstr "Неизвестное название"
+
+msgid "Unknown file name"
+msgstr "Неизвестное имя файла"
+
+msgid "Unknown location"
+msgstr "Неизвестное расположение"
+
+msgid "Unknown playlist: %s"
+msgstr "Неизвестный список воспроизведения: «%s»"
+
+msgid "Unknown property %s"
+msgstr "Неизвестное свойство %s"
+
+msgid "Unknown song URI: %s"
+msgstr "Неизвестный URI композиции: %s"
+
+msgid "Unmute playback"
+msgstr "Восстановить громкость"
+
+msgid "Unnamed playlist"
+msgstr "Безымянный список воспроизведения"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Неизвестная версия файла .desktop «%s»"
+
+msgid "Unrecognized launch option: %d"
+msgstr "Неизвестный параметр запуска: %d"
+
+msgid "Unsupported file extension given."
+msgstr "Файлы с указанным расширением не поддерживаются."
+
+msgid "Unsupported file type: %s"
+msgstr "Тип файла не поддерживается: %s"
+
+msgid "Untitled Playlist"
+msgstr "Безымянный список воспроизведения"
+
+msgid "Update"
+msgstr "Обновить"
+
+msgid "Update Feed"
+msgstr "Обновить ленту"
+
+msgid "Update all feeds"
+msgstr "Обновить все ленты"
+
+msgid ""
+"Updates IM status according to the current song (works with Empathy, Gossip, "
+"and Pidgin)"
+msgstr ""
+"Обновляет состояние IM соответственно текущей композиции (работает с "
+"Empathy, Gossip и Pidgin)"
+
+msgid "Use ReplayGain to provide a consistent playback volume"
+msgstr "Использовать ReplayGain для однородной громкости воспроизведения"
+
+msgid "Username:"
+msgstr "Имя пользователя:"
+
+msgid "VBR MP3"
+msgstr "VBR MP3"
+
+msgid "Vala Sample Plugin"
+msgstr "Образец модуля на Vala"
+
+msgid "Various"
+msgstr "Разное"
+
+msgid "View your profile"
+msgstr "Просмотреть профиля"
+
+msgid "Visible Columns"
+msgstr "Показывать столбцы"
+
+msgid "Visible with notifications"
+msgstr "Видимый с уведомлениями"
+
+msgid "Visit Jamendo at "
+msgstr "Посетить Jamendo"
+
+msgid "Visualization"
+msgstr "Визуализация"
+
+msgid "Visualization:"
+msgstr "Визуализация:"
+
+msgid "WAV"
+msgstr "WAV"
+
+msgid "W_ith faster tempo tracks first"
+msgstr "_Сначала дорожки с более быстрым ритмом"
+
+msgid "W_ith longer tracks first"
+msgstr "Самые _длинные дорожки первыми"
+
+msgid "W_ith more highly rated tracks first"
+msgstr "Наиболее высоко о_ценённые дорожки первыми"
+
+msgid "W_ith more often played songs first"
+msgstr "Самые _часто воспроизводимые песни первыми"
+
+msgid "W_ith more recently added tracks first"
+msgstr "Недавно _добавленные дорожки первыми"
+
+msgid "W_ith more recently played tracks first"
+msgstr "Недавно _прослушанные дорожки первыми"
+
+msgid "W_ith newer tracks first"
+msgstr "Самые _новые дорожки первыми"
+
+msgid "Waiting"
+msgstr "Ожидание"
+
+msgid "Waiting for authentication..."
+msgstr "Ожидание аутентификации"
+
+msgid "Which Audioscrobbler services do you wish to use?"
+msgstr "Какие службы Audioscrobbler вы хотите использовать?"
+
+msgid "Width of border around the label and image in the alert dialog"
+msgstr ""
+"Ширина рамки вокруг метки и изображения в диалоговом окне предупреждения"
+
+msgid "WinampCN (www.winampcn.com)"
+msgstr "WinampCN (www.winampcn.com)"
+
+msgid "Window"
+msgstr "в окне"
+
+msgid "Write _speed:"
+msgstr "Скорость _записи:"
+
+msgid "Write disc _to:"
+msgstr "_Привод:"
+
+msgid "Writing CD"
+msgstr "Запись компакт-диска"
+
+msgid "Writing audio to CD"
+msgstr "Запись компакт-диска"
+
+msgid "Writing canceled.  Try again?"
+msgstr "Запись отменена. Попытаться ещё раз?"
+
+msgid "Writing failed.  Try again?"
+msgstr "Запись завершилась неудачно. Попытаться ещё раз?"
+
+msgid "XML Shareable Playlist Format"
+msgstr "Стандартный XML-формат списка воспроизведения"
+
+msgid "Year"
+msgstr "Год"
+
+msgid "Yesterday %I:%M %p"
+msgstr "Вчера %I:%M %p"
+
+msgid "You are not currently logged in."
+msgstr "Вы не вошли в систему."
+
+msgid "You can access the main window through the 'shell' variable :"
+msgstr "К главному окну можно получить доступ, используя переменную «shell» :"
+
+msgid "You can find more information at http://www.jamendo.com/"
+msgstr ""
+"Для получения более полной информации обратитесь на http://www.jamendo.com/"
+
+msgid "You can find more information at http://www.magnatune.com/"
+msgstr ""
+"Для получения более полной информации обратитесь на http://www.magnatune.com/"
+
+msgid "You can improve the MusicBrainz database by adding this album."
+msgstr "Вы можете улучшить базу данных MusicBrainz, добавив этот альбом."
+
+msgid "You can now control Rhythmbox through your Remote"
+msgstr "Теперь Rhythmbox можно управлять через удалённый источник"
+
+msgid ""
+"You have not selected any music, playlists, or podcasts to transfer to this "
+"device."
+msgstr ""
+"Выделите музыку, списки воспроизведения или подкасты для передачи этому "
+"устройству."
+
+msgid "You must enter your password to listen to this station"
+msgstr "Необходимо ввести пароль для прослушивания этой станции"
+
+msgid "You must have a library location set to purchase an album."
+msgstr "Для покупки альбома необходимо указать расположение фонотеки."
+
+msgid ""
+"You should have received a copy of the GNU General Public License\n"
+"along with Rhythmbox; if not, write to the Free Software Foundation, Inc.,\n"
+"51 Franklin St, Fifth Floor, Boston, MA 02110-1301  USA\n"
+msgstr ""
+"Вы должны были получить копию GNU General Public License\n"
+"вместе с Rhythmbox. Если этого не произошло, напишите в Free Software "
+"Foundation, Inc.,\n"
+"51 Franklin St, Fifth Floor, Boston, MA 02110-1301  USA\n"
+
+msgid ""
+"Your account details have changed. Changes will be applied the next time you "
+"start Rhythmbox."
+msgstr ""
+"Информация о вашей учётной записи была изменена. Изменения вступят в силу "
+"после перезапуска Rhythmbox."
+
+msgid "Zeitgeist"
+msgstr "Zeitgeist"
+
+msgid "[URI...]"
+msgstr "[URI...]"
+
+msgid "[Untitled]"
+msgstr "[Безымянный]"
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Apply compression to prevent clipping"
+msgstr "_Применить сжатие для предотвращения клиппинга"
+
+msgid "_Artist"
+msgstr "Исп_олнитель"
+
+msgid "_Artist sort order:"
+msgstr "Порядок упорядочивания _исполнителей:"
+
+msgid "_Artist:"
+msgstr "_Исполнитель:"
+
+msgid "_Artists and albums"
+msgstr "_Исполнители и альбомы"
+
+msgid "_Browse"
+msgstr "Б_раузер"
+
+msgid "_Browse..."
+msgstr "_Обзор..."
+
+msgid "_Cancel"
+msgstr "О_тменить"
+
+msgid "_Cancel Download"
+msgstr "О_тменить загрузку"
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "_Comment:"
+msgstr "_Комментарий:"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Continue"
+msgstr "_Продолжить"
+
+msgid "_Control"
+msgstr "_Управление"
+
+msgid "_Copy"
+msgstr "_Копировать"
+
+msgid "_Create Audio CD..."
+msgstr "Создать звуковой _компакт-диск..."
+
+msgid "_Decrease Volume"
+msgstr "У_меньшить громкость"
+
+msgid "_Delete"
+msgstr "_Удалить"
+
+msgid "_Delete Episode And File"
+msgstr "Удалить эпизод и _файл"
+
+msgid "_Delete Feed And Files"
+msgstr "Удалить _ленту и файлы"
+
+msgid "_Delete Podcast Feed"
+msgstr "_Удалить ленту подкастов"
+
+msgid "_Delete Station"
+msgstr "_Удалить станцию"
+
+msgid "_Disc number:"
+msgstr "Номер _диска:"
+
+msgid "_Disc:"
+msgstr "_Диск:"
+
+msgid "_Disconnect"
+msgstr "_Отключиться"
+
+msgid "_Donate to Artist"
+msgstr "_Пожертвовать исполнителю"
+
+msgid "_Download Album"
+msgstr "_Загрузить альбом"
+
+msgid "_Download location:"
+msgstr "С_охранять в папку:"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_Edit..."
+msgstr "_Изменить..."
+
+msgid "_Eject"
+msgstr "_Извлечь"
+
+msgid "_Erase Disc"
+msgstr "О_чистить диск"
+
+msgid "_Extract to Library"
+msgstr "_Копировать в фонотеку"
+
+msgid "_File name:"
+msgstr "Имя _файла:"
+
+msgid "_Format:"
+msgstr "_Формат:"
+
+msgid "_Genre"
+msgstr "Жан_р"
+
+msgid "_Genre:"
+msgstr "_Жанр:"
+
+msgid "_Genres and artists"
+msgstr "_Жанры и исполнители"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Import Folder..."
+msgstr "Д_обавить папку..."
+
+msgid "_In decreasing order"
+msgstr "В порядке _уменьшения"
+
+msgid "_In reverse alphabetical order"
+msgstr "В о_братном порядке"
+
+msgid "_Increase Volume"
+msgstr "У_величить громкость"
+
+msgid "_Initialize"
+msgstr "_Инициализировать"
+
+msgid "_Interrupt"
+msgstr "П_рервать"
+
+msgid "_Jump to Playing Song"
+msgstr "П_ерейти к воспроизводимой композиции"
+
+msgid "_Last played"
+msgstr "_Последнее прослушивание"
+
+msgid "_Limit to: "
+msgstr "_Ограничивать до:"
+
+msgid "_Load from File..."
+msgstr "_Загрузить из файла..."
+
+msgid "_Look for touch Remotes"
+msgstr "_Поиск удалённых источников"
+
+msgid "_Make multiple copies"
+msgstr "Сделать _несколько копий"
+
+msgid "_Model:"
+msgstr "_Модель:"
+
+msgid "_Mouse wheel:"
+msgstr "_Колесо мыши:"
+
+msgid "_Move to Trash"
+msgstr "О_тправить в корзину"
+
+msgid "_Music"
+msgstr "_Музыка"
+
+msgid "_Music files are placed in:"
+msgstr "_Музыка расположена в:"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_New Playlist"
+msgstr "_Создать список воспроизведения"
+
+msgid "_New Playlist..."
+msgstr "_Создать список воспроизведения..."
+
+msgid "_New Podcast Feed..."
+msgstr "Добавить _ленту подкастов..."
+
+msgid "_Next"
+msgstr "_Следующая"
+
+msgid "_Notifications:"
+msgstr "_Уведомления:"
+
+msgid "_Paste"
+msgstr "Вст_авить"
+
+msgid "_Play"
+msgstr "Вос_произвести"
+
+msgid "_Play count"
+msgstr "С_чётчик прослушиваний"
+
+msgid "_Playlist"
+msgstr "Список _воспроизведения"
+
+msgid "_Pre-amp:"
+msgstr "_Предусилитель:"
+
+msgid "_Preferred format:"
+msgstr "_Предпочитаемый формат:"
+
+msgid "_Properties"
+msgstr "_Свойства"
+
+msgid "_Python Console"
+msgstr "_Консоль Python"
+
+msgid "_Quality"
+msgstr "_Качество"
+
+msgid "_Queue All Tracks"
+msgstr "Поставить _в очередь все дорожки"
+
+msgid "_Quit"
+msgstr "В_ыйти"
+
+msgid "_Rating"
+msgstr "О_ценка"
+
+msgid "_Rating:"
+msgstr "О_ценка:"
+
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgid "_Rename"
+msgstr "Переи_меновать"
+
+msgid "_Rename Station"
+msgstr "_Переименовать станцию"
+
+msgid "_Repeat"
+msgstr "П_овторять"
+
+msgid "_Replace"
+msgstr "Заме_нить"
+
+msgid "_Save"
+msgstr "_Сохранить"
+
+msgid "_Save to File..."
+msgstr "С_охранить в файл..."
+
+msgid "_Scan Removable Media"
+msgstr "_Просканировать сменные носители"
+
+msgid "_Search again"
+msgstr "_Найти ещё раз"
+
+msgid "_Search:"
+msgstr "_Найти:"
+
+msgid "_Share my music"
+msgstr "_Делиться музыкой с другими"
+
+msgid "_Show Music Player"
+msgstr "Показывать _окно проигрывателя"
+
+msgid "_Shuffle Playlist"
+msgstr "_Перемешать список воспроизведения"
+
+msgid "_Skip"
+msgstr "_Пропустить"
+
+msgid "_Small Display"
+msgstr "_Маленькое окно"
+
+msgid "_Song Position Slider"
+msgstr "_Ползунок навигации"
+
+msgid "_Status icon:"
+msgstr "Зна_чок состояния:"
+
+msgid "_Title:"
+msgstr "_Название:"
+
+msgid "_Tools"
+msgstr "_Инструменты"
+
+msgid "_Try Another"
+msgstr "Попробовать _другой"
+
+msgid "_Update All Feeds"
+msgstr "_Обновить все ленты"
+
+msgid "_Update Podcast Feed"
+msgstr "О_бновить ленту подкастов"
+
+msgid "_Use crossfading backend (requires restart)"
+msgstr ""
+"_Использовать плавное затухание громкости (требуется перезапуск "
+"проигрывателя)"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "_View on %s"
+msgstr "_Показать на %s"
+
+msgid "_Visualization"
+msgstr "Визуализ_ация"
+
+msgid "_Watch my library for new files"
+msgstr "С_ледить за появлением новых файлов в фонотеке"
+
+msgid "_When sorted by:"
+msgstr "_Упорядочить по:"
+
+msgid "_Year"
+msgstr "_Год"
+
+msgid "_Year:"
+msgstr "_Год:"
+
+msgid "after"
+msgstr "после"
+
+msgid "at least"
+msgstr "не менее"
+
+msgid "at most"
+msgstr "не более"
+
+msgid "before"
+msgstr "до"
+
+msgid "by"
+msgstr "в исполнении"
+
+msgid "by <i>%s</i>"
+msgstr "в исполнении <i>%s</i>"
+
+msgid "contains"
+msgstr "содержит"
+
+msgid "days"
+msgstr "дней"
+
+msgid "does not contain"
+msgstr "не содержит"
+
+msgid "ends with"
+msgstr "оканчивается на"
+
+msgid "equals"
+msgstr "совпадает с"
+
+msgid "from"
+msgstr "из альбома"
+
+msgid "from <i>%s</i>"
+msgstr "из альбома <i>%s</i>"
+
+msgid "hours"
+msgstr "часов"
+
+msgid "http://magnatune.com/compare_plans"
+msgstr "http://magnatune.com/compare_plans"
+
+msgid "http://www.jamendo.com/"
+msgstr "http://www.jamendo.com/"
+
+msgid "http://www.magnatune.com/info/"
+msgstr "http://www.magnatune.com/info/"
+
+msgid "http://www.magnatune.com/info/redownload"
+msgstr "http://www.magnatune.com/info/redownload"
+
+msgid "iPod _name:"
+msgstr "Наз_вание iPod:"
+
+msgid "iPod detected"
+msgstr "Обнаружен iPod"
+
+msgid "in"
+msgstr "в"
+
+msgid "in the last"
+msgstr "за последние"
+
+msgid "invalid unicode in error message"
+msgstr "неправильная кодировка в сообщении об ошибке"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "not equal to"
+msgstr "не совпадает с"
+
+msgid "not in"
+msgstr "не в"
+
+msgid "not in the last"
+msgstr "не за последние"
+
+msgctxt "query-criteria"
+msgid "Album"
+msgstr "Альбом"
+
+msgctxt "query-criteria"
+msgid "Album Artist"
+msgstr "Исполнитель альбома"
+
+msgctxt "query-criteria"
+msgid "Artist"
+msgstr "Исполнитель"
+
+msgctxt "query-criteria"
+msgid "Beats Per Minute"
+msgstr "Ударов в минуту"
+
+msgctxt "query-criteria"
+msgid "Bitrate"
+msgstr "Битовая частота"
+
+msgctxt "query-criteria"
+msgid "Comment"
+msgstr "Комментарий"
+
+msgctxt "query-criteria"
+msgid "Disc Number"
+msgstr "Номер диска"
+
+msgctxt "query-criteria"
+msgid "Duration"
+msgstr "Время"
+
+msgctxt "query-criteria"
+msgid "Genre"
+msgstr "Жанр"
+
+msgctxt "query-criteria"
+msgid "Path"
+msgstr "Путь"
+
+msgctxt "query-criteria"
+msgid "Play Count"
+msgstr "Прослушиваний"
+
+msgctxt "query-criteria"
+msgid "Rating"
+msgstr "Оценка"
+
+msgctxt "query-criteria"
+msgid "Time Added to Library"
+msgstr "Добавлено в фонотеку"
+
+msgctxt "query-criteria"
+msgid "Time of Last Play"
+msgstr "Последнее воспроизведение"
+
+msgctxt "query-criteria"
+msgid "Title"
+msgstr "Название"
+
+msgctxt "query-criteria"
+msgid "Track Number"
+msgstr "Номер дорожки"
+
+msgctxt "query-criteria"
+msgid "Year"
+msgstr "Год"
+
+msgctxt "query-sort"
+msgid "Album"
+msgstr "Альбом"
+
+msgctxt "query-sort"
+msgid "Album Artist"
+msgstr "Исполнитель альбома"
+
+msgctxt "query-sort"
+msgid "Artist"
+msgstr "Исполнитель"
+
+msgctxt "query-sort"
+msgid "Beats Per Minute"
+msgstr "Ударов в минуту"
+
+msgctxt "query-sort"
+msgid "Comment"
+msgstr "Комментарий"
+
+msgctxt "query-sort"
+msgid "Date Added"
+msgstr "Добавлено"
+
+msgctxt "query-sort"
+msgid "Duration"
+msgstr "Время"
+
+msgctxt "query-sort"
+msgid "Genre"
+msgstr "Жанр"
+
+msgctxt "query-sort"
+msgid "Last Played"
+msgstr "Прослушано"
+
+msgctxt "query-sort"
+msgid "Play Count"
+msgstr "Прослушиваний"
+
+msgctxt "query-sort"
+msgid "Rating"
+msgstr "Оценка"
+
+msgctxt "query-sort"
+msgid "Title"
+msgstr "Название"
+
+msgctxt "query-sort"
+msgid "Track Number"
+msgstr "Номер дорожки"
+
+msgctxt "query-sort"
+msgid "Year"
+msgstr "Год"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "songs"
+msgstr "композиций"
+
+msgid "starts with"
+msgstr "начинается с"
+
+msgid "translator-credits"
+msgstr ""
+"Nail Abdrahmanov <nail@gella.com.ru>, 2002\n"
+"Dmitry G. Mastrukov <dmitry@taurussoft.org>, 2004\n"
+"Коростелёв Даниил <dan@ats.energo.ru>\n"
+"Юрий Мясоедов <omerta13@yandex.ru>\n"
+"Anton Shestakov <engored@ya.ru>, 2008"
+
+msgid "weeks"
+msgstr "недель"
+
+msgid "♫ %(album)s ♫"
+msgstr "♫ %(album)s ♫"
+
+msgid "♫ %(artist)s - %(album)s ♫"
+msgstr "♫ %(artist)s - %(album)s ♫"
+
+msgid "♫ %(artist)s - %(title)s ♫"
+msgstr "♫ %(artist)s - %(title)s ♫"
+
+msgid "♫ %(title)s ♫"
+msgstr "♫ %(title)s ♫"
+
+msgid "♫ Listening to music... ♫"
+msgstr "♫ Прослушивание музыки… ♫"

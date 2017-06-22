@@ -1,0 +1,2350 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wget 1.16.3.124\n"
+"Report-Msgid-Bugs-To: bug-wget@gnu.org\n"
+"POT-Creation-Date: 2016-06-09 18:13+0200\n"
+"PO-Revision-Date: 2015-09-30 20:20+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgid ""
+"\n"
+"    The file is already fully retrieved; nothing to do.\n"
+"\n"
+msgstr ""
+"\n"
+"    Файл уже полностью загружен; нечего выполнять.\n"
+"\n"
+
+msgid ""
+"\n"
+"%*s[ skipping %sK ]"
+msgstr ""
+"\n"
+"%*s[ пропускается %sK ]"
+
+msgid ""
+"\n"
+"%s received, redirecting output to %s.\n"
+msgstr ""
+"\n"
+"Получен сигнал %s, вывод перенаправляется в %s.\n"
+
+msgid ""
+"\n"
+"%s received.\n"
+msgstr ""
+"\n"
+"Получен сигнал %s.\n"
+
+msgid ""
+"\n"
+"Originally written by Hrvoje Niksic <hniksic@xemacs.org>.\n"
+msgstr ""
+"\n"
+"Автор оригинальной версии: Hrvoje Niksic <hniksic@xemacs.org>.\n"
+
+msgid ""
+"\n"
+"REST failed, starting from scratch.\n"
+msgstr ""
+"\n"
+"Сбой REST, запуск с начала.\n"
+
+msgid "       --accept-regex=REGEX        regex matching accepted URLs\n"
+msgstr ""
+"       --accept-regex=РЕГВЫР       регулярное выражение для разрешённых URL\n"
+
+msgid "       --ask-password              prompt for passwords\n"
+msgstr "       --ask-password            запрашивать пароли\n"
+
+msgid ""
+"       --auth-no-challenge         send Basic HTTP authentication "
+"information\n"
+"                                     without first waiting for the server's\n"
+"                                     challenge\n"
+msgstr ""
+"       --auth-no-challenge     отправлять информацию об аутентификации\n"
+"                               Basic HTTP не дожидаясь первого ответа\n"
+"                               сервера\n"
+
+msgid ""
+"       --backups=N                 before writing file X, rotate up to N "
+"backup files\n"
+msgstr ""
+"  --backups=N               перед записью файла X, ротировать до N\n"
+"                            резервных файлов\n"
+
+msgid ""
+"       --bind-address=ADDRESS      bind to ADDRESS (hostname or IP) on local "
+"host\n"
+msgstr ""
+"       --bind-address=АДРЕС      привязать АДРЕС (имя компьютера или IP)\n"
+"                                 локального компьютера\n"
+
+msgid ""
+"       --body-data=STRING          send STRING as data. --method MUST be "
+"set\n"
+msgstr ""
+"       --body-data=СТРОКА      отправка СТРОКИ в качестве данных;\n"
+"                               ДОЛЖЕН быть указан параметр --method\n"
+
+msgid ""
+"       --body-file=FILE            send contents of FILE. --method MUST be "
+"set\n"
+msgstr ""
+"       --body-file=ФАЙЛ        отправка содержимого ФАЙЛА;\n"
+"                               ДОЛЖЕН быть указан параметр --method\n"
+
+msgid "       --ca-certificate=FILE       file with the bundle of CAs\n"
+msgstr "       --ca-certificate=ФАЙЛ    файл с набором CA\n"
+
+msgid ""
+"       --ca-directory=DIR          directory where hash list of CAs is "
+"stored\n"
+msgstr ""
+"       --ca-directory=КАТ       каталог, в котором хранится список CA\n"
+
+msgid ""
+"       --certificate-type=TYPE     client certificate type, PEM or DER\n"
+msgstr ""
+"       --certificate-type=ТИП   тип сертификата пользователя: PEM или DER\n"
+
+msgid "       --certificate=FILE          client certificate file\n"
+msgstr "       --certificate=FILE       файл сертификата пользователя\n"
+
+msgid "       --config=FILE               specify config file to use\n"
+msgstr "       --config=ФАЙЛ         задать файл настроек\n"
+
+msgid "       --connect-timeout=SECS      set the connect timeout to SECS\n"
+msgstr ""
+"       --connect-timeout=СЕК     установка тайм-аута подключения в СЕК\n"
+
+msgid ""
+"       --content-disposition       honor the Content-Disposition header "
+"when\n"
+"                                     choosing local file names "
+"(EXPERIMENTAL)\n"
+msgstr ""
+"       --content-disposition   учитывать заголовок Content-Disposition\n"
+"                               при выборе имён для локальных файлов\n"
+"                               (ЭКСПЕРИМЕНТАЛЬНЫЙ)\n"
+
+msgid ""
+"       --content-on-error          output the received content on server "
+"errors\n"
+msgstr ""
+"       --content-on-error      выводить принятые данные при ошибках сервера\n"
+
+msgid "       --crl-file=FILE             file with bundle of CRLs\n"
+msgstr "       --crl-file=ФАЙЛ          файл с набором CRL\n"
+
+msgid ""
+"       --cut-dirs=NUMBER           ignore NUMBER remote directory "
+"components\n"
+msgstr ""
+"       --cut-dirs=ЧИСЛО           игнорировать ЧИСЛО компонентов удалённого\n"
+"                                  каталога\n"
+
+msgid ""
+"       --default-page=NAME         change the default page name (normally\n"
+"                                     this is 'index.html'.)\n"
+msgstr ""
+"       --default-page=ИМЯ      изменить имя страницы по умолчанию (обычно\n"
+"                               это «index.html»)\n"
+
+msgid ""
+"       --delete-after              delete files locally after downloading "
+"them\n"
+msgstr "       --delete-after       удалять локальные файлы после загрузки\n"
+
+msgid "       --dns-timeout=SECS          set the DNS lookup timeout to SECS\n"
+msgstr ""
+"       --dns-timeout=СЕК         установка тайм-аута поиска в DNS в СЕК\n"
+
+msgid ""
+"       --egd-file=FILE             file naming the EGD socket with random "
+"data\n"
+msgstr ""
+"       --egd-file=ФАЙЛ          файл, определяющий сокет EGD со случайными "
+"данными\n"
+
+msgid ""
+"       --exclude-domains=LIST      comma-separated list of rejected domains\n"
+msgstr ""
+"       --exclude-domains=СПИСОК    список запрещённых доменов,\n"
+"                                   через запятую\n"
+
+msgid ""
+"       --follow-ftp                follow FTP links from HTML documents\n"
+msgstr ""
+"       --follow-ftp                следовать по ссылкам FTP в HTML-"
+"документах\n"
+
+msgid ""
+"       --follow-tags=LIST          comma-separated list of followed HTML "
+"tags\n"
+msgstr ""
+"       --follow-tags=СПИСОК        список используемых тегов HTML,\n"
+"                                   через запятую\n"
+
+msgid "       --ftp-password=PASS         set ftp password to PASS\n"
+msgstr "       --ftp-password=ПАРОЛЬ   установить ftp-пароль в ПАРОЛЬ\n"
+
+msgid ""
+"       --ftp-stmlf                 use Stream_LF format for all binary FTP "
+"files\n"
+msgstr ""
+"       --ftp-stmlf             использовать формат Stream_LF для всех\n"
+"                               двоичных файлов FTP\n"
+
+msgid "       --ftp-user=USER             set ftp user to USER\n"
+msgstr ""
+"       --ftp-user=ПОЛЬЗОВАТЕЛЬ установить ftp-пользователя в ПОЛЬЗОВАТЕЛЬ\n"
+
+msgid ""
+"       --ftps-clear-data-connection    cipher the control channel only; all "
+"the data will be in plaintext\n"
+msgstr ""
+"       --ftps-clear-data-connection    шифровать только канал управления;\n"
+"                                       данные не шифруются\n"
+
+msgid ""
+"       --ftps-fallback-to-ftp          fall back to FTP if FTPS is not "
+"supported in the target server\n"
+msgstr ""
+"       --ftps-fallback-to-ftp          вернуться к FTP, если FTPS не\n"
+"                                       поддерживается сервером\n"
+
+msgid ""
+"       --ftps-implicit                 use implicit FTPS (default port is "
+"990)\n"
+msgstr ""
+"       --ftps-implicit                 безусловно использовать FTPS (порт\n"
+"                                       по умолчанию — 990)\n"
+
+msgid ""
+"       --ftps-resume-ssl               resume the SSL/TLS session started in "
+"the control connection when\n"
+"                                         opening a data connection\n"
+msgstr ""
+"       --ftps-resume-ssl               возобновлять сеанс SSL/TLS, начатый\n"
+"                                       в канале управления, при открытии\n"
+"                                       канала данных\n"
+
+msgid "       --header=STRING             insert STRING among the headers\n"
+msgstr "       --header=СТРОКА         вставить СТРОКУ между заголовками\n"
+
+msgid ""
+"       --hsts-file                 path of HSTS database (will override "
+"default)\n"
+msgstr ""
+"       --hsts-file             путь к базе данных HSTS (заменит значение\n"
+"                               по умолчанию)\n"
+
+msgid "       --http-password=PASS        set http password to PASS\n"
+msgstr "       --http-password=ПАРОЛЬ  установить http-пароль в ПАРОЛЬ\n"
+
+msgid "       --http-user=USER            set http user to USER\n"
+msgstr ""
+"       --http-user=ПОЛЬЗОВ.    установить http-пользователя в ПОЛЬЗОВАТЕЛЬ\n"
+
+msgid "       --https-only                only follow secure HTTPS links\n"
+msgstr ""
+"       --https-only             переходить только по безопасным ссылкам "
+"HTTPS\n"
+
+msgid ""
+"       --ignore-case               ignore case when matching files/"
+"directories\n"
+msgstr ""
+"       --ignore-case             игнорировать регистр при сопоставлении\n"
+"                                 файлов и/или каталогов\n"
+
+msgid ""
+"       --ignore-length             ignore 'Content-Length' header field\n"
+msgstr ""
+"       --ignore-length         игнорировать поле заголовка «Content-Length»\n"
+
+msgid ""
+"       --ignore-tags=LIST          comma-separated list of ignored HTML "
+"tags\n"
+msgstr ""
+"       --ignore-tags=СПИСОК        список игнорируемых тегов HTML,\n"
+"                                   через запятую\n"
+
+msgid ""
+"       --input-metalink=FILE       download files covered in local Metalink "
+"FILE\n"
+msgstr ""
+"   --input-metalink=ФАЙЛ     скачать файлы, перечисленные в локальном\n"
+"                             ФАЙЛЕ Metalink\n"
+
+msgid ""
+"       --keep-session-cookies      load and save session (non-permanent) "
+"cookies\n"
+msgstr ""
+"       --keep-session-cookies  загрузить и сохранить кукисы сеанса\n"
+"                               (непостоянные)\n"
+
+msgid "       --limit-rate=RATE           limit download rate to RATE\n"
+msgstr "       --limit-rate=СКОРОСТЬ     ограничить СКОРОСТЬ загрузки\n"
+
+msgid ""
+"       --load-cookies=FILE         load cookies from FILE before session\n"
+msgstr ""
+"       --load-cookies=ФАЙЛ     загрузить кукисы из ФАЙЛА перед сеансом\n"
+
+msgid ""
+"       --local-encoding=ENC        use ENC as the local encoding for IRIs\n"
+msgstr ""
+"       --local-encoding=КДР      использовать КДР как локальную кодировку\n"
+"                                 для IRI\n"
+
+msgid ""
+"       --max-redirect              maximum redirections allowed per page\n"
+msgstr ""
+"       --max-redirect          максимально допустимое число перенаправлений\n"
+"                               на страницу\n"
+
+msgid ""
+"       --metalink-over-http        use Metalink metadata from HTTP response "
+"headers\n"
+msgstr ""
+"       --metalink-over-http      использовать метаданные Metalink из\n"
+"                                 заголовка ответов HTTP\n"
+
+msgid ""
+"       --method=HTTPMethod         use method \"HTTPMethod\" in the request\n"
+msgstr ""
+"       --method=HTTPMethod     использовать метод «HTTPMethod» в заголовке\n"
+
+msgid "       --no-cache                  disallow server-cached data\n"
+msgstr ""
+"       --no-cache              отвергать кэшированные сервером данные\n"
+
+msgid ""
+"       --no-check-certificate      don't validate the server's certificate\n"
+msgstr "       --no-check-certificate   не проверять сертификат сервера\n"
+
+msgid "       --no-config                 do not read any config file\n"
+msgstr "       --no-config           не читать файлы настроек\n"
+
+msgid "       --no-cookies                don't use cookies\n"
+msgstr "       --no-cookies            не использовать кукисы\n"
+
+msgid "       --no-dns-cache              disable caching DNS lookups\n"
+msgstr "       --no-dns-cache            отключить кэширование DNS-запросов\n"
+
+msgid "       --no-glob                   turn off FTP file name globbing\n"
+msgstr "       --no-glob               выключить маски для имён файлов FTP\n"
+
+msgid "       --no-hsts                   disable HSTS\n"
+msgstr "       --no-hsts               отключить HSTS\n"
+
+msgid ""
+"       --no-http-keep-alive        disable HTTP keep-alive (persistent "
+"connections)\n"
+msgstr ""
+"       --no-http-keep-alive    отключить поддержание активности HTTP\n"
+"                               (постоянные подключения)\n"
+
+msgid ""
+"       --no-if-modified-since      don't use conditional if-modified-since "
+"get\n"
+"                                     requests in timestamping mode\n"
+msgstr ""
+"       --no-use-server-timestamps    не использовать проверку\n"
+"                                 if-modified-since для запросов в режиме "
+"учёта\n"
+"                                 меток времени\n"
+
+msgid "       --no-iri                    turn off IRI support\n"
+msgstr "       --no-iri                  выключить поддержку IRI\n"
+
+msgid ""
+"       --no-passive-ftp            disable the \"passive\" transfer mode\n"
+msgstr "       --no-passive-ftp        отключить «пассивный» режим передачи\n"
+
+msgid "       --no-proxy                  explicitly turn off proxy\n"
+msgstr "       --no-proxy                явно выключить прокси\n"
+
+msgid "       --no-remove-listing         don't remove '.listing' files\n"
+msgstr "       --no-remove-listing     не удалять файлы «.listing»\n"
+
+msgid ""
+"       --no-warc-compression       do not compress WARC files with GZIP\n"
+msgstr ""
+"       --no-warc-compression     не сжимать файлы WARC с помощью GZIP\n"
+
+msgid "       --no-warc-digests           do not calculate SHA1 digests\n"
+msgstr "       --no-warc-digests         не вычислять дайджесты SHA1\n"
+
+msgid ""
+"       --no-warc-keep-log          do not store the log file in a WARC "
+"record\n"
+msgstr ""
+"       --no-warc-keep-log        не сохранять файл журнала в записи WARC\n"
+
+msgid ""
+"       --password=PASS             set both ftp and http password to PASS\n"
+msgstr ""
+"       --password=ПАРОЛЬ         установить ftp- и http-пароль в ПАРОЛЬ\n"
+
+msgid ""
+"       --post-data=STRING          use the POST method; send STRING as the "
+"data\n"
+msgstr ""
+"       --post-data=СТРОКА      использовать метод POST; отправка СТРОКИ в\n"
+"                               качестве данных\n"
+
+msgid ""
+"       --post-file=FILE            use the POST method; send contents of "
+"FILE\n"
+msgstr ""
+"       --post-file=ФАЙЛ        использовать метод POST; отправка "
+"содержимого\n"
+"                               ФАЙЛА\n"
+
+msgid ""
+"       --prefer-family=FAMILY      connect first to addresses of specified "
+"family,\n"
+"                                     one of IPv6, IPv4, or none\n"
+msgstr ""
+"       --prefer-family=СЕМЕЙСТВО подключаться сначала к адресам указанного\n"
+"                                 семейства (может быть IPv6, IPv4 или "
+"ничего)\n"
+
+msgid ""
+"       --preferred-location        preferred location for Metalink "
+"resources\n"
+msgstr ""
+"       --preferred-location      предпочитаемое расположение ресурсов "
+"Metalink\n"
+
+msgid "       --preserve-permissions      preserve remote file permissions\n"
+msgstr ""
+"       --preserve-permissions  сохранять права доступа удалённых файлов\n"
+
+msgid "       --private-key-type=TYPE     private key type, PEM or DER\n"
+msgstr "       --private-key-type=ТИП   тип секретного ключа: PEM или DER\n"
+
+msgid "       --private-key=FILE          private key file\n"
+msgstr "       --private-key=ФАЙЛ       файл секретного ключа\n"
+
+msgid "       --progress=TYPE             select progress gauge type\n"
+msgstr "       --progress=ТИП            выбрать тип индикатора выполнения\n"
+
+msgid "       --protocol-directories      use protocol name in directories\n"
+msgstr ""
+"       --protocol-directories     использовать имя протокола в каталогах\n"
+
+msgid "       --proxy-password=PASS       set PASS as proxy password\n"
+msgstr ""
+"       --proxy-password=ПАРОЛЬ   установить ПАРОЛЬ в качестве пароля для\n"
+"                               прокси\n"
+
+msgid "       --proxy-user=USER           set USER as proxy username\n"
+msgstr ""
+"       --proxy-user=ПОЛЬЗОВ.   установить ПОЛЬЗОВАТЕЛЯ в качестве имени\n"
+"                               пользователя для прокси\n"
+
+msgid ""
+"       --random-file=FILE          file with random data for seeding the SSL "
+"PRNG\n"
+msgstr ""
+"       --random-file=ФАЙЛ       файл со случайными данными для SSL PRNG\n"
+
+msgid ""
+"       --random-wait               wait from 0.5*WAIT...1.5*WAIT secs "
+"between retrievals\n"
+msgstr ""
+"       --random-wait             пауза в 0.5*WAIT...1.5*WAIT секунд\n"
+"                                 между загрузками\n"
+
+msgid "       --read-timeout=SECS         set the read timeout to SECS\n"
+msgstr "       --read-timeout=СЕК        установка тайм-аута чтения в СЕК\n"
+
+msgid ""
+"       --referer=URL               include 'Referer: URL' header in HTTP "
+"request\n"
+msgstr ""
+"       --referer=URL           включить в HTTP-запрос заголовок «Referer: "
+"URL»\n"
+
+msgid "       --regex-type=TYPE           regex type (posix)\n"
+msgstr "       --regex-type=ТИП            тип регулярного выражения (posix)\n"
+
+msgid "       --regex-type=TYPE           regex type (posix|pcre)\n"
+msgstr ""
+"       --regex-type=ТИП            тип регулярного выражения (posix|pcre)\n"
+
+msgid "       --reject-regex=REGEX        regex matching rejected URLs\n"
+msgstr ""
+"       --reject-regex=РЕГВЫР       регулярное выражение для запрещённых URL\n"
+
+msgid ""
+"       --rejected-log=FILE         log reasons for URL rejection to FILE\n"
+msgstr ""
+"       --rejected-log=ФАЙЛ   протоколировать причины отброса URL в ФАЙЛ\n"
+
+msgid ""
+"       --remote-encoding=ENC       use ENC as the default remote encoding\n"
+msgstr ""
+"       --remote-encoding=КДР     использовать КДР как удалённую кодировку\n"
+"                                 по умолчанию\n"
+
+msgid ""
+"       --report-speed=TYPE         output bandwidth as TYPE.  TYPE can be "
+"bits\n"
+msgstr ""
+"       --report-speed=ТИП    единицы измерения пропускной способности\n"
+"                             определить ТИПОМ. ТИП может быть равно bits\n"
+
+msgid ""
+"       --restrict-file-names=OS    restrict chars in file names to ones OS "
+"allows\n"
+msgstr ""
+"       --restrict-file-names=ОС  использовать в именах файлов символы,\n"
+"                                 допустимые в ОС\n"
+
+msgid ""
+"       --retr-symlinks             when recursing, get linked-to files (not "
+"dir)\n"
+msgstr ""
+"       --retr-symlinks         при рекурсии загружать файлы по ссылкам\n"
+"                               (не каталоги)\n"
+
+msgid ""
+"       --retry-connrefused         retry even if connection is refused\n"
+msgstr ""
+"       --retry-connrefused       повторять, даже если в подключении "
+"отказано\n"
+
+msgid "       --save-cookies=FILE         save cookies to FILE after session\n"
+msgstr "       --save-cookies=ФАЙЛ     сохранить кукисы в ФАЙЛ после сеанса\n"
+
+msgid "       --save-headers              save the HTTP headers to file\n"
+msgstr "       --save-headers          сохранять HTTP-заголовки в файл\n"
+
+msgid ""
+"       --secure-protocol=PR        choose secure protocol, one of auto, "
+"SSLv2,\n"
+"                                     SSLv3, TLSv1 and PFS\n"
+msgstr ""
+"       --secure-protocol=ПР     выбор безопасного протокола: auto, SSLv2,\n"
+"                                SSLv3, TLSv1 и PFS\n"
+
+msgid ""
+"       --show-progress             display the progress bar in any verbosity "
+"mode\n"
+msgstr ""
+"       --show-progress           показывать индикатор выполнения в любом\n"
+"                                 режиме подробности\n"
+
+msgid "       --spider                    don't download anything\n"
+msgstr "       --spider                  ничего не загружать\n"
+
+msgid ""
+"       --start-pos=OFFSET          start downloading from zero-based "
+"position OFFSET\n"
+msgstr ""
+"       --start-pos=СМЕЩЕНИЕ      начинать загрузку со СМЕЩЕНИЯ (считается с "
+"0)\n"
+
+msgid ""
+"       --strict-comments           turn on strict (SGML) handling of HTML "
+"comments\n"
+msgstr ""
+"       --strict-comments    включить строгую (SGML) обработку комментариев\n"
+"                            HTML\n"
+
+msgid ""
+"       --trust-server-names        use the name specified by the "
+"redirection\n"
+"                                     URL's last component\n"
+msgstr ""
+"  --trust-server-names  использовать имя, указанное в перенаправляющем URL,\n"
+"                        в качестве последнего компонента.\n"
+
+msgid "       --unlink                    remove file before clobber\n"
+msgstr "       --unlink                  удалить файл перед затиранием\n"
+
+msgid "       --user=USER                 set both ftp and http user to USER\n"
+msgstr ""
+"       --user=ПОЛЬЗОВАТЕЛЬ       установить и ftp- и http-пользователя в\n"
+"                                 ПОЛЬЗОВАТЕЛЬ\n"
+
+msgid ""
+"       --waitretry=SECONDS         wait 1..SECONDS between retries of a "
+"retrieval\n"
+msgstr ""
+"       --waitretry=СЕКУНДЫ       пауза в 1..СЕКУНДЫ между повторными\n"
+"                                 попытками загрузки\n"
+
+msgid "       --warc-cdx                  write CDX index files\n"
+msgstr "       --warc-cdx                записать индексные файлы CDX\n"
+
+msgid ""
+"       --warc-dedup=FILENAME       do not store records listed in this CDX "
+"file\n"
+msgstr ""
+"       --warc-dedup=ФАЙЛ         не сохранять записи, перечисленные в файле "
+"CDX\n"
+
+msgid ""
+"       --warc-file=FILENAME        save request/response data to a .warc.gz "
+"file\n"
+msgstr ""
+"       --warc-file=ФАЙЛ          записать данные запроса/ответа в файл .warc."
+"gz\n"
+
+msgid ""
+"       --warc-header=STRING        insert STRING into the warcinfo record\n"
+msgstr "       --warc-header=СТРОКА      вставить СТРОКУ в запись warcinfo\n"
+
+msgid ""
+"       --warc-max-size=NUMBER      set maximum size of WARC files to NUMBER\n"
+msgstr ""
+"       --warc-max-size=ЧИСЛО     максимальный размер файлов WARC равен "
+"ЧИСЛУ\n"
+
+msgid ""
+"       --warc-tempdir=DIRECTORY    location for temporary files created by "
+"the\n"
+"                                     WARC writer\n"
+msgstr ""
+"       --warc-tempdir=КАТАЛОГ    расположение для временных файлов,\n"
+"                                 создаваемых процедурой записи WARC\n"
+
+msgid "       --wdebug                    print Watt-32 debug output\n"
+msgstr "       --wdebug              показать отладочную информацию Watt-32\n"
+
+msgid "    %s (env)\n"
+msgstr "    %s (среда)\n"
+
+msgid "    %s (system)\n"
+msgstr "    %s (система)\n"
+
+msgid "    %s (user)\n"
+msgstr "    %s (пользователь)\n"
+
+msgid ""
+"    %s: certificate common name %s doesn't match requested host name %s.\n"
+msgstr ""
+"    %s: Общее название сертификата %s не совпадает с именем запрошенного "
+"узла %s.\n"
+
+msgid ""
+"    %s: certificate common name is invalid (contains a NUL character).\n"
+"    This may be an indication that the host is not who it claims to be\n"
+"    (that is, it is not the real %s).\n"
+msgstr ""
+"    %s: общее название сертификата некорректно (содержит символ NUL).\n"
+"    Это может указывать на то, что узел не тот, за кого себя выдаёт\n"
+"    (то есть не настоящий %s).\n"
+
+msgid "  -4,  --inet4-only                connect only to IPv4 addresses\n"
+msgstr "  -4,  --inet4-only              подключаться только к адресам IPv4\n"
+
+msgid "  -6,  --inet6-only                connect only to IPv6 addresses\n"
+msgstr "  -6,  --inet6-only              подключаться только к адресам IPv6\n"
+
+msgid ""
+"  -A,  --accept=LIST               comma-separated list of accepted "
+"extensions\n"
+msgstr ""
+"  -A,  --accept=СПИСОК             список разрешённых расширений\n"
+"                                   через запятую\n"
+
+msgid ""
+"  -B,  --base=URL                  resolves HTML input-file links (-i -F)\n"
+"                                     relative to URL\n"
+msgstr ""
+"  -B,  --base=URL            считать, что ссылки из входного файла (-i -F)\n"
+"                             указаны относительно URL\n"
+
+msgid ""
+"  -D,  --domains=LIST              comma-separated list of accepted domains\n"
+msgstr ""
+"  -D,  --domains=СПИСОК            список разрешённых доменов,\n"
+"                                   через запятую\n"
+
+msgid ""
+"  -E,  --adjust-extension          save HTML/CSS documents with proper "
+"extensions\n"
+msgstr ""
+"  -E,  --adjust-extension      сохранять документы HTML/CSS с надлежащими\n"
+"                               расширениями\n"
+
+msgid "  -F,  --force-html                treat input file as HTML\n"
+msgstr "  -F,  --force-html          считать, что входной файл — HTML\n"
+
+msgid "  -H,  --span-hosts                go to foreign hosts when recursive\n"
+msgstr ""
+"  -H,  --span-hosts                заходить на чужие узлы при рекурсии\n"
+
+msgid "  -I,  --include-directories=LIST  list of allowed directories\n"
+msgstr "  -I,  --include-directories=СПИСОК список разрешённых каталогов\n"
+
+msgid ""
+"  -K,  --backup-converted          before converting file X, back up as X."
+"orig\n"
+msgstr ""
+"  -K,  --backup-converted   перед преобразованием файла X делать резервную\n"
+"                            копию в виде X.orig\n"
+
+msgid ""
+"  -K,  --backup-converted          before converting file X, back up as "
+"X_orig\n"
+msgstr ""
+"  -K,  --backup-converted   перед преобразованием файла X делать резервную\n"
+"                            копию в виде X_orig\n"
+
+msgid "  -L,  --relative                  follow relative links only\n"
+msgstr ""
+"  -L,  --relative                  следовать только по относительным "
+"ссылкам\n"
+
+msgid ""
+"  -N,  --timestamping              don't re-retrieve files unless newer "
+"than\n"
+"                                     local\n"
+msgstr ""
+"  -N,  --timestamping            не загружать повторно файлы, только если "
+"они\n"
+"                                 не новее, чем локальные\n"
+
+msgid "  -O,  --output-document=FILE      write documents to FILE\n"
+msgstr "  -O,  --output-document=ФАЙЛ    записывать документы в ФАЙЛ\n"
+
+msgid "  -P,  --directory-prefix=PREFIX   save files to PREFIX/..\n"
+msgstr "  -P,  --directory-prefix=ПРЕФИКС сохранять файлы в ПРЕФИКС/..\n"
+
+msgid "  -Q,  --quota=NUMBER              set retrieval quota to NUMBER\n"
+msgstr ""
+"  -Q,  --quota=ЧИСЛО             установить величину квоты загрузки в ЧИСЛО\n"
+
+msgid ""
+"  -R,  --reject=LIST               comma-separated list of rejected "
+"extensions\n"
+msgstr ""
+"  -R,  --reject=СПИСОК             список запрещённых расширений,\n"
+"                                   разделённых запятыми.\n"
+
+msgid "  -S,  --server-response           print server response\n"
+msgstr "  -S,  --server-response         вывод ответа сервера\n"
+
+msgid "  -T,  --timeout=SECONDS           set all timeout values to SECONDS\n"
+msgstr ""
+"  -T,  --timeout=СЕКУНДЫ         установка значений всех тайм-аутов равными\n"
+"                                 числу СЕКУНД\n"
+
+msgid ""
+"  -U,  --user-agent=AGENT          identify as AGENT instead of Wget/"
+"VERSION\n"
+msgstr ""
+"  -U,  --user-agent=АГЕНТ      идентифицировать себя как АГЕНТ вместо\n"
+"                               Wget/ВЕРСИЯ\n"
+
+msgid ""
+"  -V,  --version                   display the version of Wget and exit\n"
+msgstr "  -V,  --version           показать версию Wget и завершить работу\n"
+
+msgid "  -X,  --exclude-directories=LIST  list of excluded directories\n"
+msgstr "  -X,  --exclude-directories=СПИСОК список исключаемых каталогов\n"
+
+msgid "  -a,  --append-output=FILE        append messages to FILE\n"
+msgstr "  -a,  --append-output=ФАЙЛ  дописывать сообщения в конец ФАЙЛА\n"
+
+msgid "  -b,  --background                go to background after startup\n"
+msgstr "  -b,  --background        после запуска перейти в фоновый режим\n"
+
+msgid ""
+"  -c,  --continue                  resume getting a partially-downloaded "
+"file\n"
+msgstr ""
+"  -c,  --continue                возобновить загрузку частично загруженного\n"
+"                                 файла\n"
+
+msgid ""
+"  -d,  --debug                     print lots of debugging information\n"
+msgstr "  -d,  --debug               показать много отладочной информации\n"
+
+msgid "  -e,  --execute=COMMAND           execute a `.wgetrc'-style command\n"
+msgstr "  -e,  --execute=КОМАНДА   выполнить команду в стиле «.wgetrc»\n"
+
+msgid "  -h,  --help                      print this help\n"
+msgstr "  -h,  --help              показать эту справку\n"
+
+msgid ""
+"  -i,  --input-file=FILE           download URLs found in local or external "
+"FILE\n"
+msgstr ""
+"  -i,  --input-file=ФАЙЛ     загрузить URL-ы согласно локальному\n"
+"                             или внешнему ФАЙЛУ\n"
+
+msgid ""
+"  -k,  --convert-links             make links in downloaded HTML or CSS "
+"point to\n"
+"                                     local files\n"
+msgstr ""
+"  -k,  --convert-links      делать ссылки локальными в загруженном\n"
+"                            HTML или CSS\n"
+
+msgid ""
+"  -l,  --level=NUMBER              maximum recursion depth (inf or 0 for "
+"infinite)\n"
+msgstr ""
+"  -l,  --level=ЧИСЛО        глубина рекурсии (inf и 0 — бесконечность)\n"
+
+msgid ""
+"  -m,  --mirror                    shortcut for -N -r -l inf --no-remove-"
+"listing\n"
+msgstr ""
+"  -m,  --mirror             короткий параметр, эквивалентный\n"
+"                            -N -r -l inf --no-remove-listing\n"
+
+msgid "  -nH, --no-host-directories       don't create host directories\n"
+msgstr "  -nH, --no-host-directories      не создавать каталоги как на узле\n"
+
+msgid ""
+"  -nc, --no-clobber                skip downloads that would download to\n"
+"                                     existing files (overwriting them)\n"
+msgstr ""
+"  -nc, --no-clobber              пропускать загрузки, которые приведут к\n"
+"                                 загрузке уже существующих файлов\n"
+"                                 (и их перезаписи)\n"
+
+msgid "  -nd, --no-directories            don't create directories\n"
+msgstr "  -nd, --no-directories           не создавать каталоги\n"
+
+msgid ""
+"  -np, --no-parent                 don't ascend to the parent directory\n"
+msgstr ""
+"  -np, --no-parent                 не подниматься в родительский каталог\n"
+
+msgid ""
+"  -nv, --no-verbose                turn off verboseness, without being "
+"quiet\n"
+msgstr ""
+"  -nv, --no-verbose          отключить вывод подробных сведений (не "
+"полностью)\n"
+
+msgid "  -o,  --output-file=FILE          log messages to FILE\n"
+msgstr "  -o,  --output-file=ФАЙЛ    записывать сообщения в ФАЙЛ\n"
+
+msgid ""
+"  -p,  --page-requisites           get all images, etc. needed to display "
+"HTML page\n"
+msgstr ""
+"  -p,  --page-requisites    загрузить все изображения и проч., необходимые\n"
+"                            для отображения HTML-страницы\n"
+
+msgid "  -q,  --quiet                     quiet (no output)\n"
+msgstr "  -q,  --quiet               ничего не выводить\n"
+
+msgid "  -r,  --recursive                 specify recursive download\n"
+msgstr "  -r,  --recursive          включение рекурсивной загрузки\n"
+
+msgid ""
+"  -t,  --tries=NUMBER              set number of retries to NUMBER (0 "
+"unlimits)\n"
+msgstr ""
+"  -t,  --tries=ЧИСЛО             установить ЧИСЛО повторных попыток\n"
+"                                 (0 без ограничения)\n"
+
+msgid "  -v,  --verbose                   be verbose (this is the default)\n"
+msgstr ""
+"  -v,  --verbose             показывать подробные сведения (по умолчанию)\n"
+
+msgid "  -w,  --wait=SECONDS              wait SECONDS between retrievals\n"
+msgstr "  -w,  --wait=СЕКУНДЫ            пауза в СЕКУНДАХ между загрузками\n"
+
+msgid "  -x,  --force-directories         force creation of directories\n"
+msgstr "  -x,  --force-directories        принудительно создавать каталоги\n"
+
+msgid "  Issued certificate has expired.\n"
+msgstr "  Для запрошенного сертификата истёк срок действия.\n"
+
+msgid "  Issued certificate not yet valid.\n"
+msgstr "  Запрошенный сертификат ещё недействителен.\n"
+
+msgid "  Self-signed certificate encountered.\n"
+msgstr "  Обнаружен самостоятельно подписанный сертификат.\n"
+
+msgid "  Unable to locally verify the issuer's authority.\n"
+msgstr "  Невозможно локально проверить подлинность запрашивающего.\n"
+
+msgid " (%s bytes)"
+msgstr " (%s байт)"
+
+msgid " (unauthoritative)\n"
+msgstr " (не достоверно)\n"
+
+msgid " [following]"
+msgstr " [переход]"
+
+msgid "%d redirections exceeded.\n"
+msgstr "Превышено число перенаправлений %d.\n"
+
+msgid "%s\n"
+msgstr "%s\n"
+
+msgid ""
+"%s (%s) - %s saved [%s/%s]\n"
+"\n"
+msgstr ""
+"%s (%s) - %s сохранён [%s/%s]\n"
+"\n"
+
+msgid ""
+"%s (%s) - %s saved [%s]\n"
+"\n"
+msgstr ""
+"%s (%s) - %s сохранён [%s]\n"
+"\n"
+
+msgid "%s (%s) - Connection closed at byte %s. "
+msgstr "%s (%s) - Соединение закрыто, позиция %s. "
+
+msgid "%s (%s) - Data connection: %s; "
+msgstr "%s (%s) - Соединение: %s; "
+
+msgid "%s (%s) - Read error at byte %s (%s)."
+msgstr "%s (%s) - Ошибка чтения, позиция %s (%s)."
+
+msgid "%s (%s) - Read error at byte %s/%s (%s). "
+msgstr "%s (%s) - Ошибка чтения, позиция %s/%s (%s). "
+
+msgid ""
+"%s (%s) - written to stdout %s[%s/%s]\n"
+"\n"
+msgstr ""
+"/%s (%s) - записан в stdout %s[%s/%s]\n"
+"\n"
+
+msgid ""
+"%s (%s) - written to stdout %s[%s]\n"
+"\n"
+msgstr ""
+"%s (%s) - записан в stdout %s[%s]\n"
+"\n"
+
+msgid "%s ERROR %d: %s.\n"
+msgstr "%s ОШИБКА %d: %s.\n"
+
+msgid "%s URL: %s %2d %s\n"
+msgstr "%s URL: %s %2d %s\n"
+
+msgid "%s has sprung into existence.\n"
+msgstr "%s вырвался в действительность.\n"
+
+msgid "%s request sent, awaiting response... "
+msgstr "%s-запрос отправлен. Ожидание ответа… "
+
+msgid "%s subprocess"
+msgstr "подпроцесс %s"
+
+msgid "%s subprocess failed"
+msgstr "подпроцесс %s завершился с ошибкой"
+
+msgid "%s subprocess got fatal signal %d"
+msgstr "подпроцесс %s получил сигнал завершения %d"
+
+msgid "%s: %s must only be used once\n"
+msgstr "%s: %s должно использоваться только один раз\n"
+
+msgid "%s: %s, closing control connection.\n"
+msgstr "%s: %s, управляющее соединение закрывается.\n"
+
+msgid "%s: %s: Failed to allocate %ld bytes; memory exhausted.\n"
+msgstr "%s: %s: не удалось выделить %ld байт; недостаточно памяти.\n"
+
+msgid "%s: %s: Failed to allocate enough memory; memory exhausted.\n"
+msgstr "%s: %s: Не удалось выделить достаточно памяти; нехватка памяти.\n"
+
+msgid "%s: %s: Invalid WARC header %s.\n"
+msgstr "%s: %s: Неверный заголовок WARC %s.\n"
+
+msgid "%s: %s: Invalid boolean %s; use `on' or `off'.\n"
+msgstr ""
+"%s: %s: Неверное логическое выражение %s; используйте «on» или «off».\n"
+
+msgid "%s: %s: Invalid byte value %s\n"
+msgstr "%s: %s: Неверное значение байта %s\n"
+
+msgid "%s: %s: Invalid header %s.\n"
+msgstr "%s: %s: Неверный заголовок %s.\n"
+
+msgid "%s: %s: Invalid number %s.\n"
+msgstr "%s: %s: Неверное число %s.\n"
+
+msgid "%s: %s: Invalid progress type %s.\n"
+msgstr "%s: %s: Неверный тип прогресса %s.\n"
+
+msgid ""
+"%s: %s: Invalid restriction %s,\n"
+"    use [unix|vms|windows],[lowercase|uppercase],[nocontrol],[ascii].\n"
+msgstr ""
+"%s: %s: Недопустимое ограничение %s,\n"
+"    используйте [unix|vms|windows],[lowercase|uppercase],[nocontrol],"
+"[ascii].\n"
+
+msgid "%s: %s: Invalid time period %s\n"
+msgstr "%s: %s: Неверный диапазон времени %s\n"
+
+msgid "%s: %s: Invalid value %s.\n"
+msgstr "%s: %s: Неверное значение %s.\n"
+
+msgid "%s: %s:%d: unknown token \"%s\"\n"
+msgstr "%s: %s:%d: неизвестный маркер «%s»\n"
+
+msgid "%s: %s:%d: warning: %s token appears before any machine name\n"
+msgstr ""
+"%s: %s:%d: предупреждение: перед именем каждой машины встречается маркер %s\n"
+
+msgid "%s: %s; disabling logging.\n"
+msgstr "%s: %s; журналирование отключается.\n"
+
+msgid "%s: Cannot read %s (%s).\n"
+msgstr "%s: Невозможно прочитать %s (%s).\n"
+
+msgid "%s: Cannot resolve incomplete link %s.\n"
+msgstr "%s: не удаётся распознать неполную ссылку %s.\n"
+
+msgid "%s: Couldn't find usable socket driver.\n"
+msgstr "%s: Невозможно найти подходящий драйвер сокета.\n"
+
+msgid "%s: Error in %s at line %d.\n"
+msgstr "%s: Ошибка в %s в строке %d.\n"
+
+msgid "%s: Invalid --execute command %s\n"
+msgstr "%s: Неверная команда --execute %s\n"
+
+msgid "%s: Invalid URL %s: %s\n"
+msgstr "%s: недопустимый URL %s: %s\n"
+
+msgid "%s: No certificate presented by %s.\n"
+msgstr "%s: Нет сертификата, представленного %s.\n"
+
+msgid "%s: Syntax error in %s at line %d.\n"
+msgstr "%s: Ошибка синтаксиса в %s в строке %d.\n"
+
+msgid "%s: The certificate of %s has been revoked.\n"
+msgstr "%s: Сертификат для %s отозван.\n"
+
+msgid "%s: The certificate of %s has expired.\n"
+msgstr "%s: Срок действия сертификата %s истёк.\n"
+
+msgid "%s: The certificate of %s hasn't got a known issuer.\n"
+msgstr "%s: Сертификат %s неизвестно кем выпущен.\n"
+
+msgid "%s: The certificate of %s is not trusted.\n"
+msgstr "%s: Нет доверия сертификату для %s.\n"
+
+msgid "%s: The certificate of %s is not yet activated.\n"
+msgstr "%s: Сертификат %s ещё не активирован.\n"
+
+msgid "%s: The certificate of %s was signed using an insecure algorithm.\n"
+msgstr "%s: Для подписания сертификата %s использован небезопасный алгоритм.\n"
+
+msgid "%s: The certificate signer of %s was not a CA.\n"
+msgstr "%s: Подписавший сертификат %s отсутствует в УЦ.\n"
+
+msgid "%s: Unknown command %s in %s at line %d.\n"
+msgstr "%s: Неизвестная команда %s в %s строке %d.\n"
+
+msgid "%s: WGETRC points to %s, which doesn't exist.\n"
+msgstr "%s: WGETRC указывает на несуществующий %s.\n"
+
+msgid "%s: Warning: Both system and user wgetrc point to %s.\n"
+msgstr ""
+"%s: Предупреждение: системный и пользовательский wgetrc указывают на %s.\n"
+
+msgid "%s: aprintf: text buffer is too big (%d bytes), aborting.\n"
+msgstr "%s: aprintf: текстовый буфер слишком велик (%d байт), останов.\n"
+
+msgid "%s: cannot stat %s: %s\n"
+msgstr "%s: невозможно выполнить stat для %s: %s\n"
+
+msgid "%s: cannot verify %s's certificate, issued by %s:\n"
+msgstr "%s: невозможно проверить сертификат %s, выпущенный %s:\n"
+
+msgid "%s: corrupt time-stamp.\n"
+msgstr "%s: повреждена метка даты/времени.\n"
+
+msgid "%s: illegal option -- `-n%c'\n"
+msgstr "%s: недопустимый параметр — «-n%c»\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: недопустимый параметр — «%c»\n"
+
+msgid "%s: missing URL\n"
+msgstr "%s: отсутствует URL\n"
+
+msgid ""
+"%s: no certificate subject alternative name matches\n"
+"\trequested host name %s.\n"
+msgstr ""
+"%s: альтернативное имя субъекта сертификата не совпадает с именем\n"
+"запрошенного узла %s.\n"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: для параметра «%c%s» нельзя использовать аргумент\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s: двусмысленный параметр «%s»\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s: двусмысленный параметр «%s»; возможные варианты:"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: для параметра «--%s» нельзя использовать аргумент\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: для параметра «%s» требуется аргумент\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: с параметром «-W %s» нельзя использовать аргумент\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: параметр «-W %s» неоднозначен\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: для параметра «%s» требуется аргумент\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: для параметра требуется аргумент — «%c»\n"
+
+msgid "%s: unable to resolve bind address %s; disabling bind.\n"
+msgstr "%s: не удаётся разрешить адрес bind %s; bind отключается.\n"
+
+msgid "%s: unable to resolve host address %s\n"
+msgstr "%s: не удаётся разрешить адрес %s\n"
+
+msgid "%s: unknown/unsupported file type.\n"
+msgstr "%s: неизвестный/неподдерживаемый тип файла.\n"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: нераспознанный параметр «%c%s»\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: нераспознанный параметр «--%s»\n"
+
+msgid "'"
+msgstr "»"
+
+msgid "(no description)"
+msgstr "(нет описания)"
+
+msgid "(try:%2d)"
+msgstr "(попытка:%2d)"
+
+msgid ", %s (%s) remaining"
+msgstr ", %s (%s) осталось"
+
+msgid ", %s remaining"
+msgstr ", %s осталось"
+
+msgid "-O not supported for metalink download. Ignoring.\n"
+msgstr "Параметр -O не поддерживается при скачивании metalink. Игнорируется.\n"
+
+msgid ""
+"-k or -r can be used together with -O only if outputting to a regular file.\n"
+msgstr ""
+"Параметр -k или -r может использовать только вместе с -O, если вывод "
+"производится в обычный файл.\n"
+
+msgid "==> CWD not needed.\n"
+msgstr "==> CWD не нужен.\n"
+
+msgid "==> CWD not required.\n"
+msgstr "==> CWD не требуется.\n"
+
+msgid "Address family for hostname not supported"
+msgstr "Семейство адресов не поддерживается для этого имени узла"
+
+msgid "All requests done"
+msgstr "Все запросы завершены"
+
+msgid ""
+"Already have correct symlink %s -> %s\n"
+"\n"
+msgstr ""
+"Корректная символическая ссылка %s -> %s уже существует.\n"
+"\n"
+
+msgid "Argument buffer too small"
+msgstr "Буфер аргументов слишком мал"
+
+msgid "Authentication selected: %s\n"
+msgstr "Выбранная аутентификация: %s\n"
+
+msgid "BODY data file %s missing: %s\n"
+msgstr "Отсутствует файл BODY-данных %s: %s\n"
+
+msgid "Bad port number"
+msgstr "Неверный номер порта"
+
+msgid "Bad value for ai_flags"
+msgstr "Неверное значение для ai_flags"
+
+msgid "Bind error (%s).\n"
+msgstr "Ошибка bind (%s).\n"
+
+msgid ""
+"Both --no-clobber and --convert-links were specified, only --convert-links "
+"will be used.\n"
+msgstr ""
+"Указаны сразу --no-clobber и --convert-links, будет использоваться только --"
+"convert-links.\n"
+
+msgid "CDX file does not list checksums. (Missing column 'k'.)\n"
+msgstr "Файл CDX не содержит контрольных сумм (отсутствует столбец «k»).\n"
+
+msgid "CDX file does not list original urls. (Missing column 'a'.)\n"
+msgstr "Файл CDX не содержит оригинальных url (отсутствует столбец «a»).\n"
+
+msgid "CDX file does not list record ids. (Missing column 'u'.)\n"
+msgstr ""
+"Файл CDX не содержит идентификаторов записей (отсутствует столбец «u»).\n"
+
+msgid "Can't be verbose and quiet at the same time.\n"
+msgstr "Невозможно одновременно использовать режимы verbose и quiet.\n"
+
+msgid "Can't timestamp and not clobber old files at the same time.\n"
+msgstr ""
+"Невозможно одновременно использовать временные метки и не затирать старые "
+"файлы.\n"
+
+msgid "Cannot back up %s as %s: %s\n"
+msgstr "Не удаётся сохранить %s под именем %s: %s\n"
+
+msgid "Cannot convert links in %s: %s\n"
+msgstr "Не удаётся преобразовать ссылки в %s: %s\n"
+
+msgid ""
+"Cannot convert timestamp to http format. Falling back to time 0 as last "
+"modification time.\n"
+msgstr ""
+"Невозможно преобразовать отметку времени в формат http. Откатываемся ко "
+"времени 0 как времени последнего изменения.\n"
+
+msgid "Cannot get REALTIME clock frequency: %s\n"
+msgstr "Не удаётся получить REALTIME-частоту часов: %s\n"
+
+msgid "Cannot initiate PASV transfer.\n"
+msgstr "Невозможно начать PASV-передачу.\n"
+
+msgid "Cannot open %s: %s"
+msgstr "Не удаётся открыть %s: %s"
+
+msgid "Cannot open cookies file %s: %s\n"
+msgstr "не удаётся открыть файл cookies %s: %s\n"
+
+msgid "Cannot parse PASV response.\n"
+msgstr "Ошибка разбора ответа PASV.\n"
+
+msgid "Cannot specify both --ask-password and --password.\n"
+msgstr "Невозможно указать сразу --ask-password и --password.\n"
+
+msgid "Cannot specify both --inet4-only and --inet6-only.\n"
+msgstr "Невозможно указать и --inet4-only, и --inet6-only.\n"
+
+msgid "Cannot unlink %s (%s).\n"
+msgstr "Невозможно удалить %s (%s).\n"
+
+msgid "Cannot write to %s (%s).\n"
+msgstr "Невозможно записать в %s (%s).\n"
+
+msgid "Cannot write to WARC file.\n"
+msgstr "Невозможно записать в файл WARC.\n"
+
+msgid "Cannot write to temporary WARC file.\n"
+msgstr "Невозможно записать во временный файл WARC.\n"
+
+msgid "Certificate must be X.509\n"
+msgstr "Сертификат должен соответствовать X.509\n"
+
+msgid "Checksum matches.\n"
+msgstr "Контрольная сумма совпадает.\n"
+
+msgid "Checksum mismatch for file %s.\n"
+msgstr "Контрольная сумма файла %s не совпадает.\n"
+
+msgid "Compile: "
+msgstr "Компиляция: "
+
+msgid "Computing checksum for %s\n"
+msgstr "Вычисляется контрольная сумма %s\n"
+
+msgid "Connecting to %s:%d... "
+msgstr "Подключение к %s:%d... "
+
+msgid "Connecting to %s|%s|:%d... "
+msgstr "Подключение к %s|%s|:%d... "
+
+msgid "Connecting to [%s]:%d... "
+msgstr "Подключение к [%s]:%d… "
+
+msgid "Continuing in background, pid %d.\n"
+msgstr "Работа продолжается в фоновом режиме, pid %d.\n"
+
+msgid "Continuing in background, pid %lu.\n"
+msgstr "Работа продолжается в фоновом режиме, pid %lu.\n"
+
+msgid "Continuing in background.\n"
+msgstr "Работа продолжается в фоновом режиме.\n"
+
+msgid "Control connection closed.\n"
+msgstr "Управляющее соединение закрыто.\n"
+
+msgid "Converted links in %d files in %s seconds.\n"
+msgstr "Ссылки преобразованы в файлы (%d) за %s секунд.\n"
+
+msgid "Converting links in %s... "
+msgstr "Преобразование ссылок в %s… "
+
+msgid "Cookie coming from %s attempted to set domain to "
+msgstr "Кукисы, полученные из %s, попытались изменить домен на "
+
+msgid "Copyright (C) %s Free Software Foundation, Inc.\n"
+msgstr "Copyright (C) %s Free Software Foundation, Inc.\n"
+
+msgid "Could not create temporary file. Skipping signature download.\n"
+msgstr "Не удалось создать временный файл. Скачивание подписи пропускается.\n"
+
+msgid "Could not download all resources from %s.\n"
+msgstr "Невозможно скачать все ресурсы с %s.\n"
+
+msgid ""
+"Could not find Metalink data in HTTP response. Downloading file using HTTP "
+"GET.\n"
+msgstr ""
+"Невозможно найти данные Metalink в ответе HTTP. Файл скачивается с помощью "
+"HTTP GET.\n"
+
+msgid ""
+"Could not find acceptable digest for Metalink resources.\n"
+"Ignoring them.\n"
+msgstr ""
+"Невозможно найти подходящую хэш-сумму (digest) для ресурсов Metalink.\n"
+"Игнорируем.\n"
+
+msgid "Could not initialize SSL. It will be disabled."
+msgstr "Невозможно инициализировать SSL. Будет отключено."
+
+msgid "Could not open CDX file for output.\n"
+msgstr "Невозможно открыть файл CDX для записи результата.\n"
+
+msgid "Could not open WARC file.\n"
+msgstr "Невозможно открыть файл WARC.\n"
+
+msgid "Could not open downloaded file for signature verification.\n"
+msgstr "Невозможно открыть скачанный файл для проверки подписи.\n"
+
+msgid "Could not open downloaded file.\n"
+msgstr "Невозможно открыть скачанный файл.\n"
+
+msgid "Could not open temporary WARC file.\n"
+msgstr "Невозможно открыть временный файл WARC.\n"
+
+msgid "Could not open temporary WARC log file.\n"
+msgstr "Невозможно открыть временный файл журнала WARC.\n"
+
+msgid "Could not open temporary WARC manifest file.\n"
+msgstr "Невозможно открыть временный файл манифеста WARC.\n"
+
+msgid "Could not read CDX file %s for deduplication.\n"
+msgstr "Невозможно прочитать файл CDX %s для дедупликации.\n"
+
+msgid "Could not seed PRNG; consider using --random-file.\n"
+msgstr ""
+"Невозможно породить PRNG; подразумевается использование параметра --random-"
+"file.\n"
+
+msgid "Creating symlink %s -> %s\n"
+msgstr "Создаётся символическая ссылка %s -> %s\n"
+
+msgid "Data matches signature, but signature is not trusted.\n"
+msgstr "Данные подписаны корректно, но к подписи нет доверия.\n"
+
+msgid "Data transfer aborted.\n"
+msgstr "Передача данных прервана.\n"
+
+msgid "Debugging support not compiled in. Ignoring --debug flag.\n"
+msgstr "Собрано без поддержки отладки. Флаг --debug игнорируется.\n"
+
+msgid ""
+"Digests are disabled; WARC deduplication will not find duplicate records.\n"
+msgstr ""
+"Дайджест отключён; дедупликация WARC не будет находить повторяющиеся "
+"записи.\n"
+
+msgid "Directories:\n"
+msgstr "Каталоги:\n"
+
+msgid "Directory   "
+msgstr "Каталог     "
+
+msgid "Disabling SSL due to encountered errors.\n"
+msgstr "SSL отключается из-за обнаруженных ошибок.\n"
+
+msgid "Download quota of %s EXCEEDED!\n"
+msgstr "ПРЕВЫШЕНО ограничение на загрузку (%s)!\n"
+
+msgid "Download:\n"
+msgstr "Загрузка:\n"
+
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+msgid "ERROR: Cannot open directory %s.\n"
+msgstr "ОШИБКА: Не удалось открыть каталог %s.\n"
+
+msgid "ERROR: Failed to load CRL file '%s': (%d)\n"
+msgstr "ОШИБКА: Не удалось загрузить CRL-файл «%s»: (%d).\n"
+
+msgid "ERROR: Failed to open cert %s: (%d).\n"
+msgstr "ОШИБКА: Ошибка открытия сертификата %s: (%d).\n"
+
+msgid "ERROR: GnuTLS requires the key and the cert to be of the same type.\n"
+msgstr "ОШИБКА: Для GnuTLS требуется ключ и сертификат одного типа.\n"
+
+msgid "ERROR: Redirection (%d) without location.\n"
+msgstr "ОШИБКА: перенаправление (%d) без указания адреса.\n"
+
+msgid "Encoding %s isn't valid\n"
+msgstr "Недопустимая кодировка %s\n"
+
+msgid "Error closing %s: %s\n"
+msgstr "Ошибка закрытия %s: %s\n"
+
+msgid "Error in handling the address list.\n"
+msgstr "Ошибка при обработке списка адресов.\n"
+
+msgid "Error in proxy URL %s: Must be HTTP.\n"
+msgstr "Ошибка в URL прокси %s: Должен быть HTTP.\n"
+
+msgid "Error in server greeting.\n"
+msgstr "Ошибка в приветствии сервера.\n"
+
+msgid "Error in server response, closing control connection.\n"
+msgstr "Ошибка в ответе сервера, управляющее соединение закрывается.\n"
+
+msgid "Error initializing X509 certificate: %s\n"
+msgstr "Ошибка инициализации сертификата X509: %s\n"
+
+msgid "Error matching %s against %s: %s\n"
+msgstr "Ошибка сопоставления %s с %s: %s\n"
+
+msgid "Error opening GZIP stream to WARC file.\n"
+msgstr "Ошибка открытия потока GZIP в файл WARC.\n"
+
+msgid "Error opening WARC file %s.\n"
+msgstr "Ошибка открытия файла WARC %s.\n"
+
+msgid "Error parsing certificate: %s\n"
+msgstr "Ошибка разбора сертификата: %s\n"
+
+msgid "Error parsing proxy URL %s: %s.\n"
+msgstr "Ошибка разбора URL прокси %s: %s\n"
+
+msgid "Error while matching %s: %d\n"
+msgstr "Ошибка при сравнении %s: %d\n"
+
+msgid "Error writing to %s: %s\n"
+msgstr "Ошибка записи в «%s»: %s\n"
+
+msgid "Error writing warcinfo record to WARC file.\n"
+msgstr "Ошибка сохранения записи warcinfo в файл WARC.\n"
+
+msgid "Exiting due to error in %s\n"
+msgstr "Завершение работы из-за ошибки в %s\n"
+
+msgid ""
+"FINISHED --%s--\n"
+"Total wall clock time: %s\n"
+"Downloaded: %d files, %s in %s (%s)\n"
+msgstr ""
+"ЗАВЕРШЕНО --%s--\n"
+"Общее время: %s\n"
+"Загружено: %d файлов, %s за %s (%s)\n"
+
+msgid "FTP options:\n"
+msgstr "Параметры FTP:\n"
+
+msgid "FTPS options:\n"
+msgstr "Параметры FTPS:\n"
+
+msgid "Failed reading proxy response: %s\n"
+msgstr "Сбой чтения ответа прокси: %s.\n"
+
+msgid "Failed to download %s. Skipping resource.\n"
+msgstr "Ошибка скачивания %s. Ресурс пропускается.\n"
+
+msgid "Failed to unlink symlink %s: %s\n"
+msgstr "Не удалось разорвать символьную ссылку %s: %s\n"
+
+msgid "Failed writing HTTP request: %s.\n"
+msgstr "Ошибка записи HTTP-запроса: %s.\n"
+
+msgid "File        "
+msgstr "Файл        "
+
+msgid "File %s already there; not retrieving.\n"
+msgstr "Файл %s уже существует; не загружается.\n"
+
+msgid ""
+"File %s already there; not retrieving.\n"
+"\n"
+msgstr ""
+"Файл %s уже существует — не загружается.\n"
+"\n"
+
+msgid "File %s exists.\n"
+msgstr "Файл %s существует.\n"
+
+msgid ""
+"File %s not modified on server. Omitting download.\n"
+"\n"
+msgstr ""
+"Файл %s на сервере не изменился. Скачивание пропускается.\n"
+"\n"
+
+msgid "File %s retrieved but checksum does not match. \n"
+msgstr "Файл %s получен, но контрольная сумма не совпадает. \n"
+
+msgid "File %s retrieved but signature does not match. \n"
+msgstr "Файл %s получен, но подпись не совпадает. \n"
+
+msgid "File `%s' already there; not retrieving.\n"
+msgstr "Файл «%s» уже существует; не загружается.\n"
+
+msgid "File has already been retrieved.\n"
+msgstr "Файл уже был загружен.\n"
+
+msgid ""
+"Found %d broken link.\n"
+"\n"
+msgid_plural ""
+"Found %d broken links.\n"
+"\n"
+msgstr[0] ""
+"Найдена %d битая ссылка.\n"
+"\n"
+msgstr[1] ""
+"Найдено %d битых ссылки.\n"
+"\n"
+msgstr[2] ""
+"Найдено %d битых ссылок.\n"
+"\n"
+
+msgid "Found exact match in CDX file. Saving revisit record to WARC.\n"
+msgstr ""
+"Найдено единственное совпадение в файле CDX. Сохраняем пересмотренную запись "
+"в WARC.\n"
+
+msgid ""
+"Found no broken links.\n"
+"\n"
+msgstr ""
+"Битые ссылки не найдены.\n"
+"\n"
+
+msgid ""
+"GNU Wget %s built on %s.\n"
+"\n"
+msgstr ""
+"GNU Wget %s для %s.\n"
+"\n"
+
+msgid "GNU Wget %s, a non-interactive network retriever.\n"
+msgstr ""
+"GNU Wget %s, программа для загрузки файлов из сети в автономном режиме.\n"
+
+msgid "GPGME data_new_from_mem: %s\n"
+msgstr "GPGME data_new_from_mem: %s\n"
+
+msgid "GPGME op_verify: %s\n"
+msgstr "GPGME op_verify: %s\n"
+
+msgid "GPGME op_verify_result: NULL\n"
+msgstr "GPGME op_verify_result: NULL\n"
+
+msgid ""
+"Giving up.\n"
+"\n"
+msgstr ""
+"Завершение.\n"
+"\n"
+
+msgid "GnuTLS: unimplemented 'secure-protocol' option value %d\n"
+msgstr "GnuTLS: значение %d параметра «secure-protocol» не реализовано\n"
+
+msgid "HSTS options:\n"
+msgstr "Параметры HSTS:\n"
+
+msgid "HTTP options:\n"
+msgstr "Параметры HTTP:\n"
+
+msgid "HTTPS (SSL/TLS) options:\n"
+msgstr "Параметры HTTPS (SSL/TLS):\n"
+
+msgid "HTTPS support not compiled in"
+msgstr "Программа скомпилирована без поддержки HTTPS"
+
+msgid "IPv6 addresses not supported"
+msgstr "Адреса IPv6 не поддерживаются"
+
+msgid "Incomplete or invalid multibyte sequence encountered\n"
+msgstr "Встречена неполная или недопустимая многобайтовая последовательность\n"
+
+msgid "Index of /%s on %s:%d"
+msgstr "Индекс /%s на %s:%d"
+
+msgid "Interrupted by a signal"
+msgstr "Прервано по сигналу"
+
+msgid "Invalid IPv6 numeric address"
+msgstr "Недопустимый числовой адрес IPv6"
+
+msgid "Invalid PORT.\n"
+msgstr "Недопустимый PORT.\n"
+
+msgid "Invalid UTF-8 sequence: %s\n"
+msgstr "Неверная последовательность UTF-8: %s\n"
+
+msgid "Invalid back reference"
+msgstr "Неправильная обратная ссылка"
+
+msgid "Invalid character class name"
+msgstr "Неправильное имя класса символов"
+
+msgid "Invalid collation character"
+msgstr "Неправильный символ сравнения"
+
+msgid "Invalid content of \\{\\}"
+msgstr "Недопустимое содержимое в \\{\\}"
+
+msgid "Invalid dot style specification %s; leaving unchanged.\n"
+msgstr "Недопустимая спецификация dot-стиля «%s»; оставлен без изменения.\n"
+
+msgid "Invalid host name"
+msgstr "Недопустимое имя сервера"
+
+msgid "Invalid name of the symlink, skipping.\n"
+msgstr "Недопустимое имя символической ссылки, пропускается.\n"
+
+msgid "Invalid preceding regular expression"
+msgstr "Недопустимое предшествующее регулярное выражение"
+
+msgid "Invalid pri value. Assuming %d.\n"
+msgstr "Недопустимое значение pri. Предполагаем %d.\n"
+
+msgid "Invalid range end"
+msgstr "Недопустимое окончание диапазона"
+
+msgid "Invalid regular expression"
+msgstr "Неправильное регулярное выражение"
+
+msgid "Invalid regular expression %s, %s\n"
+msgstr "Недопустимое регулярное выражение %s, %s\n"
+
+msgid "Invalid signature. Rejecting resource.\n"
+msgstr "Подпись недействительна. Отбрасываем источник.\n"
+
+msgid "Invalid user name"
+msgstr "Недопустимое имя пользователя"
+
+msgid "Last-modified header invalid -- time-stamp ignored.\n"
+msgstr ""
+"Недопустимый заголовок last-modified — временные отметки проигнорированы.\n"
+
+msgid "Last-modified header missing -- time-stamps turned off.\n"
+msgstr "Отсутствует заголовок last-modified — временные отметки выключены.\n"
+
+msgid "Length: "
+msgstr "Длина: "
+
+msgid "Length: %s"
+msgstr "Размер (байт): %s"
+
+msgid ""
+"License GPLv3+: GNU GPL version 3 or later\n"
+"<http://www.gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+"Лицензия GPLv3+: GNU GPL версии 3 или старше\n"
+"<http://www.gnu.org/licenses/gpl.html>.\n"
+"Это свободное программное обеспечение: его можно свободно изменять\n"
+"и распространять дальше.\n"
+"Ничего НЕ ГАРАНТИРУЕТСЯ, в пределах, ограниченных законом.\n"
+
+msgid "Link        "
+msgstr "Ссылка      "
+
+msgid "Link: "
+msgstr "Ссылка: "
+
+msgid ""
+"Loaded %d record from CDX.\n"
+"\n"
+msgid_plural ""
+"Loaded %d records from CDX.\n"
+"\n"
+msgstr[0] ""
+"Загружена %d запись из CDX.\n"
+"\n"
+msgstr[1] ""
+"Загружено %d записи из CDX.\n"
+"\n"
+msgstr[2] ""
+"Загружено %d записей из CDX.\n"
+"\n"
+
+msgid "Loaded CA certificate '%s'\n"
+msgstr "Загружен сертификат CA «%s»\n"
+
+msgid "Loaded CRL file '%s'\n"
+msgstr "Загружен CRL-файл «%s»\n"
+
+msgid "Loading robots.txt; please ignore errors.\n"
+msgstr "Загружается robots.txt; не обращайте внимание на ошибки.\n"
+
+msgid "Locale: "
+msgstr "Локаль: "
+
+msgid "Location: %s%s\n"
+msgstr "Адрес: %s%s\n"
+
+msgid "Logged in!\n"
+msgstr "Выполнен вход в систему!\n"
+
+msgid "Logging and input file:\n"
+msgstr "Журналирование и входной файл:\n"
+
+msgid "Logging in as %s ... "
+msgstr "Выполняется вход под именем %s … "
+
+msgid "Logically impossible section reached in getftp()"
+msgstr "В getftp() достигнута логически невозможный раздел"
+
+msgid "Login incorrect.\n"
+msgstr "Неверный логин.\n"
+
+msgid "Mail bug reports and suggestions to <bug-wget@gnu.org>\n"
+msgstr "Сообщения об ошибках и пожелания отправляйте на <bug-wget@gnu.org>\n"
+
+msgid "Malformed status line"
+msgstr "Неполная строка статуса"
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+"\n"
+msgstr ""
+"Обязательные аргументы для длинных параметров являются обязательными и для "
+"коротких параметров.\n"
+"\n"
+
+msgid "Memory allocation failure"
+msgstr "Ошибка выделения памяти"
+
+msgid "Memory allocation problem\n"
+msgstr "Проблема выделения памяти\n"
+
+msgid "Memory exhausted"
+msgstr "Закончилась память"
+
+msgid "Metalink headers found. Switching to Metalink mode.\n"
+msgstr "Найдены заголовки Metalink. Переходим в режим Metalink.\n"
+
+msgid "Name or service not known"
+msgstr "Неизвестное имя или сервис"
+
+msgid "No URLs found in %s.\n"
+msgstr "Не найдены URL-ы в файле %s.\n"
+
+msgid "No address associated with hostname"
+msgstr "С данным именем узла не ассоциирован адрес"
+
+msgid "No certificate found\n"
+msgstr "Сертификат не найден\n"
+
+msgid "No data received.\n"
+msgstr "Не получено никаких данных.\n"
+
+msgid "No error"
+msgstr "Нет ошибок"
+
+msgid "No headers, assuming HTTP/0.9"
+msgstr "Заголовки отсутствуют, подразумевается HTTP/0.9"
+
+msgid "No match"
+msgstr "Нет соответствия"
+
+msgid "No matches on pattern %s.\n"
+msgstr "Нет совпадений с шаблоном %s.\n"
+
+msgid "No previous regular expression"
+msgstr "Нет предшествующего регулярного выражения"
+
+msgid ""
+"No such directory %s.\n"
+"\n"
+msgstr ""
+"Нет такого каталога: %s.\n"
+"\n"
+
+msgid "No such file %s.\n"
+msgstr "Нет такого файла: %s.\n"
+
+msgid ""
+"No such file %s.\n"
+"\n"
+msgstr ""
+"Нет такого файла: %s.\n"
+"\n"
+
+msgid ""
+"No such file or directory %s.\n"
+"\n"
+msgstr ""
+"Нет такого файла или каталога: %s.\n"
+"\n"
+
+msgid "Non-recoverable failure in name resolution"
+msgstr "Невосстановимый сбой разрешения имен"
+
+msgid "Not descending to %s as it is excluded/not-included.\n"
+msgstr "Вход в каталог «%s» не выполняется, т.к. он исключён/не включён.\n"
+
+msgid "Not sure    "
+msgstr "Неизвестно  "
+
+msgid "OpenSSL: unimplemented 'secure-protocol' option value %d\n"
+msgstr "OpenSSL: значение %d параметра «secure-protocol» не реализовано\n"
+
+msgid ""
+"Opening WARC file %s.\n"
+"\n"
+msgstr ""
+"Открывается файл WARC %s.\n"
+"\n"
+
+msgid "Output will be written to %s.\n"
+msgstr "Выходные данные будут записаны в %s.\n"
+
+msgid "Parameter string not correctly encoded"
+msgstr "Неправильно закодирована строка параметров"
+
+msgid ""
+"Parsing system wgetrc file (env SYSTEM_WGETRC) failed.  Please check\n"
+"'%s',\n"
+"or specify a different file using --config.\n"
+msgstr ""
+"Ошибка обработки системного файла wgetrc (env SYSTEM_WGETRC). Проверьте\n"
+"«%s»,\n"
+"или укажите другой файл с помощью --config.\n"
+
+msgid ""
+"Parsing system wgetrc file failed.  Please check\n"
+"'%s',\n"
+"or specify a different file using --config.\n"
+msgstr ""
+"Ошибка обработки системного файла wgetrc. Проверьте\n"
+"«%s»,\n"
+"или укажите другой файл с помощью --config.\n"
+
+msgid "Password for user %s: "
+msgstr "Пароль для пользователя %s: "
+
+msgid "Password: "
+msgstr "Пароль: "
+
+msgid "Please report this issue to bug-wget@gnu.org\n"
+msgstr "Сообщите об этой ошибке по адресу bug-wget@gnu.org\n"
+
+msgid "Please send bug reports and questions to <bug-wget@gnu.org>.\n"
+msgstr "Сообщения об ошибках и вопросы отправляйте на <bug-wget@gnu.org>.\n"
+
+msgid "Premature end of regular expression"
+msgstr "Преждевременное завершение регулярного выражения"
+
+msgid "Processing request in progress"
+msgstr "Идёт обработка запроса"
+
+msgid "Proxy tunneling failed: %s"
+msgstr "Сбой туннелирования прокси: %s"
+
+msgid "Read error (%s) in headers.\n"
+msgstr "Ошибка чтения (%s) в заголовках.\n"
+
+msgid "Recursion depth %d exceeded max. depth %d.\n"
+msgstr "Глубина рекурсии %d превысила максимальную глубину %d.\n"
+
+msgid "Recursive accept/reject:\n"
+msgstr "Разрешения/запреты при рекурсии:\n"
+
+msgid "Recursive download:\n"
+msgstr "Рекурсивная загрузка:\n"
+
+msgid "Regular expression too big"
+msgstr "Регулярное выражение слишком велико"
+
+msgid "Rejecting %s.\n"
+msgstr "Отклоняется %s.\n"
+
+msgid "Remote file does not exist -- broken link!!!\n"
+msgstr "Удалённый файл не существует — битая ссылка!\n"
+
+msgid ""
+"Remote file exists and could contain further links,\n"
+"but recursion is disabled -- not retrieving.\n"
+"\n"
+msgstr ""
+"Удалённый файл существует и может содержать дополнительные\n"
+"ссылки, но рекурсия отключена — не загружается.\n"
+
+msgid ""
+"Remote file exists and could contain links to other resources -- "
+"retrieving.\n"
+"\n"
+msgstr ""
+"Удалённый файл существует и может содержать ссылки на другие ресурсы — "
+"загружается.\n"
+
+msgid ""
+"Remote file exists but does not contain any link -- not retrieving.\n"
+"\n"
+msgstr "Удалённый файл существует, но не содержит ссылок — не загружается.\n"
+
+msgid ""
+"Remote file exists.\n"
+"\n"
+msgstr ""
+"Удалённый файл существует.\n"
+"\n"
+
+msgid ""
+"Remote file is newer than local file %s -- retrieving.\n"
+"\n"
+msgstr ""
+"Удалённый файл новее локального файла %s — загружается.\n"
+"\n"
+
+msgid "Remote file is newer, retrieving.\n"
+msgstr "Удалённый файл более новый, загружается.\n"
+
+msgid "Remote file no newer than local file %s -- not retrieving.\n"
+msgstr "Удалённый файл не новее локального файла %s — не загружается.\n"
+
+msgid "Removed %s.\n"
+msgstr "Удалён %s.\n"
+
+msgid "Removing %s since it should be rejected.\n"
+msgstr "Удаляется %s, т. к. он должен быть исключён.\n"
+
+msgid "Removing %s.\n"
+msgstr "Удаляется %s.\n"
+
+msgid "Request canceled"
+msgstr "Запрос отменён"
+
+msgid "Request not canceled"
+msgstr "Запрос не отменён"
+
+msgid "Required attribute missing from Header received.\n"
+msgstr "Обязательный атрибут отсутствует в принятом Заголовке.\n"
+
+msgid "Resolving %s... "
+msgstr "Распознаётся %s… "
+
+msgid "Resource type %s not supported, ignoring...\n"
+msgstr "Тип ресурса %s не поддерживается, игнорируется…\n"
+
+msgid ""
+"Retrying.\n"
+"\n"
+msgstr ""
+"Повтор.\n"
+"\n"
+
+msgid "Reusing existing connection to %s:%d.\n"
+msgstr "Повторное использование соединения с %s:%d.\n"
+
+msgid "Reusing existing connection to [%s]:%d.\n"
+msgstr "Повторное использование соединения с [%s]:%d.\n"
+
+msgid "Saving to: %s\n"
+msgstr "Сохранение в: %s\n"
+
+msgid "Scheme missing"
+msgstr "Отсутствует схема"
+
+msgid "Server did not accept the 'PBSZ 0' command.\n"
+msgstr "Сервер не принял команду «PBSZ 0».\n"
+
+msgid "Server did not accept the 'PROT %c' command.\n"
+msgstr "Сервер не принял команду «PROT %c».\n"
+
+msgid "Server error, can't determine system type.\n"
+msgstr "Ошибка сервера, невозможно определить тип системы.\n"
+
+msgid ""
+"Server file no newer than local file %s -- not retrieving.\n"
+"\n"
+msgstr ""
+"Файл на сервере не новее локального файла %s — не загружается.\n"
+"\n"
+
+msgid ""
+"Server ignored If-Modified-Since header for file %s.\n"
+"You might want to add --no-if-modified-since option.\n"
+"\n"
+msgstr ""
+"Сервер проигнорировал заголовок If-Modified-Since для файла %s.\n"
+"Попробуйте добавить параметр --no-if-modified-since.\n"
+"\n"
+
+msgid "Servname not supported for ai_socktype"
+msgstr "Servname не поддерживается для ai_socktype"
+
+msgid "Signature validation suceeded.\n"
+msgstr "Подпись верна.\n"
+
+msgid "Skipping directory %s.\n"
+msgstr "Пропускается каталог %s.\n"
+
+msgid ""
+"Specifying both --start-pos and --continue is not recommended; --continue "
+"will be disabled.\n"
+msgstr ""
+"Не рекомендуется указывать --start-pos и --continue одновременно; --continue "
+"будет отключён.\n"
+
+msgid "Spider mode enabled. Check if remote file exists.\n"
+msgstr "Включен режим робота. Проверка существования удалённого файла.\n"
+
+msgid "Startup:\n"
+msgstr "Запуск:\n"
+
+msgid "Success"
+msgstr "Выполнено успешно"
+
+msgid "Symlinks not supported, skipping symlink %s.\n"
+msgstr "Символические ссылки не поддерживаются, ссылка %s пропускается.\n"
+
+msgid "Syntax error in Set-Cookie: %s at position %d.\n"
+msgstr "Синтаксическая ошибка в Set-Cookie: %s в позиции %d.\n"
+
+msgid "System error"
+msgstr "Системная ошибка"
+
+msgid "Temporary failure in name resolution"
+msgstr "Временный сбой при разрешении имени"
+
+msgid "The certificate has expired\n"
+msgstr "Срок действия сертификата истек\n"
+
+msgid "The certificate has not yet been activated\n"
+msgstr "Сертификат ещё не активирован\n"
+
+msgid "The certificate's owner does not match hostname %s\n"
+msgstr "Владелец сертификата не совпадает с именем узла %s\n"
+
+msgid "The server refuses login.\n"
+msgstr "Сервер отклонил логин.\n"
+
+msgid "The sizes do not match (local %s) -- retrieving.\n"
+msgstr "Размеры файлов не совпадают (локальный размер %s) — загружается.\n"
+
+msgid ""
+"The sizes do not match (local %s) -- retrieving.\n"
+"\n"
+msgstr ""
+"Размеры не совпадают (локальный размер %s) — загружается.\n"
+"\n"
+
+msgid "This version does not have support for IRIs\n"
+msgstr "Эта версия не поддерживает IRI\n"
+
+msgid "To connect to %s insecurely, use `--no-check-certificate'.\n"
+msgstr ""
+"Для небезопасного подключения к %s используйте параметр «--no-check-"
+"certificate».\n"
+
+msgid "Trailing backslash"
+msgstr "Обратная косая черта в конце"
+
+msgid "Try `%s --help' for more options.\n"
+msgstr "Дополнительные параметры выводятся по команде «%s --help».\n"
+
+msgid "Unable to delete %s: %s\n"
+msgstr "Не удаётся удалить %s: %s\n"
+
+msgid "Unable to establish SSL connection.\n"
+msgstr "Не удаётся установить SSL-соединение.\n"
+
+msgid "Unable to get cookie for %s\n"
+msgstr "Невозможно получить кукисы для %s\n"
+
+msgid "Unable to parse metalink file %s.\n"
+msgstr "Не удалось обработать файл metalink %s.\n"
+
+msgid "Unable to read signature content from temporary file. Skipping.\n"
+msgstr ""
+"Невозможно прочитать содержимое подписи из временного файла. Пропускается.\n"
+
+msgid "Unhandled errno %d\n"
+msgstr "Код необработанной ошибки %d\n"
+
+msgid "Unknown authentication scheme.\n"
+msgstr "Неизвестная схема аутентификации.\n"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown host"
+msgstr "Неизвестный узел"
+
+msgid "Unknown system error"
+msgstr "Неизвестная системная ошибка"
+
+msgid "Unknown type `%c', closing control connection.\n"
+msgstr "Неизвестный тип «%c», управляющее соединение закрывается.\n"
+
+msgid "Unmatched ( or \\("
+msgstr "Непарная ( или \\("
+
+msgid "Unmatched ) or \\)"
+msgstr "Непарная ) или \\)"
+
+msgid "Unmatched [ or [^"
+msgstr "Непарная [ или [^"
+
+msgid "Unmatched \\{"
+msgstr "Непарная \\{"
+
+msgid "Unsupported algorithm '%s'.\n"
+msgstr "Неподдерживаемый алгоритм «%s».\n"
+
+msgid "Unsupported listing type, trying Unix listing parser.\n"
+msgstr ""
+"Неподдерживаемый формат листинга, пробуется анализатор листинга для Unix.\n"
+
+msgid "Unsupported quality of protection '%s'.\n"
+msgstr "Неподдерживаемый атрибут защиты «%s».\n"
+
+msgid "Unsupported scheme %s"
+msgstr "Неподдерживаемая схема %s"
+
+msgid "Unterminated IPv6 numeric address"
+msgstr "Незавершённые числовые адреса IPv6"
+
+msgid "Usage: %s NETRC [HOSTNAME]\n"
+msgstr "Использование: %s NETRC [ИМЯ_УЗЛА]\n"
+
+msgid "Usage: %s [OPTION]... [URL]...\n"
+msgstr "Использование: %s [ПАРАМЕТР]... [URL]...\n"
+
+msgid "Username/Password Authentication Failed.\n"
+msgstr "Ошибка аутентификации пользователя/пароля.\n"
+
+msgid "Using %s as listing tmp file.\n"
+msgstr "В качестве временного файла для листинга используется %s.\n"
+
+msgid "WARC options:\n"
+msgstr "Параметры WARC:\n"
+
+msgid ""
+"WARC output does not work with --continue or --start-pos, they will be "
+"disabled.\n"
+msgstr ""
+"Вывод WARC не работает с --continue или --start-pos; они будут отключены.\n"
+
+msgid ""
+"WARC output does not work with --no-clobber, --no-clobber will be disabled.\n"
+msgstr ""
+"Вывод WARC не работает с --no-clobber, параметр --no-clobber будет "
+"отключён.\n"
+
+msgid "WARC output does not work with --spider.\n"
+msgstr "Вывод WARC не работает с --spider.\n"
+
+msgid ""
+"WARC output does not work with timestamping, timestamping will be disabled.\n"
+msgstr ""
+"Вывод WARC не работает с метками времени, метки времени будут отключены.\n"
+
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+msgid ""
+"WARNING: combining -O with -r or -p will mean that all downloaded content\n"
+"will be placed in the single file you specified.\n"
+"\n"
+msgstr ""
+"ПРЕДУПРЕЖДЕНИЕ: комбинирование параметра -O с -r или -p означает, что весь\n"
+"загруженные данные будут помещены в один файл.\n"
+"\n"
+
+msgid ""
+"WARNING: timestamping does nothing in combination with -O. See the manual\n"
+"for details.\n"
+"\n"
+msgstr ""
+"ПРЕДУПРЕЖДЕНИЕ: работа с метками времени не выполняется, если указан\n"
+"параметр -O. Подробности смотрите в руководстве.\n"
+"\n"
+
+msgid "WARNING: using a weak random seed.\n"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: используется слабый источник случайных данных.\n"
+
+msgid "Warning: wildcards not supported in HTTP.\n"
+msgstr "Предупреждение: в HTTP маски не поддерживаются.\n"
+
+msgid "Wgetrc: "
+msgstr "Wgetrc: "
+
+msgid ""
+"When downloading signature:\n"
+"%s: %s.\n"
+msgstr ""
+"При скачивании подписи:\n"
+"%s: %s.\n"
+
+msgid "Will not retrieve dirs since depth is %d (max %d).\n"
+msgstr ""
+"Каталоги не будут загружены, т.к. глубина составляет %d (максимум %d).\n"
+
+msgid "Write failed, closing control connection.\n"
+msgstr "Ошибка записи, управляющее соединение закрывается.\n"
+
+msgid "Wrote HTML-ized index to %s [%s].\n"
+msgstr "Индекс в формате HTML записан в файл «%s» [%s].\n"
+
+msgid "Wrote HTML-ized index to %s.\n"
+msgstr "Индекс в формате HTML записан в файл «%s».\n"
+
+msgid "You cannot specify both --body-data and --body-file.\n"
+msgstr "Нельзя указывать --body-data и --body-file одновременно.\n"
+
+msgid "You cannot specify both --post-data and --post-file.\n"
+msgstr "Нельзя указывать --post-data и --post-file одновременно.\n"
+
+msgid ""
+"You cannot use --post-data or --post-file along with --method. --method "
+"expects data through --body-data and --body-file options"
+msgstr ""
+"Нельзя использовать --post-data или --post-file вместе с --method. Параметр "
+"--method предполагает данные в параметрах --body-data и --body-file"
+
+msgid ""
+"You must specify a method through --method=HTTPMethod to use with --body-"
+"data or --body-file.\n"
+msgstr ""
+"Чтобы использовать --body-data или --body-file вы должны указать "
+"используемый метод через параметр --method=HTTPMethod.\n"
+
+msgid "Your OpenSSL version is too old to support TLSv1.1\n"
+msgstr "Версия вашего OpenSSL слишком старая для поддержки TLSv1.1\n"
+
+msgid "Your OpenSSL version is too old to support TLSv1.2\n"
+msgstr "Версия вашего OpenSSL слишком старая для поддержки TLSv1.2\n"
+
+msgid "_open_osfhandle failed"
+msgstr "_open_osfhandle завершилась неудачно"
+
+msgid "`"
+msgstr "«"
+
+msgid "ai_family not supported"
+msgstr "ai_family не поддерживается"
+
+msgid "ai_socktype not supported"
+msgstr "ai_socktype не поддерживается"
+
+msgid "cannot create pipe"
+msgstr "не удалось создать канал"
+
+msgid "cannot restore fd %d: dup2 failed"
+msgstr "не удалось восстановить fd %d: dup2 завершилась неудачно"
+
+msgid "connected.\n"
+msgstr "соединение установлено.\n"
+
+msgid "couldn't connect to %s port %d: %s\n"
+msgstr "невозможно было подключиться к %s порт %d: %s\n"
+
+msgid ""
+"cwd_count: %d\n"
+"cwd_start: %d\n"
+"cwd_end: %d\n"
+msgstr ""
+"cwd_count: %d\n"
+"cwd_start: %d\n"
+"cwd_end: %d\n"
+
+msgid "done.\n"
+msgstr "готово.\n"
+
+msgid "done.  "
+msgstr "готово.   "
+
+msgid "done.    "
+msgstr "готово.  "
+
+msgid "failed: %s.\n"
+msgstr "ошибка: %s.\n"
+
+msgid "failed: No IPv4/IPv6 addresses for host.\n"
+msgstr "ошибка: для сервера нет адреса IPv4/IPv6.\n"
+
+msgid "failed: timed out.\n"
+msgstr "ошибка: время ожидания истекло.\n"
+
+msgid "fake_fork() failed\n"
+msgstr "ошибка в fake_fork()\n"
+
+msgid "fake_fork_child() failed\n"
+msgstr "ошибка в fake_fork_child()\n"
+
+msgid "gmtime failed. This is probably a bug.\n"
+msgstr "Ошибка gmtime. Вероятно, из-за дефекта.\n"
+
+msgid "idn_decode failed (%d): %s\n"
+msgstr "ошибка idn_decode (%d): %s\n"
+
+msgid "idn_encode failed (%d): %s\n"
+msgstr "ошибка idn_encode (%d): %s\n"
+
+msgid "ignored"
+msgstr "игнорируется"
+
+msgid "ioctl() failed.  The socket could not be set as blocking.\n"
+msgstr "Ошибка в ioctl(). Не удалось установить блокировку на сокет.\n"
+
+msgid "locale_to_utf8: locale is unset\n"
+msgstr "locale_to_utf8: локаль не установлена\n"
+
+msgid "memory exhausted"
+msgstr "недостаточно памяти"
+
+msgid "nothing to do.\n"
+msgstr "нечего выполнять.\n"
+
+msgid "time unknown       "
+msgstr "время неизвестно   "
+
+msgid "unspecified"
+msgstr "нет данных"

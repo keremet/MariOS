@@ -23,9 +23,11 @@ include $(WS_MAKE_RULES)/configure.mk
 include $(WS_MAKE_RULES)/ips.mk
 
 
+
 build:		
 
-install:	
-	localedef -v -f UTF-8.cm -u UTF-8 -w widths.txt -i ru_CHM.UTF-8.src ru_CHM.UTF-8	
+install:
+	localedef -v -f UTF-8.cm -u UTF-8 -w widths.txt -i ru_CHM.UTF-8.src ru_CHM.UTF-8
+#	cd po && gmake
 
 test:		$(NO_TESTS)

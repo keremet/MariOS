@@ -1,0 +1,3365 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xscreensaver 4.09\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-02-13 12:26+0100\n"
+"PO-Revision-Date: 2003-05-17 16:53+0300\n"
+"Last-Translator: \"Andrew W. Nosenko\" <awn@bcs.zp.ua>\n"
+"Language-Team: Russian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "         "
+msgstr "         "
+
+msgid "        User:"
+msgstr "Пользователь:"
+
+msgid "%d-%b-%y (%a); %I:%M %p"
+msgstr "%d-%b-%y (%a); %I:%M %p"
+
+msgid "%s: unknown option: %s\n"
+msgstr "%s: неизвестный параметр: %s\n"
+
+msgid "*"
+msgstr "*"
+
+msgid "/"
+msgstr "/"
+
+msgid "/\\"
+msgstr "/\\"
+
+msgid "0"
+msgstr "100%"
+
+msgid "0 Seconds"
+msgstr "0 секунд"
+
+msgid "0 sec"
+msgstr "2 секунды"
+
+msgid "0%"
+msgstr "100%"
+
+msgid "1 Minute"
+msgstr "1 минута"
+
+msgid "1 Second"
+msgstr "1 секунда"
+
+msgid "1%"
+msgstr "1%"
+
+msgid "1.0"
+msgstr "100%"
+
+msgid "10"
+msgstr "100%"
+
+msgid "10 Seconds"
+msgstr "10 секунд"
+
+msgid "100"
+msgstr "100%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "2 min"
+msgstr "2 минуты"
+
+msgid "2 minutes"
+msgstr "2 минуты"
+
+msgid "2 seconds"
+msgstr "2 секунды"
+
+msgid "3"
+msgstr "3"
+
+msgid "30 sec"
+msgstr "2 секунды"
+
+msgid "30 seconds"
+msgstr "2 секунды"
+
+msgid "30 secs"
+msgstr "2 секунды"
+
+msgid "32"
+msgstr "32"
+
+msgid ""
+"3D simulation of a juggler performing with balls, clubs and rings. Written "
+"by Brian Apps; 2005."
+msgstr ""
+"3D simulation of a juggler performing with balls, clubs and rings. Written "
+"by Brian Apps; 2005."
+
+msgid "400"
+msgstr "400"
+
+msgid "5 Minutes"
+msgstr "1 минута"
+
+msgid "5 Seconds"
+msgstr "0 секунд"
+
+msgid "5 seconds"
+msgstr "5 секунд"
+
+msgid "50"
+msgstr "50"
+
+msgid "60"
+msgstr "100%"
+
+msgid "90 deg Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "<b>Checking...</b>"
+msgstr "<b>Проверка...</b>"
+
+msgid "<b>This display is locked.</b>"
+msgstr "<b>Этот экран заблокирован.</b>"
+
+msgid ""
+"A 3D animation of a number of sharks, dolphins, and whales. Written by Mark "
+"Kilgard; 1998."
+msgstr ""
+"A 3D animation of a number of sharks, dolphins, and whales. Written by Mark "
+"Kilgard; 1998."
+
+msgid ""
+"A Cow. A Trampoline. Together, they fight crime. Written by Jamie Zawinski; "
+"2003."
+msgstr ""
+"A Cow. A Trampoline. Together, they fight crime. Written by Jamie Zawinski; "
+"2003."
+
+msgid "A Hundred"
+msgstr "A Hundred"
+
+msgid ""
+"A bunch of fireflies chase a few baits around the screen, leaving colorful "
+"tails which get blown around by the wind. This program is not included with "
+"the XScreenSaver package, but if you don't have it already, you can find it "
+"at &lt;http://somewhere.fscked.org/fireflies/&gt;. Written by Matt Perry."
+msgstr ""
+"A bunch of fireflies chase a few baits around the screen, leaving colorful "
+"tails which get blown around by the wind. This program is not included with "
+"the XScreenSaver package, but if you don't have it already, you can find it "
+"at &lt;http://somewhere.fscked.org/fireflies/&gt;. Written by Matt Perry."
+
+msgid ""
+"A cellular automaton that is really a two-dimensional Turing machine: as the "
+"heads (\"ants\") walk along the screen, they change pixel values in their "
+"path. Then, as they pass over changed pixels, their behavior is influenced. "
+"Written by David Bagley; 1997."
+msgstr ""
+"A cellular automaton that is really a two-dimensional Turing machine: as the "
+"heads (\"ants\") walk along the screen, they change pixel values in their "
+"path. Then, as they pass over changed pixels, their behavior is influenced. "
+"Written by David Bagley; 1997."
+
+msgid ""
+"A cellular automaton that starts with a random field, and organizes it into "
+"stripes and spirals. Written by David Bagley; 1999."
+msgstr ""
+"A cellular automaton that starts with a random field, and organizes it into "
+"stripes and spirals. Written by David Bagley; 1999."
+
+msgid ""
+"A fleet of 3d space-age jet-powered flying toasters (and toast!) Inspired by "
+"the ancient Berkeley Systems After Dark flying toasters. Written by Jamie "
+"Zawinski and Baconmonkey; 2003."
+msgstr ""
+"A fleet of 3d space-age jet-powered flying toasters (and toast!) Inspired by "
+"the ancient Berkeley Systems After Dark flying toasters. Written by Jamie "
+"Zawinski and Baconmonkey; 2003."
+
+msgid ""
+"A growing plumbing system, with bolts and valves. Written by Marcelo Vianna; "
+"1997."
+msgstr ""
+"A growing plumbing system, with bolts and valves. Written by Marcelo Vianna; "
+"1997."
+
+msgid ""
+"A kaleidescope that operates on your desktop image, or on image files loaded "
+"from disk. Written by Andrew Dean; 2003."
+msgstr ""
+"A kaleidescope that operates on your desktop image, or on image files loaded "
+"from disk. Written by Andrew Dean; 2003."
+
+msgid ""
+"A little man with a big nose wanders around your screen saying things. "
+"Written by Dan Heller and Jamie Zawinski; 1992."
+msgstr ""
+"A little man with a big nose wanders around your screen saying things. "
+"Written by Dan Heller and Jamie Zawinski; 1992."
+
+msgid ""
+"A simple kaleidescope. See also \"gleidescope\". Written by Ron Tapia; 1997."
+msgstr ""
+"A simple kaleidescope. See also \"gleidescope\". Written by Ron Tapia; 1997."
+
+msgid ""
+"A spotlight roams across an embossed version of your desktop or other "
+"picture. Written by Shane Smit; 1999."
+msgstr ""
+"A spotlight roams across an embossed version of your desktop or other "
+"picture. Written by Shane Smit; 1999."
+
+msgid ""
+"A surface is filled with a hundred medium to small sized circles. Each "
+"circle has a different size and direction, but moves at the same slow rate. "
+"Displays the instantaneous intersections of the circles as well as the "
+"aggregate intersections of the circles. The circles begin with a radius of 1 "
+"pixel and slowly increase to some arbitrary size. Circles are drawn with "
+"small moving points along the perimeter. The intersections are rendered as "
+"glowing orbs. Glowing orbs are rendered only when a perimeter point moves "
+"past the intersection point. Written by Casey Reas, William Ngan, Robert "
+"Hodgin, and Jamie Zawinski; 2004."
+msgstr ""
+"A surface is filled with a hundred medium to small sized circles. Each "
+"circle has a different size and direction, but moves at the same slow rate. "
+"Displays the instantaneous intersections of the circles as well as the "
+"aggregate intersections of the circles. The circles begin with a radius of 1 "
+"pixel and slowly increase to some arbitrary size. Circles are drawn with "
+"small moving points along the perimeter. The intersections are rendered as "
+"glowing orbs. Glowing orbs are rendered only when a perimeter point moves "
+"past the intersection point. Written by Casey Reas, William Ngan, Robert "
+"Hodgin, and Jamie Zawinski; 2004."
+
+msgid ""
+"A surface is filled with a hundred medium to small sized circles. Each "
+"circle has a different size and direction, but moves at the same slow rate. "
+"Displays the instantaneous intersections of the circles as well as the "
+"aggregate intersections of the circles. Though actually it doesn't look like "
+"circles at all! Written by Casey Reas, William Ngan, Robert Hodgin, and "
+"Jamie Zawinski; 2004."
+msgstr ""
+"A surface is filled with a hundred medium to small sized circles. Each "
+"circle has a different size and direction, but moves at the same slow rate. "
+"Displays the instantaneous intersections of the circles as well as the "
+"aggregate intersections of the circles. Though actually it doesn't look like "
+"circles at all! Written by Casey Reas, William Ngan, Robert Hodgin, and "
+"Jamie Zawinski; 2004."
+
+msgid "AT-enabled lock dialog"
+msgstr "Диалог блокировки экрана с поддержкой AT"
+
+msgid ""
+"Activate the XScreenSaver daemon now (locking the screen if so configured.)"
+msgstr ""
+"Активировать XscreenSaver демон немедленно (кроме того, экран будет "
+"заблокирован, если включен соответствующий параметр в конфигурации)."
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "Advanced"
+msgstr "Расширенные"
+
+msgid "Advanced >>"
+msgstr "Расширенные >>"
+
+msgid "Agressive"
+msgstr "Агрессивно"
+
+msgid "Air Speed"
+msgstr "Скорость"
+
+msgid "AmigaDOS"
+msgstr "AmigaDOS"
+
+msgid ""
+"Anemotaxis demonstrates a search algorithm designed for locating a source of "
+"odor in turbulent atmosphere. The searcher is able to sense the odor and "
+"determine local instantaneous wind direction. The goal is to find the source "
+"in the shortest mean time. Written by Eugene Balkovsky; 2004."
+msgstr ""
+"Anemotaxis demonstrates a search algorithm designed for locating a source of "
+"odor in turbulent atmosphere. The searcher is able to sense the odor and "
+"determine local instantaneous wind direction. The goal is to find the source "
+"in the shortest mean time. Written by Eugene Balkovsky; 2004."
+
+msgid ""
+"Animates a Rubik-like puzzle known as Cube 21 or Square-1. The rotations are "
+"chosen randomly. Written by Vasek Potocek; 2005."
+msgstr ""
+"Animates a Rubik-like puzzle known as Cube 21 or Square-1. The rotations are "
+"chosen randomly. Written by Vasek Potocek; 2005."
+
+msgid ""
+"Animates a number of 3D electronic components. Written by Ben Buxton; 2001."
+msgstr ""
+"Animates a number of 3D electronic components. Written by Ben Buxton; 2001."
+
+msgid ""
+"Animates a simulation of Lemarchand's Box, the Lament Configuration, "
+"repeatedly solving itself. Warning: occasionally opens doors. Written by "
+"Jamie Zawinski; 1998."
+msgstr ""
+"Animates a simulation of Lemarchand's Box, the Lament Configuration, "
+"repeatedly solving itself. Warning: occasionally opens doors. Written by "
+"Jamie Zawinski; 1998."
+
+msgid ""
+"Animates the Julia set (a close relative of the Mandelbrot set). The small "
+"moving dot indicates the control point from which the rest of the image was "
+"generated. Written by Sean McCullough; 1997."
+msgstr ""
+"Animates the Julia set (a close relative of the Mandelbrot set). The small "
+"moving dot indicates the control point from which the rest of the image was "
+"generated. Written by Sean McCullough; 1997."
+
+msgid "Animation Speed"
+msgstr "Скорость анимации"
+
+msgid "Any"
+msgstr "Любой"
+
+msgid "Atari"
+msgstr "Atari"
+
+msgid "Authentication Cancelled!"
+msgstr "Аутентификация отменена!"
+
+msgid "Authentication Successful!"
+msgstr "Аутентификация прошла успешно!"
+
+msgid "Available"
+msgstr "доступен"
+
+msgid "Avoidance"
+msgstr "Avoidance"
+
+msgid "BSD"
+msgstr "BSD"
+
+msgid ""
+"BSOD stands for \"Blue Screen of Death\". The finest in personal computer "
+"emulation, this program simulates popular screen savers from a number of "
+"less robust operating systems. Written by Jamie Zawinski; 1998."
+msgstr ""
+"BSOD stands for \"Blue Screen of Death\". The finest in personal computer "
+"emulation, this program simulates popular screen savers from a number of "
+"less robust operating systems. Written by Jamie Zawinski; 1998."
+
+msgid "Back to the graphical configuration options."
+msgstr "Обратно к управлению параметрами через графический интерфейс."
+
+msgid "Ball Count"
+msgstr "Количество мячей"
+
+msgid "Balls"
+msgstr "Мячи"
+
+msgid "Barcode"
+msgstr "Обзор"
+
+msgid "Barcode Grid"
+msgstr "Barcode Grid"
+
+msgid "Best"
+msgstr "Наилучший"
+
+msgid ""
+"Black slips out of three mating nets, but the fourth one holds him tight! A "
+"brilliant composition! Written by Blair Tennessy; 2002."
+msgstr ""
+"Black slips out of three mating nets, but the fourth one holds him tight! A "
+"brilliant composition! Written by Blair Tennessy; 2002."
+
+msgid "Blank After"
+msgstr "Активация через"
+
+msgid "Blank Screen"
+msgstr "Пустой экран"
+
+msgid "Blank Screen Only"
+msgstr "Только очищать экран"
+
+msgid "Blob mode"
+msgstr "Blob mode"
+
+msgid "Boing"
+msgstr "Длинный"
+
+msgid "Bolted Fittings"
+msgstr "Bolted Fittings"
+
+msgid "Bounce Off Walls"
+msgstr "Отскакивать от стен"
+
+msgid "Bounce Speed"
+msgstr "Скорость решения"
+
+msgid ""
+"Bounces a series of line segments around the screen, and uses variations on "
+"this basic motion pattern to produce all sorts of different presentations: "
+"line segments, filled polygons, and overlapping translucent areas. Written "
+"by Jamie Zawinski; 1992."
+msgstr ""
+"Bounces a series of line segments around the screen, and uses variations on "
+"this basic motion pattern to produce all sorts of different presentations: "
+"line segments, filled polygons, and overlapping translucent areas. Written "
+"by Jamie Zawinski; 1992."
+
+msgid "Bowling Balls"
+msgstr "Bowling Balls"
+
+msgid "Box Size"
+msgstr "Размер"
+
+msgid "Browse"
+msgstr "Обзор"
+
+msgid "Browse..."
+msgstr "Обзор..."
+
+msgid "Bubble Color"
+msgstr "DirectColor"
+
+msgid "Can not run hacks if logged in as root!"
+msgstr "Can not run hacks if logged in as root!"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Carpet"
+msgstr "Carpet"
+
+msgid "Carpet Size"
+msgstr "Carpet Size"
+
+msgid "Centering"
+msgstr "Centering"
+
+msgid ""
+"Chains of colorful squares dance around each other in complex spiral "
+"patterns. Inspired by SGI's `electropaint' screensaver. Written by Andrew "
+"Plotkin; 2001."
+msgstr ""
+"Chains of colorful squares dance around each other in complex spiral "
+"patterns. Inspired by SGI's `electropaint' screensaver. Written by Andrew "
+"Plotkin; 2001."
+
+msgid "Choose Random Image:"
+msgstr "Выбирать случайное изображение:"
+
+msgid "Choose _Random Image:"
+msgstr "Выбирать случайное изображение:"
+
+msgid "Choose display mode randomly"
+msgstr "Choose display mode randomly"
+
+msgid "Clear Water"
+msgstr "Чистая вода"
+
+msgid "Click here to read the manual for this display mode, if it has one."
+msgstr ""
+"Показать документацию на данную заставку-хранитель, если, конечно, эта "
+"документация существует и доступна."
+
+msgid "Clubs"
+msgstr "Clubs"
+
+msgid "Color"
+msgstr "Color"
+
+msgid "Color Wheel"
+msgstr "Color"
+
+msgid ""
+"Color field based on computing decaying sinusoidal waves. Written by Hannu "
+"Mallat; 1998."
+msgstr ""
+"Color field based on computing decaying sinusoidal waves. Written by Hannu "
+"Mallat; 1998."
+
+msgid "Colormaps"
+msgstr "Цветовые палитры"
+
+msgid "Command Line:"
+msgstr "Командная строка:"
+
+msgid "Couldn't find pixmap file: %s"
+msgstr "Не удалось найти файл изображения: %s"
+
+msgid "Count"
+msgstr "Количество"
+
+msgid "Crackling fractal lightning bolts. Written by Keith Romberg; 1997."
+msgstr "Crackling fractal lightning bolts. Written by Keith Romberg; 1997."
+
+msgid "Craggy"
+msgstr "Gray"
+
+msgid ""
+"Creates a 3D world with dropping blocks that build up and up. Written by "
+"rednuht; 2006."
+msgstr ""
+"Creates a 3D world with dropping blocks that build up and up. Written by "
+"rednuht; 2006."
+
+msgid ""
+"Creates a collage of rotated and scaled portions of the screen. Written by "
+"Claudio Matsuoka; 2001."
+msgstr ""
+"Creates a collage of rotated and scaled portions of the screen. Written by "
+"Claudio Matsuoka; 2001."
+
+msgid "Crossfade Duration:"
+msgstr "Продолжительность перехода"
+
+msgid "Customization and explanation of the selected screen saver."
+msgstr "Настройка и объяснение выбранного хранителя экрана."
+
+msgid "Cycle"
+msgstr "Смена через"
+
+msgid "Cycle After"
+msgstr "Смена через"
+
+msgid ""
+"DATAI 2 ADDB 1,2 ROTC 2,-22 XOR 1,2 JRST .-4 As reported by HAKMEM, in 1962, "
+"Jackson Wright wrote the above PDP-1 code. That code still lives on in this "
+"program, some 44 years later. The number of lines of enclosing code has "
+"increased substantially, however. Written by Jackson Wright and Tim "
+"Showalter; 1997."
+msgstr ""
+"DATAI 2 ADDB 1,2 ROTC 2,-22 XOR 1,2 JRST .-4 As reported by HAKMEM, in 1962, "
+"Jackson Wright wrote the above PDP-1 code. That code still lives on in this "
+"program, some 44 years later. The number of lines of enclosing code has "
+"increased substantially, however. Written by Jackson Wright and Tim "
+"Showalter; 1997."
+
+msgid "DNA Logo"
+msgstr "DNA Logo"
+
+msgid ""
+"DNA Lounge 375 Eleventh Street San Francisco, CA 94107 http://www.dnalounge."
+"com/ Written by Jamie Zawinski; 2001."
+msgstr ""
+"DNA Lounge 375 Eleventh Street San Francisco, CA 94107 http://www.dnalounge."
+"com/ Written by Jamie Zawinski; 2001."
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default-N"
+msgstr "По умолчанию-N"
+
+msgid ""
+"Demo the selected screen saver in full-screen mode (click the mouse to "
+"return.)"
+msgstr ""
+"Показать выбранный хранитель в полноэкранном режиме (возврат обратно по "
+"щелчку мыши)."
+
+msgid "Dense"
+msgstr "Плотно"
+
+msgid "Density"
+msgstr "Плотность"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Descriptions not available: no XML support compiled in."
+msgstr "Описание недоступно: поддержка XML не была включена при компиляции."
+
+msgid "Detail"
+msgstr "По умолчанию"
+
+msgid "Diagnostics"
+msgstr "Диагностика"
+
+msgid "Different Colors"
+msgstr "Different Colors"
+
+msgid "DirectColor"
+msgstr "DirectColor"
+
+msgid "Disable Screen Saver"
+msgstr "Запретить хранитель экрана"
+
+msgid "Display Modes"
+msgstr "Режимы экрана"
+
+msgid "Display Power Management"
+msgstr "Управление питанием монитора"
+
+msgid "Display Speed"
+msgstr "Режимы экрана"
+
+msgid "Display Splash Screen at Startup"
+msgstr "Показывать окно-заставку при запуске"
+
+msgid "Display Subprocess Errors"
+msgstr "Показывать ошибки подпроцессов"
+
+msgid "Display images"
+msgstr "Display images"
+
+msgid "Display scrolling text"
+msgstr "Display scrolling text"
+
+msgid "Display version information."
+msgstr "Показать информацию о версии программы."
+
+msgid ""
+"Displays a few lines of text spinning around in a solid 3D font. Written by "
+"Jamie Zawinski; 2001."
+msgstr ""
+"Displays a few lines of text spinning around in a solid 3D font. Written by "
+"Jamie Zawinski; 2001."
+
+msgid ""
+"Displays a view of the \"Bird in a Thornbush\" fractal. Written by Tim "
+"Auckland; 2002."
+msgstr ""
+"Displays a view of the \"Bird in a Thornbush\" fractal. Written by Tim "
+"Auckland; 2002."
+
+msgid ""
+"Displays different 3D solids and some information about each. A new solid is "
+"chosen every few seconds. There are 75 uniform polyhedra, plus 5 infinite "
+"sets of prisms and antiprisms; including their duals brings the total to "
+"160. Written by Dr. Zvi Har'El and Jamie Zawinski; 2004."
+msgstr ""
+"Displays different 3D solids and some information about each. A new solid is "
+"chosen every few seconds. There are 75 uniform polyhedra, plus 5 infinite "
+"sets of prisms and antiprisms; including their duals brings the total to "
+"160. Written by Dr. Zvi Har'El and Jamie Zawinski; 2004."
+
+msgid ""
+"Displays mpeg video of an animated fractal flame. In the background, it "
+"contributes render cycles to the next animation. Periodically it uploades "
+"completed frames to the server, where they are compressed for distribution "
+"to all clients. This program is recommended only if you have a high "
+"bandwidth, always-on connection to the Internet. You can find it at &lt;"
+"http://www.electricsheep.org/&gt;. Written by By Scott Draves."
+msgstr ""
+"Displays mpeg video of an animated fractal flame. In the background, it "
+"contributes render cycles to the next animation. Periodically it uploades "
+"completed frames to the server, where they are compressed for distribution "
+"to all clients. This program is recommended only if you have a high "
+"bandwidth, always-on connection to the Internet. You can find it at &lt;"
+"http://www.electricsheep.org/&gt;. Written by By Scott Draves."
+
+msgid ""
+"Divides the screen into a grid, and plucks them. Written by Dan Bornstein; "
+"2002."
+msgstr ""
+"Divides the screen into a grid, and plucks them. Written by Dan Bornstein; "
+"2002."
+
+msgid "Documentation..."
+msgstr "Документация..."
+
+msgid "Dont know whats up!"
+msgstr "Происходит нечто непонятное!"
+
+msgid "Draw Goal"
+msgstr "Draw Goal"
+
+msgid "Draw bounding box"
+msgstr "Draw bounding box"
+
+msgid "Draw circles instead of bubble images"
+msgstr "Draw circles instead of bubble images"
+
+msgid ""
+"Draws 3D dropping characters similar to what is seen in the title sequence "
+"of \"The Matrix\". See also \"xmatrix\" for a 2D rendering of the similar "
+"effect that appeared on the computer monitors actually *in* the movie. "
+"Written by Jamie Zawinski; 2003."
+msgstr ""
+"Draws 3D dropping characters similar to what is seen in the title sequence "
+"of \"The Matrix\". See also \"xmatrix\" for a 2D rendering of the similar "
+"effect that appeared on the computer monitors actually *in* the movie. "
+"Written by Jamie Zawinski; 2003."
+
+msgid ""
+"Draws a 3D Simulation a Lava Lite(r): odd-shaped blobs of a mysterious "
+"substance are heated, slowly rise to the top of the bottle, and then drop "
+"back down as they cool. This program requires a fairly fast machine (both "
+"CPU and 3D performance.) \"LAVA LITE(r) and the configuration of the LAVA(r) "
+"brand motion lamp are registered trademarks of Haggerty Enterprises, Inc. "
+"The configuration of the globe and base of the motion lamp are registered "
+"trademarks of Haggerty Enterprises, Inc. in the U.S.A. and in other "
+"countries around the world.\" Written by Jamie Zawinski; 2002."
+msgstr ""
+"Draws a 3D Simulation a Lava Lite(r): odd-shaped blobs of a mysterious "
+"substance are heated, slowly rise to the top of the bottle, and then drop "
+"back down as they cool. This program requires a fairly fast machine (both "
+"CPU and 3D performance.) \"LAVA LITE(r) and the configuration of the LAVA(r) "
+"brand motion lamp are registered trademarks of Haggerty Enterprises, Inc. "
+"The configuration of the globe and base of the motion lamp are registered "
+"trademarks of Haggerty Enterprises, Inc. in the U.S.A. and in other "
+"countries around the world.\" Written by Jamie Zawinski; 2002."
+
+msgid ""
+"Draws a Rubik's Cube that rotates in three dimensions and repeatedly "
+"shuffles and solves itself. Written by Marcelo Vianna; 1997."
+msgstr ""
+"Draws a Rubik's Cube that rotates in three dimensions and repeatedly "
+"shuffles and solves itself. Written by Marcelo Vianna; 1997."
+
+msgid ""
+"Draws a ball that periodically extrudes many random spikes. Ouch! Written by "
+"Jamie Zawinski; 2001."
+msgstr ""
+"Draws a ball that periodically extrudes many random spikes. Ouch! Written by "
+"Jamie Zawinski; 2001."
+
+msgid ""
+"Draws a box full of 3D bouncing balls that explode. Written by Sander van "
+"Grieken; 2002."
+msgstr ""
+"Draws a box full of 3D bouncing balls that explode. Written by Sander van "
+"Grieken; 2002."
+
+msgid ""
+"Draws a colorful random-walk, in various forms. Written by Rick Campbell; "
+"1999."
+msgstr ""
+"Draws a colorful random-walk, in various forms. Written by Rick Campbell; "
+"1999."
+
+msgid ""
+"Draws a few swarms of critters flying around the screen, with faded color "
+"trails behind them. Written by Chris Leger; 2000."
+msgstr ""
+"Draws a few swarms of critters flying around the screen, with faded color "
+"trails behind them. Written by Chris Leger; 2000."
+
+msgid ""
+"Draws a few views of a few ants walking around in a simple maze. Written by "
+"Blair Tennessy; 2005."
+msgstr ""
+"Draws a few views of a few ants walking around in a simple maze. Written by "
+"Blair Tennessy; 2005."
+
+msgid ""
+"Draws a grid of 3D colored tiles that change positions with each other. "
+"Written by Kevin Ogden and Sergio Gutierrez; 2003."
+msgstr ""
+"Draws a grid of 3D colored tiles that change positions with each other. "
+"Written by Kevin Ogden and Sergio Gutierrez; 2003."
+
+msgid ""
+"Draws a grid of growing square-like shapes that, once they overtake each "
+"other, react in unpredictable ways. \"RD\" stands for reaction-diffusion. "
+"Written by Scott Draves."
+msgstr ""
+"Draws a grid of growing square-like shapes that, once they overtake each "
+"other, react in unpredictable ways. \"RD\" stands for reaction-diffusion. "
+"Written by Scott Draves."
+
+msgid ""
+"Draws a groovy rotating fiber optic lamp. Written by Tim Auckland; 2005."
+msgstr ""
+"Draws a groovy rotating fiber optic lamp. Written by Tim Auckland; 2005."
+
+msgid ""
+"Draws a juggling stick-man. See also \"Juggle3D\". Written by Tim Auckland; "
+"2002."
+msgstr ""
+"Draws a juggling stick-man. See also \"Juggle3D\". Written by Tim Auckland; "
+"2002."
+
+msgid ""
+"Draws a line segment moving along a complex spiraling curve. Written by Tom "
+"Lawrence; 1997."
+msgstr ""
+"Draws a line segment moving along a complex spiraling curve. Written by Tom "
+"Lawrence; 1997."
+
+msgid ""
+"Draws a planet bouncing around in space. The built-in image is a map of the "
+"earth (extracted from `xearth'), but you can wrap any texture around the "
+"sphere, e.g., the planetary textures that come with `ssystem'. Written by "
+"David Konerding; 1998."
+msgstr ""
+"Draws a planet bouncing around in space. The built-in image is a map of the "
+"earth (extracted from `xearth'), but you can wrap any texture around the "
+"sphere, e.g., the planetary textures that come with `ssystem'. Written by "
+"David Konerding; 1998."
+
+msgid ""
+"Draws a pulsating set of overlapping boxes with ever-chaning blobby patterns "
+"undulating across their surfaces. It's sort of a cubist Lavalite. Written by "
+"Jamie Zawinski; 2002."
+msgstr ""
+"Draws a pulsating set of overlapping boxes with ever-chaning blobby patterns "
+"undulating across their surfaces. It's sort of a cubist Lavalite. Written by "
+"Jamie Zawinski; 2002."
+
+msgid ""
+"Draws a pulsing sequence of transparent stars, circles, and lines. Written "
+"by Jamie Zawinski; 1999."
+msgstr ""
+"Draws a pulsing sequence of transparent stars, circles, and lines. Written "
+"by Jamie Zawinski; 1999."
+
+msgid ""
+"Draws a random sequence of colorful barcodes scrolling across your screen. "
+"CONSUME! Written by Dan Bornstein; 2003."
+msgstr ""
+"Draws a random sequence of colorful barcodes scrolling across your screen. "
+"CONSUME! Written by Dan Bornstein; 2003."
+
+msgid ""
+"Draws a rippling waves on a rotating wireframe grid. Written by Josiah "
+"Pease; 2000."
+msgstr ""
+"Draws a rippling waves on a rotating wireframe grid. Written by Josiah "
+"Pease; 2000."
+
+msgid ""
+"Draws a series of rotating 3D boxes that intersect each other and eventually "
+"fill space. Written by Jamie Zawinski; 2003."
+msgstr ""
+"Draws a series of rotating 3D boxes that intersect each other and eventually "
+"fill space. Written by Jamie Zawinski; 2003."
+
+msgid ""
+"Draws a set of interacting, square-spiral-producing automata. The spirals "
+"grow outward until they hit something, then they go around it. Written by "
+"Jeff Epler; 1999."
+msgstr ""
+"Draws a set of interacting, square-spiral-producing automata. The spirals "
+"grow outward until they hit something, then they go around it. Written by "
+"Jeff Epler; 1999."
+
+msgid ""
+"Draws a simple model of an engine that floats around the screen. Written by "
+"Ben Buxton and Ed Beroset; 2001."
+msgstr ""
+"Draws a simple model of an engine that floats around the screen. Written by "
+"Ben Buxton and Ed Beroset; 2001."
+
+msgid ""
+"Draws a simulation of an old terminal, with large pixels and long-sustain "
+"phosphor. This program is also a fully-functional VT100 emulator! Written by "
+"Jamie Zawinski; 1999."
+msgstr ""
+"Draws a simulation of an old terminal, with large pixels and long-sustain "
+"phosphor. This program is also a fully-functional VT100 emulator! Written by "
+"Jamie Zawinski; 1999."
+
+msgid ""
+"Draws a simulation of flying space-combat robots (cleverly disguised as "
+"colored circles) doing battle in front of a moving star field. Written by "
+"Jonathan Lin; 1999."
+msgstr ""
+"Draws a simulation of flying space-combat robots (cleverly disguised as "
+"colored circles) doing battle in front of a moving star field. Written by "
+"Jonathan Lin; 1999."
+
+msgid ""
+"Draws a simulation of pulsing fire. It can also take an arbitrary image and "
+"set it on fire too. Written by Carsten Haitzler and many others; 1999."
+msgstr ""
+"Draws a simulation of pulsing fire. It can also take an arbitrary image and "
+"set it on fire too. Written by Carsten Haitzler and many others; 1999."
+
+msgid ""
+"Draws a simulation of the Rubik's Snake puzzle. Written by Jamie Wilkinson, "
+"Andrew Bennetts, and Peter Aylett; 2002."
+msgstr ""
+"Draws a simulation of the Rubik's Snake puzzle. Written by Jamie Wilkinson, "
+"Andrew Bennetts, and Peter Aylett; 2002."
+
+msgid ""
+"Draws a spotlight scanning across a black screen, illuminating the "
+"underlying desktop (or a picture) when it passes. Written by Rick Schultz "
+"and Jamie Zawinski; 1999."
+msgstr ""
+"Draws a spotlight scanning across a black screen, illuminating the "
+"underlying desktop (or a picture) when it passes. Written by Rick Schultz "
+"and Jamie Zawinski; 1999."
+
+msgid ""
+"Draws a stream of rising, undulating 3D bubbles, rising toward the top of "
+"the screen, with transparency and specular reflections. Written by Richard "
+"Jones; 1998."
+msgstr ""
+"Draws a stream of rising, undulating 3D bubbles, rising toward the top of "
+"the screen, with transparency and specular reflections. Written by Richard "
+"Jones; 1998."
+
+msgid ""
+"Draws a stream of text slowly scrolling into the distance at an angle, over "
+"a star field, like at the beginning of the movie of the same name. Written "
+"by Jamie Zawinski and Claudio Matauoka; 2001."
+msgstr ""
+"Draws a stream of text slowly scrolling into the distance at an angle, over "
+"a star field, like at the beginning of the movie of the same name. Written "
+"by Jamie Zawinski and Claudio Matauoka; 2001."
+
+msgid ""
+"Draws a swirling, falling tunnel of reflective slabs. They fade from hue to "
+"hue. Written by Lars R. Damerow; 2003."
+msgstr ""
+"Draws a swirling, falling tunnel of reflective slabs. They fade from hue to "
+"hue. Written by Lars R. Damerow; 2003."
+
+msgid ""
+"Draws a system of self-organizing lines. It starts out as random squiggles, "
+"but after a few iterations, order begins to appear. Written by Martin Pool; "
+"1999."
+msgstr ""
+"Draws a system of self-organizing lines. It starts out as random squiggles, "
+"but after a few iterations, order begins to appear. Written by Martin Pool; "
+"1999."
+
+msgid ""
+"Draws a trio of ants moving their spheres around a circle. Written by Blair "
+"Tennessy; 2004."
+msgstr ""
+"Draws a trio of ants moving their spheres around a circle. Written by Blair "
+"Tennessy; 2004."
+
+msgid ""
+"Draws a wobbly blob that distorts the image behind it. Written by Jon "
+"Dowdall; 2003."
+msgstr ""
+"Draws a wobbly blob that distorts the image behind it. Written by Jon "
+"Dowdall; 2003."
+
+msgid ""
+"Draws a working analog clock composed of floating, throbbing bubbles. "
+"Written by Bernd Paysan; 1999."
+msgstr ""
+"Draws a working analog clock composed of floating, throbbing bubbles. "
+"Written by Bernd Paysan; 1999."
+
+msgid ""
+"Draws an animation of a textured tunnel in GL. Written by Eric Lassauge and "
+"Roman Podobedov; 2003."
+msgstr ""
+"Draws an animation of a textured tunnel in GL. Written by Eric Lassauge and "
+"Roman Podobedov; 2003."
+
+msgid ""
+"Draws an animation of sprinkling fire-like 3D triangles in a landscape "
+"filled with trees. Written by Eric Lassauge; 2002."
+msgstr ""
+"Draws an animation of sprinkling fire-like 3D triangles in a landscape "
+"filled with trees. Written by Eric Lassauge; 2002."
+
+msgid ""
+"Draws an animation of textured balls spinning like crazy. Written by Eric "
+"Lassauge; 2002."
+msgstr ""
+"Draws an animation of textured balls spinning like crazy. Written by Eric "
+"Lassauge; 2002."
+
+msgid ""
+"Draws an animation similar to the opening and closing effects on the Dr. Who "
+"TV show. Written by Sean P. Brennan; 2005."
+msgstr ""
+"Draws an animation similar to the opening and closing effects on the Dr. Who "
+"TV show. Written by Sean P. Brennan; 2005."
+
+msgid ""
+"Draws an ant (with a headlight) who walks on top of an image of your desktop "
+"or other image. Written by Blair Tennessy; 2003."
+msgstr ""
+"Draws an ant (with a headlight) who walks on top of an image of your desktop "
+"or other image. Written by Blair Tennessy; 2003."
+
+msgid ""
+"Draws an interconnected set of gears moving across the screen. Written by "
+"Jamie Zawinski; 2004."
+msgstr ""
+"Draws an interconnected set of gears moving across the screen. Written by "
+"Jamie Zawinski; 2004."
+
+msgid ""
+"Draws different shapes composed of nervously vibrating squiggles, as if seen "
+"through a camera operated by a monkey on crack. Written by Dan Bornstein; "
+"2000."
+msgstr ""
+"Draws different shapes composed of nervously vibrating squiggles, as if seen "
+"through a camera operated by a monkey on crack. Written by Dan Bornstein; "
+"2000."
+
+msgid ""
+"Draws dropping characters similar to what is seen on the computer monitors "
+"in \"The Matrix\". See also \"glmatrix\" for a 3D rendering of the similar "
+"effect that appeared in the title sequence of the movie. Written by Jamie "
+"Zawinski; 1999."
+msgstr ""
+"Draws dropping characters similar to what is seen on the computer monitors "
+"in \"The Matrix\". See also \"glmatrix\" for a 3D rendering of the similar "
+"effect that appeared in the title sequence of the movie. Written by Jamie "
+"Zawinski; 1999."
+
+msgid ""
+"Draws falling snow and the occasional tiny Santa. You can find it at &lt;"
+"http://www.euronet.nl/~rja/Xsnow/&gt;. Written by Rick Jansen."
+msgstr ""
+"Draws falling snow and the occasional tiny Santa. You can find it at &lt;"
+"http://www.euronet.nl/~rja/Xsnow/&gt;. Written by Rick Jansen."
+
+msgid ""
+"Draws fireworks and zooming, fading flares. You can find it at &lt;http://"
+"www.cosmosx.org/&gt; Written by Tom Campbell."
+msgstr ""
+"Draws fireworks and zooming, fading flares. You can find it at &lt;http://"
+"www.cosmosx.org/&gt; Written by Tom Campbell."
+
+msgid ""
+"Draws multicolored worms that crawl around the screen. Written by Brad "
+"Taylor, Dave Lemke, Boris Putanec, and Henrik Theiling; 1991."
+msgstr ""
+"Draws multicolored worms that crawl around the screen. Written by Brad "
+"Taylor, Dave Lemke, Boris Putanec, and Henrik Theiling; 1991."
+
+msgid ""
+"Draws quasiperiodic tilings; think of the implications on modern formica "
+"technology. In April 1997, Sir Roger Penrose, a British math professor who "
+"has worked with Stephen Hawking on such topics as relativity, black holes, "
+"and whether time has a beginning, filed a copyright-infringement lawsuit "
+"against the Kimberly-Clark Corporation, which Penrose said copied a pattern "
+"he created (a pattern demonstrating that \"a nonrepeating pattern could "
+"exist in nature\") for its Kleenex quilted toilet paper. Penrose said he "
+"doesn't like litigation but, \"When it comes to the population of Great "
+"Britain being invited by a multinational to wipe their bottoms on what "
+"appears to be the work of a Knight of the Realm, then a last stand must be "
+"taken.\" As reported by News of the Weird #491, 4-jul-1997. Written by Timo "
+"Korvola; 1997."
+msgstr ""
+"Draws quasiperiodic tilings; think of the implications on modern formica "
+"technology. In April 1997, Sir Roger Penrose, a British math professor who "
+"has worked with Stephen Hawking on such topics as relativity, black holes, "
+"and whether time has a beginning, filed a copyright-infringement lawsuit "
+"against the Kimberly-Clark Corporation, which Penrose said copied a pattern "
+"he created (a pattern demonstrating that \"a nonrepeating pattern could "
+"exist in nature\") for its Kleenex quilted toilet paper. Penrose said he "
+"doesn't like litigation but, \"When it comes to the population of Great "
+"Britain being invited by a multinational to wipe their bottoms on what "
+"appears to be the work of a Knight of the Realm, then a last stand must be "
+"taken.\" As reported by News of the Weird #491, 4-jul-1997. Written by Timo "
+"Korvola; 1997."
+
+msgid ""
+"Draws random color-cycling inter-braided concentric circles. Written by John "
+"Neil; 1997."
+msgstr ""
+"Draws random color-cycling inter-braided concentric circles. Written by John "
+"Neil; 1997."
+
+msgid ""
+"Draws random colored, stippled and transparent rectangles. Written by Jamie "
+"Zawinski; 1992."
+msgstr ""
+"Draws random colored, stippled and transparent rectangles. Written by Jamie "
+"Zawinski; 1992."
+
+msgid ""
+"Draws several different representations of molecules. Some common molecules "
+"are built in, and it can also read PDB (Protein Data Base) files as input. "
+"Written by Jamie Zawinski; 2001."
+msgstr ""
+"Draws several different representations of molecules. Some common molecules "
+"are built in, and it can also read PDB (Protein Data Base) files as input. "
+"Written by Jamie Zawinski; 2001."
+
+msgid ""
+"Draws shaded spheres in multiple colors. Written by Tom Duff and Jamie "
+"Zawinski; 1982, 1997."
+msgstr ""
+"Draws shaded spheres in multiple colors. Written by Tom Duff and Jamie "
+"Zawinski; 1982, 1997."
+
+msgid ""
+"Draws some intersecting planes, making use of alpha blending, fog, textures, "
+"and mipmaps. Written by David Konerding; 1999."
+msgstr ""
+"Draws some intersecting planes, making use of alpha blending, fog, textures, "
+"and mipmaps. Written by David Konerding; 1999."
+
+msgid ""
+"Draws some rotatey patterns, using OpenGL. Written by Bill Torzewski; 2004."
+msgstr ""
+"Draws some rotatey patterns, using OpenGL. Written by Bill Torzewski; 2004."
+
+msgid "Draws squiggly worm-like paths. Written by Tyler Pierce; 2001."
+msgstr "Draws squiggly worm-like paths. Written by Tyler Pierce; 2001."
+
+msgid ""
+"Draws successive pages of text. The lines flip in and out in a soothing 3D "
+"pattern. Written by Jamie Zawinski; 2005."
+msgstr ""
+"Draws successive pages of text. The lines flip in and out in a soothing 3D "
+"pattern. Written by Jamie Zawinski; 2005."
+
+msgid ""
+"Draws the gravity force in each point on the screen seen through a halftone "
+"dot pattern. The gravity force is calculated from a set of moving mass "
+"points. View it from a distance for best effect. Written by Peter Jaric; "
+"2002."
+msgstr ""
+"Draws the gravity force in each point on the screen seen through a halftone "
+"dot pattern. The gravity force is calculated from a set of moving mass "
+"points. View it from a distance for best effect. Written by Peter Jaric; "
+"2002."
+
+msgid ""
+"Draws trippy psychedelic circular patterns that hurt to look at. Written by "
+"Jamie Zawinski; 1993."
+msgstr ""
+"Draws trippy psychedelic circular patterns that hurt to look at. Written by "
+"Jamie Zawinski; 1993."
+
+msgid ""
+"Draws two dimensional metaballs: overlapping and merging balls with fuzzy "
+"edges. Written by W.P. van Paassen; 2003."
+msgstr ""
+"Draws two dimensional metaballs: overlapping and merging balls with fuzzy "
+"edges. Written by W.P. van Paassen; 2003."
+
+msgid ""
+"Draws various rotating extruded shapes that twist around, lengthen, and turn "
+"inside out. Written by Linas Vepstas, David Konerding, and Jamie Zawinski; "
+"1999."
+msgstr ""
+"Draws various rotating extruded shapes that twist around, lengthen, and turn "
+"inside out. Written by Linas Vepstas, David Konerding, and Jamie Zawinski; "
+"1999."
+
+msgid ""
+"Draws what looks like a waving ribbon following a sinusoidal path. Written "
+"by Bas van Gaalen and Charles Vidal; 1997."
+msgstr ""
+"Draws what looks like a waving ribbon following a sinusoidal path. Written "
+"by Bas van Gaalen and Charles Vidal; 1997."
+
+msgid ""
+"Draws zooming chains of sinusoidal spots. Written by Ashton Trey Belew; 2001."
+msgstr ""
+"Draws zooming chains of sinusoidal spots. Written by Ashton Trey Belew; 2001."
+
+msgid ""
+"Drifting recursive fractal cosmic flames. Written by Scott Draves; 1997."
+msgstr ""
+"Drifting recursive fractal cosmic flames. Written by Scott Draves; 1997."
+
+msgid "Drop Speed"
+msgstr "Drop Speed"
+
+msgid "Duration"
+msgstr "Продолжительность"
+
+msgid "Edit the command line directly."
+msgstr "Редактировать командную строку напрямую."
+
+msgid "Enable Blooming"
+msgstr "Разрешить вспышки"
+
+msgid "Enable Colouring"
+msgstr "Разрешить вспышки"
+
+msgid "Enable fog"
+msgstr "Разрешить вспышки"
+
+msgid "Enable lighting"
+msgstr "Разрешить вспышки"
+
+msgid "Error loading pixmap file: %s"
+msgstr "Ошибка загрузки файла изображения: %s"
+
+msgid ""
+"Error:\n"
+"\n"
+"Couldn't determine init file name!\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Не удалось определить имя инициализационного файла!\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"Couldn't write %s\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Не удалось записать %s\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"Directory does not exist: \"%s\"\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Каталога не существует: \"%s\"\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"File does not exist: \"%s\"\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Каталога не существует: \"%s\"\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"No Help URL has been specified.\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"URL для файлов помощи не указан.\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"The xscreensaver daemon did not start up properly.\n"
+"\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Демон xscreensaver не запущен или запущен не правильно.\n"
+"\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"Unparsable time format: \"%s\"\n"
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Невозможно определить формат времени: \"%s\"\n"
+
+msgid ""
+"Error:\n"
+"\n"
+"no `manualCommand' resource set."
+msgstr ""
+"Ошибка:\n"
+"\n"
+"Ресурс `manualCommand' не установлен."
+
+msgid "Eruption"
+msgstr "Описание"
+
+msgid "Escher's infinite staircase. Written by Marcelo Vianna; 1998."
+msgstr "Escher's infinite staircase. Written by Marcelo Vianna; 1998."
+
+msgid ""
+"Exit the xscreensaver-demo program (but leave the XScreenSaver daemon "
+"running in the background.)"
+msgstr ""
+"Выйти из программы xscreensaver-demo (но оставить XScreenSaver демон "
+"работающим в фоновом режиме)."
+
+msgid "Explain modes"
+msgstr "Режимы экрана"
+
+msgid "Exploding fireworks. Written by Rony B Chandran; 2004."
+msgstr "Exploding fireworks. Written by Rony B Chandran; 2004."
+
+msgid "Exploding fireworks. Written by W.P. van Paassen; 2003."
+msgstr "Exploding fireworks. Written by W.P. van Paassen; 2003."
+
+msgid "Explosion Decay"
+msgstr "Explosion Decay"
+
+msgid "Explosion Force"
+msgstr "Режимы экрана"
+
+msgid "F_ade Duration"
+msgstr "_Продолжительность перехода"
+
+msgid "Fade Duration"
+msgstr "Продолжительность перехода"
+
+msgid "Fade From Black When Unblanking"
+msgstr "Переход от черного при де-активации"
+
+msgid "Fade To Black When Blanking"
+msgstr "Переход к черному при активации"
+
+msgid "Fade from Black When _Unblanking"
+msgstr "Переход от черного при _де-активации"
+
+msgid "Fade to Black when _Blanking"
+msgstr "Переход к черному при _активации"
+
+msgid "Fading and Colormaps"
+msgstr "Цветовые палитры"
+
+msgid "Fall Off Edge"
+msgstr "Fall Off Edge"
+
+msgid "Falling colored snowflake/flower shapes. Written by Barry Dmytro; 2004."
+msgstr ""
+"Falling colored snowflake/flower shapes. Written by Barry Dmytro; 2004."
+
+msgid "Fast"
+msgstr "Быстро"
+
+msgid "Few"
+msgstr "Мало"
+
+msgid "Fibers"
+msgstr "_Файл"
+
+msgid "Field Points"
+msgstr "Заполненные сплайны"
+
+msgid "Filled Splines"
+msgstr "Заполненные сплайны"
+
+msgid "Fire"
+msgstr "_Файл"
+
+msgid "Fireflies"
+msgstr "Заполненные сплайны"
+
+msgid "Fireworkx"
+msgstr "_Файл"
+
+msgid "Fish Count"
+msgstr "Fish Count"
+
+msgid "Flaming Torches"
+msgstr "Flaming Torches"
+
+msgid "Flat Background"
+msgstr "Плоский фон"
+
+msgid ""
+"Flies through height maps, optionally animating the creation and destruction "
+"of generated tiles; tiles `grow' into place. Written by Matus Telgarsky; "
+"2005."
+msgstr ""
+"Flies through height maps, optionally animating the creation and destruction "
+"of generated tiles; tiles `grow' into place. Written by Matus Telgarsky; "
+"2005."
+
+msgid ""
+"Floating stars are acted upon by a mixture of simple 2D forcefields. The "
+"strength of each forcefield changes continuously, and it is also switched on "
+"and off at random. Written by Paul 'Joey' Clark; 2001."
+msgstr ""
+"Floating stars are acted upon by a mixture of simple 2D forcefields. The "
+"strength of each forcefield changes continuously, and it is also switched on "
+"and off at random. Written by Paul 'Joey' Clark; 2001."
+
+msgid "Flowing, swirly patterns. Written by M. Dobie and R. Taylor; 1997."
+msgstr "Flowing, swirly patterns. Written by M. Dobie and R. Taylor; 1997."
+
+msgid ""
+"Flying through a colored wormhole in space. Written by Jon Rafkind; 2004."
+msgstr ""
+"Flying through a colored wormhole in space. Written by Jon Rafkind; 2004."
+
+msgid "Follow"
+msgstr "Follow"
+
+msgid "Font Scale"
+msgstr "Font Scale"
+
+msgid "For updates, check http://www.jwz.org/xscreensaver/"
+msgstr "Для обновлений см. http://www.jwz.org/xscreensaver/"
+
+msgid "Fractal trees. Written by Peter Baumung; 1997."
+msgstr "Fractal trees. Written by Peter Baumung; 1997."
+
+msgid "Frame Delay"
+msgstr "Задержка перед решением"
+
+msgid "Frames per sec"
+msgstr "Показывать количество кадров в секунду"
+
+msgid "Freaky"
+msgstr "Gray"
+
+msgid "GL"
+msgstr "GL"
+
+msgid "Game Speed"
+msgstr "Game Speed"
+
+msgid "Gear Size"
+msgstr "Размер сетки"
+
+msgid ""
+"Generates a continuous sequence of small, curvy geometric patterns. Written "
+"by Tracy Camp and David Hansen; 1997."
+msgstr ""
+"Generates a continuous sequence of small, curvy geometric patterns. Written "
+"by Tracy Camp and David Hansen; 1997."
+
+msgid ""
+"Generates cloud-like formations based on a variant of Conway's Life. The "
+"difference is that cells have a maximum age, after which they count as 3 for "
+"populating the next generation. This makes long-lived formations explode "
+"instead of just sitting there. Written by Don Marti; 2003."
+msgstr ""
+"Generates cloud-like formations based on a variant of Conway's Life. The "
+"difference is that cells have a maximum age, after which they count as 3 for "
+"populating the next generation. This makes long-lived formations explode "
+"instead of just sitting there. Written by Don Marti; 2003."
+
+msgid ""
+"Generates fields of concentric circles or ovals, and combines the planes "
+"with various operations. The planes are moving independently of one another, "
+"causing the interference lines to spray. Written by Jamie Zawinski; 1998."
+msgstr ""
+"Generates fields of concentric circles or ovals, and combines the planes "
+"with various operations. The planes are moving independently of one another, "
+"causing the interference lines to spray. Written by Jamie Zawinski; 1998."
+
+msgid ""
+"Generates loop-shaped colonies that spawn, age, and eventually die. Written "
+"by David Bagley; 1999."
+msgstr ""
+"Generates loop-shaped colonies that spawn, age, and eventually die. Written "
+"by David Bagley; 1999."
+
+msgid ""
+"Generates random 3d plots that look vaguely mountainous. Written by Pascal "
+"Pensa; 1997."
+msgstr ""
+"Generates random 3d plots that look vaguely mountainous. Written by Pascal "
+"Pensa; 1997."
+
+msgid ""
+"Generates random mountain ranges using iterative subdivision of triangles. "
+"Written by Tobias Gloth; 1997."
+msgstr ""
+"Generates random mountain ranges using iterative subdivision of triangles. "
+"Written by Tobias Gloth; 1997."
+
+msgid ""
+"Generates self-similar linear fractals, including the classic \"C Curve\". "
+"Written by Rick Campbell; 1999."
+msgstr ""
+"Generates self-similar linear fractals, including the classic \"C Curve\". "
+"Written by Rick Campbell; 1999."
+
+msgid ""
+"Generates some twisting 3d knot patterns. Spins 'em around. Written by Jamie "
+"Zawinski; 2003."
+msgstr ""
+"Generates some twisting 3d knot patterns. Spins 'em around. Written by Jamie "
+"Zawinski; 2003."
+
+msgid "Global speed"
+msgstr "Скорость акулы"
+
+msgid "Glyph Density"
+msgstr "Плотность"
+
+msgid "Glyph Speed"
+msgstr "Скорость решения"
+
+msgid "Go to the documentation on the XScreenSaver web page."
+msgstr "Перейти к документации, расположенной на веб-странице XScreenSaver'а"
+
+msgid "Goal Following"
+msgstr "Goal Following"
+
+msgid "Grab Desktop Images"
+msgstr "Захватывать изображения с рабочего стола"
+
+msgid "Grab Desktop _Images"
+msgstr "Захватывать _изображения с рабочего стола"
+
+msgid "Grab Images"
+msgstr "Захватывать изображения с рабочего стола"
+
+msgid "Grab Video Frames"
+msgstr "Захватывать видео кадры"
+
+msgid "Grab _Video Frames"
+msgstr "Захватывать _видео кадры"
+
+msgid ""
+"Grabs an image of the desktop, turns it into a GL texture map, and spins it "
+"around and deforms it in various ways. Written by Ben Buxton and Jamie "
+"Zawinski; 2001."
+msgstr ""
+"Grabs an image of the desktop, turns it into a GL texture map, and spins it "
+"around and deforms it in various ways. Written by Ben Buxton and Jamie "
+"Zawinski; 2001."
+
+msgid ""
+"Grabs an image of the screen, and then lets a transparent lens wander around "
+"the screen, magnifying whatever is underneath. Written by Jonas Munsin; 1998."
+msgstr ""
+"Grabs an image of the screen, and then lets a transparent lens wander around "
+"the screen, magnifying whatever is underneath. Written by Jonas Munsin; 1998."
+
+msgid "Gradient Background"
+msgstr "Градиентный фон"
+
+msgid "Gray"
+msgstr "Gray"
+
+msgid "GrayScale"
+msgstr "GrayScale"
+
+msgid "Grayscale"
+msgstr "GrayScale"
+
+msgid "Grid Size"
+msgstr "Размер сетки"
+
+msgid "Gutter Size"
+msgstr "Gutter Size"
+
+msgid "Hide Shuffling"
+msgstr "Hide Shuffling"
+
+msgid "High"
+msgstr "Высокое"
+
+msgid "How long before the monitor goes completely black."
+msgstr ""
+"Через какое время монитор должен начать показывать только \"черный экран\"."
+
+msgid "How long before the screen saver activates."
+msgstr "Как долго должен длиться переход \"к черному\" или \"от черного\"."
+
+msgid "How long it should take for the screen to fade in and out."
+msgstr "Как долго должен длиться переход \"к черному\" или \"от черного\"."
+
+msgid "How long the unlock dialog waits for input before disappearing."
+msgstr "How long the unlock dialog waits for input before disappearing."
+
+msgid "How long until the monitor goes completely black."
+msgstr ""
+"Через какое время монитор должен начать показывать только \"черный экран\"."
+
+msgid "How long until the monitor goes into power-saving mode."
+msgstr "Через какое время монитор должен перейти в режим энергосбережения."
+
+msgid "How long until the monitor powers down."
+msgstr "Через какое время монитор должен отключиться."
+
+msgid ""
+"Hyperball is to hypercube as dodecahedron is to cube: this displays a 2D "
+"projection of the sequence of 3D objects which are the projections of the 4D "
+"analog to the dodecahedron. Technically, it is a \"120 cell polytope\". See "
+"also \"polytopes\" for a more general version of this using OpenGL. Written "
+"by Joe Keane; 2000."
+msgstr ""
+"Hyperball is to hypercube as dodecahedron is to cube: this displays a 2D "
+"projection of the sequence of 3D objects which are the projections of the 4D "
+"analog to the dodecahedron. Technically, it is a \"120 cell polytope\". See "
+"also \"polytopes\" for a more general version of this using OpenGL. Written "
+"by Joe Keane; 2000."
+
+msgid "Hypertorus"
+msgstr "Hypertorus"
+
+msgid "Ignore Screen Edges"
+msgstr "Игнорировать границы экрана"
+
+msgid "Image Duration"
+msgstr "Продолжительность перехода"
+
+msgid "Image Manipulation"
+msgstr "Манипуляции с изображениями"
+
+msgid "Impatient"
+msgstr "Impatient"
+
+msgid "Initial Cracks"
+msgstr "Плотность"
+
+msgid "Initial Density"
+msgstr "Плотность"
+
+msgid "Install Colormap"
+msgstr "Устанавливать цветовую палитру"
+
+msgid "Install _Colormap"
+msgstr "Устанавливать _цветовую палитру"
+
+msgid "Iteration  0"
+msgstr "Продолжительность перехода"
+
+msgid "Iterative fractals. Written by Scott Draves; 1993."
+msgstr "Iterative fractals. Written by Scott Draves; 1993."
+
+msgid "Juggle This Pattern"
+msgstr "Juggle This Pattern"
+
+msgid "Juggling Speed"
+msgstr "Скорость решения"
+
+msgid "Just a Warning PAM Set Credential Failed!"
+msgstr ""
+"Просто предупреждение. Установка учетных данных PAM завершилась со сбоем!"
+
+msgid "Kill and re-launch the XScreenSaver daemon."
+msgstr "Убить, после чего повторно запустить XScreenSaver демон."
+
+msgid "Knives"
+msgstr "Knives"
+
+msgid "Large"
+msgstr "Большой"
+
+msgid "Lens Count"
+msgstr "Число линз"
+
+msgid "Lens Size"
+msgstr "Размер линзы"
+
+msgid "Letting you in as ROOT!!"
+msgstr "Вход в систему с правами ROOT!"
+
+msgid "Linear"
+msgstr "Линии"
+
+msgid "Lines"
+msgstr "Линии"
+
+msgid ""
+"Lines like crystals grow on a computational substrate. A simple "
+"perpendicular growth rule creates intricate city-like structures. Written by "
+"J. Tarbell and Mike Kershaw; 2004."
+msgstr ""
+"Lines like crystals grow on a computational substrate. A simple "
+"perpendicular growth rule creates intricate city-like structures. Written by "
+"J. Tarbell and Mike Kershaw; 2004."
+
+msgid "Linger"
+msgstr "Linger"
+
+msgid "Lisajous loops. Written by Caleb Cullen; 1997."
+msgstr "Lisajous loops. Written by Caleb Cullen; 1997."
+
+msgid ""
+"Loads a random sequence of images and smoothly scans and zooms around in "
+"each, fading from pan to pan. Written by Jamie Zawinski and Mike Oliphant; "
+"2003."
+msgstr ""
+"Loads a random sequence of images and smoothly scans and zooms around in "
+"each, fading from pan to pan. Written by Jamie Zawinski and Mike Oliphant; "
+"2003."
+
+msgid ""
+"Loads several random images, and displays them flying in a circular "
+"formation. The formation changes speed and direction randomly, and images "
+"periodically drop out to be replaced by new ones. Written by Jamie Zawinski; "
+"2005."
+msgstr ""
+"Loads several random images, and displays them flying in a circular "
+"formation. The formation changes speed and direction randomly, and images "
+"periodically drop out to be replaced by new ones. Written by Jamie Zawinski; "
+"2005."
+
+msgid "Lock Screen After"
+msgstr "Запирать экран через"
+
+msgid "Lock the screen now (even if \"Lock Screen\" is unchecked.)"
+msgstr ""
+"Заблокировать экран немедленно (даже если параметр \"Блокировать экран\" "
+"выключен)."
+
+msgid "Long"
+msgstr "Длинный"
+
+msgid "Longitude"
+msgstr "Длинный"
+
+msgid "Low"
+msgstr "Низкое"
+
+msgid "Low Resolution Chess Pieces"
+msgstr "Low Resolution Chess Pieces"
+
+msgid "Many"
+msgstr "Много"
+
+msgid "MetaBall Radius"
+msgstr "Радиус зерен"
+
+msgid "MetaBalls"
+msgstr "Мячи"
+
+msgid "Mode:"
+msgstr "Режим:"
+
+msgid ""
+"Models the physics of bouncing balls, or of particles in a gas or fluid, "
+"depending on the settings. If \"Shake Box\" is selected, then every now and "
+"then, the box will be rotated, changing which direction is down (in order to "
+"keep the settled balls in motion.) Written by Peter Birtles and Jamie "
+"Zawinski; 2002."
+msgstr ""
+"Models the physics of bouncing balls, or of particles in a gas or fluid, "
+"depending on the settings. If \"Shake Box\" is selected, then every now and "
+"then, the box will be rotated, changing which direction is down (in order to "
+"keep the settled balls in motion.) Written by Peter Birtles and Jamie "
+"Zawinski; 2002."
+
+msgid "Mono"
+msgstr "Mono"
+
+msgid "Moo"
+msgstr "Mono"
+
+msgid ""
+"More \"discrete map\" systems, including new variants of Hopalong and Julia, "
+"and a few others. Written by Tim Auckland; 1998."
+msgstr ""
+"More \"discrete map\" systems, including new variants of Hopalong and Julia, "
+"and a few others. Written by Tim Auckland; 1998."
+
+msgid "Morphing 3D shapes. Written by Ed Mackey; 1987, 1997."
+msgstr "Morphing 3D shapes. Written by Ed Mackey; 1987, 1997."
+
+msgid "Motion Blur"
+msgstr "Скорость анимации"
+
+msgid "Motion Speed"
+msgstr "Скорость анимации"
+
+msgid "Move"
+msgstr "Режим:"
+
+msgid "Moving circular moire patterns. Written by Peter Schmitzberger; 1997."
+msgstr "Moving circular moire patterns. Written by Peter Schmitzberger; 1997."
+
+msgid ""
+"Moving polygons, similar to a kaleidescope (more like a kaleidescope than "
+"the one called `kaleid,' actually). Written by Jouk Jansen; 1998."
+msgstr ""
+"Moving polygons, similar to a kaleidescope (more like a kaleidescope than "
+"the one called `kaleid,' actually). Written by Jouk Jansen; 1998."
+
+msgid ""
+"Moving radiating lines, that look vaguely like scanning laser beams. "
+"(Frankie say: relax.) Written by Pascal Pensa; 1997."
+msgstr ""
+"Moving radiating lines, that look vaguely like scanning laser beams. "
+"(Frankie say: relax.) Written by Pascal Pensa; 1997."
+
+msgid ""
+"Munching errors! This is a creatively broken misimplementation of the "
+"classic munching squares graphics hack. Written by Steven Hazel; 2004."
+msgstr ""
+"Munching errors! This is a creatively broken misimplementation of the "
+"classic munching squares graphics hack. Written by Steven Hazel; 2004."
+
+msgid "Nipples"
+msgstr "Nipples"
+
+msgid "No Animation"
+msgstr "Скорость анимации"
+
+msgid "No Preview"
+msgstr "Предпросмотр не"
+
+msgid ""
+"No Preview\n"
+"Available"
+msgstr ""
+"Предпросмотр\n"
+"недоступен"
+
+msgid "No description available."
+msgstr "Описание отсутствует."
+
+msgid "None"
+msgstr "Отсутствует"
+
+msgid "Number of Balls"
+msgstr "Количество цветов"
+
+msgid "Number of Colors"
+msgstr "Количество цветов"
+
+msgid "Number of Colours"
+msgstr "Количество цветов"
+
+msgid "Number of Cows"
+msgstr "Количество цветов"
+
+msgid "Number of Cubes"
+msgstr "Количество цветов"
+
+msgid "Number of Discs"
+msgstr "Количество цветов"
+
+msgid "Number of Disks"
+msgstr "Количество цветов"
+
+msgid "Number of Functions"
+msgstr "Number of Functions"
+
+msgid "Number of Images:"
+msgstr "Количество цветов"
+
+msgid "Number of MetaBalls"
+msgstr "Количество цветов"
+
+msgid "Number of Particles"
+msgstr "Количество акул"
+
+msgid "Number of Pipes"
+msgstr "Number of Pipes"
+
+msgid "Number of Sharks"
+msgstr "Количество акул"
+
+msgid "Number of Slices"
+msgstr "Количество цветов"
+
+msgid "Number of Toasters"
+msgstr "Количество акул"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Off After"
+msgstr "Выключать через"
+
+msgid "Often"
+msgstr "Часто"
+
+msgid "Only One Screen Saver"
+msgstr "Один постоянный хранитель экрана"
+
+msgid "Orbital Mode"
+msgstr "Орбитальный режим"
+
+msgid "PAM Account Management Also Successful!"
+msgstr "Управление учетными записями PAM также прошло успешно!"
+
+msgid "PAM Set Credential Also Successful!"
+msgstr "Установка параметров доступа PAM также прошла успешно!"
+
+msgid ""
+"Packs a large circle with smaller circles, demonstrating the Descartes "
+"Circle Theorem. Written by Allan R. Wilks and David Bagley; 2002."
+msgstr ""
+"Packs a large circle with smaller circles, demonstrating the Descartes "
+"Circle Theorem. Written by Allan R. Wilks and David Bagley; 2002."
+
+msgid ""
+"Packs the screen with growing squares or circles, colored according to a "
+"horizontal or vertical gradient, or according to the colors of the desktop "
+"or a loaded image file. The objects grow until they touch, then stop. When "
+"the screen is full, they shrink away and the process restarts. Written by "
+"Jamie Zawinski; 2005."
+msgstr ""
+"Packs the screen with growing squares or circles, colored according to a "
+"horizontal or vertical gradient, or according to the colors of the desktop "
+"or a loaded image file. The objects grow until they touch, then stop. When "
+"the screen is full, they shrink away and the process restarts. Written by "
+"Jamie Zawinski; 2005."
+
+msgid "Pan/Zoom Duration:"
+msgstr "Продолжительность перехода"
+
+msgid "Peaks"
+msgstr "Peaks"
+
+msgid "Peek at underlying images"
+msgstr "Peek at underlying images"
+
+msgid "Percent of time you have to enter the password.  "
+msgstr "Процент времени, за которое нужно ввести пароль.  "
+
+msgid "Performance Length"
+msgstr "Длинна следа"
+
+msgid "Periodic attractors"
+msgstr "Periodic attractors"
+
+msgid "Picture"
+msgstr "Picture"
+
+msgid "Ping known SSH hosts"
+msgstr "Ping known SSH hosts"
+
+msgid "Pinion"
+msgstr "Длинный"
+
+msgid "Pipe Length"
+msgstr "Pipe Length"
+
+msgid "Piped ASCII Text"
+msgstr "Piped ASCII Text"
+
+msgid ""
+"Platonic solids that turn inside out and get spikey. Written by Marcelo "
+"Vianna; 1997."
+msgstr ""
+"Platonic solids that turn inside out and get spikey. Written by Marcelo "
+"Vianna; 1997."
+
+msgid "Player Size"
+msgstr "Размер плитки"
+
+msgid "Please check your $PATH and permissions."
+msgstr "Проверьте значение переменной $PATH и права доступа."
+
+msgid "Polygon Count"
+msgstr "Polygon Count"
+
+msgid "Polygons"
+msgstr "Многоугольники"
+
+msgid "Pong"
+msgstr "Длинный"
+
+msgid "Pop!"
+msgstr "Pop!"
+
+msgid "Post-Solve Delay"
+msgstr "Задержка после решениия"
+
+msgid "Power Management Enabled"
+msgstr "Управление питанием разрешено"
+
+msgid "Pre-Solve Delay"
+msgstr "Задержка перед решением"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Print Cambridge Juggling Pattern Descriptions"
+msgstr "Print Cambridge Juggling Pattern Descriptions"
+
+msgid "PseudoColor"
+msgstr "PseudoColor"
+
+msgid ""
+"Puts text on the screen using large characters that glide in from the edges, "
+"assemble, then disperse. Alternately, it can simply scroll whole sentences "
+"from right to left. Written by Jamie Zawinski; 2003."
+msgstr ""
+"Puts text on the screen using large characters that glide in from the edges, "
+"assemble, then disperse. Alternately, it can simply scroll whole sentences "
+"from right to left. Written by Jamie Zawinski; 2003."
+
+msgid ""
+"Pyro draws exploding fireworks. Blah blah blah. Written by Jamie Zawinski; "
+"1992."
+msgstr ""
+"Pyro draws exploding fireworks. Blah blah blah. Written by Jamie Zawinski; "
+"1992."
+
+msgid "Q-Bert meets Marble Madness! Written by Ed Mackey; 1997."
+msgstr "Q-Bert meets Marble Madness! Written by Ed Mackey; 1997."
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Random Screen Saver"
+msgstr "Случайный хранитель экрана"
+
+msgid "Random display style"
+msgstr "Random display style"
+
+msgid ""
+"Random dropshadowed rectangles pop onto the screen in lockstep. Written by "
+"Ozymandias G. Desiderata, Jamie Zawinski, and Stephen Linhart; 1998."
+msgstr ""
+"Random dropshadowed rectangles pop onto the screen in lockstep. Written by "
+"Ozymandias G. Desiderata, Jamie Zawinski, and Stephen Linhart; 1998."
+
+msgid "Randomize Almost Everything"
+msgstr "Randomize Almost Everything"
+
+msgid "Reaction/Diffusion"
+msgstr "Reaction/Diffusion"
+
+msgid ""
+"Repeatedly attempts to completely fill a rectangle with irregularly-shaped "
+"puzzle pieces. Written by Stephen Montgomery-Smith; 2002."
+msgstr ""
+"Repeatedly attempts to completely fill a rectangle with irregularly-shaped "
+"puzzle pieces. Written by Stephen Montgomery-Smith; 2002."
+
+msgid ""
+"Repeatedly draws random Celtic cross-stitch patterns. Written by Max "
+"Froumentin; 2005."
+msgstr ""
+"Repeatedly draws random Celtic cross-stitch patterns. Written by Max "
+"Froumentin; 2005."
+
+msgid ""
+"Repeatedly rotates a bitmap by 90 degrees by using logical operations: the "
+"bitmap is divided into quadrants, and the quadrants are shifted clockwise. "
+"Then the same thing is done again with progressively smaller quadrants, "
+"except that all sub-quadrants of a given size are rotated in parallel. As "
+"you watch it, the image appears to dissolve into static and then "
+"reconstitute itself, but rotated. Written by Jamie Zawinski; 1992."
+msgstr ""
+"Repeatedly rotates a bitmap by 90 degrees by using logical operations: the "
+"bitmap is divided into quadrants, and the quadrants are shifted clockwise. "
+"Then the same thing is done again with progressively smaller quadrants, "
+"except that all sub-quadrants of a given size are rotated in parallel. As "
+"you watch it, the image appears to dissolve into static and then "
+"reconstitute itself, but rotated. Written by Jamie Zawinski; 1992."
+
+msgid ""
+"Replays historical games of go (aka wei-chi and baduk) on the screen. You "
+"can find it at &lt;http://www.draves.org/goban/&gt;. Written by Scott Draves."
+msgstr ""
+"Replays historical games of go (aka wei-chi and baduk) on the screen. You "
+"can find it at &lt;http://www.draves.org/goban/&gt;. Written by Scott Draves."
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Ride in the flow"
+msgstr "Ride in the flow"
+
+msgid "Rings"
+msgstr "Rings"
+
+msgid "Rotating around attractor"
+msgstr "Rotating around attractor"
+
+msgid "Rotation speed"
+msgstr "Скорость анимации"
+
+msgid "Run BASIC programs"
+msgstr "Run BASIC programs"
+
+msgid ""
+"Run the next screen saver in the list in full-screen mode (click the mouse "
+"to return.)"
+msgstr ""
+"Исполнить следующий в списке хранитель экрана в полноэкранном режиме "
+"(возврат обратно по щелчку мыши)."
+
+msgid ""
+"Run the previous screen saver in the list in full-screen mode (click the "
+"mouse to return.)"
+msgstr ""
+"Исполнить предыдущий в списке хранитель экрана в полноэкранном режиме "
+"(возврат обратно по щелчку мыши)."
+
+msgid "SCO"
+msgstr "SCO"
+
+msgid "Sandgrains"
+msgstr "Стандартные"
+
+msgid "Scanlines"
+msgstr "Сплайны"
+
+msgid "Screen Saver"
+msgstr "Хранитель экрана"
+
+msgid "Screen Saver Disabled"
+msgstr "Хранитель экрана запрещен"
+
+msgid "Screensaver"
+msgstr "Хранитель экрана"
+
+msgid "Screensaver Preferences"
+msgstr "Хранитель экрана"
+
+msgid "Scrolling Speed"
+msgstr "Скорость решения"
+
+msgid "Search for new attractors"
+msgstr "Search for new attractors"
+
+msgid "Seed Radius"
+msgstr "Радиус зерен"
+
+msgid "Seeds"
+msgstr "Зерна"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "Settings..."
+msgstr "Настройки..."
+
+msgid "Shadows"
+msgstr "Shadows"
+
+msgid "Shark Proximity"
+msgstr "Поведение акулы"
+
+msgid "Shark Speed"
+msgstr "Скорость акулы"
+
+msgid "Shimmering Water"
+msgstr "Мерцающая вода"
+
+msgid "Shoot the Shells Up"
+msgstr "Shoot the Shells Up"
+
+msgid "Short"
+msgstr "Короткий"
+
+msgid "Show Description"
+msgstr "Описание"
+
+msgid "Show Frames-per-Second"
+msgstr "Показывать количество кадров в секунду"
+
+msgid "Show Ping Times"
+msgstr "Сплошной"
+
+msgid ""
+"Shows a ball contained inside of a bounding box. Colored blocks blink in "
+"when the ball hits the edges. Written by Jeremy English; 2003."
+msgstr ""
+"Shows a ball contained inside of a bounding box. Colored blocks blink in "
+"when the ball hits the edges. Written by Jeremy English; 2003."
+
+msgid "Shy"
+msgstr "Пугливо"
+
+msgid ""
+"Simulates a game of Pac-Man on a randomly-created level. Written by Edwin de "
+"Jong; 2004."
+msgstr ""
+"Simulates a game of Pac-Man on a randomly-created level. Written by Edwin de "
+"Jong; 2004."
+
+msgid ""
+"Simulates an original Apple ][ Plus computer in all its 1979 glory. It also "
+"reproduces the appearance of display on a color television set of the "
+"period. In \"Basic Programming Mode\", a simulated user types in a BASIC "
+"program and runs it. In \"Text Mode\", it displays the output of a program, "
+"or the contents of a file or URL. In \"Slideshow Mode\", it chooses random "
+"images and displays them within the limitations of the Apple ][ display "
+"hardware. (Six available colors in hi-res mode!) Written by Trevor "
+"Blackwell; 2003."
+msgstr ""
+"Simulates an original Apple ][ Plus computer in all its 1979 glory. It also "
+"reproduces the appearance of display on a color television set of the "
+"period. In \"Basic Programming Mode\", a simulated user types in a BASIC "
+"program and runs it. In \"Text Mode\", it displays the output of a program, "
+"or the contents of a file or URL. In \"Slideshow Mode\", it chooses random "
+"images and displays them within the limitations of the Apple ][ display "
+"hardware. (Six available colors in hi-res mode!) Written by Trevor "
+"Blackwell; 2003."
+
+msgid ""
+"Simulates coral growth, albeit somewhat slowly. Written by Frederick Roeber; "
+"1997."
+msgstr ""
+"Simulates coral growth, albeit somewhat slowly. Written by Frederick Roeber; "
+"1997."
+
+msgid ""
+"Simulates speeding down a rocky mineshaft, or a funky dancing worm. Written "
+"by Conrad Parker; 2001."
+msgstr ""
+"Simulates speeding down a rocky mineshaft, or a funky dancing worm. Written "
+"by Conrad Parker; 2001."
+
+msgid ""
+"Simulates that pen-in-nested-plastic-gears toy from your childhood. Written "
+"by Rohit Singh; 2000."
+msgstr ""
+"Simulates that pen-in-nested-plastic-gears toy from your childhood. Written "
+"by Rohit Singh; 2000."
+
+msgid ""
+"Simulates the classic arcade game Missile Command. Written by Adam Miller; "
+"1999."
+msgstr ""
+"Simulates the classic arcade game Missile Command. Written by Adam Miller; "
+"1999."
+
+msgid ""
+"Simulates two dimensional Incompressible Inviscid Fluid Flow. Written by "
+"Stephen Montgomery-Smith; 2002."
+msgstr ""
+"Simulates two dimensional Incompressible Inviscid Fluid Flow. Written by "
+"Stephen Montgomery-Smith; 2002."
+
+msgid "Single Color"
+msgstr "DirectColor"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Slow"
+msgstr "Медленно"
+
+msgid "Small"
+msgstr "Маленький"
+
+msgid "Solaris"
+msgstr "Solaris"
+
+msgid "Solid"
+msgstr "Сплошной"
+
+msgid "Solve Speed"
+msgstr "Скорость решения"
+
+msgid "Solves tangram puzzles. Written by Jeremy English; 2005."
+msgstr "Solves tangram puzzles. Written by Jeremy English; 2005."
+
+msgid ""
+"Solves the N-Queens problem (where, in this program, N is between 5 and 10 "
+"queens.) The problem is: how may one place N queens on an NxN chessboard "
+"such that no queen can attack a sister? Written by Blair Tennessy; 2002."
+msgstr ""
+"Solves the N-Queens problem (where, in this program, N is between 5 and 10 "
+"queens.) The problem is: how may one place N queens on an NxN chessboard "
+"such that no queen can attack a sister? Written by Blair Tennessy; 2002."
+
+msgid ""
+"Solves the Towers of Hanoi puzzle. Move N disks from one pole to another, "
+"one disk at a time, with no disk ever resting on a disk smaller than itself. "
+"Written by Dave Atkinson; 2005."
+msgstr ""
+"Solves the Towers of Hanoi puzzle. Move N disks from one pole to another, "
+"one disk at a time, with no disk ever resting on a disk smaller than itself. "
+"Written by Dave Atkinson; 2005."
+
+msgid "Sorry!"
+msgstr "Извините!"
+
+msgid "Sparse"
+msgstr "Редко"
+
+msgid "Spawn Likelyhood"
+msgstr "Spawn Likelyhood"
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "Speed  Slow"
+msgstr "Скорость"
+
+msgid ""
+"SphereEversion draws an animation of a sphere being turned inside out. A "
+"sphere can be turned inside out, without any tears, sharp creases or "
+"discontinuities, if the surface of the sphere is allowed to intersect "
+"itself. This program animates what is known as the Thurston Eversion. This "
+"program is not included with the XScreenSaver package, but if you don't have "
+"it already, you can find it at &lt;http://www.dgp.utoronto.ca/~mjmcguff/"
+"eversion/&gt;. Written by Nathaniel Thurston and Michael McGuffin; 2001."
+msgstr ""
+"SphereEversion draws an animation of a sphere being turned inside out. A "
+"sphere can be turned inside out, without any tears, sharp creases or "
+"discontinuities, if the surface of the sphere is allowed to intersect "
+"itself. This program animates what is known as the Thurston Eversion. This "
+"program is not included with the XScreenSaver package, but if you don't have "
+"it already, you can find it at &lt;http://www.dgp.utoronto.ca/~mjmcguff/"
+"eversion/&gt;. Written by Nathaniel Thurston and Michael McGuffin; 2001."
+
+msgid "Spin"
+msgstr "Вращение"
+
+msgid "Spin Speed"
+msgstr "Spin Speed"
+
+msgid "Spinning"
+msgstr "Вращение"
+
+msgid ""
+"Spiraling, spinning, and very, very fast splashes of color rush toward the "
+"screen. Written by Teemu Suutari; 1998."
+msgstr ""
+"Spiraling, spinning, and very, very fast splashes of color rush toward the "
+"screen. Written by Teemu Suutari; 1998."
+
+msgid "Spirally string-art-ish patterns. Written by Jamie Zawinski; 1992."
+msgstr "Spirally string-art-ish patterns. Written by Jamie Zawinski; 1992."
+
+msgid "Splines"
+msgstr "Сплайны"
+
+msgid "Spookiness"
+msgstr "Сплайны"
+
+msgid "Spotlight Size"
+msgstr "Spotlight Size"
+
+msgid "Stand_by After"
+msgstr "Режим Standby через"
+
+msgid "Standard"
+msgstr "Стандартные"
+
+msgid "Standard <<"
+msgstr "Стандартные <<"
+
+msgid "Standby After"
+msgstr "Режим Standby через"
+
+msgid "Star speed"
+msgstr "Скорость акулы"
+
+msgid "Start as cube"
+msgstr "Скорость акулы"
+
+msgid "StaticGray"
+msgstr "StaticGray"
+
+msgid "Sticks"
+msgstr "Sticks"
+
+msgid "Still Checking!"
+msgstr "Все еще идет проверка!"
+
+msgid "Stopped"
+msgstr "Stopped"
+
+msgid ""
+"Strange attractors formed of flows in a 3D differential equation phase "
+"space. Written by Tim Auckland; 1998."
+msgstr ""
+"Strange attractors formed of flows in a 3D differential equation phase "
+"space. Written by Tim Auckland; 1998."
+
+msgid ""
+"Subdivides and colors rectangles randomly. It looks kind of like Brady-Bunch-"
+"era rec-room wall paneling. Written by Jamie Zawinski and Michael Bayne; "
+"1997."
+msgstr ""
+"Subdivides and colors rectangles randomly. It looks kind of like Brady-Bunch-"
+"era rec-room wall paneling. Written by Jamie Zawinski and Michael Bayne; "
+"1997."
+
+msgid "Sus_pend After"
+msgstr "Режим Suspend через"
+
+msgid "Suspend After"
+msgstr "Режим Suspend через"
+
+msgid "Tails"
+msgstr "Хвосты"
+
+msgid "Tell the running XScreenSaver daemon to exit."
+msgstr "Завершает работающий XScreenSaver демон."
+
+msgid "Terminal Emulation"
+msgstr "Terminal Emulation"
+
+msgid "Test"
+msgstr "Наилучший"
+
+msgid "Text Manipulation"
+msgstr "Манипуляции с изображениями"
+
+msgid "Text Only"
+msgstr "Text Only"
+
+msgid "Textures"
+msgstr "Textures"
+
+msgid "The directory from which images will be randomly chosen."
+msgstr "Каталог, из которого случайным образом будут выбираться изображения."
+
+msgid ""
+"The pong program simulates an ancient Pong home video game, as well as "
+"various artifacts from displaying it on a color TV set. Written by Jeremy "
+"English and Trevor Blackwell; 2003."
+msgstr ""
+"The pong program simulates an ancient Pong home video game, as well as "
+"various artifacts from displaying it on a color TV set. Written by Jeremy "
+"English and Trevor Blackwell; 2003."
+
+msgid ""
+"The providence code displays an eye, shrouded in glory, set upon the base of "
+"a pyramid. Written by Blair Tennessy; 2004."
+msgstr ""
+"The providence code displays an eye, shrouded in glory, set upon the base of "
+"a pyramid. Written by Blair Tennessy; 2004."
+
+msgid ""
+"These closed objects are commonly called spherical harmonics, although they "
+"are only remotely related to the mathematical definition found in the "
+"solution to certain wave functions, most notable the eigenfunctions of "
+"angular momentum operators. Written by Paul Bourke and Jamie Zawinski; 2002."
+msgstr ""
+"These closed objects are commonly called spherical harmonics, although they "
+"are only remotely related to the mathematical definition found in the "
+"solution to certain wave functions, most notable the eigenfunctions of "
+"angular momentum operators. Written by Paul Bourke and Jamie Zawinski; 2002."
+
+msgid ""
+"This X11 port of the OSX screensaver of the same name draws a colourful "
+"star(fish)like flurry of particles. Original Mac version: http://homepage."
+"mac.com/calumr Written by Calum Robinson and Tobias Sargeant; 2002."
+msgstr ""
+"This X11 port of the OSX screensaver of the same name draws a colourful "
+"star(fish)like flurry of particles. Original Mac version: http://homepage."
+"mac.com/calumr Written by Calum Robinson and Tobias Sargeant; 2002."
+
+msgid ""
+"This animates a 3D rendition M.C. Escher's \"Moebius Strip II\", an image of "
+"ants walking along the surface of a moebius strip. Written by Marcelo F. "
+"Vianna; 1997."
+msgstr ""
+"This animates a 3D rendition M.C. Escher's \"Moebius Strip II\", an image of "
+"ants walking along the surface of a moebius strip. Written by Marcelo F. "
+"Vianna; 1997."
+
+msgid ""
+"This bouncing ball is a clone of the first graphics demo for the Amiga 1000, "
+"which was written by Dale Luck and RJ Mical during a break at the 1984 "
+"Consumer Electronics Show (or so the legend goes.) This looks like the "
+"original Amiga demo if you turn off \"smoothing\" and \"lighting\" and turn "
+"on \"scanlines\". Written by Jamie Zawinski; 2005."
+msgstr ""
+"This bouncing ball is a clone of the first graphics demo for the Amiga 1000, "
+"which was written by Dale Luck and RJ Mical during a break at the 1984 "
+"Consumer Electronics Show (or so the legend goes.) This looks like the "
+"original Amiga demo if you turn off \"smoothing\" and \"lighting\" and turn "
+"on \"scanlines\". Written by Jamie Zawinski; 2005."
+
+msgid ""
+"This displays 2D projections of the sequence of 3D objects which are the "
+"projections of the 4D analog to the cube: as a square is composed of four "
+"lines, each touching two others; and a cube is composed of six squares, each "
+"touching four others; a hypercube is composed of eight cubes, each touching "
+"six others. To make it easier to visualize the rotation, it uses a different "
+"color for the edges of each face. Don't think about it too long, or your "
+"brain will melt. See also \"polytopes\" for a more general version of this "
+"using OpenGL. Written by Joe Keane, Fritz Mueller, and Jamie Zawinski; 1992."
+msgstr ""
+"This displays 2D projections of the sequence of 3D objects which are the "
+"projections of the 4D analog to the cube: as a square is composed of four "
+"lines, each touching two others; and a cube is composed of six squares, each "
+"touching four others; a hypercube is composed of eight cubes, each touching "
+"six others. To make it easier to visualize the rotation, it uses a different "
+"color for the edges of each face. Don't think about it too long, or your "
+"brain will melt. See also \"polytopes\" for a more general version of this "
+"using OpenGL. Written by Joe Keane, Fritz Mueller, and Jamie Zawinski; 1992."
+
+msgid ""
+"This does bad things with quasi-spherical objects. You have a tetrahedron "
+"with tesselated faces. The vertices on these faces have forces on them: one "
+"proportional to the distance from the surface of a sphere; and one "
+"proportional to the distance from the neighbors. They also have inertia. The "
+"resulting effect can range from a shape that does nothing, to a frenetic "
+"polygon storm. Somewhere in between there it usually manifests as a blob "
+"that jiggles in a kind of disturbing manner. Written by Keith Macleod; 2003."
+msgstr ""
+"This does bad things with quasi-spherical objects. You have a tetrahedron "
+"with tesselated faces. The vertices on these faces have forces on them: one "
+"proportional to the distance from the surface of a sphere; and one "
+"proportional to the distance from the neighbors. They also have inertia. The "
+"resulting effect can range from a shape that does nothing, to a frenetic "
+"polygon storm. Somewhere in between there it usually manifests as a blob "
+"that jiggles in a kind of disturbing manner. Written by Keith Macleod; 2003."
+
+msgid ""
+"This draws Escher's \"Impossible Cage\", a 3d analog of a moebius strip, and "
+"rotates it in three dimensions. Written by Marcelo Vianna; 1998."
+msgstr ""
+"This draws Escher's \"Impossible Cage\", a 3d analog of a moebius strip, and "
+"rotates it in three dimensions. Written by Marcelo Vianna; 1998."
+
+msgid ""
+"This draws a bunch of moving circles which switch from visibility to "
+"invisibility at intersection points. Written by Geoffrey Irving; 2003."
+msgstr ""
+"This draws a bunch of moving circles which switch from visibility to "
+"invisibility at intersection points. Written by Geoffrey Irving; 2003."
+
+msgid ""
+"This draws a compass, with all elements spinning about randomly, for that "
+"\"lost and nauseous\" feeling. Written by Jamie Zawinski; 1999."
+msgstr ""
+"This draws a compass, with all elements spinning about randomly, for that "
+"\"lost and nauseous\" feeling. Written by Jamie Zawinski; 1999."
+
+msgid ""
+"This draws a dump of its own process memory scrolling across the screen in "
+"three windows at three different rates. Written by Jamie Zawinski; 2004."
+msgstr ""
+"This draws a dump of its own process memory scrolling across the screen in "
+"three windows at three different rates. Written by Jamie Zawinski; 2004."
+
+msgid ""
+"This draws a pop-art-ish looking grid of pulsing colors. Written by Levi "
+"Burton; 2003."
+msgstr ""
+"This draws a pop-art-ish looking grid of pulsing colors. Written by Levi "
+"Burton; 2003."
+
+msgid ""
+"This draws a visualization of a Klein bottle or some other interesting "
+"parametric surfaces. Written by Andrey Mirtchovski; 2003."
+msgstr ""
+"This draws a visualization of a Klein bottle or some other interesting "
+"parametric surfaces. Written by Andrey Mirtchovski; 2003."
+
+msgid ""
+"This draws a waving colored flag, that undulates its way around the screen. "
+"The trick is the flag can contain arbitrary text and images. By default, it "
+"displays either the current system name and OS type, or a picture of \"Bob"
+"\". Written by Charles Vidal and Jamie Zawinski; 1997."
+msgstr ""
+"This draws a waving colored flag, that undulates its way around the screen. "
+"The trick is the flag can contain arbitrary text and images. By default, it "
+"displays either the current system name and OS type, or a picture of \"Bob"
+"\". Written by Charles Vidal and Jamie Zawinski; 1997."
+
+msgid ""
+"This draws an animation of flight through an asteroid field, with changes in "
+"rotation and direction. Written by Jamie Zawinski; 1992."
+msgstr ""
+"This draws an animation of flight through an asteroid field, with changes in "
+"rotation and direction. Written by Jamie Zawinski; 1992."
+
+msgid ""
+"This draws lacy fractal patterns, based on iteration in the imaginary plane, "
+"from a 1986 Scientific American article. Written by Patrick Naughton; 1992."
+msgstr ""
+"This draws lacy fractal patterns, based on iteration in the imaginary plane, "
+"from a 1986 Scientific American article. Written by Patrick Naughton; 1992."
+
+msgid ""
+"This draws line- and arc-based truchet patterns that tile the screen. "
+"Written by Adrian Likins; 1998."
+msgstr ""
+"This draws line- and arc-based truchet patterns that tile the screen. "
+"Written by Adrian Likins; 1998."
+
+msgid ""
+"This draws rippling interference patterns like splashing water. With the -"
+"water option, it manipulates your desktop image to look like something is "
+"dripping into it. Written by Tom Hammersley; 1999."
+msgstr ""
+"This draws rippling interference patterns like splashing water. With the -"
+"water option, it manipulates your desktop image to look like something is "
+"dripping into it. Written by Tom Hammersley; 1999."
+
+msgid ""
+"This draws set of animating, transparent, amoeba-like blobs. The blobs "
+"change shape as they wander around the screen, and they are translucent, so "
+"you can see the lower blobs through the higher ones, and when one passes "
+"over another, their colors merge. I got the idea for this from a cool mouse "
+"pad I have, which achieves the same kind of effect in real life by having "
+"several layers of plastic with colored oil between them. Written by Jamie "
+"Zawinski; 1997."
+msgstr ""
+"This draws set of animating, transparent, amoeba-like blobs. The blobs "
+"change shape as they wander around the screen, and they are translucent, so "
+"you can see the lower blobs through the higher ones, and when one passes "
+"over another, their colors merge. I got the idea for this from a cool mouse "
+"pad I have, which achieves the same kind of effect in real life by having "
+"several layers of plastic with colored oil between them. Written by Jamie "
+"Zawinski; 1997."
+
+msgid ""
+"This draws sets of turning, interlocking gears, rotating in three "
+"dimensions. Written by Brian Paul, Jamie Zawinski. Danny Sung, and Ed "
+"Mackey; 1997."
+msgstr ""
+"This draws sets of turning, interlocking gears, rotating in three "
+"dimensions. Written by Brian Paul, Jamie Zawinski. Danny Sung, and Ed "
+"Mackey; 1997."
+
+msgid ""
+"This draws smoothly-shaded oscillating oval patterns, that look something "
+"like vapor trails or neon tubes. Written by Shane Smit; 1999."
+msgstr ""
+"This draws smoothly-shaded oscillating oval patterns, that look something "
+"like vapor trails or neon tubes. Written by Shane Smit; 1999."
+
+msgid ""
+"This draws spinning galaxies, which then collide and scatter their stars to "
+"the, uh, four winds or something. Written by Uli Siegmund, Harald Backert, "
+"and Hubert Feyrer; 1997."
+msgstr ""
+"This draws spinning galaxies, which then collide and scatter their stars to "
+"the, uh, four winds or something. Written by Uli Siegmund, Harald Backert, "
+"and Hubert Feyrer; 1997."
+
+msgid ""
+"This draws strange attractors: it's a colorful, unpredictably-animating "
+"field of dots that swoops and twists around. Written by Massimino Pascal; "
+"1997."
+msgstr ""
+"This draws strange attractors: it's a colorful, unpredictably-animating "
+"field of dots that swoops and twists around. Written by Massimino Pascal; "
+"1997."
+
+msgid ""
+"This draws the three-dimensional variant of the recursive Menger Gasket, a "
+"cube-based fractal object analagous to the Sierpinski Tetrahedron. Written "
+"by Jamie Zawinski; 2001."
+msgstr ""
+"This draws the three-dimensional variant of the recursive Menger Gasket, a "
+"cube-based fractal object analagous to the Sierpinski Tetrahedron. Written "
+"by Jamie Zawinski; 2001."
+
+msgid ""
+"This draws the three-dimensional variant of the recursive Sierpinski "
+"triangle fractal, using GL. Written by Tim Robinson and Jamie Zawinski; 1999."
+msgstr ""
+"This draws the three-dimensional variant of the recursive Sierpinski "
+"triangle fractal, using GL. Written by Tim Robinson and Jamie Zawinski; 1999."
+
+msgid ""
+"This draws the two-dimensional variant of the recursive Sierpinski triangle "
+"fractal. Written by Desmond Daignault; 1997."
+msgstr ""
+"This draws the two-dimensional variant of the recursive Sierpinski triangle "
+"fractal. Written by Desmond Daignault; 1997."
+
+msgid ""
+"This draws what looks like a spinning, deforming balloon with varying-sized "
+"spots painted on its invisible surface. Written by Jeremie Petit; 1997."
+msgstr ""
+"This draws what looks like a spinning, deforming balloon with varying-sized "
+"spots painted on its invisible surface. Written by Jeremie Petit; 1997."
+
+msgid ""
+"This generates a sequence of undulating, throbbing, star-like patterns which "
+"pulsate, rotate, and turn inside out. Another display mode uses these shapes "
+"to lay down a field of colors, which are then cycled. The motion is very "
+"organic. Written by Jamie Zawinski; 1997."
+msgstr ""
+"This generates a sequence of undulating, throbbing, star-like patterns which "
+"pulsate, rotate, and turn inside out. Another display mode uses these shapes "
+"to lay down a field of colors, which are then cycled. The motion is very "
+"organic. Written by Jamie Zawinski; 1997."
+
+msgid ""
+"This generates pretty fractal pictures via the Lyapunov exponent. Written by "
+"Ron Record; 1997."
+msgstr ""
+"This generates pretty fractal pictures via the Lyapunov exponent. Written by "
+"Ron Record; 1997."
+
+msgid ""
+"This generates random cloud-like patterns. The idea is to take four points "
+"on the edge of the image, and assign each a random \"elevation\". Then find "
+"the point between them, and give it a value which is the average of the "
+"other four, plus some small random offset. Coloration is done based on "
+"elevation. Written by Juergen Nickelsen and Jamie Zawinski; 1992."
+msgstr ""
+"This generates random cloud-like patterns. The idea is to take four points "
+"on the edge of the image, and assign each a random \"elevation\". Then find "
+"the point between them, and give it a value which is the average of the "
+"other four, plus some small random offset. Coloration is done based on "
+"elevation. Written by Juergen Nickelsen and Jamie Zawinski; 1992."
+
+msgid ""
+"This generates random inkblot patterns via a reflected random walk. Any deep-"
+"seated neurotic tendencies which this program reveals are your own problem. "
+"Written by Jamie Zawinski; 1992."
+msgstr ""
+"This generates random inkblot patterns via a reflected random walk. Any deep-"
+"seated neurotic tendencies which this program reveals are your own problem. "
+"Written by Jamie Zawinski; 1992."
+
+msgid ""
+"This generates random mazes (with various different algorithms), and then "
+"solves them. Backtracking and look-ahead paths are displayed in different "
+"colors. Written by Jim Randell and many others; 1992."
+msgstr ""
+"This generates random mazes (with various different algorithms), and then "
+"solves them. Backtracking and look-ahead paths are displayed in different "
+"colors. Written by Jim Randell and many others; 1992."
+
+msgid ""
+"This generates random spline-ish line drawings and morphs between them. "
+"Written by Sverre H. Huseby and Glenn T. Lines; 1995."
+msgstr ""
+"This generates random spline-ish line drawings and morphs between them. "
+"Written by Sverre H. Huseby and Glenn T. Lines; 1995."
+
+msgid ""
+"This grabs a screen image, carves it up into a jigsaw puzzle, shuffles it, "
+"and then solves the puzzle. This works especially well when you feed it an "
+"external video signal instead of letting it grab the screen image (actually, "
+"I guess this is generally true...) When it is grabbing a video image, it is "
+"sometimes pretty hard to guess what the image is going to look like once the "
+"puzzle is solved. Written by Jamie Zawinski; 1998."
+msgstr ""
+"This grabs a screen image, carves it up into a jigsaw puzzle, shuffles it, "
+"and then solves the puzzle. This works especially well when you feed it an "
+"external video signal instead of letting it grab the screen image (actually, "
+"I guess this is generally true...) When it is grabbing a video image, it is "
+"sometimes pretty hard to guess what the image is going to look like once the "
+"puzzle is solved. Written by Jamie Zawinski; 1998."
+
+msgid ""
+"This is a shell script that grabs a frame of video from the system's video "
+"input, and then uses some PBM filters (chosen at random) to manipulate and "
+"recombine the video frame in various ways (edge detection, subtracting the "
+"image from a rotated version of itself, etc.) Then it displays that image "
+"for a few seconds, and does it again. This works really well if you just "
+"feed broadcast television into it. Written by Jamie Zawinski; 1998."
+msgstr ""
+"This is a shell script that grabs a frame of video from the system's video "
+"input, and then uses some PBM filters (chosen at random) to manipulate and "
+"recombine the video frame in various ways (edge detection, subtracting the "
+"image from a rotated version of itself, etc.) Then it displays that image "
+"for a few seconds, and does it again. This works really well if you just "
+"feed broadcast television into it. Written by Jamie Zawinski; 1998."
+
+msgid ""
+"This is sort of a combination spirograph/string-art. It generates a large, "
+"complex polygon, and renders it by filling using an even/odd winding rule. "
+"Written by Dale Moore; 1995."
+msgstr ""
+"This is sort of a combination spirograph/string-art. It generates a large, "
+"complex polygon, and renders it by filling using an even/odd winding rule. "
+"Written by Dale Moore; 1995."
+
+msgid ""
+"This one draws spinning, colliding iterated-function-system images. Note "
+"that the \"Detail\" parameter is exponential. Number of points drawn is "
+"functions^detail. Written by Chris Le Sueur and Robby Griffin; 1997."
+msgstr ""
+"This one draws spinning, colliding iterated-function-system images. Note "
+"that the \"Detail\" parameter is exponential. Number of points drawn is "
+"functions^detail. Written by Chris Le Sueur and Robby Griffin; 1997."
+
+msgid ""
+"This one draws the progress of circular shapes along a path. Written by "
+"Alexander Jolk; 1997."
+msgstr ""
+"This one draws the progress of circular shapes along a path. Written by "
+"Alexander Jolk; 1997."
+
+msgid ""
+"This program behaves schizophrenically and makes a lot of typos. Written by "
+"Jamie Zawinski; 1997."
+msgstr ""
+"This program behaves schizophrenically and makes a lot of typos. Written by "
+"Jamie Zawinski; 1997."
+
+msgid ""
+"This program draws a box and a few line segments, and generates a radial "
+"blur outward from it. This creates flowing field effects. This is done by "
+"rendering the scene into a small texture, then repeatedly rendering "
+"increasingly-enlarged and increasingly-transparent versions of that texture "
+"onto the frame buffer. As such, it's quite graphics intensive: don't bother "
+"trying to run this if you don't have hardware-accelerated OpenGL texture "
+"support. It will hurt your machine bad. Written by Jamie Zawinski; 2002."
+msgstr ""
+"This program draws a box and a few line segments, and generates a radial "
+"blur outward from it. This creates flowing field effects. This is done by "
+"rendering the scene into a small texture, then repeatedly rendering "
+"increasingly-enlarged and increasingly-transparent versions of that texture "
+"onto the frame buffer. As such, it's quite graphics intensive: don't bother "
+"trying to run this if you don't have hardware-accelerated OpenGL texture "
+"support. It will hurt your machine bad. Written by Jamie Zawinski; 2002."
+
+msgid ""
+"This program draws a simple orbital simulation. If you turn on trails, it "
+"looks kind of like a cloud-chamber photograph. Written by Greg Bowering; "
+"1997."
+msgstr ""
+"This program draws a simple orbital simulation. If you turn on trails, it "
+"looks kind of like a cloud-chamber photograph. Written by Greg Bowering; "
+"1997."
+
+msgid ""
+"This program draws a sonar screen that pings (get it?) the hosts on your "
+"local network, and plots their distance (response time) from you. The three "
+"rings represent ping times of approximately 2.5, 70 and 2,000 milliseconds "
+"respectively. Alternately, it can run a simulation that doesn't involve "
+"hosts. (If pinging doesn't work, you may need to make the executable be "
+"setuid.) Written by Stephen Martin and Jamie Zawinski; 1998."
+msgstr ""
+"This program draws a sonar screen that pings (get it?) the hosts on your "
+"local network, and plots their distance (response time) from you. The three "
+"rings represent ping times of approximately 2.5, 70 and 2,000 milliseconds "
+"respectively. Alternately, it can run a simulation that doesn't involve "
+"hosts. (If pinging doesn't work, you may need to make the executable be "
+"setuid.) Written by Stephen Martin and Jamie Zawinski; 1998."
+
+msgid ""
+"This program draws the path traced out by a point on the edge of a circle. "
+"That circle rotates around a point on the rim of another circle, and so on, "
+"several times. These were the basis for the pre-heliocentric model of "
+"planetary motion. Written by James Youngman; 1998."
+msgstr ""
+"This program draws the path traced out by a point on the edge of a circle. "
+"That circle rotates around a point on the rim of another circle, and so on, "
+"several times. These were the basis for the pre-heliocentric model of "
+"planetary motion. Written by James Youngman; 1998."
+
+msgid ""
+"This program makes collages out of random images pulled off of the World "
+"Wide Web. It finds these images by doing random web searches, and then "
+"extracting images from the returned pages. It can also be set up to filter "
+"the images through the \"VidWhacker\" program. WARNING: THE INTERNET "
+"SOMETIMES CONTAINS PORNOGRAPHY. The Internet being what it is, absolutely "
+"anything might show up in the collage including -- quite possibly -- "
+"pornography, or even nudity. Please act accordingly. Written by Jamie "
+"Zawinski; 1999."
+msgstr ""
+"This program makes collages out of random images pulled off of the World "
+"Wide Web. It finds these images by doing random web searches, and then "
+"extracting images from the returned pages. It can also be set up to filter "
+"the images through the \"VidWhacker\" program. WARNING: THE INTERNET "
+"SOMETIMES CONTAINS PORNOGRAPHY. The Internet being what it is, absolutely "
+"anything might show up in the collage including -- quite possibly -- "
+"pornography, or even nudity. Please act accordingly. Written by Jamie "
+"Zawinski; 1999."
+
+msgid ""
+"This program shows a rotating Clifford Torus: a torus lying on the \"surface"
+"\" of a 4D hypersphere. Inspired by Thomas Banchoff's book \"Beyond the "
+"Third Dimension: Geometry, Computer Graphics, and Higher Dimensions\", "
+"Scientific American Library, 1990. Written by Carsten Steger; 2003."
+msgstr ""
+"This program shows a rotating Clifford Torus: a torus lying on the \"surface"
+"\" of a 4D hypersphere. Inspired by Thomas Banchoff's book \"Beyond the "
+"Third Dimension: Geometry, Computer Graphics, and Higher Dimensions\", "
+"Scientific American Library, 1990. Written by Carsten Steger; 2003."
+
+msgid ""
+"This program shows one of the six regular 4D polytopes rotating in 4D. "
+"Inspired by H.S.M Coxeter's book \"Regular Polytopes\", 3rd Edition, Dover "
+"Publications, Inc., 1973, and Thomas Banchoff's book \"Beyond the Third "
+"Dimension: Geometry, Computer Graphics, and Higher Dimensions\", Scientific "
+"American Library, 1990. Written by Carsten Steger; 2003."
+msgstr ""
+"This program shows one of the six regular 4D polytopes rotating in 4D. "
+"Inspired by H.S.M Coxeter's book \"Regular Polytopes\", 3rd Edition, Dover "
+"Publications, Inc., 1973, and Thomas Banchoff's book \"Beyond the Third "
+"Dimension: Geometry, Computer Graphics, and Higher Dimensions\", Scientific "
+"American Library, 1990. Written by Carsten Steger; 2003."
+
+msgid ""
+"This program throws some random bits on the screen, then sucks them through "
+"a jet engine and spews them out the other side. To avoid turning the image "
+"completely to mush, every now and then it will it interject some splashes of "
+"color into the scene, or go into a spin cycle, or stretch the image like "
+"taffy. Written by Scott Draves and Jamie Zawinski; 1997."
+msgstr ""
+"This program throws some random bits on the screen, then sucks them through "
+"a jet engine and spews them out the other side. To avoid turning the image "
+"completely to mush, every now and then it will it interject some splashes of "
+"color into the scene, or go into a spin cycle, or stretch the image like "
+"taffy. Written by Scott Draves and Jamie Zawinski; 1997."
+
+msgid ""
+"This simulates colonies of mold growing in a petri dish. Growing colored "
+"circles overlap and leave spiral interference in their wake. Written by Dan "
+"Bornstein; 1999."
+msgstr ""
+"This simulates colonies of mold growing in a petri dish. Growing colored "
+"circles overlap and leave spiral interference in their wake. Written by Dan "
+"Bornstein; 1999."
+
+msgid ""
+"This simulates the kind of bubble formation that happens when water boils:"
+"small bubbles appear, and as they get closer to each other, they combine to "
+"form larger bubbles, which eventually pop. Written by James Macnicol; 1996."
+msgstr ""
+"This simulates the kind of bubble formation that happens when water boils:"
+"small bubbles appear, and as they get closer to each other, they combine to "
+"form larger bubbles, which eventually pop. Written by James Macnicol; 1996."
+
+msgid ""
+"This takes an image and makes it melt. You've no doubt seen this effect "
+"before, but no screensaver would really be complete without it. It works "
+"best if there's something colorful visible. Warning, if the effect continues "
+"after the screen saver is off, seek medical attention. Written by David "
+"Wald, Vivek Khera, Jamie Zawinski, and Vince Levey; 1993."
+msgstr ""
+"This takes an image and makes it melt. You've no doubt seen this effect "
+"before, but no screensaver would really be complete without it. It works "
+"best if there's something colorful visible. Warning, if the effect continues "
+"after the screen saver is off, seek medical attention. Written by David "
+"Wald, Vivek Khera, Jamie Zawinski, and Vince Levey; 1993."
+
+msgid ""
+"This takes an image, divides it into a grid, and then randomly shuffles the "
+"squares around as if it was one of those annoying \"16-puzzle\" games, where "
+"there is a grid of squares, one of which is missing. I hate trying to solve "
+"those puzzles, but watching one permute itself is more amusing. Written by "
+"Jamie Zawinski; 1994."
+msgstr ""
+"This takes an image, divides it into a grid, and then randomly shuffles the "
+"squares around as if it was one of those annoying \"16-puzzle\" games, where "
+"there is a grid of squares, one of which is missing. I hate trying to solve "
+"those puzzles, but watching one permute itself is more amusing. Written by "
+"Jamie Zawinski; 1994."
+
+msgid "Tile Size"
+msgstr "Размер плитки"
+
+msgid "Tiles"
+msgstr "Tiles"
+
+msgid "Timed Out!"
+msgstr "Время вышло!"
+
+msgid "Timeout _Unlock After"
+msgstr "Прекратить ожидание разблокирования через"
+
+msgid "Trail Length"
+msgstr "Длинна следа"
+
+msgid "TrueColor"
+msgstr "TrueColor"
+
+msgid "Tunnel"
+msgstr "Tunnel"
+
+msgid "Tunnel mode"
+msgstr "Tunnel mode"
+
+msgid "Two"
+msgstr "Два"
+
+msgid "Use"
+msgstr "Использовать"
+
+msgid "Use Shared Memory"
+msgstr "Использовать разделяемую память"
+
+msgid ""
+"Uses Craig Reynolds' Boids algorithm to simulate a school of fish. Looks "
+"best with more fish, so raise the number of fish until the frame rate "
+"declines to 25-30 fps. Written by David C. Lambert; 2006."
+msgstr ""
+"Uses Craig Reynolds' Boids algorithm to simulate a school of fish. Looks "
+"best with more fish, so raise the number of fish until the frame rate "
+"declines to 25-30 fps. Written by David C. Lambert; 2006."
+
+msgid ""
+"Uses a simple simple motion model to generate many different display modes. "
+"The control points attract each other up to a certain distance, and then "
+"begin to repel each other. The attraction/repulsion is proportional to the "
+"distance between any two particles, similar to the strong and weak nuclear "
+"forces. Written by Jamie Zawinski and John Pezaris; 1992."
+msgstr ""
+"Uses a simple simple motion model to generate many different display modes. "
+"The control points attract each other up to a certain distance, and then "
+"begin to repel each other. The attraction/repulsion is proportional to the "
+"distance between any two particles, similar to the strong and weak nuclear "
+"forces. Written by Jamie Zawinski and John Pezaris; 1992."
+
+msgid "Velocity Matching"
+msgstr "Velocity Matching"
+
+msgid "Verbose Diagnostics"
+msgstr "Расширенная диагностика"
+
+msgid "Viewing Time"
+msgstr "Сплошной"
+
+msgid "Visual:"
+msgstr "Оптический класс:"
+
+msgid "WX Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "WY Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "WZ Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "Waiting for user input!"
+msgstr "Ожидание ввода данных пользователем!"
+
+msgid "Wander"
+msgstr "Перемещение"
+
+msgid "Wander Speed"
+msgstr "Скорость блуждания"
+
+msgid "Wandering"
+msgstr "Перемещение"
+
+msgid ""
+"Warning:\n"
+"\n"
+"The XScreenSaver daemon doesn't seem to be running\n"
+"on display \"%s\".  Launch it now?"
+msgstr ""
+"Предупреждение:\n"
+"\n"
+"XScreenSaver демон, похоже, не запущен\n"
+"для экрана \"%s\".  Запустить его сейчас?"
+
+msgid ""
+"Warning:\n"
+"\n"
+"file \"%s\" has changed, reloading.\n"
+msgstr ""
+"Предупреждение:\n"
+"\n"
+"Файл \"%s\" изменился и будет перезагружен.\n"
+
+msgid "Water"
+msgstr "Перемещение"
+
+msgid "Whale Speed"
+msgstr "Скорость кита"
+
+msgid ""
+"When the lines on the screen Make more lines in between, That's a moire'! "
+"Written by Jamie Zawinski and Michael Bayne; 1997."
+msgstr ""
+"When the lines on the screen Make more lines in between, That's a moire'! "
+"Written by Jamie Zawinski and Michael Bayne; 1997."
+
+msgid "Whether a password should be required to un-blank the screen."
+msgstr "Должен ли требоваться пароль для разблокировки экрана."
+
+msgid ""
+"Whether any error output of the display modes should be redirected to the "
+"screen."
+msgstr ""
+"Должны ли сообщения об ошибках от различных заставок-хранителей выводиться "
+"на экран."
+
+msgid "Whether the daemon should print lots of debugging information."
+msgstr "Должен ли демон выводить большое количество отладочной информации."
+
+msgid ""
+"Whether the image-manipulating modes should be allowed to operate on an "
+"image of your desktop."
+msgstr ""
+"Позволяется ли заставкам-хранителям, манипулирующим изображениями, работать "
+"с изображением вашего рабочего стола."
+
+msgid ""
+"Whether the image-manipulating modes should operate on images captured from "
+"the system's video input (if there is one)."
+msgstr ""
+"Должны ли заставки-хранители, манипулирующие изображениями, работать с "
+"изображениями, захваченными с системного видео входа (если таковой имеется)."
+
+msgid ""
+"Whether the image-manipulating modes should operate on images captured from "
+"the system's video input (if there is one.)"
+msgstr ""
+"Должны ли заставки-хранители, манипулирующие изображениями, работать с "
+"изображениями, захваченными с системного видео входа (если таковой имеется)."
+
+msgid ""
+"Whether the image-manipulating modes should operate on random images loaded "
+"from disk."
+msgstr ""
+"Должны ли заставки-хранители, манипулирующим изображениями, работать со "
+"случайными изображениями, загруженными с диска."
+
+msgid "Whether the monitor should be powered down after a while."
+msgstr ""
+"Должен ли монитор снижать энергопотребление или отключаться через какое-то "
+"время."
+
+msgid ""
+"Whether the screen should slowly fade in from black when the screen saver "
+"deactivates."
+msgstr ""
+"Должен ли экран плавно \"набирать яркость\" от черного до нормального при де-"
+"активации хранителя экрана."
+
+msgid ""
+"Whether the screen should slowly fade to black when the screen saver "
+"activates."
+msgstr ""
+"Должен ли экран плавно \"снижать яркость\", \"гаснуть\" до черного при "
+"активации хранителя экрана."
+
+msgid ""
+"Whether the splash screen (with the version number and `Help' button) should "
+"be momentarily displayed when the daemon first starts up."
+msgstr ""
+"Показывать ли в момент первого старта демона окно-заставку (с номером версии "
+"и кнопкой `Справка')?"
+
+msgid "Whether the unlock dialog box should disappear after a timeout."
+msgstr "Whether the unlock dialog box should disappear after a timeout."
+
+msgid ""
+"Whether to install a private colormap when running in 8-bit mode on the "
+"default Visual."
+msgstr ""
+"Устанавливать ли собственную цветовую палитру при работе с 8-битным цветом в "
+"оптическом классе \"по умолчанию\"."
+
+msgid "Whirlwind"
+msgstr "Whirlwind"
+
+msgid "White"
+msgstr "Перемещение"
+
+msgid "Wide"
+msgstr "Перемещение"
+
+msgid "Width"
+msgstr "Width"
+
+msgid "Wiggling tentacles. Written by Gabriel Finch; 2002."
+msgstr "Wiggling tentacles. Written by Gabriel Finch; 2002."
+
+msgid "Windows 2000  "
+msgstr "Windows 2000"
+
+msgid "Windows 3.1"
+msgstr "Windows NT"
+
+msgid "Windows NT"
+msgstr "Windows NT"
+
+msgid "Wireframe"
+msgstr "Каркасное изображение"
+
+msgid "Wireframe Mesh"
+msgstr "Каркасное изображение"
+
+msgid "Wireframe only"
+msgstr "Каркасное изображение"
+
+msgid "X Resolution"
+msgstr "Разрешение"
+
+msgid ""
+"XAnalogTV shows a detailed simulation of an old TV set showing various test "
+"patterns, with various picture artifacts like snow, bloom, distortion, "
+"ghosting, and hash noise. It also simulates the TV warming up. It will cycle "
+"through 12 channels, some with images you give it, and some with color bars "
+"or nothing but static. Written by Trevor Blackwell; 2003."
+msgstr ""
+"XAnalogTV shows a detailed simulation of an old TV set showing various test "
+"patterns, with various picture artifacts like snow, bloom, distortion, "
+"ghosting, and hash noise. It also simulates the TV warming up. It will cycle "
+"through 12 channels, some with images you give it, and some with color bars "
+"or nothing but static. Written by Trevor Blackwell; 2003."
+
+msgid ""
+"XDaliClock draws a large digital clock, the numbers of which change by "
+"\"melting\" into their new shapes. This is not included with the "
+"XScreenSaver package, but if you don't have it already, you can find it at "
+"&lt;http://www.jwz.org/xdaliclock/&gt;. Written by Jamie Zawinski; 1991."
+msgstr ""
+"XDaliClock draws a large digital clock, the numbers of which change by "
+"\"melting\" into their new shapes. This is not included with the "
+"XScreenSaver package, but if you don't have it already, you can find it at "
+"&lt;http://www.jwz.org/xdaliclock/&gt;. Written by Jamie Zawinski; 1991."
+
+msgid "XMatrix"
+msgstr "XMatrix"
+
+msgid ""
+"XMountains generates realistic-looking fractal terrains of snow-capped "
+"mountains near water, with either a top view or a side view. This is not "
+"included with the XScreenSaver package, but if you don't have it already, "
+"you can find it at &lt;http://www.epcc.ed.ac.uk/~spb/xmountains/&gt;. (Make "
+"sure you have version 2.7 or newer!) Written by Stephen Booth."
+msgstr ""
+"XMountains generates realistic-looking fractal terrains of snow-capped "
+"mountains near water, with either a top view or a side view. This is not "
+"included with the XScreenSaver package, but if you don't have it already, "
+"you can find it at &lt;http://www.epcc.ed.ac.uk/~spb/xmountains/&gt;. (Make "
+"sure you have version 2.7 or newer!) Written by Stephen Booth."
+
+msgid "XScreenSaver"
+msgstr "Хранитель экрана"
+
+msgid ""
+"XTeeVee simulates various television problems, including static, loss of "
+"vertical hold, and a test pattern. See also \"xanalogtv\" for a much more "
+"accurate simulation. Written by Greg Knauss; 2000."
+msgstr ""
+"XTeeVee simulates various television problems, including static, loss of "
+"vertical hold, and a test pattern. See also \"xanalogtv\" for a much more "
+"accurate simulation. Written by Greg Knauss; 2000."
+
+msgid "XY Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "XZ Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid ""
+"XaoS generates fast fly-through animations of the Mandelbrot and other "
+"fractal sets. This is not included with the XScreenSaver package, but if you "
+"don't have it already, you can find it at &lt;http://wmi.math.u-szeged.hu/"
+"~kovzol/xaos/doku.php&gt;. Written by Thomas Marsh and Jan Hubicka."
+msgstr ""
+"XaoS generates fast fly-through animations of the Mandelbrot and other "
+"fractal sets. This is not included with the XScreenSaver package, but if you "
+"don't have it already, you can find it at &lt;http://wmi.math.u-szeged.hu/"
+"~kovzol/xaos/doku.php&gt;. Written by Thomas Marsh and Jan Hubicka."
+
+msgid ""
+"Xplanet draws an image of the Earth, as seen from your favorite vantage "
+"point in space, correctly shaded for the current position of the Sun. This "
+"is not included with the XScreenSaver package, but if you don't have it "
+"already, you can find it at &lt;http://xplanet.sourceforge.net/&gt;. Written "
+"by Hari Nair; 2001."
+msgstr ""
+"Xplanet draws an image of the Earth, as seen from your favorite vantage "
+"point in space, correctly shaded for the current position of the Sun. This "
+"is not included with the XScreenSaver package, but if you don't have it "
+"already, you can find it at &lt;http://xplanet.sourceforge.net/&gt;. Written "
+"by Hari Nair; 2001."
+
+msgid "Y Resolution"
+msgstr "Разрешение"
+
+msgid "YZ Rotation Speed"
+msgstr "Скорость анимации"
+
+msgid "Young"
+msgstr "Длинный"
+
+msgid "Your Password has expired."
+msgstr "Срок действия пароля истек."
+
+msgid ""
+"Zooms in on a part of the screen and then moves around. With the \"Lenses\" "
+"option, the result is like looking through many overlapping lenses rather "
+"than just a simple zoom. Written by James Macnicol; 2001."
+msgstr ""
+"Zooms in on a part of the screen and then moves around. With the \"Lenses\" "
+"option, the result is like looking through many overlapping lenses rather "
+"than just a simple zoom. Written by James Macnicol; 2001."
+
+msgid "\\/"
+msgstr "\\/"
+
+msgid "_About..."
+msgstr "_О программе..."
+
+msgid "_Advanced"
+msgstr "Рас_ширенные"
+
+msgid "_Advanced >>"
+msgstr "Рас_ширенные >>"
+
+msgid "_Blank After"
+msgstr "_Активация после"
+
+msgid "_Blank Screen Now"
+msgstr "_Активировать хранитель экрана немедленно"
+
+msgid "_Blank Screen Only"
+msgstr "Только очищать экран"
+
+msgid "_Browse"
+msgstr "_Обзор"
+
+msgid "_Command Line:"
+msgstr "_Командная строка:"
+
+msgid "_Cycle After"
+msgstr "С_мена через"
+
+msgid "_Disable Screen Saver"
+msgstr "Запретить хранитель экрана"
+
+msgid "_Display Modes"
+msgstr "Режимы _экрана"
+
+msgid "_Documentation..."
+msgstr "_Документация..."
+
+msgid "_Exit"
+msgstr "_Выход"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Kill Daemon"
+msgstr "_Убить демон"
+
+msgid "_Lock Screen After"
+msgstr "_Lock Screen After"
+
+msgid "_Lock Screen After  "
+msgstr "_Запирать экран после"
+
+msgid "_Lock Screen Now"
+msgstr "_Заблокировать экран немедленно"
+
+msgid "_Mode:"
+msgstr "_Режим:"
+
+msgid "_Off After"
+msgstr "_Выключать через"
+
+msgid "_Only One Screen Saver"
+msgstr "Один постоянный хранитель экрана"
+
+msgid "_Power Management Enabled"
+msgstr "_Управление питанием разрешено"
+
+msgid "_Preview"
+msgstr "_Предпросмотр"
+
+msgid "_Quit"
+msgstr "_Выход"
+
+msgid "_Random Screen Saver"
+msgstr "Случайный хранитель экрана"
+
+msgid "_Restart Daemon"
+msgstr "_Перезапустить демон"
+
+msgid "_Same Random Savers"
+msgstr "Случайный хранитель экрана"
+
+msgid "_Settings..."
+msgstr "_Настройки..."
+
+msgid "_Standard <<"
+msgstr "_Стандартные <<"
+
+msgid "_Text"
+msgstr "Наилучший"
+
+msgid "_Visual:"
+msgstr "О_птический класс:"
+
+msgid "glschool"
+msgstr "glschool"
+
+msgid "minutes"
+msgstr "минут(ы)"
+
+msgid "no preview"
+msgstr "Предпросмотр"
+
+msgid "none"
+msgstr "Отсутствует"
+
+msgid "nothing"
+msgstr "Длинный"
+
+msgid "or, Text Columns"
+msgstr "or, Text Columns"
+
+msgid "preview"
+msgstr "Предпросмотр"
+
+msgid "seconds"
+msgstr "секунд(ы)"
+
+msgid "strong"
+msgstr "Длинный"
+
+msgid "topBlock"
+msgstr "topBlock"

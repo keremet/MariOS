@@ -1,0 +1,3186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=glib&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2014-09-09 05:54+0000\n"
+"PO-Revision-Date: 2014-09-09 17:04+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: русский <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 1.5.4\n"
+
+msgid "  COMMAND   The (optional) command to explain\n"
+msgstr "  КОМАНДА   Команда для пояснения (необязательный)\n"
+
+msgid "  FILE      An elf file (a binary or a shared library)\n"
+msgstr "  ФАЙЛ      Файл elf (исполняемый или общая библиотека)\n"
+
+msgid ""
+"  FILE      An elf file (a binary or a shared library)\n"
+"            or a compiled resource file\n"
+msgstr ""
+"  ФАЙЛ      Файл elf (исполняемый или общая библиотека)\n"
+"            или скомпилированный файл ресурсов\n"
+
+msgid "  KEY       The (optional) key within the schema\n"
+msgstr "  КЛЮЧ      (Необязательный) ключ схемы\n"
+
+msgid "  KEY       The key within the schema\n"
+msgstr "  КЛЮЧ      Ключ схемы\n"
+
+msgid "  PATH      A resource path\n"
+msgstr "  ПУТЬ      Путь ресурса\n"
+
+msgid "  PATH      An (optional) resource path (may be partial)\n"
+msgstr ""
+"  ПУТЬ      Путь ресурса (необязательный, можно указать только часть)\n"
+
+msgid ""
+"  SCHEMA    The name of the schema\n"
+"  PATH      The path, for relocatable schemas\n"
+msgstr ""
+"  СХЕМА     Идентификатор схемы\n"
+"  ПУТЬ      Путь, для перемещаемых схем\n"
+
+msgid "  SCHEMADIR A directory to search for additional schemas\n"
+msgstr "  КАТ_СХЕМ  Каталог для поиска дополнительных схем\n"
+
+msgid "  SECTION   An (optional) elf section name\n"
+msgstr "  РАЗДЕЛ    Имя раздела elf (необязательный)\n"
+
+msgid "  VALUE     The value to set\n"
+msgstr "  ЗНАЧЕНИЕ  Присваиваемое значение\n"
+
+msgid " (invalid encoding)"
+msgstr " (неверная кодировка)"
+
+msgid " and --strict was specified; exiting.\n"
+msgstr " и был указан параметр --strict; завершение работы.\n"
+
+msgid "%.1f EB"
+msgstr "%.1f ЭБ"
+
+msgid "%.1f EiB"
+msgstr "%.1f ЭиБ"
+
+msgid "%.1f GB"
+msgstr "%.1f ГБ"
+
+msgid "%.1f GiB"
+msgstr "%.1f ГиБ"
+
+msgid "%.1f KB"
+msgstr "%.1f КБ"
+
+msgid "%.1f KiB"
+msgstr "%.1f КиБ"
+
+msgid "%.1f MB"
+msgstr "%.1f МБ"
+
+msgid "%.1f MiB"
+msgstr "%.1f МиБ"
+
+msgid "%.1f PB"
+msgstr "%.1f ПБ"
+
+msgid "%.1f PiB"
+msgstr "%.1f ПиБ"
+
+msgid "%.1f TB"
+msgstr "%.1f ТБ"
+
+msgid "%.1f TiB"
+msgstr "%.1f ТиБ"
+
+msgid "%.1f kB"
+msgstr "%.1f кБ"
+
+msgid "%s byte"
+msgid_plural "%s bytes"
+msgstr[0] "%s байт"
+msgstr[1] "%s байта"
+msgstr[2] "%s байт"
+
+msgid ""
+"%s command requires an application id to directly follow\n"
+"\n"
+msgstr ""
+"команде %s требуется идентификатор приложения\n"
+"\n"
+
+msgid "%s filetype"
+msgstr "тип файлов %s"
+
+msgid "%s type"
+msgstr "тип %s"
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u байт"
+msgstr[1] "%u байта"
+msgstr[2] "%u байт"
+
+msgid ""
+"'%s' is not a valid character following a '<' character; it may not begin an "
+"element name"
+msgstr ""
+"Символ «%s» является недопустимым после символа «<»; этот символ не может "
+"начинать имя элемента"
+
+msgid ""
+"'%s' is not a valid character following the characters '</'; '%s' may not "
+"begin an element name"
+msgstr ""
+"Символ «%s» недопустим после символов «</»; символ «%s» не может начинать "
+"имя элемента"
+
+msgid ""
+"'%s' is not a valid character following the close element name '%s'; the "
+"allowed character is '>'"
+msgstr ""
+"Символ «%s» недопустим после закрывающего элемента имени «%s»; допустимым "
+"символом является «>»"
+
+msgid "'%s' is not a valid name"
+msgstr "Имя «%s» недопустимо"
+
+msgid "'%s' is not a valid name: '%c'"
+msgstr "Имя «%s» недопустимо: «%c»"
+
+msgid ""
+"'%s' takes no arguments\n"
+"\n"
+msgstr ""
+"«%s» не принимает аргументов\n"
+"\n"
+
+msgid "(*MARK) must have an argument"
+msgstr "для (*MARK) требуется параметр"
+
+msgid "(*VERB) not recognized"
+msgstr "значение (*VERB) не распознано"
+
+msgid "(?R or (?[+-]digits must be followed by )"
+msgstr "после (?R или (?[+-]цифры должна идти )"
+
+msgid "(Additionally, releasing the lock for '%s' also failed: %s) "
+msgstr "(Также, не удалось освободить блокировку «%s»: %s) "
+
+msgid "(Type any character to close this window)\n"
+msgstr "(Чтобы закрыть это окно, введите любой символ)\n"
+
+msgid ") without opening ("
+msgstr ") без открывающей ("
+
+msgid "--strict was specified; exiting.\n"
+msgstr "Был указан параметр --strict; завершение работы.\n"
+
+msgid "; ignoring override for this key.\n"
+msgstr "; игнорируется замена для этого ключа.\n"
+
+msgid "<%s id='%s'> already specified"
+msgstr "<%s id='%s'> уже задан"
+
+msgid "<%s id='%s'> not (yet) defined."
+msgstr "<%s id='%s'> не определён (пока)."
+
+msgid "<child name='%s'> already specified"
+msgstr "<child name='%s'> уже задан"
+
+msgid "<key name='%s'> already specified"
+msgstr "<key name='%s'> уже задан"
+
+msgid ""
+"<key name='%s'> shadows <key name='%s'> in <schema id='%s'>; use <override> "
+"to modify value"
+msgstr ""
+"<key name='%s'> оттеняет <key name='%s'> в <schema id='%s'>; для изменения "
+"значения используйте <override>"
+
+msgid "<override name='%s'> already specified"
+msgstr "<override name='%s'> уже задан"
+
+msgid "<override> given but schema isn't extending anything"
+msgstr "<override> указан, но схема ничего не расширяет"
+
+msgid ""
+"<schema id='%s' list-of='%s'> extends <schema id='%s' list-of='%s'> but '%s' "
+"does not extend '%s'"
+msgstr ""
+"<schema id='%s' list-of='%s'> расширяет <schema id='%s' list-of='%s'>, но "
+"«%s» не расширяет «%s»"
+
+msgid "<schema id='%s'> already specified"
+msgstr "<schema id='%s'> уже задан"
+
+msgid "<schema id='%s'> extends not yet existing schema '%s'"
+msgstr "<schema id='%s'> расширяет пока не существующую схему «%s»"
+
+msgid ""
+"<schema id='%s'> is a list, extending <schema id='%s'> which is not a list"
+msgstr ""
+"<schema id='%s'> является списком, расширяющим <schema id='%s'>, который не "
+"является списком"
+
+msgid "<schema id='%s'> is list of not yet existing schema '%s'"
+msgstr "<schema id='%s'> является списком пока не существующей схемы «%s»"
+
+msgid "A bookmark for URI '%s' already exists"
+msgstr "Закладка для ресурса URI «%s» уже существует"
+
+msgid "A subtree is already exported for %s"
+msgstr "Поддерево уже экспортировано для %s"
+
+msgid "ACTION"
+msgstr "ДЕЙСТВИЕ"
+
+msgid "APPID"
+msgstr "ИД_ПРИЛОЖЕНИЯ"
+
+msgid "APPID ACTION [PARAMETER]"
+msgstr "ИД_ПРИЛОЖЕНИЯ ДЕЙСТВИЕ [ПАРАМЕТР]"
+
+msgid "APPID [FILE...]"
+msgstr "ИД_ПРИЛОЖЕНИЯ [ФАЙЛ…]"
+
+msgid "Abort on any errors in schemas"
+msgstr "Останавливать работу при возникновении ошибок в схемах"
+
+msgid "Abstract UNIX domain socket addresses not supported on this system"
+msgstr ""
+"Абстрактные адреса доменных сокетов UNIX не поддерживаются на этой системе"
+
+msgid "Abstract name space not supported"
+msgstr "Абстрактное пространство имён не поддерживается"
+
+msgid "Activate an action"
+msgstr "Активировать действие"
+
+msgid "Added socket is closed"
+msgstr "Добавленный сокет закрыт"
+
+msgid ""
+"Address '%s' is invalid (need exactly one of path, tmpdir or abstract keys)"
+msgstr ""
+"Неправильный адрес «%s» (требуется путь, временный каталог или один из "
+"абстрактных ключей)"
+
+msgid "Address element '%s' does not contain a colon (:)"
+msgstr "В элементе адреса «%s» отсутствует двоеточие (:)"
+
+msgid "Address has bits set beyond prefix length"
+msgstr "В адресе установлены биты вне пределов длины префикса"
+
+msgid "Address to listen on"
+msgstr "Прослушиваемый адрес"
+
+msgid ""
+"Amount of memory required to process the write is larger than available "
+"address space"
+msgstr ""
+"Количество памяти, требуемое процессом записи, больше чем доступное адресное "
+"пространство"
+
+msgid "An object is already exported for the interface %s at %s"
+msgstr "Объект интерфейса %s уже экспортирован как %s"
+
+msgid "Application Options:"
+msgstr "Параметры приложения:"
+
+msgid "Application identifier in D-Bus format (eg: org.example.viewer)"
+msgstr "Идентификатор приложения в формате D-Bus (напр.: org.example.viewer)"
+
+msgid "Application information lacks an identifier"
+msgstr "В информации о приложении отсутствует идентификатор"
+
+msgid "Arguments:\n"
+msgstr "Аргументы:\n"
+
+msgid "Association creation not supported on win32"
+msgstr "Создание ассоциаций не поддерживается в Win32"
+
+msgid "Attribute '%s' of element '%s' not found"
+msgstr "Не найден атрибут «%s» элемента «%s»"
+
+msgid "Attribute value must be non-NULL"
+msgstr "Значение атрибута не должно быть NULL"
+
+msgid "Backup file creation failed"
+msgstr "Не удалось создать резервный файл"
+
+msgid "C identifier name used for the generated source code"
+msgstr "Имя C-идентификатора, используемое для генерации исходного кода"
+
+msgid "COMMAND"
+msgstr "КОМАНДА"
+
+msgid "Can not be a list of a schema with a path"
+msgstr "Не может быть списком схемы с путём"
+
+msgid "Can not extend a schema with a path"
+msgstr "Не удалось расширить схему путём"
+
+msgid "Can't copy directory over directory"
+msgstr "Нельзя скопировать каталог поверх каталога"
+
+msgid "Can't copy over directory"
+msgstr "Нельзя скопировать поверх каталога"
+
+msgid "Can't copy special file"
+msgstr "Нельзя скопировать специальный файл"
+
+msgid "Can't create user MIME configuration folder %s: %s"
+msgstr "Не удалось создать пользовательскую папку настроек MIME %s: %s"
+
+msgid "Can't create user application configuration folder %s: %s"
+msgstr "Не удалось создать пользовательскую папку настроек приложения %s: %s"
+
+msgid "Can't create user desktop file %s"
+msgstr "Не удалось создать пользовательский desktop-файл %s"
+
+msgid "Can't do a raw read in g_io_channel_read_line_string"
+msgstr ""
+"Невозможно выполнить непосредственное чтение в функции "
+"g_io_channel_read_line_string"
+
+msgid "Can't do a raw read in g_io_channel_read_to_end"
+msgstr ""
+"Невозможно выполнить непосредственное чтение в функции "
+"g_io_channel_read_to_end"
+
+msgid "Can't find application"
+msgstr "Не удалось найти приложение"
+
+msgid "Can't handle the supplied version of the icon encoding"
+msgstr "Не удалось обработать данную версию текстового представления значка"
+
+msgid "Can't handle version %d of GEmblem encoding"
+msgstr "Не удалось обработать версию %d текстового представления GEmblem"
+
+msgid "Can't handle version %d of GEmblemedIcon encoding"
+msgstr "Не удалось обработать версию %d текстового представления GEmblemedIcon"
+
+msgid "Can't handle version %d of GFileIcon encoding"
+msgstr "Не удалось обработать версию %d текстового представления GFileIcon"
+
+msgid "Can't handle version %d of GThemedIcon encoding"
+msgstr "Не удалось обработать версию %d текстового представления GThemedIcon"
+
+msgid "Can't move directory over directory"
+msgstr "Нельзя переместить каталог поверх каталога"
+
+msgid "Can't open directory"
+msgstr "Не удалось открыть каталог"
+
+msgid "Can't recursively copy directory"
+msgstr "Не удалось рекурсивно скопировать каталог"
+
+msgid "Can't rename file, filename already exists"
+msgstr "Невозможно переименовать файл, файл с таким именем уже существует"
+
+msgid "Can't rename root directory"
+msgstr "Нельзя переименовать корневой каталог"
+
+msgid "Cancellable initialization not supported"
+msgstr "Прерываемая инициализация не поддерживается"
+
+msgid "Cancelled via GDBusAuthObserver::authorize-authenticated-peer"
+msgstr "Отменено через GDBusAuthObserver::authorize-authenticated-peer"
+
+msgid "Cannot convert fallback '%s' to codeset '%s'"
+msgstr "Невозможно корректно преобразовать символ «%s» в символ из набора «%s»"
+
+msgid "Cannot decrypt PEM-encoded private key"
+msgstr "Не удалось расшифровать секретный ключ в формате PEM"
+
+msgid "Cannot deserialize message: "
+msgstr "Не удалось выполнить десериализацию сообщения:"
+
+msgid ""
+"Cannot determine bus address because the DBUS_STARTER_BUS_TYPE environment "
+"variable is not set"
+msgstr ""
+"Не удалось определить адрес шины, т. к. значение переменной окружения "
+"DBUS_STARTER_BUS_TYPE не установлено"
+
+msgid ""
+"Cannot determine bus address from DBUS_STARTER_BUS_TYPE environment variable "
+"- unknown value '%s'"
+msgstr ""
+"Не удалось определить адрес шины из значения переменной окружения "
+"DBUS_STARTER_BUS_TYPE — неизвестное значение «%s»"
+
+msgid "Cannot determine session bus address (not implemented for this OS)"
+msgstr ""
+"Не удалось определить адрес сеансовой шины (не реализовано для этой ОС)"
+
+msgid ""
+"Cannot invoke method; proxy is for a well-known name without an owner and "
+"proxy was constructed with the G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START flag"
+msgstr ""
+"Не удалось вызвать метод; у прокси с хорошо известным именем нет владельца и "
+"прокси создать с флагом G_DBUS_PROXY_FLAGS_DO_NOT_AUTO_START"
+
+msgid "Cannot listen on unsupported transport '%s'"
+msgstr "Невозможно прослушивать неподдерживаемый транспорт «%s»"
+
+msgid "Cannot parse double value '%s' for %s"
+msgstr "Не удалось разобрать дробное значение двойной точности «%s» для %s"
+
+msgid "Cannot parse integer value '%s' for %s"
+msgstr "Не удалось разобрать целочисленное значение «%s» для %s"
+
+msgid "Cannot serialize message: "
+msgstr "Не удалось сериализовать сообщение: "
+
+msgid "Cannot set permissions on symlinks"
+msgstr "Не удалось установить права на символические ссылки"
+
+msgid "Cannot spawn a message bus when setuid"
+msgstr ""
+"Невозможно породить процесс шины сообщений, если установлен атрибут setuid"
+
+msgid "Cannot spawn a message bus without a machine-id: "
+msgstr "Невозможно породить процесс шины сообщений без идентификатора машины:"
+
+msgid "Cannot specify nonce file when creating a server"
+msgstr "Не удалось задать nonce-файл при создании сервера"
+
+msgid "Cannot truncate GBufferedInputStream"
+msgstr "Нельзя усечь GBufferedInputStream"
+
+msgid "Cannot truncate GMemoryInputStream"
+msgstr "Нельзя усечь GMemoryInputStream"
+
+msgid "Channel terminates in a partial character"
+msgstr "Канал закрывается на неполном символе"
+
+msgid "Character out of range for UTF-16"
+msgstr "Символ находится вне диапазона для UTF-16"
+
+msgid "Character out of range for UTF-8"
+msgstr "Символ находится вне диапазона для UTF-8"
+
+msgid "Character reference '%-.*s' does not encode a permitted character"
+msgstr "Ссылка на символ «%-.*s» не определяет допустимый символ"
+
+msgid ""
+"Character reference did not end with a semicolon; most likely you used an "
+"ampersand character without intending to start an entity - escape ampersand "
+"as &amp;"
+msgstr ""
+"Ссылка на символ не оканчивается точкой с запятой; похоже, символ «&» был "
+"использован не для обозначения начала конструкции — экранируйте его как "
+"«&amp;»"
+
+msgid "Check if KEY is writable"
+msgstr "Проверить, что КЛЮЧ доступен для записи"
+
+msgid "Child process exited abnormally"
+msgstr "Дочерний процесс аварийно завершил работу"
+
+msgid "Child process exited with code %ld"
+msgstr "Дочерний процесс завершился с кодом %ld"
+
+msgid "Child process killed by signal %ld"
+msgstr "Дочерний процесс убит по сигналу %ld"
+
+msgid "Child process stopped by signal %ld"
+msgstr "Дочерний процесс остановлен по сигналу %ld"
+
+msgid "Commands:\n"
+msgstr "Команды:\n"
+
+msgid ""
+"Commands:\n"
+"  help         Shows this information\n"
+"  introspect   Introspect a remote object\n"
+"  monitor      Monitor a remote object\n"
+"  call         Invoke a method on a remote object\n"
+"  emit         Emit a signal\n"
+"\n"
+"Use \"%s COMMAND --help\" to get help on each command.\n"
+msgstr ""
+"Команды:\n"
+"  help         Показать эту справку\n"
+"  introspect   Интроспектировать удалённый объект\n"
+"  monitor      Следить за удалённым объектом\n"
+"  call         Вызвать метод удалённого объекта\n"
+"  emit         Послать сигнал\n"
+"\n"
+"Для получения справки по команде используйте «%s КОМАНДА --help».\n"
+
+msgid ""
+"Compile a resource specification into a resource file.\n"
+"Resource specification files have the extension .gresource.xml,\n"
+"and the resource file have the extension called .gresource."
+msgstr ""
+"Компилировать спецификацию ресурсов в файл ресурсов.\n"
+"Файлы спецификации ресурсов имеют расширение .gresource.xml,\n"
+"а файл ресурса имеет расширение .gresource."
+
+msgid ""
+"Compile all GSettings schema files into a schema cache.\n"
+"Schema files are required to have the extension .gschema.xml,\n"
+"and the cache file is called gschemas.compiled."
+msgstr ""
+"Компилировать все файлы схемы GSettings в кэш схемы.\n"
+"Файлы схемы требуются для расширения .gschema.xml,\n"
+"а файл кэша называется gschemas.compiled."
+
+msgid "Connect to given D-Bus address"
+msgstr "Подключиться к заданному адресу D-Bus"
+
+msgid "Connect to the session bus"
+msgstr "Подключиться к пользовательской шине"
+
+msgid "Connect to the system bus"
+msgstr "Подключиться к системной шине"
+
+msgid "Connection Endpoint Options:"
+msgstr "Параметры оконечной точки соединения:"
+
+msgid "Connection in progress"
+msgstr "Выполняется соединение"
+
+msgid "Connection refused through SOCKSv5 proxy."
+msgstr "Подключение через прокси SOCKSv5 отклонено."
+
+msgid "Connection through SOCKSv4 server was rejected"
+msgstr "Подключение через сервер SOCKSv4 было отклонено"
+
+msgid "Containing mount does not exist"
+msgstr "Содержащая точка монтирования не существует"
+
+msgid "Conversion from character set '%s' to '%s' is not supported"
+msgstr "Преобразование из набора символов «%s» в «%s» не поддерживается"
+
+msgid "Copy (reflink/clone) between mounts is not supported"
+msgstr ""
+"Копирование (reflink/clone) между точками монтирования не поддерживается"
+
+msgid "Copy (reflink/clone) is not supported or didn't work"
+msgstr "Копирование (reflink/clone) не поддерживается или не работает"
+
+msgid "Copy (reflink/clone) is not supported or invalid"
+msgstr "Копирование (reflink/clone) не поддерживается или некорректно"
+
+msgid "Could not allocate %lu byte to read file \"%s\""
+msgid_plural "Could not allocate %lu bytes to read file \"%s\""
+msgstr[0] "Не удалось выделить %lu байтов для чтения файла «%s»"
+msgstr[1] "Не удалось выделить %lu байтов для чтения файла «%s»"
+msgstr[2] "Не удалось выделить %lu байтов для чтения файла «%s»"
+
+msgid "Could not connect to %s: "
+msgstr "Не удалось подключиться к %s: "
+
+msgid "Could not connect to proxy server %s: "
+msgstr "Не удалось подключиться к прокси-серверу %s: "
+
+msgid "Could not connect: "
+msgstr "Не удалось подключиться к: "
+
+msgid "Could not create network monitor: "
+msgstr "Не удалось создать сетевой монитор: "
+
+msgid "Could not create network monitor: %s"
+msgstr "Не удалось создать сетевой монитор: %s"
+
+msgid "Could not determine the disk usage of %s: %s"
+msgstr "Не удалось определить использование диска %s: %s"
+
+msgid "Could not get network status: "
+msgstr "Не удалось получить состояние сети: "
+
+msgid "Could not load schemas from %s: %s\n"
+msgstr "Не удалось загрузить схемы из «%s»: %s\n"
+
+msgid "Could not open converter from '%s' to '%s'"
+msgstr "Не удалось открыть преобразователь из «%s» в «%s»"
+
+msgid "Could not open converter from '%s' to '%s': %s"
+msgstr "Не удалось открыть преобразователь из «%s» в «%s»: %s"
+
+msgid "Could not parse '%s' as IP address mask"
+msgstr "Невозможно считать «%s» маской IP-адреса"
+
+msgid "Could not parse PEM-encoded certificate"
+msgstr "Не удалось разобрать сертификат в формате PEM"
+
+msgid "Could not parse PEM-encoded private key"
+msgstr "Не удалось разобрать секретный ключ в формате PEM"
+
+msgid "Credentials spoofing is not possible on this OS"
+msgstr "Спуфинг учётных данных невозможен в этой ОС"
+
+msgid "Custom definition for %s"
+msgstr "Особое определение для %s"
+
+msgid "DEFINE group contains more than one branch"
+msgstr "группа DEFINE содержит более одной ветви"
+
+msgid "DIRECTORY"
+msgstr "КАТАЛОГ"
+
+msgid "Desktop file didn't specify Exec field"
+msgstr "В desktop-файле не указано поле Exec"
+
+msgid "Destination name to introspect"
+msgstr "Имя назначения для интроспекции"
+
+msgid "Destination name to invoke method on"
+msgstr "Имя назначения, для которого вызывается метод"
+
+msgid "Destination name to monitor"
+msgstr "Имя назначения для наблюдения"
+
+msgid "Didn't find cookie with id %d in the keyring at '%s'"
+msgstr "Не удалось найти куки с идентификатором %d в связке ключей «%s»"
+
+msgid "Do not enforce key name restrictions"
+msgstr "Не устанавливать ограничения на имя ключа"
+
+msgid "Do not write the gschema.compiled file"
+msgstr "Не записывать файл gschema.compiled"
+
+msgid ""
+"Document ended unexpectedly after the equals sign following an attribute "
+"name; no attribute value"
+msgstr ""
+"Документ неожиданно окончился после знака равенства, следующего за именем "
+"атрибута; значение атрибута не указано"
+
+msgid "Document ended unexpectedly inside a comment or processing instruction"
+msgstr ""
+"Документ неожиданно окончился внутри комментария или инструкции обработки"
+
+msgid "Document ended unexpectedly inside an attribute name"
+msgstr "Документ неожиданно окончился внутри имени атрибута"
+
+msgid "Document ended unexpectedly inside an element name"
+msgstr "Документ неожиданно окончился внутри имени элемента"
+
+msgid "Document ended unexpectedly inside an element-opening tag."
+msgstr "Документ неожиданно окончился внутри открывающего элемент тэга"
+
+msgid "Document ended unexpectedly inside the close tag for element '%s'"
+msgstr "Документ неожиданно окончился внутри тэга, закрывающего элемент «%s»"
+
+msgid "Document ended unexpectedly just after an open angle bracket '<'"
+msgstr ""
+"Документ неожиданно окончился сразу же после открывающей угловой скобки «<»"
+
+msgid "Document ended unexpectedly while inside an attribute value"
+msgstr "Документ неожиданно окончился внутри значения атрибута"
+
+msgid ""
+"Document ended unexpectedly with elements still open - '%s' was the last "
+"element opened"
+msgstr ""
+"Документ неожиданно окончился, когда ещё были открыты элементы — «%s» был "
+"последним открытым элементом"
+
+msgid ""
+"Document ended unexpectedly, expected to see a close angle bracket ending "
+"the tag <%s/>"
+msgstr ""
+"Документ неожиданно окончился, ожидалась закрывающая тэг <%s/> угловая скобка"
+
+msgid "Document must begin with an element (e.g. <book>)"
+msgstr "Документ должен начинаться с элемента (например <book>)"
+
+msgid "Document was empty or contained only whitespace"
+msgstr "Документ был пуст или содержал только пробелы"
+
+msgid "Don't automatically create and register resource"
+msgstr "Не создавать или регистрировать ресурс автоматически"
+
+msgid "Don't export functions; declare them G_GNUC_INTERNAL"
+msgstr "Не экспортируйте функции; объявляйте их как G_GNUC_INTERNAL"
+
+msgid "Double value '%s' for %s out of range"
+msgstr "Дробное значение двойной точности «%s» для %s выходит за пределы"
+
+msgid "ERROR message: REPLY_SERIAL or ERROR_NAME header field is missing"
+msgstr ""
+"Сообщение ERROR: отсутствует поле заголовка REPLY_SERIAL или ERROR_NAME"
+
+msgid "Element '%s' was closed, but the currently open element is '%s'"
+msgstr ""
+"Элемент «%s» был закрыт, но открытым в настоящий момент является элемент «%s»"
+
+msgid "Element '%s' was closed, no element is currently open"
+msgstr "Элемент «%s» был закрыт, ни один элемент в настоящий момент не открыт"
+
+msgid "Element <%s> not allowed at the top level"
+msgstr "Элемент <%s> не может быть самым верхним"
+
+msgid "Element <%s> not allowed at toplevel"
+msgstr "Элемент <%s> не может быть самым верхним"
+
+msgid "Element <%s> not allowed inside <%s>"
+msgstr "Элемент <%s> не может быть внутри <%s>"
+
+msgid "Emit a signal."
+msgstr "Послать сигнал."
+
+msgid ""
+"Empty entity '&;' seen; valid entities are: &amp; &quot; &lt; &gt; &apos;"
+msgstr ""
+"Обнаружена пустая конструкция «&;»; допустимыми конструкциями являются: "
+"&amp; &quot; &lt; &gt; &apos;"
+
+msgid "Empty path given.\n"
+msgstr "Указан пустой путь.\n"
+
+msgid "Empty schema name given\n"
+msgstr "Указано пустое имя схемы\n"
+
+msgid ""
+"Encountered array of length %u byte. Maximum length is 2<<26 bytes (64 MiB)."
+msgid_plural ""
+"Encountered array of length %u bytes. Maximum length is 2<<26 bytes (64 MiB)."
+msgstr[0] ""
+"Обнаружен массив длинной %u байт. Максимальная длина равна 2<<26 байт (64 "
+"МиБ)."
+msgstr[1] ""
+"Обнаружен массив длинной %u байта. Максимальная длина равна 2<<26 байт (64 "
+"МиБ)."
+msgstr[2] ""
+"Обнаружен массив длинной %u байт. Максимальная длина равна 2<<26 байт (64 "
+"МиБ)."
+
+msgid ""
+"Encountered array of type 'a%c', expected to have a length a multiple of %u "
+"bytes, but found to be %u bytes in length"
+msgstr ""
+"Получен массив типа «a%c», который должен иметь размер кратный %u (байт), но "
+"массив имеет длину %u (байт)"
+
+msgid "Enter GApplication service mode (use from D-Bus service files)"
+msgstr ""
+"Запустить GApplication в режиме сервиса (использовать из сервисных файлов D-"
+"Bus)"
+
+msgid ""
+"Entity did not end with a semicolon; most likely you used an ampersand "
+"character without intending to start an entity - escape ampersand as &amp;"
+msgstr ""
+"Конструкция не заканчивается точкой с запятой; похоже, что символ «&» был "
+"использован не для обозначения начала конструкции — экранируйте его как "
+"«&amp;»"
+
+msgid "Entity name '%-.*s' is not known"
+msgstr "Имя сущности «%-.*s» неизвестно"
+
+msgid "Enumerator is closed"
+msgstr "Перечислитель закрыт"
+
+msgid "Error accepting connection: %s"
+msgstr "Ошибка приёма подключения: %s"
+
+msgid "Error auto-launching: "
+msgstr "Ошибка автоматического запуска: "
+
+msgid "Error binding to address: %s"
+msgstr "Произошла ошибка при связывании к адресу: %s"
+
+msgid "Error calling StartServiceByName for %s: "
+msgstr "Ошибка вызова StartServiceByName для %s: "
+
+msgid "Error checking if SO_PASSCRED is enabled for socket: %s"
+msgstr "Произошла ошибка при проверке включения SO_PASSCRED для сокета: %s"
+
+msgid "Error closing (unlinked) lock file '%s': %s"
+msgstr "Произошла ошибка при закрытии (удалённого) файла блокировки «%s»: %s"
+
+msgid "Error closing file descriptor: %s"
+msgstr "Ошибка при закрытии файлового дескриптора: %s"
+
+msgid "Error closing file: %s"
+msgstr "Произошла ошибка при закрытии файла: %s"
+
+msgid "Error closing handle: %s"
+msgstr "Произошла ошибка при закрытии дескриптора: %s"
+
+msgid "Error closing socket: %s"
+msgstr "Произошла ошибка при закрытии сокета: %s"
+
+msgid "Error compressing file %s"
+msgstr "Ошибка при сжатии файла %s"
+
+msgid "Error connecting: %s\n"
+msgstr "Произошла ошибка при соединении: %s\n"
+
+msgid "Error creating backup copy: %s"
+msgstr "Произошла ошибка при создании резервной копии: %s"
+
+msgid "Error creating directory '%s': %s"
+msgstr "Произошла ошибка при создании каталога «%s»: %s"
+
+msgid "Error creating directory: %s"
+msgstr "Произошла ошибка при создании каталога: %s"
+
+msgid "Error creating lock file '%s': %s"
+msgstr "Произошла ошибка при создании файла блокировки «%s»: %s"
+
+msgid "Error deleting stale lock file '%s': %s"
+msgstr "Произошла ошибка при удалении устаревшего файла блокировки «%s»: %s"
+
+msgid ""
+"Error deserializing GVariant with type string '%s' from the D-Bus wire format"
+msgstr ""
+"Ошибка десериализации GVariant с типом строки «%s» из формата D-Bus wire"
+
+msgid "Error during conversion: %s"
+msgstr "Произошла ошибка при преобразовании: %s"
+
+msgid "Error enabling SO_PASSCRED: %s"
+msgstr "Произошла ошибка при включении SO_PASSCRED: %s"
+
+msgid "Error flushing connection: %s\n"
+msgstr "Произошла ошибка при сбросе подключения: %s\n"
+
+msgid "Error getting filesystem info: %s"
+msgstr "Произошла ошибка при получении сведений о файловой системе: %s"
+
+msgid "Error in address '%s' - the family attribute is malformed"
+msgstr "Ошибка в адресе «%s» — неправильный формат атрибута семейства"
+
+msgid "Error in address '%s' - the host attribute is missing or malformed"
+msgstr ""
+"Ошибка в адресе «%s» — атрибут узла отсутствует или имеет неправильный формат"
+
+msgid "Error in address '%s' - the noncefile attribute is missing or malformed"
+msgstr ""
+"Ошибка в адресе «%s» — атрибут noncefile отсутствует или имеет неправильный "
+"формат"
+
+msgid "Error in address '%s' - the port attribute is malformed"
+msgstr "Ошибка в адресе «%s» — неправильный формат атрибута порта"
+
+msgid "Error in address '%s' - the port attribute is missing or malformed"
+msgstr ""
+"Ошибка в адресе «%s» — атрибут порта отсутствует или имеет неправильный "
+"формат"
+
+msgid ""
+"Error in address '%s' - the unix transport requires exactly one of the keys "
+"'path' or 'abstract' to be set"
+msgstr ""
+"Ошибка в адресе «%s» — для транспорта unix требуется только один "
+"установленный ключ «path» или «abstract»"
+
+msgid "Error joining multicast group: %s"
+msgstr "Ошибка при вступлении в мультикастовую группу: %s"
+
+msgid "Error launching application: %s"
+msgstr "Произошла ошибка при запуске приложения: %s"
+
+msgid "Error leaving multicast group: %s"
+msgstr "Ошибка при выходе из мультикастовой группы: %s"
+
+msgid "Error making symbolic link: %s"
+msgstr "Произошла ошибка при создании символьной ссылки: %s"
+
+msgid "Error moving file: %s"
+msgstr "Произошла ошибка при перемещении файла: %s"
+
+msgid "Error on line %d char %d: "
+msgstr "Ошибка в строке %d на символе %d: "
+
+msgid "Error on line %d: %s"
+msgstr "Ошибка в строке %d: %s"
+
+msgid "Error opening directory '%s': %s"
+msgstr "Произошла ошибка при открытии каталога «%s»: %s"
+
+msgid "Error opening file '%s': %s"
+msgstr "Произошла ошибка при открытии файла «%s»: %s"
+
+msgid "Error opening file: %s"
+msgstr "Произошла ошибка при открытии файла: %s"
+
+msgid "Error opening keyring '%s' for reading: "
+msgstr "Произошла ошибка при открытии связки ключей «%s» на чтение: "
+
+msgid "Error opening keyring '%s' for writing: "
+msgstr "Произошла ошибка при открытии связки ключей «%s» на запись: "
+
+msgid "Error opening nonce file '%s': %s"
+msgstr "Произошла ошибка при открытии nonce-файла «%s»: %s"
+
+msgid "Error parsing introspection XML: %s\n"
+msgstr "Произошла ошибка при разборе интроспекции XML: %s\n"
+
+msgid "Error parsing option %s"
+msgstr "Произошла ошибка при разборе параметра %s"
+
+msgid "Error parsing parameter %d of type '%s': %s\n"
+msgstr "Произошла ошибка при разборе параметра %d типа «%s»: %s\n"
+
+msgid "Error parsing parameter %d: %s\n"
+msgstr "Произошла ошибка при разборе параметра %d: %s\n"
+
+msgid "Error reading file %s: %s"
+msgstr "Ошибка при чтении файла %s: %s"
+
+msgid "Error reading file '%s': %s"
+msgstr "Произошла ошибка при чтении файла «%s»: %s"
+
+msgid "Error reading from file descriptor: %s"
+msgstr "Ошибка при чтении из файлового дескриптора: %s"
+
+msgid "Error reading from file: %s"
+msgstr "Произошла ошибка при чтении из файла: %s"
+
+msgid "Error reading from handle: %s"
+msgstr "Произошла ошибка при чтении из дескриптора: %s"
+
+msgid "Error reading from nonce file '%s', expected 16 bytes, got %d"
+msgstr ""
+"Произошла ошибка при чтении nonce-файла «%s», ожидалось 16 байт, получено %d"
+
+msgid "Error reading from nonce file '%s': %s"
+msgstr "Произошла ошибка при чтении nonce-файла «%s»: %s"
+
+msgid "Error receiving data: %s"
+msgstr "Ошибка при получении данных: %s"
+
+msgid "Error receiving message: %s"
+msgstr "Произошла ошибка при получении сообщения: %s"
+
+msgid "Error removing file: %s"
+msgstr "Произошла ошибка при удалении файла: %s"
+
+msgid "Error removing old backup link: %s"
+msgstr "Произошла ошибка при удалении старой резервной ссылки: %s"
+
+msgid "Error removing old file: %s"
+msgstr "Произошла ошибка при удалении старого файла: %s"
+
+msgid "Error removing target file: %s"
+msgstr "Произошла ошибка при удалении целевого файла: %s"
+
+msgid "Error renaming file: %s"
+msgstr "Произошла ошибка при переименовании файла: %s"
+
+msgid "Error renaming temporary file: %s"
+msgstr "Произошла ошибка при переименовании временного файла: %s"
+
+msgid "Error resolving '%s'"
+msgstr "Ошибка разрешения «%s»"
+
+msgid "Error resolving '%s': %s"
+msgstr "Ошибка разрешения «%s»: %s"
+
+msgid "Error return with body of type '%s'"
+msgstr "Возвращена ошибка с телом типа «%s»"
+
+msgid "Error return with empty body"
+msgstr "Возвращена ошибка с пустым телом"
+
+msgid "Error reverse-resolving '%s': %s"
+msgstr "Ошибка обратного разрешения «%s»: %s"
+
+msgid "Error seeking in file: %s"
+msgstr "Произошла ошибка при переходе по файлу: %s"
+
+msgid "Error sending credentials: "
+msgstr "Произошла ошибка при отправлении мандата:"
+
+msgid "Error sending data: %s"
+msgstr "Ошибка при отправлении данных: %s"
+
+msgid "Error sending message: %s"
+msgstr "Произошла ошибка при отправлении сообщения: %s"
+
+msgid ""
+"Error serializing GVariant with type string '%s' to the D-Bus wire format"
+msgstr "Ошибка сериализации GVariant с типом строки «%s» в формат D-Bus wire"
+
+msgid "Error setting SELinux context: %s"
+msgstr "Произошла ошибка при установке контекста SELinux: %s"
+
+msgid "Error setting extended attribute '%s': %s"
+msgstr "Произошла ошибка при установке расширенного атрибута «%s»: %s"
+
+msgid "Error setting modification or access time: %s"
+msgstr "Произошла ошибка при установке времени модификации или доступа: %s"
+
+msgid "Error setting owner: %s"
+msgstr "Произошла ошибка при установке владельца: %s"
+
+msgid "Error setting permissions: %s"
+msgstr "Произошла ошибка при установке прав: %s"
+
+msgid "Error setting property '%s': Expected type '%s' but got '%s'"
+msgstr "Ошибка установки свойства «%s»: ожидался тип «%s», но получен «%s»"
+
+msgid "Error setting symlink: %s"
+msgstr "Произошла ошибка при установке символьной ссылки: %s"
+
+msgid "Error setting symlink: file is not a symlink"
+msgstr ""
+"Произошла ошибка при установке символьной ссылки: файл не является "
+"символьной ссылкой"
+
+msgid "Error spawning command line '%s': "
+msgstr "Произошла ошибка при создании процесса командной строки «%s»: "
+
+msgid "Error splicing file: %s"
+msgstr "Произошла ошибка при соединении файла: %s"
+
+msgid "Error trashing file: %s"
+msgstr "Произошла ошибка при удалении файла в корзину: %s"
+
+msgid "Error truncating file: %s"
+msgstr "Произошла ошибка при усечении файла: %s"
+
+msgid ""
+"Error unescaping key or value in Key/Value pair %d, '%s', in address element "
+"'%s'"
+msgstr ""
+"Ошибка снятия экранирования ключа или значения в паре ключ/значение %d, "
+"«%s», в элементе адреса «%s»"
+
+msgid "Error unlinking lock file '%s': %s"
+msgstr "Произошла ошибка при удалении файла блокировки «%s»: %s"
+
+msgid "Error when getting information for directory '%s': %s"
+msgstr "Ошибка при получении информации о каталоге «%s»: %s"
+
+msgid "Error when getting information for file '%s': %s"
+msgstr "Ошибка при получении информации о файле «%s»: %s"
+
+msgid "Error when getting information for file descriptor: %s"
+msgstr "Ошибка при получении информации о файловом дескрипторе: %s"
+
+msgid "Error while compiling regular expression %s at char %d: %s"
+msgstr ""
+"Произошла ошибка при компиляции регулярного выражения %s у символа с номером "
+"%d: %s"
+
+msgid "Error while disabling SO_PASSCRED: %s"
+msgstr "Произошла ошибка при отключении SO_PASSCRED: %s"
+
+msgid "Error while matching regular expression %s: %s"
+msgstr ""
+"Во время поиска совпадений с регулярным выражением %s возникла ошибка: %s"
+
+msgid "Error while optimizing regular expression %s: %s"
+msgstr "Произошла ошибка при оптимизации регулярного выражения %s: %s"
+
+msgid "Error while parsing replacement text \"%s\" at char %lu: %s"
+msgstr ""
+"Произошла ошибка во время разбора текста замен «%s» у символа с номером %lu: "
+"%s"
+
+msgid "Error writing contents of nonce file '%s' to stream:"
+msgstr "Произошла ошибка записи содержимого nonce-файла «%s» в поток:"
+
+msgid "Error writing nonce file at '%s': %s"
+msgstr "Произошла ошибка при записи в nonce-файл у «%s»: %s"
+
+msgid "Error writing to file descriptor: %s"
+msgstr "Ошибка при записи в файловый дескриптор: %s"
+
+msgid "Error writing to file: %s"
+msgstr "Произошла ошибка при записи в файл: %s"
+
+msgid "Error writing to handle: %s"
+msgstr "Произошла ошибка при записи в дескриптор: %s"
+
+msgid "Error: %s\n"
+msgstr "Ошибка: %s\n"
+
+msgid "Error: %s is not a valid interface name\n"
+msgstr "Ошибка: %s не является допустимым именем интерфейса\n"
+
+msgid "Error: %s is not a valid member name\n"
+msgstr "Ошибка: %s не является допустимым именем члена\n"
+
+msgid "Error: %s is not a valid object path\n"
+msgstr "Ошибка: %s не является допустимым объектным путём\n"
+
+msgid "Error: %s is not a valid unique bus name.\n"
+msgstr "Ошибка: %s не является допустимым уникальным именем шины.\n"
+
+msgid "Error: Destination is not specified\n"
+msgstr "Ошибка: не указано назначение\n"
+
+msgid "Error: Method name '%s' is invalid\n"
+msgstr "Ошибка: неправильное имя метода «%s»\n"
+
+msgid "Error: Method name is not specified\n"
+msgstr "Ошибка: не указано имя метода\n"
+
+msgid "Error: Object path is not specified\n"
+msgstr "Ошибка: не указан объектный путь\n"
+
+msgid "Error: object path not specified.\n"
+msgstr "Ошибка: не указан объектный путь.\n"
+
+msgid "Error: signal must be the fully-qualified name.\n"
+msgstr ""
+"Ошибка: сигнал должен задаваться полностью определённым доменным именем\n"
+
+msgid "Error: signal not specified.\n"
+msgstr "Ошибка: не задан сигнал.\n"
+
+msgid ""
+"Exhausted all available authentication mechanisms (tried: %s) (available: %s)"
+msgstr ""
+"Перепробованы все доступные механизмы аутентификации (проведено: %s) "
+"(доступно: %s)"
+
+msgid "Existing file '%s' could not be removed: g_unlink() failed: %s"
+msgstr ""
+"Не удалось удалить существующий файл «%s»: сбой в функции g_unlink(): %s"
+
+msgid "Expected NUL byte after the string '%s' but found byte %d"
+msgstr "Ожидался байт NUL после строки «%s», но найден байт %d"
+
+msgid "Expected a GEmblem for GEmblemedIcon"
+msgstr "Для GEmblemedIcon ожидается GEmblem"
+
+msgid ""
+"Expected valid UTF-8 string but found invalid bytes at byte offset %d "
+"(length of string is %d). The valid UTF-8 string up until that point was '%s'"
+msgstr ""
+"Ожидалась корректная строка UTF-8, но обнаружены недопустимые байты "
+"(смещение %d, длина строки %d). Корректная строка UTF-8 вплоть до тех байт: "
+"«%s»"
+
+msgid "Expecting 1 control message, got %d"
+msgid_plural "Expecting 1 control message, got %d"
+msgstr[0] "Ожидается 1 контрольное сообщение, получено %d"
+msgstr[1] "Ожидается 1 контрольное сообщение, получено %d"
+msgstr[2] "Ожидается 1 контрольное сообщение, получено %d"
+
+msgid "Expecting one fd, but got %d\n"
+msgid_plural "Expecting one fd, but got %d\n"
+msgstr[0] "Ожидается один файловый дескриптор но получено %d\n"
+msgstr[1] "Ожидается один файловый дескриптор но получено %d\n"
+msgstr[2] "Ожидается один файловый дескриптор но получено %d\n"
+
+msgid ""
+"Expecting to read a single byte for receiving credentials but read zero bytes"
+msgstr ""
+"Ожидалось прочитать один байт идентификационной информации (credentials), но "
+"не прочитано ни одного байта"
+
+msgid "Extract a resource file to stdout"
+msgstr "Извлечь файл ресурса в stdout"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "FILE PATH"
+msgstr "ФАЙЛ ПУТЬ"
+
+msgid "FILE [PATH]"
+msgstr "ФАЙЛ [ПУТЬ]"
+
+msgid "Failed to allocate memory"
+msgstr "Не удалось выделить память"
+
+msgid "Failed to change to directory '%s' (%s)"
+msgstr "Не удалось сменить каталог на «%s» (%s)"
+
+msgid "Failed to create file '%s': %s"
+msgstr "Не удалось создать файл «%s»: %s"
+
+msgid "Failed to create pipe for communicating with child process (%s)"
+msgstr "Не удалось создать канал для сообщения с процессом-потомком (%s)"
+
+msgid "Failed to create temp file: %s"
+msgstr "Не удалось создать временный файл: %s"
+
+msgid "Failed to execute child process \"%s\" (%s)"
+msgstr "Не удалось выполнить процесс-потомок «%s» (%s)"
+
+msgid "Failed to execute child process (%s)"
+msgstr "Не удалось выполнить процесс-потомок (%s)"
+
+msgid "Failed to execute helper program (%s)"
+msgstr "Не удалось выполнить вспомогательную программу (%s)"
+
+msgid "Failed to expand exec line '%s' with URI '%s'"
+msgstr "Не удалось дополнить строку выполнения «%s» с помощью URI «%s»"
+
+msgid "Failed to fork (%s)"
+msgstr "Функция fork завершилась неудачно (%s)"
+
+msgid "Failed to fork child process (%s)"
+msgstr "При создании процесса-потомка функция fork завершилась неудачно (%s)"
+
+msgid "Failed to get attributes of file '%s%s%s%s': fstat() failed: %s"
+msgstr ""
+"Не удалось получить атрибуты файла «%s%s%s%s»: сбой в функции fstat(): %s"
+
+msgid "Failed to get attributes of file '%s': fstat() failed: %s"
+msgstr "Не удалось получить атрибуты файла «%s»: сбой в функции fstat(): %s"
+
+msgid "Failed to locate '%s' in any source directory"
+msgstr "Не удалось обнаружить «%s» в каталогах-источниках"
+
+msgid "Failed to locate '%s' in current directory"
+msgstr "Не удалось обнаружить «%s» в текущем каталоге"
+
+msgid "Failed to map %s%s%s%s: mmap() failed: %s"
+msgstr "Не удалось отобразить файл «%s%s%s%s»: сбой в функции mmap(): %s"
+
+msgid "Failed to open file '%s': %s"
+msgstr "Не удалось открыть файл «%s»: %s"
+
+msgid "Failed to open file '%s': fdopen() failed: %s"
+msgstr "Не удалось открыть файл «%s»: сбой в функции fdopen(): %s"
+
+msgid "Failed to open file '%s': open() failed: %s"
+msgstr "Не удалось открыть файл «%s»: сбой в функции open(): %s"
+
+msgid ""
+"Failed to parse '%-.*s', which should have been a digit inside a character "
+"reference (&#234; for example) - perhaps the digit is too large"
+msgstr ""
+"Не удалось разобрать строку «%-.*s», которая должна быть числом внутри "
+"ссылки на символ (например &#234;) — возможно, номер слишком велик"
+
+msgid "Failed to read data from child process"
+msgstr "Не удалось прочитать данные из процесса-потомка"
+
+msgid "Failed to read data from child process (%s)"
+msgstr "Не удалось прочитать данные из процесса-потомка (%s)"
+
+msgid "Failed to read enough data from child pid pipe (%s)"
+msgstr ""
+"Не удалось прочитать нужное количество данных из канала процесса-потомка (%s)"
+
+msgid "Failed to read from child pipe (%s)"
+msgstr "Не удалось прочитать данные из канала потомка (%s)"
+
+msgid "Failed to read from file '%s': %s"
+msgstr "Не удалось прочитать из файла «%s»: %s"
+
+msgid "Failed to read the symbolic link '%s': %s"
+msgstr "Не удалось прочитать символьную ссылку «%s»: %s"
+
+msgid "Failed to redirect output or input of child process (%s)"
+msgstr "Не удалось перенаправить вывод или ввод процесса-потомка (%s)"
+
+msgid "Failed to rename file '%s' to '%s': g_rename() failed: %s"
+msgstr ""
+"Не удалось переименовать файл «%s» в «%s»: сбой в функции g_rename(): %s"
+
+msgid "Failed to resize memory output stream"
+msgstr "Не удалось изменить размер выходного потока в память"
+
+msgid "Failed to write file '%s': fsync() failed: %s"
+msgstr "Не удалось записать файл «%s»: сбой в функции fsync(): %s"
+
+msgid "Failed to write file '%s': write() failed: %s"
+msgstr "Не удалось записать файл «%s»: сбой в функции write(): %s"
+
+msgid "File \"%s\" is too large"
+msgstr "Файл «%s» слишком велик"
+
+msgid "File %s appears multiple times in the resource"
+msgstr "Файл %s указан в ресурсе несколько раз"
+
+msgid "File enumerator has outstanding operation"
+msgstr "Перечислитель файлов имеет незавершённое действие"
+
+msgid "File enumerator is already closed"
+msgstr "Перечислитель файлов уже закрыт"
+
+msgid "File names cannot contain '%c'"
+msgstr "Имена файлов не могут содержать «%c»"
+
+msgid "Filesystem does not support symbolic links"
+msgstr "Файловая система не поддерживает символьные ссылки"
+
+msgid "Filesystem root"
+msgstr "Корень файловой системы"
+
+msgid ""
+"First token of line %d of the keyring at '%s' with content '%s' is malformed"
+msgstr ""
+"Некорректная первая лексема в строке %d в связке ключей около «%s» с "
+"содержимым «%s»"
+
+msgid "GApplication options"
+msgstr "Параметры GApplication"
+
+msgid "GCredentials does not contain a process ID on this OS"
+msgstr "Тип GCredentials не содержит идентификатора процесса для этой ОС"
+
+msgid "GCredentials is not implemented on this OS"
+msgstr "Тип GCredentials не реализован для этой ОС"
+
+msgctxt "GDateTime"
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgctxt "GDateTime"
+msgid "%I:%M:%S %p"
+msgstr "%I:%M:%S %p"
+
+msgctxt "GDateTime"
+msgid "%a %b %e %H:%M:%S %Y"
+msgstr "%a %d %b %Y %T"
+
+msgctxt "GDateTime"
+msgid "%m/%d/%y"
+msgstr "%d.%m.%Y"
+
+msgctxt "GDateTime"
+msgid "AM"
+msgstr "д. п."
+
+msgctxt "GDateTime"
+msgid "PM"
+msgstr "п. п."
+
+msgid "GSocketControlMessage not supported on Windows"
+msgstr "GSocketControlMessage не поддерживается в Windows"
+
+msgid "Generate dependency list"
+msgstr "Генерировать список зависимостей"
+
+msgid ""
+"Generate output in the format selected for by the target filename extension"
+msgstr ""
+"Генерировать результат в формате в соответствии с расширением целевого файла"
+
+msgid "Generate source header"
+msgstr "Генерировать исходный заголовок"
+
+msgid "Generate sourcecode used to link in the resource file into your code"
+msgstr ""
+"Генерировать sourcecode, который используется для связи с файлом ресурсов "
+"вашего кода"
+
+msgid "Get the value of KEY"
+msgstr "Получить значение КЛЮЧА"
+
+msgid "Help Options:"
+msgstr "Параметры справки:"
+
+msgid "Host unreachable"
+msgstr "Узел недоступен"
+
+msgid "Host unreachable through SOCKSv5 server."
+msgstr "Узел недоступен через сервер SOCKSv5."
+
+msgid "Hostname '%s' contains '[' but not ']'"
+msgstr "Имя узла «%s» содержит «[», но не «]»"
+
+msgid "Hostname '%s' is too long for SOCKSv4 protocol"
+msgstr "Имя узла «%s» слишком длинно для протокола SOCKSv4"
+
+msgid "Hostname '%s' is too long for SOCKSv5 protocol"
+msgstr "Имя узла «%s» слишком длинное для протокола SOCKSv5"
+
+msgid "Ignored, for compat with GTestDbus"
+msgstr "Игнорируется, для совместимости с GTestDbus"
+
+msgid "Ignoring override for this key.\n"
+msgstr "Игнорируется замена для этого ключа.\n"
+
+msgid "Ignoring this file.\n"
+msgstr "Этот файл игнорируется.\n"
+
+msgid "Incomplete multibyte sequence in input"
+msgstr "Неполная многобайтовая последовательность во входных данных"
+
+msgid "Input stream doesn't implement read"
+msgstr "Входной поток не поддерживает чтение"
+
+msgid "Input stream doesn't implement seek"
+msgstr "По входному потоку перемещение не поддерживается"
+
+msgid "Integer value '%s' for %s out of range"
+msgstr "Целочисленное значение «%s» для %s выходит за пределы"
+
+msgid "Integer value '%s' out of range"
+msgstr "Целочисленное значение «%s» выходит за пределы"
+
+msgid "Internal SOCKSv5 proxy server error."
+msgstr "Внутренняя ошибка прокси-сервера SOCKSv5."
+
+msgid "Internal error: %s"
+msgstr "Внутренняя ошибка: %s"
+
+msgid "Introspect a remote object."
+msgstr "Выполнить интроспекцию удалённого объекта."
+
+msgid "Introspect children"
+msgstr "Интроспекция потомка"
+
+msgid "Invalid GSeekType supplied"
+msgstr "Передан недопустимый GSeekType"
+
+msgid "Invalid UTF-8 encoded text in name - not valid '%s'"
+msgstr ""
+"Недопустимый UTF-8 текст в имени — неправильная последовательность «%s»"
+
+msgid "Invalid attribute type (byte string expected)"
+msgstr "Неверный тип атрибута (ожидалась строка byte)"
+
+msgid "Invalid attribute type (string expected)"
+msgstr "Неверный тип атрибута (ожидалась строка)"
+
+msgid "Invalid attribute type (uint32 expected)"
+msgstr "Неверный тип атрибута (ожидался uint32)"
+
+msgid "Invalid attribute type (uint64 expected)"
+msgstr "Неверный тип атрибута (ожидался uint64)"
+
+msgid "Invalid byte sequence in conversion input"
+msgstr "Недопустимая последовательность байтов во входных преобразуемых данных"
+
+msgid "Invalid compressed data"
+msgstr "Неправильные сжатые данные"
+
+msgid ""
+"Invalid endianness value. Expected 0x6c ('l') or 0x42 ('B') but found value "
+"0x%02x"
+msgstr ""
+"Неправильный порядок байтов в значении. Ожидался 0x6c ('l') или 0x42 ('B'), "
+"но найдено значение 0x%02x"
+
+msgid "Invalid extended attribute name"
+msgstr "Недопустимое имя расширенного атрибута"
+
+msgid "Invalid filename"
+msgstr "Недопустимое имя файла"
+
+msgid "Invalid filename %s"
+msgstr "Недопустимое имя файла %s"
+
+msgid "Invalid group name: %s"
+msgstr "Недопустимое имя группы: %s"
+
+msgid "Invalid hostname"
+msgstr "Недопустимое имя узла"
+
+msgid "Invalid key name: %s"
+msgstr "Недопустимое имя ключа: %s"
+
+msgid "Invalid major protocol version. Expected 1 but found %d"
+msgstr "Неправильный старший номер версии протокола. Ожидался 1, но найден %d"
+
+msgid "Invalid object, not initialized"
+msgstr "Недопустимый объект, не инициализировано"
+
+msgid "Invalid program name: %s"
+msgstr "Недопустимое имя программы: %s"
+
+msgid "Invalid seek request"
+msgstr "Недопустимый запрос на переход"
+
+msgid "Invalid sequence in conversion input"
+msgstr ""
+"Во входной строке для преобразования обнаружена недопустимая "
+"последовательность"
+
+msgid "Invalid socket, initialization failed due to: %s"
+msgstr "Недопустимый сокет, инициализация не удалась по причине: %s"
+
+msgid "Invalid socket, not initialized"
+msgstr "Недопустимый сокет, не инициализировано"
+
+msgid "Invalid string in argument vector at %d: %s"
+msgstr "Недопустимая строка в векторе аргументов под номером %d: %s"
+
+msgid "Invalid string in environment: %s"
+msgstr "Недопустимая строка в окружении: %s"
+
+msgid "Invalid symlink value given"
+msgstr "Дано неверное значение символьной ссылки"
+
+msgid "Invalid working directory: %s"
+msgstr "Недопустимый рабочий каталог: %s"
+
+msgid "Invoke a method on a remote object."
+msgstr "Вызывает метод на удалённом объекте."
+
+msgid "Invoke an action on the application"
+msgstr "Вызвать действие приложения"
+
+msgid "Key '%s' in group '%s' has value '%s' where %s was expected"
+msgstr "Значение ключа «%s» в группе «%s» равно «%s», но ожидалось «%s»"
+
+msgid "Key file contains escape character at end of line"
+msgstr "Файл ключей содержит символ escape в конце строки"
+
+msgid "Key file contains invalid escape sequence '%s'"
+msgstr "Файл ключей содержит неверную экранирующую последовательность «%s»"
+
+msgid ""
+"Key file contains key '%s' in group '%s' which has a value that cannot be "
+"interpreted."
+msgstr ""
+"Файл ключей содержит ключ «%s» в группе «%s», значение которого не удалось "
+"распознать."
+
+msgid ""
+"Key file contains key '%s' which has a value that cannot be interpreted."
+msgstr ""
+"Файл ключей содержит ключ «%s», значение которого не удалось "
+"интерпретировать."
+
+msgid "Key file contains key '%s' with value '%s' which is not UTF-8"
+msgstr ""
+"Файл ключей содержит ключ «%s», значение которого «%s» не в кодировке UTF-8"
+
+msgid ""
+"Key file contains line '%s' which is not a key-value pair, group, or comment"
+msgstr ""
+"Файл ключей содержит строку «%s», которая не является парой «ключ-значение», "
+"группой или комментарием"
+
+msgid "Key file contains unsupported encoding '%s'"
+msgstr "Файл ключей содержит неподдерживаемую кодировку «%s»"
+
+msgid "Key file does not have group '%s'"
+msgstr "Файл ключей не содержит группу «%s»"
+
+msgid "Key file does not have key '%s'"
+msgstr "Файл ключей не содержит ключ «%s»"
+
+msgid "Key file does not have key '%s' in group '%s'"
+msgstr "Файл ключей не содержит ключа «%s» в группе «%s»"
+
+msgid "Key file does not start with a group"
+msgstr "Файл ключей не начинается с группы"
+
+msgid ""
+"Key/Value pair %d, '%s', in address element '%s' does not contain an equal "
+"sign"
+msgstr ""
+"Пара ключ/значение %d, «%s», в элементе адреса «%s» не содержит знака "
+"равенства"
+
+msgid "Launch an application"
+msgstr "Запустить приложение"
+
+msgid "Launch the application (with optional files to open)"
+msgstr "Запустить приложение (с открытием необязательных файлов)"
+
+msgid "Leftover unconverted data in read buffer"
+msgstr "В буфере чтения остались непреобразованные данные"
+
+msgid "Length %u is too long for address"
+msgstr "Значение длины %u слишком велико для адреса"
+
+msgid "Line %d of the keyring at '%s' with content '%s' is malformed"
+msgstr "Некорректная строка %d в связке ключей около «%s» с содержимым «%s»"
+
+msgid "List applications"
+msgstr "Вывести список приложений"
+
+msgid "List available actions"
+msgstr "Вывести список доступных действий"
+
+msgid ""
+"List keys and values, recursively\n"
+"If no SCHEMA is given, list all keys\n"
+msgstr ""
+"Перечислить ключи и значения рекурсивно\n"
+"Если указана СХЕМА, то перечислить все ключи\n"
+
+msgid ""
+"List resources\n"
+"If SECTION is given, only list resources in this section\n"
+"If PATH is given, only list matching resources"
+msgstr ""
+"Вывод списка ресурсов\n"
+"Если указан РАЗДЕЛ, то выводится список ресурсов только из этого раздела\n"
+"Если указан ПУТЬ, то  выводится список совпадающих ресурсов"
+
+msgid ""
+"List resources with details\n"
+"If SECTION is given, only list resources in this section\n"
+"If PATH is given, only list matching resources\n"
+"Details include the section, size and compression"
+msgstr ""
+"Вывод списка ресурсов с подробностями\n"
+"Если указан РАЗДЕЛ, то выводится список ресурсов только из этого раздела\n"
+"Если указан ПУТЬ, то  выводится список совпадающих ресурсов\n"
+"Дополнительно выводится раздел, размер и сжатие"
+
+msgid "List sections containing resources in an elf FILE"
+msgstr "Вывести разделы, содержащие ресурсы в elf-ФАЙЛЕ"
+
+msgid "List static actions for an application (from .desktop file)"
+msgstr "Вывести список статических действий для приложения (из desktop-файла)"
+
+msgid "List the children of SCHEMA"
+msgstr "Список потомков СХЕМЫ"
+
+msgid "List the installed (non-relocatable) schemas"
+msgstr "Список установленных (неперемещаемых) схем"
+
+msgid "List the installed D-Bus activatable applications (by .desktop files)"
+msgstr ""
+"Вывести список установленных активируемых по D-Bus приложений (по desktop-"
+"файлам)"
+
+msgid "List the installed relocatable schemas"
+msgstr "Список установленных перемещаемых схем"
+
+msgid "List the keys in SCHEMA"
+msgstr "Список ключей в СХЕМЕ"
+
+msgid "Listener is already closed"
+msgstr "Слушатель уже закрыт"
+
+msgid "METHOD_CALL message: PATH or MEMBER header field is missing"
+msgstr "Сообщение METHOD_CALL: отсутствует поле заголовка PATH или MEMBER"
+
+msgid "METHOD_RETURN message: REPLY_SERIAL header field is missing"
+msgstr "Сообщение METHOD_RETURN: отсутствует поле заголовка REPLY_SERIAL"
+
+msgid "Malformed input data for GFileIcon"
+msgstr "Некорректные входные данные для GFileIcon"
+
+msgid "Malformed number of tokens (%d) in GEmblem encoding"
+msgstr "Некорректное число лексем (%d) текстового представления GEmblem"
+
+msgid "Malformed number of tokens (%d) in GEmblemedIcon encoding"
+msgstr "Некорректное число лексем (%d) текстового представления GEmblemedIcon"
+
+msgid "Malformed version number: %s"
+msgstr "Некорректный номер версии: %s"
+
+msgid "Meaningless key/value pair combination in address entry '%s'"
+msgstr "Бессмысленная комбинация ключ/значение в элементе адреса «%s»"
+
+msgid "Memory output stream not resizable"
+msgstr "Невозможно изменить размер выходного потока в память"
+
+msgid "Message body has signature '%s' but there is no signature header"
+msgstr "Тело сообщения имеет подпись «%s», но нет заголовка подписи"
+
+msgid ""
+"Message body has type signature '%s' but signature in the header field is "
+"'%s'"
+msgstr ""
+"Тело сообщения имеет тип подписи «%s», но значение подписи в поле заголовка "
+"равно «%s»"
+
+msgid "Message body is empty but signature in the header field is '(%s)'"
+msgstr ""
+"Тело сообщения пусто, но значение подписи в поле заголовка равно «(%s)»"
+
+msgid ""
+"Message has %d file descriptors but the header field indicates %d file "
+"descriptors"
+msgstr ""
+"Сообщение содержит %d файловых дескрипторов, но в поле заголовка указано %d"
+
+msgid "Method '%s' on interface '%s' with signature '%s' does not exist"
+msgstr "Метод «%s» интерфейса «%s» с подписью «%s» не существует"
+
+msgid "Method '%s' returned type '%s', but expected '%s'"
+msgstr "Метод «%s» вернул тип «%s», но ожидалось «%s»"
+
+msgid "Method and interface name"
+msgstr "Название метода или интерфейса"
+
+msgid "Missing argument for %s"
+msgstr "Отсутствует аргумент для %s"
+
+msgid ""
+"Monitor KEY for changes.\n"
+"If no KEY is specified, monitor all keys in SCHEMA.\n"
+"Use ^C to stop monitoring.\n"
+msgstr ""
+"Следить за изменениями КЛЮЧА.\n"
+"Если КЛЮЧ не задан, то следить за всеми ключами СХЕМЫ.\n"
+"Для остановки слежения используйте ^C.\n"
+
+msgid "Monitor a remote object."
+msgstr "Наблюдать за удалённым объектом."
+
+msgid "Move between mounts not supported"
+msgstr "Перемещение между точками монтирования не поддерживается"
+
+msgid "Multiple connection endpoints specified"
+msgstr "Указано несколько оконечных точек соединения"
+
+msgid "Need more input"
+msgstr "Требуется больше входных данных"
+
+msgid "Network unreachable"
+msgstr "Сеть недоступна"
+
+msgid "Network unreachable through SOCKSv5 proxy."
+msgstr "Сеть недоступна через прокси SOCKSv5."
+
+msgid "No DNS record of the requested type for '%s'"
+msgstr "Запись DNS с запрашиваемым типом «%s» отсутствует"
+
+msgid "No MIME type defined in the bookmark for URI '%s'"
+msgstr "В закладке на ресурс «%s» не определён тип MIME"
+
+msgid "No PEM-encoded certificate found"
+msgstr "Не найден сертификат в формате PEM"
+
+msgid "No PEM-encoded private key found"
+msgstr "Не найден секретный ключ в формате PEM"
+
+msgid "No address specified"
+msgstr "Адрес не указан"
+
+msgid "No application is registered as handling this file"
+msgstr "Нет зарегистрированного приложения для обработки данного файла"
+
+msgid "No application with name '%s' registered a bookmark for '%s'"
+msgstr "Нет приложения с именем «%s», создавшего закладку для «%s»"
+
+msgid "No bookmark found for URI '%s'"
+msgstr "Для ресурса URI «%s» закладок не найдено"
+
+msgid "No connection endpoint specified"
+msgstr "Оконечная точка соединения не указана"
+
+msgid "No groups set in bookmark for URI '%s'"
+msgstr "В закладке для URI «%s» не определена группа"
+
+msgid "No private flag has been defined in bookmark for URI '%s'"
+msgstr "Отметка о приватности данных в закладке для URI «%s» не определена"
+
+msgid "No schema files found: "
+msgstr "Файлы схемы не найдены: "
+
+msgid "No signature header in message but the message body is %u byte"
+msgid_plural "No signature header in message but the message body is %u bytes"
+msgstr[0] ""
+"Отсутствует заголовок подписи в сообщении, но тело сообщения занимает %u байт"
+msgstr[1] ""
+"Отсутствует заголовок подписи в сообщении, но тело сообщения занимает %u "
+"байта"
+msgstr[2] ""
+"Отсутствует заголовок подписи в сообщении, но тело сообщения занимает %u байт"
+
+msgid "No such interface"
+msgstr "Интерфейс отсутствует"
+
+msgid "No such interface '%s'"
+msgstr "Интерфейс «%s» отсутствует"
+
+msgid "No such interface '%s' on object at path %s"
+msgstr "Интерфейс «%s» для пути %s объекта не найден"
+
+msgid ""
+"No such interface 'org.freedesktop.DBus.Properties' on object at path %s"
+msgstr ""
+"Интерфейс «org.freedesktop.DBus.Properties» для пути %s объекта не найден"
+
+msgid "No such key '%s'\n"
+msgstr "Ключ «%s» отсутствует\n"
+
+msgid "No such key '%s' in schema '%s' as specified in override file '%s'"
+msgstr "Ключ «%s» в схеме «%s» отсутствует, хотя указан в файле замен «%s»"
+
+msgid "No such method '%s'"
+msgstr "Метод «%s» отсутствует"
+
+msgid "No such property '%s'"
+msgstr "Свойство «%s» отсутствует"
+
+msgid "No such schema '%s'\n"
+msgstr "Схема «%s» отсутствует\n"
+
+msgid "No support for source-specific multicast"
+msgstr "Отсутствует поддержка мультикаста по источнику"
+
+msgid "No type for class name %s"
+msgstr "Нет типа для класса с именем %s"
+
+msgid "No valid addresses were found"
+msgstr "Не найдено ни одного допустимого адреса"
+
+msgid "No valid bookmark file found in data dirs"
+msgstr "Не удалось найти допустимый файл закладок в каталогах поиска"
+
+msgid "Not a regular file"
+msgstr "Не является обычным файлом"
+
+msgid "Not enough memory"
+msgstr "Недостаточно памяти"
+
+msgid "Not enough space for socket address"
+msgstr "Недостаточно места для адреса сокета"
+
+msgid "Not enough space in destination"
+msgstr "Недостаточно места в целевом расположении"
+
+msgid "Not expecting control message, but got %d"
+msgstr "Контрольное сообщение не ожидалось, но получено %d"
+
+msgid "Object path to emit signal on"
+msgstr "Объектный путь, для выпуска сигнала"
+
+msgid "Object path to introspect"
+msgstr "Объектный путь для интроспекции"
+
+msgid "Object path to invoke method on"
+msgstr "Объектный путь, для которого вызывается метод"
+
+msgid "Object path to monitor"
+msgstr "Объектный путь для наблюдения"
+
+msgid ""
+"Odd character '%s', expected a '=' after attribute name '%s' of element '%s'"
+msgstr ""
+"Встретился лишний символ «%s», ожидался символ «=» после имени атрибута «%s» "
+"элемента «%s»"
+
+msgid ""
+"Odd character '%s', expected a '>' character to end the empty-element tag "
+"'%s'"
+msgstr ""
+"Встретился лишний символ «%s», ожидался символ «>» для завершения пустого "
+"элемента тэга «%s»"
+
+msgid ""
+"Odd character '%s', expected a '>' or '/' character to end the start tag of "
+"element '%s', or optionally an attribute; perhaps you used an invalid "
+"character in an attribute name"
+msgstr ""
+"Встретился лишний символ «%s»; ожидались символы «>» или «/» для завершения "
+"открывающего тэга элемента «%s», либо, возможно, атрибут; может быть, был "
+"использован недопустимый символ в имени атрибута"
+
+msgid ""
+"Odd character '%s', expected an open quote mark after the equals sign when "
+"giving value for attribute '%s' of element '%s'"
+msgstr ""
+"Встретился лишний символ «%s», ожидалась открывающая двойная кавычка после "
+"знака равенства при присваивании значения атрибуту «%s» элемента «%s»"
+
+msgid "Only print properties"
+msgstr "Только свойства печати"
+
+msgid "Operation not supported"
+msgstr "Действие не поддерживается"
+
+msgid "Operation was cancelled"
+msgstr "Действие было отменено"
+
+msgid "Optional destination for signal (unique name)"
+msgstr "Необязательный получатель сигнала (уникальное имя)"
+
+msgid "Optional parameter to the action invocation, in GVariant format"
+msgstr "Необязательный параметр для вызова действия в формате GVariant"
+
+msgid "Optional relative or relative filenames, or URIs to open"
+msgstr "Необязательные относительные имена файлов или адреса URI для открытия"
+
+msgid "Options specifying the connection endpoint"
+msgstr "Параметры, определяющие оконечную точку соединения"
+
+msgid "Output stream doesn't implement write"
+msgstr "Выходной поток не поддерживает запись"
+
+msgid "PARAMETER"
+msgstr "ПАРАМЕТР"
+
+msgid "PATH"
+msgstr "ПУТЬ"
+
+msgid "PCRE library is compiled with incompatible options"
+msgstr "Библиотека PCRE собрана с несовместимыми параметрами"
+
+msgid "PCRE library is compiled without UTF8 properties support"
+msgstr "Библиотека PCRE собрана без поддержки свойств UTF-8"
+
+msgid "PCRE library is compiled without UTF8 support"
+msgstr "Библиотека PCRE собрана без поддержки UTF-8"
+
+msgid "POSIX collating elements are not supported"
+msgstr "сортировочные элементы POSIX не поддерживаются"
+
+msgid "POSIX named classes are supported only within a class"
+msgstr "именованные классы POSIX поддерживаются только внутри класса"
+
+msgid "Parsed value '%s' for variant is not a valid D-Bus signature"
+msgstr ""
+"Разобранное значение «%s» для варианта не является допустимой подписью D-Bus"
+
+msgid "Parsed value '%s' is not a valid D-Bus object path"
+msgstr "Разобранное значение «%s» не является допустимым путём объекта D-Bus"
+
+msgid "Parsed value '%s' is not a valid D-Bus signature"
+msgstr "Разобранное значение «%s» не является допустимой подписью D-Bus"
+
+msgid "Parsed value '%s' is not a valid D-Bus signature (for body)"
+msgstr ""
+"Разобранное значение «%s» не является допустимой подписью D-Bus (для тела)"
+
+msgid "Partial character sequence at end of input"
+msgstr ""
+"Неполная символьная последовательность содержится в конце входных данных"
+
+msgid "Path must begin with a slash (/)\n"
+msgstr "Путь должен начинаться символом косой черты (/)\n"
+
+msgid "Path must end with a slash (/)\n"
+msgstr "Путь должен заканчиваться символом косой черты (/)\n"
+
+msgid "Path must not contain two adjacent slashes (//)\n"
+msgstr "В пути не должно быть две стоящих рядом косых черты (//)\n"
+
+msgid ""
+"Permissions on directory '%s' are malformed. Expected mode 0700, got 0%o"
+msgstr "Ошибочные права на каталог «%s». Ожидалось 0700, получено 0%o"
+
+msgid "Print XML"
+msgstr "Напечатать XML"
+
+msgid "Print address"
+msgstr "Напечатать адрес"
+
+msgid "Print address in shell mode"
+msgstr "Напечатать адрес в режиме оболочки"
+
+msgid "Print help"
+msgstr "Напечатать справку"
+
+msgid "Print version"
+msgstr "Вывести номер верии"
+
+msgid "Print version information and exit"
+msgstr "Вывести информацию о версии и выйти"
+
+msgid "Property '%s' is not readable"
+msgstr "Свойство «%s» недоступно для чтения"
+
+msgid "Property '%s' is not writable"
+msgstr "Свойство «%s» недоступно для записи"
+
+msgid "Proxy protocol '%s' is not supported."
+msgstr "Протокол прокси «%s» не поддерживается."
+
+msgid "Proxying over a non-TCP connection is not supported."
+msgstr "Проксирование через не-TCP соединение не поддерживается."
+
+msgid "Query the range of valid values for KEY"
+msgstr "Запросить диапазон допустимых значений КЛЮЧА"
+
+msgid "Quoted text doesn't begin with a quotation mark"
+msgstr "Текст в кавычках не начинается с символа кавычки"
+
+msgid "Received invalid fd"
+msgstr "Получен недопустимый файловый дескриптор"
+
+msgid "Requested seek before the beginning of the stream"
+msgstr "Выполнять перемещение в начало потока"
+
+msgid "Requested seek beyond the end of the stream"
+msgstr "Выполнять перемещение в конец потока"
+
+msgid "Reset KEY to its default value"
+msgstr "Назначить КЛЮЧУ его значение по умолчанию"
+
+msgid "Reset all keys in SCHEMA to their defaults"
+msgstr "Сбросить все ключи в СХЕМЕ в их значения по умолчанию"
+
+msgid "Run a dbus service"
+msgstr "Запуск службы dbus"
+
+msgid "SCHEMA[:PATH]"
+msgstr "СХЕМА[:ПУТЬ]"
+
+msgid "SCHEMA[:PATH] KEY"
+msgstr "СХЕМА[:ПУТЬ] КЛЮЧ"
+
+msgid "SCHEMA[:PATH] KEY VALUE"
+msgstr "СХЕМА[:ПУТЬ] КЛЮЧ ЗНАЧЕНИЕ"
+
+msgid "SCHEMA[:PATH] [KEY]"
+msgstr "СХЕМА[:ПУТЬ] [КЛЮЧ]"
+
+msgid "SECTION"
+msgstr "РАЗДЕЛ"
+
+msgid "SELinux context must be non-NULL"
+msgstr "Контекст SELinux не должен быть равен NULL"
+
+msgid "SELinux is not enabled on this system"
+msgstr "В этой системе не включён SELinux"
+
+msgid "SIGNAL message: PATH, INTERFACE or MEMBER header field is missing"
+msgstr ""
+"Сообщение SIGNAL: отсутствует поле заголовка PATH, INTERFACE или MEMBER"
+
+msgid ""
+"SIGNAL message: The INTERFACE header field is using the reserved value org."
+"freedesktop.DBus.Local"
+msgstr ""
+"Сообщение SIGNAL: поле заголовка INTERFACE использует зарезервированное "
+"значение org.freedesktop.DBus.Local"
+
+msgid ""
+"SIGNAL message: The PATH header field is using the reserved value /org/"
+"freedesktop/DBus/Local"
+msgstr ""
+"Сообщение SIGNAL: поле заголовка PATH использует зарезервированное значение /"
+"org/freedesktop/DBus/Local"
+
+msgid "SOCKSv4 does not support IPv6 address '%s'"
+msgstr "SOCKSv4 не поддерживает адрес IPv6 «%s»"
+
+msgid "SOCKSv5 authentication failed due to wrong username or password."
+msgstr ""
+"Аутентификация SOCKSv5 завершилась неудачно из-за неверного имени "
+"пользователя или пароля."
+
+msgid "SOCKSv5 connection not allowed by ruleset."
+msgstr "Подключение SOCKSv5 запрещено набором правил."
+
+msgid "SOCKSv5 proxy does not support 'connect' command."
+msgstr "Прокси SOCKSv5 не поддерживает команду «connect»."
+
+msgid "SOCKSv5 proxy does not support provided address type."
+msgstr "Прокси SOCKSv5 не поддерживает предложенный тип адреса."
+
+msgid "Schema '%s' is not relocatable (path must not be specified)\n"
+msgstr "Схема «%s» не является перемещаемой (задание пути недопустимо)\n"
+
+msgid "Schema '%s' is relocatable (path must be specified)\n"
+msgstr "Схема «%s» является перемещаемой (должен быть указан путь)\n"
+
+msgid ""
+"Second token of line %d of the keyring at '%s' with content '%s' is malformed"
+msgstr ""
+"Некорректная вторая лексема в строке %d в связке ключей около «%s» с "
+"содержимым «%s»"
+
+msgid "Seek not supported on base stream"
+msgstr "Переход в базовом потоке не поддерживается"
+
+msgid "Seek not supported on stream"
+msgstr "Переход по потоку не поддерживается"
+
+msgid "Session dbus not running, and autolaunch failed"
+msgstr "Сеанс dbus не запущен, и автозапуск не выполнился"
+
+msgid "Set the value of KEY to VALUE"
+msgstr "Присвоить величину ЗНАЧЕНИЕ КЛЮЧУ"
+
+msgid "Setting attribute %s not supported"
+msgstr "Установка атрибута %s не поддерживается"
+
+msgid ""
+"Several password entered have been incorrect, and your access will be locked "
+"out after further failures."
+msgstr ""
+"Пароль был несколько раз введён неправильно, после следующих отказов ваш "
+"доступ будет заблокирован."
+
+msgid "Show GApplication options"
+msgstr "Показать параметры GApplication"
+
+msgid "Show all help options"
+msgstr "Показать все параметры справки"
+
+msgid "Show help options"
+msgstr "Показать параметры справки"
+
+msgid "Signal and interface name"
+msgstr "Название сигнала и интерфейса"
+
+msgid "Signature header with signature '%s' found but message body is empty"
+msgstr "Найден заголовок подписи с подписью «%s», но тело сообщения пусто"
+
+msgid "Socket I/O timed out"
+msgstr "Превышено время ожидания ввода-вывода сокета"
+
+msgid "Socket is already closed"
+msgstr "Сокет уже закрыт"
+
+msgid "Source stream is already closed"
+msgstr "Исходный поток уже закрыт"
+
+msgid "Splice not supported"
+msgstr "Соединение не поддерживается"
+
+msgid "Stream doesn't support query_info"
+msgstr "Поток не поддерживает query_info"
+
+msgid "Stream has outstanding operation"
+msgstr "Поток имеет незавершённое действие"
+
+msgid "Stream is already closed"
+msgstr "Поток уже закрыт"
+
+msgid "Symbolic links not supported"
+msgstr "Символьные ссылки не поддерживаются"
+
+msgid "TLS support is not available"
+msgstr "Поддержка TLS недоступна"
+
+msgid "Target file exists"
+msgstr "Целевой файл существует"
+
+msgid "Target file is a directory"
+msgstr "Целевой файл является каталогом"
+
+msgid "Target file is not a regular file"
+msgstr "Целевой файл не является обычным файлом"
+
+msgid "Template '%s' doesn't contain XXXXXX"
+msgstr "Шаблон «%s» не содержит XXXXXX"
+
+msgid "Template '%s' invalid, should not contain a '%s'"
+msgstr "Шаблон «%s» недопустим: он не должен содержать «%s»"
+
+msgid "Temporarily unable to resolve '%s'"
+msgstr "Временно невозможно разрешить «%s»"
+
+msgid "Text ended before matching quote was found for %c. (The text was '%s')"
+msgstr ""
+"Текст закончился до того, как была найдена закрывающая кавычка для %c (текст "
+"был «%s»)"
+
+msgid "Text ended just after a '\\' character. (The text was '%s')"
+msgstr "Текст закончился сразу после символа «\\» (текст был «%s»)"
+
+msgid "Text was empty (or contained only whitespace)"
+msgstr "Текст был пуст (или содержал только пробелы)"
+
+msgid ""
+"The SOCKSv5 proxy requires an authentication method that is not supported by "
+"GLib."
+msgstr ""
+"Для прокси SOCKSv5 требуется метод аутентификации, который не поддерживается "
+"GLib."
+
+msgid "The SOCKSv5 proxy requires authentication."
+msgstr "Прокси SOCKSv5 требует аутентификацию."
+
+msgid "The SOCKSv5 proxy server uses unknown address type."
+msgstr "Прокси-сервер SOCKSv5 использует неизвестный тип адреса."
+
+msgid "The URI '%s' contains invalidly escaped characters"
+msgstr "URI «%s» содержит недопустимо экранированные символы"
+
+msgid "The URI '%s' is invalid"
+msgstr "URI «%s» недопустим"
+
+msgid "The URI '%s' is not an absolute URI using the \"file\" scheme"
+msgstr ""
+"URI «%s» не является абсолютным идентификатором при использовании схемы "
+"«file»"
+
+msgid "The action name to invoke"
+msgstr "Имя вызываемого действия"
+
+msgid "The command to print detailed help for"
+msgstr "Команда, по которой выводится подробная справка"
+
+msgid "The connection is closed"
+msgstr "Соединение закрыто"
+
+msgid ""
+"The directories where files are to be read from (default to current "
+"directory)"
+msgstr ""
+"Каталоги, в которых ищутся файлы для чтения (по умолчанию текущий каталог)"
+
+msgid "The file was externally modified"
+msgstr "Файл был изменён извне"
+
+msgid "The given address is empty"
+msgstr "Указанный адрес пуст"
+
+msgid "The hostname of the URI '%s' is invalid"
+msgstr "Недопустимое имя узла в URI «%s»"
+
+msgid "The key is not writable\n"
+msgstr "Ключ недоступен для записи\n"
+
+msgid "The local file URI '%s' may not include a '#'"
+msgstr "Идентификатор URI локального файла «%s» не может включать символ «#»"
+
+msgid "The password entered is incorrect."
+msgstr "Введённый пароль неверен."
+
+msgid "The pathname '%s' is not an absolute path"
+msgstr "Путь «%s» не является абсолютным"
+
+msgid "The provided value is outside of the valid range\n"
+msgstr "Предоставленное величина лежит вне диапазона допустимых значений\n"
+
+msgid "The resource at '%s' does not exist"
+msgstr "Ресурс из «%s» не существует"
+
+msgid "The resource at '%s' failed to decompress"
+msgstr "Не удалось расжать ресурс из «%s»"
+
+msgid "The resource at '%s' is not a directory"
+msgstr "Ресурс из «%s» не является каталогом"
+
+msgid "The server is not a SOCKSv4 proxy server."
+msgstr "Сервер не является прокси-сервером SOCKSv4."
+
+msgid "The server is not a SOCKSv5 proxy server."
+msgstr "Сервер не является прокси-сервером SOCKSv5."
+
+msgid "The string '%s' is not a valid D-Bus GUID"
+msgstr "Строка «%s» не является допустимым D-Bus GUID"
+
+msgid "There is no GCredentials support for your platform"
+msgstr "Поддержка GCredentials для вашей платформы отсутствует"
+
+msgid "This entire file has been ignored.\n"
+msgstr "Всё содержимое файла было проигнорировано.\n"
+
+msgid ""
+"This is the last chance to enter the password correctly before your access "
+"is locked out."
+msgstr ""
+"Это последняя возможность правильно ввести пароль перед тем, как доступ "
+"будет заблокирован."
+
+msgid "Timeout in seconds"
+msgstr "Время ожидания в секундах"
+
+msgid "Timeout was reached"
+msgstr "Время ожидания истекло"
+
+msgid "Too large count value passed to %s"
+msgstr "Слишком большое значение количества передано в %s"
+
+msgid "Trash not supported"
+msgstr "Корзина не поддерживается"
+
+msgid "Truncate not allowed on input stream"
+msgstr "Усечение на входном потоке не разрешено"
+
+msgid "Truncate not supported on base stream"
+msgstr "Усечение не поддерживается в базовом потоке"
+
+msgid "Truncate not supported on stream"
+msgstr "Усечение не поддерживается на потоке"
+
+msgid "Type %s does not implement from_tokens() on the GIcon interface"
+msgstr "Тип %s не реализует from_tokens() интерфейса GIcon"
+
+msgid "Type %s does not implement the GIcon interface"
+msgstr "Тип %s не реализует интерфейс GIcon"
+
+msgid "Type %s is not classed"
+msgstr "Тип %s не является классифицируемым"
+
+msgid "Type of message, '%s', does not match expected type '%s'"
+msgstr "Тип сообщения «%s» не совпадает с ожидаемым типом «%s»"
+
+msgid "URIs not supported"
+msgstr "URI не поддерживаются"
+
+msgid "Unable to create socket: %s"
+msgstr "Не удалось создать сокет: %s"
+
+msgid "Unable to create trash dir %s: %s"
+msgstr "Не удалось создать каталог корзины %s: %s"
+
+msgid "Unable to create trashing info file: %s"
+msgstr "Не удалось создать запись о файле в корзине: %s"
+
+msgid "Unable to find default local directory monitor type"
+msgstr "Не удалось найти тип монитора локальных каталогов по умолчанию"
+
+msgid "Unable to find default local file monitor type"
+msgstr "Не удалось найти тип монитора локальных файлов по умолчанию"
+
+msgid "Unable to find or create trash directory"
+msgstr "Не удалось найти или создать каталог корзины"
+
+msgid "Unable to find terminal required for application"
+msgstr "Не удалось найти терминал, требуемый для приложения"
+
+msgid "Unable to find toplevel directory for trash"
+msgstr "Не удалось найти каталог верхнего уровня для корзины"
+
+msgid "Unable to get Hardware profile: %s"
+msgstr "Не удалось получить профиль аппаратуры: %s"
+
+msgid "Unable to get pending error: "
+msgstr "Не удалось получить ошибку ожидания: "
+
+msgid "Unable to load /var/lib/dbus/machine-id or /etc/machine-id: "
+msgstr "Не удалось загрузить /var/lib/dbus/machine-id или /etc/machine-id: "
+
+msgid "Unable to read socket credentials: %s"
+msgstr "Не удалось прочитать полномочия сокета: %s"
+
+msgid "Unable to shutdown socket: %s"
+msgstr "Не удалось выключить сокет: %s"
+
+msgid "Unable to trash file: %s"
+msgstr "Не удалось удалить файл в корзину: %s"
+
+msgid "Unexpected attribute '%s' for element '%s'"
+msgstr "Неожиданный атрибут «%s» элемента «%s»"
+
+msgid "Unexpected early end-of-stream"
+msgstr "Неожиданный ранний конец потока"
+
+msgid ""
+"Unexpected error in g_io_channel_win32_poll() reading data from a child "
+"process"
+msgstr ""
+"Произошла неожиданная ошибка в функции g_io_channel_win32_poll() при чтении "
+"данных из процесса-потомка"
+
+msgid "Unexpected error in select() reading data from a child process (%s)"
+msgstr ""
+"Произошла неожиданная ошибка в функции select() при чтении данных из "
+"процесса-потомка (%s)"
+
+msgid "Unexpected error in waitpid() (%s)"
+msgstr "Произошла неожиданная ошибка в функции waitpid() (%s)"
+
+msgid "Unexpected lack of content trying to (safely) read a line"
+msgstr "Неожиданное отсутствие содержимого при (надёжном) чтении строки"
+
+msgid "Unexpected lack of content trying to read a line"
+msgstr "Неожиданное отсутствие содержимого при чтении строки"
+
+msgid "Unexpected reply %d from StartServiceByName(\"%s\") method"
+msgstr "Неожиданный ответ %d из метода StartServiceByName(\"%s\")"
+
+msgid "Unexpected tag '%s' inside '%s'"
+msgstr "Неожиданный тэг «%s» внутри «%s»"
+
+msgid "Unexpected tag '%s', tag '%s' expected"
+msgstr "Неожиданный тэг «%s», ожидался тэг «%s»"
+
+msgid "Unexpected type of ancillary data"
+msgstr "Неожиданный тип вспомогательных данных"
+
+msgid "Unknown SOCKSv5 proxy error."
+msgstr "Неизвестная ошибка прокси SOCKSv5."
+
+msgid "Unknown bus type %d"
+msgstr "Неизвестный тип шины %d"
+
+msgid ""
+"Unknown command %s\n"
+"\n"
+msgstr ""
+"Неизвестная команда %s\n"
+"\n"
+
+msgid "Unknown error executing child process \"%s\""
+msgstr "Произошла неизвестная ошибка при выполнении процесса-потомка «%s»"
+
+msgid "Unknown error on connect"
+msgstr "Неизвестная ошибка при соединении"
+
+msgid "Unknown family was specified"
+msgstr "Указано неизвестное семейство"
+
+msgid "Unknown option %s"
+msgstr "Неизвестный параметр %s"
+
+msgid "Unknown or unsupported transport '%s' for address '%s'"
+msgstr "Неизвестный или неподдерживаемый транспорт «%s» для адреса «%s»"
+
+msgid "Unknown processing option \"%s\""
+msgstr "Неизвестный параметр обработки «%s»"
+
+msgid "Unknown protocol was specified"
+msgstr "Указан неизвестный протокол"
+
+msgid "Unknown type"
+msgstr "Неизвестный тип"
+
+msgid "Unmatched quotation mark in command line or other shell-quoted text"
+msgstr ""
+"Обнаружена незакрытая кавычка в командной строке или другом тексте от "
+"оболочки"
+
+msgid "Unnamed"
+msgstr "Без имени"
+
+msgid ""
+"Unsupported flags encountered when constructing a client-side connection"
+msgstr "При создании клиентского соединения обнаружены неподдерживаемые флаги"
+
+msgid "Unsupported key '%s' in address entry '%s'"
+msgstr "Неподдерживаемый ключ «%s» в элементе адреса «%s»"
+
+msgid "Unsupported socket address"
+msgstr "Неподдерживаемый адрес сокета"
+
+msgid "Usage:"
+msgstr "Использование:"
+
+msgid "Usage:\n"
+msgstr "Использование:\n"
+
+msgid ""
+"Usage:\n"
+"  gresource %s%s%s %s\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+"Использование:\n"
+"  gresource %s%s%s %s\n"
+"\n"
+"%s\n"
+"\n"
+
+msgid ""
+"Usage:\n"
+"  gresource [--section SECTION] COMMAND [ARGS...]\n"
+"\n"
+"Commands:\n"
+"  help                      Show this information\n"
+"  sections                  List resource sections\n"
+"  list                      List resources\n"
+"  details                   List resources with details\n"
+"  extract                   Extract a resource\n"
+"\n"
+"Use 'gresource help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+"Использование:\n"
+"  gresource [--section РАЗДЕЛ] КОМАНДА [АРГУМЕНТЫ…]\n"
+"\n"
+"Команды:\n"
+"  help                      Показать эту справку\n"
+"  sections                  Вывести разделы с ресурсами\n"
+"  list                      Вывести ресурсы\n"
+"  details                   Вывести ресурсы с подробностями\n"
+"  extract                   Извлечь ресурс\n"
+"\n"
+"Для получения справки используйте «gresource help КОМАНДА».\n"
+"\n"
+
+msgid ""
+"Usage:\n"
+"  gsettings --version\n"
+"  gsettings [--schemadir SCHEMADIR] COMMAND [ARGS...]\n"
+"\n"
+"Commands:\n"
+"  help                      Show this information\n"
+"  list-schemas              List installed schemas\n"
+"  list-relocatable-schemas  List relocatable schemas\n"
+"  list-keys                 List keys in a schema\n"
+"  list-children             List children of a schema\n"
+"  list-recursively          List keys and values, recursively\n"
+"  range                     Queries the range of a key\n"
+"  get                       Get the value of a key\n"
+"  set                       Set the value of a key\n"
+"  reset                     Reset the value of a key\n"
+"  reset-recursively         Reset all values in a given schema\n"
+"  writable                  Check if a key is writable\n"
+"  monitor                   Watch for changes\n"
+"\n"
+"Use 'gsettings help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+"Использование:\n"
+"  gsettings --version\n"
+"  gsettings [--schemadir КАТАЛОГ_СХЕМ] КОМАНДА [АРГУМЕНТЫ…]\n"
+"\n"
+"Команды:\n"
+"  help                      Показать эту справку\n"
+"  list-schemas              Список установленных схем\n"
+"  list-relocatable-schemas  Список перемещаемых схем\n"
+"  list-keys                 Список ключей схемы\n"
+"  list-children             Список потомков схемы\n"
+"  list-recursively          Список ключей и значений, рекурсивно\n"
+"  range                     Запросить диапазон значений ключа\n"
+"  get                       Получить значение ключа\n"
+"  set                       Изменить значение ключа\n"
+"  reset                     Сбросить значение ключа\n"
+"  reset-recursively         Сбросить все значения в заданной схеме\n"
+"  writable                  Проверить ключ на запись\n"
+"  monitor                   Следить за изменениями\n"
+"\n"
+"Для получения подробной справки используйте команду «gsettings help "
+"КОМАНДА».\n"
+"\n"
+
+msgid ""
+"Usage:\n"
+"  gsettings [--schemadir SCHEMADIR] %s %s\n"
+"\n"
+"%s\n"
+"\n"
+msgstr ""
+"Использование:\n"
+"  gsettings [--schemadir КАТАЛОГ_СХЕМ] %s %s\n"
+"\n"
+"%s\n"
+"\n"
+
+msgid ""
+"Use '%s help COMMAND' to get detailed help.\n"
+"\n"
+msgstr ""
+"Используйте команду «%s help КОМАНДА» для получения подробной справки.\n"
+"\n"
+
+msgid "Username is too long for SOCKSv4 protocol"
+msgstr "Имя пользователя слишком длинно для протокола SOCKSv4"
+
+msgid "Username or password is too long for SOCKSv5 protocol."
+msgstr "Имя пользователя или пароль слишком длинные для протокола SOCKSv5."
+
+msgid "Valid key file could not be found in search dirs"
+msgstr "В каталогах поиска не удалось найти допустимый файл ключей"
+
+msgid "Value '%s' cannot be interpreted as a boolean."
+msgstr "Не удалось преобразовать «%s» в булево значение."
+
+msgid "Value '%s' cannot be interpreted as a float number."
+msgstr "Не удалось преобразовать «%s» в число с плавающей запятой."
+
+msgid "Value '%s' cannot be interpreted as a number."
+msgstr "Не удалось преобразовать значение «%s» в число."
+
+msgid "Waiting for socket condition: %s"
+msgstr "Ожидание состояния сокета: %s"
+
+msgid "Wanted to read %lu byte but only got %lu"
+msgid_plural "Wanted to read %lu bytes but only got %lu"
+msgstr[0] "Требовалось прочитать %lu байт, но прочитано только %lu"
+msgstr[1] "Требовалось прочитать %lu байта, но прочитано только %lu"
+msgstr[2] "Требовалось прочитать %lu байт, но прочитано только %lu"
+
+msgid ""
+"Warning: According to introspection data, interface '%s' does not exist\n"
+msgstr ""
+"Предупреждение: согласно данным интроспекции, интерфейс «%s» не существует\n"
+
+msgid ""
+"Warning: According to introspection data, method '%s' does not exist on "
+"interface '%s'\n"
+msgstr ""
+"Предупреждение: согласно данным интроспекции, метод «%s» в интерфейсе «%s» "
+"не существует\n"
+
+msgid "Wrong args\n"
+msgstr "Неверные параметры\n"
+
+msgid "Wrong number of tokens (%d)"
+msgstr "Неверное число лексем (%d)"
+
+msgid "You should give exactly one directory name\n"
+msgstr "Должно быть указано только одно имя каталога\n"
+
+msgid "You should give exactly one file name\n"
+msgstr "Должно быть указано только одно имя имя файла\n"
+
+msgid "[ARGS...]"
+msgstr "[АРГУМЕНТЫ…]"
+
+msgid "[COMMAND]"
+msgstr "[КОМАНДА]"
+
+msgid "[OPTION...]"
+msgstr "[ПАРАМЕТР…]"
+
+msgid "[PATH]"
+msgstr "[ПУТЬ]"
+
+msgid "[SCHEMA[:PATH]]"
+msgstr "[СХЕМА[:ПУТЬ]]"
+
+msgid "\\ at end of pattern"
+msgstr "\\ в конце шаблона"
+
+msgid "\\C not allowed in lookbehind assertion"
+msgstr "\\C запрещено в lookbehind-утверждениях"
+
+msgid "\\N is not supported in a class"
+msgstr "\\N в классе не поддерживается"
+
+msgid "\\c at end of pattern"
+msgstr "\\c в конце шаблона"
+
+msgid "\\c must be followed by an ASCII character"
+msgstr "за \\c должен быть символ ASCII"
+
+msgid ""
+"\\g is not followed by a braced, angle-bracketed, or quoted name or number, "
+"or by a plain number"
+msgstr ""
+"за \\g не следует имя или число в скобках, угловых скобках или кавычках, или "
+"просто число"
+
+msgid "\\k is not followed by a braced, angle-bracketed, or quoted name"
+msgstr "за \\k не следует имя в скобках, угловых скобках или кавычках"
+
+msgid "] is an invalid data character in JavaScript compatibility mode"
+msgstr "нельзя использовать символ ] в режиме совместимости JavaScript"
+
+msgid "a numbered reference must not be zero"
+msgstr "номерная ссылка не может быть нулём"
+
+msgid "a path, if given, must begin and end with a slash"
+msgstr ""
+"если указывается путь, то он должен начинаться и заканчиваться символом "
+"косой черты"
+
+msgctxt "abbreviated month name"
+msgid "Apr"
+msgstr "Апр"
+
+msgctxt "abbreviated month name"
+msgid "Aug"
+msgstr "Авг"
+
+msgctxt "abbreviated month name"
+msgid "Dec"
+msgstr "Дек"
+
+msgctxt "abbreviated month name"
+msgid "Feb"
+msgstr "Фев"
+
+msgctxt "abbreviated month name"
+msgid "Jan"
+msgstr "Янв"
+
+msgctxt "abbreviated month name"
+msgid "Jul"
+msgstr "Июл"
+
+msgctxt "abbreviated month name"
+msgid "Jun"
+msgstr "Июн"
+
+msgctxt "abbreviated month name"
+msgid "Mar"
+msgstr "Мар"
+
+msgctxt "abbreviated month name"
+msgid "May"
+msgstr "Май"
+
+msgctxt "abbreviated month name"
+msgid "Nov"
+msgstr "Ноя"
+
+msgctxt "abbreviated month name"
+msgid "Oct"
+msgstr "Окт"
+
+msgctxt "abbreviated month name"
+msgid "Sep"
+msgstr "Сен"
+
+msgctxt "abbreviated weekday name"
+msgid "Fri"
+msgstr "Пт"
+
+msgctxt "abbreviated weekday name"
+msgid "Mon"
+msgstr "Пн"
+
+msgctxt "abbreviated weekday name"
+msgid "Sat"
+msgstr "Сб"
+
+msgctxt "abbreviated weekday name"
+msgid "Sun"
+msgstr "Вс"
+
+msgctxt "abbreviated weekday name"
+msgid "Thu"
+msgstr "Чт"
+
+msgctxt "abbreviated weekday name"
+msgid "Tue"
+msgstr "Вт"
+
+msgctxt "abbreviated weekday name"
+msgid "Wed"
+msgstr "Ср"
+
+msgid "action name must be given after application id\n"
+msgstr "имя действия должно указываться после идентификатора приложения\n"
+
+msgid "actions accept a maximum of one parameter\n"
+msgstr "действия принимают максимум один параметр\n"
+
+msgid "an argument is not allowed for (*ACCEPT), (*FAIL), or (*COMMIT)"
+msgstr "нельзя указать параметр для (*ACCEPT), (*FAIL) или (*COMMIT)"
+
+msgid "assertion expected after (?("
+msgstr "ожидалось утверждение после (?("
+
+msgid "association changes not supported on win32"
+msgstr "смена ассоциаций не поддерживается в Win32"
+
+msgid "back references as conditions are not supported for partial matching"
+msgstr ""
+"условия в виде обратных ссылок при поиске частичного совпадения не "
+"поддерживаются"
+
+msgid "backtracking limit reached"
+msgstr "достигнут предел обратного хода"
+
+msgid "bad offset"
+msgstr "неправильное смещение"
+
+msgid "cannot add keys to a 'list-of' schema"
+msgstr "не удалось добавить ключи в схему «list-of»"
+
+msgid "character value in \\u.... sequence is too large"
+msgstr "слишком большое значение символа в \\u…"
+
+msgid "character value in \\x{...} sequence is too large"
+msgstr "слишком большое значение символа в последовательности \\x{…}"
+
+msgid "code overflow"
+msgstr "переполнение кода"
+
+msgid "conditional group contains more than two branches"
+msgstr "условная группа содержит более двух ветвей"
+
+msgid "corrupted object"
+msgstr "повреждённый объект"
+
+msgid "could not get local address: %s"
+msgstr "не удалось получить локальный адрес: %s"
+
+msgid "could not get remote address: %s"
+msgstr "не удалось получить удаленный адрес: %s"
+
+msgid "could not listen: %s"
+msgstr "не удалось слушать: %s"
+
+msgid "creating GSocket from fd: %s"
+msgstr "создаётся GSocket из fd: %s"
+
+msgid "different names for subpatterns of the same number are not allowed"
+msgstr ""
+"не допускаются использовать различные имена для подшаблонов с одинаковым "
+"номером"
+
+msgid "digit expected"
+msgstr "ожидалась цифра"
+
+msgid "digit expected after (?+"
+msgstr "ожидалась цифра после (?+"
+
+msgid "doing nothing.\n"
+msgstr "ничего не выполняется.\n"
+
+msgid "drive doesn't implement eject"
+msgstr "привод не поддерживает извлечение"
+
+msgid "drive doesn't implement eject or eject_with_operation"
+msgstr "привод не поддерживает извлечение или извлечение_с_операцией"
+
+msgid "drive doesn't implement polling for media"
+msgstr "привод не поддерживает опрос носителя"
+
+msgid "drive doesn't implement start"
+msgstr "привод не поддерживает старт"
+
+msgid "drive doesn't implement stop"
+msgstr "привод не поддерживает остановку"
+
+msgid "empty names are not permitted"
+msgstr "пустые имена запрещены"
+
+msgid "error parsing action parameter: %s\n"
+msgstr "ошибка разбора параметра действия: %s\n"
+
+msgid ""
+"error parsing key '%s' in schema '%s' as specified in override file '%s': %s."
+msgstr ""
+"ошибка разбора ключа «%s» в схеме «%s», которая определена в файле замен "
+"«%s»: %s.  "
+
+msgid "error sending %s message to application: %s\n"
+msgstr "ошибка отправки сообщения %s приложению: %s\n"
+
+msgid "escapes \\L, \\l, \\N{name}, \\U, and \\u are not supported"
+msgstr "экранирование \\L, \\l, \\N{name}, \\U и \\u не поддерживается"
+
+msgid ""
+"exactly one of 'type', 'enum' or 'flags' must be specified as an attribute "
+"to <key>"
+msgstr ""
+"в качестве атрибута <key> можно указать только «type», «enum» или «flags»"
+
+msgid "failed to get memory"
+msgstr "не удалось получить память"
+
+msgctxt "full month name"
+msgid "April"
+msgstr "Апрель"
+
+msgctxt "full month name"
+msgid "August"
+msgstr "Август"
+
+msgctxt "full month name"
+msgid "December"
+msgstr "Декабрь"
+
+msgctxt "full month name"
+msgid "February"
+msgstr "Февраль"
+
+msgctxt "full month name"
+msgid "January"
+msgstr "Январь"
+
+msgctxt "full month name"
+msgid "July"
+msgstr "Июль"
+
+msgctxt "full month name"
+msgid "June"
+msgstr "Июнь"
+
+msgctxt "full month name"
+msgid "March"
+msgstr "Март"
+
+msgctxt "full month name"
+msgid "May"
+msgstr "Май"
+
+msgctxt "full month name"
+msgid "November"
+msgstr "Ноябрь"
+
+msgctxt "full month name"
+msgid "October"
+msgstr "Октябрь"
+
+msgctxt "full month name"
+msgid "September"
+msgstr "Сентябрь"
+
+msgctxt "full weekday name"
+msgid "Friday"
+msgstr "Пятница"
+
+msgctxt "full weekday name"
+msgid "Monday"
+msgstr "Понедельник"
+
+msgctxt "full weekday name"
+msgid "Saturday"
+msgstr "Суббота"
+
+msgctxt "full weekday name"
+msgid "Sunday"
+msgstr "Воскресенье"
+
+msgctxt "full weekday name"
+msgid "Thursday"
+msgstr "Четверг"
+
+msgctxt "full weekday name"
+msgid "Tuesday"
+msgstr "Вторник"
+
+msgctxt "full weekday name"
+msgid "Wednesday"
+msgstr "Среда"
+
+msgid "g_socket_get_credentials not implemented for this OS"
+msgstr "Функция g_socket_get_credentials не реализована в этой ОС"
+
+msgid "hexadecimal digit expected"
+msgstr "ожидалась шестнадцатеричная цифра"
+
+msgid "hexadecimal digit or '}' expected"
+msgstr "ожидалась шестнадцатеричная цифра или символ «}»"
+
+msgid "illegal symbolic reference"
+msgstr "недопустимая символьная ссылка"
+
+msgid "inconsistent NEWLINE options"
+msgstr "противоречивые параметры NEWLINE"
+
+msgid "internal error"
+msgstr "внутренняя ошибка"
+
+msgid "internal error or corrupted object"
+msgstr "внутренняя ошибка или повреждённый объект"
+
+msgid "invalid GVariant type string '%s'"
+msgstr "недопустимая строка типа GVariant «%s»"
+
+msgid ""
+"invalid action name: '%s'\n"
+"action names must consist of only alphanumerics, '-' and '.'\n"
+msgstr ""
+"недопустимое имя действия: «%s»\n"
+"имя может состоять только из букв, цифр и символов «-» и «.»\n"
+
+msgid "invalid application id: '%s'\n"
+msgstr "недопустимый идентификатор приложения: «%s»\n"
+
+msgid "invalid combination of newline flags"
+msgstr "недопустимая комбинация флагов перевода строки"
+
+msgid "invalid condition (?(0)"
+msgstr "ошибочное условие (?(0)"
+
+msgid "invalid escape sequence in character class"
+msgstr "неверное экранирование в классе символов"
+
+msgid ""
+"invalid name '%s': invalid character '%c'; only lowercase letters, numbers "
+"and hyphen ('-') are permitted."
+msgstr ""
+"неверное имя «%s»: неверный символ «%c»; допускаются только строчные буквы, "
+"числа и дефис («-»)."
+
+msgid "invalid name '%s': maximum length is 1024"
+msgstr "неверное имя «%s»: максимальная длина равна 1024"
+
+msgid "invalid name '%s': names must begin with a lowercase letter"
+msgstr "неверное имя «%s»: имена должны начинаться со строчной буквы"
+
+msgid "invalid name '%s': the last character may not be a hyphen ('-')."
+msgstr "неверное имя «%s»: последний символ не может быть дефисом («-»)."
+
+msgid "invalid name '%s': two successive hyphens ('--') are not permitted."
+msgstr "неверное имя «%s»: нельзя указывать два дефиса одновременно («--»)."
+
+msgid "list-actions command takes only the application id"
+msgstr "команда list-actions принимает только идентификатор приложения"
+
+msgid "lookbehind assertion is not fixed length"
+msgstr "lookbehind-утверждение не имеет фиксированную длину"
+
+msgid "malformed \\P or \\p sequence"
+msgstr "ошибочная последовательность \\P или \\p"
+
+msgid "malformed number or name after (?("
+msgstr "ошибочное число или имя после (?("
+
+msgid "missing '<' in symbolic reference"
+msgstr "в символьной ссылке отсутствует «<»"
+
+msgid "missing ) after comment"
+msgstr "отсутствует ) после комментария"
+
+msgid "missing subpattern name after (?&"
+msgstr "отсутствует имя подшаблона после (?&"
+
+msgid "missing terminating )"
+msgstr "отсутствует завершающая )"
+
+msgid "missing terminating ] for character class"
+msgstr "отсутствует завершающая ] для класса символов"
+
+msgid "missing terminator in subpattern name"
+msgstr "отсутствует завершающий символ в имени подшаблона"
+
+msgid "mount doesn't implement \"eject\""
+msgstr "точка монтирования не поддерживает «извлечение»"
+
+msgid "mount doesn't implement \"eject\" or \"eject_with_operation\""
+msgstr ""
+"точка монтирования не поддерживает «извлечение» или «извлечение_с_операцией»"
+
+msgid "mount doesn't implement \"remount\""
+msgstr "точка монтирования не поддерживает «переподсоединение»"
+
+msgid "mount doesn't implement \"unmount\""
+msgstr "точка монтирования не поддерживает «отсоединение»"
+
+msgid "mount doesn't implement \"unmount\" or \"unmount_with_operation\""
+msgstr ""
+"точка монтирования не поддерживает «отсоединение» или "
+"«отсоединение_с_операцией»"
+
+msgid "mount doesn't implement content type guessing"
+msgstr ""
+"точка монтирования не поддерживает возможность определения типа содержимого"
+
+msgid "mount doesn't implement synchronous content type guessing"
+msgstr ""
+"точка монтирования не поддерживает возможность синхронного определения типа "
+"содержимого"
+
+msgid "name is too long in (*MARK), (*PRUNE), (*SKIP), or (*THEN)"
+msgstr "слишком длинное имя в (*MARK), (*PRUNE), (*SKIP) или (*THEN)"
+
+msgid "name of the output file"
+msgstr "имя выходного файла"
+
+msgid "no <key name='%s'> to override"
+msgstr "не задан <key name='%s'> для замещения"
+
+msgid "nothing to repeat"
+msgstr "нечего повторять"
+
+msgid "number is too big"
+msgstr "слишком большое число"
+
+msgid "number too big in {} quantifier"
+msgstr "слишком большое число в квантификаторе {}"
+
+msgid "numbers out of order in {} quantifier"
+msgstr "числа в квантификаторе {} в неправильном порядке"
+
+msgid "octal value is greater than \\377"
+msgstr "восьмеричное значение превышает \\377"
+
+msgid "out of memory"
+msgstr "закончилась память"
+
+msgid "overran compiling workspace"
+msgstr "переполнение рабочего пространства компиляции"
+
+msgid ""
+"override for key '%s' in schema '%s' in override file '%s' is not in the "
+"list of valid choices"
+msgstr ""
+"замена ключа  «%s» в схеме «%s» согласно файлу замен «%s» лежит вне списка "
+"допустимых значений"
+
+msgid ""
+"override for key '%s' in schema '%s' in override file '%s' is outside the "
+"range given in the schema"
+msgstr ""
+"замена ключа  «%s» в схеме «%s» согласно файлу замен «%s» лежит вне "
+"диапазона данной схемы"
+
+msgid "previously-checked referenced subpattern not found"
+msgstr "не найден ранее проверенный подшаблон со ссылкой "
+
+msgid "range out of order in character class"
+msgstr "диапазон в классе символов в неправильном порядке"
+
+msgid "recursion limit reached"
+msgstr "достигнут предел рекурсии"
+
+msgid "recursion loop"
+msgstr "зацикливание рекурсии"
+
+msgid "recursive call could loop indefinitely"
+msgstr "рекурсивный вызов мог повторяться бесконечно"
+
+msgid "reference to non-existent subpattern"
+msgstr "ссылка на несуществующий подшаблон"
+
+msgid "regular expression is too large"
+msgstr "слишком длинное регулярное выражение"
+
+msgid "removed existing output file.\n"
+msgstr "удалён существующий выходной файл.\n"
+
+msgid "short utf8"
+msgstr "короткий utf8"
+
+msgid "stray final '\\'"
+msgstr "лишний «\\» в конце"
+
+msgid "subpattern name is too long (maximum 32 characters)"
+msgstr "имя подшаблона слишком длинное (не должно превышать 32 символа)"
+
+msgid "symlink must be non-NULL"
+msgstr "символьная ссылка не должна быть NULL"
+
+msgid "text may not appear inside <%s>"
+msgstr "текста не может быть внутри <%s>"
+
+msgid "the path of a list must end with ':/'"
+msgstr "путь в списке должен заканчиваться «:/»"
+
+msgid "the pattern contains items not supported for partial matching"
+msgstr ""
+"шаблон содержит элементы, которые не поддерживаются при поиске частичного "
+"совпадения"
+
+msgid "too many forward references"
+msgstr "слишком много прямых ссылок"
+
+msgid "too many named subpatterns (maximum 10,000)"
+msgstr "слишком много именованных подшаблонов (не должно быть больше 10 000)"
+
+msgid "two named subpatterns have the same name"
+msgstr "два именованных подшаблона имеют одинаковое имя"
+
+msgid "type is INVALID"
+msgstr "НЕПРАВИЛЬНЫЙ тип"
+
+msgid "unable to connect to D-Bus: %s\n"
+msgstr "невозможно подключиться к D-Bus: %s\n"
+
+msgid "unable to find desktop file for application %s\n"
+msgstr "невозможно найти desktop-файл для приложения %s\n"
+
+msgid "unexpected repeat"
+msgstr "неожиданное повторение"
+
+msgid "unfinished symbolic reference"
+msgstr "незаконченная символьная ссылка"
+
+msgid "unknown POSIX class name"
+msgstr "неизвестное имя класса POSIX"
+
+msgid "unknown error"
+msgstr "неизвестная ошибка"
+
+msgid "unknown escape sequence"
+msgstr "неизвестная экранирующая последовательность"
+
+msgid "unknown property name after \\P or \\p"
+msgstr "неизвестное имя свойства после \\P или \\p"
+
+msgid ""
+"unrecognised command: %s\n"
+"\n"
+msgstr ""
+"нераспознанная команда %s\n"
+"\n"
+
+msgid "unrecognized character after (? or (?-"
+msgstr "неопознанный символ после (? или (?-"
+
+msgid "unrecognized character after (?<"
+msgstr "неопознанный символ после (?<"
+
+msgid "unrecognized character after (?P"
+msgstr "неопознанный символ после (?P"
+
+msgid "unrecognized character following \\"
+msgstr "неопознанный символ следует за \\"
+
+msgid "volume doesn't implement eject"
+msgstr "том не поддерживает извлечение"
+
+msgid "volume doesn't implement eject or eject_with_operation"
+msgstr "том не поддерживает извлечение или извлечение_с_операцией"
+
+msgid "volume doesn't implement mount"
+msgstr "том не поддерживает присоединение"
+
+msgid "where to store the gschemas.compiled file"
+msgstr "место хранения файла gschemas.compiled"
+
+msgid "zero-length symbolic reference"
+msgstr "символьная ссылка нулевой длины"

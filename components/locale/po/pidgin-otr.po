@@ -1,0 +1,378 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OTR for Pidgin\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2008-04-11 20:07+0300\n"
+"Last-Translator: Sergei Smirnov <moscow@hro.org>\n"
+"Language-Team: Human Rights Network <moscow@hro.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+
+msgid "  Warning: using old protocol version 1."
+msgstr "  Внимание: используется устаревший протокол версии 1."
+
+msgid " verified that this is in fact the correct"
+msgstr " правильность отображаемых данных"
+
+msgid "%s Done."
+msgstr "%s готово."
+
+msgid ""
+"%s has ended his/her private conversation with you; you should do the same."
+msgstr "%s завершил(а) защищенный разговор; сделайте то же и вы."
+
+msgid ""
+"%s has not been authenticated yet.  You should <a href=\"%s%s"
+"\">authenticate</a> this buddy."
+msgstr ""
+"%s еще не аутентифицирован. Вам следует <a href=\"%s%s\">подтвердить "
+"личность</a> этого контакта."
+
+msgid ""
+"%s is contacting you from an unrecognized computer.  You should <a href=\"%s"
+"%s\">authenticate</a> this buddy."
+msgstr ""
+"%s общается с вами с неопознанного компьютера. Следует <a href=\"%s%s"
+"\">аутентифицировать</a> этот контакт."
+
+msgid "<a href=\"%s%s\">Unverified</a> conversation with %%s started.%%s"
+msgstr "Начат <a href=\"%s%s\">непроверенный</a> разговор с %%s.%%s"
+
+msgid "?lang=en"
+msgstr "?lang=ru"
+
+msgid ""
+"A <b>fingerprint</b> is a unique identifier that you should use to "
+"authenticate your buddy."
+msgstr ""
+"<b>Отпечаток</b> - уникальный код, который нужен, чтобы аутентифицировать "
+"собеседника."
+
+msgid "Account"
+msgstr "Аккаунт"
+
+msgid "Account %s (%s) could not be found"
+msgstr "Аккаунт %s (%s) не обнаружен"
+
+msgid "Account not found"
+msgstr "Аккаунт не обнаружен"
+
+msgid "Advanced..."
+msgstr "Дополнительно..."
+
+msgid "An error occurred during authentication."
+msgstr "Ошибка идентификации."
+
+msgid "Attempting to refresh the private conversation with %s..."
+msgstr "Попытка обновить защищенный разговор с %s..."
+
+msgid "Attempting to start a private conversation with %s..."
+msgstr "Попытка начать защищенный разговор с %s..."
+
+msgid "Authenticate %s"
+msgstr "Аутентифицировать %s"
+
+msgid "Authenticate buddy"
+msgstr "Идентифицировать контакт"
+
+msgid "Authenticating"
+msgstr "Аутентификация"
+
+msgid "Authenticating Buddy"
+msgstr "Аутентификация собеседника"
+
+msgid ""
+"Authenticating a buddy helps ensure that the person you are talking to is "
+"who they claim to be."
+msgstr ""
+"Аутентификация собеседника помогает быть уверенным в том, что ваш собеседник "
+"именно тот, за кого выдает себя."
+
+msgid "Authentication failed."
+msgstr "Ошибка идентификации."
+
+msgid "Authentication successful."
+msgstr "Идентификация прошла успешно."
+
+msgid "Automatically initiate private messaging"
+msgstr "Автоматически начинать защищенный разговор"
+
+msgid "Click here for more information about authentication in OTR."
+msgstr "Дополнительно об аутентификации OTR."
+
+msgid "Click here for more information about fingerprints."
+msgstr "Дополнительная информация об отпечатках."
+
+msgid "Config"
+msgstr "Конфигурация"
+
+msgid "Could not write private key file\n"
+msgstr "Ошибка записи закрытого ключа в файл\n"
+
+msgid "Default OTR Settings"
+msgstr "Установки OTR по умолчанию"
+
+msgid "Don't log OTR conversations"
+msgstr "Не записывать разговоры через OTR в журнал"
+
+msgid "Enable private messaging"
+msgstr "Использовать защищенные разговоры"
+
+msgid "End private connection"
+msgstr "Завершить защищенный разговор"
+
+msgid "Enter a secret known only to %s and yourself.\n"
+msgstr "Введите секретный код, который знаете только вы и %s.\n"
+
+msgid "Enter secret here"
+msgstr "Введите секретное слово (код)"
+
+msgid "Fingerprint"
+msgstr "Отпечаток"
+
+msgid ""
+"Fingerprint for you, %s (%s):\n"
+"%s\n"
+"\n"
+"Purported fingerprint for %s:\n"
+"%s\n"
+msgstr ""
+"Отпечаток для вас, %s (%s):\n"
+"%s\n"
+"\n"
+"Предполагаемый отпечаток для %s:\n"
+"%s\n"
+
+msgid "Fingerprint: %.80s"
+msgstr "Отпечаток: %.80s"
+
+msgid "Finished"
+msgstr "Завершено"
+
+msgid "Forget fingerprint"
+msgstr "Забыть отпечаток"
+
+msgid "Generate"
+msgstr "Создать"
+
+msgid "Generating private key"
+msgstr "Создание закрытого ключа"
+
+msgid "Generating private key for %s (%s)..."
+msgstr "Создание закрытого ключа для %s (%s)..."
+
+msgid ""
+"However, the only way an imposter could duplicate one of your buddy's "
+"fingerprints is by stealing information from her/his computer."
+msgstr ""
+"Есть только один путь, которым злоумышленник может получить дубликат "
+"отпечатков  вашего собеседника: украсть информацию с его (её) компьютера."
+
+msgid "I have"
+msgstr "Я проверил(а)"
+
+msgid "I have not"
+msgstr "Я не проверил(а)"
+
+msgid ""
+"If everything matches up, you should indicate in the above dialog that you "
+"<b>have</b> verified the fingerprint."
+msgstr ""
+"Если все совпадает, следует отметить в диалоге сверху, что вы <b>проверили</"
+"b> отпечаток."
+
+msgid ""
+"If your buddy has more than one IM account, or uses more than one computer, "
+"he may have multiple fingerprints."
+msgstr ""
+"Если ваш собеседник использует более одного аккаунта или более одного "
+"компьютера, у него (неё) может быть несколько отпечатков."
+
+msgid ""
+"If your buddy uses multiple IM accounts or multiple computers, you may have "
+"to authenticate multiple times.  However, as long as they use an account and "
+"computer that you've seen before, you don't need to authenticate each "
+"individual conversation."
+msgstr ""
+"Если ваш собеседник использует несколько аккаунтов или один аккаунт на "
+"нескольких компьютерах, следует идентифицировать его несколько раз. Если он "
+"использует один аккаунт на одном компьютере, вам не нужно идентифицировать "
+"его для каждого разговора."
+
+msgid "Key for account:"
+msgstr "Ключ для аккаунта:"
+
+msgid "Known fingerprints"
+msgstr "Известные отпечатки"
+
+msgid "My private keys"
+msgstr "Мои закрытые ключи"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No account available"
+msgstr "Аккаунт недоступен"
+
+msgid "No key present"
+msgstr "Ключ отсутствует"
+
+msgid "Not connected"
+msgstr "Нет соединения"
+
+msgid "Not private"
+msgstr "Не защищено"
+
+msgid "Not private conversation with %s started.%s"
+msgstr "Начат незащищенный разговор с %s.%s"
+
+msgid "OTR Messaging"
+msgstr "Сообщения OTR"
+
+msgid "OTR Settings"
+msgstr "Настройки OTR"
+
+msgid "OTR Settings for %s"
+msgstr "Настройки OTR для %s"
+
+msgid "OTR:"
+msgstr "OTR:"
+
+msgid "Off-the-Record Messaging"
+msgstr "Off-the-Record (OTR)"
+
+msgid "Out of memory building filenames!\n"
+msgstr "Построение списка файлов заняло слишком много памяти!\n"
+
+msgid "Please wait"
+msgstr "Подождите, пожалуйста"
+
+msgid ""
+"Preserves the privacy of IM communications by providing encryption, "
+"authentication, deniability, and perfect forward secrecy."
+msgstr ""
+"Обеспечивает конфиденциальность сообщений путем шифрования, аутентификации "
+"собеседника, правдоподобного опровержения и системы perfect forward secrecy "
+"(PFS)."
+
+msgid "Private"
+msgstr "Защищено"
+
+msgid "Private conversation with %s lost."
+msgstr "Защищенный разговор с %s окончен."
+
+msgid "Private conversation with %s started.%s"
+msgstr "Начать защищенный разговор с %s.%s"
+
+msgid "Provides private and secure conversations"
+msgstr "Защищенные приватные коммуникации"
+
+msgid "Refresh _private conversation"
+msgstr "Обновить _защищенный разговор"
+
+msgid "Refresh the private conversation"
+msgstr "Обновить защищенный разговор"
+
+msgid "Require private messaging"
+msgstr "Требовать защиту разговора"
+
+msgid "Screenname"
+msgstr "Экранное имя"
+
+msgid "Start _private conversation"
+msgstr "Начать _защищенный разговор"
+
+msgid "Start a private conversation"
+msgstr "Начать защищенный разговор"
+
+msgid "Start private connection"
+msgstr "Начать защищенный разговор"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid ""
+"Successfully refreshed the <a href=\"%s%s\">unverified</a> conversation with "
+"%%s.%%s"
+msgstr "<a href=\"%s%s\">Непроверенный</a> разговор с %%s успешно обновлен.%%s"
+
+msgid "Successfully refreshed the not private conversation with %s.%s"
+msgstr "Незащищенный разговор с %s успешно обновлен.%s"
+
+msgid "Successfully refreshed the private conversation with %s.%s"
+msgstr "Защищенный разговор с %s успешно обновлен.%s"
+
+msgid "This buddy is already authenticated."
+msgstr "Этот контакт уже идентифицирован."
+
+msgid ""
+"To authenticate, pick a secret known only to you and your buddy.  Enter this "
+"secret, then wait for your buddy to enter it too.  If the secrets don't "
+"match, then you may be talking to an imposter."
+msgstr ""
+"Чтобы идентифицировать собеседника, используйте секретный ключ, известный "
+"только вам и вашему собеседнику. Введите ключ и дождитесь, когда его введет "
+"собеседник. Если ключи не совпадают, возможно, на линии обманщик."
+
+msgid ""
+"To verify the fingerprint, contact your buddy via some <i>other</i> "
+"authenticated channel, such as the telephone or GPG-signed email.  Each of "
+"you should tell your fingerprint to the other."
+msgstr ""
+"Для проверки отпечатка свяжитесь с его владельцем так, чтобы его личность не "
+"оставляла сомнений (например, по телефону или с помощью письма, "
+"зашифрованного GPG). Каждому из вас следует сообщить другому свой отпечаток."
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown account"
+msgstr "Неизвестный аккаунт"
+
+msgid "Unknown account %s (%s)."
+msgstr "Неизвестный аккаунт %s (%s)."
+
+msgid "Unused"
+msgstr "Не используется"
+
+msgid "Unverified"
+msgstr "Не идентиф."
+
+msgid "Use default OTR settings for this buddy"
+msgstr "Использовать настройки по умолчанию"
+
+msgid "Verified"
+msgstr "Проверено"
+
+msgid "Verify fingerprint"
+msgstr "Проверить отпечаток"
+
+msgid "Verify fingerprint for %s"
+msgstr "Проверить отпечаток для %s"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "You are not currently connected to account %s (%s)."
+msgstr "Нет связи с аккаунтом %s (%s)."
+
+msgid "[none]"
+msgstr "[нет]"
+
+msgid "_Authenticate buddy"
+msgstr "_Аутентифицированный контакт"
+
+msgid "_End private conversation"
+msgstr "_Завершить защищенный разговор"
+
+msgid "_More..."
+msgstr "_Больше..."
+
+msgid "_What's this?"
+msgstr "_Что это?"
+
+msgid "fingerprint for %s."
+msgstr "отпечаток для %s."

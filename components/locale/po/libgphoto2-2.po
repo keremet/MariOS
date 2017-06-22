@@ -1,0 +1,2529 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgphoto2 2.4.13\n"
+"Report-Msgid-Bugs-To: gphoto-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2012-04-15 17:43+0200\n"
+"PO-Revision-Date: 2012-03-30 14:41+0200\n"
+"Last-Translator: Pavel Maryanov <acid@jack.kiev.ua>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid ""
+"\n"
+"Camera identification:\n"
+"  Model: %s\n"
+"  Owner: %s\n"
+"\n"
+"Power status: %s\n"
+"\n"
+"Flash disk information:\n"
+"%s\n"
+"\n"
+"Time: %s\n"
+msgstr ""
+"\n"
+"Определение фотоаппарата:\n"
+"  Модель: %s\n"
+"  Владелец: %s\n"
+"\n"
+"Питание: %s\n"
+"\n"
+"Карта памяти:\n"
+"%s\n"
+"\n"
+"Время: %s\n"
+
+msgid ""
+"  Drive %s\n"
+"  %11s bytes total\n"
+"  %11s bytes available"
+msgstr ""
+"  Диск %s\n"
+"  %11s байт всего\n"
+"  %11s байт свободно"
+
+msgid " (battery is %d%% full)"
+msgstr " (аккумулятор заряжен на %d%%)"
+
+msgid ""
+" Total memory is %8d bytes.\n"
+" Free memory is  %8d bytes.\n"
+" Filecount: %d"
+msgstr ""
+" Всего памяти %8d байт.\n"
+" Свободно памяти %8d байт.\n"
+" Число файлов: %d"
+
+msgid "%s (host time %s%i seconds)"
+msgstr "%s (время компьютера %s%i секунд)"
+
+msgid "%s is a file type for which no thumbnail is provided"
+msgstr "%s относится к одному из типов файлов, не имеющих миниатюр"
+
+msgid ""
+"(Traveler) SX330z Library (And other Aldi-cams).\n"
+"Even other Vendors like Jenoptik, Skanhex, Maginon should work.\n"
+"Please send bugreports and comments.\n"
+"Dominik Kuhlen <kinimod@users.sourceforge.net>\n"
+msgstr ""
+"Библиотека для (Traveler) SX330z (И других фотоаппаратов Aldi).\n"
+"Также должны работать аппараты таких производителей, как Jenoptik, Skanhex, "
+"Maginon.\n"
+"Сообщения об ошибках и отзывы шлите по адресу:\n"
+"Dominik Kuhlen <kinimod@users.sourceforge.net>\n"
+
+msgid ""
+"* Image glitches or problems communicating are\n"
+"  often caused by a low battery.\n"
+"* Images captured remotely on this camera are stored\n"
+"  in temporary RAM and not in the flash memory card.\n"
+"* Exposure control when capturing images can be\n"
+"  configured manually or set to automatic mode.\n"
+"* Image quality is currently lower than it could be.\n"
+msgstr ""
+"* Часто артефакты на изображениях или сбои передачи данных\n"
+"  возникают из-за недостаточного заряда аккумулятора.\n"
+"* Сделанные эти аппаратом по удалённой команде снимки \n"
+"  хранятся во временном ОЗУ, и не записываются на карту памяти.\n"
+"* Выдержка при съёмке фотографий может быть задана вручную\n"
+"  или определяться автоматически.\n"
+"* Пока что качество изображений уступает возможному.\n"
+
+msgid "*UNKNOWN*"
+msgstr "*НЕИЗВЕСТНО*"
+
+msgid "-0.5"
+msgstr "-0,5"
+
+msgid "-1.0"
+msgstr "-1,0"
+
+msgid "-1.5"
+msgstr "-1,5"
+
+msgid "-2.0"
+msgstr "-2,0"
+
+msgid "0.0"
+msgstr "0,0"
+
+msgid "0.5"
+msgstr "0,5"
+
+msgid "1.0"
+msgstr "1,0"
+
+msgid "1.5"
+msgstr "1,5"
+
+msgid "1.6x"
+msgstr "1,6x"
+
+msgid "1152 x 864"
+msgstr "1152 x 864"
+
+msgid "1280 x 960"
+msgstr "1280 x 960"
+
+msgid "1x"
+msgstr "1x"
+
+msgid "2.0"
+msgstr "2,0"
+
+msgid "2.5x"
+msgstr "2,5x"
+
+msgid "29 mm"
+msgstr "29 мм"
+
+msgid "2x"
+msgstr "2x"
+
+msgid "34 mm"
+msgstr "34 мм"
+
+msgid "3x"
+msgstr "3x"
+
+msgid "41 mm"
+msgstr "41 мм"
+
+msgid "4x"
+msgstr "4x"
+
+msgid "51 mm"
+msgstr "51 мм"
+
+msgid "58 mm"
+msgstr "58 мм"
+
+msgid "5x"
+msgstr "5x"
+
+msgid "640 x 480"
+msgstr "640 x 480"
+
+msgid "6x"
+msgstr "6x"
+
+msgid "7x"
+msgstr "7x"
+
+msgid "8x"
+msgstr "8x"
+
+msgid "9x"
+msgstr "9x"
+
+msgid "AC"
+msgstr "Блок питания"
+
+msgid "AC adapter"
+msgstr "блок питания"
+
+msgid "AE-lock"
+msgstr "Фиксация выдержки"
+
+msgid ""
+"Adc65\n"
+"Benjamin Moos <benjamin@psnw.com>"
+msgstr ""
+"Adc65\n"
+"Benjamin Moos <benjamin@psnw.com>"
+
+msgid "Album name"
+msgstr "Название альбома"
+
+msgid "Anti-redeye"
+msgstr "Против красных глаз"
+
+msgid "Anywhere"
+msgstr "Где угодно"
+
+msgid ""
+"Aox generic driver\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+msgstr ""
+"Базовый драйвер Aox\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+
+msgid "Aperture"
+msgstr "Диафрагма"
+
+msgid "Artist"
+msgstr "Автор"
+
+msgid "Assist Light"
+msgstr "Вспомогательное освещение"
+
+msgid "Auto"
+msgstr "Авто"
+
+msgid "Auto Off (field) (in seconds)"
+msgstr "Автовыключение (автономн.) (в секундах)"
+
+msgid "Auto Off (host) (in seconds)"
+msgstr "Автоматическое отключение (компьютер) (в секундах)"
+
+msgid "Auto Off Time"
+msgstr "Время автовыключения"
+
+msgid "Auto Power Off (minutes)"
+msgstr "Автоматическое отключение (минуты)"
+
+msgid "Auto exposure lock"
+msgstr "Запоминание настроек выдержки"
+
+msgid "Auto, red-eye reduction"
+msgstr "Авто, уменьшение красноты глаз"
+
+msgid "Autofocus error."
+msgstr "Ошибка автофокусировки"
+
+msgid "Automatic\n"
+msgstr "Автомат\n"
+
+msgid "Automatic exposure adjustment on preview"
+msgstr "Автоматическая настройка выдержки во время предварительного просмотра"
+
+msgid "Automatic flash on capture"
+msgstr "Автовспышка при съёмке"
+
+msgid "Available memory: "
+msgstr "Доступная память:"
+
+msgid "B/W"
+msgstr "Ч/Б"
+
+msgid ""
+"Barbie/HotWheels/WWF\n"
+"Scott Fritzinger <scottf@unr.edu>\n"
+"Andreas Meyer <ahm@spies.com>\n"
+"Pete Zaitcev <zaitcev@metabyte.com>\n"
+"\n"
+"Reverse engineering of image data by:\n"
+"Jeff Laing <jeffl@SPATIALinfo.com>\n"
+"\n"
+"Implemented using documents found on\n"
+"the web. Permission given by Vision."
+msgstr ""
+"Barbie/HotWheels/WWF\n"
+"Scott Fritzinger <scottf@unr.edu>\n"
+"Andreas Meyer <ahm@spies.com>\n"
+"Pete Zaitcev <zaitcev@metabyte.com>\n"
+"\n"
+"Формат изображений исследовал:\n"
+"Jeff Laing <jeffl@SPATIALinfo.com>\n"
+"\n"
+"Реализовано благодаря документации доступной в\n"
+"Интернете с согласия Vision."
+
+msgid "Batteries are low."
+msgstr "Заряд аккумулятора недостаточен."
+
+msgid "Batteries are ok."
+msgstr "Заряд аккумулятора в норме."
+
+msgid "Battery"
+msgstr "Аккумулятор"
+
+msgid "Battery Level"
+msgstr "Зарядка аккумулятора"
+
+msgid ""
+"Battery Level:\t\t%s\n"
+"Number of Images:\t%d\n"
+"Minimum Capacity Left:\t%d\n"
+"Busy:\t\t\t%s\n"
+"Flash Charging:\t\t%s\n"
+"Lens Status:\t\t"
+msgstr ""
+"Зарядка аккумулятора:\t\t%s\n"
+"Число изображений:\t%d\n"
+"Минимальный оставшийся объём:\t%d\n"
+"Занято:\t\t\t%s\n"
+"Зарядка вспышки:\t\t%s\n"
+"Состояние объектива:\t\t"
+
+msgid "Battery exhausted, camera off."
+msgstr "Акуумулятор разряжен, фотоаппарат выключен."
+
+msgid "Battery status: %s, AC Adapter: %s\n"
+msgstr "Состояние аккумулятора: %s, Блок питания: %s\n"
+
+msgid "Beep"
+msgstr "Сигнал"
+
+msgid "Best"
+msgstr "Лучшее"
+
+msgid "Bit rate %ld is not supported."
+msgstr "Битовая скорость %ld не поддерживается."
+
+msgid "Black & White"
+msgstr "Чёрно-белый"
+
+msgid "Black Board"
+msgstr "Чёрная доска"
+
+msgid "Black and White"
+msgstr "Чёрно-белый"
+
+msgid "Black board"
+msgstr "Чёрная доска"
+
+msgid "Black/White"
+msgstr "Чёрный/белый"
+
+msgid "Blink"
+msgstr "Мигать"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Brightness+"
+msgstr "Яркость+"
+
+msgid "Brightness-"
+msgstr "Яркость-"
+
+msgid "Bulb Exposure Time"
+msgstr "Продолжительность сверхдлинной выдержки"
+
+msgid "Busy"
+msgstr "Занято"
+
+msgid "Camera"
+msgstr "Фотоаппарат"
+
+msgid "Camera Configuration"
+msgstr "Конфигурация фотоаппарата"
+
+msgid "Camera ID: %s\n"
+msgstr "ID фотоаппарата: %s\n"
+
+msgid ""
+"Camera Library for the Kodak DC215 Zoom camera.\n"
+"Michael Koltan <koltan@gmx.de>\n"
+msgstr ""
+"Библиотека для фотоаппарата Kodak DC215 Zoom.\n"
+"Michael Koltan <koltan@gmx.de>\n"
+
+msgid "Camera Model"
+msgstr "Модель фотоаппарата"
+
+msgid "Camera Owner"
+msgstr "Владелец фотоаппарата"
+
+msgid "Camera and Driver Configuration"
+msgstr "Конфигурация фотоаппарата и драйвера "
+
+msgid "Camera has memory.\n"
+msgstr "Фотоаппарат имеет память.\n"
+
+msgid "Camera not ready, get_battery failed: %s"
+msgstr "Фотоаппарат не готов, %s"
+
+msgid "Camera not ready, multiple 'Identify camera' requests failed: %s"
+msgstr ""
+"Фотоаппарат не готов, несколько запросов идентификации завершились ошибкой: "
+"%s"
+
+msgid "Camera power save (seconds)"
+msgstr "Время до перехода фотоаппарата в спящий режим (секунд)"
+
+msgid "Camera rejected the command."
+msgstr "Фотоаппарат отклонил команду."
+
+msgid "Camera reset itself."
+msgstr "Самопроизвольный сброс состояния фотоаппарата."
+
+msgid "Camera unavailable"
+msgstr "Фотоаппарат недоступен"
+
+msgid "Camera was already active"
+msgstr "Фотоаппарат уже был активен"
+
+msgid "Camera was woken up"
+msgstr "Фотоаппарат выведен из спящего режима"
+
+msgid "Capture"
+msgstr "Съёмка"
+
+msgid "Capture type is not supported"
+msgstr "Неподдерживаемый метод съёмки"
+
+msgid "Card Status:\t\t"
+msgstr "Состояние карты:\t\t"
+
+msgid "Card is not formatted"
+msgstr "Карта памяти не отформатирована"
+
+msgid "Card is not open"
+msgstr "Карта памяти не открыта"
+
+msgid "Card is open"
+msgstr "Карта памяти вынута"
+
+msgid "Card is write protected."
+msgstr "Карта памяти защищена от записи"
+
+msgid "Card not supported."
+msgstr "Неподдерживаемая карта памяти"
+
+msgid "Center-Weighted"
+msgstr "Центрально-взвешенный"
+
+msgid "Changing speed... wait..."
+msgstr "Изменение скорости... подождите..."
+
+msgid "Character"
+msgstr "Текст"
+
+msgid "Character & Sound"
+msgstr "Character & Sound"
+
+msgid "Charging"
+msgstr "Зарядка"
+
+msgid "Checksum error"
+msgstr "Ошибка контрольной суммы"
+
+msgid "Cloudy"
+msgstr "Облачность"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color Mode"
+msgstr "Режим цвета"
+
+msgid "Color Settings"
+msgstr "Настройки цвета"
+
+msgid "Color Temperature"
+msgstr "Цветовая температура"
+
+msgid "Communication error 1"
+msgstr "Ошибка связи 1"
+
+msgid "Communication error 2"
+msgstr "Ошибка связи 2"
+
+msgid "Communication error 3"
+msgstr "Ошибка связи 3"
+
+msgid "CompactFlash Card"
+msgstr "Карта CompactFlash"
+
+msgid "Compression"
+msgstr "Сжатие"
+
+msgid "Compression Setting"
+msgstr "Параметры сжатия"
+
+msgid "Configuration"
+msgstr "Конфигурация"
+
+msgid "Connected to camera"
+msgstr "Фотоаппарат подключен"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "Contrast+"
+msgstr "Контраст+"
+
+msgid "Contrast-"
+msgstr "Контраст-"
+
+msgid "Copyright"
+msgstr "Copyright"
+
+msgid "Copyright (max. 20 characters)"
+msgstr "Copyright (макс.. 20 знаков)"
+
+msgid "Copyright Info"
+msgstr "Сведения о Copyright"
+
+msgid "Corrupted data"
+msgstr "Данные повреждены"
+
+msgid "Could not apply USB settings"
+msgstr "Невозможно применить конфигурацию USB"
+
+msgid "Could not change time of file '%s' in '%s' (%m)."
+msgstr "Невозможно изменить время файла '%s' в '%s' (%m)"
+
+msgid "Could not contact camera."
+msgstr "Невозможно установить соединение с фотоаппаратом."
+
+msgid "Could not create \\DCIM directory."
+msgstr "Невозможно создать каталог \\DCIM."
+
+msgid "Could not create destination directory."
+msgstr "Невозможно создать целевой каталог"
+
+msgid "Could not create directory %s."
+msgstr "Невозможно создать каталог %s."
+
+msgid "Could not create directory."
+msgstr "Невозможно создать каталог."
+
+msgid "Could not delete file '%s' in folder '%s' (error code %i: %m)."
+msgstr "Невозможно удалить файл '%s' в папке '%s' (код ошибки %i: %m)."
+
+msgid "Could not delete file."
+msgstr "Невозможно удалить файл."
+
+msgid "Could not detect any camera"
+msgstr "Фотоаппарат не обнаружен"
+
+msgid "Could not establish initial contact with camera"
+msgstr "Невозможно установить соединение с фотоаппаратом"
+
+msgid "Could not extract JPEG thumbnail from data: Data is not JFIF"
+msgstr ""
+"Невозможно получить миниатюру JPEG: Данные не соответствуют формату JFIF"
+
+msgid "Could not extract JPEG thumbnail from data: No beginning/end"
+msgstr "Невозможно получить миниатюру JPEG: Отсутствует начало/конец"
+
+msgid "Could not find any driver for '%s'"
+msgstr "Не найден драйвер для '%s'"
+
+msgid "Could not find file '%s'."
+msgstr "Невозможно найти файл '%s'."
+
+msgid "Could not find localization data at '%s'"
+msgstr "Не найдены данные локализации в '%s'"
+
+msgid "Could not get disk info: %s"
+msgstr "Невозможно получить информацию о диске: %s"
+
+msgid "Could not get disk name: %s"
+msgstr "Невозможно получить имя диска: %s"
+
+msgid "Could not get flash drive letter"
+msgstr "Невозможно получить букву устройства карты памяти"
+
+msgid "Could not get information about '%s' (%m)."
+msgstr "Невозможно получить сведения о '%s' (%m)."
+
+msgid "Could not get information about '%s' in '%s' (%m)."
+msgstr "Невозможно получить сведения о '%s' в '%s' (%m)."
+
+msgid "Could not get register %i. Please contact %s."
+msgstr "Невозможно получить значение регистра %i. Пожалуйста, свяжитесь с %s."
+
+msgid "Could not load required camera driver '%s' (%s)."
+msgstr "Невозможно загрузить драйвер фотоаппарата '%s' (%s)."
+
+msgid "Could not open '%s'."
+msgstr "Невозможно открыть '%s'."
+
+msgid "Could not remove directory %s."
+msgstr "Невозможно удалить каталог %s."
+
+msgid "Could not remove directory."
+msgstr "Невозможно удалить каталог."
+
+msgid "Could not reset camera.\n"
+msgstr "Невозможно сбросить состояние фотоаппарата.\n"
+
+msgid "Couldn't read from file \"%s\""
+msgstr "Невозможно прочесть файл \"%s\""
+
+msgid ""
+"Creative PC-CAM 300\n"
+" Authors: Till Adam\n"
+"<till@adam-lilienthal.de>\n"
+"and: Miah Gregory\n"
+" <mace@darksilence.net>"
+msgstr ""
+"Creative PC-CAM 300\n"
+" Авторы: Till Adam\n"
+"<till@adam-lilienthal.de>\n"
+"и: Miah Gregory\n"
+" <mace@darksilence.net>"
+
+msgid "Custom"
+msgstr "Пользовательский"
+
+msgid "DD/MM/YYYY"
+msgstr "ДД/ММ/ГГГГ"
+
+msgid "Data has been corrupted."
+msgstr "Данные повреждены."
+
+msgid "Date & Time"
+msgstr "Дата и время"
+
+msgid "Date Format"
+msgstr "Формат даты"
+
+msgid "Date and Time"
+msgstr "Дата и время"
+
+msgid "Date and time (GMT)"
+msgstr "Дата и время (GMT)"
+
+msgid "Date display"
+msgstr "Отображение даты"
+
+msgid ""
+"Date: %i/%02i/%02i %02i:%02i:%02i\n"
+"Pictures taken: %i\n"
+"Free pictures: %i\n"
+"Software version: %s\n"
+"Baudrate: %s\n"
+"Memory: %i megabytes\n"
+"Camera mode: %s\n"
+"Image quality: %s\n"
+"Flash setting: %s\n"
+"Information: %s\n"
+"Timer: %s\n"
+"LCD: %s\n"
+"Auto power off: %i minutes\n"
+"Power source: %s"
+msgstr ""
+"Дата: %i/%02i/%02i %02i:%02i:%02i\n"
+"Сделано снимков: %i\n"
+"Осталось снимков: %i\n"
+"Версия программы: %s\n"
+"Скорость: %s\n"
+"Память: %i мегабайт\n"
+"Режим фотоаппарата: %s\n"
+"Уровень качества: %s\n"
+"Параметры вспышки: %s\n"
+"Информация: %s\n"
+"Таймер: %s\n"
+"ЖК: %s\n"
+"Автоматическое выключение: %i минут\n"
+"Источник питания: %s"
+
+msgid "Day/Month/Year"
+msgstr "День/Месяц/Год"
+
+msgid "Daylight"
+msgstr "Дневной свет"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Deep"
+msgstr "Глубокий"
+
+msgid ""
+"Default sierra driver:\n"
+"\n"
+"    This is the default sierra driver, it\n"
+"    should be capable of supporting the download\n"
+"    and browsing of pictures on your camera.\n"
+"\n"
+"    Camera configuration (or preferences)\n"
+"    settings are based on the Olympus 3040,\n"
+"    and are likely incomplete. If you verify\n"
+"    that the configuration settings are\n"
+"    complete for your camera, or can contribute\n"
+"    code to support complete configuration,\n"
+"    please contact the developer mailing list.\n"
+msgstr ""
+"Стандартный драйвер sierra:\n"
+"\n"
+"    Этот драйвер sierra используется по умолчанию.\n"
+"    Он должен поддерживать копирование изображений\n"
+"    и просмотр файлов в памяти фотоаппарата.\n"
+"\n"
+"    Настройки фотоаппарата (или предпочтения)\n"
+"    основаны на Olympus 3040 и скорее всего\n"
+"    неполны. Если вы можете подтвердить, что\n"
+"    список настроек вашего аппарата полон или\n"
+"    сможете добавить свой код для поддержки\n"
+"    всех имеющихся параметров, напишите, пожа-\n"
+"    луйста в список рассылки для разработчиков.\n"
+
+msgid "Deleting image %s."
+msgstr "Удаляется изображение %s."
+
+msgid "Detected a \"%s\" aka \"%s\""
+msgstr "Обнаружен \"%s\" или \"%s\""
+
+msgid "Detected a '%s'."
+msgstr "Обнаружен '%s'."
+
+msgid ""
+"Digita\n"
+"Johannes Erdfelt <johannes@erdfelt.com>"
+msgstr ""
+"Digita\n"
+"Johannes Erdfelt <johannes@erdfelt.com>"
+
+msgid "Digital Zoom"
+msgstr "Цифровое увеличение"
+
+msgid "Digital zoom"
+msgstr "Цифровое увеличение"
+
+msgid "Directory exists"
+msgstr "Каталог существует"
+
+msgid "Directory not found"
+msgstr "Каталог не найден"
+
+msgid "Disconnecting camera."
+msgstr "Отключение фотоаппарата."
+
+msgid "Do not display TV menu"
+msgstr "Не показывать ТВ меню"
+
+msgid ""
+"Download program for Digital Dream Enigma 1.3. by <olivier@aixmarseille."
+"com>, and adapted from spca50x driver.Thanks you, spca50x team, it was easy "
+"to port your driver on this cam! "
+msgstr ""
+"Программа копирования снимков для Digital Dream Enigma 1.3. от "
+"<olivier@aixmarseille.com>, сделана на основе драйвера spca50x.Спасибо "
+"авторам spca50x! Адаптировать ваш драйвер для этого аппарата было нетрудно! "
+
+msgid ""
+"Download program for GrandTek 98x based cameras. Originally written by Chris "
+"Byrne <adapt@ihug.co.nz>, and adapted for gphoto2 by Lutz Mueller "
+"<lutz@users.sf.net>.Protocol enhancements and postprocessing  for Jenoptik "
+"JD350e by Michael Trawny <trawny99@users.sourceforge.net>.Bugfixes by Marcus "
+"Meissner <marcus@jet.franken.de>."
+msgstr ""
+"Программа копирования изображений для фотоаппаратов основанных на  GrandTek "
+"98x.Первоначальный автор - Chris Byrne <adapt@ihug.co.nz>, адаптация для "
+"gphoto2 - Lutz Mueller <lutz@users.sf.net>. Усовершенствование протокола и "
+"доработка дляJenoptik JD350e выполнил Michael Trawny <trawny99@users."
+"sourceforge.net>.Исправление ошибок - Marcus Meissner <marcus@jet.franken."
+"de>."
+
+msgid ""
+"Download program for Polaroid DC700 camera. Originally written by Ryan "
+"Lantzer <rlantzer@umr.edu> for gphoto-4.x. Adapted for gphoto2 by Lutz "
+"Mueller <lutz@users.sf.net>."
+msgstr ""
+"Программа копирования изображений для Polaroid DC700. Первоначально написана "
+"- Ryan Lantzer <rlantzer@umr.edu> для gphoto-4.x. Адаптация для gphoto2 - "
+"Lutz Mueller <lutz@users.sf.net>."
+
+msgid ""
+"Download program for several Polaroid cameras. Originally written by Peter "
+"Desnoyers <pjd@fred.cambridge.ma.us>, and adapted for gphoto2 by Nathan "
+"Stenzel <nathanstenzel@users.sourceforge.net> and Lutz Mueller <lutz@users."
+"sf.net>.\n"
+"Polaroid 640SE testing was done by Michael Golden <naugrim@juno.com>."
+msgstr ""
+"Программа копирования снимков для нескольких моделей PolaroidПервоначальный "
+"автор - Peter Desnoyers <pjd@fred.cambridge.ma.us>, адаптация для gphoto2 - "
+"Nathan Stenzel <nathanstenzel@users.sourceforge.net>и Lutz Mueller "
+"<lutz@users.sf.net>.\n"
+"Тестирование Polaroid 640SE - Michael Golden <naugrim@juno.com>."
+
+msgid "Downloading %s."
+msgstr "Копируется %s."
+
+msgid "Downloading '%s' from folder '%s'..."
+msgstr "Копирование '%s' из папки '%s'..."
+
+msgid "Downloading '%s'..."
+msgstr "Копируется '%s'..."
+
+msgid "Downloading EXIF data..."
+msgstr "Копируется данные EXIF..."
+
+msgid "Downloading audio..."
+msgstr "Копируется звукопись..."
+
+msgid "Downloading data..."
+msgstr "Копируются данные..."
+
+msgid "Downloading file..."
+msgstr "Копируется файл..."
+
+msgid "Downloading image %s."
+msgstr "Копируется изображение %s."
+
+msgid "Downloading image..."
+msgstr "Копируется изображение..."
+
+msgid "Downloading movie..."
+msgstr "Копируется видеозапись..."
+
+msgid "Downloading thumbnail..."
+msgstr "Копируется миниатюра..."
+
+msgid "Downloading..."
+msgstr "Копирование..."
+
+msgid "Driver"
+msgstr "Драйвер"
+
+msgid "Dual Iris"
+msgstr "Двойная ирисовая диафрагма"
+
+msgid "EEPROM checksum error."
+msgstr "Ошибка контрольной суммы ППЗУ"
+
+msgid "ERROR: %d is too big"
+msgstr "ОШИБКА: %d слишком велик"
+
+msgid "ERROR: a fatal error condition was detected, can't continue "
+msgstr "ОШИБКА: обнаружены признаки неисправимой ошибки. Невозможно продолжать"
+
+msgid "ERROR: message format error."
+msgstr "ОШИБКА: неверный формат сообщения"
+
+msgid "ERROR: message overrun"
+msgstr "ОШИБКА: наслоение сообщений"
+
+msgid "ERROR: out of sequence."
+msgstr "ОШИБКА: нарушение последовательности"
+
+msgid "ERROR: unexpected message"
+msgstr "ОШИБКА: неожиданное сообщение"
+
+msgid "ERROR: unexpected message2."
+msgstr "ОШИБКА: неожиданное сообщение2"
+
+msgid "ERROR: unexpected packet type."
+msgstr "ОШИБКА: неожиданный тип пакета"
+
+msgid "Empty"
+msgstr "Пусто"
+
+msgid "English"
+msgstr "Английский"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error capturing image"
+msgstr "Ошибка захвата изображения"
+
+msgid "Error changing speed"
+msgstr "Ошибка изменения скорости"
+
+msgid "Error changing speed."
+msgstr "Ошибка изменения скорости."
+
+msgid "Error deleting associated thumbnail file"
+msgstr "Ошибка удаления связанного файла миниатюры"
+
+msgid "Error deleting file"
+msgstr "Ошибка удаления файла"
+
+msgid "Error waiting ACK during initialization"
+msgstr "Ошибка ожидания сигнала ACK во время инициализации"
+
+msgid "Everywhere"
+msgstr "Везде"
+
+msgid ""
+"Execute predefined command\n"
+"with parameter values."
+msgstr ""
+"Выполнить предопределённую команду\n"
+"с параметрами."
+
+msgid "Exposure"
+msgstr "Выдержка"
+
+msgid "Exposure Bias Compensation"
+msgstr "Экспокоррекция"
+
+msgid "Exposure Compensation"
+msgstr "Компенсация выдержки"
+
+msgid "Exposure Index (film speed ISO)"
+msgstr "Индекс выдержки (ISO скорость плёнки)"
+
+msgid "Exposure Metering"
+msgstr "Экспозамер"
+
+msgid "Exposure Metering Mode"
+msgstr "Режим экспозамера"
+
+msgid "Exposure Program Mode"
+msgstr "Режим программируемой выдержки"
+
+msgid "Exposure Time"
+msgstr "Время выдержки"
+
+msgid "Exposure level on preview"
+msgstr "Длительность выдержки во время предварительного просмотра"
+
+msgid "F-Number"
+msgstr "Число F"
+
+msgid "F2"
+msgstr "F2"
+
+msgid "F2.3"
+msgstr "F2,3"
+
+msgid "F2.8"
+msgstr "F2,8"
+
+msgid "F4"
+msgstr "F4"
+
+msgid "F5.6"
+msgstr "F5,6"
+
+msgid "F8"
+msgstr "F8"
+
+msgid ""
+"FLASH:\n"
+" Files: %d\n"
+msgstr ""
+"ППЗУ:\n"
+" Файлов: %d\n"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File '%s' could not be found in folder '%s'."
+msgstr "Файла '%s' нет в папке '%s'."
+
+msgid "File compression"
+msgstr "Сжатие файла"
+
+msgid "File exists"
+msgstr "Файл существует"
+
+msgid "File not found"
+msgstr "Файл не найден"
+
+msgid "File protected."
+msgstr "Файл защищен."
+
+msgid "File resolution"
+msgstr "Разрешение"
+
+msgid ""
+"File size is %ld bytes. The size of the largest file possible to upload is: "
+"%i bytes."
+msgstr ""
+"Размер файла составляет %ld байт. Максимально возможный размер для закачки: "
+"%i байт."
+
+msgid "File type"
+msgstr "Тип файла"
+
+msgid "File upload failed."
+msgstr "Закачка файла не удалась."
+
+msgid "Fine"
+msgstr "Улучшенный"
+
+msgid "Firmware Revision: %8s"
+msgstr "Версия прошивки: %8s"
+
+msgid ""
+"Firmware Revision: %8s\n"
+"Pictures:     %i\n"
+"Memory Total: %ikB\n"
+"Memory Free:  %ikB\n"
+msgstr ""
+"Версия прошивки: %8s\n"
+"Изображения:     %i\n"
+"Всего памяти: %iкб\n"
+"Свободно памяти:  %iкб\n"
+
+msgid "Firmware Revision: %d.%d\n"
+msgstr "Версия прошивки: %d.%d\n"
+
+msgid "Firmware version: %d.%02d\n"
+msgstr "Версия прошивки: %d.%02d\n"
+
+msgid "Fisheye"
+msgstr "Рыбий глаз"
+
+msgid "Fixed"
+msgstr "Фикс."
+
+msgid "Flash"
+msgstr "Вспышка"
+
+msgid "Flash Mode"
+msgstr "Режим вспышки"
+
+msgid "Flash Setting"
+msgstr "Параметры вспышки"
+
+msgid "FlashLight : Auto"
+msgstr "Вспышка : Авто"
+
+msgid "FlashLight : Auto (RedEye Reduction)"
+msgstr "Вспышка: Авто (Против красных глаз)"
+
+msgid "FlashLight : Off"
+msgstr "Вспышка : Выкл."
+
+msgid "FlashLight : On"
+msgstr "Вспышка : Вкл."
+
+msgid "FlashLight : On (RedEye Reduction)"
+msgstr "Вспышка : Вкл. (Против красных глаз)"
+
+msgid "FlashLight : undefined"
+msgstr "Вспышка : не определено"
+
+msgid "FlashPix"
+msgstr "FlashPix"
+
+msgid "Fluorescent"
+msgstr "Флуоресцентная лампа"
+
+msgid "Focal Length"
+msgstr "Длина фокуса"
+
+msgid "Focus"
+msgstr "Фокус"
+
+msgid "Focus Distance"
+msgstr "Фокусное расстояние"
+
+msgid "Focus Mode"
+msgstr "Режим фокусировки"
+
+msgid "Focusing Point"
+msgstr "Точка фокусировки"
+
+msgid "Focusing error."
+msgstr "Ошибка фокусировки."
+
+msgid ""
+"For cameras with S&Q Technologies chip.\n"
+"Should work with gtkam. Photos will be saved in PPM format.\n"
+"\n"
+"All known S&Q cameras have two resolution settings. What\n"
+"those are, will depend on your particular camera.\n"
+"A few of these cameras allow deletion of all photos. Most do not.\n"
+"Uploading of data to the camera is not supported.\n"
+"The photo compression mode found on many of the S&Q\n"
+"cameras is supported, to some extent.\n"
+"If present on the camera, video clips are seen as subfolders.\n"
+"Gtkam will download these separately. When clips are present\n"
+"on the camera, there is a little triangle before the name of\n"
+"the camera. If no folders are listed, click on the little \n"
+"triangle to make them appear. Click on a folder to enter it\n"
+"and see the frames in it, or to download them. The frames will\n"
+"be downloaded as separate photos, with special names which\n"
+"specify from which clip they came. Thus, you may freely \n"
+"choose to save clip frames in separate directories. or not.\n"
+msgstr ""
+"Для фотоаппаратов с микросхемой S&Q Technologies.\n"
+"Работает с gtkam. Снимки сохраняются в формате PPM.\n"
+"\n"
+"Все известные аппараты S&Q имеют два разрешения.\n"
+"Каковы они, зависит от конкретной модели. Некоторые из\n"
+"этих·фотоаппаратов позволяют удалять любые снимки, но\n"
+"большинство·-·нет. Закачка данных в память не поддер-\n"
+"живается.·Режим·сжатия, имеющийся у многих аппаратов\n"
+"S&Q·отчасти·поддерживается.\n"
+"Если фотоаппарат позволяет, видеозаписи представляются.\n"
+"в виде подкаталогов. Gtkam копирует их раздельно.При\n"
+"наличии видеозаписей перед названием аппарата появляется\n"
+"маленький треугольник. Если в списке нет папок, щёлкните на\n"
+"треугольнике, чтобы отобразить их. Щёлкните папку, чтобы\n"
+"войти в неё и увидеть или копировать кадры. Кадры извлекаются\n"
+"как отдельные изображения, имена которых сообщают, к какой\n"
+"видеопоследовательности они относятся. Таким образом можно \n"
+"выбрать, сохранять ли кадры в отдельных каталогах или нет.\n"
+
+msgid "Force Flash\n"
+msgstr "Принудительная вспышка\n"
+
+msgid "Frames Taken     : %4d\n"
+msgstr "Сделано снимков     : %4d\n"
+
+msgid "French"
+msgstr "Французский"
+
+msgid "Full"
+msgstr "Полная"
+
+msgid "German"
+msgstr "Немецкий"
+
+msgid "Getting configuration..."
+msgstr "Получение конфигурации..."
+
+msgid "Getting data..."
+msgstr "Получение данных..."
+
+msgid "Getting file list..."
+msgstr "Получение списка файлов..."
+
+msgid "Getting file..."
+msgstr "Получение файла..."
+
+msgid "Getting information on %i files..."
+msgstr "Получение сведений о %i файлах..."
+
+msgid "Getting thumbnail..."
+msgstr "Получение миниатюры..."
+
+msgid "Green"
+msgstr "Зелёный"
+
+msgid "High"
+msgstr "Высок."
+
+msgid "High (1152 x 872)"
+msgstr "высокое (1152 x 872)"
+
+msgid "High (good quality)"
+msgstr "высокое (хорошее качество)"
+
+msgid ""
+"Host Mode:\t\t%s\n"
+"Exposure Correction:\t%s\n"
+"Exposure Data:\t\t%d\n"
+"Date Valid:\t\t%s\n"
+"Date:\t\t\t%d/%02d/%02d %02d:%02d:%02d\n"
+"Self Timer Set:\t\t%s\n"
+"Quality Setting:\t%s\n"
+"Play/Record Mode:\t%s\n"
+"Card ID Valid:\t\t%s\n"
+"Card ID:\t\t%d\n"
+"Flash Mode:\t\t"
+msgstr ""
+"Режим работы:\t\t%s\n"
+"Коррекция выдержки:\t%s\n"
+"Данные выдержки:\t\t%d\n"
+"Дата указана:\t\t%s\n"
+"Дата:\t\t\t%d/%02d/%02d %02d:%02d:%02d\n"
+"Задержка спуска:\t\t%s\n"
+"Уровень качества:\t%s\n"
+"Режим воспроизведения/записи:\t%s\n"
+"ID карты указан:\t\t%s\n"
+"ID карты:\t\t%d\n"
+"Режим вспышки:\t\t"
+
+msgid "Host power save (seconds)"
+msgstr "Время до перехода компьютера в спящий режим (секунд)"
+
+msgid ""
+"How long will it take until the camera powers off when connected to the "
+"computer?"
+msgstr ""
+"Сколько времени пройдёт до автоматического выключения фотоаппарата,когда он "
+"подключён к компьютеру?"
+
+msgid ""
+"How long will it take until the camera powers off when not connected to the "
+"computer?"
+msgstr ""
+"Сколько времени пройдёт до автоматического выключения фотоаппарата,когда он "
+"не подключён к компьютеру?"
+
+msgid "I/O in progress"
+msgstr "Выполняется операция ввода-вывода"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "ISO Speed"
+msgstr "Скорость ISO"
+
+msgid "Icons"
+msgstr "Значки"
+
+msgid "Idle"
+msgstr "Свободно"
+
+msgid "Illegal parameter."
+msgstr "Недопустимый параметр:"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image %s is delete protected."
+msgstr "Изображение %s защищено от удаления."
+
+msgid "Image & Sound"
+msgstr "Изображение и звук"
+
+msgid "Image Quality"
+msgstr "Качество изображения"
+
+msgid "Image Size"
+msgstr "Размер изображения"
+
+msgid "Image protected."
+msgstr "Изображение защищено."
+
+msgid "Image type %d is not supported by this camera !"
+msgstr "Формат изображения %d не поддерживается фотоаппаратом !"
+
+msgid "Image type is not supported"
+msgstr "Данный формат изображения не поддерживается"
+
+msgid "In use"
+msgstr "Подсоединён"
+
+msgid "Incandescent"
+msgstr "Лампа накаливания"
+
+msgid "Infinity"
+msgstr "Бесконечность"
+
+msgid "Infinity/Fish-eye"
+msgstr "Бесконечность/Рыбий глаз"
+
+msgid "Initializing Camera"
+msgstr "Инициализация фотоаппарата"
+
+msgid "Internal error #1 in get_file_func() (%s line %i)"
+msgstr "Внутренняя ошибка 1 в функции get_file_func() (%s строка %i)"
+
+msgid "Internal error (1)."
+msgstr "Внутренняя ошибка (1)."
+
+msgid "Internal error (2)."
+msgstr "Внутренняя ошибка (2)."
+
+msgid "Invalid"
+msgstr "Ошибка"
+
+msgid "Iris error."
+msgstr "Ошибка ирисовой диафрагмы"
+
+msgid "Italian"
+msgstr "Итальянский"
+
+msgid ""
+"JD11\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Driver for the Jenoptik JD11 camera.\n"
+"Protocol reverse engineered using WINE and IDA."
+msgstr ""
+"JD11\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Драйвер фотоаппарата Jenoptik JD11.\n"
+"Для исследования протокола применялись WINE и IDA."
+
+msgid "JPEG"
+msgstr "JPEG"
+
+msgid "Japanese"
+msgstr "Японский"
+
+msgid "Keep filename on upload"
+msgstr "Сохранить имя файла при закачке"
+
+msgid ""
+"Known problems:\n"
+"\n"
+"1. If the Kodak DC3200 does not receive a command at least every 10 seconds, "
+"it will time out, and will have to be re-initialized. If you notice the "
+"camera does not respond, simply re-select the camera. This will cause it to "
+"reinitialize."
+msgstr ""
+"Известные проблемы:\n"
+"\n"
+"1. Если Kodak DC3200 не получает команд в течение 10 секунд, Произойдёт тайм-"
+"аут и потребуется повторная инициализация. Если аппарат перестаёт "
+"реагировать, просто заново выберите его. При этом произойдёт новая "
+"инициализация."
+
+msgid ""
+"Known problems:\n"
+"\n"
+"If communications problems occur, reset the camera and restart the "
+"application.  The driver is not robust enough yet to recover from these "
+"situations, especially if a problem occurs and the camera is not properly "
+"shutdown at speeds faster than 9600."
+msgstr ""
+"Известные проблемы:\n"
+"\n"
+"При возникновении ошибок передачи данных выполните сброс фотоаппарата и "
+"перезапустите программу. Драйвер пока не может самостоятельно выходить из "
+"таких положений, особенно, если проблема возникает при скоростях больших чем "
+"9600 и аппарат не выключается полностью."
+
+msgid ""
+"Kodak DC120 Camera Library\n"
+"Scott Fritzinger <scottf@gphoto.net>\n"
+"Camera Library for the Kodak DC120 camera.\n"
+"(by popular demand)."
+msgstr ""
+"Библиотека поддержки Kodak DC120\n"
+"Scott Fritzinger <scottf@gphoto.net>\n"
+"Библиотека для работы с фотоаппаратом Kodak DC120.\n"
+"(по многочисленным требованиям)."
+
+msgid ""
+"Kodak DC240 Camera Library\n"
+"Scott Fritzinger <scottf@gphoto.net> and Hubert Figuiere <hfiguiere@teaser."
+"fr>\n"
+"Camera Library for the Kodak DC240, DC280, DC3400 and DC5000 cameras.\n"
+"Rewritten and updated for gPhoto2."
+msgstr ""
+"Библиотека для фотоаппарата Kodak DC240\n"
+"Scott Fritzinger <scottf@gphoto.net> и Hubert Figuiere <hfiguiere@teaser."
+"fr>\n"
+"Библиотека для фотоаппаратов Kodak DC240, DC280, DC3400 и DC5000.\n"
+"Обновлено и переписано для gPhoto2."
+
+msgid ""
+"Kodak DC3200 Driver\n"
+"Donn Morrison <dmorriso@gulf.uvic.ca>\n"
+"\n"
+"Questions and comments appreciated."
+msgstr ""
+"Драйвер Kodak DC3200\n"
+"Donn Morrison <dmorriso@gulf.uvic.ca>\n"
+"\n"
+"Вопросы и отзывы принимаются с благодарностью."
+
+msgid ""
+"Kodak EZ200 driver\n"
+"Bucas Jean-Francois <jfbucas@tuxfamily.org>\n"
+msgstr ""
+"Драйвер Kodak EZ200\n"
+"Bucas Jean-Francois <jfbucas@tuxfamily.org>\n"
+
+msgid "Konica Configuration"
+msgstr "Настройка Konica"
+
+msgid ""
+"Konica Q-M150 Library\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Aurelien Croc (AP2C) <programming@ap2c.com>\n"
+"http://www.ap2c.com\n"
+"Support for the french Konica Q-M150."
+msgstr ""
+"Библиотека Konica Q-M150\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Aurelien Croc (AP2C) <programming@ap2c.com>\n"
+"http://www.ap2c.com\n"
+"Поддержка французской версии Konica Q-M150."
+
+msgid ""
+"Konica library\n"
+"Lutz Mueller <lutz@users.sourceforge.net>\n"
+"Support for all Konica and several HP cameras."
+msgstr ""
+"Библиотека Konica\n"
+"Lutz Mueller <lutz@users.sourceforge.net>\n"
+"Поддержка всех аппаратов Konica и некоторых моделей HP."
+
+msgid "Korean"
+msgstr "Корейский"
+
+msgid "LCD"
+msgstr "ЖК"
+
+msgid "LCD Auto Shut Off (seconds)"
+msgstr "Автоматическое отключение ЖК (сек.)"
+
+msgid "LCD Brightness"
+msgstr "Яркость ЖК-экрана"
+
+msgid "LCD Mode"
+msgstr "Режим ЖК экрана"
+
+msgid "LED Mode"
+msgstr "Светодиод"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid ""
+"Largan driver\n"
+"Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"\n"
+"Handles Largan Lmini camera.\n"
+msgstr ""
+"Драйвер Largan\n"
+"Hubert Figuiere <hfiguiere@teaser.fr>\n"
+"\n"
+"Поддержка фотоаппарата Largan Lmini.\n"
+
+msgid "Lens Mode"
+msgstr "Режим объектива"
+
+msgid "Light"
+msgstr "Светлый"
+
+msgid "Light too dark."
+msgstr "Недостаточное освещение"
+
+msgid "List all files"
+msgstr "Показатьсписок всех файлов"
+
+msgid "Listing files in '%s'..."
+msgstr "Составление списка файлов в '%s'..."
+
+msgid "Listing folders in '%s'..."
+msgstr "Получение списка папок в '%s'..."
+
+msgid "Local"
+msgstr "Подключённый"
+
+msgid "Localization"
+msgstr "Локализация"
+
+msgid "Localization file too long!"
+msgstr "Слишком длинный файл локализации!"
+
+msgid "Looking for camera ..."
+msgstr "Поиск фотоаппарата..."
+
+msgid "Looks like a modem, not a camera"
+msgstr "Похоже, что это модем, а не фотоаппарат"
+
+msgid "Low"
+msgstr "Низк."
+
+msgid "Low (576 x 436)"
+msgstr "высокое (576 x 436)"
+
+msgid "Low (best quality)"
+msgstr "слабое (наилучшее качество)"
+
+msgid "Lower case letters in %s not allowed."
+msgstr "Нельзя использовать строчные буквы в %s."
+
+msgid "MM/DD/YYYY"
+msgstr "ММ/ДД/ГГГГ"
+
+msgid "Macro"
+msgstr "Макро"
+
+msgid "Manual"
+msgstr "Ручной"
+
+msgid ""
+"Mars MR97310 camera library\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+msgstr ""
+"Библиотека для фотоаппарата Mars MR97310\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+
+msgid "Matrix"
+msgstr "Матричный"
+
+msgid ""
+"Matthew G. Martin\n"
+"Based on fujiplay by Thierry Bousch <bousch@topo.math.u-psud.fr>\n"
+msgstr ""
+"Matthew G. Martin\n"
+"На основе fujiplay от Thierry Bousch <bousch@topo.math.u-psud.fr>\n"
+
+msgid "Maximal"
+msgstr "Макс."
+
+msgid "Medium"
+msgstr "Средн."
+
+msgid "Medium (1152 x 872)"
+msgstr "среднее (1152 x 872)"
+
+msgid "Medium (better quality)"
+msgstr "среднее (повышенное качество)"
+
+msgid "Metering Mode"
+msgstr "Режим замера"
+
+msgid "Minimal"
+msgstr "Мин."
+
+msgid ""
+"Minolta Dimage V Camera Library\n"
+"%s\n"
+"Gus Hartmann <gphoto@gus-the-cat.org>\n"
+"Special thanks to Minolta for the spec."
+msgstr ""
+"Библиотека для фотоаппарата Minolta Dimage V\n"
+"%s\n"
+"Gus Hartmann <gphoto@gus-the-cat.org>\n"
+"Особо благодарю фирму Minolta за предоставленные спецификации."
+
+msgid ""
+"Model:\t\t\tMinolta Dimage V (%s)\n"
+"Hardware Revision:\t%s\n"
+"Firmware Revision:\t%s\n"
+msgstr ""
+"Модель:\t\t\tMinolta Dimage V (%s)\n"
+"Версия устройства:\t%s\n"
+"Версия прошивки:\t%s\n"
+
+msgid "Model: "
+msgstr "Модель:"
+
+msgid ""
+"Model: %s\n"
+"Memory: %d byte(s) of %d available"
+msgstr ""
+"Модель: %s\n"
+"Память: %d байт(ов) из %d доступных"
+
+msgid ""
+"Model: %s\n"
+"Serial Number: %s,\n"
+"Hardware Version: %i.%i\n"
+"Software Version: %i.%i\n"
+"Testing Software Version: %i.%i\n"
+"Name: %s,\n"
+"Manufacturer: %s\n"
+msgstr ""
+"Модель: %s\n"
+"Серийный номер: %s,\n"
+"Версия устройства: %i.%i\n"
+"Версия программы: %i.%i\n"
+"Версия диагностической программы: %i.%i\n"
+"Название: %s,\n"
+"Производитель: %s\n"
+
+msgid "Model: %x, %x, %x, %x"
+msgstr "Модель: %x, %x, %x, %x"
+
+msgid "Model: Kodak %s\n"
+msgstr "Модель: Kodak %s\n"
+
+msgid "Monitor"
+msgstr "Монитор"
+
+msgid "Month/Day/Year"
+msgstr "Месяц/День/Год"
+
+msgid ""
+"Mustek MDC-800 gPhoto2 Library\n"
+"Henning Zabel <henning@uni-paderborn.de>\n"
+"Ported to gphoto2 by Marcus Meissner <marcus@jet.franken.de>\n"
+"Supports Serial and USB Protocol."
+msgstr ""
+"Библиотека gPhoto2 для Mustek MDC-800\n"
+"Henning Zabel <henning@uni-paderborn.de>\n"
+"Адаптация для gphoto2 - Marcus Meissner <marcus@jet.franken.de>\n"
+"Поддерживает последовательный и USB протоколы."
+
+msgid "NOT RECOGNIZED"
+msgstr "НЕ РАСПОЗНАНО"
+
+msgid "NTSC"
+msgstr "NTSC"
+
+msgid "Name \"%s\" from camera does not match any known camera"
+msgstr "Сообщаемого фооаппаратом названия \"%s\" нет среди известных моделей"
+
+msgid "Next"
+msgstr "Следующий"
+
+msgid ""
+"Nikon Coolpix 880:\n"
+"    Camera configuration (or preferences):\n"
+"\n"
+"        The optical zoom does not properly\n"
+"        function.\n"
+"\n"
+"        Not all configuration settings\n"
+"        can be properly read or written, for\n"
+"        example, the fine tuned setting of\n"
+"        white balance, and the language settings.\n"
+"\n"
+"        Put the camera in 'M' mode in order to\n"
+"        to set the shutter speed.\n"
+msgstr ""
+"Nikon Coolpix 880:\n"
+"    Настройка фотоаппарата (предпочтения):\n"
+"\n"
+"        Оптическое приближение работает\n"
+"        неправильно.\n"
+"\n"
+"        Не все параметры настройки\n"
+"        можно как следует читать и изменять\n"
+"        например, это относится к тонкой настройке\n"
+"        баланса белого и настройкам языка.\n"
+"\n"
+"        Переведите аппарат в режим 'M', если хотите\n"
+"        задать скорость затвора.\n"
+
+msgid ""
+"Nikon Coolpix 995:\n"
+"    Camera configuration (preferences) for this\n"
+"    camera are incomplete, contact the gphoto\n"
+"    developer mailing list\n"
+"    if you would like to contribute to this\n"
+"    driver.\n"
+"\n"
+"    The download should function correctly.\n"
+msgstr ""
+"Nikon Coolpix 995:\n"
+"    Набор параметров настройки этого аппарата\n"
+"    неполон, напишите в список рассылки\n"
+"    разработчиков gphoto, если хотите внести \n"
+"    поправки·в·этот·драйвер.\n"
+"\n"
+"    Копирование снимков должно работать верно.\n"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No EXIF data available for %s."
+msgstr "Нет данных EXIF для %s."
+
+msgid "No additional information available."
+msgstr "Нет дополнительных сведений."
+
+msgid "No answer from the camera."
+msgstr "Нет ответа от фотоаппарата."
+
+msgid "No audio file could be found for %s"
+msgstr "Не найден файл звукозаписи для %s"
+
+msgid "No camera manual available.\n"
+msgstr "Руководство пользователя фотоаппарата недоступно.\n"
+
+msgid "No card"
+msgstr "Нет карты памяти"
+
+msgid "No card present."
+msgstr "Нет карты памяти."
+
+msgid "No memory card present"
+msgstr "Нет карты памяти"
+
+msgid "No reason available"
+msgstr "Причина неизвестна"
+
+msgid "No response from camera"
+msgstr "Нет ответа от фотоаппарата"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "None selected"
+msgstr "Не выбран"
+
+msgid "Normal"
+msgstr "Норм."
+
+msgid "Normal\n"
+msgstr "Нормальный\n"
+
+msgid "Not Full"
+msgstr "Неполная"
+
+msgid "Not used"
+msgstr "Отсоединён"
+
+msgid "Number of Images: %d\n"
+msgstr "Количество изображений: %d\n"
+
+msgid "Number of pictures: %d"
+msgstr "Количество изображений: %d"
+
+msgid "Number of pictures: %d\n"
+msgstr "Количество изображений: %d\n"
+
+msgid ""
+"Number of pictures: %i\n"
+"Firmware Version: %s"
+msgstr ""
+"Количество изображений: %i\n"
+"Версия прошивки: %s"
+
+msgid "OFF"
+msgstr "ВЫКЛ"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "ON"
+msgstr "ВКЛ"
+
+msgid "Off"
+msgstr "Выкл"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "On"
+msgstr "Вкл"
+
+msgid "On, red-eye reduction"
+msgstr "Вкл, уменьшение красноты глаз"
+
+msgid ""
+"Only root folder is supported - you requested a file listing for folder '%s'."
+msgstr ""
+"Поддерживается обращения только в корневую папку - запрошен список файлов "
+"папки '%s'."
+
+msgid "Operation Mode"
+msgstr "Режим работы"
+
+msgid "Operation cancelled"
+msgstr "Действие отменено"
+
+msgid "Other Settings"
+msgstr "Прочие параметры"
+
+msgid "Out of memory"
+msgstr "Недостаточно памяти"
+
+msgid "Out of memory: %d bytes needed."
+msgstr "Недостаточно памяти: необходимо %d байт(ов)."
+
+msgid "Out of memory: %ld bytes needed."
+msgstr "Недостаточно памяти: необходимо %ld байт(ов)."
+
+msgid "Outdoor"
+msgstr "Солнечный"
+
+msgid "Owner name changed"
+msgstr "Имя владельца изменено"
+
+msgid "PAL"
+msgstr "PAL"
+
+msgid "PTP Parameter Not Supported"
+msgstr "PTP Параметр не поддерживается"
+
+msgid ""
+"Panasonic DC1000 gPhoto library\n"
+"Mariusz Zynel <mariusz@mizar.org>\n"
+"\n"
+"Based on dc1000 program written by\n"
+"Fredrik Roubert <roubert@df.lth.se> and\n"
+"Galen Brooks <galen@nine.com>."
+msgstr ""
+"Библиотека gPhoto для Panasonic DC1000\n"
+"Mariusz Zynel <mariusz@mizar.org>\n"
+"\n"
+"Основана на программе для dc1000, написанной\n"
+"Fredrik Roubert <roubert@df.lth.se> и\n"
+"Galen Brooks <galen@nine.com>."
+
+msgid ""
+"Panasonic PV-L859-K/PV-L779-K Palmcorder Driver\n"
+"Andrew Selkirk <aselkirk@mailandnews.com>"
+msgstr ""
+"Драйвер Panasonic PV-L859-K/PV-L779-K Palmcorder\n"
+"Andrew Selkirk <aselkirk@mailandnews.com>"
+
+msgid "Parameter 1"
+msgstr "Параметр 1"
+
+msgid "Parameter 2"
+msgstr "Параметр 2"
+
+msgid "Parameter 3"
+msgstr "Параметр 3"
+
+msgid "Path not absolute"
+msgstr "Неабсолютный путь"
+
+msgid "Persistent Settings"
+msgstr "Постоянные настройки"
+
+msgid "Picture Settings"
+msgstr "Настройки изображения"
+
+msgid "Pictures"
+msgstr "Изображения"
+
+msgid "Play"
+msgstr "Воспроизв."
+
+msgid "Play mode"
+msgstr "Режим воспроизведения"
+
+msgid "Port speed"
+msgstr "Скорость порта"
+
+msgid "Portugese"
+msgstr "Португальский"
+
+msgid "Power Saving"
+msgstr "Экономия энергии"
+
+msgid "Preset"
+msgstr "Шаблон"
+
+msgid "Previous"
+msgstr "Предыдущий"
+
+msgid "Problem downloading image"
+msgstr "Проблема копирования изображения"
+
+msgid "Problem getting image information"
+msgstr "Проблема получения сведений об изображении"
+
+msgid "Problem getting number of images"
+msgstr "Проблема получения числа изображений"
+
+msgid "Problem opening port"
+msgstr "Ошибка открытия порта"
+
+msgid "Problem reading image from flash"
+msgstr "Ошибка чтения изображения с карты памяти"
+
+msgid "Problem resetting camera"
+msgstr "Ошибка сброса состояния фотоаппарата"
+
+msgid "Problem setting camera communication speed"
+msgstr "Проблема установки скорости обмена данными с фотоаппаратом"
+
+msgid "Problem taking live image"
+msgstr "Ошибка съёмки"
+
+msgid "Product ID: %02x%02x\n"
+msgstr "ID продукта: %02x%02x\n"
+
+msgid "Prohibit Flash\n"
+msgstr "Запрет вспышки\n"
+
+msgid "RGB Gain"
+msgstr "Усиление RGB"
+
+msgid "Ready"
+msgstr "Готов"
+
+msgid "Received unexpected response"
+msgstr "Получен неожиданный ответ"
+
+msgid "Receiving data..."
+msgstr "Принимаются данные..."
+
+msgid "Record"
+msgstr "Запись"
+
+msgid "Record Mode"
+msgstr "Режим записи"
+
+msgid "Record mode"
+msgstr "Режим записи"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Red-eye Reduction"
+msgstr "Уменьшение эффекта красных глаз"
+
+msgid "Remote"
+msgstr "Автономный"
+
+msgid "Resetting protocol..."
+msgstr "Сброс протокола..."
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Resolution Switch"
+msgstr "Переключение разрешения"
+
+msgid "Resolution plus Size"
+msgstr "Разрешение плюс размер"
+
+msgid ""
+"Ricoh / Philips driver by\n"
+"Lutz Mueller <lutz@users.sourceforge.net>,\n"
+"Martin Fischer <martin.fischer@inka.de>,\n"
+"based on Bob Paauwe's driver\n"
+msgstr ""
+"Драйвер Ricoh / Philips\n"
+"Lutz Mueller <lutz@users.sourceforge.net>,\n"
+"Martin Fischer <martin.fischer@inka.de>,\n"
+"на основе драйвера от Bob Paauwe\n"
+
+msgid ""
+"Ricoh Caplio G3.\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Reverse engineered using USB Snoopy, looking\n"
+"at the firmware update image and wild guessing.\n"
+msgstr ""
+"Ricoh Caplio G3.\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Исследование протокола проведено с помощью USB Snoopy,\n"
+"декомпиляции прошивки и интуиции.\n"
+
+msgid ""
+"SDRAM:\n"
+" Files: %d\n"
+"  Images: %4d\n"
+"  Movies: %4d\n"
+"Space used: %8d\n"
+"Space free: %8d\n"
+msgstr ""
+"SDRAM:\n"
+" Файлов: %d\n"
+"  Изображений: %4d\n"
+"  Видеозаписей: %4d\n"
+"Занято: %8d\n"
+"Свободно: %8d\n"
+
+msgid ""
+"STV0674\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Driver for cameras using the STV0674 processor ASIC.\n"
+"Protocol reverse engineered using SnoopyPro\n"
+msgstr ""
+"STV0674\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Драйвер для фотоаппаратов с процессором STV0674.\n"
+"Для исследование протокола использовался SnoopyPro\n"
+
+msgid ""
+"STV0680\n"
+"Adam Harrison <adam@antispin.org>\n"
+"Driver for cameras using the STV0680 processor ASIC.\n"
+"Protocol reverse engineered using CommLite Beta 5\n"
+"Carsten Weinholz <c.weinholz@netcologne.de>\n"
+"Extended for Aiptek PenCam and other STM USB Dual-mode cameras."
+msgstr ""
+"STV0680\n"
+"Adam Harrison <adam@antispin.org>\n"
+"Драйвер с процессором STV0680.\n"
+"Исследование протокола выполнено с помощью CommLite Beta 5\n"
+"Carsten Weinholz <c.weinholz@netcologne.de>\n"
+"Расширено для  Aiptek PenCam и других двурежимных USB фотоаппаратов STM."
+
+msgid "Self Timer"
+msgstr "Автоспуск"
+
+msgid "Self Timer (next picture only)"
+msgstr "Автоспуск (след. снимок только)"
+
+msgid "Self Timer Time"
+msgstr "Время автоспуска"
+
+msgid "Sending data..."
+msgstr "Передача данных..."
+
+msgid "Sensor ID: %d.%d\n"
+msgstr "ID сенсора: %d.%d\n"
+
+msgid "Sepia"
+msgstr "Сепия"
+
+msgid "Sequence 9"
+msgstr "Последовательность 9"
+
+msgid "Sharp"
+msgstr "Резко"
+
+msgid "Sharpness"
+msgstr "Чёткость"
+
+msgid ""
+"SiPix Web2\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Driver for accessing the SiPix Web2 camera."
+msgstr ""
+"SiPix Web2\n"
+"Marcus Meissner <marcus@jet.franken.de>\n"
+"Драйвер доступа к веб-камере SiPix Web2."
+
+msgid "Single"
+msgstr "Одиночный кадр"
+
+msgid ""
+"Sipix StyleCam Blink Driver\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Marcus Meissner <marcus@jet.franken.de>.\n"
+msgstr ""
+"Драйвер Sipix StyleCam Blink\n"
+"Vincent Sanders <vince@kyllikki.org>\n"
+"Marcus Meissner <marcus@jet.franken.de>.\n"
+
+msgid "Skylight"
+msgstr "Дневной свет"
+
+msgid "Slide Show Interval"
+msgstr "Интервал между слайдами"
+
+msgid "Slow Sync"
+msgstr "Замедленная синхронизация"
+
+msgid "Slow-sync"
+msgstr "Замедленная синхронизация"
+
+msgid ""
+"Smal Ultrapocket\n"
+"Lee Benfield <lee@benf.org>\n"
+"Driver for accessing the Smal Ultrapocket camera, and OEM versions (slimshot)"
+msgstr ""
+"Smal Ultrapocket\n"
+"Lee Benfield <lee@benf.org>\n"
+"Драйвер доступа к аппарату Smal Ultrapocket и его OEM вариантам (slimshot)"
+
+msgid "Soft"
+msgstr "Мягко"
+
+msgid ""
+"Some notes about Epson cameras:\n"
+"- Some parameters are not controllable remotely:\n"
+"  * zoom\n"
+"  * focus\n"
+"  * custom white balance setup\n"
+"- Configuration has been reverse-engineered with\n"
+"  a PhotoPC 3000z, if your camera acts differently\n"
+"  please send a mail to %s (in English)\n"
+msgstr ""
+"Несколько замечаний о фотоаппаратах Epson:\n"
+"- Отдельными параметрами нельзя управлять удалённо:\n"
+"  * приближение\n"
+"  * фокус\n"
+"  * пользовательские настройки баланса белого\n"
+"- Декомпиляция файлов конфигурации производилась с\n"
+"  PhotoPC 3000z. Если ваш аппарат работает иначе, напишите,\n"
+"  пожалуйста по адресу %s (по английски)\n"
+
+msgid ""
+"Some notes about Epson cameras:\n"
+"- Some parameters are not controllable remotely:\n"
+"  * zoom\n"
+"  * focus\n"
+"  * custom white balance setup\n"
+"- Configuration has been reverse-engineered with\n"
+"  a PhotoPC 3000z, if your camera acts differently\n"
+"  please send a mail to the gphoto developer mailing list (in English)\n"
+msgstr ""
+"Несколько замечаний о фотоаппаратах Epson:\n"
+"- Отдельными параметрами нельзя управлять удалённо:\n"
+"  * приближение\n"
+"  * фокус\n"
+"  * пользовательские настройки баланса белого\n"
+"- Декомпиляция файлов конфигурации производилась с\n"
+"  PhotoPC 3000z, если ваш аппарат работает иначе, напишите\n"
+"  об этом в список рассылки для разработчиков gphoto (по английски)\n"
+
+msgid ""
+"Sony DSC-F1 Digital Camera Support\n"
+"M. Adam Kendall <joker@penguinpub.com>\n"
+"Based on the chotplay CLI interface from\n"
+"Ken-ichi Hayashi\n"
+"Gphoto2 port by Bart van Leeuwen <bart@netage.nl>"
+msgstr ""
+"Поддержка фотоаппарата Sony DSC-F1\n"
+"M. Adam Kendall <joker@penguinpub.com>\n"
+"На основе консольной версии chotplay от\n"
+"Кен-Ичи Хайяши\n"
+"Портирование в Gphoto2 выполнил Bart van Leeuwen <bart@netage.nl>"
+
+msgid ""
+"Sony DSC-F55/505 gPhoto library\n"
+"Supports Sony MSAC-SR1 and Memory Stick used by DCR-PC100\n"
+"Originally written by Mark Davies <mdavies@dial.pipex.com>\n"
+"gPhoto2 port by Raymond Penners <raymond@dotsphinx.com>"
+msgstr ""
+"Библиотека gPhoto для Sony DSC-F55/505\n"
+"Поддерживает Sony MSAC-SR1 и карты Memory Stick от DCR-PC100\n"
+"Изначально написана Mark Davies <mdavies@dial.pipex.com>\n"
+"Адаптация к gPhoto2 - Raymond Penners <raymond@dotsphinx.com>"
+
+msgid "Sound"
+msgstr "Звук"
+
+msgid ""
+"Soundvision Driver\n"
+"Vince Weaver <vince@deater.net>\n"
+msgstr ""
+"Драйвер Soundvision\n"
+"Vince Weaver <vince@deater.net>\n"
+
+msgid "Spanish"
+msgstr "Испанский"
+
+msgid "Speed %i is not supported!"
+msgstr "Скорость %i не поддерживается!"
+
+msgid ""
+"Speeds greater than 57600 are not supported for uploading to this camera"
+msgstr ""
+"Превышающие 57600 скорости не поддерживаются при загрузке в этот фотоаппарат"
+
+msgid "Spot"
+msgstr "Точечный"
+
+msgid "Spot Metering Mode"
+msgstr "Точечный режим замера"
+
+msgid "Spot-AF"
+msgstr "Точечный автофокус"
+
+msgid "Standard"
+msgstr "Стандартный"
+
+msgid "Switching Camera Off"
+msgstr "Фотоаппарат выключается"
+
+msgid "System error."
+msgstr "Системная ошибка."
+
+msgid "TV Output Format"
+msgstr "Формат вывода на ТВ"
+
+msgid ""
+"The JD11 camera works rather well with this driver.\n"
+"An RS232 interface @ 115 kbit is required for image transfer.\n"
+"The driver allows you to get\n"
+"\n"
+"   - thumbnails (64x48 PGM format)\n"
+"   - full images (640x480 PPM format)\n"
+msgstr ""
+"Фотоаппарат JD11 достаточно хорошо работает с этим драйвером.\n"
+"Для получения изображений необходим интерфейс RS232 со скоростью 115 Кбит.\n"
+"Драйвер позволяет копировать\n"
+"\n"
+"   - миниатюры (64x48, формат PGM )\n"
+"   - фотографии (640x480, формат PPM)\n"
+
+msgid ""
+"The Kodak DC120 camera uses the KDC file format for storing images. If you "
+"want to view the images you download from your camera, you will need to "
+"download the \"kdc2tiff\" program. It is available from http://kdc2tiff."
+"sourceforge.net"
+msgstr ""
+"Фотоаппарат Kodak DC120 использует формат KDC для записи изображений. Для "
+"просмотра полученных из аппарата изображений понадобится программа \"kdc2tiff"
+"\". Её можно загрузить по адресу http://kdc2tiff.sourceforge.net"
+
+msgid ""
+"The Samsung digimax 800k driver has been written by James McKenzie "
+"<james@fishsoup.dhs.org> for gphoto. Lutz Mueller <lutz@users.sourceforge."
+"net> ported it to gphoto2. Marcus Meissner <marcus@jet.franken.de> fixed and "
+"enhanced the port."
+msgstr ""
+"Драйвер Samsung digimax 800k написан James McKenzie <james@fishsoup.dhs.org> "
+"для gphoto. Lutz Mueller <lutz@users.sourceforge.net> портировал его в "
+"gphoto2. Marcus Meissner <marcus@jet.franken.de> исправлял ошибки и вносил "
+"усовершенствования."
+
+msgid ""
+"The battery level of the camera is too low (%d%%). The operation is aborted."
+msgstr ""
+"Слишком слабый заряд аккумулятора фотоаппарата (%d%%). Действие прервано."
+
+msgid "The camera does not support speed %i."
+msgstr "Фотоаппарат не поддерживает скорость %i."
+
+msgid ""
+"The camera has just sent an error that has not yet been discovered. Please "
+"report the following to %s with additional information how you got this "
+"error: (0x%x,0x%x). Thank you very much!"
+msgstr ""
+"Фотоаппарат только что сообщил об нераспознанной ошибке. Пожалуйста, "
+"сообщите об этом %s и опишите, как и когда произошла эта ошибка: (0x%x,0x"
+"%x). Большое спасибо!"
+
+msgid "The filesystem does not support upload of files."
+msgstr "Файловая система не поддерживает закачку файлов."
+
+msgid "The filesystem doesn't support getting files"
+msgstr "Файловая система не поддерживает получение файлов"
+
+msgid "The filesystem doesn't support setting file information"
+msgstr "Файловая система не поддерживает изменение сведений о файле"
+
+msgid ""
+"There is currently an operation in progress. This camera only supports one "
+"operation at a time. Please wait until the current operation has finished."
+msgstr ""
+"Выполняется действие. Данный фотоаппарат не поддерживает одновременное "
+"выполнение нескольких команд. Дождитесь окончания текущей операции.."
+
+msgid ""
+"This library has been tested with a Kodak DC 215 Zoom camera. It might work "
+"also with DC 200 and DC 210 cameras. If you happen to have such a camera, "
+"please send a message to koltan@gmx.de to let me know, if you have any "
+"troubles with this driver library or if everything is okay."
+msgstr ""
+"Работоспособность драйвера проверена с аппаратом Kodak DC 215 Zoom Возможно "
+"он подойдёт для DC 200 и DC 210. Если у вас есть один из перечисленных "
+"фотоаппаратов, напишите, пожалуйста по адресу koltan@gmx.de и сообщите, все "
+"ли функции доступны с этим драйвером, и нет ли с ним проблем."
+
+msgid "Thumbnail size: %d\n"
+msgstr "Размер миниатюры: %d\n"
+
+msgid "Time format"
+msgstr "Формат времени"
+
+msgid ""
+"Toshiba\n"
+"David Hogue <david@jawa.gotdns.org>\n"
+"Toshiba pdr-m11 driver.\n"
+msgstr ""
+"Toshiba\n"
+"David Hogue <david@jawa.gotdns.org>\n"
+"Драйвер Toshiba pdr-m11.\n"
+
+msgid "Trying to contact camera..."
+msgstr "Установление связи с фотоаппаратом..."
+
+msgid "Tungsten"
+msgstr "Вольфрамовая лампа"
+
+msgid "UI Language"
+msgstr "Язык интерфейса"
+
+msgid "UNIX Time"
+msgstr "Время UNIX"
+
+msgid "Unavailable"
+msgstr "нет данных"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown camera library error"
+msgstr "Неизвестная ошибка драйвера фотоаппарата"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown error."
+msgstr "Неизвестная ошибка."
+
+msgid "Unknown file type %i."
+msgstr "Неизвестный тип файла %i."
+
+msgid "Unknown model"
+msgstr "Неизвестная модель"
+
+msgid "Unknown model \"%s\""
+msgstr "Неизвестная модель \"%s\""
+
+msgid "Unrecognized response"
+msgstr "Нераспознанный ответ"
+
+msgid "Unsuitable card"
+msgstr "Несовместимая карта"
+
+msgid "Unsupported command."
+msgstr "Неподдерживаемая команда."
+
+msgid "Unsupported port type %i = 0x%x given. Initialization impossible."
+msgstr ""
+"Получен неподдерживаемый тип порта %i = 0x%x. Инициализация невозможна."
+
+msgid "Uploading file..."
+msgstr "Закачка файла..."
+
+msgid "Uploading image..."
+msgstr "Закачка изображения..."
+
+msgid "Uploading image: %s."
+msgstr "Закачка изображения: %s."
+
+msgid "Uploading..."
+msgstr "Закачка..."
+
+msgid "User canceled download"
+msgstr "Копирование прервано пользователем"
+
+msgid "Vendor ID: %02x%02x\n"
+msgstr "ID производителя: %02x%02x\n"
+
+msgid "Version: "
+msgstr "Версия:"
+
+msgid "Version: %s\n"
+msgstr "Версия: %s\n"
+
+msgid "Volatile Settings"
+msgstr "Временные настройки"
+
+msgid "Waiting..."
+msgstr "Ожидание..."
+
+msgid "Weak"
+msgstr "Слабая"
+
+msgid "White Balance"
+msgstr "Баланс белого"
+
+msgid "White Board"
+msgstr "Белая доска"
+
+msgid "White balance"
+msgstr "Баланс белого"
+
+msgid "White board"
+msgstr "Белая доска"
+
+msgid "White level"
+msgstr "Уровень белого"
+
+msgid "Wide"
+msgstr "Широкоугольный"
+
+msgid "Write-protected"
+msgstr "Защищена от записи"
+
+msgid "Year/Month/Day"
+msgstr "Год/Месяц/День"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid ""
+"Your USB camera has a S&Q chipset.\n"
+"The total number of pictures taken is %i\n"
+"Some of these could be clips containing\n"
+"several frames\n"
+msgstr ""
+"Ваш USB фотоаппарат имеет м/с набор S&Q.\n"
+"Общее число сделанных снимков - %i\n"
+"Некоторые из них могут быть видеозаписями,\n"
+"состоящими из нескольких кадров.\n"
+
+msgid ""
+"Your USB camera has an Aox chipset.\n"
+"Number of lo-res PICs = %i\n"
+"Number of hi-res PICs = %i\n"
+"Number of PICs = %i\n"
+msgstr ""
+"Ваш USB-фотоаппарат основан на м/с наборе Aox.\n"
+"Число изображений низкого разрешения = %i\n"
+"Число изображений высокого разрешения = %i\n"
+"Число изображений = %i\n"
+
+msgid ""
+"Your USB camera is a Kodak EZ200.\n"
+"Number of PICs = %i\n"
+msgstr ""
+"Модель вашего USB-фотоаппарата - Kodak EZ200.\n"
+"Число изображений = %i\n"
+
+msgid "Zoom"
+msgstr "Приближение"
+
+msgid "Zoom (in millimeters)"
+msgstr "Приближение (в миллиметрах)"
+
+msgid "a/c adaptor"
+msgstr "блок питания"
+
+msgid ""
+"agfa_cl20\n"
+"The Agfa CL20 Linux Driver People!\n"
+"     Email us at cl20@poeml.de    \n"
+" Visit us at http://cl20.poeml.de "
+msgstr ""
+"agfa_cl20\n"
+"Разработчики драйвера Agfa CL20 для Linux!\n"
+"     Э-почта - cl20@poeml.de    \n"
+" Веб-адрес http://cl20.poeml.de "
+
+msgid "auto"
+msgstr "авто"
+
+msgid "battery"
+msgstr "аккумулятор"
+
+msgid "color"
+msgstr "цвет"
+
+msgid "coolshot library v"
+msgstr "Библиотека coolshot v"
+
+msgid "could not change owner name"
+msgstr "невозможно изменить имя владельца"
+
+msgid "could not set time"
+msgstr "невозможно установить время"
+
+msgid "externally"
+msgstr "снаружи"
+
+msgid "fine"
+msgstr "высокое"
+
+msgid ""
+"gPhoto2 Mustek VDC-3500/Relisys Dimera 3500\n"
+"This software was created with the\n"
+"help of proprietary information belonging\n"
+"to StarDot Technologies.\n"
+"\n"
+"Author:\n"
+"  Brian Beattie  <URL:http://www.beattie-home.net>\n"
+"Contributors:\n"
+"  Chuck Homic <chuck@vvisions.com>\n"
+"     Converting raw camera images to RGB\n"
+"  Dan Fandrich <dan@coneharvesters.com>\n"
+"     Information on protocol, raw image format,\n"
+"     gphoto2 port\n"
+msgstr ""
+"gPhoto2 Mustek VDC-3500/Relisys Dimera 3500\n"
+"При создании этой программы использовалась\n"
+"закрытая информация, принадлежащая фирме\n"
+"StarDot Technologies.\n"
+"\n"
+"Автор:\n"
+"  Brian Beattie  <URL:http://www.beattie-home.net>\n"
+"Помощь оказывали:\n"
+"  Chuck Homic <chuck@vvisions.com>\n"
+"     Преобразование исходных данных снимков в формат RGB\n"
+"  Dan Fandrich <dan@coneharvesters.com>\n"
+"     Информация о протоколе обмена, формате исходных данных,\n"
+"     портирование для gphoto2\n"
+
+msgid ""
+"gsmart300 library \n"
+"Till Adam <till@adam-lilienthal.de>\n"
+"Jerome Lodewyck <jerome.lodewyck@ens.fr>\n"
+"Support for Mustek gSmart 300 digital cameras\n"
+"based on several other gphoto2 camlib modules and the specifications kindly "
+"provided by Mustek.\n"
+"\n"
+msgstr ""
+"Библиотека gsmart300 \n"
+"Till Adam <till@adam-lilienthal.de>\n"
+"Jerome Lodewyck <jerome.lodewyck@ens.fr>\n"
+"Поддержка фотоаппаратов Mustek gSmart 300\n"
+"основывается на нескольких модулях gphoto2 и спецификациях, которые были "
+"любезно предоставлены фирмой Mustek.\n"
+"\n"
+
+msgid "high (640x480)"
+msgstr "высокое  (640x480)"
+
+msgid "in fill mode"
+msgstr "в режиме заполнения"
+
+msgid "internally"
+msgstr "внутри"
+
+msgid "low (320x240)"
+msgstr "низкое (320x240)"
+
+msgid "menu"
+msgstr "меню"
+
+msgid "none"
+msgstr "нет"
+
+msgid "normal"
+msgstr "нормальное"
+
+msgid "not available: %s"
+msgstr "нет данных: %s"
+
+msgid "off"
+msgstr "выкл"
+
+msgid "on"
+msgstr "вкл"
+
+msgid "on battery"
+msgstr "аккумулятор"
+
+msgid "play"
+msgstr "воспроизведение"
+
+msgid "power OK"
+msgstr "питание ОК"
+
+msgid "power bad"
+msgstr "сбой питания"
+
+msgid "read only"
+msgstr "только для чтения"
+
+msgid "readwrite"
+msgstr "чтение и запись"
+
+msgid "ready"
+msgstr "готов"
+
+msgid "record"
+msgstr "запись"
+
+msgid ""
+"sq905 generic driver\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+msgstr ""
+"Базовый драйвер sq905\n"
+"Theodore Kilgore <kilgota@auburn.edu>\n"
+
+msgid "superfine"
+msgstr "наилучшее"
+
+msgid "time set"
+msgstr "время установлено"
+
+msgid "unexpected datatype %i"
+msgstr "неожиданный тип данных %i"
+
+msgid ""
+"warning: CRC not checked (add len %d, value 0x%04x) "
+"#########################\n"
+msgstr ""
+"внимание: контрольная сумма не проверена (+ длина %d, значение 0x%04x) "
+"#########################\n"

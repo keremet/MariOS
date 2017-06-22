@@ -1,0 +1,811 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-system-monitor HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-02-13 17:47+0900\n"
+"PO-Revision-Date: 2007-02-13 10:30+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "% CPU"
+msgstr "% ЦП"
+
+msgid "%.1f Gbit"
+msgstr "%.1f Гбит"
+
+msgid "%.1f GiB"
+msgstr "%.1f ГиБ"
+
+msgid "%.1f KiB"
+msgstr "%.1f КиБ"
+
+msgid "%.1f Mbit"
+msgstr "%.1f Мбит"
+
+msgid "%.1f MiB"
+msgstr "%.1f МиБ"
+
+msgid "%.1f kbit"
+msgstr "%.1f кбит"
+
+msgid "%a %l:%M %p"
+msgstr "%a %H:%M"
+
+msgid "%b %d %Y"
+msgstr "%d %b %Y"
+
+msgid "%b %d %l:%M %p"
+msgstr "%d %b %H:%M"
+
+msgid "%s (%.1f %%) of %s"
+msgstr "%s (%.1f %%) из %s"
+
+msgid "%s/s"
+msgstr "%s/с"
+
+msgid "%u bit"
+msgid_plural "%u bits"
+msgstr[0] "%u бит"
+msgstr[1] "%u бита"
+msgstr[2] "%u бит"
+
+msgid "%u byte"
+msgid_plural "%u bytes"
+msgstr[0] "%u байт"
+msgstr[1] "%u байта"
+msgstr[2] "%u байт"
+
+msgid "%u second"
+msgid_plural "%u seconds"
+msgstr[0] "%u секунда"
+msgstr[1] "%u секунды"
+msgstr[2] "%u секунд"
+
+msgid "%u:%02u.%02u"
+msgstr "%u:%02u.%02u"
+
+msgid "%u:%02u:%02u"
+msgstr "%u:%02u:%02u"
+
+msgid "%ud%02uh"
+msgstr "%ud%02uh"
+
+msgid "%uw%ud"
+msgstr "%uw%ud"
+
+msgid "(High Priority)"
+msgstr "(Высокий приоритет)"
+
+msgid "(Low Priority)"
+msgstr "(Низкий приоритет)"
+
+msgid "(Normal Priority)"
+msgstr "(Нормальный приоритет)"
+
+msgid "(Very High Priority)"
+msgstr "(Очень высокий приоритет)"
+
+msgid "(Very Low Priority)"
+msgstr "(Очень низкий приоритет)"
+
+msgid ""
+"0 for the System Info, 1 for the processes list, 2 for the resources and 3 "
+"for the disks list"
+msgstr ""
+"0 — информация о системе, 1 — список процессов, 2 — ресурсов, 3 — дисков"
+
+msgid ""
+"<b>Error</b>\n"
+"'%s' is not a valid Perl regular expression.\n"
+"%s"
+msgstr ""
+"<b>Ошибка</b>\n"
+"Регулярное выражение Perl '%s' некорректно.\n"
+"%s"
+
+msgid "<b>Hardware</b>"
+msgstr "<b>Оборудование</b>"
+
+msgid "<b>System Status</b>"
+msgstr "<b>Состояние системы</b>"
+
+msgid "<i>N/A</i>"
+msgstr "<i>Н/Д</i>"
+
+msgid "?"
+msgstr "?"
+
+msgid "A simple process and system monitor."
+msgstr "Простой диспетчер процессов и системы"
+
+msgid "A_ll Processes"
+msgstr "В_се процессы"
+
+msgid "About this application"
+msgstr "Информация о приложении"
+
+msgid "Alert before ending or _killing processes"
+msgstr "Предупреждать перед _завершением или снятием процессов"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "Available disk space:"
+msgstr "Доступное дисковое пространство:"
+
+msgid "Behavior"
+msgstr "Поведение"
+
+msgid "CPU"
+msgstr "ЦП"
+
+msgid "CPU History"
+msgstr "Использование процессора"
+
+msgid "CPU Time"
+msgstr "Время ЦП"
+
+msgid "CPU%d"
+msgstr "ЦП%d"
+
+msgid ""
+"Cannot change the priority of process with pid %d to %d.\n"
+"%s"
+msgstr ""
+"Не удаётся изменить приоритет процесса с PID %d на %d.\n"
+"%s"
+
+msgid ""
+"Cannot kill process with pid %d with signal %d.\n"
+"%s"
+msgstr ""
+"Не удаётся завершить процесс с PID %d при помощи сигнала %d.\n"
+"%s"
+
+msgid "Case insensitive matching"
+msgstr "Учитывать регистр"
+
+msgid "Change Priority"
+msgstr "Изменить приоритет"
+
+msgid "Change _Priority"
+msgstr "_Изменить приоритет"
+
+msgid "Change the order of priority of process"
+msgstr "Изменить приоритет процесса"
+
+msgid "Click to set graph colors"
+msgstr "Щёлкните для изменения цветов графика"
+
+msgid "Command Line"
+msgstr "Командная строка"
+
+msgid "Configure the application"
+msgstr "Настроить приложение"
+
+msgid "Continue process if stopped"
+msgstr "Продолжить процесс, если остановлен"
+
+msgid "Current Color"
+msgstr "Текущий цвет"
+
+msgid "Default graph cpu color"
+msgstr "Цвет графика ЦП по умолчанию"
+
+msgid "Default graph incoming network traffic color"
+msgstr "Цвет графика приёма по сети"
+
+msgid "Default graph mem color"
+msgstr "Цвет графика памяти по умолчанию"
+
+msgid "Default graph outgoing network traffic color"
+msgstr "Цвет графика отправки по сети"
+
+msgid "Default graph swap color"
+msgstr "Цвет графика подкачки по умолчанию"
+
+msgid ""
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is "
+"active"
+msgstr ""
+"Определяет, какие процессы показывать по умолчанию. 0 — все, 1 — "
+"пользователя, 2 — активные"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Disk view columns order"
+msgstr "Порядок столбцов просмотра диска"
+
+msgid "Enable _smooth refresh"
+msgstr "Включить _плавное обновление"
+
+msgid "Enable/Disable smooth refresh"
+msgstr "Включить/выключить плавное обновление"
+
+msgid "End _Process"
+msgstr "Завер_шить процесс"
+
+msgid "End the selected process?"
+msgstr "Завершить выбранный процесс?"
+
+msgid ""
+"Ending a process may destroy data, break the session or introduce a security "
+"risk. Only unresponding processes should be ended."
+msgstr ""
+"Завершая процесс, можно уничтожить данные, прервать рабочий сеанс или "
+"создать угрозу безопасности. Завершать нужно только те процессы, которые не "
+"отвечают."
+
+msgid "FD"
+msgstr "FD"
+
+msgid "File Systems"
+msgstr "Файловые системы"
+
+msgid "File system i_nformation shown in list:"
+msgstr "Информация о файловой _системе, отображаемая в списке:"
+
+msgid "Filename"
+msgstr "Имя файла"
+
+msgid "Flags"
+msgstr "Флаги"
+
+msgid "Force process to finish immediately"
+msgstr "Завершить процесс немедленно"
+
+msgid "Force process to finish normally"
+msgstr "Корректно завершить процесс"
+
+msgid "Fraction"
+msgstr "Доля"
+
+msgid "Free"
+msgstr "Свободно"
+
+msgid "GNOME %s"
+msgstr "GNOME %s"
+
+msgid "Graphs"
+msgstr "Графики"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "IPv4 network connection"
+msgstr "сетевое соединение IPv4"
+
+msgid "IPv6 network connection"
+msgstr "сетевое соединение IPv6"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid ""
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's cpu usage "
+"is divided by the total number of CPUs. Else it operates in 'Irix mode'."
+msgstr ""
+"Если установлено, системный монитор работает в «режиме Solaris», при котором "
+"загрузка ЦПУ для задачи делится на общее число ЦПУ. Иначе используется "
+"«режим Irix»."
+
+msgid "Information Fields"
+msgstr "Информационные поля"
+
+msgid "Inode"
+msgstr "Inode"
+
+msgid "Kernel %s"
+msgstr "Ядро %s"
+
+msgid "Kill the selected process?"
+msgstr "Завершить выбранный процесс?"
+
+msgid ""
+"Killing a process may destroy data, break the session or introduce a "
+"security risk. Only unresponding processes should be killed."
+msgstr ""
+"Снимая процесс, можно уничтожить данные, прервать рабочий сеанс или создать "
+"угрозу безопасности. Снимать нужно только те процессы, которые не отвечают."
+
+msgid "Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f"
+msgstr "Средняя загрузка за последние 1, 5, 15 минут: %0.2f, %0.2f, %0.2f"
+
+msgid "M_y Processes"
+msgstr "_Мои процессы"
+
+msgid "Main Window height"
+msgstr "Высота основного окна"
+
+msgid "Main Window width"
+msgstr "Ширина основного окна"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Memory Maps"
+msgstr "Карты памяти"
+
+msgid "Memory and Swap History"
+msgstr "Использование памяти/подкачки"
+
+msgid "Memory:"
+msgstr "Память:"
+
+msgid "Monitor disk, memory and CPU usage of running processes"
+msgstr "Контроль использования диска, памяти и ЦП выполняемыми процессами"
+
+msgid "Network History"
+msgstr "Использование сети"
+
+msgid "Nice"
+msgstr "Приоритет"
+
+msgid "Note:"
+msgstr "Примечание:"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Open Files"
+msgstr "Открытые файлы"
+
+msgid "Open _Files"
+msgstr "Открытые _файлы"
+
+msgid "Open the manual"
+msgstr "Открыть справку"
+
+msgid "Open the memory maps associated with a process"
+msgstr "Открыть карты памяти, связанные с процессом"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "Percentage full for pie colour pickers"
+msgstr "Доля заполнения для полос выбора цвета"
+
+msgid "Performance Monitor"
+msgstr "Монитор производительности"
+
+msgid "Pick a Color"
+msgstr "Выбрать цвет"
+
+msgid "Private clean"
+msgstr "Неразделяемая, чистая"
+
+msgid "Private dirty"
+msgstr "Неразделяемая, использованная"
+
+msgid "Process"
+msgstr "Процесс"
+
+msgid "Process Name"
+msgstr "Имя процесса"
+
+msgid "Process i_nformation shown in list:"
+msgstr "Информация о процессах, отображаемая в списке:"
+
+msgid "Process view columns order"
+msgstr "Порядок столбцов просмотра процессов"
+
+msgid "Process view sort column"
+msgstr "Столбец сортировки списка процессов"
+
+msgid "Process view sort order"
+msgstr "Порядок сортировки списка процессов"
+
+msgid "Processes"
+msgstr "Процессы"
+
+msgid "Processor %d:"
+msgstr "Процессор %d:"
+
+msgid "Processor:"
+msgstr "Процесссор:"
+
+msgid "Quit the program"
+msgstr "Выйти из программы"
+
+msgid "Received invalid color data\n"
+msgstr "Получены некорректные данные о цвете\n"
+
+msgid "Receiving"
+msgstr "Приём"
+
+msgid "Refresh the process list"
+msgstr "Обновить список процессов"
+
+msgid "Release %s"
+msgstr "Выпуск %s"
+
+msgid "Resident Memory"
+msgstr "Резидентная память"
+
+msgid "Resources"
+msgstr "Ресурсы"
+
+msgid "Running"
+msgstr "Работает"
+
+msgid "S_earch results:"
+msgstr "_Результаты поиска:"
+
+msgid "Saves the currently viewed tab"
+msgstr "Сохраняет текущую активную вкладку"
+
+msgid "Search for Open Files"
+msgstr "Поиск открытых файлов"
+
+msgid "Search for _Open Files"
+msgstr "Найти _открытые файлы"
+
+msgid "Search for open files"
+msgstr "Поиск открытых файлов"
+
+msgid "Security Context"
+msgstr "Контекст безопасности"
+
+msgid "Sending"
+msgstr "Отправка"
+
+msgid "Shared Memory"
+msgstr "Разделяемая память"
+
+msgid "Shared clean"
+msgstr "Разделяемая, чистая"
+
+msgid "Shared dirty"
+msgstr "Разделяемая, использованная"
+
+msgid "Show _all filesystems"
+msgstr "Отображать _все файловые системы"
+
+msgid "Show active processes"
+msgstr "Отображать активные процессы"
+
+msgid "Show all processes"
+msgstr "Отображать все процессы"
+
+msgid "Show network speed in bits"
+msgstr "Показывать скорость сети в битах"
+
+msgid "Show parent/child relationship between processes"
+msgstr "Показывать иерархические зависимости процессов"
+
+msgid "Show process 'CPU %' column on startup"
+msgstr "Показывать столбец загрузки ЦПУ процессом в процентах при запуске"
+
+msgid "Show process 'CPU time' column on startup"
+msgstr "Показывать столбец времени занятости ЦПУ процессом при запуске"
+
+msgid "Show process 'PID' column on startup"
+msgstr "Показывать столбец PID процесса при запуске"
+
+msgid "Show process 'SELinux security context' column on startup"
+msgstr "Показывать столбец контекста SELinux процесса при запуске"
+
+msgid "Show process 'Waiting Channel' column on startup"
+msgstr "Показывать столбец ожидания в ядре при запуске"
+
+msgid "Show process 'X server memory' column on startup"
+msgstr "Показывать столбец памяти X-сервера для процесса при запуске"
+
+msgid "Show process 'arguments' column on startup"
+msgstr "Показывать столбец аргументов процесса при запуске"
+
+msgid "Show process 'estimated memory usage' column on startup"
+msgstr "Показывать столбец оценки использования памяти процессом при запуске"
+
+msgid "Show process 'name' column on startup"
+msgstr "Показывать столбец имени процесса при запуске"
+
+msgid "Show process 'nice' column on startup"
+msgstr "Показывать столбец приоритета процесса при запуске"
+
+msgid "Show process 'owner' column on startup"
+msgstr "Показывать столбец владельца процесса при запуске"
+
+msgid "Show process 'resident memory' column on startup"
+msgstr "Показывать столбец резидентной памяти процесса при запуске"
+
+msgid "Show process 'shared memory' column on startup"
+msgstr "Показывать столбец разделяемой памяти процесса при запуске"
+
+msgid "Show process 'start time' column on startup"
+msgstr "Показывать столбец времени запуска процесса при запуске"
+
+msgid "Show process 'status' column on startup"
+msgstr "Показывать столбец состояния процесса при запуске"
+
+msgid "Show process 'virtual memory' column on startup"
+msgstr "Показывать столбец виртуальной памяти процесса при запуске"
+
+msgid "Show process 'writable memory' column on startup"
+msgstr "Показывать столбец доступной для записи памяти процесса при запуске"
+
+msgid "Show process dependencies in tree form"
+msgstr "Показывать зависимости процессов в виде дерева"
+
+msgid "Show the System tab"
+msgstr "Показывать системную вкладку"
+
+msgid "Show user own process"
+msgstr "Отображать процессы текущего пользователя"
+
+msgid "Show warning dialog when killing processes"
+msgstr "Выводить диалог предупреждения при снятии процессов"
+
+msgid "Sleeping"
+msgstr "Ожидает"
+
+msgid "Solaris mode"
+msgstr "Режим Solaris"
+
+msgid "Solaris mode for CPU percentage"
+msgstr "Режим Solaris для загрузки ЦПУ в процентах"
+
+msgid "Started"
+msgstr "Запущено"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Stop process"
+msgstr "Остановить процесс"
+
+msgid "Stopped"
+msgstr "Остановлен"
+
+msgid "Swap"
+msgstr "Подкачка"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System Monitor"
+msgstr "Системный монитор"
+
+msgid "System Monitor Preferences"
+msgstr "Параметры системного монитора"
+
+msgid ""
+"The priority of a process is given by its nice value. A lower nice value "
+"corresponds to a higher priority."
+msgstr ""
+"Приоритет процесса задаётся уровнем nice. Меньшее значение nice "
+"соответствует более высокому приоритету."
+
+msgid "The selected color"
+msgstr "Выбранный цвет"
+
+msgid "The title of the color selection dialog"
+msgstr "Заголовок окна диалога выбора цвета"
+
+msgid "Time in milliseconds between updates of the devices list"
+msgstr "Время в миллисекундах между обновлениями списка устройств"
+
+msgid "Time in milliseconds between updates of the graphs"
+msgstr "Время в миллисекундах между обновлением графиков"
+
+msgid "Time in milliseconds between updates of the process view"
+msgstr "Время в миллисекундах между обновлением обзора процессов"
+
+msgid "Title"
+msgstr "Заголовок"
+
+msgid "Today %l:%M %p"
+msgstr "Сегодня %H:%M"
+
+msgid "Total"
+msgstr "Всего"
+
+msgid "Total Received"
+msgstr "Всего принято:"
+
+msgid "Total Sent"
+msgstr "Всего отправлено"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type of color picker"
+msgstr "Вид диалога выбора цвета"
+
+msgid "Uninterruptible"
+msgstr "Непрерываемый"
+
+msgid "Unknown CPU model"
+msgstr "Неизвестная модель ЦП"
+
+msgid "Used"
+msgstr "Использовано"
+
+msgid "User"
+msgstr "Пользователь"
+
+msgid "VM End"
+msgstr "Окончание ВП"
+
+msgid "VM Offset"
+msgstr "Смещение ВП"
+
+msgid "VM Size"
+msgstr "Размер ВП"
+
+msgid "VM Start"
+msgstr "Начало ВП"
+
+msgid "View current processes and monitor system state"
+msgstr ""
+"Программа для просмотра текущих процессов и мониторинга состояния системы"
+
+msgid "View the files opened by a process"
+msgstr "Просмотреть файлы, открытые процессом"
+
+msgid "Virtual Memory"
+msgstr "Виртуальная память"
+
+msgid "Waiting Channel"
+msgstr "Ожидание в ядре"
+
+msgid "Whether information about all filesystems should be displayed"
+msgstr "Должны ли отображаться сведения о файловой системе"
+
+msgid ""
+"Whether to display information about all filesystems (including types like "
+"'autofs' and 'procfs'). Useful for getting a list of all currently mounted "
+"filesystems."
+msgstr ""
+"Должны ли отображаться сведения обо всех файловых системах (включая такие, "
+"как autofs и procfs). Может быть полезным получить полный список всех "
+"смонтированных файловых систем."
+
+msgid "Width of process 'CPU %' column"
+msgstr "Ширина столбца процентной загрузки ЦПУ"
+
+msgid "Width of process 'CPU time' column"
+msgstr "Ширина столбца времени занятости ЦПУ процессом"
+
+msgid "Width of process 'PID' column"
+msgstr "Ширина столбца PID процесса"
+
+msgid "Width of process 'SELinux security context' column"
+msgstr "Ширина столбца контекста SELinux процесса"
+
+msgid "Width of process 'Waiting Channel' column"
+msgstr "Ширина столбца ожидания в ядре"
+
+msgid "Width of process 'X server memory' column"
+msgstr "Ширина столбца памяти X-сервера для процесса"
+
+msgid "Width of process 'arguments' column"
+msgstr "Ширина столбца аргументов процесса"
+
+msgid "Width of process 'estimated memory usage' column"
+msgstr "Ширина столбца оценки использования памяти процессом"
+
+msgid "Width of process 'name' column"
+msgstr "Ширина столбца имени процесса"
+
+msgid "Width of process 'nice' column"
+msgstr "Ширина столбца приоритета процесса"
+
+msgid "Width of process 'owner' column"
+msgstr "Ширина столбца владельца процесса"
+
+msgid "Width of process 'resident memory' column"
+msgstr "Ширина столбца резидентной памяти процесса"
+
+msgid "Width of process 'shared memory' column"
+msgstr "Ширина столбца разделяемой памяти процесса"
+
+msgid "Width of process 'start time' column"
+msgstr "Ширина столбца времени запуска процесса"
+
+msgid "Width of process 'status' column"
+msgstr "Ширина столбца состояния процесса"
+
+msgid "Width of process 'virtual memory' column"
+msgstr "Ширина столбца виртуальной памяти процесса"
+
+msgid "Width of process 'writable memory' column"
+msgstr "Ширина столбца доступной для записи памяти процесса"
+
+msgid "Writable Memory"
+msgstr "Записываемая память"
+
+msgid "X Server Memory"
+msgstr "Память X-сервера"
+
+msgid "Yesterday %l:%M %p"
+msgstr "Вчера %H:%M"
+
+msgid "Zombie"
+msgstr "Зомби"
+
+msgid "_Active Processes"
+msgstr "_Активные процессы"
+
+msgid "_Change Priority..."
+msgstr "Измененить приори_тет..."
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Continue Process"
+msgstr "Продол_жить процесс"
+
+msgid "_Dependencies"
+msgstr "_Зависимости"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_End Process"
+msgstr "Завер_шить процесс"
+
+msgid "_Files opened by process \"%s\" (PID %u):"
+msgstr "Файлы, открытые процессом «%s» (PID %u):"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Kill Process"
+msgstr "Сн_ять процесс"
+
+msgid "_Memory Maps"
+msgstr "_Карты памяти"
+
+msgid "_Memory maps for process \"%s\" (PID %u):"
+msgstr "_Карты памяти для процесса «%s» (PID %u):"
+
+msgid "_Monitor"
+msgstr "_Монитор"
+
+msgid "_Name contains:"
+msgstr "_Имя содержит:"
+
+msgid "_Nice value:"
+msgstr "_Уровень приоритета:"
+
+msgid "_Refresh"
+msgstr "_Обновить"
+
+msgid "_Stop Process"
+msgstr "О_становить процесс"
+
+msgid "_Update interval in seconds:"
+msgstr "_Интервал обновления в секундах:"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "file"
+msgstr "файл"
+
+msgid "local socket"
+msgstr "локальный сокет"
+
+msgid "pipe"
+msgstr "канал"
+
+msgid "translator-credits"
+msgstr ""
+"Сергей Воложанин\n"
+"Валёк Филиппов <frob@df.ru>\n"
+"Дмитрий Мастрюков <dmitry@taurussoft.org>\n"
+"Андрей Носенко <awn@bcs.zp.ua>\n"
+"Леонид Кантер <leon@asplinux.ru>\n"
+"Александр Сигачёв <ajvol2@gmail.com>"
+
+msgid "unknown type"
+msgstr "неизвестный тип"

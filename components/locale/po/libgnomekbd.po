@@ -1,0 +1,221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=libgnomekbd&component=general\n"
+"POT-Creation-Date: 2010-09-20 10:13+0000\n"
+"PO-Revision-Date: 2010-09-21 10:41+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid ""
+"A collection of scripts to run whenever the keyboard state is reloaded. "
+"Useful for re-applying xmodmap based adjustments"
+msgstr ""
+"Набор сценариев, запускаемых при перенастройке состояния клавиатуры. "
+"Используется для внесения исправлений в xmodmap"
+
+msgid "A list of modmap files available in the $HOME directory."
+msgstr "Список modmap-файлов, доступных в домашнем каталоге."
+
+msgid "Activate more plugins"
+msgstr "Включить дополнительные модули"
+
+msgid "Active _plugins:"
+msgstr "Акт_ивные модули:"
+
+msgid "Add Plugin"
+msgstr "Добавить модуль"
+
+msgid "Close the dialog"
+msgstr "Закрыть диалог"
+
+msgid "Configure the selected plugin"
+msgstr "Настроить выбранный модуль"
+
+msgid "Deactivate selected plugin"
+msgstr "Выключить выбранный модуль"
+
+msgid "Decrease the plugin priority"
+msgstr "Уменьшить приоритет модуля"
+
+msgid "Default group, assigned on window creation"
+msgstr "Группа по умолчанию, назначаемая при создании окна"
+
+msgid "Enable/disable installed plugins"
+msgstr "Включить/выключить установленные модули"
+
+msgid "Failed to init GConf: %s\n"
+msgstr "Сбой при инициализации GConf: %s\n"
+
+msgid "Increase the plugin priority"
+msgstr "Увеличить приоритет модуля"
+
+msgid "Indicator:"
+msgstr "Индикатор:"
+
+msgid "Keep and manage separate group per window"
+msgstr "Сохранять и поддерживать разные группы, пооконно"
+
+msgid "Keyboard Indicator Plugins"
+msgstr "Модули клавиатурного индикатора"
+
+msgid "Keyboard Indicator Test (%s)"
+msgstr "Тест клавиатурного индикатора (%s)"
+
+msgid "Keyboard Indicator plugins"
+msgstr "Модули клавиатурного индикатора"
+
+msgid "Keyboard Layout"
+msgstr "Раскладка клавиатуры"
+
+msgid "Keyboard Layout \"%s\""
+msgstr "Раскладка клавиатуры «%s»"
+
+msgid "Keyboard Update Handlers"
+msgstr "Обработчики обновления клавиатуры"
+
+msgid "Keyboard layout"
+msgstr "Раскладка клавиатуры"
+
+msgid ""
+"Keyboard layout \"%s\"\n"
+"Copyright &#169; X.Org Foundation and XKeyboardConfig contributors\n"
+"For licensing see package metadata"
+msgstr ""
+"Клавиатурная раскладка «%s»\n"
+"Авторские права © X.Org Foundation и авторы XKeyboardConfig\n"
+"Сведения о лицензировании находятся в метаданных пакета"
+
+msgid "Keyboard model"
+msgstr "Модель клавиатуры"
+
+msgid "Keyboard options"
+msgstr "Дополнительные параметры клавиатуры"
+
+msgid "Load exotic, rarely used layouts and options"
+msgstr "Загружать редко используемые раскладки и параметры"
+
+msgid "Load extra configuration items"
+msgstr "Загружать дополнительные параметры"
+
+msgid "No description."
+msgstr "Нет описания."
+
+msgid "Save/restore indicators together with layout groups"
+msgstr "Сохранять/восстанавливать индикаторы вместе с группами раскладок"
+
+msgid "Secondary groups"
+msgstr "Второстепенные группы"
+
+msgid "Show flags in the applet"
+msgstr "Показывать флаги в апплете"
+
+msgid "Show flags in the applet to indicate the current layout"
+msgstr "Показывать флаги в апплете для указания текущей раскладки"
+
+msgid "Show layout names instead of group names"
+msgstr "Показывать названия раскладок вместо названий групп"
+
+msgid ""
+"Show layout names instead of group names (only for versions of XFree "
+"supporting multiple layouts)"
+msgstr ""
+"Показывать названия раскладок вместо названий групп (только для версий "
+"XFree, поддерживающих множественные раскладки)"
+
+msgid "Suppress the \"X sysconfig changed\" warning message"
+msgstr "Подавить вывод предупреждения «Системная конфигурация X изменена»"
+
+msgid "The Keyboard Preview, X offset"
+msgstr "Просмотр клавиатуры, смещение по X"
+
+msgid "The Keyboard Preview, Y offset"
+msgstr "Просмотр клавиатуры, смещение по Y"
+
+msgid "The Keyboard Preview, height"
+msgstr "Просмотр клавиатуры, высота"
+
+msgid "The Keyboard Preview, width"
+msgstr "Просмотр клавиатуры, ширина"
+
+msgid "The background color"
+msgstr "Цвет фона"
+
+msgid "The background color for the layout indicator"
+msgstr "Цвет фона для раскладки клавиатуры"
+
+msgid "The font family"
+msgstr "Семейство шрифтов"
+
+msgid "The font family for the layout indicator"
+msgstr "Семейство шрифтов для индикатора раскраски"
+
+msgid "The font size"
+msgstr "Размер шрифта"
+
+msgid "The font size for the layout indicator"
+msgstr "Размер шрифта для индикатора раскладки"
+
+msgid "The foreground color"
+msgstr "Цвет переднего плана"
+
+msgid "The foreground color for the layout indicator"
+msgstr "Цвет переднего плана для индикатора раскладки"
+
+msgid "The list of active plugins"
+msgstr "Список доступных модулей"
+
+msgid "The list of enabled Keyboard Indicator plugins"
+msgstr "Список включённых модулей клавиатурного индикатора"
+
+msgid "There was an error loading an image: %s"
+msgstr "Произошла ошибка при загрузке изображения: %s"
+
+msgid "Unable to open help file"
+msgstr "Не удалось открыть файл справки"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "XKB initialization error"
+msgstr "Ошибка инициализации XKB"
+
+msgid "_Available plugins:"
+msgstr "Д_оступные модули:"
+
+msgid "keyboard layout"
+msgstr "раскладка клавиатуры"
+
+msgid "keyboard model"
+msgstr "модуль клавиатуры"
+
+msgid "layout \"%s\""
+msgid_plural "layouts \"%s\""
+msgstr[0] "раскладка «%s»"
+msgstr[1] "раскладки «%s»"
+msgstr[2] "раскладки «%s»"
+
+msgid "model \"%s\", %s and %s"
+msgstr "модель «%s», %s и %s"
+
+msgid "modmap file list"
+msgstr "список modmap-файлов"
+
+msgid "no layout"
+msgstr "нет раскладки"
+
+msgid "no options"
+msgstr "нет параметров"
+
+msgid "option \"%s\""
+msgid_plural "options \"%s\""
+msgstr[0] "параметр «%s»"
+msgstr[1] "параметры «%s»"
+msgstr[2] "параметры «%s»"

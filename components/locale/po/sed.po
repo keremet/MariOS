@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sed 4.2.0\n"
+"Report-Msgid-Bugs-To: bug-gnu-utils@gnu.org\n"
+"POT-Creation-Date: 2012-12-22 14:36+0100\n"
+"PO-Revision-Date: 2008-01-17 23:34+0200\n"
+"Last-Translator: Pavel Maryanov <acid_jack@ukr.net>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+
+msgid ""
+"\n"
+"If no -e, --expression, -f, or --file option is given, then the first\n"
+"non-option argument is taken as the sed script to interpret.  All\n"
+"remaining arguments are names of input files; if no input files are\n"
+"specified, then the standard input is read.\n"
+"\n"
+msgstr ""
+"\n"
+"Если опция -e, --expression, -f, или --file не указана, тогда первый\n"
+"неопциональный аргумент берется как скрипт sed для интерпретации. Все\n"
+"оставшиеся аргументы являются именами входных файлов; если входные\n"
+"файлы не указаны, тогда читается стантартный ввод.\n"
+"\n"
+
+msgid "      --help     display this help and exit\n"
+msgstr "      --help     вывод этой справки и выход\n"
+
+msgid "      --version  output version information and exit\n"
+msgstr "      --version  вывод информации о версии и выход\n"
+
+msgid ""
+"  --follow-symlinks\n"
+"                 follow symlinks when processing in place\n"
+msgstr ""
+"  --follow-symlinks\n"
+"                 переходить по символьным ссылкам при обработке на месте\n"
+
+msgid ""
+"  --posix\n"
+"                 disable all GNU extensions.\n"
+msgstr ""
+"  --posix\n"
+"                 отключение всех расширений GNU.\n"
+
+msgid ""
+"  -R, --regexp-perl\n"
+"                 use Perl 5's regular expressions syntax in the script.\n"
+msgstr ""
+"  -R, --regexp-perl\n"
+"                 использование в скрипте синтаксиса регулярных выражений "
+"Perl 5.\n"
+
+msgid ""
+"  -b, --binary\n"
+"                 open files in binary mode (CR+LFs are not processed "
+"specially)\n"
+msgstr ""
+"  -b, --binary\n"
+"                 открывать файлы в бинарном режиме (CR+LF не "
+"обрабатываются)\n"
+
+msgid ""
+"  -e script, --expression=script\n"
+"                 add the script to the commands to be executed\n"
+msgstr ""
+"  -e script, --expression=script\n"
+"                 добавление скрипта в исполняемые команды\n"
+
+msgid ""
+"  -f script-file, --file=script-file\n"
+"                 add the contents of script-file to the commands to be "
+"executed\n"
+msgstr ""
+"  -f script-file, --file=script-file\n"
+"                 добавление содержимого файла-скрипта в исполняемые команды\n"
+
+msgid ""
+"  -l N, --line-length=N\n"
+"                 specify the desired line-wrap length for the `l' command\n"
+msgstr ""
+"  -l N, --line-length=N\n"
+"                 указание желаемой длины переносимой строки для команды `l'\n"
+
+msgid ""
+"  -n, --quiet, --silent\n"
+"                 suppress automatic printing of pattern space\n"
+msgstr ""
+"  -n, --quiet, --silent\n"
+"                 не выводить автоматически промежутки\n"
+
+msgid ""
+"  -r, --regexp-extended\n"
+"                 use extended regular expressions in the script.\n"
+msgstr ""
+"  -r, --regexp-extended\n"
+"                 использование в скрипте расширенных регулярных выражений.\n"
+
+msgid ""
+"  -s, --separate\n"
+"                 consider files as separate rather than as a single "
+"continuous\n"
+"                 long stream.\n"
+msgstr ""
+"  -s, --separate\n"
+"                 допущение, что файлы разделены, а не в виде одного\n"
+"                 длинного непрерывного потока.\n"
+
+msgid ""
+"  -u, --unbuffered\n"
+"                 load minimal amounts of data from the input files and "
+"flush\n"
+"                 the output buffers more often\n"
+msgstr ""
+"  -u, --unbuffered\n"
+"                 загрузка минимального объема данных из входных файлов\n"
+"                 и более частый сброс на диск выходных буферов\n"
+
+msgid "%s: -e expression #%lu, char %lu: %s\n"
+msgstr "%s: -e выражение #%lu, символ %lu: %s\n"
+
+msgid "%s: can't read %s: %s\n"
+msgstr "%s: невозможно прочитать %s: %s\n"
+
+msgid "%s: file %s line %lu: %s\n"
+msgstr "%s: файл %s строка %lu: %s\n"
+
+msgid ": doesn't want any addresses"
+msgstr "`:' не допускает указания каких-либо адресов"
+
+msgid "Invalid back reference"
+msgstr "Недопустимая обратная ссылка"
+
+msgid "Invalid character class name"
+msgstr "Недопустимое имя для класса символа"
+
+msgid "Invalid collation character"
+msgstr "Недопустимый символ сравнения"
+
+msgid "Invalid content of \\{\\}"
+msgstr "Недопустимое содержимое в \\{\\}"
+
+msgid "Invalid preceding regular expression"
+msgstr "Недопустимое предшествующее регулярное выражение"
+
+msgid "Invalid range end"
+msgstr "Недопустимое окончание диапазона"
+
+msgid "Invalid regular expression"
+msgstr "Недопустимое регулярное выражение"
+
+msgid "Memory exhausted"
+msgstr "Память исчерпана"
+
+msgid "No match"
+msgstr "Нет соотвествия"
+
+msgid "No previous regular expression"
+msgstr "Нет предыдущего регулярного выражения"
+
+msgid "Premature end of regular expression"
+msgstr "Преждевременное окончание регулярного выражения"
+
+msgid "Regular expression too big"
+msgstr "Регулярное выражение слишком большое"
+
+msgid "Success"
+msgstr "Успешно"
+
+msgid "Trailing backslash"
+msgstr "Завершающая обратная косая черта"
+
+msgid "Unmatched ( or \\("
+msgstr "Непарный символ ( or \\("
+
+msgid "Unmatched ) or \\)"
+msgstr "Непарный символ ) или \\)"
+
+msgid "Unmatched [ or [^"
+msgstr "Непарный символ [ или [^"
+
+msgid "Unmatched \\{"
+msgstr "Непарный символ \\{"
+
+msgid ""
+"Usage: %s [OPTION]... {script-only-if-no-other-script} [input-file]...\n"
+"\n"
+msgstr ""
+"Использование: %s [ОПЦИЯ]... {только-скрипт-если-нет-другого-скрипта} "
+"[входной-файл]...\n"
+"\n"
+
+msgid "`e' command not supported"
+msgstr "команда `e' не поддерживается"
+
+msgid "`}' doesn't want any addresses"
+msgstr "`}' не допускает указания каких-либо адресов"
+
+msgid "can't find label for jump to `%s'"
+msgstr "невозможно найти метку для перехода к `%s'"
+
+msgid "cannot remove %s: %s"
+msgstr "невозможно удалить %s: %s"
+
+msgid "cannot rename %s: %s"
+msgstr "невозможно переименовать %s: %s"
+
+msgid "cannot specify modifiers on empty regexp"
+msgstr "невозможно указать модификаторы в пустом регулярном выражении"
+
+msgid "cannot stat %s: %s"
+msgstr "невозможно выполнить stat для %s: %s"
+
+msgid "command only uses one address"
+msgstr "команда использует только один адрес"
+
+msgid "comments don't accept any addresses"
+msgstr "комментарии не допускают указания каких-либо адресов"
+
+msgid "couldn't attach to %s: %s"
+msgstr "невозможно прикрепить к %s: %s"
+
+msgid "couldn't edit %s: is a terminal"
+msgstr "невозможно редактировать %s: это терминал"
+
+msgid "couldn't edit %s: not a regular file"
+msgstr "невозможно редактировать %s: это не обычный файл"
+
+msgid "couldn't follow symlink %s: %s"
+msgstr "невозможно перейти по символьной ссылке %s: %s"
+
+msgid "couldn't open file %s: %s"
+msgstr "невозможно открыть файл %s: %s"
+
+msgid "couldn't open temporary file %s: %s"
+msgstr "невозможно открыть временный файл %s: %s"
+
+msgid "couldn't write %d item to %s: %s"
+msgid_plural "couldn't write %d items to %s: %s"
+msgstr[0] "невозможно записать %d элемент в %s: %s"
+msgstr[1] "невозможно записать %d элементов в %s: %s"
+
+msgid "delimiter character is not a single-byte character"
+msgstr "символ-разделитель не является однобайтовым символом"
+
+msgid "error in subprocess"
+msgstr "ошибка в подпроцессе"
+
+msgid "expected \\ after `a', `c' or `i'"
+msgstr "ожидалась \\ после `a', `c' или `i'"
+
+msgid "expected newer version of sed"
+msgstr "ожидалась более новая версия sed"
+
+msgid "extra characters after command"
+msgstr "лишние символы после команды"
+
+msgid "invalid reference \\%d on `s' command's RHS"
+msgstr "недопустимая ссылка \\%d на RHS команды `s'"
+
+msgid "invalid usage of +N or ~N as first address"
+msgstr "использование +N или ~N в качестве первого адреса недопустимо"
+
+msgid "invalid usage of line address 0"
+msgstr "недопустимое использование строки адреса 0"
+
+msgid "missing command"
+msgstr "отсутствует команда"
+
+msgid "multiple `!'s"
+msgstr "несколько символов `!'"
+
+msgid "multiple `g' options to `s' command"
+msgstr "несколько модификаторов `g' с командой `s'"
+
+msgid "multiple `p' options to `s' command"
+msgstr "несколько модификаторов `p' с командой `s'"
+
+msgid "multiple number options to `s' command"
+msgstr "несколько числовых модификаторов с командой `s'"
+
+msgid "no input files"
+msgstr "отсутствуют входные файлы"
+
+msgid "no previous regular expression"
+msgstr "нет предыдущего регулярного выражения"
+
+msgid "number option to `s' command may not be zero"
+msgstr "числовой модификатор для команды `s' не может быть нулевым"
+
+msgid "option `e' not supported"
+msgstr "опция `e' не поддерживается"
+
+msgid "read error on %s: %s"
+msgstr "ошибка чтения %s: %s"
+
+msgid "strings for `y' command are different lengths"
+msgstr "строки для команды `y' имеют разную длину"
+
+msgid "unexpected `,'"
+msgstr "непредвиденный символ `,'"
+
+msgid "unexpected `}'"
+msgstr "непредвиденный символ `}'"
+
+msgid "unknown command: `%c'"
+msgstr "неизвестная команда: `%c'"
+
+msgid "unknown option to `s'"
+msgstr "неизвестный модификатор к `s'"
+
+msgid "unmatched `{'"
+msgstr "непарный символ `{'"
+
+msgid "unterminated `s' command"
+msgstr "незавершенная команда `s'"
+
+msgid "unterminated `y' command"
+msgstr "незавершенная команда `y'"
+
+msgid "unterminated address regex"
+msgstr "незавершенное адресное регулярное выражение"

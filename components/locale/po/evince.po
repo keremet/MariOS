@@ -1,0 +1,1226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: evince trunk\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=evince&component=general\n"
+"POT-Creation-Date: 2010-09-21 20:17+0000\n"
+"PO-Revision-Date: 2010-09-22 12:27+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "%.0f × %.0f mm"
+msgstr "%.0f × %.0f мм"
+
+msgid "%.2f × %.2f inch"
+msgstr "%.2f × %.2f дюймов"
+
+msgid "%3d%% remaining to search"
+msgstr "%3d%% остаётся для поиска"
+
+msgid "%d found on this page"
+msgid_plural "%d found on this page"
+msgstr[0] "%d совпадение"
+msgstr[1] "%d совпадения"
+msgstr[2] "%d совпадений"
+
+msgid "%d of %d documents converted"
+msgstr "%d из %d документов преобразовано"
+
+msgid "%d pending job in queue"
+msgid_plural "%d pending jobs in queue"
+msgstr[0] "%d задание ожидает в очереди"
+msgstr[1] "%d задания ожидают в очереди"
+msgstr[2] "%d заданий ожидает в очереди"
+
+msgid "%s — Password Required"
+msgstr "%s ― требуется пароль"
+
+msgid "%s, Landscape (%s)"
+msgstr "%s, повёрнутая (%s)"
+
+msgid "%s, Portrait (%s)"
+msgstr "%s, прямая (%s)"
+
+msgid "(%d of %d)"
+msgstr "(%d из %d)"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "1600%"
+msgstr "1600%"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3200%"
+msgstr "3200%"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "6400%"
+msgstr "6400%"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "800%"
+msgstr "800%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Add text annotation"
+msgstr "Добавить текст примечания"
+
+msgid "Adjust the zoom level"
+msgstr "Изменить масштаб"
+
+msgid "All Documents"
+msgstr "Все документы"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "Annotation Properties"
+msgstr "Свойства примечаний"
+
+msgid "Annotation Properties…"
+msgstr "Свойства примечаний…"
+
+msgid "Annotations"
+msgstr "Примечания"
+
+msgid "Application does not accept documents on command line"
+msgstr "Приложение не поддерживает открытие документов через командную строку"
+
+msgid "Attachments"
+msgstr "Вложения"
+
+msgid "Author:"
+msgstr "Автор:"
+
+msgid "Auto Rotate and Center"
+msgstr "Автоматическое вращение и центрирование"
+
+msgid "Auto_scroll"
+msgstr "Про_кручивать автоматически"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Best Fit"
+msgstr "Уместить в окне"
+
+msgid ""
+"Boolean options available: true enables thumbnailing and false disables the "
+"creation of new thumbnails"
+msgstr ""
+"Возможно логическое значение: true включает создание образцов, а false "
+"выключает создание новых образцов"
+
+msgid "By extension"
+msgstr "По расширению"
+
+msgid "C_ase Sensitive"
+msgstr "Учитывать _регистр"
+
+msgid "Can't find an appropriate command to decompress this type of comic book"
+msgstr ""
+"Не удалось найти подходящей команды для разжатия данного типа книги комиксов"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Невозможно передать адреса документов записи 'Type=Link' файла desktop"
+
+msgid "Cancel _print and Close"
+msgstr "Отменить _печать и закрыть"
+
+msgid "Cannot find ZIP signature"
+msgstr "Не удалось найти признак файла ZIP"
+
+msgid "Cannot find file in the ZIP archive"
+msgstr "Не удалось найти файл в архиве ZIP"
+
+msgid "Cannot open the file"
+msgstr "Не удалось открыть файл"
+
+msgid "Cannot read data from file"
+msgstr "Не удалось прочитать данные из файла"
+
+msgid "Circle"
+msgstr "Обвести"
+
+msgid "Close"
+msgstr "Закрыть"
+
+msgid "Close _after Printing"
+msgstr "Закрыть п_осле печати"
+
+msgid "Close _without Saving"
+msgstr "Закрыть _без сохранения"
+
+msgid "Color:"
+msgstr "Цвет:"
+
+msgid "Comic Books"
+msgstr "Книги комиксов"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Converting %s"
+msgstr "Преобразуется %s"
+
+msgid "Converting metadata"
+msgstr "Преобразование метаданных"
+
+msgid "Copy _Image"
+msgstr "Копировать _изображение"
+
+msgid "Couldn't find appropriate format to save image"
+msgstr "Не удалось найти подходящий формат для сохранения изображения"
+
+msgid "Couldn't open attachment “%s”"
+msgstr "Не удалось открыть вложение  «%s»"
+
+msgid "Couldn't open attachment “%s”: %s"
+msgstr "Не удалось открыть вложение  «%s»: %s"
+
+msgid "Couldn't save attachment “%s”: %s"
+msgstr "Не удалось сохранить вложение «%s»: %s"
+
+msgid "Created:"
+msgstr "Создан:"
+
+msgid "Creator:"
+msgstr "Создатель:"
+
+msgid "Cross"
+msgstr "Зачеркнуть"
+
+msgid "DVI Documents"
+msgstr "Документы формата DVI"
+
+msgid "DVI document has incorrect format"
+msgstr "Документ DVI имеет некорректный формат"
+
+msgid "Delete the temporary file"
+msgstr "Удалить временный файл"
+
+msgid "Disable connection to session manager"
+msgstr "Отключить соединение с менеджером сеансов"
+
+msgid "DjVu Documents"
+msgstr "Документы формата DjVu"
+
+msgid "DjVu document has incorrect format"
+msgstr "Документ DjVu имеет некорректный формат"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Document License"
+msgstr "Лицензия документа"
+
+msgid "Document View"
+msgstr "Отображение документа"
+
+msgid "Document Viewer"
+msgstr "Просмотр документов"
+
+msgid ""
+"Document Viewer\n"
+"Using %s (%s)"
+msgstr ""
+"Просмотр документов\n"
+"Использует %s (%s)"
+
+msgid ""
+"Document contains form fields that have been filled out. If you don't save a "
+"copy, changes will be permanently lost."
+msgstr ""
+"Документ содержит заполненные поля форм. Если не сохранить копию, изменения "
+"будут утеряны."
+
+msgid ""
+"Document contains new or modified annotations. If you don't save a copy, "
+"changes will be permanently lost."
+msgstr ""
+"Документ содержит новые или изменённые примечания. Если не сохранить копию, "
+"изменения будут утеряны."
+
+msgid "Document contains no annotations"
+msgstr "Документ не содержит примечаний"
+
+msgid "Downloading document (%d%%)"
+msgstr "Загрузка документа (%d%%)"
+
+msgid "Embedded"
+msgstr "Встроенный"
+
+msgid "Embedded subset"
+msgstr "Встроенное подмножество"
+
+msgid "Enable thumbnailing of PDF Documents"
+msgstr "Включить создание образцов для документов PDF"
+
+msgid "End of presentation. Click to exit."
+msgstr "Конец презентации. Нажмите для выхода."
+
+msgid "Enlarge the document"
+msgstr "Увеличить размер страницы"
+
+msgid "Enter password"
+msgstr "Введите пароль"
+
+msgid "Error %s"
+msgstr "Ошибка %s"
+
+msgid ""
+"Error launching the command “%s” in order to decompress the comic book: %s"
+msgstr "Ошибка при запуске программы «%s» для распаковки книги комиксов: %s"
+
+msgid "Evince"
+msgstr "Evince"
+
+msgid ""
+"Evince is distributed in the hope that it will be useful, but WITHOUT ANY "
+"WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS "
+"FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more "
+"details.\n"
+msgstr ""
+"Evince распространяется в надежде на то, что приложение будет полезно, но "
+"БЕЗ ВСЯКИХ ГАРАНТИЙ; не гарантируется даже ПРИГОДНОСТЬ или СООТВЕТСТВИЕ "
+"КАКИМ-ЛИБО ТРЕБОВАНИЯМ. Для получения дополнительной информации ознакомьтесь "
+"с GNU General Public License.\n"
+
+msgid ""
+"Evince is free software; you can redistribute it and/or modify it under the "
+"terms of the GNU General Public License as published by the Free Software "
+"Foundation; either version 2 of the License, or (at your option) any later "
+"version.\n"
+msgstr ""
+"Evince ― свободное программное обеспечение. Вы можете распространять или "
+"изменять его при условиях соответствия GNU General Public License "
+"опубликованной Free Software Foundation; либо версии 2 лицензии, либо (на "
+"ваше усмотрение) любой более поздней версии.\n"
+
+msgid "Expand the window to fill the screen"
+msgstr "Показывать окно на весь экран"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "Failed to create a temporary directory: %s"
+msgstr "Не удалось создать временный каталог: %s"
+
+msgid "Failed to create a temporary file: %s"
+msgstr "Не удалось создать временный файл: %s"
+
+msgid "Failed to load document “%s”"
+msgstr "Не удалось открыть документ «%s»"
+
+msgid "Failed to load remote file."
+msgstr "Не удалось загрузить файл извне."
+
+msgid "Failed to print document"
+msgstr "Не удалось напечатать документ"
+
+msgid "Failed to print page %d: %s"
+msgstr "Не удалось напечатать страницу %d: %s"
+
+msgid "Failed to reload document."
+msgstr "Не удалось обновить документ."
+
+msgid "Failed to save document “%s”"
+msgstr "Не удалось сохранить документ «%s»"
+
+msgid "File corrupted"
+msgstr "Файл повреждён"
+
+msgid "File is not a valid .desktop file"
+msgstr "Файл не является корректным файлом .desktop"
+
+msgid "File type %s (%s) is not supported"
+msgstr "Тип файлов %s (%s) не поддерживается"
+
+msgid "Find"
+msgstr "Найти"
+
+msgid "Find Ne_xt"
+msgstr "Найти _следующее"
+
+msgid "Find Pre_vious"
+msgstr "Найти пр_едыдущее"
+
+msgid "Find a word or phrase in the document"
+msgstr "Найти слово или фразу в документе"
+
+msgid "Find next occurrence of the search string"
+msgstr "Найти следующее вхождение слова"
+
+msgid "Find previous occurrence of the search string"
+msgstr "Найти предыдущее вхождение строки"
+
+msgid "Find:"
+msgstr "Найти:"
+
+msgid "Finishing…"
+msgstr "Завершение…"
+
+msgid "Fit Page Width"
+msgstr "По ширине страницы"
+
+msgid "Fit Page _Width"
+msgstr "По _ширине страницы"
+
+msgid "Fit Width"
+msgstr "По ширине страницы"
+
+msgid "Fit to Printable Area"
+msgstr "Уместить в область печати"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid "Forget password _immediately"
+msgstr "_Немедленно забыть пароль"
+
+msgid "Format:"
+msgstr "Формат:"
+
+msgid "Further Information"
+msgstr "Дополнительная информация"
+
+msgid "GNOME Document Previewer"
+msgstr "Предварительный просмотр документов"
+
+msgid "GNOME Document Viewer"
+msgstr "Просмотр документов"
+
+msgid "Gathering font information… %3d%%"
+msgstr "Собирается информация о шрифтах… %3d%%"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Go to %s on file “%s”"
+msgstr "Перейти к %s в файле «%s»"
+
+msgid "Go to file “%s”"
+msgstr "Перейти к файлу «%s»"
+
+msgid "Go to first page"
+msgstr "Перейти к первой странице"
+
+msgid "Go to last page"
+msgstr "Перейти к последней странице"
+
+msgid "Go to next page"
+msgstr "Перейти к следующей странице"
+
+msgid "Go to page"
+msgstr "Перейти к странице"
+
+msgid "Go to page %s"
+msgstr "Перейти к странице %s"
+
+msgid "Go to previous page"
+msgstr "Перейти к предыдущей странице"
+
+msgid "Go to the first page"
+msgstr "Перейти к первой странице"
+
+msgid "Go to the last page"
+msgstr "Перейти к последней странице"
+
+msgid "Go to the next page"
+msgstr "Перейти к следующей странице"
+
+msgid "Go to the previous page"
+msgstr "Перейти к предыдущей странице"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon:"
+msgstr "Значок:"
+
+msgid "If you close the window, pending print jobs will not be printed."
+msgstr ""
+"Если вы закроете окно, задания на печать, поставленные в очередь, не будут "
+"выполнены."
+
+msgid "Impress Slides"
+msgstr "Слайды Impress"
+
+msgid "Index"
+msgstr "Содержание"
+
+msgid "Initial window state:"
+msgstr "Первоначальное состояние окна:"
+
+msgid "Insert"
+msgstr "Вставить"
+
+msgid "Invalid ZIP file"
+msgstr "Некорректный файл формата ZIP"
+
+msgid "Invalid document"
+msgstr "Некорректный документ"
+
+msgid "Invalid page selection"
+msgstr "Выбрана неправильная страница"
+
+msgid "Jump to page:"
+msgstr "Перейти к странице:"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Keywords:"
+msgstr "Ключевые слова:"
+
+msgid "Launch %s"
+msgstr "Запустить %s"
+
+msgid "Layers"
+msgstr "Слои"
+
+msgid "Leave Fullscreen"
+msgstr "Выйти из полноэкранного режима"
+
+msgid "Leave fullscreen mode"
+msgstr "Выйти из полноэкранного режима"
+
+msgid "List"
+msgstr "Список"
+
+msgid "Loading document from “%s”"
+msgstr "Загрузка документа из «%s»"
+
+msgid "Loading…"
+msgstr "Загрузка…"
+
+msgid "Location:"
+msgstr "Местонахождение:"
+
+msgid "Make the current document fill the window"
+msgstr "Масштабировать документ для соответствия окну"
+
+msgid "Make the current document fill the window width"
+msgstr "Масштабировать документ для соответствия ширине окна"
+
+msgid "Modified:"
+msgstr "Изменён:"
+
+msgid "Move across visited pages"
+msgstr "Перемещаться по предыдущим страницам"
+
+msgid "Move the selected item on the toolbar"
+msgstr "Переместить выбранный элемент на панель инструментов"
+
+msgid "Multi file ZIPs are not supported"
+msgstr "Многофайловые архивы ZIP не поддерживаются"
+
+msgid "NUMBER"
+msgstr "НОМЕР"
+
+msgid "Navigation"
+msgstr "Перемещение"
+
+msgid "New Paragraph"
+msgstr "Новый параграф"
+
+msgid "Next"
+msgstr "Следующая"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No error"
+msgstr "Нет ошибки"
+
+msgid "No files in archive"
+msgstr "Файлы в архиве отсутствуют"
+
+msgid "No images found in archive %s"
+msgstr "В архиве %s не найдено изображений"
+
+msgid "No name"
+msgstr "Без названия"
+
+msgid "None"
+msgstr "Отсутствует"
+
+msgid "Not a comic book MIME type: %s"
+msgstr "Тип MIME документа не относится к комиксам: %s"
+
+msgid "Not a launchable item"
+msgstr "Незапускаемый объект"
+
+msgid "Not embedded"
+msgstr "Внешний"
+
+msgid "Not enough memory"
+msgstr "Недостаточно памяти"
+
+msgid "Not found"
+msgstr "Не найдено"
+
+msgid "Note"
+msgstr "Заметка"
+
+msgid "Number of Pages:"
+msgstr "Число страниц:"
+
+msgid "Op_en a Copy"
+msgstr "Открыть _копию"
+
+msgid "Opaque"
+msgstr "Непрозрачность"
+
+msgid "Open"
+msgstr "Открыть"
+
+msgid "Open Document"
+msgstr "Открыть документ"
+
+msgid "Open a copy of the current document in a new window"
+msgstr "Открыть копию текущего документа в новом окне"
+
+msgid "Open a recently used document"
+msgstr "Открыть недавно использовавшийся документ"
+
+msgid "Open an existing document"
+msgstr "Открыть документ"
+
+msgid "Open in New _Window"
+msgstr "Открыть в _новом окне"
+
+msgid "Optimized:"
+msgstr "Оптимизация:"
+
+msgid "Override document restrictions"
+msgstr "Игнорировать ограничения"
+
+msgid "Override document restrictions, like restriction to copy or to print."
+msgstr ""
+"Игнорировать ограничения документа, например, ограничение на копирование и "
+"печать."
+
+msgid "PAGE"
+msgstr "СТРАНИЦА"
+
+msgid "PDF Documents"
+msgstr "Документы формата PDF"
+
+msgid "P_roperties"
+msgstr "_Свойства"
+
+msgid "Page"
+msgstr "Страница"
+
+msgid "Page %d"
+msgstr "Страница %d"
+
+msgid "Page %s"
+msgstr "Страница %s"
+
+msgid "Page %s — %s"
+msgstr "Страница %s — %s"
+
+msgid "Page Handling"
+msgstr "Обработка страницы"
+
+msgid "Page Scaling:"
+msgstr "Масштабирование страницы:"
+
+msgid "Paper Size:"
+msgstr "Размер страницы:"
+
+msgid "Paragraph"
+msgstr "Параграф"
+
+msgid "Password for document %s"
+msgstr "Пароль к документу %s"
+
+msgid "Password required"
+msgstr "Требуется пароль"
+
+msgid "PostScript Documents"
+msgstr "Документы формата PostScript"
+
+msgid "Pre_sentation"
+msgstr "_Презентация"
+
+msgid "Preparing to print…"
+msgstr "Подготовка к печати…"
+
+msgid "Previous"
+msgstr "Предыдущая"
+
+msgid "Print"
+msgstr "Напечатать"
+
+msgid "Print settings file"
+msgstr "Напечатать файл параметров"
+
+msgid "Print this document"
+msgstr "Напечатать документ"
+
+msgid "Printing is not supported on this printer."
+msgstr "Печать на этом принтере не поддерживается."
+
+msgid "Printing job “%s”"
+msgstr "Печать задания «%s»"
+
+msgid "Printing page %d of %d…"
+msgstr "Печать страницы %d из %d…"
+
+msgid "Print…"
+msgstr "Печать…"
+
+msgid "Producer:"
+msgstr "Программа:"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Reload the document"
+msgstr "Обновить документ"
+
+msgid "Reloading document from %s"
+msgstr "Обновление документа из %s"
+
+msgid "Remember _forever"
+msgstr "Запомнить _навсегда"
+
+msgid "Remember password until you _log out"
+msgstr "Запомнить пароль для этого _сеанса"
+
+msgid "Remove the selected item from the toolbar"
+msgstr "Удалить выбранный элемент из панели инструментов"
+
+msgid "Remove the selected toolbar"
+msgstr "Удалить выбранную панель инструментов"
+
+msgid "Rotate _Left"
+msgstr "Повернуть в_лево"
+
+msgid "Rotate _Right"
+msgstr "Повернуть в_право"
+
+msgid ""
+"Rotate printer page orientation of each page to match orientation of each "
+"document page. Document pages will be centered within the printer page."
+msgstr ""
+"Изменять ориентацию страницы принтера в соответствии с каждой страницей "
+"документа. Страницы документа будут центрированы на странице принтера."
+
+msgid "Run document as a presentation"
+msgstr "Отображать документ как презентацию"
+
+msgid "Run evince as a previewer"
+msgstr "Запустить Evince в режиме предварительного просмотра"
+
+msgid "Run evince in fullscreen mode"
+msgstr "Запустить Evince в полноэкранном режиме"
+
+msgid "Run evince in presentation mode"
+msgstr "Запустить Evince в режиме презентации"
+
+msgid "Running in presentation mode"
+msgstr "Запущен режим презентации"
+
+msgid "STRING"
+msgstr "СТРОКА"
+
+msgid "Save Attachment"
+msgstr "Сохранить вложение"
+
+msgid "Save Current Settings as _Default"
+msgstr "Сделать текущие настройки настройками по умолчанию"
+
+msgid "Save Image"
+msgstr "Сохранить изображение"
+
+msgid "Save a Copy"
+msgstr "Сохранить копию"
+
+msgid "Save a _Copy"
+msgstr "Сохранить _копию"
+
+msgid "Save a copy of document “%s” before closing?"
+msgstr "Сохранить копию документа «%s» перед закрытием?"
+
+msgid "Save a copy of the current document"
+msgstr "Сохранить копию текущего документа"
+
+msgid "Saving attachment to %s"
+msgstr "Сохранение вложения в %s"
+
+msgid "Saving document to %s"
+msgstr "Сохранение документа в %s"
+
+msgid "Saving image to %s"
+msgstr "Сохранение изображения в %s"
+
+msgid ""
+"Scale document pages to fit the selected printer page. Select from one of "
+"the following:\n"
+"\n"
+"• \"None\": No page scaling is performed.\n"
+"\n"
+"• \"Shrink to Printable Area\": Document pages larger than the printable "
+"area are reduced to fit the printable area of the printer page.\n"
+"\n"
+"• \"Fit to Printable Area\": Document pages are enlarged or reduced as "
+"required to fit the printable area of the printer page.\n"
+msgstr ""
+"Подгонка страниц документа к области печати выбранного принтера. Выберите:\n"
+"\n"
+"• \"Нет\": Не выполнять подгонку.\n"
+"\n"
+"• \"Урезать до области печати\": Страницы документа, большие чем область "
+"печати, будут урезаны до области печати страницы принтера.\n"
+"\n"
+"• \"Уместить в область печати\": Страницы документа будут увеличены или "
+"уменьшены в соответствии с областью печати страницы принтера.\n"
+
+msgid "Scroll Down"
+msgstr "Прокрутка вниз"
+
+msgid "Scroll Up"
+msgstr "Прокрутка вверх"
+
+msgid "Scroll View Down"
+msgstr "Прокрутка документа вниз"
+
+msgid "Scroll View Up"
+msgstr "Прокрутка документа вверх"
+
+msgid "Security:"
+msgstr "Безопасность:"
+
+msgid "Select Page"
+msgstr "Выделить страницу"
+
+msgid "Select _All"
+msgstr "Выделить _всё"
+
+msgid "Select page size using document page size"
+msgstr "Выбор размера страницы на основе размера страницы документа"
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "Session management options:"
+msgstr "Параметры управления сеансом:"
+
+msgid "Show or hide the side pane"
+msgstr "Показать или спрятать боковую панель"
+
+msgid "Show or hide the toolbar"
+msgstr "Показать или спрятать панель инструментов"
+
+msgid "Show page contents with the colors inverted"
+msgstr "Показать содержимое страницы в инвертированном цвете"
+
+msgid "Show session management options"
+msgstr "Показать параметры управления сеансом"
+
+msgid "Show the entire document"
+msgstr "Показывать документ целиком"
+
+msgid "Show two pages at once"
+msgstr "Показать по две страницы"
+
+msgid "Show “_%s”"
+msgstr "Показать «_%s»"
+
+msgid "Shrink the document"
+msgstr "Уменьшить размер страницы"
+
+msgid "Shrink to Printable Area"
+msgstr "Урезать до области печати"
+
+msgid "Side _Pane"
+msgstr "_Боковая панель"
+
+msgid "Specify file containing saved configuration"
+msgstr "Укажите файл с сохраненными параметрами"
+
+msgid "Specify session management ID"
+msgstr "Указать ID управления сеансом"
+
+msgid "Start Presentation"
+msgstr "Начать презентацию"
+
+msgid "Start a presentation"
+msgstr "Перейти в режим презентации"
+
+msgid "Starting %s"
+msgstr "Запускается %s"
+
+msgid "Style:"
+msgstr "Стиль:"
+
+msgid "Subject:"
+msgstr "Тема:"
+
+msgid "T_oolbar"
+msgstr "Панель _инструментов"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text License"
+msgstr "Текст лицензии"
+
+msgid "The attachment could not be saved."
+msgstr "Не удалось сохранить вложение."
+
+msgid "The command “%s” did not end normally."
+msgstr "Команда «%s» завершилась с ошибкой."
+
+msgid "The command “%s” failed at decompressing the comic book."
+msgstr "Команде «%s» не удалось выполнить распаковку книги комиксов."
+
+msgid "The document contains no pages"
+msgstr "Документ не содержит страниц"
+
+msgid "The document contains only empty pages"
+msgstr "Документ содержит только пустые страницы"
+
+msgid ""
+"The document is composed of several files. One or more of these files cannot "
+"be accessed."
+msgstr ""
+"Документ состоит из нескольких файлов. Один или несколько этих файлов "
+"недоступны."
+
+msgid ""
+"The document “%s” is locked and requires a password before it can be opened."
+msgstr "Документ «%s» заблокирован и требует пароль для чтения."
+
+msgid "The file could not be saved as “%s”."
+msgstr "Документ не может быть сохранён в файле «%s»."
+
+msgid "The image could not be saved."
+msgstr "Не удалось сохранить изображение."
+
+msgid ""
+"The metadata format used by Evince has changed, and hence it needs to be "
+"migrated. If the migration is cancelled the metadata storage will not work."
+msgstr ""
+"Формат метаданных, используемый в Evince, изменён, и поэтому должен быть "
+"преобразован. Если отменить преобразование, то хранилище метаданных не будет "
+"работать."
+
+msgid "The page label of the document to display."
+msgstr "Отображаемая метка страницы документа."
+
+msgid "The page number of the document to display."
+msgstr "Отображаемый номер страницы документа."
+
+msgid "The selected printer '%s' could not be found"
+msgstr "Выбранный принтер «%s» не найден"
+
+msgid "The word or phrase to find in the document"
+msgstr "Слово или фраза, которые надо найти в документе"
+
+msgid ""
+"There are %d print jobs active. Wait until print finishes before closing?"
+msgstr ""
+"%d заданий печати ещё не завершены. Ожидать их завершения перед закрытием "
+"документа?"
+
+msgid "There was an error deleting “%s”."
+msgstr "Произошла ошибка при удалении %s."
+
+msgid "There was an error displaying help"
+msgstr "Произошла ошибка при отображении справки"
+
+msgid ""
+"This document is locked and can only be read by entering the correct "
+"password."
+msgstr ""
+"Этот документ заблокирован и может быть прочитан только после ввода пароля."
+
+msgid "This work is in the Public Domain"
+msgstr "Эта работа находится в общественном достоянии"
+
+msgid "Thumbnail command for PDF Documents"
+msgstr "Команда создания образцов для документов PDF"
+
+msgid "Thumbnails"
+msgstr "Образцы страниц"
+
+msgid "Title:"
+msgstr "Заголовок:"
+
+msgid "Toggle case sensitive search"
+msgstr "Переключить чувствительность поиска к регистру"
+
+msgid "Toolbar Editor"
+msgstr "Правка панели инструментов"
+
+msgid "Transparent"
+msgstr "Прозрачный"
+
+msgid "TrueType"
+msgstr "TrueType"
+
+msgid "TrueType (CID)"
+msgstr "TrueType (CID)"
+
+msgid "Type 1"
+msgstr "Type 1"
+
+msgid "Type 1 (CID)"
+msgstr "Type 1 (CID)"
+
+msgid "Type 1C"
+msgstr "Type 1C"
+
+msgid "Type 1C (CID)"
+msgstr "Type 1C (CID)"
+
+msgid "Type 3"
+msgstr "Type 3"
+
+msgid "Unable to launch external application."
+msgstr "Не удалось запустить внешнее приложение."
+
+msgid "Unable to open attachment"
+msgstr "Не удалось открыть вложение"
+
+msgid "Unable to open document"
+msgstr "Не удалось открыть документ"
+
+msgid "Unable to open external link"
+msgstr "Не удалось открыть внешнюю ссылку"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown MIME Type"
+msgstr "Неизвестный MIME тип документа"
+
+msgid "Unknown error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown font type"
+msgstr "Неизвестный тип шрифтов"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Нераспознанный файл в desktop версии «%s»"
+
+msgid "Unrecognized launch option: %d"
+msgstr "Неопознанный параметр запуска: %d"
+
+msgid "Uploading attachment (%d%%)"
+msgstr "Сохранение удалённого приложения (%d%%)"
+
+msgid "Uploading document (%d%%)"
+msgstr "Сохранение удалённого документа (%d%%)"
+
+msgid "Uploading image (%d%%)"
+msgstr "Сохранение удалённого изображения (%d%%)"
+
+msgid "Usage terms"
+msgstr "Условия использования"
+
+msgid ""
+"Valid command plus arguments for the PDF Document thumbnailer. See Nautilus "
+"thumbnailer documentation for more information."
+msgstr ""
+"Команда и аргументы для запуска программы создания изображения документа "
+"PDF. Для получения дополнительной информации смотрите документацию по "
+"Nautilus."
+
+msgid "View multi-page documents"
+msgstr "Просмотр многостраничных документов"
+
+msgid "Wait until print job “%s” finishes before closing?"
+msgstr "Ожидать завершения задания на печать «%s» перед закрытием?"
+
+msgid "Warning"
+msgstr "Предупреждение"
+
+msgid ""
+"When enabled, each page will be printed on the same size paper as the "
+"document page."
+msgstr ""
+"Если включено, то каждая страница будет напечатана с одним размером бумаги, "
+"как у страницы документа."
+
+msgid "Yes"
+msgstr "Да"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"Evince; if not, write to the Free Software Foundation, Inc., 51 Franklin "
+"Street, Fifth Floor, Boston, MA 02110-1301  USA\n"
+msgstr ""
+"Вы должны получить копию GNU General Public License вместе с Evince. Если "
+"этого не произошло, напишите Free Software Foundation, Inc., 51 Franklin "
+"Street, Fifth Floor, Boston, MA 02110-1301  USA\n"
+
+msgid "Your print range selection does not include any pages"
+msgstr "Выбранный вами диапазон страниц не содержит страниц"
+
+msgid "Zoom"
+msgstr "Масштаб"
+
+msgid "Zoom In"
+msgstr "Увеличить"
+
+msgid "Zoom Out"
+msgstr "Уменьшить"
+
+msgid "[FILE…]"
+msgstr "[ФАЙЛ…]"
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Best Fit"
+msgstr "_Уместить в окне"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Continuous"
+msgstr "_Непрерывно"
+
+msgid "_Copy Link Address"
+msgstr "_Копировать адрес ссылки"
+
+msgid "_Delete Toolbar"
+msgstr "_Удалить панель инструментов"
+
+msgid "_Dual"
+msgstr "_Две страницы"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Find…"
+msgstr "_Найти…"
+
+msgid "_First Page"
+msgstr "_Начало"
+
+msgid "_Fullscreen"
+msgstr "Полноэкранный _режим"
+
+msgid "_Go"
+msgstr "П_ереход"
+
+msgid "_Go To"
+msgstr "_Перейти"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Inverted Colors"
+msgstr "_Инвертировать цвета"
+
+msgid "_Last Page"
+msgstr "_Конец"
+
+msgid "_Move on Toolbar"
+msgstr "_Переместить на панель инструментов"
+
+msgid "_Next Page"
+msgstr "_Вперёд"
+
+msgid "_Open Attachment"
+msgstr "Сохранить вложение"
+
+msgid "_Open Link"
+msgstr "_Открыть ссылку"
+
+msgid "_Open…"
+msgstr "_Открыть…"
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "_Previous Page"
+msgstr "_Назад"
+
+msgid "_Print…"
+msgstr "_Печать…"
+
+msgid "_Reload"
+msgstr "_Обновить"
+
+msgid "_Remove from Toolbar"
+msgstr "_Удалить из панели инструментов"
+
+msgid "_Save Attachment As…"
+msgstr "Сохранить _вложение как…"
+
+msgid "_Save Image As…"
+msgstr "Сохранить изображение _как…"
+
+msgid "_Save a Copy…"
+msgstr "_Сохранить копию…"
+
+msgid "_Toolbar"
+msgstr "Панель _инструментов"
+
+msgid "_Unlock Document"
+msgstr "_Разблокировать документ"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "of %d"
+msgstr "из %d"
+
+msgid "translator-credits"
+msgstr "Николай В. Шмырёв <nshmyrev@yandex.ru>"
+
+msgid "© 1996–2009 The Evince authors"
+msgstr "© 1996-2009 авторы Evince"

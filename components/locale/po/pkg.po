@@ -1,0 +1,6363 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-08 12:59+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "\t%(fname)s: expected mode: %(emode)s, found mode: %(fmode)s\n"
+msgstr "\t%(fname)s: ожидаемый режим: %(emode)s, найденный режим: %(fmode)s\n"
+
+msgid "\t%s "
+msgstr "\t%s "
+
+msgid "\t%s (disabled)\n"
+msgstr "\t%s (отключено)\n"
+
+msgid "\t<b>%s</b>\n"
+msgstr "\t<b>%s</b>\n"
+
+msgid ""
+"\n"
+"\tpfexec pkg rebuild-index"
+msgstr ""
+"\n"
+"\tpfexec pkg rebuild-index"
+
+msgid ""
+"\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+
+msgid ""
+"\n"
+"\n"
+"Cached files were preserved in the following directory:\n"
+"\t%s\n"
+"Use pkgrecv -c to resume the interrupted download."
+msgstr ""
+"\n"
+"\n"
+"Кэшированные файлы сохранены в следующем каталоге:\n"
+"\t%s\n"
+"Используйте pkgrecv -c для возобновления прерванной загрузки."
+
+msgid ""
+"\n"
+"\n"
+"Despite the error while indexing, the image-update, install, or uninstall\n"
+"has completed successfuly."
+msgstr ""
+"\n"
+"\n"
+"Несмотря на ошибку во время индексирования, команда image-update, install "
+"или uninstall\n"
+"выполнена успешно."
+
+msgid ""
+"\n"
+"\n"
+"Despite the error while indexing, the image-update, install, or uninstall "
+"has completed successfuly."
+msgstr ""
+"\n"
+"\n"
+"Несмотря на ошибку во время индексирования, команда image-update, install "
+"или uninstall выполнена успешно."
+
+msgid ""
+"\n"
+"\n"
+"This is an internal error.  Please let the developers know about this\n"
+"problem by filing a bug at http://defect.opensolaris.org and including the\n"
+"above traceback and this message.  The version of pkg(5) is '%s'."
+msgstr ""
+"\n"
+"\n"
+"Это внутренняя ошибка. Сообщите разработчикам об этой неполадке\n"
+"заполнив отчет по адресу http://defect.opensolaris.org и включив\n"
+"результат отслеживания причины неполадки и данное сообщение. Версия pkg(5): "
+"'%s'."
+
+msgid ""
+"\n"
+"        %prog [ -b <build_no> ] [ -c <cache_dir> ] [ -f <file> ]\n"
+"        [ -l <uri> ] [ -p <regexp> ] [ -r <uri> ] [ -v ]\n"
+"        [ <manifest> ... ]\n"
+"        %prog -L"
+msgstr ""
+"\n"
+"        %prog [ -b <build_no> ] [ -c <cache_dir> ] [ -f <file> ]\n"
+"        [ -l <uri> ] [ -p <regexp> ] [ -r <uri> ] [ -v ]\n"
+"        [ <manifest> ... ]\n"
+"        %prog -L"
+
+msgid ""
+"\n"
+" Add New Publisher\n"
+msgid_plural ""
+"\n"
+" Add New Publishers\n"
+msgstr[0] ""
+"\n"
+" Добавить нового издателя\n"
+msgstr[1] ""
+"\n"
+" Добавить новых издателей\n"
+
+msgid ""
+"\n"
+" Install Package\n"
+msgid_plural ""
+"\n"
+" Install Packages\n"
+msgstr[0] ""
+"\n"
+" Установить пакет\n"
+msgstr[1] ""
+"\n"
+" Установить пакеты\n"
+
+msgid ""
+"\n"
+"%s%s"
+msgstr ""
+"\n"
+"%s%s"
+
+msgid ""
+"\n"
+"A clone of %s exists and has been updated and activated.\n"
+"On the next boot the Boot Environment %s will be mounted on '/'.\n"
+"Reboot when ready to switch to this updated BE.\n"
+msgstr ""
+"\n"
+"Клон %s существует, он был обновлен и активирован.\n"
+"Во время следующей загрузки загрузочная среда %s будет смонтирована в '/'.\n"
+"Выполните перезагрузку, когда будете готовы переключиться на обновленную "
+"загрузочную среду.\n"
+
+msgid ""
+"\n"
+"Additional details:\n"
+"\n"
+"%s"
+msgstr ""
+"\n"
+"Дополнительные сведения:\n"
+"\n"
+"%s"
+
+msgid ""
+"\n"
+"Advanced subcommands:"
+msgstr ""
+"\n"
+"Расширенные подкоманды:"
+
+msgid ""
+"\n"
+"All other patterns matched installed packages.  %s"
+msgstr ""
+"\n"
+"Для всех остальных шаблонов подобраны установленные пакеты.  %s"
+
+msgid ""
+"\n"
+"An error was encountered while attempting to read image state information\n"
+"to perform the requested operation.  Details follow:\n"
+"\n"
+"%s"
+msgstr ""
+"\n"
+"Возникла ошибка при попытке считывания данных о состоянии образа\n"
+"для выполнения требуемой операции. Подробные сведения:\n"
+"\n"
+"%s"
+
+msgid ""
+"\n"
+"An unexpected error happened while preparing for %s:"
+msgstr ""
+"\n"
+"Во время подготовки к выполнению %s произошла неожиданная ошибка:"
+
+msgid ""
+"\n"
+"Clicking OK will enable the publisher before proceeding with install. On "
+"completion it will be disabled again."
+msgid_plural ""
+"\n"
+"Clicking OK will enable the publishers before proceeding with install.\n"
+"On completion they will be disabled again."
+msgstr[0] ""
+"\n"
+"Нажатие кнопки \"OK\" активирует издатель перед продолжением установки. При "
+"завершении установки он снова отключается."
+msgstr[1] ""
+"\n"
+"Нажатие кнопки \"OK\" активирует издателей перед продолжением установки.\n"
+"При завершении установки они снова отключаются."
+
+msgid ""
+"\n"
+"Could not complete the operation because of insufficient permissions. "
+"Please\n"
+"try the command again using pfexec or otherwise increase your privileges.\n"
+msgstr ""
+"\n"
+"Выполнение действия невозможна из-за недостаточных полномочий. Повторите\n"
+"попытку вызова команды с помощью pfexec или повысьте уровень полномочий "
+"другим способом.\n"
+
+msgid ""
+"\n"
+"Error:\n"
+msgstr ""
+"\n"
+"Ошибка:\n"
+
+msgid ""
+"\n"
+"Errors were encountered while attempting to retrieve package or file data "
+"for\n"
+"the requested operation."
+msgstr ""
+"\n"
+"Произошли ошибки во время попытки извлечения пакета или данных из файла для\n"
+"запрошенной операции."
+
+msgid ""
+"\n"
+"Excluded checks:"
+msgstr ""
+"\n"
+"Исключенные проверки:"
+
+msgid ""
+"\n"
+"Failure of consistent use of pfexec or gksu when running %s is often a "
+"source of this problem."
+msgstr ""
+"\n"
+"Непоследовательное использование pfexec или gksu при запуске %s часто "
+"вызывает эту проблему."
+
+msgid ""
+"\n"
+"List of configured publishers:"
+msgstr ""
+"\n"
+"Список настроенных издателей:"
+
+msgid ""
+"\n"
+"Options:\n"
+"        -R dir\n"
+"        --help or -?\n"
+"\n"
+"Environment:\n"
+"        PKG_IMAGE"
+msgstr ""
+"\n"
+"Параметры:\n"
+"        -R dir\n"
+"        --help or -?\n"
+"\n"
+"Среда:\n"
+"        PKG_IMAGE"
+
+msgid ""
+"\n"
+"Please click on icon to update."
+msgstr ""
+"\n"
+"Щелкните значок для обновления."
+
+msgid ""
+"\n"
+"Please include output from:\n"
+msgstr ""
+"\n"
+"Включите в сообщение результат выполнения команды:\n"
+
+msgid ""
+"\n"
+"The following proxy configuration is set in the environment:\n"
+msgstr ""
+"\n"
+"В среде установлена следующая конфигурация прокси:\n"
+
+msgid ""
+"\n"
+"The specified repository did not contain any publisher configuration\n"
+"information.  This is likely the result of a repository configuration\n"
+"error.  Please contact the repository administrator for further\n"
+"assistance."
+msgstr ""
+"\n"
+"Указанное хранилище не содержит данные об\n"
+"издателе. Возможно, это результат ошибки в настройках \n"
+"хранилища. Обратитесь к администратору хранилища для получения\n"
+"поддержки."
+
+msgid ""
+"\n"
+"This might be caused by network problem while accessing the repository."
+msgstr ""
+"\n"
+"Это может быть связано с проблемами сетевых соединений при доступе к "
+"хранилищу."
+
+msgid ""
+"\n"
+"To add a publisher using this repository, execute the following command as "
+"a\n"
+"privileged user:\n"
+"\n"
+"  pkg set-publisher -g %s <publisher>\n"
+msgstr ""
+"\n"
+"Для добавления издателя с использованием этого хранилища выполните следующую "
+"команду в качестве\n"
+"привилегированного пользователя:\n"
+"\n"
+"  pkg set-publisher -g %s <publisher>\n"
+
+msgid ""
+"\n"
+"To rebuild index, please use the terminal command:"
+msgstr ""
+"\n"
+"Для перестройки индекса используется команда терминала:"
+
+msgid ""
+"\n"
+"Unable to contact a valid package depot. Please check your network settings "
+"and attempt to contact the server using a web browser.\n"
+"\n"
+"%s"
+msgstr ""
+"\n"
+"Невозможно установить связь с действительным хранилищем пакетов. Проверьте "
+"параметры настройки сетии попытайтесь установить связь с сервером через веб-"
+"обозреватель.\n"
+"\n"
+"%s"
+
+msgid ""
+"\n"
+"Unable to contact a valid package repository. This may be due to a problem "
+"with the repository, network misconfiguration, or an incorrect pkg client "
+"configuration.  Please verify the client's network configuration and "
+"repository's location."
+msgstr ""
+"\n"
+"Не удалось соединиться с действительным хранилищем пакета. Возможно, это "
+"вызвано проблемой, связанной с хранилищем, неправильной настройкой сети или "
+"некорректной настройкой клиента pkg . Проверьте параметры настройки сети "
+"клиента и местоположение хранилища."
+
+msgid ""
+"\n"
+"Unable to retrieve package data for publisher '%(prefix)s' from one\n"
+"of the following origin(s):\n"
+"\n"
+"%(origins)s\n"
+"\n"
+"The catalog retrieved from one of the origin(s) listed above only\n"
+"contains package data for: %(pubs)s.\n"
+msgstr ""
+"\n"
+"Невозможно получить данные пакета для издателя '%(prefix)s' из одного\n"
+"из следующих источников:\n"
+"\n"
+"%(origins)s\n"
+"\n"
+"Каталог, полученный из одного из источников, перечисленных выше,\n"
+"содержит данные пакета только для : %(pubs)s.\n"
+
+msgid ""
+"\n"
+"pkg version:\n"
+msgstr ""
+"\n"
+"pkg version:\n"
+
+msgid "                     :"
+msgstr "                     :"
+
+msgid "                Alias:"
+msgstr "                Псевдоним:"
+
+msgid "                Packages to remove: %5d"
+msgstr "                Удаляемые пакеты: %5d"
+
+msgid "                Packages to update: %5d"
+msgstr "                Обновляемые пакеты: %5d"
+
+msgid "               Packages to install: %5d"
+msgstr "               Устанавливаемые пакеты: %5d"
+
+msgid "               Services to restart: %5d"
+msgstr "              Перезагружаемые службы: %5d"
+
+msgid "              Enabled:"
+msgstr "              Включен:"
+
+msgid "              SSL Key:"
+msgstr "              Ключ SSL:"
+
+msgid "             SSL Cert:"
+msgstr "             Сертификат SSL:"
+
+msgid "            Publisher:"
+msgstr "            Издатель:"
+
+msgid "           Create boot environment: %5s"
+msgstr "           Создать загрузочную среду: %5s"
+
+msgid "           Mirror URI:"
+msgstr "           URI зеркала:"
+
+msgid "           Origin URI:"
+msgstr "           URI источника:"
+
+msgid "           System URI:"
+msgstr "           Идентификатор URI системы:"
+
+msgid "          Client UUID:"
+msgstr "          UUID клиента:"
+
+msgid "          FMRI:"
+msgstr "          FMRI:"
+
+msgid "          Name:"
+msgstr "           Имя:"
+
+msgid "          Revoked CAs:"
+msgstr "          Аннулированные CA:"
+
+msgid "          Size:"
+msgstr "        Размер:"
+
+msgid "          Socket Path:"
+msgstr "          Путь к сокету:"
+
+msgid "         Approved CAs:"
+msgstr "         Утвержденные CA:"
+
+msgid "         State:"
+msgstr "     Состояние:"
+
+msgid "         Variants/facets to change: %5d"
+msgstr "         Изменяемые варианты/грани: %5d"
+
+msgid "        Branch:"
+msgstr "         Ветвь:"
+
+msgid "       Summary:"
+msgstr "    Заключение:"
+
+msgid "       Version:"
+msgstr "        Версия:"
+
+msgid "      Catalog Updated:"
+msgstr "      Каталог обновлен:"
+
+msgid "      Category:"
+msgstr "     Категория:"
+
+msgid "     Publisher:"
+msgstr "      Издатель:"
+
+msgid "    Renamed to:"
+msgstr "    Переименовано на:"
+
+msgid ""
+"    The specified repository location is not a known source of publisher\n"
+"    configuration updates for '%s'.\n"
+"\n"
+"    This new repository location must be added as an origin to the "
+"publisher\n"
+"    to accept configuration updates from this repository."
+msgstr ""
+"    Указанное местоположение хранилище не является известным источником "
+"обновлений\n"
+"    настроек издателя для '%s'.\n"
+"\n"
+"    Новое местоположение хранилища следует добавить в качестве источника "
+"для\n"
+"    принятия обновлений настроек из этого хранилища для издателя."
+
+msgid "   Description:"
+msgstr "      Описание:"
+
+msgid "  Added publisher(s): %s"
+msgstr "  Добавленные серверы публикаций: %s"
+
+msgid "  License must be viewed."
+msgstr "  Лицензию требуется просмотреть."
+
+msgid "  License requires acceptance."
+msgstr "  Лицензию требуется принять."
+
+msgid "  None"
+msgstr "  Нет"
+
+msgid "  Updated publisher(s): %s"
+msgstr "  Обновленные серверы публикаций: %s"
+
+msgid " '"
+msgstr " '"
+
+msgid " (%s)\n"
+msgstr " (%s)\n"
+
+msgid " (Obsolete)"
+msgstr " (Устаревший)"
+
+msgid " (disabled)"
+msgstr " (отменены)"
+
+msgid " (removed)"
+msgstr " (удалено)"
+
+msgid " - Failed </b>"
+msgstr " - отказ </b>"
+
+msgid " Build Release:"
+msgstr " Версия сборки:"
+
+msgid " Cert. Effective Date:"
+msgstr " Дата вступления в силу сертификата:"
+
+msgid ""
+" The running system has not been modified. Modifications were only made to a "
+"clone of the running system.  This clone is mounted at %s should you wish to "
+"inspect it."
+msgstr ""
+" Работающая система не изменена. Изменения были внесены только в копию "
+"работающей системы. Данная копия смонтирована по адресу %s, если необходимо "
+"ее проверить."
+
+msgid " to "
+msgstr " в "
+
+msgid "%(attr)s missing from legacy action in %(pkg)s"
+msgstr "в устаревшем действии в %(pkg)s отсутствует %(attr)s"
+
+msgid ""
+"%(attr_name)s %(name)s is a duplicate delivered by %(pkgs)s declaring no "
+"variants"
+msgstr ""
+"%(attr_name)s %(name)s представляет собой дубликат, поставляемый %(pkgs)s "
+"без объявления вариантов"
+
+msgid ""
+"%(attr_name)s %(name)s is a duplicate delivered by %(pkgs)s declaring "
+"overlapping variants %(vars)s"
+msgstr ""
+"%(attr_name)s %(name)s представляет собой дубликат, поставляемый %(pkgs)s, "
+"который объявляет перекрещивающиеся варианты %(vars)s"
+
+msgid "%(cur)d of %(goal)d - %(name)s"
+msgstr "%(cur)d %(goal)d - %(name)s"
+
+msgid "%(dep_type)s dependency %(dep_val)s is downrev (%(inst_ver)s)"
+msgstr ""
+"%(dep_type)s зависимость %(dep_val)s: более ранняя версия (%(inst_ver)s)"
+
+msgid "%(dep_type)s dependency %(dep_val)s is uprev (%(inst_ver)s)"
+msgstr ""
+"%(dep_type)s зависимость %(dep_val)s: более поздняя версия (%(inst_ver)s)"
+
+msgid "%(enable)s publisher %(name)s\n"
+msgstr "%(enable)s издатель %(name)s\n"
+
+msgid "%(entry)s: '%(found)s' should be '%(expected)s'"
+msgstr "%(entry)s: '%(found)s' должно быть '%(expected)s'"
+
+msgid ""
+"%(fp)s contains an action which is missing the expected attribute: %(at)s.\n"
+"The action is:%(act)s"
+msgstr ""
+"%(fp)s содержит действие, в котором отсутствует ожидаемый атрибут: %(at)s.\n"
+"Действие:%(act)s"
+
+msgid ""
+"%(fp)s:\n"
+"%(e)s"
+msgstr ""
+"%(fp)s:\n"
+"%(e)s"
+
+msgid "%(lp)s says it should be run with '%(bin)s' which is a relative path."
+msgstr ""
+"В тексте %(lp)s сообщается о необходимости выполнения файла с использованием "
+"'%(bin)s', который является относительным путем."
+
+msgid "%(name)s is not a multivalued property.  Values are: %(value)r"
+msgstr "%(name)s не является многозначным свойством. Значения: %(value)r"
+
+msgid "%(number)d package found matching %(s1)s%(search_text)s%(e1)s"
+msgid_plural "%(number)d packages found matching %(s1)s%(search_text)s%(e1)s"
+msgstr[0] ""
+"Найден пакет %(number)d, соответствующий %(s1)s%(search_text)s%(e1)s"
+msgstr[1] ""
+"%(number)d найденных пакетов, соответствующих %(s1)s%(search_text)s%(e1)s"
+
+msgid ""
+"%(o)s:\n"
+"%(msg)s\n"
+msgstr ""
+"%(o)s:\n"
+"%(msg)s\n"
+
+msgid "%(opt)s takes argument of form name=value, not %(arg)s"
+msgstr "%(opt)s принимает аргумент в форме название=значение, а не %(arg)s"
+
+msgid "%(opts)s may not be used with %(opt)s"
+msgstr "%(opts)s запрещается использовать вместе с %(opt)s"
+
+msgid "%(pkg_name)-50s %(result)7s"
+msgstr "%(pkg_name)-50s %(result)7s"
+
+msgid ""
+"%(pp)s (which will be installed at %(ip)s) had this token, %(tok)s, in its "
+"run path: %(rp)s.  It is not currently possible to automatically expand this "
+"token. Please specify its value on the command line."
+msgstr ""
+"%(pp)s (которые устанавливаются в %(ip)s) содержат маркер  %(tok)s в пути "
+"выполнения: %(rp)s.  В настоящий момент автоматическое раскрытие этого "
+"маркера невозможно. Укажите его значение в командной строке."
+
+msgid "%(update)s publisher %(name)s\n"
+msgstr "%(update)s издатель %(name)s\n"
+
+msgid "%(val)s is not a valid value for this property: %(prop)s"
+msgstr "%(val)s не является действительным значением для свойства %(prop)s"
+
+msgid "%(val)s is not a valid value for this property:%(prop)s"
+msgstr "%(val)s не является действительным значением для свойства %(prop)s"
+
+msgid "%(value)s is not a valid level"
+msgstr "%(value)s не является действительным уровнем"
+
+msgid "%(version)s (Build %(build)s-%(branch)s)"
+msgstr "%(version)s (сборка %(build)s-%(branch)s)"
+
+msgid "%d Install,"
+msgid_plural "%d Installs,"
+msgstr[0] "%d установка,"
+msgstr[1] "%d установок,"
+
+msgid "%d Remove"
+msgid_plural "%d Removes"
+msgstr[0] "%d удаление"
+msgstr[1] "%d удалений"
+
+msgid "%d Update,"
+msgid_plural "%d Updates,"
+msgstr[0] "%d обновление,"
+msgstr[1] "%d обновлений,"
+
+msgid "%m/%d/%y %H:%M"
+msgstr "%m/%d/%y %H:%M"
+
+msgid "%s (pattern did not match)\n"
+msgstr "%s (шаблон не подходит)\n"
+
+msgid "%s (publisher did not match)\n"
+msgstr "%s (издатель не подходит)\n"
+
+msgid "%s (version did not match)\n"
+msgstr "%s (версия не подходит)\n"
+
+msgid "%s <b>to</b> %s\n"
+msgstr "%s <b>в</b> %s\n"
+
+msgid "%s License"
+msgstr "Лицензия %s"
+
+msgid "%s actions cannot deliver SMF manifests"
+msgstr "в результате выполнения действий %s невозможно поставить манифесты SMF"
+
+msgid "%s cannot be done on live image"
+msgstr "%s нельзя выполнять на используемом образе"
+
+msgid ""
+"%s dependency on an obsolete package (%s);this package must be uninstalled "
+"manually"
+msgstr ""
+"%s зависимость от устаревшего пакета (%s); этот пакет необходимо удалить "
+"вручную"
+
+msgid "%s did not return a valid response.\n"
+msgstr "%s не вернул допустимый ответ.\n"
+
+msgid ""
+"%s does not subclass a known Checker subclass intended for use by pkglint "
+"extensions"
+msgstr ""
+"%s не выполняет деление на подклассы известного подкласса Checker, "
+"предназначенного для использования в расширениях pkglint"
+
+msgid ""
+"%s failed (inventory exception):\n"
+"%s"
+msgstr ""
+"%s сбой выполнения (исключение учета):\n"
+"%s"
+
+msgid "%s failed to be updated. No changes have been made to %s."
+msgstr "%s обновить не удалось. В %s не внесено никаких изменений."
+
+msgid "%s failed: %s"
+msgstr "%s сбой выполнения: %s"
+
+msgid "%s had this elf error:%s"
+msgstr "%s имеет следующую ошибку elf:%s"
+
+msgid "%s has been updated successfully"
+msgstr "Обновление %s выполнено успешно"
+
+msgid ""
+"%s has unresolved dependency '%s' under the following combinations of "
+"variants:\n"
+"%s"
+msgstr ""
+"%s содержит неразрешенную зависимость '%s' в следующих комбинациях "
+"вариантов:\n"
+"%s"
+
+msgid "%s is not a recognized signature algorithm."
+msgstr "%s является неизвестным алгоритмом подписи."
+
+msgid "%s is not a valid repository URL."
+msgstr "%s не является действительным URL-адресом хранилища."
+
+msgid "%s is not an install image"
+msgstr "%s не является образом установки"
+
+msgid "%s was expected to be a RSA key but could not be read correctly."
+msgstr ""
+"%s должен был быть ключом RSA, однако его не удалось корректно считать."
+
+msgid "%s was expected to be a certificate but isn't a file."
+msgstr ""
+"Предполагалось, что %s является сертификатом, но он не является файлом."
+
+msgid "%s was expected to be a key file but isn't a file."
+msgstr ""
+"Предполагалось, что %s является файлом ключа, но он не является файлом."
+
+msgid "%s: -v and -q may not be combined"
+msgstr "%s: параметры -v и -q нельзя использовать совместно"
+
+msgid "%s: duplicate variant specified: %s"
+msgstr "%s: указан вариант дубликата: %s"
+
+msgid "%s: facets must to be of the form 'facet....=[True|False|None]'"
+msgstr "%s: грани следует указывать в форме 'facet....=[True|False|None]'"
+
+msgid "%s: facets must to be of the form 'facet....=[True|False|None]'."
+msgstr "%s: грани следует указывать в форме 'facet....=[True|False|None]'"
+
+msgid "%s: no facets specified"
+msgstr "%s: грани не указаны"
+
+msgid "%s: no variants specified"
+msgstr "%s: варианты не указаны"
+
+msgid "%s: variants must to be of the form '<name>=<value>'."
+msgstr "%s: варианты должны иметь форму '<name>=<value>'."
+
+msgid "'"
+msgstr "'"
+
+msgid "'%(attr)s' is not supported for '%(scheme)s'."
+msgstr "'%(attr)s' не поддерживается для '%(scheme)s'."
+
+msgid "'%(op)s' failed for transaction ID '%(trans_id)s': %(msg)s"
+msgstr ""
+"'%(op)s' не удалось выполнить для идентификатора транзакции '%(trans_id)s': "
+"%(msg)s"
+
+msgid ""
+"'%(op)s' failed for transaction ID '%(trans_id)s'; status '%(status)s': "
+"%(msg)s"
+msgstr ""
+"'%(op)s' не удалось выполнить для идентификатора транзакции '%(trans_id)s'; "
+"статус '%(status)s': %(msg)s"
+
+msgid ""
+"'%(op)s' failed; unable to initiate transaction:\n"
+"%(msg)s"
+msgstr ""
+"'%(op)s' не удалось выполнить; невозможно инициировать транзакцию:\n"
+"%(msg)s"
+
+msgid "'%(p)s' depends on obsolete package '%(op)s'"
+msgstr "'%(p)s' зависит от устаревшего пакета '%(op)s'"
+
+msgid ""
+"'%(path)s' cannot be installed; '%(group)s' is an unknown or invalid group."
+msgstr ""
+"'%(path)s' невозможно установить; '%(group)s' является неизвестной или "
+"недействительной группой."
+
+msgid ""
+"'%(path)s' cannot be installed; '%(owner)s' is an unknown or invalid user."
+msgstr ""
+"'%(path)s' невозможно установить; '%(owner)s' является неизвестным или "
+"недействительным пользователем."
+
+msgid ""
+"'%(path)s' cannot be installed; the group '%(group)s' was removed by "
+"'%(src_fmri)s'."
+msgstr ""
+"'%(path)s' невозможно установить; группа '%(group)s' удалена посредством "
+"'%(src_fmri)s'."
+
+msgid ""
+"'%(path)s' cannot be installed; the owner '%(owner)s' was removed by "
+"'%(src_fmri)s'."
+msgstr ""
+"'%(path)s' невозможно установить; владелец '%(owner)s' удален посредством "
+"'%(src_fmri)s'."
+
+msgid ""
+"'%(value)s' is not a valid value for repository attribute '%(attribute)s'."
+msgstr ""
+"'%(value)s' не является допустимым значением параметра хранилища "
+"'%(attribute)s'."
+
+msgid "'%s' could not be found in the catalog."
+msgstr "Не удалось найти '%s' в каталоге."
+
+msgid "'%s' is an illegal fmri"
+msgstr "'%s' является недопустимым fmri"
+
+msgid "'%s' is not a file."
+msgstr "'%s' не является файлом."
+
+msgid "'%s' is not a valid URI priority; integer value expected."
+msgstr ""
+"'%s' не является допустимым значением приоритета URI; ожидается "
+"целочисленное значение."
+
+msgid "'%s' is not a valid URI."
+msgstr "'%s' не является допустимым идентификатором URI."
+
+msgid "'%s' is not a valid boot environment name."
+msgstr "'%s' не является допустимым именем среды загрузки."
+
+msgid "'%s' is not a valid location."
+msgstr "'%s' не является допустимым местоположением."
+
+msgid ""
+"'%s' is not a valid mode; value must be of the form '644', '0644', or "
+"'04755'."
+msgstr ""
+"'%s' не является действительным режимом; значение должно иметь форму '644', "
+"'0644' или '04755'."
+
+msgid "'%s' is not a valid publisher alias."
+msgstr "'%s' не является допустимым псевдонимом издателя."
+
+msgid "'%s' is not a valid publisher name."
+msgstr "'%s' не является допустимым именем издателя."
+
+msgid "'%s' is not a valid repository URI sort policy."
+msgstr "'%s' не является допустимой политикой сортировки URI хранилищ."
+
+msgid "'%s' is not a valid repository collection type."
+msgstr "'%s' не является допустимым типом набора хранилища."
+
+msgid "'%s' is not an install image"
+msgstr "'%s' не является образом установки"
+
+msgid "'%s' matches multiple packages"
+msgstr "'%s' соответствует нескольким пакетам"
+
+msgid "'%s' matches no installed packages"
+msgstr "'%s' не соответствует ни одному из установленных пакетов"
+
+msgid "'%s' may not be set using this command"
+msgstr "невозможно установить '%s' с использованием этой команды"
+
+msgid "'%s' supports the following architectures: %s"
+msgstr "'%s' поддерживает следующие архитектуры: %s"
+
+msgid ""
+"'AND' and 'OR' require those expressions to produce the same type of results."
+msgstr ""
+"Для работы 'AND' и 'OR' эти выражения должны возвращать результаты "
+"одинакового типа."
+
+msgid "'The specified FMRI, '%s', has an invalid version."
+msgstr "Указанный FMRI, '%s', имеет недопустимую версию."
+
+msgid "'pkg publisher' will show a list of publishers."
+msgstr "Команда 'pkg publisher' выводит список издателей."
+
+msgid "(not installed)"
+msgstr "(не установлено)"
+
+msgid ""
+"--no-refresh cannot be used with -p unless a publisher prefix is provided."
+msgstr ""
+"--no-refresh нельзя использовать вместе с -p без предоставления префикса "
+"издателя."
+
+msgid "-D arguments must be of the form 'name=value'."
+msgstr "Аргументы параметра -D должны иметь форму 'имя=значение'."
+
+msgid "-H and -l may not be combined"
+msgstr "параметры -H и -l нельзя использовать совместно"
+
+msgid "-R not allowed for %s subcommand"
+msgstr "-R не разрешен для субкоманды %s"
+
+msgid "-a takes an argument of the form <attribute>=<pattern>"
+msgstr "-a принимает аргумент формы <attribute>=<pattern>"
+
+msgid "-f may only be used in combination with -a"
+msgstr "Параметр -f можно использовать только в комбинации с параметром -a."
+
+msgid "-l and -r may not be combined"
+msgstr "параметры -l и -r нельзя использовать совместно"
+
+msgid "-m and %s may not be specified at the same time"
+msgstr "параметры -m и %s нельзя указывать одновременно"
+
+msgid "-n takes no options"
+msgstr "-n используется без параметров"
+
+msgid "-o cannot be used with -d or -s"
+msgstr "-o невозможно использовать с параметрами -d или -s"
+
+msgid "-s and -v may not be combined"
+msgstr "параметры -s и -v нельзя использовать совместно"
+
+msgid "-v and -q may not be combined"
+msgstr "параметры -v и -q нельзя использовать совместно"
+
+msgid ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Suggestions:</b><br></TD></TR><TR><TD></TD><TD<TD>"
+msgstr ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Предложения:</b><br></TD></TR><TR><TD></TD><TD<TD>"
+
+msgid ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Suggestions:</b><br></TD></TR><TR><TD></TD><TD<TD><li "
+"style='padding-left:7px'>Check your spelling</li><li style='padding-"
+"left:7px'>Try new search terms</li>"
+msgstr ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Предложения:</b><br></TD></TR><TR><TD></TD><TD<TD><li "
+"style='padding-left:7px'>Выполните проверку на орфографические ошибки</"
+"li><li style='padding-left:7px'>Попробуйте новые условия поиска</li>"
+
+msgid ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Suggestions:</b><br></TD></TR><TR><TD></TD><TD<TD><li "
+"style='padding-left:7px'>Try new search terms</li>"
+msgstr ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD></TD></TR><TR><TD></"
+"TD><TD<TD><b>Предложения:</b><br></TD></TR><TR><TD></TD><TD<TD><li "
+"style='padding-left:7px'>Попробуйте новые условия поиска</li>"
+
+msgid ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD><b>Suggestions:</b><br></"
+"TD></TR><TR><TD></TD><TD<TD>"
+msgstr ""
+"<TR><TD></TD><TD<TD></TD></TR><TR><TD></TD><TD<TD><b>Предложения:</b><br></"
+"TD></TR><TR><TD></TD><TD<TD>"
+
+msgid ""
+"<TR><TD></TD><TD></TD></TR><TR><TD></TD><TD>Click on the Publishers below to "
+"view their list of packages:</TD></TR>"
+msgstr ""
+"<TR><TD></TD><TD></TD></TR><TR><TD></TD><TD>Нажмите находящуюся ниже кнопку "
+"\"Издатели\" для просмотра списка пакетов этих издателей:</TD></TR>"
+
+msgid ""
+"<TR><TD></TD><TD></TD></TR><TR><TD></TD><TD>Click on the link below to view "
+"the full list of packages:</TD></TR>"
+msgstr ""
+"<TR><TD></TD><TD></TD></TR><TR><TD></TD><TD>Щелкните ссылку, расположенную "
+"ниже, для просмотра полного списка пакетов:</TD></TR>"
+
+msgid "<b>Add, modify and remove publishers</b>"
+msgstr "<b>Добавление, изменение или удаление издателей</b>"
+
+msgid "<b>Apply the following changes:</b>"
+msgstr "<b>Применить следующие изменения:</b>"
+
+msgid "<b>Couldn't change Active Boot Environment to:</b>\n"
+msgstr "<b>Не удалось изменить активную загрузочную среду на:</b>\n"
+
+msgid "<b>Couldn't delete Boot Environments:</b>\n"
+msgstr "<b>Не удалось удалить загрузочные среды:</b>\n"
+
+msgid "<b>Couldn't rename Boot Environments:</b>\n"
+msgstr "<b>Не удалось переименовать среды загрузки:</b>\n"
+
+msgid "<b>Delete, rename and activate boot environments</b>"
+msgstr "<b>Удаление, переименование и активация сред загрузки.</b>"
+
+msgid "<b>Exit</b>"
+msgstr "<b>Выход</b>"
+
+msgid "<b>Export the following to a Web Install .p5i file:</b>"
+msgstr ""
+"<b>Экспортировать в файл программы веб-установки .p5i следующие элементы:</b>"
+
+msgid "<b>General</b>"
+msgstr "<b>Общие</b>"
+
+msgid "<b>Installable Version:</b>"
+msgstr "<b>Версия для установки:</b>"
+
+msgid "<b>Installed Version:</b>"
+msgstr "<b>Установленная версия:</b>"
+
+msgid "<b>Installed:</b>"
+msgstr "<b>Установлено:</b>"
+
+msgid "<b>Name:</b>"
+msgstr "<b>Имя:</b>"
+
+msgid "<b>Origins</b>"
+msgstr "<b>Источники</b>"
+
+msgid "<b>Publisher added successfully</b>"
+msgstr "<b>Издатель добавлен успешно</b>"
+
+msgid "<b>Publisher</b>"
+msgstr "<b>Издатель</b>"
+
+msgid "<b>Recent Searches</b>"
+msgstr "<b>Недавние результаты поиска</b>"
+
+msgid "<b>Review the packages to be installed or udpated</b>"
+msgstr "<b>Проверка пакетов для установки или обновления</b>"
+
+msgid "<b>Show Confirmation Dialog</b>"
+msgstr "<b>Показывать диалоговое окно подтверждения</b>"
+
+msgid "<b>Startup</b>"
+msgstr "<b>Запуск</b>"
+
+msgid "<b>Update Manager</b>"
+msgstr "<b>Диспетчер обновлений</b>"
+
+msgid ""
+"<b>Updates are available: </b>\n"
+"%(updates)s %(installs)s %(removes)s"
+msgstr ""
+"<b>Доступны обновления: </b>\n"
+"%(updates)s %(installs)s %(removes)s"
+
+msgid "<b>Updates completed successfully</b>"
+msgstr "<b>Обновление успешно завершено</b>"
+
+msgid "<b>Upgradeable Version:</b>"
+msgstr "<b>Версия для обновления:</b>"
+
+msgid "<b>Version to Install:</b>"
+msgstr "<b>Версия для установки:</b>"
+
+msgid "<b>View Package Manager Logs</b>"
+msgstr "<b>Просмотр журналов регистрации диспетчера пакетов</b>"
+
+msgid "<b>_Mirrors</b>"
+msgstr "<b>_Зеркала</b>"
+
+msgid "<b>_SSL Key and Certificate</b>"
+msgstr "<b>_Ключ и сертификат SSL</b>"
+
+msgid "<big><b>Package Manager Web Installer</b></big>"
+msgstr "<big><b>Веб-установщик Диспетчера пакетов</b></big>"
+
+msgid ""
+"<li style='padding-left:7px'><a href='pm?pm-action=internal&search="
+"%s'>Change View to All Packages</a></li>"
+msgstr ""
+"<li style='padding-left:7px'><a href='pm?pm-action=internal&search="
+"%s'>Переход в режим просмотра \"Все пакеты\"</a></li>"
+
+msgid ""
+"<li style='padding-left:7px'>Return to <a href='pm?pm-action=internal&search="
+"%s'>Search All Publishers</a></li>"
+msgstr ""
+"<li style='padding-left:7px'>Перейдите к <a href='pm?pm-"
+"action=internal&search=%s'>Поиск по всем издателям</a></li>"
+
+msgid ""
+"<li style='padding-left:7px'>Return to <a href='pm?pm-action=internal&uri="
+"%s'>Start Page</a></li></TD></TR>"
+msgstr ""
+"<li style='padding-left:7px'>Перейдите к <a href='pm?pm-action=internal&uri="
+"%s'>начальной странице</a></li></TD></TR>"
+
+msgid ""
+"<li style='padding-left:7px'>Return to view All Installed Packages <a "
+"href='pm?pm-action=internal&search=%s'>(Installed)</a></li>"
+msgstr ""
+"<li style='padding-left:7px'>Перейдите к просмотру всех установленных "
+"пакетов <a href='pm?pm-action=internal&search=%s'>(установлено)</a></li>"
+
+msgid ""
+"<li style='padding-left:7px'>Search for <b>%(text)s</b> using All Publishers "
+"<a href='pm?pm-action=internal&search=%(all_pubs)s'>(Search)</a></li>"
+msgstr ""
+"<li style='padding-left:7px'>Поиск <b>%(text)s</b> в режиме \"Все издатели\" "
+"<a href='pm?pm-action=internal&search=%(all_pubs)s'>(поиск)</a></li>"
+
+msgid ""
+"<li style='padding-left:7px'>Search for <b>%(text)s</b> within <a href='pm?"
+"pm-action=internal&search=%(all_pubs)s'>All Publishers</a></li>"
+msgstr ""
+"<li style='padding-left:7px'>Поиск <b>%(text)s</b> по <a href='pm?pm-"
+"action=internal&search=%(all_pubs)s'>Все издатели</a></li>"
+
+msgid ""
+"<li style='padding-left:7px'>See <a href='pm?pm-action=internal&search="
+"%s'>Search Help</a></li></TD></TR>"
+msgstr ""
+"<li style='padding-left:7px'>См. <a href='pm?pm-action=internal&search="
+"%s'>Справка по поиску</a></li></TD></TR>"
+
+msgid "<span foreground=\"blue\"><u>What's this?</u></span>"
+msgstr "<span foreground=\"blue\"><u>Что это?</u></span>"
+
+msgid ""
+"<table border='0' cellpadding='3' style='table-layout:fixed' ><TR><TD><IMG "
+"SRC = '%(base)s/%(prefix)sdialog-warning.png' style='border-style: none' "
+"alt='[Warning]' title='Warning' ALIGN='bottom'></TD><TD><h3><b>Search "
+"Warning</b></h3><TD></TD></TR><TR><TD></TD><TD>Search using only the "
+"wildcard character, <b>*</b>, is not supported in All Publishers</TD></TR>"
+msgstr ""
+"<table border='0' cellpadding='3' style='table-layout:fixed' ><TR><TD><IMG "
+"SRC = '%(base)s/%(prefix)sdialog-warning.png' style='border-style: none' "
+"alt='[Предупреждение]' title='Предупреждение' ALIGN='bottom'></"
+"TD><TD><h3><b>Предупреждение поиска</b></h3><TD></TD></TR><TR><TD></"
+"TD><TD>При поиске по всем издателям не поддерживается использование только "
+"подстановочного символа <b>*</b></TD></TR>"
+
+msgid ""
+"<table border='0' cellpadding='3' style='table-layout:fixed' ><TR><TD><a "
+"href='stub'></a><IMG SRC = '%(base)s/%(prefix)sdialog-warning.png' "
+"style='border-style: none' alt='[Warning]' title='Warning' ALIGN='bottom'></"
+"TD><TD><h3><b>Warning</b></h3><TD></TD></TR><TR><TD></TD><TD>Unable to load "
+"the following URI: </TD></TR>"
+msgstr ""
+"<table border='0' cellpadding='3' style='table-layout:fixed' ><TR><TD><a "
+"href='stub'></a><IMG SRC = '%(base)s/%(prefix)sdialog-warning.png' "
+"style='border-style: none' alt='[Предупреждение]' title='Предупреждение' "
+"ALIGN='bottom'></TD><TD><h3><b>Предупреждение</b></h3><TD></TD></"
+"TR><TR><TD></TD><TD>Невозможно загрузить следующий идентификатор URI: </TD></"
+"TR>"
+
+msgid "A '%s' action cannot be present in a renamed package: %s"
+msgstr "Действие '%s' не может быть в переименованном пакете: %s"
+
+msgid "A '%s' action cannot be present in an obsolete package: %s"
+msgstr "Действие '%s' не может быть в устаревшем пакете: %s"
+
+msgid ""
+"A boolean which determines if the Details panel in the Install Remove "
+"progress dialog is expanded or not."
+msgstr ""
+"Булево значение, определяющее, развернута ли панель \"Подробные данные\" в "
+"диалоговом окне хода выполнения установки и удаления."
+
+msgid ""
+"A boolean which determines if the Start Page should be shown on startup or "
+"the initial list view."
+msgstr ""
+"Логическое значение, определяющее, что выводится при запуске - начальная "
+"страница или начальный список."
+
+msgid ""
+"A boolean which determines whether Package Manager should save its state on "
+"exit and use it on restart. The state is the selected publisher and the size "
+"and position of horizontal and vertical dividers."
+msgstr ""
+"Логическое значение, указывающее необходимость сохранения состояния "
+"Диспетчера пакетов при выходе и использования его при перезапуске. В данное "
+"состояние входит выбранный издатель, размер и позиция горизонтальных и "
+"вертикальных разделителей."
+
+msgid ""
+"A boolean which determines whether Package Manager should show confirmation "
+"dialog when the updates are found after performing Updates operation (Checks "
+"if updates are available) or it should go straight to the update all "
+"operation."
+msgstr ""
+"Булево значение, определяющее, необходимо ли открывать диалоговое окно "
+"подтверждения в диспетчере пакетов при обнаружении обновлений после "
+"выполнения операции \"Обновления\" (проверка наличия обновлений). "
+"Альтернативой является выполнение операции обновления всех пакетов без "
+"подтверждения."
+
+msgid ""
+"A boolean which determines whether Package Manager should show confirmation "
+"dialog when the user selected some packages for installation or update."
+msgstr ""
+"Булево значение, определяющее, необходимо ли открывать диалоговое окно "
+"подтверждения в диспетчере пакетов при выборе ряда пакетов для установки или "
+"обновления."
+
+msgid ""
+"A boolean which determines whether Package Manager should show confirmation "
+"dialog when the user selected some packages for removal."
+msgstr ""
+"Булево значение, определяющее, необходимо ли открывать диалоговое окно "
+"подтверждения в диспетчере пакетов при выборе ряда пакетов для удаления."
+
+msgid ""
+"A boolean which determines whether Package Manager should start in search "
+"mode."
+msgstr ""
+"Логическое значение, указывающее необходимость запуска Диспетчера пакетов в "
+"режиме поиска."
+
+msgid ""
+"A boot environment (BE) contains the operating\n"
+"system image and updated packages. The\n"
+"system will boot into the new BE on restart."
+msgstr ""
+"В загрузочной среде (BE) содержится образ операционной\n"
+"системы и обновленные пакеты.\n"
+"Загрузка новой загрузочной среды выполняется после перезапуска."
+
+msgid ""
+"A cache directory must be provided if using reference or lint repositories."
+msgstr ""
+"При использовании ссылочных хранилищ или хранилищ lint необходимо "
+"предоставить каталог кэша."
+
+msgid ""
+"A new boot environment has been created and will be given the\n"
+"following name."
+msgstr ""
+"Создана новая среда загрузки, которой присвоено\n"
+"следующее имя."
+
+msgid "A package may not  be marked for both obsoletion and renaming."
+msgstr ""
+"Пакет не может быть одновременно помечен как устаревший и переименованный."
+
+msgid ""
+"A package repository (or a directory with content) already exists at '%s'."
+msgstr "Хранилище пакета (или каталог с содержимым) уже существует в '%s'."
+
+msgid "A package repository location must be provided using -s."
+msgstr "Местоположение каталога пакета необходимо предоставить при помощи -s."
+
+msgid ""
+"A problem occurred while attempting to rename the boot environment\n"
+"currently named %(orig)s to %(dest)s."
+msgstr ""
+"Проблема при попытке переименования среды загрузки \n"
+"с текущим именем %(orig)s в %(dest)s."
+
+msgid "A publisher with the same name or alias as '%s' already exists."
+msgstr ""
+"Издатель с таким же именем или псевдонимом, что и '%s', уже существует."
+
+msgid ""
+"A query is expected to have five fields: case sensitivity, return type, "
+"number of results to return, the number at which to start returning results, "
+"and the text of the query.  The query provided lacked at least one of those "
+"fields:\n"
+"%s"
+msgstr ""
+"Для запроса предполагалось наличие пяти полей: учет регистра, тип возврата, "
+"число возвращаемых результатов, число начала возврата результатов и текст "
+"запроса. В предоставленном запросе отсутствует как минимум одно из этих "
+"полей:\n"
+"%s"
+
+msgid "A renamed package cannot contain actions other than 'set' and 'depend'."
+msgstr ""
+"Переименованный пакет не может содержать иных действий, кроме действий 'set' "
+"и 'depend'."
+
+msgid "A renamed package must contain at least one 'depend' action."
+msgstr ""
+"Переименованный пакет должен включать в себя минимум одно действие 'depend'."
+
+msgid ""
+"A repository with the same name or origin URIs already exists for publisher "
+"'%s'."
+msgstr ""
+"Хранилище с таким же именем или идентификаторами URI источников уже "
+"существует для издателя '%s'."
+
+msgid ""
+"A signature in %(pfmri)s could not be verified for this reason:\n"
+"%(reason)s\n"
+"The signature's hash is %(hash)s"
+msgstr ""
+"Не удалось проверить подпись в %(pfmri)s по причине:\n"
+"%(reason)s\n"
+"Хэш подписи: %(hash)s"
+
+msgid ""
+"A string which determines if the repository is shown or not in the error "
+"dialog."
+msgstr ""
+"Строка, указывающая необходимость вывода хранилища в диалоговом окне ошибки."
+
+msgid "A string which stores the last publisher used by package manager."
+msgstr ""
+"Строка, в которой сохраняется последний издатель, используемый в Диспетчере "
+"пакетов."
+
+msgid ""
+"A text message describing the updates is displayed near the panel's "
+"Notification Area when updates become available if set to true."
+msgstr ""
+"Текстовое сообщение с описанием состояния обновлений отображается возле "
+"области уведомлений панели в случае наличия доступных обновлений, если "
+"параметр имеет значение \"истина\"."
+
+msgid "A valid package FMRI must be specified."
+msgstr "Необходимо указать действительный FMRI пакета."
+
+msgid "A valid response was not returned."
+msgstr "Допустимый ответ не вернулся."
+
+msgid "ACTIONS"
+msgstr "ДЕЙСТВИЯ"
+
+msgid "AMP Stack"
+msgstr "Стек AMP"
+
+msgid "A_ccept"
+msgstr "_Принять"
+
+msgid "A_dd"
+msgstr "До_бавить"
+
+msgid "A_lias:"
+msgstr "_Псевдоним"
+
+msgid "About Glade"
+msgstr "О Glade"
+
+msgid "Accessories"
+msgstr "Стандартные приложения"
+
+msgid "Action not supported: %s"
+msgstr "Действие не поддерживается: %s"
+
+msgid "Active on Reboot"
+msgstr "Активен после перезагрузки"
+
+msgid "Active on reboot\n"
+msgstr "Активен после перезагрузки\n"
+
+msgid "Actuators for %(attr)s will not be run for %(fmri)s."
+msgstr "Активаторы для %(attr)s не будут выполняться для %(fmri)s."
+
+msgid "Add More Software"
+msgstr "Добавить дополнительное программное обеспечение"
+
+msgid "Add Publisher"
+msgstr "Добавить издателя"
+
+msgid "Add..."
+msgstr "Добавить..."
+
+msgid "Adding Publisher"
+msgstr "Добавление издателя"
+
+msgid "Adding Publisher Complete"
+msgstr "Добавление издателя выполнено"
+
+msgid "Adding publisher %s\n"
+msgstr "Добавление издателя %s\n"
+
+msgid "Administration and Configuration"
+msgstr "Администрирование и настройка"
+
+msgid "Affected fmris:"
+msgstr "Поврежденные FMRI:"
+
+msgid ""
+"Afterwards, the old publisher should be removed by executing the\n"
+"following command as a privileged user:\n"
+"\n"
+"pkg unset-publisher %s\n"
+msgstr ""
+"После этого старого издателя следует удалить \n"
+"следующей командой от имени привилегированного пользователя:\n"
+"\n"
+"pkg unset-publisher %s\n"
+
+msgid "Alias"
+msgstr "Псевдоним"
+
+msgid "Alias already in use"
+msgstr "Псевдоним уже используется"
+
+msgid "Alias contains invalid characters"
+msgstr "Псевдоним содержит недопустимые символы"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Categories"
+msgstr "Все категории"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "All Installed Packages"
+msgstr "Все установленные пакеты"
+
+msgid "All Packages"
+msgstr "Все пакеты"
+
+msgid "All Publishers"
+msgstr "Все издатели"
+
+msgid "All Publishers (Search)"
+msgstr "Все издатели (поиск)"
+
+msgid "All packages already installed."
+msgstr "Все пакеты уже установлены."
+
+msgid "All specified publishers are already on the system."
+msgstr "Все указанные издатели уже в системе."
+
+msgid ""
+"An error occurred while trying to initialize the repository directory "
+"structures:\n"
+"%s"
+msgstr ""
+"Ошибка произошла при попытке инициализации структур каталога хранилища:\n"
+"%s"
+
+msgid ""
+"An error was encountered while attempting to load history information\n"
+"about past client operations."
+msgstr ""
+"Произошла ошибка во время попытки загрузки информации\n"
+"из истории последних операций клиента."
+
+msgid "An error was encountered while attempting to purge client history."
+msgstr " Произошла ошибка во время попытки очистки истории клиента."
+
+msgid ""
+"An error was encountered while attempting to store information about the\n"
+"current operation in client history."
+msgstr ""
+"Произошла ошибка во время попытки сохранения в истории клиента\n"
+"информации о текущей операции."
+
+msgid ""
+"An integer which identifies the initial show filter value to be displayed "
+"when packagemanager starts. 0 corresponds to All Packages."
+msgstr ""
+"Целочисленное значение, определяющее начальное значение фильтра отображения "
+"при запуске Диспетчера пакетов. 0 соответствует выводу всех пакетов."
+
+msgid ""
+"An integer which identifies the initial toplevel section to be expanded when "
+"packagemanager starts. 0 = \"All Categories\", 2 = \"Applications\" (the "
+"default)"
+msgstr ""
+"Целочисленное значение, определяющее начальный раздел верхнего уровня "
+"расширения при запуске Диспетчера пакетов. 0 = \"Все категории\", 2 = "
+"\"Приложения\" (по умолчанию)"
+
+msgid ""
+"An integer which specifies the initial height of the application main "
+"window, overridden if there is not enough screen available."
+msgstr ""
+"Целочисленное значение, указывающее начальную высоту главного окна "
+"приложения; не используется при недостатке экранного пространства."
+
+msgid ""
+"An integer which specifies the initial horizonatal divider position of the "
+"application, which separates the category panel from the list panel."
+msgstr ""
+"Целочисленное значение, указывающее начальное положение горизонтального "
+"разделителя приложения, отделяющего панель категорий от панели списка."
+
+msgid ""
+"An integer which specifies the initial vertical divider position of the "
+"application, which separates the details panel from the list panel."
+msgstr ""
+"Целочисленное значение, указывающее начальное положение вертикального "
+"разделителя приложения, отделяющего панель подробных данных от панели списка."
+
+msgid ""
+"An integer which specifies the initial width of the application main window, "
+"overridden if there is not enough screen available."
+msgstr ""
+"Целочисленное значение, указывающее начальную ширину главного окна "
+"приложения; не используется при недостатке экранного пространства."
+
+msgid ""
+"An integer which specifies the maximum number of entries to store for search "
+"completion."
+msgstr ""
+"Целочисленное значение, указывающее максимальное число сохраняемых записей "
+"для выполнения поиска."
+
+msgid "An obsolete package cannot contain actions other than 'set'."
+msgstr ""
+"Устаревший пакет не может содержать иных действий кроме действия 'set'."
+
+msgid "An unexpected error happened during %s: %s"
+msgstr "Произошла неожиданная ошибка во время %s: %s"
+
+msgid "An unknown error occurred"
+msgstr "Произошла неизвестная ошибка"
+
+msgid ""
+"An unknown error occurred in the %s stage.\n"
+"Please let the developers know about this problem by filing a bug together "
+"with the error details listed below at:\n"
+msgstr ""
+"На этапе %s произошла неизвестная ошибка.\n"
+"Сообщите разработчикам об этой проблеме, отправив отчет об ошибке вместе с "
+"подробными данными об ошибке по адресу:\n"
+
+msgid "An unparseable character in query at position : %d"
+msgstr "Неанализируемый символ в запросе в позиции: %d"
+
+msgid "Another instance of UpdateManagerNotify is running"
+msgstr "Запущен еще один экземпляр средства уведомления диспетчера обновлений"
+
+msgid "Application and Web Servers"
+msgstr "Приложение и веб-серверы"
+
+msgid "Applications"
+msgstr "Приложения"
+
+msgid "Apply the following change:"
+msgid_plural "Apply the following changes:"
+msgstr[0] "Применить следующее изменение:"
+msgstr[1] "Применить следующие изменения:"
+
+msgid "Applying Changes"
+msgstr "Применение изменений"
+
+msgid "Applying changes"
+msgstr "Применение изменений"
+
+msgid "Applying changes, please wait ..."
+msgstr "Применение изменений, подождите..."
+
+msgid "Applying changes..."
+msgstr "Применение изменений..."
+
+msgid "Argument to -n must be numeric"
+msgstr "Аргумент для -n должен быть цифровым"
+
+msgid "Argument to -n must be positive"
+msgstr "Аргумент для -n должен быть положительным"
+
+msgid ""
+"At least one certificate has not been delivered for the signature action."
+msgstr "Для действия подписи не предоставлен по крайней мере один сертификат."
+
+msgid "At least one certificate hash must be provided."
+msgstr "Необходимо предоставить минимум один сертификат."
+
+msgid "At least one fmri must be provided for signing."
+msgstr "Для подписи необходимо предоставить по крайней мере один FMRI."
+
+msgid ""
+"At least one name must be provided for the signature-required-names policy."
+msgstr ""
+"Для политики signature-required-names необходимо предоставить минимум одно "
+"свойство."
+
+msgid ""
+"At least one origin is required for %s.  You must add a new origin before "
+"attempting to remove the specified origin(s)."
+msgstr ""
+"Для %s необходимо указать по крайней мере один источник. Перед попыткой "
+"удаления указанного источника или источников следует добавить дополнительный "
+"источник."
+
+msgid "At least one path to a certificate must be provided."
+msgstr "Необходимо предоставить минимум один путь к сертификату."
+
+msgid "At least one proto directory must be provided."
+msgstr "Необходимо предоставить минимум один каталог proto."
+
+msgid "Attribute value '%s' not 'true' or 'false'"
+msgstr "Значение атрибута '%s' не 'true' или 'false'"
+
+msgid "B"
+msgstr "Б"
+
+msgid "BE Name"
+msgstr "Имя загрузочной среды"
+
+msgid "BE error"
+msgstr "Ошибка среды загрузки"
+
+msgid "BE management"
+msgstr "Управление загрузочной средой "
+
+msgid "BE name contains invalid character."
+msgstr "Имя загрузочной среды включает недействительный символ."
+
+msgid "B_rowse..."
+msgstr "_Обзор..."
+
+msgid "Basic subcommands:"
+msgstr "Основные подкоманды:"
+
+msgid "Boot Environment"
+msgstr "Загрузочная среда"
+
+msgid "Boot Environment Confirmation"
+msgstr "Подтверждение среды загрузки"
+
+msgid ""
+"Boot environment naming during package install is not supported on this\n"
+"version of OpenSolaris. Please image-update without the --be-name option."
+msgstr ""
+"Присвоение названий средам загрузки при установке пакетов не поддерживается "
+"в данной\n"
+"версии OpenSolaris. Выполните image-update без параметра --be-name."
+
+msgid "Bro_wse..."
+msgstr "_Обзор"
+
+msgid "Broken: Path and Target (%s) inodes not the same"
+msgstr "Неисправно: путь и цель (%s) inodes не совпадают"
+
+msgid "Browse for SSL Certificate"
+msgstr "Выбор сертификата SSL"
+
+msgid "Browse for SSL Key"
+msgstr "Выбор ключа SSL"
+
+msgid "Build"
+msgstr "Компоновка"
+
+msgid "Builds"
+msgstr "Компоновки"
+
+msgid "C"
+msgstr "C"
+
+msgid "C++"
+msgstr "C++"
+
+msgid "CLIENT"
+msgstr "КЛИЕНТ"
+
+msgid "C_lear Search"
+msgstr "О_чистить поиск"
+
+msgid "Caching catalogs ..."
+msgstr "Кэширование каталогов..."
+
+msgid "Caching catalogs ...\n"
+msgstr "Кэширование каталогов...\n"
+
+msgid "Can not modify system repository using method '%s'."
+msgstr "Невозможно изменить системное хранилище с использованием метода '%s'."
+
+msgid "Cancel current operation"
+msgstr "Отменить текущую операцию"
+
+msgid "Canceling..."
+msgstr "Отмена..."
+
+msgid "Canceling...\n"
+msgstr "Отмена...\n"
+
+msgid ""
+"Cannot add a value to a single valued property.  The property name is: "
+"%(name)s and the current value is: %(value)s"
+msgstr ""
+"Невозможно добавить значение для свойства с одним значением. Имя свойства – "
+"%(name)s, а текущее значение – %(value)s"
+
+msgid ""
+"Cannot install '%(final_path)s'; parent directory %(parent_dir)s is a link "
+"to %(parent_target)s.  To continue, move the directory to its original "
+"location and try again."
+msgstr ""
+"Невозможно установить '%(final_path)s'; родительский каталог %(parent_dir)s "
+"является ссылкой на %(parent_target)s. Для продолжения переместите каталог в "
+"исходное местоположение и повторите попытку."
+
+msgid "Cannot remove '%s' due to the following packages that depend on it:"
+msgstr "Невозможно удалить '%s', так как от него зависят следующие пакеты:"
+
+msgid ""
+"Cannot remove a value from a single valued property, unset must be used.  "
+"The property name is: %(name)s and the current value is: %(value)s"
+msgstr ""
+"Невозможно удалить значение из свойства с одним значением, используйте "
+"функцию возврата в исходное состояние. Имя свойства – %(name)s, а текущее "
+"значение – %(value)s"
+
+msgid ""
+"Cannot remove a value from a single valued property, unset must be used. The "
+"property name is '%(name)s' and the current value is '%(value)s'"
+msgstr ""
+"Невозможно удалить значение свойства с одним значением, используйте функцию "
+"возврата в исходное состояние. Имя свойства – '%(name)s', а текущее значение "
+"– '%(value)s'"
+
+msgid ""
+"Cannot remove a value from the property %(name)s because the property does "
+"not exist."
+msgstr ""
+"Невозможно удалить значение свойства %(name)s, поскольку данное свойство "
+"отсутствует."
+
+msgid "Cannot remove the selected repository for a publisher."
+msgstr "Удаление выбранного хранилища для издателя невозможно."
+
+msgid ""
+"Cannot remove the value %(value)s from the property %(name)s because the "
+"value is not in the property's list."
+msgstr ""
+"Невозможно удалить значение %(value)s из свойства %(name)s, поскольку это "
+"значение отсутствует в списке свойств."
+
+msgid ""
+"Cannot remove:\n"
+"\t%s\n"
+"Due to the following packages that depend on it:\n"
+msgstr ""
+"Невозможно удалить:\n"
+"\t%s\n"
+"вследствие зависимости следующих пакетов:\n"
+
+msgid "Cannot search a repository before or after itself"
+msgstr "Невозможно выполнить поиск по предыдущему или следующему хранилищу."
+
+msgid "Cannot upgrade to the latest version of %s."
+msgstr "Не удалось выполнить обновление до последней версии %s."
+
+msgid "Catalog file '%s' is invalid."
+msgstr "Недопустимый файл каталога '%s'."
+
+msgid ""
+"Catalog meta_root '%(root)s' is invalid; unable to complete operation: "
+"'%(op)s'."
+msgstr ""
+"Каталог meta_root '%(root)s' является недопустимым; невозможно завершить "
+"операцию: '%(op)s'."
+
+msgid "Catalog refresh error:\n"
+msgstr "Ошибка обновления каталога:\n"
+
+msgid "Catalog updates can only be applied to an on-disk catalog."
+msgstr "Обновления каталога могут быть применены только к каталогу на диске."
+
+msgid "Category:"
+msgstr "Категория:"
+
+msgid "Cert. Expiration Date:"
+msgstr "Дата истечения действия сертификата:"
+
+msgid ""
+"Certificate %s has been modified on disk. Its hash value is not what was "
+"expected."
+msgstr ""
+"Сертификат %s был изменен на диске. Значение хэша не соответствует "
+"ожидаемому."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s' has a future effective date."
+msgstr ""
+"Дата вступления в силу сертификата '%(cert)s' для издателя '%(pub)s' "
+"находится в будущем."
+
+msgid "Certificate '%(cert)s' for publisher '%(pub)s' is invalid."
+msgstr ""
+"Сертификат '%(cert)s' для издателя '%(pub)s' является недействительным."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s' needed to access '%(uri)s', "
+"has expired.  Please install a valid certificate."
+msgstr ""
+"Истек срок действия сертификата '%(cert)s' для издателя '%(pub)s, требуемого "
+"для доступа к '%(uri)s'. Установите действующий сертификат."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s' will expire in '%(days)s' "
+"days."
+msgstr ""
+"Срок действия сертификата '%(cert)s' для издателя '%(pub)s' закончится через "
+"'%(days)s' дней."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s', has expired.  Please install "
+"a valid certificate."
+msgstr ""
+"Истек срок действия сертификата '%(cert)s' для издателя '%(pub)s'. "
+"Установитедействующий сертификат."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s', needed to access '%(uri)s', "
+"has a future effective date."
+msgstr ""
+"Дата вступления в силу сертификата '%(cert)s' для издателя '%(pub)s', "
+"требуемого для доступа к '%(uri)s', находится в будущем."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s', needed to access '%(uri)s', "
+"is invalid."
+msgstr ""
+"Сертификат '%(cert)s' для издателя '%(pub)s', требуемый для доступа к "
+"'%(uri)s', является недействительным."
+
+msgid ""
+"Certificate '%(cert)s' for publisher '%(pub)s', needed to access '%(uri)s', "
+"will expire in '%(days)s' days."
+msgstr ""
+"Срок действия сертификата '%(cert)s' для издателя '%(pub)s', требуемого для "
+"доступа к '%(uri)s', закончится через '%(days)s' дней."
+
+msgid ""
+"Certificate '%(cert)s' needed to access '%(uri)s' has a future effective "
+"date."
+msgstr ""
+"Дата вступления в силу сертификата '%(cert)s', требуемого для доступа к "
+"'%(uri)s', находится в будущем."
+
+msgid "Certificate '%(cert)s' needed to access '%(uri)s' is invalid."
+msgstr ""
+"Сертификат '%(cert)s', требуемый для доступа к '%(uri)s', является "
+"недействительным."
+
+msgid "Certificate '%(cert)s' will expire in '%(days)s' days."
+msgstr "Срок действия сертификата '%(cert)s' закончится через '%(days)s' дней."
+
+msgid ""
+"Certificate '%(cert)s', needed to access '%(uri)s', has expired.  Please "
+"install a valid certificate."
+msgstr ""
+"Истек срок действия сертификата '%(cert)s', требуемого для доступа к "
+"'%(uri)s'. Установитедействующий сертификат."
+
+msgid ""
+"Certificate '%(cert)s', needed to access '%(uri)s', will expire in "
+"'%(days)s' days."
+msgstr ""
+"Срок действия сертификата '%(cert)s', требуемого для доступа к '%(uri)s', "
+"закончится через '%(days)s' дней."
+
+msgid "Certificate '%s' has a future effective date."
+msgstr "Дата вступления в силу сертификата '%s' находится в будущем."
+
+msgid "Certificate '%s' has expired.  Please install a valid certificate."
+msgstr ""
+"Истек срок действия сертификата '%s'. Установите действующий сертификат."
+
+msgid "Chain was rooted in an untrusted self-signed certificate.\n"
+msgstr ""
+"Корень цепочки находится в недоверительном самоподписывающемся сертификате.\n"
+
+msgid "Change Priorities:\n"
+msgstr "Изменить приоритеты:\n"
+
+msgid "Change View to %(s1)sAll Packages%(e1)s"
+msgstr "Изменить вид на %(s1)sВсе пакеты%(e1)s"
+
+msgid "Changed fmris:"
+msgstr "Измененные FMRI:"
+
+msgid "Changed variants/facets:"
+msgstr "Измененные варианты/грани:"
+
+msgid "Changing priority for publisher %s\n"
+msgstr "Изменение приоритета издателя %s\n"
+
+msgid "Check for and install all available Updates."
+msgstr "Проверка и установка доступных обновлений."
+
+msgid "Checking package dependencies..."
+msgstr "Проверка зависимостей пакета..."
+
+msgid "Checks for duplicate IPS actions."
+msgstr "Проверки на дублированные действия IPS."
+
+msgid "Checks for errors within the scope of a single manifest."
+msgstr "Проверки на ошибки в рамках одного манифеста."
+
+msgid "Checks if updates are available"
+msgstr "Проверка наличия обновлений"
+
+msgid "Clear Recent Searc_hes"
+msgstr "Сброс недавних результатов поиска"
+
+msgid "Click Proceed <b>only</b> if you trust this new publisher "
+msgid_plural "Click Proceed <b>only</b> if you trust these new publishers "
+msgstr[0] ""
+"Нажмите кнопку \"Продолжить\" <b>только</b> если вы доверяете этому новому "
+"издателю "
+msgstr[1] ""
+"Нажмите кнопку \"Продолжить\" <b>только</b> если вы доверяете этим новым "
+"издателям "
+
+msgid "Click on the search results link below to view the stored results:"
+msgid_plural ""
+"Click on one of the search results links below to view the stored results:"
+msgstr[0] ""
+"Щелкните ссылку на результаты поиска ниже для просмотра сохраненных "
+"результатов:"
+msgstr[1] ""
+"Щелкните один из результатов поиска ниже для просмотра сохраненных "
+"результатов:"
+
+msgid "Click to toggle selections"
+msgstr "Нажмите для переключения выбранных параметров"
+
+msgid ""
+"Comma separated list of repositories which we show if there are API errors "
+"when searching them"
+msgstr ""
+"Список хранилища с запятой в качестве разделителя, который выводится при "
+"наличии ошибок API во время их поиска"
+
+msgid "Communications"
+msgstr "Средства связи"
+
+msgid "Configuration and Preferences"
+msgstr "Настройка и параметры"
+
+msgid "Confirmation"
+msgstr "Подтверждение"
+
+msgid ""
+"Copyright (c) 2008, 2010, Oracle and/or its affiliates.\n"
+"All rights reserved."
+msgstr ""
+"Copyright (c) 2008, 2010, Корпорация Oracle и ее филиалы.\n"
+"Все права защищены."
+
+msgid "Core"
+msgstr "Ядро"
+
+msgid ""
+"Could not change the BE name to:\n"
+"\t%s\n"
+"\n"
+"The following name will be used instead:\n"
+"\t%s"
+msgstr ""
+"Невозможно изменить имя загрузочной среды на:\n"
+"\t%s\n"
+"\n"
+"Будет использовано следующее имя:\n"
+"\t%s"
+
+msgid "Could not complete the operation on %s: read-only filesystem."
+msgstr ""
+"Не удалось выполнить операцию в %s: файловая система доступна только для "
+"чтения."
+
+msgid "Could not complete the operation: read-only filesystem."
+msgstr ""
+"Не удалось выполнить операцию: файловая система доступна только для чтения."
+
+msgid "Could not find %s"
+msgstr "Не удалось найти %s"
+
+msgid ""
+"Could not find image.  Use the -R option or set $PKG_IMAGE to point\n"
+"to an image, or change the working directory to one inside the image."
+msgstr ""
+"Образ не найден. Используйте параметр -R или настройте $PKG_IMAGE для "
+"указания\n"
+"образа, или измените рабочий каталог на каталог внутри образа."
+
+msgid "Could not find the file for %(name)s imported in %(localpath)s"
+msgstr "Не удалось найти файл для %(name)s, импортированного в %(localpath)s"
+
+msgid "Could not open %s to echo manifest"
+msgstr "Не удалось открыть %s для эхо-тестирования манифеста"
+
+msgid "Could not open output file %s for writing"
+msgstr "Не удалось открыть выходной файл %s для записи"
+
+msgid ""
+"Could not operate on %s\n"
+"because of insufficient permissions. Please try the command again using "
+"pfexec\n"
+"or otherwise increase your privileges."
+msgstr ""
+"Работа с %s невозможна\n"
+"из-за недостаточных полномочий. Повторите попытку вызова команды с "
+"помощьюpfexec\n"
+"или повысьте уровень полномочий другим способом."
+
+msgid ""
+"Could not operate on %s\n"
+"because the file is in use. Please stop using the file and try the\n"
+"operation again."
+msgstr ""
+"Работа с %s невозможна,\n"
+"поскольку файл используется. Прекратите использование этого файла и "
+"повторите попытку\n"
+"выполнения действия."
+
+msgid ""
+"Could not parse manifest %(manifest)s because of the following line:\n"
+"%(line)s"
+msgstr ""
+"Не удалось проанализировать манифест %(manifest)s из-за следующей строки:\n"
+"%(line)s"
+
+msgid "Could not parse one or more manifests because of the "
+msgstr "Не удалось проанализировать один или несколько манифестов из-за "
+
+msgid "Could not parse query."
+msgstr "Не удалось проанализировать запрос."
+
+msgid "Could not refresh the catalog for %s\n"
+msgstr "Не удалось обновить каталог для %s\n"
+
+msgid ""
+"Could not restart the system.\n"
+"Please restart the system manually."
+msgstr ""
+"Не удалось перезагрузить систему.\n"
+"Выполните перезагрузку вручную."
+
+msgid "Couldn't find %s"
+msgstr "Не удалось найти %s"
+
+msgid "Created"
+msgstr "Создано"
+
+msgid "Created ZFS snapshot: %s"
+msgstr "Создан снимок ZFS: %s"
+
+msgid "Creating Plan"
+msgstr "Создание плана"
+
+msgid "Creating Plan %c"
+msgstr "Создание плана %c"
+
+msgid "Creating image at %s"
+msgstr "Создание образа в %s"
+
+msgid "Currently active boot environment"
+msgstr "Активная в данный момент загрузочная среда"
+
+msgid "DOWNLOAD"
+msgstr "ЗАГРУЗКА"
+
+msgid "D_eselect All"
+msgstr "_Отменить выделение"
+
+msgid "D_etails"
+msgstr "_Подробные сведения"
+
+msgid "Databases"
+msgstr "Базы данных"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete\n"
+msgstr "Удалить\n"
+
+msgid "Dependencies"
+msgstr "Зависимости"
+
+msgid "Dependencies info not available for this package..."
+msgstr "Нет информации о зависимостях для данного пакета..."
+
+msgid "Dependency"
+msgstr "Зависимость"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Desktop (GNOME)"
+msgstr "Рабочий стол (GNOME)"
+
+msgid "Details"
+msgstr "Подробности"
+
+msgid ""
+"Details follow:\n"
+"\n"
+"%s"
+msgstr ""
+"Подробные сведения приведены ниже:\n"
+"\n"
+"%s"
+
+msgid "Developer Tools"
+msgstr "Инструменты разработчика"
+
+msgid "Development"
+msgstr "Разработка"
+
+msgid "Directory listing not allowed."
+msgstr "Содержимое каталога не разрешено."
+
+msgid "Disable Publisher:\n"
+msgid_plural "Disable Publishers:\n"
+msgstr[0] "Отключить издатель:\n"
+msgstr[1] "Отключить издателей:\n"
+
+msgid "Disabled Publisher"
+msgid_plural "Disabled Publishers"
+msgstr[0] "Отключенный издатель"
+msgstr[1] "Отключенные издатели"
+
+msgid "Disabling"
+msgstr "Отключение"
+
+msgid "Disabling Publisher"
+msgid_plural "Disabling Publishers"
+msgstr[0] "Отключение издателя"
+msgstr[1] "Отключение издателей"
+
+msgid "Display"
+msgstr "Дисплей"
+
+msgid "Display %(s1)sSearch Help%(e1)s"
+msgstr "Отобразить %(s1)sСправка по поиску%(e1)s"
+
+msgid "Display confirmation dialog after Check for updates"
+msgstr ""
+"Открывать диалоговое окно подтверждения после выполнения операции проверки "
+"наличия обновлений"
+
+msgid "Display install/update packages confirmation dialog"
+msgstr ""
+"Открывать диалоговое окно подтверждения при установке/обновлении пакетов"
+
+msgid "Display remove packages confirmation dialog"
+msgstr "Открывать диалоговое окно подтверждения при удалении пакетов"
+
+msgid "Display selected publisher at startup"
+msgstr "Просмотр выбранного издателя при запуске"
+
+msgid "Distribution Tools"
+msgstr "Средства дистрибутива"
+
+msgid "Distributions"
+msgstr "Дистрибутивы"
+
+msgid "Do not notify me about these publishers again."
+msgstr "Более не уведомлять об этих издателях."
+
+msgid "Documentation"
+msgstr "Документация"
+
+msgid "Done"
+msgstr "Готово"
+
+msgid "Download"
+msgstr "Загрузка"
+
+msgid "Download: %s ... "
+msgstr "Загрузка: %s ... "
+
+msgid "Downloaded %(current)s of %(total)s"
+msgstr "Загружено %(current)s из %(total)s"
+
+msgid "Downloading..."
+msgstr "Загрузка..."
+
+msgid "Drivers"
+msgstr "Драйверы"
+
+msgid "EB"
+msgstr "ЭБ"
+
+msgid "ENABLED"
+msgstr "ВКЛЮЧЕНО"
+
+msgid "ERROR"
+msgstr "ОШИБКА"
+
+msgid "Editors"
+msgstr "Редакторы"
+
+msgid ""
+"Either a cache directory, or some local manifest files must be provided."
+msgstr ""
+"Необходимо предоставить каталог кэша или некоторые локальные файлы манифеста."
+
+msgid "Elfhash: %(found)s should be %(expected)s"
+msgstr "Elfhash: %(found)s должно быть %(expected)s"
+
+msgid "Empty Action not supported"
+msgstr "Пустые действия не поддерживаются"
+
+msgid "Empty path attribute"
+msgstr "Пустой атрибут пути"
+
+msgid "Enable Publisher:\n"
+msgid_plural "Enable Publishers:\n"
+msgstr[0] "Включить издатель:\n"
+msgstr[1] "Включить издателей:\n"
+
+msgid "Enabled"
+msgstr "Включено"
+
+msgid "Enabling"
+msgstr "Включение"
+
+msgid "Enabling Publisher"
+msgid_plural "Enabling Publishers"
+msgstr[0] "Включение издателя"
+msgstr[1] "Включение издателей"
+
+msgid "Ensuring %s is up to date..."
+msgstr "Проверка актуальности %s..."
+
+msgid "Enterprise Management"
+msgstr "Управление предприятием"
+
+msgid "Error"
+msgstr "Ошибка "
+
+msgid "Error details:\n"
+msgstr "Подробные данные об ошибке :\n"
+
+msgid ""
+"Error encountered while retrieving data from '%s':\n"
+"%s"
+msgstr ""
+"Ошибка при извлечении данных из '%s':\n"
+"%s"
+
+msgid "Error encountered while retrieving data from: %s"
+msgstr "Ошибка при извлечении данных из: %s"
+
+msgid "Error in %(file)s line: %(ln)s: %(err)s "
+msgstr "Ошибка в строке %(file)s: %(ln)s: %(err)s "
+
+msgid "Error in file %(file)s: %(err)s"
+msgstr "Ошибка в файле %(file)s: %(err)s"
+
+msgid "Error parsing config value for %(key)s: %(err)s"
+msgstr "Значение настройки синтаксического анализа ошибки для %(key)s: %(err)s"
+
+msgid "Error: %s"
+msgstr "Ошибка: %s"
+
+msgid "Errors and Warnings"
+msgstr "Ошибки и предупреждения"
+
+msgid "Errors logged: click to view"
+msgstr "В журнал занесены ошибки: щелкните для просмотра"
+
+msgid "Evaluating: %s"
+msgstr "Анализ: %s"
+
+msgid "Exception traceback:\n"
+msgstr "Результат отслеживания исключения:\n"
+
+msgid "Executing..."
+msgstr "Выполнение..."
+
+msgid "Expand Details in Install Remove"
+msgstr ""
+"Развернуть панель \"Подробные данные\" в диалоговом окне установки и удаления"
+
+msgid "Export Selections"
+msgstr "Экспорт выбранных параметров"
+
+msgid "Export Selections Confirmation"
+msgstr "Подтверждение экспорта выбранных параметров"
+
+msgid "Export Selections Error"
+msgstr "Ошибка экспорта выбранных параметров"
+
+msgid "FILES"
+msgstr "ФАЙЛЫ"
+
+msgid "FMRI '%s' is missing version information."
+msgstr "Для FMRI '%s' необходима информация о версии."
+
+msgid "FMRI does not appear to be valid"
+msgstr "FMRI оказался недействительным"
+
+msgid "FMRI is delivered by multiple files: %s"
+msgstr "FMRI поставляется в нескольких файлах: %s"
+
+msgid "FMRI pattern might implicitly match more than one service instance."
+msgstr ""
+"Шаблон FMRI может косвенно соответствовать нескольким экземплярам службы."
+
+msgid "Facet arguments must beform 'facet..=[True|False]'"
+msgstr "Аргументы грани должны указываться в форме \"facet..=[True|False]\"."
+
+msgid "Facet change has no effect on image"
+msgstr "Изменение грани не оказывает воздействия на образ."
+
+msgid "Failed to add %s.\n"
+msgstr "Добавление %s не удалось.\n"
+
+msgid "Fatal error in manifest - exiting."
+msgstr "Фатальная ошибка в манифесте - выход."
+
+msgid "Fetching BE entries..."
+msgstr "Получение записей загрузочной среды..."
+
+msgid "Fetching dependencies information..."
+msgstr "Получение данных о зависимостях..."
+
+msgid "Fetching information..."
+msgstr "Получение информации..."
+
+msgid "Fetching legal information..."
+msgstr "Получение правовой информации..."
+
+msgid "File %s line %s: %s"
+msgstr "Файл %s строка %s: %s"
+
+msgid "File Managers"
+msgstr "Диспетчеры файлов"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "File Type: '%(found)s' should be '%(expected)s'"
+msgstr "Тип файла: '%(found)s' должно быть '%(expected)s'"
+
+msgid "FileManager was unable to create %s or the directories containing it."
+msgstr ""
+"Диспетчеру файлов не удалось создать %s или содержащие этот элемент каталоги."
+
+msgid "Files"
+msgstr "Файлы"
+
+msgid "Files Details not available for this package..."
+msgstr "Нет подробных сведений о файлах для данного пакета..."
+
+msgid "Finished refreshing catalog %s\n"
+msgstr "Завершенное обновление каталога %s\n"
+
+msgid "Fonts"
+msgstr "Шрифты"
+
+msgid ""
+"Found <b>%(num)s</b> package matching <b>%(text)s</b> in All Packages, "
+"however it is not listed in the <b>%(filter)s</b> View."
+msgid_plural ""
+"Found <b>%(num)s</b> packages matching <b>%(text)s</b> in All Packages, "
+"however they are not listed in the <b>%(filter)s</b> View."
+msgstr[0] ""
+"Найден пакет <b>%(num)s</b>, соответствующий <b>%(text)s</b> во всех "
+"пакетах, однако отсутствующий в виде <b>%(filter)s</b>."
+msgstr[1] ""
+"Найдены пакеты <b>%(num)s</b>, соответствующие <b>%(text)s</b> во всех "
+"пакетах, однако отсутствующие в виде <b>%(filter)s</b>."
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "GNOME and GTK+"
+msgstr "GNOME и GTK+"
+
+msgid "GNU"
+msgstr "GNU"
+
+msgid "Games"
+msgstr "Игры"
+
+msgid "Gathering package information"
+msgstr "Сбор сведений о пакете"
+
+msgid "Gathering package information, please wait..."
+msgstr "Сбор информации о пакетах, ждите..."
+
+msgid "Gave a bad response:%s"
+msgstr "Некорректный ответ:%s"
+
+msgid "Generate only accepts one or two arguments."
+msgstr "Команда создания принимает только один или два аргумента."
+
+msgid "Go to Search %(s1)sAll Publishers%(e1)s page"
+msgstr "Перейти к странице поиска по %(s1)sВсе издатели%(e1)s"
+
+msgid "Go to package _list"
+msgstr "Перейти к списку_пакетов"
+
+msgid "Graphics and Imaging"
+msgstr "Графика и работа с изображениями"
+
+msgid "Group cannot be installed without group database files present."
+msgstr "Невозможно установить группу без файлов базы данных группы."
+
+msgid "Group: %s is unknown "
+msgstr "Группа: %s неизвестна "
+
+msgid ""
+"Group: '%(found_name)s (%(found_id)s)' should be '%(expected_name)s "
+"(%(expected_id)s)'"
+msgstr ""
+"Группа: '%(found_name)s (%(found_id)s)' должно быть '%(expected_name)s "
+"(%(expected_id)s)'"
+
+msgid "Hardware"
+msgstr "Оборудование"
+
+msgid "Hash: %(found)s should be %(expected)s"
+msgstr "Хэш: %(found)s должно быть %(expected)s"
+
+msgid "Hash: '%(found)s' should be '%(expected)s'"
+msgstr "Хэш: '%(found)s' должен быть '%(expected)s'"
+
+msgid "High Performance Computing"
+msgstr "Высокопроизводительные вычисления"
+
+msgid "History purged."
+msgstr "История очищена."
+
+msgid "How often to check for updates"
+msgstr "Как часто проверять наличие обновлений"
+
+msgid ""
+"How often to check for updates. The valid values are Daily, Weekly, Monthly, "
+"Never"
+msgstr ""
+"Как часто проверять наличие обновлений. допустимые значения: ежедневно, "
+"еженедельно, ежемесячно, никогда"
+
+msgid "ITEMS"
+msgstr "ЭЛЕМЕНТЫ"
+
+msgid "If a certificate is given, its associated key must be given."
+msgstr ""
+"При предоставлении сертификата необходимо указать связанный с ним ключ."
+
+msgid ""
+"If a key is given to sign with, its associated certificate must be given."
+msgstr ""
+"При предоставлении ключа для подписи необходимо указать связанный с ним "
+"сертификат."
+
+msgid "Ignoring -l option, existing image found."
+msgstr "Игнорирование параметра -l, найден существующий образ."
+
+msgid "Ignoring -r option, existing image found."
+msgstr "Игнорирование параметра -r, найден существующий образ."
+
+msgid "Illegal option -- %s"
+msgstr "Недопустимый параметр -- %s"
+
+msgid "Illegal option value -- %s"
+msgstr "Недопустимое значение параметра -- %s"
+
+msgid "Image State Update Phase"
+msgstr "Фаза обновления состояния образа"
+
+msgid "Image architecture is defined as: %s"
+msgstr "Архитектура образа определена как: %s"
+
+msgid "In query %(query)s, %(name)s had a bad value of '%(bv)s'."
+msgstr "В запросе %(query)s, %(name)s было неправильное значение '%(bv)s'."
+
+msgid "Index Phase"
+msgstr "Фаза индексации"
+
+msgid ""
+"Index corrupted or out of date. Removing old index directory (%s)  and "
+"rebuilding search indexes."
+msgstr ""
+"Индекс поврежден или устарел. Удаляется старый каталог индекса (%s) и "
+"выполняется перестроение поисковых индексов."
+
+msgid "Indexing Packages"
+msgstr "Индексирование пакетов"
+
+msgid "Info does not recognize the following options:"
+msgstr "Команда info не распознает следующие параметры:"
+
+msgid "Info does not recognize the following options: %s"
+msgstr "Команда info не распознает следующие параметры: %s"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Information not available for this package..."
+msgstr "Нет информации для данного пакета..."
+
+msgid "Initial application height"
+msgstr "Начальная высота приложения"
+
+msgid "Initial application horizonatal divider position"
+msgstr "Начальное положение горизонтального разделителя"
+
+msgid "Initial application vertical divider position"
+msgstr "Начальное положение вертикального разделителя"
+
+msgid "Initial application width"
+msgstr "Начальная ширина приложения"
+
+msgid "Initial section value"
+msgstr "Начальное значение раздела"
+
+msgid "Initial show filter value"
+msgstr "Начальное значение фильтра отображения"
+
+msgid "Install"
+msgstr "Установить"
+
+msgid "Install Confirmation"
+msgstr "Подтверждение установки"
+
+msgid "Install Phase"
+msgstr "Фаза установки"
+
+msgid "Install available updates"
+msgstr "Установить доступные обновления"
+
+msgid "Install, update and remove software packages"
+msgstr "Установить, обновить или удалить программные пакеты"
+
+msgid "Install/Update"
+msgstr "Установка/обновление"
+
+msgid "Install/Update Confirmation"
+msgstr "Подтверждение установки/обновления"
+
+msgid "Install/Upgrade Check"
+msgstr "Проверка установки/обновления"
+
+msgid "Installable versions... "
+msgstr "Устанавливаемые версии... "
+
+msgid "Installation completed successfully"
+msgstr "Установка успешно завершена"
+
+msgid "Installed"
+msgstr "Установлено"
+
+msgid "Installed Packages"
+msgstr "Установленные пакеты"
+
+msgid "Installed Version"
+msgstr "Установленная версия"
+
+msgid "Installed package is up-to-date"
+msgstr "Уже установлена последняя версия пакета"
+
+msgid "Installed:"
+msgstr "Установлено:"
+
+msgid "Installing..."
+msgstr "Установка..."
+
+msgid "Integrated Development Environments"
+msgstr "Интегрированные среды разработки"
+
+msgid ""
+"Intermediate certificates are only valid if a key and certificate are also "
+"provided."
+msgstr ""
+"Промежуточные сертификаты действительны только при предоставлении ключа и "
+"сертификата."
+
+msgid "Internationalization"
+msgstr "Интернационализация"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Invalid attribute '%s'"
+msgstr "Недопустимый атрибут '%s'"
+
+msgid "Invalid certificate '%s'."
+msgstr "Недействительный сертификат '%s'."
+
+msgid "Invalid file %s: manifest not encoded in UTF-8: %s"
+msgstr ""
+"Недействительный файл %s: манифест не представлен в кодировке UTF-8: %s"
+
+msgid ""
+"Invalid package state change attempted '%(states)s' for package '%(fmri)s'."
+msgstr ""
+"Недопустимая попытка изменения состояния '%(states)s' для пакета '%(fmri)s'."
+
+msgid "Invalid repository URL: '%(url)s': %(msg)s"
+msgstr "Недопустимый URL-адрес хранилища: '%(url)s': %(msg)s"
+
+msgid ""
+"Invalid repository configuration values were specified using --set-property "
+"or required values are missing.  Please provide the correct and/or required "
+"values using the --set-property option."
+msgstr ""
+"Указаны недопустимые значения конфигурации хранилища при использовании "
+"параметра --set-property, или требуемые значения отсутствуют. Введите "
+"правильные и/или требуемые значения при использовании параметра --set-"
+"property."
+
+msgid "Invalid value '%(val)s' for %(prop)s."
+msgstr "Недействительное значение '%(val)s' для %(prop)s."
+
+msgid "Invalid value '%(val)s' for %(section)s.%(prop)s."
+msgstr "Недействительное значение '%(val)s' для %(section)s.%(prop)s."
+
+msgid "Inventory exception:\n"
+msgstr "Исключительная ситуация инвентаризационной информации:\n"
+
+msgid "Java"
+msgstr "Java"
+
+msgid "Last Export Selections Path"
+msgstr "Путь к последим выбранным параметрам экспорта"
+
+msgid "Last publisher used by package manager"
+msgstr "Последний издатель, используемый в Диспетчере пакетов"
+
+msgid "Latest Version:"
+msgstr "Последняя версия:"
+
+msgid "Latest Version: "
+msgstr "Последняя версия: "
+
+msgid "Libraries"
+msgstr "Библиотеки"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "License could not be shown due to conversion problem."
+msgstr "Не удалось отобразить лицензию из-за проблемы преобразования."
+
+msgid "License file %s does not exist."
+msgstr "Файл лицензии %s не существует."
+
+msgid "License: %s\n"
+msgstr "Лицензия: %s\n"
+
+msgid "Lint engine setup..."
+msgstr "Установка механизма lint..."
+
+msgid "List of configured publishers:"
+msgstr "Список настроенных издателей:"
+
+msgid "Loading %(s1)sSearch Help%(e1)s ..."
+msgstr "Загрузка %(s1)sСправка по поиску%(e1)s..."
+
+msgid "Loading ..."
+msgstr "Загрузка..."
+
+msgid "Loading Boot Environment Information"
+msgstr "Загрузка информации о загрузочной среде"
+
+msgid "Loading catalog cache ..."
+msgstr "Загрузка кэша каталога..."
+
+msgid "Loading catalog cache ...\n"
+msgstr "Загрузка кэша каталога...\n"
+
+msgid "Loading package list"
+msgstr "Загрузка списка пакетов"
+
+msgid "Loading... %s"
+msgstr "Загрузка... %s"
+
+msgid "Localizations"
+msgstr "Локализация"
+
+msgid "Logs"
+msgstr "Журналы"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "M_irror:"
+msgstr "_Зеркало:"
+
+msgid "Malformed URL: '%s'."
+msgstr "Недопустимый URL-адрес: '%s'."
+
+msgid ""
+"Malformed action at position: %(pos)d:\n"
+"    %(action)s\n"
+"%(marker)s"
+msgstr ""
+"Недопустимое действие в позиции: %(pos)d:\n"
+"    %(action)s\n"
+"%(marker)s"
+
+msgid ""
+"Malformed action in package '%(fmri)s' at position: %(pos)d:\n"
+"    %(action)s\n"
+"%(marker)s"
+msgstr ""
+"Недопустимое действие в пакете '%(fmri)s' в позиции: %(pos)d:\n"
+"    %(action)s\n"
+"%(marker)s"
+
+msgid "Manage Boot Environments"
+msgstr "Управление загрузочными средами"
+
+msgid "Manage Publishers"
+msgstr "Управление издателями"
+
+msgid "Manage Publishers Confirmation"
+msgstr "Подтверждение управления издателями"
+
+msgid "Manage _Boot Environments..."
+msgstr "_Управление загрузочными средами..."
+
+msgid "Manifest %s does not declare fmri."
+msgstr "Манифест %s не объявляет FMRI."
+
+msgid "Manifest does not set fmri and "
+msgstr "В манифесте не установлено значение fmri и "
+
+msgid "Maximum entries for Search Completion"
+msgstr "Максимальное число записей для выполнения поиска"
+
+msgid "Media"
+msgstr "Мультимедиа"
+
+msgid "Meta Packages"
+msgstr "Метапакеты"
+
+msgid "Mirror '%s' already exists for the specified publisher."
+msgstr "Для указанного издателя уже существует зеркало '%s'."
+
+msgid "Mirror URI"
+msgstr "URI зеркала"
+
+msgid ""
+"Mirrors for a secure publisher\n"
+"need to begin with https://"
+msgstr ""
+"Адреса зеркал защищенного издателя \n"
+"должны начинаться с https://"
+
+msgid "Missing algorithm attribute"
+msgstr "Отсутствует атрибут алгоритма"
+
+msgid "Missing directory var/sadm/pkg/%s"
+msgstr "Отсутствует каталог var/sadm/pkg/%s"
+
+msgid "Missing file var/sadm/pkg/%s/pkginfo"
+msgstr "Отсутствует файл var/sadm/pkg/%s/pkginfo"
+
+msgid "Missing fmri attribute"
+msgstr "Отсутствующий атрибут fmri"
+
+msgid "Missing key %(key)s from %(pkg)s"
+msgstr "В %(pkg)s отсутствует ключ %(key)s "
+
+msgid "Missing key pkg.summary from %s"
+msgstr "В %s отсутствует ключ pkg.summary"
+
+msgid "Missing type attribute"
+msgstr "Отсутствующий атрибут типа"
+
+msgid "Missing: %s does not exist"
+msgstr "Отсутствие: %s отсутствует"
+
+msgid "Mode: 0%(found).3o should be 0%(expected).3o"
+msgstr "Режим: 0%(found).3o должно быть 0%(expected).3o"
+
+msgid "Modify Publisher"
+msgstr "Изменить издателя"
+
+msgid "Multimedia Libraries"
+msgstr "Мультимедийные библиотеки"
+
+msgid "NOTE: Please review release notes posted at:\n"
+msgstr "ПРИМЕЧАНИЕ. Ознакомьтесь с информацией о выпуске по адресу:\n"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name:"
+msgstr "Имя:"
+
+msgid "Name: "
+msgstr "Имя: "
+
+msgid ""
+"Naming a boot environment when operating on a non-live image is\n"
+"not allowed."
+msgstr ""
+"Присвоение имени среде загрузки при работе с неактивным образом\n"
+"не допускается."
+
+msgid "Need an existing instance of %s to exist to append to it"
+msgstr "Для добавления необходимо существование экземпляра %s"
+
+msgid "Network repositories are not currently supported for this operation."
+msgstr "Сетевое хранилище не поддерживается для выполнения этой операции."
+
+msgid "Networking"
+msgstr "Подключение к сети"
+
+msgid "Newer version %s is already installed"
+msgstr "Уже установлена более новая версия %s"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Transaction matching ID '%s' could be found."
+msgstr "Не удалось найти транзакцию, соответствующую идентификатору '%s'."
+
+msgid "No URI specified"
+msgstr "Идентификатор URI не указан"
+
+msgid "No arguments specified for subcommand."
+msgstr "Не указаны аргументы субкоманды."
+
+msgid "No dependencies"
+msgstr "Зависимости отсутствуют"
+
+msgid "No file could be found for the specified hash name: '%s'."
+msgstr "Не удалось найти файл для указанного имени хэша: '%s'."
+
+msgid "No fmri argument specified for subcommand"
+msgstr "Не указан аргумент fmri для субкоманды"
+
+msgid "No fmris may be provided if the sign-all option is set."
+msgstr "При установке параметра sign-all FMRI можно не предоставлять."
+
+msgid "No further information available"
+msgstr "Дополнительная информация отсутствует."
+
+msgid "No image found."
+msgstr "Не найден ни один образ."
+
+msgid "No image rooted at '%s'"
+msgstr "Нет ни одного образа в корневой папке '%s'"
+
+msgid "No manifest could be found for the FMRI: '%s'."
+msgstr "Не удалось найти манифест для FMRI: '%s'."
+
+msgid ""
+"No matching package could be found for the following FMRIs in any of the "
+"catalogs for the current publishers:\n"
+msgstr ""
+"Не удалось найти ни один соответствующий пакет для следующих FMRI ни в одном "
+"из каталогов для текущих издателей:\n"
+
+msgid "No matching package found in repository."
+msgstr "В хранилище не найден соответствующий пакет."
+
+msgid "No matching version of %s can be installed:"
+msgstr "Невозможно установить подходящую версию %s:"
+
+msgid "No packages matched %s"
+msgstr "Отсутствуют пакеты, соответствующие %s"
+
+msgid "No publisher matching '%s' could be found."
+msgstr "Не удалось найти издателя, соответствующего '%s'."
+
+msgid ""
+"No publisher was specified or no default publisher has been configured for "
+"the repository."
+msgstr "Издатель не указан или не выполнена настройка издателя для хранилища."
+
+msgid "No repository location specified."
+msgstr "Не указан путь к каталогу."
+
+msgid "No solution was found to satisfy constraints"
+msgstr "Удовлетворение ограничений оказалось невозможным."
+
+msgid "No such file '%s'."
+msgstr "Файл '%s' отсутствует."
+
+msgid "No such file: '%s'."
+msgstr "Такой файл отсутствует: '%s'."
+
+msgid "No token was provided to search."
+msgstr "Не указан маркер для поиска"
+
+msgid "No transaction ID specified in $PKG_TRANS_ID"
+msgstr "В $PKG_TRANS_ID не указан идентификатор транзакции"
+
+msgid "No transaction ID specified using -t or in $PKG_TRANS_ID."
+msgstr ""
+"Не указан идентификатор транзакции параметром -t или переменной "
+"$PKG_TRANS_ID."
+
+msgid "No transaction matching '%s' could be found."
+msgstr "Не удалось найти транзакции, соответствующие '%s'."
+
+msgid "No updates available"
+msgstr "Обновления отсутствуют"
+
+msgid "No updates available for this image."
+msgstr "Для данного образа нет доступных обновлений."
+
+msgid "No updates necessary"
+msgstr "Обновление не требуется"
+
+msgid "No updates necessary for this image."
+msgstr "Для данного образа не требуются обновления."
+
+msgid "No version of %s can be installed:"
+msgstr "Невозможно установить какую-либо версию %s:"
+
+msgid "No versions available"
+msgstr "Отсутствуют доступные версии"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "None: "
+msgstr "Отсутствует: "
+
+msgid "Not Enough Disk Space"
+msgstr "Недостаточно места на диске"
+
+msgid "Not Installed"
+msgstr "Не установлено"
+
+msgid "Not Installed Packages"
+msgstr "Неустановленные пакеты"
+
+msgid "Not available"
+msgstr "Недоступен"
+
+msgid ""
+"Not enough disk space, the selected action cannot be performed.\n"
+"\n"
+"Click OK to manage your existing BEs and free up disk space or Cancel to "
+"cancel the action."
+msgstr ""
+"Недостаточно места на диске, выполнение выбранного действия невозможно.\n"
+"\n"
+"Нажмите кнопку \"OK\" для управления имеющимися средами загрузки в целях "
+"освобождения дискового пространства либо нажмите кнопку \"Отмена\" для "
+"отмены действия."
+
+msgid "Not installed"
+msgstr "Не установлено"
+
+msgid "Notify user when updates are available"
+msgstr "Уведомлять пользователя о наличии обновлений"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "OPERATION"
+msgstr "РАБОТА"
+
+msgid ""
+"ORIGIN may not be specified using -D. It will be inferred from the\n"
+"install paths of the files."
+msgstr ""
+"При использовании параметра -D значение ORIGIN можно не указывать. Оно будет "
+"получено на основе\n"
+"установочных путей файлов."
+
+msgid "OUTCOME"
+msgstr "РЕЗУЛЬТАТ"
+
+msgid "O_rigin:"
+msgstr "_Источник:"
+
+msgid "Obsolete"
+msgstr "Устаревший"
+
+msgid "Office"
+msgstr "Офис"
+
+msgid "Office Tools"
+msgstr "Офисные инструменты"
+
+msgid "On Package _Install/Update"
+msgstr "При у_становке/обновлении пакета"
+
+msgid "On Package _Remove"
+msgstr "При уд_алении пакета"
+
+msgid "On _Updates"
+msgstr "При об_новлении"
+
+msgid ""
+"One of the package repository origins for %s does not provide publisher "
+"configuration information or the information provided is incomplete."
+msgstr ""
+"Один из источников хранилища пакета для %s не предоставляет данные о "
+"настройке издателяили предоставленные сведения является неполной."
+
+msgid ""
+"One or more of the repository origin(s) listed below contains package data "
+"for %(known)s; not %(unknown)s:\n"
+"\n"
+"%(origins)s\n"
+"\n"
+"This is either because one of the repository origins is not valid for this "
+"publisher, or because the list of known publishers retrieved from the "
+"repository origin does not match the client."
+msgstr ""
+"Один или несколько источников хранилища, перечисленных ниже, содержат данные "
+"пакета для%(known)s; не для %(unknown)s:\n"
+"\n"
+"%(origins)s\n"
+"\n"
+"Это вызвано недействительностью одного из источников хранилища для данного "
+"издателя или несоответствием списка известных издателей из источника "
+"хранилищаклиенту."
+
+msgid ""
+"One or more publishers must be specified to create and set properties for as "
+"none exist yet."
+msgstr ""
+"Необходимо указать издателей для создания и установки их свойств, т.к. они "
+"еще не существуют."
+
+msgid "Only %(suc)s out of %(tot)s catalogs successfully updated.\n"
+msgstr "Только %(suc)s из %(tot)s каталогов успешно обновлены.\n"
+
+msgid "Only a signature can be appended to an existing package"
+msgstr "В существующий пакет можно добавить только подпись"
+
+msgid "Only one -l option is supported."
+msgstr "Поддерживается только параметр -l."
+
+msgid "Only one -r option is supported."
+msgstr "Поддерживается только параметр -r."
+
+msgid "Only one repository location may be specified."
+msgstr "Необходимо указать только один путь к каталогу."
+
+msgid "Optimizing Index..."
+msgstr "Оптимизирующий индекс..."
+
+msgid "Origin '%s' already exists for the specified publisher."
+msgstr "Для указанного издателя уже существует источник '%s'."
+
+msgid "Origin URI"
+msgstr "URI источника"
+
+msgid "Origin:\n"
+msgid_plural "Origins:\n"
+msgstr[0] "Источник:\n"
+msgstr[1] "Источники:\n"
+
+msgid ""
+"Origins for a secure publisher\n"
+"need to begin with https://"
+msgstr ""
+"Адреса источников защищенного издателя \n"
+"должны начинаться с https://"
+
+msgid "Other Languages"
+msgstr "Другие языки"
+
+msgid "Other Peripherals"
+msgstr "Другие периферийные устройства"
+
+msgid "Out dir %s does not exist and could not be created. Error is: %s"
+msgstr ""
+"Выходной каталог %s не существует, и его не удалось создать. Ошибка: %s"
+
+msgid "Owner: %s is unknown"
+msgstr "Владелец: %s неизвестен"
+
+msgid ""
+"Owner: '%(found_name)s (%(found_id)d)' should be '%(expected_name)s "
+"(%(expected_id)d)'"
+msgstr ""
+"Владелец: '%(found_name)s (%(found_id)d)' должно быть '%(expected_name)s "
+"(%(expected_id)d)'"
+
+msgid "PACKAGE"
+msgstr "ПАКЕТ"
+
+msgid "PACKAGES"
+msgstr "ПАКЕТЫ"
+
+msgid "PB"
+msgstr "ПБ"
+
+msgid "PHASE"
+msgstr "ФАЗА"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "PKGS"
+msgstr "ПАКЕТЫ"
+
+msgid "PREFERRED"
+msgstr "ТРЕБУЕТСЯ"
+
+msgid "PROPERTY"
+msgstr "СВОЙСТВО"
+
+msgid "PUBLISHER"
+msgstr "PUBLISHER"
+
+msgid "Package %(pkg)s is missing a dependency: %(dep)s"
+msgstr "В пакете %(pkg)s отсутствует зависимость: %(dep)s"
+
+msgid "Package %d of %d: %s\n"
+msgstr "Пакет %d из %d: %s\n"
+
+msgid "Package Cache Update Phase"
+msgstr "Фаза обновления кэша пакета"
+
+msgid "Package Manager"
+msgstr "Диспетчер пакетов"
+
+msgid "Package State Update Phase"
+msgstr "Фаза обновления состояния пакета"
+
+msgid "Package Version Info"
+msgstr "Сведения о версии пакета"
+
+msgid "Package contains invalid or unsupported actions"
+msgstr "Пакет содержит недействительные или неподдерживаемые действия"
+
+msgid "Package doesn't support image architecture"
+msgstr "Пакет не поддерживает архитектуру образа"
+
+msgid "Package doesn't support image variant %s"
+msgstr "Пакет не поддерживает вариант образа %s"
+
+msgid "Package(s) are installed that depend on obsolete empty packages."
+msgstr "Установлены пакеты, зависящие от устаревших пустых пакетов."
+
+msgid "Package: %s"
+msgstr "Пакет: %s"
+
+msgid ""
+"Package: %s\n"
+"\n"
+msgstr ""
+"Пакет: %s\n"
+"\n"
+
+msgid "Packages To Be Installed:\n"
+msgstr "Устанавливаемые пакеты: \n"
+
+msgid "Packages To Be Removed:\n"
+msgstr "Удаляемые пакеты: \n"
+
+msgid "Packages To Be Updated:\n"
+msgstr "Обновляемые пакеты: \n"
+
+msgid "Packages removed successfully"
+msgstr "Удаление пакетов успешно завершено"
+
+msgid "Packages updated successfully"
+msgstr "Обновление пакетов успешно завершено"
+
+msgid "Packaging"
+msgstr "Упаковка"
+
+msgid "Packaging Date:"
+msgstr " Дата упаковки:"
+
+msgid "Panels and Applets"
+msgstr "Панели и апплеты"
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid ""
+"Please check the network connection.\n"
+"Is the repository accessible?\n"
+"\n"
+"%s"
+msgstr ""
+"Проверьте сетевое соединение.\n"
+"Возможен ли доступ к хранилищу?\n"
+"\n"
+"%s"
+
+msgid ""
+"Please let the developers know about this problem by filing a bug together "
+"with the error details listed below at:"
+msgstr ""
+"Сообщите разработчикам об этой проблеме.Для этого требуется отправить отчет "
+"об ошибке вместе с подробными данными об ошибке по следующему адресу:"
+
+msgid "Plug-ins and Run-times"
+msgstr "Дополнения и время выполнения"
+
+msgid "Ports"
+msgstr "Порты"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Preparation"
+msgstr "Подготовка"
+
+msgid "Preparing..."
+msgstr "Подготовка..."
+
+msgid ""
+"Press %(button)s button to continue removal without\n"
+"\t%(package)s\n"
+msgstr ""
+"Нажмите кнопку %(button)s для продолжения удаления без\n"
+"\t%(package)s\n"
+
+msgid "Printing"
+msgstr "Печать"
+
+msgid "Problem determining dependencies for %(fmri)s:%(err)s"
+msgstr "Зависимости, определяющие проблему для %(fmri)s:%(err)s"
+
+msgid "Problem occurred with: %s"
+msgstr "Произошла проблема с: %s"
+
+msgid "Problem resolving %(fmri)s: %(err)s"
+msgstr "Решение проблемы %(fmri)s: %(err)s"
+
+msgid "Processing"
+msgstr "Обработка"
+
+msgid ""
+"Property name '%(name)s' is not valid.  Property names may not contain: "
+"tabs, newlines, carriage returns, form feeds, vertical tabs, slashes, or "
+"backslashes and must also match the regular expression: %(exp)s"
+msgstr ""
+"Имя свойства '%(name)s' недействительно. Имена свойств не должны содержать "
+"табуляцию, разрыв строки, возврат каретки, перевод страницы, вертикальную "
+"табуляцию, косую черту или обратную косую черту, а также должны "
+"соответствовать регулярному выражению %(exp)s"
+
+msgid ""
+"Property name '%s' is not valid.  Section names may not contain: tabs, "
+"newlines, carriage returns, form feeds, vertical tabs, slashes, backslashes, "
+"or non-ASCII characters."
+msgstr ""
+"Имя свойства '%s' недействительно. Имена свойств не должны содержать "
+"табуляцию, разрыв строки, возврат каретки, перевод страницы, вертикальную "
+"табуляцию, косую черту, обратную косую черту или символы, не включенные в "
+"стандарт ASCII."
+
+msgid "Pu_blisher:"
+msgstr "И_здатель:"
+
+msgid "Publisher"
+msgstr "Издатель"
+
+msgid "Publisher %s succesfully added\n"
+msgstr "Добавление издателя %s успешно завершено\n"
+
+msgid "Publisher %s succesfully removed\n"
+msgstr "Удаление издателя %s успешно завершено\n"
+
+msgid "Publisher %s succesfully updated\n"
+msgstr "Обновление издателя %s успешно завершено\n"
+
+msgid "Publisher '%s' already exists."
+msgstr "Издатель '%s' уже существует."
+
+msgid "Publisher '%s' has no repositories that support the '%s' operation."
+msgstr "Издатель '%s' не имеет хранилищ, поддерживающих эту операцию '%s'."
+
+msgid ""
+"Publisher '%s' is disabled and cannot be set as the preferred publisher."
+msgstr ""
+"Издатель '%s' отключен, и его невозможно выбрать в качестве "
+"предпочтительного издателя."
+
+msgid "Publisher '%s' is disabled and cannot be used for packaging operations."
+msgstr ""
+"Издатель'%s' отключен, и не может использоваться для работы с пакетами."
+
+msgid "Publisher Alias:"
+msgstr "Псевдоним издателя:"
+
+msgid "Publisher Error"
+msgstr "Ошибка издателя"
+
+msgid "Publisher Name:"
+msgstr "Имя издателя:"
+
+msgid "Publisher differs from installed or specified version"
+msgstr "Издатель не соответствует установленной или указанной версии"
+
+msgid "Publisher error"
+msgstr "Ошибка издателя"
+
+msgid "Publisher is lower ranked"
+msgstr "Ранг издателя более низкий"
+
+msgid ""
+"Publisher meta_root '%(root)s' is invalid; unable to complete operation: "
+"'%(op)s'."
+msgstr ""
+"Издатель meta_root '%(root)s' является недопустимым; невозможно завершить "
+"операцию: '%(op)s'."
+
+msgid "Publisher:"
+msgstr "Издатель:"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Re_fresh"
+msgstr "О_бновить"
+
+msgid "Re_gistration Details"
+msgstr "Подробные данные р_егистрации"
+
+msgid "Read the release notes before restarting the system."
+msgstr "Перед перезапуском системы ознакомьтесь с заметками о выпуске."
+
+msgid "Read the release notes."
+msgstr "Прочтите заметки о выпуске."
+
+msgid "Reading Existing Index"
+msgstr "Считывание существующего индекса"
+
+msgid "Recent Searches"
+msgstr "Недавние результаты поиска"
+
+msgid "Refresh"
+msgstr "Обновить"
+
+msgid "Refresh list of packages and package status"
+msgstr "Обновить список пакетов и статус пакета"
+
+msgid "Refreshing catalog"
+msgstr "Обновление каталога"
+
+msgid "Refreshing catalog %(current)d/%(total)d %(publisher)s"
+msgstr "Обновление каталога %(current)d/%(total)d %(publisher)s"
+
+msgid "Refreshing catalog %s\n"
+msgstr "Обновление каталога %s\n"
+
+msgid "Refreshing package catalog information"
+msgstr "Обновление информации о каталоге пакетов"
+
+msgid "Release notes"
+msgstr "Заметки о выпуске"
+
+msgid "Releases"
+msgstr "Выпуски"
+
+msgid "Remember current state on _exit"
+msgstr "Запоминать текущее состояние при _выходе"
+
+msgid "Remo_ve"
+msgstr "Уд_алить"
+
+msgid "Remov_e"
+msgstr "Уда_лить"
+
+msgid "Removal Phase"
+msgstr "Фаза удаления"
+
+msgid "Removal failed for '%(pub)s': %(msg)s"
+msgstr "Неудачное удаление для '%(pub)s': %(msg)s"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove Confirmation"
+msgstr "Удалить подтверждение"
+
+msgid "Remove Publisher:\n"
+msgid_plural "Remove Publishers:\n"
+msgstr[0] "Удалить издателя:\n"
+msgstr[1] "Удалить издателей:\n"
+
+msgid "Removing publisher %s\n"
+msgstr "Удаление издателя %s\n"
+
+msgid "Removing..."
+msgstr "Удаление..."
+
+msgid "Rename\n"
+msgstr "Переименовать\n"
+
+msgid "Rename BE"
+msgstr "Переименовать загрузочную среду"
+
+msgid "Renamed"
+msgstr "Переименованный"
+
+msgid "Renamed To:"
+msgstr "Переименовано на:"
+
+msgid "Renaming BE, please wait..."
+msgstr "Переименование загрузочной среды, подождите..."
+
+msgid "Republishing %s ..."
+msgstr "Повторная публикация %s..."
+
+msgid ""
+"Requested \"%s\" operation would affect files that cannot be modified in "
+"live image.\n"
+"Please retry this operation on an alternate boot environment."
+msgstr ""
+"Запрошенная операция \"%s\" повлияет на файлы, которые нельзя изменять в "
+"используемом образе.\n"
+"Повторите эту операцию в альтернативной загрузочной среде."
+
+msgid ""
+"Requested \"fix\" operation would affect files that cannot be modified in "
+"live image.\n"
+"Please retry this operation on an alternate boot environment."
+msgstr ""
+"Запрошенная операция \"fix\" повлияет на файлы, которые нельзя изменять в "
+"используемом образе.\n"
+"Повторите эту операцию в альтернативной загрузочной среде."
+
+msgid ""
+"Requested operation failed for action %(action)s:\n"
+"%(details)s"
+msgstr ""
+"Не удалось выполнить запрашиваемую операцию для действия %(action)s:\n"
+"%(details)s"
+
+msgid ""
+"Requested operation failed for package %(fmri)s:\n"
+"%(details)s"
+msgstr ""
+"Не удалось выполнить запрашиваемую операцию для пакета %(fmri)s:\n"
+"%(details)s"
+
+msgid "Required -c option missing when using repositories."
+msgstr "Необходимый параметр -c отсутствует при использовании хранилищ."
+
+msgid "Required -c option missing, no local manifests provided."
+msgstr ""
+"Необходимый параметр -c отсутствует, локальные манифесты не предоставлены."
+
+msgid "Required dependency %s is not installed"
+msgstr "Необходимая зависимость %s не установлена"
+
+msgid "Restart Error"
+msgstr "Ошибка перезагрузки"
+
+msgid "Restart _Now"
+msgstr "Н_емедленный перезапуск"
+
+msgid "Retrieving catalog '%s'..."
+msgstr "Извлечение каталога '%s'..."
+
+msgid "Retrieving catalog '%s'...\n"
+msgstr "Извлечение каталога '%s'...\n"
+
+msgid "Retrieving manifests for dependency evaluation ..."
+msgstr "Извлечение манифестов для оценки зависимости..."
+
+msgid "Retrieving manifests for package evaluation ..."
+msgstr "Извлечение манифестов для оценки пакета..."
+
+msgid "Retrieving package content ..."
+msgstr "Извлечение содержимого пакета..."
+
+msgid "Review the package to be Installed"
+msgid_plural "Review the packages to be Installed"
+msgstr[0] "Просмотр пакета для установки"
+msgstr[1] "Просмотр пакетов для установки"
+
+msgid "Review the package to be Installed/Updated"
+msgid_plural "Review the packages to be Installed/Updated"
+msgstr[0] "Просмотр пакета для установки/удаления"
+msgstr[1] "Просмотр пакетов для установки/удаления"
+
+msgid "Review the package to be Updated"
+msgid_plural "Review the packages to be Updated"
+msgstr[0] "Просмотр пакета для обновления"
+msgstr[1] "Просмотр пакетов для обновления"
+
+msgid "Review the package to be removed"
+msgid_plural "Review the packages to be removed"
+msgstr[0] "Просмотр удаляемого пакета"
+msgstr[1] "Просмотр удаляемых пакетов"
+
+msgid "Review the package which will be affected by Updates"
+msgid_plural "Review the packages which will be affected by Updates"
+msgstr[0] "Просмотр пакета, на который повлияет операция \"Обновления\""
+msgstr[1] "Просмотр пакетов, на которые повлияет операция \"Обновления\""
+
+msgid "Ruby"
+msgstr "Ruby"
+
+msgid "SECTION"
+msgstr "РАЗДЕЛ"
+
+msgid "SSL C_ertificate: "
+msgstr "Сертификат _SSL "
+
+msgid "SSL Certi_ficate:"
+msgstr "Сер_тификат SSL"
+
+msgid "SSL Certificate not found at specified location"
+msgstr "В указанном местоположении не найден сертификат SSL"
+
+msgid "SSL Key not found at specified location"
+msgstr "В указанном местоположении не найден ключ SSL"
+
+msgid "SSL _Key:"
+msgstr "_Ключ SSL:"
+
+msgid "SSL _Key: "
+msgstr "_Ключ SSL: "
+
+msgid "SSL should not be specified"
+msgstr "Не требуется указывать SSL"
+
+msgid "STATUS"
+msgstr "STATUS"
+
+msgid "STICKY"
+msgstr "КЛЕЙКИЙ"
+
+msgid "Scripts"
+msgstr "Сценарии"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search (Ctrl-F)"
+msgstr "Поиск (Ctrl-F)"
+
+msgid "Search Errors: click to view"
+msgstr "Поиск ошибок: щелкните для просмотра"
+
+msgid "Search Publisher Errors"
+msgstr "Ошибки поиска по издателям"
+
+msgid "Search all publishers"
+msgstr "Поиск по всем издателям"
+
+msgid "Search cleared"
+msgstr "Поиск сброшен"
+
+msgid "Search current publisher"
+msgstr "Поиск по текущему издателю"
+
+msgid "Search errors with the following publishers:"
+msgstr "Ошибки поиска со следующими издателями:"
+
+msgid "Search functionality is temporarily unavailable."
+msgstr "Функциональность поиска временно недоступна."
+
+msgid ""
+"Search performance is degraded.\n"
+"Run 'pkg rebuild-index' to improve search speed."
+msgstr ""
+"Производительность поиска понизилась.\n"
+"Выполните команду 'pkg rebuild-index' для увеличения скорости поиска."
+
+msgid "Search repository does not support the requested protocol:"
+msgstr "Хранилище поиска не поддерживает запрошенный протокол:"
+
+msgid "Search temporarily unavailable."
+msgstr "Поиск временно недоступен."
+
+msgid "Search within %(s1)sAll Publishers%(e1)s"
+msgstr "Поиск по %(s1)sВсе издатели%(e1)s"
+
+msgid ""
+"Searching %(s1)s%(active_pub)s%(e1)s for %(s1)s%(search_text)s%(e1)s ..."
+msgstr "Поиск %(s1)s%(active_pub)s%(e1)s для %(s1)s%(search_text)s%(e1)s..."
+
+msgid "Searching for %(s1)s%(search_text)s%(e1)s ..."
+msgstr "Поиск %(s1)s%(search_text)s%(e1)s..."
+
+msgid ""
+"Section name '%(name)s' is not valid.  Section names may not contain: tabs, "
+"newlines, carriage returns, form feeds, vertical tabs, slashes, or "
+"backslashes and must also match the regular expression: %(exp)s"
+msgstr ""
+"Имя раздела '%(name)s' недействительно. Имена разделов не должны содержать "
+"табуляцию, разрыв строки, возврат каретки, перевод страницы, вертикальную "
+"табуляцию, косую черту или обратную косую черту, а также должны "
+"соответствовать регулярному выражению %(exp)s"
+
+msgid ""
+"Section name '%s' is not valid.  Section names may not contain: tabs, "
+"newlines, carriage returns, form feeds, vertical tabs, slashes, backslashes, "
+"or non-ASCII characters."
+msgstr ""
+"Имя раздела '%s' недействительно. Имена раздела не должны содержать "
+"табуляцию, разрыв строки, возврат каретки, перевод страницы, вертикальную "
+"табуляцию, косую черту, обратную косую черту или символы, не включенные в "
+"стандарт ASCII."
+
+msgid "Security"
+msgstr "Безопасность"
+
+msgid "Seeding lint action duplicates dictionaries."
+msgstr "Добавление действия lint вызывает дублирование словарей."
+
+msgid "Seeding lint manifest duplicates dictionaries."
+msgstr "Добавление манифеста lint вызывает дублирование словарей."
+
+msgid "Seeding local action duplicates dictionaries."
+msgstr "Добавление действия local вызывает дублирование словарей."
+
+msgid "Seeding reference action duplicates dictionaries."
+msgstr "Добавление действия reference вызывает дублирование словарей."
+
+msgid "Seeding reference manifest duplicates dictionaries."
+msgstr "Добавление манифеста reference вызывает дублирование словарей."
+
+msgid "Select _Updates"
+msgstr "Выбор о_бновлений"
+
+msgid "Select packages by marking the checkbox and click to Install/Update"
+msgstr ""
+"Выберите пакеты путем установки соответствующих флажков, и нажмите кнопку "
+"\"Установка/обновление\"."
+
+msgid "Select packages by marking the checkbox and click to Install/Update."
+msgstr ""
+"Выберите пакеты, отмечая флажок, и нажмите кнопку \"Установка/обновление\"."
+
+msgid "Select packages by marking the checkbox and click to Remove selected"
+msgstr ""
+"Выберите пакеты путем установки соответствующих флажков, и нажмите кнопку "
+"\"Удалить\" для удаления выбранных пакетов."
+
+msgid "Select packages by marking the checkbox and click to Remove selected."
+msgstr ""
+"Выберите пакеты, отмечая флажок, и нажмите кнопку \"Удалить выбранное\"."
+
+msgid "Selected Packages"
+msgstr "Выбранные пакеты"
+
+msgid "Selected for Install/Update:"
+msgstr "Выбрано для установки/обновления:"
+
+msgid "Selected for Removal:"
+msgstr "Выбрано для удаления:"
+
+msgid "Selected publisher does not contain any packages."
+msgstr "Выбранный издатель не содержит пакеты."
+
+msgid "Services"
+msgstr "Службы"
+
+msgid "Services:"
+msgstr "Службы:"
+
+msgid "Sessions"
+msgstr "Сеансы"
+
+msgid "Set publisher priorities using arrows."
+msgstr "Установите приоритеты издателей с помощью стрелок."
+
+msgid "Set sticky Publisher:\n"
+msgid_plural "Set sticky Publishers:\n"
+msgstr[0] "Установить клейкое значение для издателя:\n"
+msgstr[1] "Установить клейкое значение для издателей:\n"
+
+msgid "Shells"
+msgstr "Интерпретаторы команд"
+
+msgid "Show Start Page on _startup"
+msgstr "Вывод начальной страницы при_запуске"
+
+msgid "Show Start Page on startup"
+msgstr "Вывод начальной страницы при запуске"
+
+msgid "Show _all publisher results"
+msgstr "Показывать _все результаты для издателей"
+
+msgid "Signed %s"
+msgstr "Подписано %s"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Size: %(found)d bytes should be %(expected)d"
+msgstr "Размер: %(found)d байтов должно быть %(expected)d"
+
+msgid "Skipping %(fmri)s; invalid manifest: %(error)s"
+msgstr "Пропуск %(fmri)s; недопустимый манифест: %(error)s"
+
+msgid "Skipping %s: already present at destination"
+msgstr "Пропуск %s: уже существует в целевом местоположении"
+
+msgid "Skipping: Permission Denied"
+msgstr "Пропуск: нет полномочий"
+
+msgid "Skipping: Permission denied"
+msgstr "Пропуск: нет полномочий"
+
+msgid "Software Management"
+msgstr "Управление программным обеспечением"
+
+msgid "Some repositories don't support requested search operation:\n"
+msgstr "Несколько хранилищ не поддерживают запрошенную операцию поиска:\n"
+
+msgid "Some repositories failed to respond appropriately:\n"
+msgstr "От некоторых хранилищ не получен соответствующий ответ:\n"
+
+msgid "Sound and Video"
+msgstr "Звук и видео"
+
+msgid "Source Code Management"
+msgstr "Управление исходным кодом"
+
+msgid "Specify SSL Certificate File"
+msgstr "Укажите файл сертификатов SSL"
+
+msgid "Specify SSL Key File"
+msgstr "Укажите файл ключей SSL"
+
+msgid "Specify the publisher URI and optional alias"
+msgstr "Укажите URI издателя и дополнительный псевдоним"
+
+msgid "Specifying BE Name not supported.\n"
+msgstr "Указанное имя среды загрузки не поддерживается.\n"
+
+msgid "Start Page Update URL"
+msgstr "Адрес URL обновления начальной страницы "
+
+msgid "Start delay"
+msgstr "Задержка выполнения"
+
+msgid "Start in search mode"
+msgstr "Запуск в режиме поиска"
+
+msgid "Starting lint run..."
+msgstr "Запуск прогона lint..."
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Sticky"
+msgstr "Клейкий"
+
+msgid "Stopped"
+msgstr "Остановлено"
+
+msgid "Storage"
+msgstr "Хранилище"
+
+msgid "Subclasses of Dependency must implement dep_key. Current class is %s"
+msgstr "Подклассы зависимости должны реализовывать dep_key. Текущий класс – %s"
+
+msgid "Summary"
+msgstr "Сводка"
+
+msgid "Summary:"
+msgstr "Заключение:"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System Utilities"
+msgstr "Системные служебные программы"
+
+msgid "System repository does not support protocol '%s'."
+msgstr "Системное хранилище не поддерживает протокол '%s'."
+
+msgid "TB"
+msgstr "ТБ"
+
+msgid "TIME"
+msgstr "ВРЕМЯ"
+
+msgid "TYPE"
+msgstr "TYPE"
+
+msgid "Target '%s' does not exist"
+msgstr "Цель '%s' отсутствует"
+
+msgid "Target: '%(found)s' should be '%(expected)s'"
+msgstr "Цель: '%(found)s' должно быть '%(expected)s'"
+
+msgid "Text Tools"
+msgstr "Текстовые средства"
+
+msgid ""
+"The %(cmd)s command appears out of sync with the libraries provided\n"
+"by pkg:/package/pkg. The client version is %(client)s while the library\n"
+"API version is %(api)s"
+msgstr ""
+"Команда %(cmd)s не синхронизирована с библиотеками, предоставленными\n"
+"в pkg:/package/pkg. Версия клиента – %(client)s, в то время как версия API\n"
+" библиотеки – %(api)s"
+
+msgid ""
+"The %s hash algorithm does not use a key or certificate.  Do not use the -k "
+"or -c options with this algorithm."
+msgstr ""
+"Алгоритм хеширования %s не использует ключ или сертификат. Не используйте "
+"параметры -k или -c вместе с этим алгоритмом."
+
+msgid "The %s signature-policy takes no argument."
+msgstr "%s signature-policy не принимает аргумент."
+
+msgid "The --socket-path argument must be used with --system-repo."
+msgstr ""
+"Аргумент --socket-path необходимо использовать вместе с аргументом --system-"
+"repo."
+
+msgid "The --system-repo and --clear-system-repo options may not be combined."
+msgstr "Нельзя сочетать параметры --system-repo и --clear-system-repo."
+
+msgid ""
+"The <b>libbe</b> library couldn't prepare list of Boot Environments.\n"
+"All functions for managing Boot Environments are disabled"
+msgstr ""
+"Библиотека <b>libbe</b> не может подготовить список загрузочных сред.\n"
+"Все функции управления загрузочными средами отключены"
+
+msgid "The <b>libbe</b> library was not found on your system."
+msgstr "В системе не обнаружена библиотека <b>libbe</b>."
+
+msgid ""
+"The <b>libbe</b> library was not found on your system.\n"
+"All functions for managing Boot Environments are disabled"
+msgstr ""
+"Библиотека <b>libbe</b> в системе не найдена.\n"
+"Все функции управления загрузочными средами отключены"
+
+msgid ""
+"The Boot Environment %(name)s failed to be updated. A snapshot was taken "
+"before the failed attempt and is mounted here %(clone_dir)s. Use 'beadm "
+"unmount %(clone_name)s' and then 'beadm activate %(clone_name)s' if you wish "
+"to boot to this BE."
+msgstr ""
+"Сбой обновления загрузочной среды %(name)s. До сбойной попытки был сделан "
+"снимок, он смонтирован по адресу %(clone_dir)s. Если необходимо выполнить "
+"загрузку в данную загрузочную среду, выполните команду 'beadm unmount "
+"%(clone_name)s', а затем 'beadm activate %(clone_name)s'."
+
+msgid ""
+"The Boot Environment %s failed to be updated. A snapshot was taken before "
+"the failed attempt and has been restored so no changes have been made to %s."
+msgstr ""
+"Сбой обновления загрузочной среды %s. До сбойной попытки был сделан и "
+"сохранен снимок, поэтому в %s никаких изменений не внесено."
+
+msgid "The CRL file %s is not in a recognized format."
+msgstr "Файл CRL %s имеет нераспознанный формат."
+
+msgid ""
+"The FMRI '%s' does not contain publisher information and cannot be used for "
+"catalog operations."
+msgstr ""
+"FMRI '%s' не включает в себя информацию об издателе и не может "
+"использоваться для операций каталога."
+
+msgid ""
+"The FileManager cannot %(cre)s %(ent)s because it is configured read-only."
+msgstr ""
+"Диспетчер файлов невозможно %(cre)s %(ent)s, так как он сконфигурирован "
+"только для чтения."
+
+msgid ""
+"The URI '%(pub_url)s' does not appear to point to a valid pkg repository.\n"
+"Please check the repository's location and the client's network "
+"configuration.\n"
+"Additional details:\n"
+"\n"
+"%(error)s"
+msgstr ""
+"Идентификатор URI '%(pub_url)s' не указывает на допустимое хранилище pkg.\n"
+"Проверьте местоположение хранилища и параметры настройки сети клиента.\n"
+"Дополнительные сведения:\n"
+"\n"
+"%(error)s"
+
+msgid "The URI '%(uri)s' contains an unsupported scheme '%(scheme)s'."
+msgstr ""
+"Идентификатор URI '%(uri)s' содержит неподдерживаемую схему '%(scheme)s'."
+
+msgid ""
+"The action '%(action)s' has invalid attribute(s):\n"
+"  %(act_errors)s"
+msgstr ""
+"Действие '%(action)s' имеет недействительные атрибуты:\n"
+"  %(act_errors)s"
+
+msgid ""
+"The action '%(action)s' in package '%(fmri)s' has invalid attribute(s):\n"
+"  %(act_errors)s"
+msgstr ""
+"Действие '%(action)s' в пакете '%(fmri)s' имеет недействительные атрибуты:\n"
+"  %(act_errors)s"
+
+msgid "The boot environment '%s' already exists."
+msgstr "Среда загрузки '%s' уже существует."
+
+msgid ""
+"The certificate which issued this certificate:%(subj)s could not be found. "
+"The issuer is:%(issuer)s\n"
+msgstr ""
+"Не удалось найти сертификат, выпустивший этот сертификат:%(subj)s. "
+"Запрашивающая сторона:%(issuer)s\n"
+
+msgid ""
+"The certificate whose subject is %(cert)s could not be verified because it "
+"uses a critical extension that pkg5 cannot handle yet.\n"
+"Extension name:%(name)s\n"
+"Extension value:%(val)s"
+msgstr ""
+"Невозможно выполнить проверку сертификата с темой %(cert)s, поскольку он "
+"использует критическое расширение, которое невозможно обработать в pkg5.\n"
+"Имя расширения:%(name)s\n"
+"Значение расширения:%(val)s"
+
+msgid ""
+"The command %(cmd)s\n"
+"exited with return code %(rc)s and this message:\n"
+"%(err)s"
+msgstr ""
+"Команда %(cmd)s\n"
+"выполнила выход с кодом возврата %(rc)s и сообщением:\n"
+"%(err)s"
+
+msgid ""
+"The command %(cmd)s produced the following lines which cannot be "
+"understood:\n"
+"%(lines)s"
+msgstr ""
+"В результате выполнения команды %(cmd)s были созданы следующие строки, "
+"которые невозможно распознать:\n"
+"%(lines)s"
+
+msgid ""
+"The configuration file for the repository is invalid or incomplete:\n"
+"%s"
+msgstr ""
+"Файл настройки для хранилища является недействительным или неполным:\n"
+"%s"
+
+msgid ""
+"The content of the catalog for publisher '%s' doesn't match the catalog's "
+"attributes.  This is likely the result of a mix of older and newer catalog "
+"files being provided for the publisher."
+msgstr ""
+"Содержимое каталога для издателя '%s' не соответствует атрибутам каталога. "
+"Возможно, это вызвано предоставлением для издателя сочетания старых и новых "
+"файлов."
+
+msgid ""
+"The file dependency %s depends on a path delivered by multiple packages. "
+"Those packages are:%s"
+msgstr ""
+"Зависимость файла %s зависит от пути, предоставляемого несколькими пакетами. "
+"Это следующие пакеты:%s"
+
+msgid ""
+"The file dependency %s has paths which resolve to multiple packages. The "
+"actions are as follows:\n"
+"%s"
+msgstr ""
+"Зависимость файла %s содержит пути, которые указывают на несколько пакетов. "
+"Требуется выполнить следующие действия:\n"
+"%s"
+
+msgid "The file to be added is not a file.  The path given was %s."
+msgstr "Добавляемый элемент не является файлом. Указан следующий путь: %s."
+
+msgid ""
+"The file to be installed at %(ip)s declares a python version of %(decl_v)s.  "
+"However, the path suggests that the version should be %(inst_v)s.  The text "
+"of the file can be found at %(lp)s"
+msgstr ""
+"Устанавливаемый файл %(ip)s объявляет версию Python %(decl_v)s. Однако путь "
+"указывает на версию %(inst_v)s. Текст файла находится в %(lp)s"
+
+msgid ""
+"The file to be installed in %(ip)s does not specify a specific version of "
+"python either in its installed path nor in its text.  Such a file cannot be "
+"analyzed for dependencies since the version of python it will be used with "
+"is unknown.  The text of the file is here: %(lp)s."
+msgstr ""
+"В пути или тексте устанавливаемого файла %(ip)s не указана определенная "
+"версия Python. Такой файл невозможнопроанализировать относительно "
+"зависимостей, поскольку версия Python, с которой используется этот файл, "
+"неизвестна. В файле представлен следующий текст: %(lp)s."
+
+msgid ""
+"The file with hash %s was expected to be a PEM certificate but it could not "
+"be read."
+msgstr ""
+"Возможно, файл с хэшем %s является сертификатом PEM, но его не удалось "
+"прочитать."
+
+msgid "The following catalog files have incorrect permissions:\n"
+msgstr "Следующие файлы каталога имеют некорректные полномочия:\n"
+
+msgid "The following different patterns specify thesame package(s):"
+msgstr "Следующими различными шаблонами указывается тот же пакет (пакеты):"
+
+msgid ""
+"The following packages require their licenses to be accepted before they can "
+"be installed or updated: "
+msgstr ""
+"Перед установкой или обновлением следующих пакетов необходимо принять "
+"условия соответствующих лицензий: "
+
+msgid ""
+"The following packages require their licenses to be accepted before they can "
+"be repaired: "
+msgstr ""
+"Перед исправлением следующих пакетов необходимо принять условия "
+"соответствующих лицензий: "
+
+msgid ""
+"The following paths were found but cannot be accounted for by any of the "
+"known layouts:\n"
+"%s"
+msgstr ""
+"Найдены следующие пути, которые, однако, невозможно использовать для любой "
+"из известных структур:\n"
+"%s"
+
+msgid ""
+"The following pattern(s) did not match any packages in the current catalog.\n"
+"Try relaxing the pattern, refreshing and/or examining the catalogs:"
+msgstr ""
+"Следующие шаблоны не подходят ни к одному из пакетов в текущем\n"
+"каталоге. Примените менее узкие критерии поиска, обновите и/или просмотрите "
+"каталоги:"
+
+msgid ""
+"The following patterns only matched packages that are from publishers other "
+"than that which supplied the already installed version of this package"
+msgstr ""
+"Следующие шаблоны совпадают только с пакетами, издатель которых отличается "
+"от издателя, от которого была получена уже установленная версия пакета"
+
+msgid "The following problems were encountered:\n"
+msgstr "Возникли следующие проблемы:\n"
+
+msgid "The following publisher is disabled:\n"
+msgid_plural "The following publishers are disabled:\n"
+msgstr[0] "Следующий издатель отключен:\n"
+msgstr[1] "Следующие издатели отключены:\n"
+
+msgid "The following will be added to your system:"
+msgstr "В систему будут добавлены следующие компоненты:"
+
+msgid ""
+"The image cannot be modified as it is currently in use by another package "
+"client."
+msgstr ""
+"Образ невозможно изменить, поскольку в настоящее время он используется "
+"другим клиентом пакета."
+
+msgid ""
+"The image cannot be modified as it is currently in use by another package "
+"client: %(pid_name)s on %(host)s, pid %(pid)s."
+msgstr ""
+"Образ невозможно изменить, поскольку он в настоящее время используется "
+"другим клиентом пакета: %(pid_name)s на %(host)s, PID %(pid)s."
+
+msgid ""
+"The image cannot be modified as it is currently in use by another package "
+"client: %(pid_name)s on an unknown host, pid %(pid)s."
+msgstr ""
+"Образ невозможно изменить, поскольку в настоящее время он используется "
+"другим клиентом пакета: %(pid_name)s на неизвестном сервере, PID %(pid)s."
+
+msgid ""
+"The image cannot be modified as it is currently in use by another package "
+"client: pid %(pid)s on %(host)s."
+msgstr ""
+"Образ невозможно изменить, поскольку в настоящее время он используется "
+"другим клиентом пакета: PID %(pid)s на %(host)s."
+
+msgid "The latest version of %s cannot be installed."
+msgstr "Невозможно установить последнюю версию %s."
+
+msgid ""
+"The location from which to fetch updates to the Package Manager Start Page."
+msgstr ""
+"Местоположение, из которого извлекаются обновления начальной страницы "
+"Диспетчера пакетов."
+
+msgid "The manifest file %s could not be found."
+msgstr "Не удалось найти указанный файл манифеста '%s'."
+
+msgid "The notify icon is displayed on startup if set to true."
+msgstr ""
+"Если параметр имеет значение \"истина\", значок уведомления отображается во "
+"время запуска"
+
+msgid ""
+"The origin URIs for '%(pubname)s' do not appear to point to a valid pkg "
+"repository.\n"
+"Please verify the repository's location and the client's network "
+"configuration.\n"
+"Additional details:\n"
+"\n"
+"%(details)s"
+msgstr ""
+"Исходные идентификаторы URI для '%(pubname)s' не указывают на допустимое "
+"хранилище pkg.\n"
+"Проверьте местоположение хранилища и настройки сети клиента.\n"
+"Дополнительные сведения:\n"
+"\n"
+"%(details)s"
+
+msgid ""
+"The origin(s) listed above contain package data for more than one\n"
+"publisher, but this issue can likely be resolved by executing one\n"
+"of the following commands as a privileged user:\n"
+msgstr ""
+"Источник или источники, перечисленные выше, содержат данные пакетов для "
+"нескольких\n"
+"издателей, однако для решения этой проблемы, вероятно, достаточно\n"
+"запустить одну из следующих команд от имени привилегированного "
+"пользователя:\n"
+
+msgid "The output directory %s is not a directory."
+msgstr "Выходной каталог %s не является каталогом."
+
+msgid "The package involved is:%s"
+msgstr "Задействованный пакет: %s"
+
+msgid ""
+"The package repository at %s does not provide publisher configuration "
+"information or the information provided is incomplete."
+msgstr ""
+"Хранилище пакета в %s не предоставляет данные о настройках издателя или "
+"предоставленные данные являются неполными."
+
+msgid "The path '%s' does not contain a valid package repository."
+msgstr "Путь '%s' не содержит действительное хранилище пакета."
+
+msgid "The path for the last set of selections exported from packagemanager."
+msgstr ""
+"Путь к последнему набору выбранных параметров, экспортируемых из Диспетчера "
+"пакетов."
+
+msgid ""
+"The pkg command appears out of sync with the libraries provided\n"
+"by pkg:/package/pkg. The client version is %(client)s while the library\n"
+"API version is %(api)s."
+msgstr ""
+"Команда pkg не синхронизирована с предоставленными в pkg:/package/pkg\n"
+"библиотеками. Версия клиента – %(client)s, а версия интерфейса API\n"
+"библиотеки – %(api)s."
+
+msgid ""
+"The pkg command to perform needed uninstall is\n"
+"\tpkg uninstall %s\n"
+msgstr ""
+"Выполняемая команда pkg, для которой требуется  удаление:\n"
+"\tpkg uninstall %s\n"
+
+msgid ""
+"The pkgrepo command appears out of sync with the libraries provided\n"
+"by pkg:/package/pkg. The client version is %(client)s while the library\n"
+"API version is %(api)s."
+msgstr ""
+"Команда pkgrepo не синхронизирована с библиотеками, предоставленными\n"
+"в pkg:/package/pkg. Версия клиента – %(client)s, а версия API\n"
+"библиотеки – %(api)s."
+
+msgid ""
+"The plan for the current operation is no longer valid.  The image has likely "
+"been modified by another process or client.  Please try the operation again."
+msgstr ""
+"План текущей операции больше не действителен. Образ, возможно, изменен "
+"другим процессом или клиентом. Попытайтесь выполнить операцию повторно."
+
+msgid ""
+"The policy for %(pub_str)s requires certain CNs to be seen in a chain of "
+"trust. The following required names couldn't be found for this package:"
+"%(fmri_str)s.\n"
+"%(missing)s"
+msgstr ""
+"Политика для %(pub_str)s требует отображения нескольких CN в цепочке "
+"сертификатов. Не удалось найти следующие необходимые для пакета имена:"
+"%(fmri_str)s.\n"
+"%(missing)s"
+
+msgid ""
+"The policy for %(pub_str)s requires certain CNs to be seen in a chain of "
+"trust. The following required names couldn't be found.\n"
+"%(missing)s"
+msgstr ""
+"Политика для %(pub_str)s требует отображения нескольких CN в цепочке "
+"сертификатов. Не удалось найти следующие необходимые имена.\n"
+"%(missing)s"
+
+msgid ""
+"The policy for %(pub_str)s requires signatures to be present but no "
+"signature was found in %(fmri_str)s."
+msgstr ""
+"Политика для %(pub_str)s требует существования подписей, однако в "
+"%(fmri_str)s отсутствуют подписи."
+
+msgid ""
+"The policy for %(pub_str)s requires signatures to be present but no "
+"signature was found."
+msgstr ""
+"Политика для %(pub_str)s требует существования подписей, однакоподпись не "
+"найдена."
+
+msgid "The preferred publisher cannot be removed."
+msgstr "Удаление предпочтительного издателя невозможно."
+
+msgid ""
+"The preferred publisher may not be disabled.  Another publisher must be set "
+"as the preferred publisher before this publisher can be disabled."
+msgstr ""
+"Невозможно отключить предпочтительного издателя. Необходимо установить "
+"другого издателя в качестве предпочтительного до отключения этого издателя."
+
+msgid ""
+"The proposed operation can not be performed for the following package(s) as "
+"they are already installed: "
+msgstr ""
+"Предложенную операцию невозможно выполнить для следующих пакетов, так как "
+"они уже установлены: "
+
+msgid "The proto directory %s could not be found."
+msgstr "Не удалось найти каталог proto '%s'."
+
+msgid ""
+"The provided p5i data is in an unrecognized format or does not contain valid "
+"publisher information."
+msgstr ""
+"Предоставленные данные p5i имеют неизвестный формат или не содержат "
+"действительныесведения об издателе."
+
+msgid ""
+"The provided p5i data is in an unrecognized format or does not contain valid "
+"publisher information: %s"
+msgstr ""
+"Предоставленные данные p5i имеют неизвестный формат или не содержат "
+"действительные сведения об издателе: %s"
+
+msgid ""
+"The relevant signature action is found in %(pfmri)s and has a hash of %(hsh)s"
+msgstr ""
+"Релевантное действие подписи найдено в %(pfmri)s и содержит хэш %(hsh)s"
+
+msgid "The relevant signature action's value attribute is %s"
+msgstr "Атрибут значения релевантного действия подписи: %s"
+
+msgid ""
+"The repository at %(location)s does not contain package data for "
+"%(unknown)s; only %(known)s.\n"
+"\n"
+"This is either because the repository location is not valid, or because the "
+"provided publisher does not match those known by the repository."
+msgstr ""
+"Хранилище в %(location)s не содержит данные пакета для %(unknown)s; только "
+"для %(known)s.\n"
+"\n"
+"Это вызвано недействительностью местоположения хранилища или "
+"несоответствиемпредоставленного издателя издателю, известному хранилищу."
+
+msgid ""
+"The repository cannot be modified as it is currently in use by another "
+"process."
+msgstr ""
+"Невозможно изменить хранилище, поскольку в настоящее время оно используется "
+"другим процессом."
+
+msgid ""
+"The repository cannot be modified as it is currently in use by another "
+"process: pid %(pid)s on %(host)s."
+msgstr ""
+"Невозможно изменить хранилище, поскольку в настоящее время оно используется "
+"другим процессом: pid %(pid)s на·%(host)s."
+
+msgid ""
+"The repository configuration for the repository located at '%s' is not valid "
+"or the specified path does not exist.  Please correct the configuration of "
+"the repository or create a new one."
+msgstr ""
+"Конфигурация хранилища, расположенного в '%s', недопустима, или указанный "
+"путь не существует. Исправьте конфигурацию хранилища или создайте новую."
+
+msgid "The repository is read-only and cannot be modified."
+msgstr "Хранилище доступно только для чтения и не может быть изменено."
+
+msgid ""
+"The repository returned a malformed result.\n"
+"The problematic structure:%r"
+msgstr ""
+"Хранилище вернуло недопустимый результат.\n"
+"Структура, вызвавшая проблему:%r"
+
+msgid "The repository returned a malformed result:%r"
+msgstr "Хранилище вернуло недопустимый результат:%r"
+
+msgid ""
+"The repository returned an invalid or unsupported action.\n"
+"%s"
+msgstr ""
+"Хранилище вернуло недействительное или неподдерживаемое действие.\n"
+"%s"
+
+msgid ""
+"The requested operation cannot be completed due to invalid package "
+"metadata.  Details follow:\n"
+"\n"
+"%s"
+msgstr ""
+"Невозможно завершить запрашиваемую операцию, поскольку метаданные пакета "
+"недействительны. Подробные данные:\n"
+"\n"
+"%s"
+
+msgid ""
+"The requested operation cannot be performed when the repository is used in "
+"mirror mode."
+msgstr ""
+"Невозможно выполнить запрошенную операцию, если хранилище используется в "
+"зеркальном режиме."
+
+msgid ""
+"The requested operation could not be completed as a default publisher has "
+"not been configured."
+msgstr ""
+"Не удалось завершить запрошенную операцию, поскольку не выполнена настройка "
+"издателя по умолчанию."
+
+msgid ""
+"The requested operation would affect files that cannot be modified in the "
+"Live Image.\n"
+"Please retry this operation on an alternate boot environment."
+msgstr ""
+"Запрошенная операция может повлиять на файлы, которые нельзя изменить в "
+"образеLive Image.\n"
+"Повторите эту операцию в альтернативной загрузочной среде."
+
+msgid "The search at url %s returned no results."
+msgstr "Поиск по URL-адресу %s не дал результатов."
+
+msgid ""
+"The search index appears corrupted.  Please rebuild the index with 'pkg "
+"rebuild-index'."
+msgstr ""
+"Индекс поиска представляется поврежденным. Выполните перестроение индекса с "
+"помощью команды 'pkg rebuild-index'."
+
+msgid ""
+"The search index cannot be modified as it is currently in use by another "
+"process."
+msgstr ""
+"Невозможно изменить индекс поиска, поскольку в настоящее время он "
+"используется другим процессом."
+
+msgid ""
+"The search index cannot be modified as it is currently in use by another "
+"process: pid %(pid)s on %(host)s."
+msgstr ""
+"Невозможно изменить индекс поиска, поскольку в настоящее время он "
+"используется другим процессом: pid %(pid)s на %(host)s."
+
+msgid ""
+"The signature action %(act)s was made using a version (%(ver)s) this version "
+"of pkg(5) doesn't understand."
+msgstr ""
+"Действие подписи %(act)s выполнялось с использованием версии (%(ver)s), не "
+"распознаваемой данной версией pkg(5)."
+
+msgid "The signature data for the '%s' catalog file is not valid."
+msgstr "Данные подписи для этого файла каталога '%s' являются недопустимыми."
+
+msgid "The signature data for the manifest is not valid."
+msgstr "Данные подписи для манифеста являются недопустимыми."
+
+msgid "The signature data for the manifest of the '%s' package is not valid."
+msgstr "Данные подписи для манифеста пакета '%s' являются недопустимыми."
+
+msgid "The signature value did not match the expected value. Res: %s"
+msgstr "Значение подписи не соответствует ожидаемому. Res: %s"
+
+msgid "The signature value did not match the expected value. action:%s"
+msgstr "Значение подписи не соответствует ожидаемому. действие:%s"
+
+msgid ""
+"The signature with this signature value:\n"
+"%(sigval)s\n"
+" could not be verified for this reason:\n"
+"%(reason)s\n"
+msgstr ""
+"Подпись с данным значением:\n"
+"%(sigval)s\n"
+" не удалось проверить по причине:\n"
+"%(reason)s\n"
+
+msgid "The specified Action Type, '%s', is not valid."
+msgstr "Указанный тип действия, '%s', является недопустимым."
+
+msgid "The specified FMRI, '%s', already exists or has been restricted."
+msgstr "Указанный FMRI, '%s', уже существует или ограничен."
+
+msgid "The specified FMRI, '%s', is invalid."
+msgstr "Указанный FMRI, '%s', является недопустимым."
+
+msgid ""
+"The specified FMRI, '%s', must include the publisher prefix as the "
+"repository contains package data for more than one publisher or a default "
+"publisher has not been defined."
+msgstr ""
+"Указанный FMRI, '%s', должен включать в себя префикс издателя, так как "
+"хранилище содержит данные пакета для более чем одного издателя, или не "
+"определен издатель по умолчанию."
+
+msgid "The specified URI contains an unsupported scheme."
+msgstr "Указанный идентификатор URI содержит неподдерживаемую схему."
+
+msgid ""
+"The specified URI does not appear to point to a valid pkg repository.\n"
+"Please check the URI and the client's network configuration.\n"
+"Additional details:\n"
+"\n"
+"%s"
+msgstr ""
+"Указанный идентификатор URI не указывает на действительное хранилище pkg.\n"
+"Проверьте идентификатор URI и настройки сети клиента.\n"
+"Дополнительные сведения:\n"
+"\n"
+"%s"
+
+msgid "The specified client_release is invalid: '%s'"
+msgstr "Указанная client_release является недопустимой: '%s'"
+
+msgid ""
+"The specified package repository does not provide publisher configuration "
+"information."
+msgstr ""
+"Указанное хранилище пакета не предоставляет данные о настройках издателя."
+
+msgid "The specified path does not contain a valid package repository."
+msgstr "Указанный путь не содержит действительное хранилище пакета."
+
+msgid ""
+"The specified publisher repository does not contain any package data for "
+"%(unknown)s; only %(known)s."
+msgstr ""
+"Указанный издатель не содержит данные пакета для %(unknown)s; только для "
+"%(known)s."
+
+msgid "The specified search token '%s' is invalid."
+msgstr "Указанный маркер поиска '%s' является недопустимым."
+
+msgid ""
+"The time, in seconds, that the updatemanagernotifier should wait, after "
+"starting, before checking for updates."
+msgstr ""
+"Время в секундах, которое средство уведомления диспетчера обновлений должно "
+"выждать после запуска перед проверкой обновлений."
+
+msgid ""
+"The trust anchor for the image were expected to be found in %s, but that is "
+"not a directory.  Please set the image property 'trust-anchor-directory' to "
+"the correct path."
+msgstr ""
+"Доверительная привязка образа должна была находиться в %s, однако это не "
+"каталог. Установите для свойства 'trust-anchor-directory' корректный путь."
+
+msgid ""
+"The updatemanagernotifier program terminates after the user activates the "
+"icon in the notification area if set to true."
+msgstr ""
+"Если установлено значение true, программа updatemanagernotifier завершает "
+"работу после выбора пользователем значка в области уведомлений."
+
+msgid "Theming"
+msgstr "Темы"
+
+msgid ""
+"There is one package in this category, however it is not visible in the "
+"selected View:\n"
+"<li style='padding-left:7px'><b>%s</b></li>"
+msgid_plural ""
+"There are a number of packages in this category, however they are not "
+"visible in the selected View:\n"
+"<li style='padding-left:7px'><b>%s</b></li>"
+msgstr[0] ""
+"В этой категории имеется один пакет, однако он не отображается в выбранном "
+"режиме просмотра:\n"
+"<li style='padding-left:7px'><b>%s</b></li>"
+msgstr[1] ""
+"В этой категории имеется несколько пакетов, однако они не отображаются в "
+"выбранном режиме просмотра:\n"
+"<li style='padding-left:7px'><b>%s</b></li>"
+
+msgid ""
+"There was an error during installation.\n"
+"The Plan of the operation is missing and the operation can't be finished. "
+"You might want try to fix this problem by restarting %s\n"
+msgstr ""
+"Во время установки произошла ошибка.\n"
+"Отсутствует план операции или операция не может быть завершена. Можно "
+"попытаться решить эту проблему, перезагрузив %s\n"
+
+msgid ""
+"There was an error during installation.\n"
+"The State of the image is incorrect and the operation can't be finished. You "
+"might want try to fix this problem by restarting %s\n"
+msgstr ""
+"Во время установки произошла ошибка.\n"
+"Состояние образа является некорректным и операция не может быть выполнена. "
+"Для устранения этой проблемы можно попробовать перезагрузить %s\n"
+
+msgid ""
+"There was an error during installation. The search index is corrupted. You "
+"might want try to fix this problem by running command:\n"
+"\tpfexec pkg rebuild-index"
+msgstr ""
+"Во время установки произошла ошибка. Индекс поиска поврежден. Можно "
+"попытаться исправить эту проблему, выполнив команду:\n"
+"\tpfexec pkg rebuild-index"
+
+msgid ""
+"These package(s) must be uninstalled to continue:\n"
+"\t%s\n"
+msgstr ""
+"Эти пакеты необходимо удалить для продолжения:\n"
+"\t%s\n"
+
+msgid ""
+"This certificate was revoked:%(cert)s for this reason:\n"
+"%(reason)s"
+msgstr ""
+"Этот сертификат аннулирован:%(cert)s по следующей причине:\n"
+"%(reason)s"
+
+msgid "This expression produces action results:"
+msgstr "Это выражение производит результаты действия:"
+
+msgid "This expression produces package results:"
+msgstr "Это выражение производит результаты пакетов:"
+
+msgid "This is a Live Image. The install operation can't be performed."
+msgstr "Это образ Live Image. Невозможно выполнить операцию установки."
+
+msgid "This is a secure publisher."
+msgstr "Этот издатель является защищенным."
+
+msgid ""
+"This is either a result of invalid origin information being provided\n"
+"for publisher '%s', or because the wrong publisher name was\n"
+"provided when this publisher was added.\n"
+msgstr ""
+"Это может быть вызвано либо неверными данными пакета\n"
+",указанными для издателя '%s', либо неверным именем издателя,\n"
+"предоставленнным при добавлении издателя.\n"
+
+msgid "This name already exists."
+msgstr "Имя уже существует"
+
+msgid ""
+"This operation requires that a default publisher has been set or that a "
+"publisher be specified in the FMRI '%s'."
+msgstr ""
+"Для этой операции требуется установить издателя по умолчанию или указать "
+"издателя в FMRI '%s'."
+
+msgid ""
+"This package contains no actions with the fields specified using the -o\n"
+"option. Please specify other fields, or use the -m option to show the raw\n"
+"package manifests."
+msgid_plural ""
+"These packages contain no actions with the fields specified using the -o\n"
+"option. Please specify other fields, or use the -m option to show the raw\n"
+"package manifests."
+msgstr[0] ""
+"Этот пакет не содержит действий с полями, указанными при помощи параметра -"
+"o\n"
+". Укажите другие поля или используйте параметр -m для отображения "
+"необработанных\n"
+"манифестов пакета."
+msgstr[1] ""
+"Эти пакеты не содержат действий с полями, указанными при помощи параметра -"
+"o\n"
+". Укажите другие поля или используйте параметр -m для отображения "
+"манифестов\n"
+"необработанных пакетов."
+
+msgid ""
+"This package delivers no filesystem content, but may contain metadata. Use\n"
+"the -o option to specify fields other than 'path', or use the -m option to "
+"show\n"
+"the raw package manifests."
+msgid_plural ""
+"These packages deliver no filesystem content, but may contain metadata. Use\n"
+"the -o option to specify fields other than 'path', or use the -m option to "
+"show\n"
+"the raw package manifests."
+msgstr[0] ""
+"Данный пакет не включает в себя содержимое файловой системы, но может "
+"содержать метаданные. Используйте\n"
+"параметр -o для указания полей, отличных от 'path', или параметр -m для "
+"отображения\n"
+"манифестов необработанных пакетов."
+msgstr[1] ""
+"Эти пакеты не включают в себя содержимое файловой системы, но могут "
+"содержать метаданные. Используйте\n"
+"параметр -o для указания полей, отличных от 'path', или параметр -m для "
+"отображения\n"
+"манифестов необработанных пакетов."
+
+msgid ""
+"This publisher requires an SSL key and an SSL certificate.\n"
+"Specify the location of these files."
+msgstr ""
+"Для данного издателя необходим ключ SSL и сертификат SSL.\n"
+"Укажите путь к этим файлам."
+
+msgid "This version excluded by specified installation version"
+msgstr "Эта версия исключена указанной версией для установки"
+
+msgid "This version is excluded by freeze %s"
+msgstr "Эта версия исключена блокировкой %s"
+
+msgid "This version is excluded by installed incorporation %s"
+msgstr "Эта версия исключена установленным объединением %s"
+
+msgid "Timestamp: %(found)s should be %(expected)s"
+msgstr "Временная метка: %(found)s должно быть %(expected)s"
+
+msgid "To create a repository, use the pkgsend command."
+msgstr "Для создания хранилища используйте команду pkgsend."
+
+msgid ""
+"To indicate that you agree to and accept the terms of the licenses of the "
+"packages listed above, use the --accept option.  To display all of the "
+"related licenses, use the --licenses option."
+msgstr ""
+"Для подтверждения согласия с условиями лицензий пакетов из списка, "
+"приведенного выше, воспользуйтесь параметром --accept. Для вывода всех "
+"соответствующих лицензий воспользуйтесь параметром --licenses."
+
+msgid ""
+"To re-add this publisher with the correct name, execute the following\n"
+"commands as a privileged user:\n"
+"\n"
+"pkg set-publisher -P -g %(origin)s %(pub)s\n"
+"pkg unset-publisher %(prefix)s\n"
+msgstr ""
+"Для повторного добавления этого издателя с правильным именем выполните "
+"следующие команды\n"
+" от имени привилегированного пользователя:\n"
+"\n"
+"pkg set-publisher -P -g %(origin)s %(pub)s\n"
+"pkg unset-publisher %(prefix)s\n"
+
+msgid ""
+"To resolve this issue, correct the origin information provided for\n"
+"publisher '%(prefix)s' using the pkg set-publisher subcommand, or re-add\n"
+"the publisher using the correct name and remove the '%(prefix)s'\n"
+"publisher.\n"
+msgstr ""
+"Для решения этого вопроса необходимо исправить информацию об источнике, "
+"приведенной для \n"
+"издателя '%(prefix)s' с помощью подкоманды pkg set-publisher , либо повторно "
+"добавить\n"
+"издателя с указанием правильного имени и удалить издателя '%(prefix)s'.\n"
+
+msgid "Total number of checks found: %s"
+msgstr "Общее число найденных проверок: %s"
+
+msgid "Total: %(total)s  Selected: %(selected)s"
+msgstr "Итого: %(total)s  Выбрано: %(selected)s"
+
+msgid "Transaction ID '%s' is already open."
+msgstr "Идентификатор транзакции '%s' уже открыт."
+
+msgid "Transforming repository catalog; this process will take some time."
+msgstr ""
+"Преобразование каталога хранилища; этот процесс займет некоторое время."
+
+msgid "Trusted"
+msgstr "Надежный"
+
+msgid "Trusted Extensions"
+msgstr "Trusted Extensions"
+
+msgid "Try `pkg --help or -?' for more information."
+msgstr ""
+"Для получения дополнительной информации попытайтесь выполнить `pkg --help or "
+"-?'."
+
+msgid "Try `pkg.depotd --help or -?' for more information."
+msgstr ""
+"Для получения дополнительной информации воспользуйтесь командой \"pkg.depotd "
+"--help или -?\"."
+
+msgid "Try `pkgrepo --help or -?' for more information."
+msgstr ""
+"Для получения дополнительных сведений выполните команду `pkgrepo --help or "
+"-?'."
+
+msgid "Type text to search for the package."
+msgstr "Введите текст для поиска пакета."
+
+msgid "UPDATED"
+msgstr "ОБНОВЛЕНО"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "URI already added"
+msgstr "Идентификатор URI уже добавлен"
+
+msgid "URI is not valid"
+msgstr "Недействительный идентификатор URI"
+
+msgid "URI:"
+msgstr "URI:"
+
+msgid "Unable to access any pkglint images under %s"
+msgstr "Невозможно получить доступ к образам pkglint в %s"
+
+msgid ""
+"Unable to add signing ca certificates for publisher '%(pfx)s':\n"
+"%(details)s"
+msgstr ""
+"Невозможно добавить подпись сертификатов CA для издателя '%(pfx)s':\n"
+"%(details)s"
+
+msgid ""
+"Unable to add signing intermediate certificates for publisher '%(pfx)s':\n"
+"%(details)s"
+msgstr ""
+"Невозможно добавить подпись промежуточных сертификатов для издателя "
+"'%(pfx)s':\n"
+"%(details)s"
+
+msgid ""
+"Unable to add signing intermediate certificates:\n"
+"%(details)s"
+msgstr ""
+"Невозможно добавить подпись промежуточных сертификатов:\n"
+"%(details)s"
+
+msgid "Unable to clone the current boot environment."
+msgstr "Невозможно клонировать текущую среду загрузки."
+
+msgid ""
+"Unable to create %(path)s; a parent directory %(p)s has been replaced with a "
+"file or link.  Please restore the parent directory and try again."
+msgstr ""
+"Невозможно создать %(path)s; родительский каталог %(p)s заменен файлом или "
+"ссылкой. Восстановите родительский каталог и повторите попытку."
+
+msgid "Unable to create basedir '%s'."
+msgstr "Невозможно создать basedir '%s'."
+
+msgid ""
+"Unable to create directory %s; it has been replaced with a link.  To "
+"continue, please remove the link or restore the directory to its original "
+"location and try again."
+msgstr ""
+"Невозможно создать каталог %s; он заменен ссылкой. Для продолжения удалите "
+"ссылку или поместите каталог в исходноеместоположение и повторите попытку."
+
+msgid "Unable to create hard link %(path)s; target %(target)s is missing."
+msgstr ""
+"Невозможно создать жесткую ссылку %(path)s; целевой элемент %(target)s "
+"отсутствует."
+
+msgid "Unable to create lint image: %s"
+msgstr "Невозможно создать образ lint: %s"
+
+msgid "Unable to create reference image: %s"
+msgstr "Невозможно создать ссылочный образ: %s"
+
+msgid ""
+"Unable to determine the updates needed for  the current catalog using the "
+"provided catalog update data in '%s'."
+msgstr ""
+"Невозможно определить обновления, необходимые для текущего каталога, с "
+"помощью предоставленных данных обновления каталога в '%s'."
+
+msgid ""
+"Unable to determine the updates needed for the catalog using the provided "
+"catalog update data in '%s'. The specified catalog updates are for an older "
+"version of the catalog and cannot be used."
+msgstr ""
+"Невозможно определить обновления, необходимые для каталога, с помощью "
+"предоставленных данных обновления каталога в '%s'. Указанные обновления "
+"каталога предназначены для старой версии каталога и, следовательно, не могут "
+"быть использованы."
+
+msgid ""
+"Unable to generate SMF dependency on %(dep_fmri)s declared in %(proto_file)s "
+"by%(fmri)s: %(err)s"
+msgstr ""
+"Невозможно создать зависимость SMF для %(dep_fmri)s, объявленного в "
+"%(proto_file)s by%(fmri)s: %(err)s"
+
+msgid "Unable to generate statistics."
+msgstr "Не удалось создать статистику."
+
+msgid "Unable to get image at %(dir)s: %(reason)s"
+msgstr "Невозможно получить доступ к образу в %(dir)s: %(reason)s"
+
+msgid "Unable to initialize gtk"
+msgstr "Невозможно инициализировать gtk"
+
+msgid ""
+"Unable to initiate transaction:\n"
+"%s"
+msgstr ""
+"Невозможно инициировать транзакцию:\n"
+"%s"
+
+msgid ""
+"Unable to locate certificate '%(cert)s' for publisher '%(pub)s' needed to "
+"access '%(uri)s'."
+msgstr ""
+"Не обнаружен сертификат '%(cert)s' для издателя '%(pub)s', требуемый для "
+"доступа к '%(uri)s'."
+
+msgid "Unable to locate certificate '%(cert)s' for publisher '%(pub)s'."
+msgstr "Не обнаружен сертификат '%(cert)s' для издателя '%(pub)s'."
+
+msgid "Unable to locate certificate '%(cert)s' needed to access '%(uri)s'."
+msgstr "Не обнаружен сертификат '%(cert)s', требуемый для доступа к '%(uri)s'."
+
+msgid "Unable to locate certificate '%s'."
+msgstr "Не обнаружен сертификат '%s'."
+
+msgid ""
+"Unable to locate key '%(key)s' for publisher '%(pub)s' needed to access "
+"'%(uri)s'."
+msgstr ""
+"Не обнаружен ключ '%(key)s' для издателя '%(pub)s', требуемый для доступа к "
+"'%(uri)s'."
+
+msgid "Unable to locate key '%(key)s' for publisher '%(pub)s'."
+msgstr "Не обнаружен ключ '%(key)s' для издателя '%(pub)s'."
+
+msgid "Unable to locate key '%(key)s' needed to access '%(uri)s'."
+msgstr "Не обнаружен ключ '%(key)s', требуемый для доступа '%(uri)s'."
+
+msgid "Unable to locate key '%s'."
+msgstr "Не обнаружен ключ '%s'."
+
+msgid "Unable to mount %(name)s at %(mt)s"
+msgstr "Не удалось смонтировать %(name)s на %(mt)s"
+
+msgid "Unable to parse SMF manifest %s"
+msgstr "Невозможно выполнить синтаксический анализ манифеста SMF %s"
+
+msgid "Unable to parse manifest '%(mpath)s' for package '%(pfmri)s'"
+msgstr ""
+"Невозможно проанализировать манифест '%(mpath)s' для пакета '%(pfmri)s'."
+
+msgid ""
+"Unable to perform '%(op)s' operation for catalog %(name)s; completion would "
+"result in a duplicate entry for package '%(fmri)s'."
+msgstr ""
+"Невозможно выполнить операцию '%(op)s' для каталога %(name)s; выполнение "
+"приведет к повторной записи для пакета '%(fmri)s'."
+
+msgid ""
+"Unable to read configuration data for SMF FMRI '%(fmri)s':\n"
+"%(errmsg)s"
+msgstr ""
+"Невозможно считать данные настройки для SMF FMRI '%(fmri)s':\n"
+"%(errmsg)s"
+
+msgid "Unable to read manifest file %s: %s"
+msgstr "Не удалось считать файл манифеста %s: %s"
+
+msgid ""
+"Unable to remove %s; it is in use as a mountpoint.  To continue, please "
+"unmount the filesystem at the target location and try again."
+msgstr ""
+"Невозможно удалить %s; он используется в качестве точки монтирования. Для "
+"продолженияразмонтируйте файловую систему в целевом местоположении и "
+"повторите попытку."
+
+msgid ""
+"Unable to remove %s; it is in use by the system, another process, or as a "
+"mountpoint."
+msgstr ""
+"Невозможно удалить %s; он используется системой, другим процессом или в "
+"качестве точки монтирования."
+
+msgid ""
+"Unable to remove signing ca certificates for publisher '%(pfx)s':\n"
+"%(details)s"
+msgstr ""
+"Невозможно удалить подпись сертификатов CA для издателя '%(pfx)s':\n"
+"%(details)s"
+
+msgid ""
+"Unable to remove signing intermediate certificates for publisher '%(pfx)s':\n"
+"%(details)s"
+msgstr ""
+"Невозможно удалить подпись промежуточных сертификатов для издателя "
+"'%(pfx)s':\n"
+"%(details)s"
+
+msgid ""
+"Unable to remove signing intermediate certificates:\n"
+"%(details)s"
+msgstr ""
+"Невозможно удалить подпись промежуточных сертификатов:\n"
+"%(details)s"
+
+msgid ""
+"Unable to set properties for publisher '%(pfx)s':\n"
+"%(details)s"
+msgstr ""
+"Невозможно установить свойства для издателя '%(pfx)s':\n"
+"%(details)s"
+
+msgid ""
+"Unable to write configuration data for SMF FMRI '%(fmri)s':\n"
+"%(errmsg)s"
+msgstr ""
+"Не удалось записать данные настройки для SMF FMRI '%(fmri)s':\n"
+"%(errmsg)s"
+
+msgid "Unexpected Error"
+msgstr "Непредвиденная ошибка"
+
+msgid "Unexpected Error: %s"
+msgstr "Непредвиденная ошибка: %s"
+
+msgid "Unexpected Exception: %s"
+msgstr "Непредвиденное исключение: %s"
+
+msgid "Universal Access"
+msgstr "Универсальный доступ"
+
+msgid "Unknown catalog update type '%s'"
+msgstr "Неизвестный тип обновления каталога '%s'"
+
+msgid "Unknown failure; no transaction ID provided in response."
+msgstr "Неизвестная ошибка; в ответе не указан идентификатор транзакции."
+
+msgid "Unknown img_path type."
+msgstr "Неизвестный тип img_path."
+
+msgid "Unknown info_needed type: %s"
+msgstr "Неизвестный тип info_needed: %s"
+
+msgid "Unknown legal URI '%s'."
+msgstr "Неизвестный допустимый идентификатор URI '%s'."
+
+msgid "Unknown property %s"
+msgstr "Неизвестное свойство %s"
+
+msgid "Unknown property %s.%s"
+msgstr "Неизвестное свойство %s.%s"
+
+msgid "Unknown property section: %s."
+msgstr "Неизвестный раздел свойства: %s."
+
+msgid "Unknown publisher '%s'."
+msgstr "Неизвестный издатель '%s'."
+
+msgid "Unknown related URI '%s'."
+msgstr "Неизвестный связанный идентификатор URI '%s'."
+
+msgid "Unknown repository '%s'."
+msgstr "Неизвестное хранилище '%s'."
+
+msgid "Unknown repository mirror '%s'."
+msgstr "Неизвестное зеркало хранилища '%s'."
+
+msgid "Unknown repository origin '%s'"
+msgstr "Неизвестный источник хранилища '%s'"
+
+msgid "Unknown type (%s) in depend action"
+msgstr "Неизвестный тип (%s) в действии depend"
+
+msgid "Unrecognized format %(format)s. Supported formats: %(valid)s"
+msgstr "Неизвестный формат %(format)s. Поддерживаемые форматы: %(valid)s"
+
+msgid "Unrecognized or malformed data in operation payload: '%s'."
+msgstr ""
+"Нераспознанные или недопустимые данные в полезной нагрузке операции: '%s'."
+
+msgid "Unrecognized, unknown, or invalid CatalogPart '%s'"
+msgstr "Нераспознаваемая, неизвестная или недопустимая часть каталога '%s'"
+
+msgid "Unset sticky Publisher:\n"
+msgid_plural "Unset sticky Publishers:\n"
+msgstr[0] "Отменить установку клейкого значения для издателя:\n"
+msgstr[1] "Отменить установку клейкого значения для издателей:\n"
+
+msgid "Unsupported"
+msgstr "Не поддерживается"
+
+msgid ""
+"Unsupported operation '%(op)s' for the specified repository type '%(type)s'."
+msgstr ""
+"Неподдерживаемая операция '%(op)s' для указанного типа хранилища '%(type)s'."
+
+msgid "Unsupported pkg(5) publisher information data format."
+msgstr "Неподдерживаемый формат данных об издателе pkg(5)."
+
+msgid "Unsupported scheme '%(scheme)s' in URL: '%(url)s'."
+msgstr "Неподдерживаемая схема '%(scheme)s' в URL: '%(url)s'."
+
+msgid "Update All"
+msgstr "Обновить все"
+
+msgid "Update Manager"
+msgstr "Диспетчер обновлений"
+
+msgid "Update Manager Notifier"
+msgstr "Средство уведомления диспетчера обновлений"
+
+msgid "Update Phase"
+msgstr "Фаза обновления"
+
+msgid "Updates"
+msgstr "Обновления"
+
+msgid "Updates Available"
+msgstr "Доступны обновления"
+
+msgid "Updates Complete"
+msgstr "Обновления завершены"
+
+msgid "Updates Confirmation"
+msgstr "Подтверждение обновлений"
+
+msgid ""
+"Updates available\n"
+"%(updates)s %(installs)s %(removes)s"
+msgstr ""
+"Доступны обновления\n"
+"%(updates)s %(installs)s %(removes)s"
+
+msgid "Updating"
+msgstr "Обновление"
+
+msgid "Updating %s"
+msgstr "Обновление %s"
+
+msgid "Updating publisher %s\n"
+msgstr "Обновление издателя %s\n"
+
+msgid ""
+"Usage:\n"
+"        pkg [options] command [cmd_options] [operands]\n"
+msgstr ""
+"Использование:\n"
+"        pkg [options] command [cmd_options] [operands]\n"
+
+msgid ""
+"Usage:\n"
+"        pkgdepend [options] command [cmd_options] [operands]\n"
+"\n"
+"Subcommands:\n"
+"        pkgdepend generate [-IMm] -d dir [-d dir] [-D name=value] [-k path]\n"
+"            manifest_path\n"
+"        pkgdepend [options] resolve [-dmosv] manifest ...\n"
+"\n"
+"Options:\n"
+"        -R dir\n"
+"        --help or -?\n"
+"Environment:\n"
+"        PKG_IMAGE"
+msgstr ""
+"Использование:\n"
+"        pkgdepend [options] command [cmd_options] [operands]\n"
+"\n"
+"Подкоманды:\n"
+"        pkgdepend generate [-IMm] -d dir [-d dir] [-D name=value] [-k path]\n"
+"            manifest_path\n"
+"        pkgdepend [options] resolve [-dmosv] manifest ...\n"
+"\n"
+"Параметры:\n"
+"        -R dir\n"
+"        --help or -?\n"
+"Среда:\n"
+"        PKG_IMAGE"
+
+msgid ""
+"Usage:\n"
+"        pkgrecv [-s src_repo_uri] [-d (path|dest_uri)] [-kr] [-m match]\n"
+"            (fmri|pattern) ...\n"
+"        pkgrecv [-s src_repo_uri] -n\n"
+"\n"
+"Options:\n"
+"        -c cache_dir    The path to a directory that will be used to cache\n"
+"                        downloaded content.  If one is not supplied, the\n"
+"                        client will automatically pick a cache directory.\n"
+"                        In the case where a download is interrupted, and a\n"
+"                        cache directory was automatically chosen, use this\n"
+"                        option to resume the download.\n"
+"\n"
+"        -d path_or_uri  The path of a directory to save the retrieved "
+"package\n"
+"                        to, or the URI of a repository to republish it to.  "
+"If\n"
+"                        not provided, the default value is the current "
+"working\n"
+"                        directory.  If a directory path is provided, then\n"
+"                        package content will only be retrieved if it does "
+"not\n"
+"                        already exist in the target directory.  If a "
+"repository\n"
+"                        URI is provided, a temporary directory will be "
+"created\n"
+"                        and all of the package data retrieved before "
+"attempting\n"
+"                        to republish it.\n"
+"\n"
+"        -h              Display this usage message.\n"
+"        -k              Keep the retrieved package content compressed, "
+"ignored\n"
+"                        when republishing.  Should not be used with "
+"pkgsend.\n"
+"        -m match        Controls matching behaviour using the following "
+"values:\n"
+"                            all-timestamps\n"
+"                                includes all matching timestamps, not just\n"
+"                                latest (implies all-versions)\n"
+"                            all-versions\n"
+"                                includes all matching versions, not just "
+"latest\n"
+"        -n              List the most recent versions of the packages "
+"available\n"
+"                        from the specified repository and exit.  (All other\n"
+"                        options except -s will be ignored.)\n"
+"        -r              Recursively evaluates all dependencies for the "
+"provided\n"
+"                        list of packages and adds them to the list.\n"
+"        -s src_repo_uri A URI representing the location of a pkg(5)\n"
+"                        repository to retrieve package data from.\n"
+"\n"
+"Environment:\n"
+"        PKG_DEST        Destination directory or repository URI\n"
+"        PKG_SRC         Source repository URI"
+msgstr ""
+"Использование:\n"
+"        pkgrecv [-s src_repo_uri] [-d (path|dest_uri)] [-kr] [-m match]\n"
+"            (fmri|pattern) ...\n"
+"        pkgrecv [-s src_repo_uri] -n\n"
+"\n"
+"Параметры:\n"
+"        -c cache_dir    Путь к каталогу, который будет использоваться для "
+"сохранения в кэше\n"
+"                        загруженного содержимого. Если путь не предоставлен, "
+"клиент\n"
+"                        автоматически выбирает каталог кэша.\n"
+"                        В случае прерывания загрузки, и\n"
+"                        автоматического выбора каталога кэша, используйте "
+"этот\n"
+"                        параметр для возобновления загрузки.\n"
+"\n"
+"        -d path_or_uri  Путь каталога для сохранения возвращенного пакета\n"
+"                        или идентификатор URI каталога для его повторной "
+"публикации.  Если\n"
+"                        путь не предоставляется, в качестве текущего "
+"рабочего каталога\n"
+"                        используется значение по умолчанию. При "
+"предоставлении пути к каталогу\n"
+"                        содержимое пакета будет возвращено, если оно еще не\n"
+"                        существует в целевом каталоге. Если предоставляется\n"
+"                        идентификатор URI хранилища, создается временный "
+"каталог\n"
+"                        и все возвращенные данные пакета перед попыткой его\n"
+"                        повторной публикации.\n"
+"\n"
+"        -h              Отображение данного сообщения об использовании.\n"
+"        -k              Сохранение возвращенного содержимого пакета в сжатом "
+"виде, игнорируется\n"
+"                        при повторной публикации. Необходимо использовать "
+"сpkgsend.\n"
+"        -m match        Управляет поведением сопоставления при помощи "
+"следущих значений:\n"
+"                            all-timestamps\n"
+"                                включает все метки времени, а не только\n"
+"                                последнюю (относится ко всем версиям)\n"
+"                            all-versions\n"
+"                                включает все соответствующие версии, а не "
+"только последнюю\n"
+"        -n              Вывод списка новейших доступных версий пакетов\n"
+"                        из указанного каталога и выход из него. (Остальные\n"
+"                        параметры кроме -s будут игнорироваться.)\n"
+"        -r              Рекурсивно оценивает все зависимости для "
+"предоставленного\n"
+"                        списка пакетов и добавляет их в список.\n"
+"        -s src_repo_uri Идентификатор URI, предоставляющий путь к каталогу "
+"pkg(5)\n"
+"                        для возврата данных пакета.\n"
+"\n"
+"Среда:\n"
+"        PKG_DEST        Целевой каталог или идентификатор URI хранилища\n"
+"        PKG_SRC         Идентификатор URI исходного хранилища"
+
+msgid ""
+"Usage:\n"
+"        pkgrepo [options] command [cmd_options] [operands]\n"
+"\n"
+"Subcommands:\n"
+"     pkgrepo create [--version] uri_or_path\n"
+"\n"
+"     pkgrepo add-signing-ca-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] path ...\n"
+"\n"
+"     pkgrepo add-signing-intermediate-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] path ...\n"
+"\n"
+"     pkgrepo get [-p publisher ...] [-s repo_uri_or_path]\n"
+"         [section/property ...]\n"
+"\n"
+"     pkgrepo info [-F format] [-H] [-p publisher ...]\n"
+"         [-s repo_uri_or_path]\n"
+"\n"
+"     pkgrepo rebuild [-s repo_uri_or_path] [--no-catalog]\n"
+"         [--no-index]\n"
+"\n"
+"     pkgrepo refresh [-s repo_uri_or_path] [--no-catalog]\n"
+"         [--no-index]\n"
+"\n"
+"     pkgrepo remove-signing-ca-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] hash ...\n"
+"\n"
+"     pkgrepo remove-signing-intermediate-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] hash ...\n"
+"\n"
+"     pkgrepo set [-p publisher ...] [-s repo_uri_or_path]\n"
+"         section/property[+|-]=[value] ... or\n"
+"         section/property[+|-]=([value]) ...\n"
+"\n"
+"     pkgrepo help\n"
+"     pkgrepo version\n"
+"\n"
+"Options:\n"
+"        --help or -?\n"
+"            Displays a usage message."
+msgstr ""
+"Использование:\n"
+"        pkgrepo [options] command [cmd_options] [operands]\n"
+"\n"
+"Подкоманды:\n"
+"     pkgrepo create [--version] uri_or_path\n"
+"\n"
+"     pkgrepo add-signing-ca-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] path ...\n"
+"\n"
+"     pkgrepo add-signing-intermediate-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] path ...\n"
+"\n"
+"     pkgrepo get [-p publisher ...] [-s repo_uri_or_path]\n"
+"         [section/property ...]\n"
+"\n"
+"     pkgrepo info [-F format] [-H] [-p publisher ...]\n"
+"         [-s repo_uri_or_path]\n"
+"\n"
+"     pkgrepo rebuild [-s repo_uri_or_path] [--no-catalog]\n"
+"         [--no-index]\n"
+"\n"
+"     pkgrepo refresh [-s repo_uri_or_path] [--no-catalog]\n"
+"         [--no-index]\n"
+"\n"
+"     pkgrepo remove-signing-ca-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] hash ...\n"
+"\n"
+"     pkgrepo remove-signing-intermediate-cert [-p publisher ...]\n"
+"         [-s repo_uri_or_path] hash ...\n"
+"\n"
+"     pkgrepo set [-p publisher ...] [-s repo_uri_or_path]\n"
+"         section/property[+|-]=[value] ... or\n"
+"         section/property[+|-]=([value]) ...\n"
+"\n"
+"     pkgrepo help\n"
+"     pkgrepo version\n"
+"\n"
+"Параметры:\n"
+"        --help or -?\n"
+"            Отображает сообщение об использовании."
+
+msgid ""
+"Usage:\n"
+"        pkgsend [options] command [cmd_options] [operands]\n"
+"\n"
+"Packager subcommands:\n"
+"        pkgsend open [-en] pkg_fmri\n"
+"        pkgsend add action arguments\n"
+"        pkgsend import [-T pattern] [--target file] bundlefile ...\n"
+"        pkgsend include [-d basedir] ... [-T pattern] [manifest] ...\n"
+"        pkgsend close [-A | [--no-index] [--no-catalog]]\n"
+"        pkgsend publish [-d basedir] ... [-T pattern] [--no-index]\n"
+"          [--fmri-in-manifest | pkg_fmri] [--no-catalog] [manifest] ...\n"
+"        pkgsend generate [-T pattern] [--target file] bundlefile ...\n"
+"        pkgsend refresh-index\n"
+"\n"
+"Options:\n"
+"        -s repo_uri     target repository URI\n"
+"        --help or -?    display usage message\n"
+"\n"
+"Environment:\n"
+"        PKG_REPO"
+msgstr ""
+"Использование:\n"
+"        pkgsend [options] command [cmd_options] [operands]\n"
+"\n"
+"Подкоманды упаковщика:\n"
+"        pkgsend open [-en] pkg_fmri\n"
+"        pkgsend add action arguments\n"
+"        pkgsend import [-T pattern] [--target file] bundlefile ...\n"
+"        pkgsend include [-d basedir] ... [-T pattern] [manifest] ...\n"
+"        pkgsend close [-A | [--no-index] [--no-catalog]]\n"
+"        pkgsend publish [-d basedir] ... [-T pattern] [--no-index]\n"
+"          [--fmri-in-manifest | pkg_fmri] [--no-catalog] [manifest] ...\n"
+"        pkgsend generate [-T pattern] [--target file] bundlefile ...\n"
+"        pkgsend refresh-index\n"
+"\n"
+"Параметры:\n"
+"        -s repo_uri     target repository URI\n"
+"        --help or -?    display usage message\n"
+"\n"
+"Среда:\n"
+"        PKG_REPO"
+
+msgid ""
+"Usage:\n"
+"        pkgsign [-aciks] [--no-index] [--no-catalog]\n"
+"            [--sign-all | fmri-to-sign ...]\n"
+msgstr ""
+"Использование:\n"
+"        pkgsign [-aciks] [--no-index] [--no-catalog]\n"
+"            [--sign-all | fmri-to-sign ...]\n"
+
+msgid "User cannot be installed without user database files present."
+msgstr ""
+"Невозможно установить пользователя без файлов базы данных пользователя."
+
+msgid "Username %(name)s in %(pkg)s > 8 chars"
+msgstr "Имя пользователя %(name)s в %(pkg)s превышает 8 символов"
+
+msgid ""
+"Username %(name)s in %(pkg)s does not have an initial lower-case "
+"alphabetical character"
+msgstr ""
+"Начальный символ имени пользователя %(name)s в %(pkg)s не имеет алфавитный "
+"формат"
+
+msgid "Username %(name)s in %(pkg)s is invalid - see passwd(4)"
+msgstr ""
+"Имя пользователя %(name)s в %(pkg)s является недействительным - см. passwd(4)"
+
+msgid ""
+"Using %s as the signature algorithm requires that a key and certificate pair "
+"be presented using the -k and -c options."
+msgstr ""
+"Использование %s в качестве алгоритма подписи требует предоставления пары "
+"ключа и сертификата с использованием параметров -k и -c."
+
+msgid "VALUE"
+msgstr "ЗНАЧЕНИЕ"
+
+msgid "Various checks on actions"
+msgstr "Различные проверки действий"
+
+msgid "Verifying: %(pkg_name)-50s %(result)7s"
+msgstr "Проверка: %(pkg_name)-50s %(result)7s"
+
+msgid "Version Available:"
+msgstr "Доступная версия:"
+
+msgid "Version mismatch: expected version %d, got version %d"
+msgstr "Несоответствие версий: ожидаемая версия %d, полученная версия %d"
+
+msgid "Version must be an integer value."
+msgstr "Версия должна быть целым числом."
+
+msgid "Versions"
+msgstr "Версии"
+
+msgid "Vie_w:"
+msgstr "В_ид:"
+
+msgid "View %(s1)sAll Installed Packages%(e1)s"
+msgstr "Просмотреть %(s1)sВсе установленные пакеты%(e1)s"
+
+msgid "View packages in %(s1)s%(pub)s%(e1)s"
+msgstr "Просмотр пакетов в %(s1)s%(pub)s%(e1)s"
+
+msgid "View results for %s"
+msgstr "Просмотр результатов для %s"
+
+msgid "Virtualization"
+msgstr "Виртуализация"
+
+msgid "WARNING"
+msgstr "ПРЕДУПРЕЖДЕНИЕ"
+
+msgid ""
+"WARNING: pkg(5) appears to be out of date, and should be updated before\n"
+"running %(op)s.  Please update pkg(5) using 'pfexec pkg install\n"
+"pkg:/package/pkg' and then retry the %(op)s."
+msgstr ""
+"ПРЕДУПРЕЖДЕНИЕ: pkg(5) является устаревшим и должен быть обновлен до\n"
+"выполнения %(op)s. Обновите pkg(5) при помощи команды 'pfexec pkg install\n"
+"pkg:/package/pkg', а затем снова выполните %(op)s."
+
+msgid "Web Installer Error"
+msgstr "Ошибка программы веб-установки"
+
+msgid "Web Services"
+msgstr "Веб-службы"
+
+msgid "Whether to always display the icon on startup"
+msgstr "Всегда ли отображать значок во время запуска"
+
+msgid "Whether to display text message when updates are available"
+msgstr "Отображать ли текстовые сообщения, когда доступны обновления"
+
+msgid "Whether to terminate updatemanagernotiifer after icon activation."
+msgstr ""
+"Необходимость прекращения работы updatemanagernotifier после активации "
+"значка."
+
+msgid "Window Managers"
+msgstr "Диспетчеры окон"
+
+msgid "Writing configuration data to SMF is not supported at this time."
+msgstr "Запись данных настройки в SMF в данный момент не поддерживается."
+
+msgid "X11"
+msgstr "X11"
+
+msgid "XFER (MB)"
+msgstr "XFER (MB)"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "Yes, %(version)s (Build %(build)s-%(branch)s)"
+msgstr "Да, %(version)s (сборка %(build)s-%(branch)s)"
+
+msgid ""
+"You must accept the terms of the license before downloading this package."
+msgstr "Перед загрузкой этого пакета необходимо принять условия лицензии."
+
+msgid "You must view the terms of the license before downloading this package."
+msgstr ""
+"Перед загрузкой этого пакета необходимо ознакомиться с условиями лицензии."
+
+msgid "[--accept] [--licenses] [pkg_fmri_pattern ...]"
+msgstr "[--accept] [--licenses] [pkg_fmri_pattern ...]"
+
+msgid "[--full] [publisher ...]"
+msgstr "[--full] [publisher ...]"
+
+msgid ""
+"[-FPUfz] [--force] [--full|--partial|--user] [--zone]\n"
+"            [-k ssl_key] [-c ssl_cert] [--no-refresh]\n"
+"            [--variant <variant_spec>=<instance> ...]\n"
+"            [-g uri|--origin=uri ...] [-m uri|--mirror=uri ...]\n"
+"            [--facet <facet_spec>=[True|False] ...]\n"
+"            (-p|--publisher) [<name>=]<repo_uri> dir"
+msgstr ""
+"[-FPUfz] [--force] [--full|--partial|--user] [--zone]\n"
+"            [-k ssl_key] [-c ssl_cert] [--no-refresh]\n"
+"            [--variant <variant_spec>=<instance> ...]\n"
+"            [-g uri|--origin=uri ...] [-m uri|--mirror=uri ...]\n"
+"            [--facet <facet_spec>=[True|False] ...]\n"
+"            (-p|--publisher) [<name>=]<repo_uri> dir"
+
+msgid "[-HIaflpr] [-o attribute ...] [-s repo_uri] query"
+msgstr "[-HIaflpr] [-o attribute ...] [-s repo_uri] query"
+
+msgid "[-HPn] [publisher ...]"
+msgstr "[-HPn] [publisher ...]"
+
+msgid "[-H] [<variant_spec>]"
+msgstr "[-H] [<variant_spec>]"
+
+msgid "[-H] [propname ...]"
+msgstr "[-H] [propname ...]"
+
+msgid "[-Hafnsuv] [--no-refresh] [pkg_fmri_pattern ...]"
+msgstr "[-Hafnsuv] [--no-refresh] [pkg_fmri_pattern ...]"
+
+msgid "[-Hl] [-n number]"
+msgstr "[-Hl] [-n number]"
+
+msgid ""
+"[-Hmr] [-a attribute=pattern ...] [-o attribute ...]\n"
+"            [-s sort_key] [-t action_type ...] [pkg_fmri_pattern ...]"
+msgstr ""
+"[-Hmr] [-a attribute=pattern ...] [-o attribute ...]\n"
+"            [-s sort_key] [-t action_type ...] [pkg_fmri_pattern ...]"
+
+msgid "[-Hqv] [pkg_fmri_pattern ...]"
+msgstr "[-Hqv] [pkg_fmri_pattern ...]"
+
+msgid ""
+"[-Ped] [-k ssl_key] [-c ssl_cert]\n"
+"            [-g origin_to_add|--add-origin=origin_to_add ...]\n"
+"            [-G origin_to_remove|--remove-origin=origin_to_remove ...]\n"
+"            [-m mirror_to_add|--add-mirror=mirror_to_add ...]\n"
+"            [-M mirror_to_remove|--remove-mirror=mirror_to_remove ...]\n"
+"            [-p repo_uri] [--enable] [--disable] [--no-refresh]\n"
+"            [--reset-uuid] [--non-sticky] [--sticky]\n"
+"            [--search-after=publisher]\n"
+"            [--search-before=publisher]\n"
+"            [--approve-ca-cert=path_to_CA]\n"
+"            [--revoke-ca-cert=hash_of_CA_to_revoke]\n"
+"            [--unset-ca-cert=hash_of_CA_to_unset]\n"
+"            [--set-property name_of_property=value]\n"
+"            [--add-property-value name_of_property=value_to_add]\n"
+"            [--remove-property-value name_of_property=value_to_remove]\n"
+"            [--unset-property name_of_property_to_delete]\n"
+"            [publisher]"
+msgstr ""
+"[-Ped] [-k ssl_key] [-c ssl_cert]\n"
+"            [-g origin_to_add|--add-origin=origin_to_add ...]\n"
+"            [-G origin_to_remove|--remove-origin=origin_to_remove ...]\n"
+"            [-m mirror_to_add|--add-mirror=mirror_to_add ...]\n"
+"            [-M mirror_to_remove|--remove-mirror=mirror_to_remove ...]\n"
+"            [-p repo_uri] [--enable] [--disable] [--no-refresh]\n"
+"            [--reset-uuid] [--non-sticky] [--sticky]\n"
+"            [--search-after=publisher]\n"
+"            [--search-before=publisher]\n"
+"            [--approve-ca-cert=path_to_CA]\n"
+"            [--revoke-ca-cert=hash_of_CA_to_revoke]\n"
+"            [--unset-ca-cert=hash_of_CA_to_unset]\n"
+"            [--set-property name_of_property=value]\n"
+"            [--add-property-value name_of_property=value_to_add]\n"
+"            [--remove-property-value name_of_property=value_to_remove]\n"
+"            [--unset-property name_of_property_to_delete]\n"
+"            [publisher]"
+
+msgid ""
+"[-fnvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--no-index] [--no-refresh] [--deny-new-be | --require-new-be]"
+msgstr ""
+"[-fnvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--no-index] [--no-refresh] [--deny-new-be | --require-new-be]"
+
+msgid "[-lr] [--license] [pkg_fmri_pattern ...]"
+msgstr "[-lr] [--license] [pkg_fmri_pattern ...]"
+
+msgid ""
+"[-nrvq] [--no-index] [--deny-new-be | --require-new-be]\n"
+"            [--be-name name] pkg_fmri_pattern ..."
+msgstr ""
+"[-nrvq] [--no-index] [--deny-new-be | --require-new-be]\n"
+"            [--be-name name] pkg_fmri_pattern ..."
+
+msgid ""
+"[-nvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--deny-new-be | --require-new-be] <facet_spec>=[True|False|"
+"None] ..."
+msgstr ""
+"[-nvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--deny-new-be | --require-new-be] <facet_spec>=[True|False|"
+"None] ..."
+
+msgid ""
+"[-nvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--deny-new-be | --require-new-be] <variant_spec>=<instance> ..."
+msgstr ""
+"[-nvq] [--accept] [--be-name name] [--licenses]\n"
+"            [--deny-new-be | --require-new-be] <variant_spec>=<instance> ..."
+
+msgid ""
+"[-nvq] [--accept] [--licenses] [--no-index] [--no-refresh]\n"
+"            [--deny-new-be | --require-new-be] [--be-name name]\n"
+"            pkg_fmri_pattern ..."
+msgstr ""
+"[-nvq] [--accept] [--licenses] [--no-index] [--no-refresh]\n"
+"            [--deny-new-be | --require-new-be] [--be-name name]\n"
+"            pkg_fmri_pattern ..."
+
+msgid "_Accept"
+msgstr "_Принять"
+
+msgid "_Add"
+msgstr "_Добавить"
+
+msgid "_Add Publisher..."
+msgstr "_Добавить издателя..."
+
+msgid "_Add..."
+msgstr "_Добавить..."
+
+msgid "_Alias:"
+msgstr "_Псевдоним:"
+
+msgid "_Browse..."
+msgstr "_Просмотреть..."
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_Details"
+msgstr "_Подробная информация"
+
+msgid "_Do not show this confirmation dialog again"
+msgstr "_Не показывать больше это окно подтверждения"
+
+msgid "_Down"
+msgstr "_Вниз"
+
+msgid "_Edit"
+msgstr "П_равка"
+
+msgid "_Export Selections..."
+msgstr "_Экспорт выбранных параметров..."
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Install Details"
+msgstr "_Подробные данные установки"
+
+msgid "_Install/Update"
+msgstr "_Установка/обновление"
+
+msgid "_Logs"
+msgstr "_Журналы"
+
+msgid "_Manage Publishers..."
+msgstr "_Управление издателями..."
+
+msgid "_Modify..."
+msgstr "_Изменить... "
+
+msgid "_Package"
+msgstr "_Пакет"
+
+msgid "_Package Version Info"
+msgstr "_Сведения о версии пакета"
+
+msgid "_Proceed"
+msgstr "_Продолжить"
+
+msgid "_Recent Searches"
+msgstr "Н_едавние результаты поиска"
+
+msgid "_Registration Details"
+msgstr "_Подробные сведения о регистрации"
+
+msgid "_Reject"
+msgstr "О_тклонить"
+
+msgid "_Remove"
+msgstr "_Удалить"
+
+msgid "_Remove Details"
+msgstr "_Удалить подробные данные"
+
+msgid "_Restart Later"
+msgstr "_Перезагрузить позже"
+
+msgid "_Search"
+msgstr "_Поиск"
+
+msgid "_URI:"
+msgstr "_URI:"
+
+msgid "_Up"
+msgstr "_Вверх"
+
+msgid "_Update Details"
+msgstr "_Обновить подробные данные"
+
+msgid "_Updates"
+msgstr "О_бновления"
+
+msgid "_View"
+msgstr "_Просмотр"
+
+msgid "a property may only be set once in a command. %s was set twice"
+msgstr ""
+"свойство может быть установлено в команде только один раз. %s было "
+"установлено дважды"
+
+msgid ""
+"a property name and value must be provided in the form <section/"
+"property>=<value> or <section/property>=([\"<value>\" ...])"
+msgstr ""
+"имя свойства и значение необходимо предоставить в форме <section/"
+"property>=<value> или <section/property>=([\"<value>\" ...])"
+
+msgid "a source repository must be provided"
+msgstr "необходимо указать хранилище исходного кода"
+
+msgid "action level options ('%s') to -o cannot be used with the -p option"
+msgstr ""
+"параметры уровня действия ('%s') для -o нельзя использовать с параметром -p"
+
+msgid ""
+"action level options to -o cannot be used with the queries that return "
+"packages"
+msgstr ""
+"параметры уровня действия для -o нельзя использовать с запросами, "
+"возвращающими пакеты"
+
+msgid "alias '%s' missing from etc/driver_aliases"
+msgstr "псевдоним '%s' отсутствует в etc/driver_aliases"
+
+msgid "all selection toggle"
+msgstr "переключатель \"Выбрать все\""
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Recent Searches</b></h3><TD></TD></TR><TR><TD></TD><TD> Access "
+"stored results from recent searches in this session.</TD></TR>"
+msgstr ""
+"alt='[Сведения]' title='Сведения' ALIGN='bottom'></TD><TD><h3><b>Недавние "
+"результаты поиска</b></h3><TD></TD></TR><TR><TD></TD><TD> Доступ к "
+"сохраненным результатам поиска, полученным за текущий сеанс.</TD></TR>"
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Search All Publishers</b></h3><TD></TD></TR><TR><TD></TD><TD> "
+"Use the Search field to search for packages within the following Publishers:"
+"</TD></TR>"
+msgstr ""
+"alt='[Information]' title='Information' ALIGN='bottom'></TD><TD><h3><b>Поиск "
+"по всем издателям</b></h3><TD></TD></TR><TR><TD></TD><TD> Используйте поле "
+"поиска для выполнения поиска пакетов по следующим издателям:</TD></TR>"
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Search Results</b></h3><TD></TD></TR><TR><TD></TD><TD>"
+msgstr ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Результаты поиска</b></h3><TD></TD></TR><TR><TD></TD><TD>"
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Search Results</b></h3><TD></TD></TR><TR><TD></TD><TD>No "
+"packages found in <b>%(pub)s</b> matching <b>%(text)s</b></TD></TR>"
+msgstr ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Результаты поиска</b></h3><TD></TD></TR><TR><TD></TD><TD>Не "
+"найдены пакеты в <b>%(pub)s</b>, соответствующие <b>%(text)s</b></TD></TR>"
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></"
+"TD><TD><h3><b>Search in All Installed Packages</b></h3><TD></TD></"
+"TR><TR><TD></TD><TD> Search is <b>not</b> supported in All Installed "
+"Packages.</TD></TR>"
+msgstr ""
+"alt='[Information]' title='Information' ALIGN='bottom'></TD><TD><h3><b>Поиск "
+"во всех установленных пакетах</b></h3><TD></TD></TR><TR><TD></TD><TD> Поиск "
+"<b>не</b> поддерживается во всех установленных пакетах.</TD></TR>"
+
+msgid ""
+"alt='[Information]' title='Information' ALIGN='bottom'></TD><TD><h3><b>View "
+"Packages</b></h3><TD></TD></TR><TR><TD></TD><TD>"
+msgstr ""
+"alt='[Сведения]' title='Сведения' ALIGN='bottom'></TD><TD><h3><b>Просмотр "
+"пакетов</b></h3><TD></TD></TR><TR><TD></TD><TD>"
+
+msgid "an image directory path must be specified"
+msgstr "необходимо указать путь к каталогу образа"
+
+msgid "ancestor %(ancestor)s did not declare a dependency on %(pkg)s"
+msgstr "предшествующий %(ancestor)s не объявляет зависимость для %(pkg)s"
+
+msgid "append requires one package name"
+msgstr "для команды добавления требуется одно имя пакета"
+
+msgid "at least one package name required"
+msgstr "необходимо хотя бы одно название пакета"
+
+msgid "at least one publisher must be specified"
+msgstr "необходимо указать минимум одного издателя"
+
+msgid "at least one search term must be provided"
+msgstr "необходимо ввести минимум одно искомое понятие"
+
+msgid "build to use from lint and reference repositories"
+msgstr "сборка для использования в хранилищах lint и ссылочных хранилищах"
+
+msgid "cannot resolve FMRI to a delivered file"
+msgstr "не удалось определить поставляемый файл по идентификатору FMRI"
+
+msgid "checks OpenSolaris packages for common action errors"
+msgstr "проверки пакетов OpenSolaris на общие ошибки в действиях"
+
+msgid "checks OpenSolaris packages for common errors"
+msgstr "проверки пакетов OpenSolaris на общие ошибки"
+
+msgid "class '%s' missing from etc/driver_classes"
+msgstr "класс '%s' отсутствует в etc/driver_classes"
+
+msgid "command does not take operands"
+msgstr "команда не принимает операнды"
+
+msgid "command does not take operands ('%s')"
+msgstr "команда не принимает операнды ('%s')"
+
+msgid "contents: must request remote contents for specific packages"
+msgstr ""
+"contents: для определенных пакетов необходимо запрашивать содержание удаленно"
+
+msgid "dependency in %(pkg)s on obsolete pkg %(obs)s"
+msgstr "зависимость %(pkg)s для устаревшего pkg %(obs)s"
+
+msgid "device policy '%s' missing from etc/security/device_policy"
+msgstr "политика устройства '%s' отсутствует в etc/security/device_policy"
+
+msgid "device privilege '%s' missing from etc/security/extra_privs"
+msgstr "полномочия устройства '%s' отсутствуют в etc/security/extra_privs"
+
+msgid ""
+"directory action for %(dir)s delivered in %(pkg)s with mode=%(mode)s that "
+"has no executable bits"
+msgstr ""
+"действие каталога для %(dir)s, поставляемое в %(pkg)s с mode=%(mode)s без "
+"исполняемых битов"
+
+msgid "directory to use as a repository cache"
+msgstr "каталог для использования в качестве кэша хранилища"
+
+msgid "disabled"
+msgstr "отменено"
+
+msgid "duplicate depend actions in %(pkg)s %(actions)s"
+msgstr "дублирование действий depend в %(pkg)s %(actions)s"
+
+msgid "duplicate set actions on %(names)s in %(pkg)s"
+msgstr "дублирование действий set для %(names)s в %(pkg)s"
+
+msgid "e.g. http://pkg.opensolaris.org/release"
+msgstr "например http://pkg.opensolaris.org/release"
+
+msgid "etc/name_to_major: '%s' entry not present"
+msgstr "etc/name_to_major: запись '%s' отсутствует"
+
+msgid "etc/name_to_major: more than one entry for '%s' is present"
+msgstr "etc/name_to_major: для '%s' существует более одной записи"
+
+msgid "extra alias '%s' found in etc/driver_aliases"
+msgstr "в etc/driver_aliases найден дополнительный псевдоним '%s'"
+
+msgid "extra class '%s' found in etc/driver_classes"
+msgstr "в etc/driver_classes найден дополнительный класс '%s'"
+
+msgid "extra device policy '%s' found in etc/security/device_policy"
+msgstr ""
+"в etc/security/device_policy найдена дополнительная политика устройства '%s'"
+
+msgid "extra minor node permission '%s' found in etc/minor_perm"
+msgstr "в etc/minor_perm найдено дополнительное разрешение младшего узла '%s'"
+
+msgid "failed to respond"
+msgstr "не удалось ответить"
+
+msgid "false"
+msgstr "ложь"
+
+msgid "file/1 must be sent a file."
+msgstr "file/1 must be sent a file."
+
+msgid "generate subcommand doesn't use -R"
+msgstr "при создании субкоманды не используется параметр -R"
+
+msgid "get_fmri(pattern) %(pattern)s matched %(count)s packages: %(pkgs)s"
+msgstr ""
+"get_fmri(pattern) %(pattern)s соответствует пакетам %(count)s: %(pkgs)s"
+
+msgid "group is required"
+msgstr "требуется группа"
+
+msgid "http_proxy: %s\n"
+msgstr "http_proxy: %s\n"
+
+msgid "https_proxy: %s\n"
+msgstr "https_proxy: %s\n"
+
+msgid "illegal %s option -- %s"
+msgstr "недопустимый параметр %s -- %s"
+
+msgid "illegal global option -- %s"
+msgstr "недопустимый глобальный параметр -- %s"
+
+msgid "illegal option -- %s"
+msgstr "недопустимый параметр -- %s"
+
+msgid "installed"
+msgstr "установлено"
+
+msgid "invalid action for publication: %s"
+msgstr "недействительное действие для публикации: %s"
+
+msgid "invalid action in package %(fmri)s: %(action)s: %(error)s"
+msgstr "недопустимое действие в пакете %(fmri)s: %(action)s: %(error)s"
+
+msgid "invalid action, '%(action)s': %(error)s"
+msgstr "недопустимое действие, '%(action)s': %(error)s"
+
+msgid "invalid pkg name"
+msgstr "недействительное имя pkg"
+
+msgid "invalid response"
+msgstr "неверный ответ"
+
+msgid "invalid version"
+msgstr "недопустимая версия"
+
+msgid "kB"
+msgstr "кБ"
+
+msgid "known"
+msgstr "известно"
+
+msgid "label"
+msgstr "метка"
+
+msgid "last name component %(name)s in package name clashes across %(pkgs)s"
+msgstr ""
+"последний компонент имени %(name)s в имени пакета вызывает конфликт в "
+"%(pkgs)s"
+
+msgid "legacy action in %s does not contain a REV= string"
+msgstr "устаревшее действие в %s не содержит строку REV="
+
+msgid "license action in %(pkg)s has a path attribute, %(path)s"
+msgstr "действие лицензии в %(pkg)s имеет атрибут пути %(path)s"
+
+msgid "lint repository URI"
+msgstr "идентификатор URI хранилища lint"
+
+msgid "list checks configured for this session and exit"
+msgstr "вывод списка проверок, настроенных для данного сеанса, и выход"
+
+msgid "minor node permission '%s' missing from etc/minor_perm"
+msgstr "разрешение младшего узла '%s' отсутствует в etc/minor_perm"
+
+msgid "mirror"
+msgstr "зеркало"
+
+msgid "missing version"
+msgstr "отсутствующая версия"
+
+msgid "mode is required; value must be of the form '644', '0644', or '04755'."
+msgstr ""
+"режим необходим; значение должно иметь форму '644', '0644' или '04755'."
+
+msgid "more than one set of dependencies found: %s"
+msgstr "найдено несколько наборов зависимостей: %s"
+
+msgid "must request remote info for specific packages"
+msgstr "для определенных пакетов необходимо запрашивать сведения удаленно"
+
+msgid "must specify at least one pkgfmri"
+msgstr "необходимо указать хотя бы один pkgfmri"
+
+msgid "my_packages"
+msgstr "my_packages"
+
+msgid "no fmri attribute in depend action in %s"
+msgstr "отсутствует атрибут FMRI в действии depend в %s"
+
+msgid "no license information could be found for the following packages:"
+msgstr "для следующих пакетов не обнаружена информация о лицензии:"
+
+msgid "no matching properties found"
+msgstr "не найдены соответствующие свойства"
+
+msgid "no matching publishers found"
+msgstr "не найдены соответствующие издатели"
+
+msgid ""
+"no packages are installed or are installed and have newer versions available"
+msgstr ""
+"отсутствуют установленные пакеты или установленные пакеты с доступной новой "
+"версией"
+
+msgid "no packages installed"
+msgstr "ни одного пакета не установлено"
+
+msgid "no packages installed or available for installation"
+msgstr "отсутствуют установленные или доступные для установки пакеты"
+
+msgid ""
+"no packages matching '%s' allowed by installed incorporations or image "
+"variants that are known or installed"
+msgstr ""
+"отсутствуют пакеты, соответствующие '%s', которые разрешены в установленных "
+"компонентах, либо известныеили известные варианты образов"
+
+msgid ""
+"no packages matching '%s' are installed and have newer versions available"
+msgstr ""
+"отсутствуют установленные пакеты или пакеты с доступной новой версией, "
+"соответствующие '%s'"
+
+msgid "no packages matching '%s' installed"
+msgstr "отсутствуют установленные пакеты, соответствующие '%s'"
+
+msgid "no packages matching '%s' known"
+msgstr "отсутствуют пакеты, соответствующие '%s'"
+
+msgid "no subcommand specified"
+msgstr "не указана субкоманда"
+
+msgid "no such property: %s"
+msgstr "нет такого свойства: %s"
+
+msgid "no such variant: %s"
+msgstr "такой вариант отсутствует: %s"
+
+msgid "non-sticky"
+msgstr "не клейкий"
+
+msgid "obsolete package %(pkg)s has %(key)s attribute"
+msgstr "устаревший пакет %(pkg)s содержит атрибут %(key)s"
+
+msgid ""
+"obsolete package %s contains actions other than set or signature actions"
+msgstr ""
+"устаревший пакет %s содержит действия, отличные от действий установки и "
+"подписи"
+
+msgid "online"
+msgstr "интерактивный; онлайн"
+
+msgid "only -e or -n may be specified"
+msgstr "допускаются только параметры -e или -n."
+
+msgid "only one image directory path may be specified"
+msgstr "необходимо указать только один путь к каталогу изображения"
+
+msgid "only one publisher name may be specified"
+msgstr "можно ввести только одно имя издателя"
+
+msgid "open requires one package name"
+msgstr "для команды открытия требуется одно имя пакета"
+
+msgid "origin"
+msgstr "источник"
+
+msgid "owner is required"
+msgstr "требуется владелец"
+
+msgid "p5i Files"
+msgstr "Файлы p5i"
+
+msgid "path %(path)s is delivered by multiple action types across %(pkgs)s"
+msgstr ""
+"путь %(path)s поставляется различными типами действий посредством %(pkgs)s"
+
+msgid ""
+"path %(path)s is reference-counted but has different attributes across "
+"%(count)s duplicates: %(suspects)s"
+msgstr ""
+"путь %(path)s содержит количество ссылок, но имеет различные атрибуты в "
+"дубликатах %(count)s: %(suspects)s"
+
+msgid "pattern to match FMRIs in lint URI"
+msgstr "шаблон для сопоставления FMRI и URI lint"
+
+msgid "pkg set-publisher -P -g %(origin)s %(pub)s\n"
+msgstr "pkg set-publisher -P -g %(origin)s %(pub)s\n"
+
+msgid "pkg version: "
+msgstr "Версия pkg: "
+
+msgid ""
+"pkg(5) appears to be out of date and should be updated.\n"
+"Please update %s package"
+msgstr ""
+"pkg(5) устарел, его необходимо обновить.\n"
+"Обновите пакет %s"
+
+msgid "pkg(5) update check failed."
+msgstr "Сбой при проверке обновления pkg(5)."
+
+msgid "pkg: %s/%s catalogs successfully updated:"
+msgstr "pkg: каталоги %s/%s успешно обновлены:"
+
+msgid ""
+"pkg: '%(cmd)s' failed. \n"
+"with a return code of %(ret)d."
+msgstr ""
+"pkg: '%(cmd)s' сбой. \n"
+"с кодом возврата %(ret)d."
+
+msgid "pkg: A system error %(e)s was caught executing %(cmd)s"
+msgstr "pkg: произошла системная ошибка %(e)s при выполнении %(cmd)s"
+
+msgid "pkg: contents: no matching actions found in the listed packages"
+msgstr ""
+"pkg: содержимое: в перечисленных пакетах не обнаружены подходящие действия."
+
+msgid ""
+"pkg: contents: no packages matching the following patterns you specified "
+"are\n"
+"installed on the system.  Try specifying -r to query remotely:"
+msgstr ""
+"pkg: contents: в системе не установлен ни один пакет,\n"
+"соответствующий указанным шаблонам. Попробуйте указать параметр -r для "
+"удаленного запроса:"
+
+msgid ""
+"pkg: contents: no packages matching the following patterns you specified "
+"were\n"
+"found in the catalog.  Try relaxing the patterns, refreshing, and/or\n"
+"examining the catalogs:"
+msgstr ""
+"pkg: contents: в каталоге не найден ни один пакет, соответствующий\n"
+"указанным шаблонам. Попробуйте сократить шаблоны, обновить и/или\n"
+"осмотреть каталоги:"
+
+msgid ""
+"pkg: info: no packages matching the following patterns you specified are\n"
+"installed on the system.  Try specifying -r to query remotely:"
+msgstr ""
+"pkg: info: в системе не установлен ни один пакет,\n"
+"соответствующий указанным шаблонам. Попробуйте указать параметр -r для "
+"удаленного запроса:"
+
+msgid ""
+"pkg: info: no packages matching the following patterns you specified were\n"
+"found in the catalog.  Try relaxing the patterns, refreshing, and/or\n"
+"examining the catalogs:"
+msgstr ""
+"pkg: info: в каталоге не найден ни один пакет, соответствующий\n"
+"указанным шаблонам. Попробуйте сократить шаблоны, обновить и/или\n"
+"осмотреть каталоги:"
+
+msgid "pkg: unable to activate %s"
+msgstr "pkg: невозможно активировать %s"
+
+msgid "pkg: unable to create BE %s"
+msgstr "pkg: невозможно создать загрузочную среду %s"
+
+msgid "pkg: unable to create an auto snapshot. pkg recovery is disabled."
+msgstr "pkg: невозможно создать автоснимок. Восстановление pkg запрещено."
+
+msgid "pkg: unable to destroy snapshot %s"
+msgstr "pkg: невозможно уничтожить снимок %s"
+
+msgid "pkg: unable to mount BE %(name)s on %(clone_dir)s"
+msgstr ""
+"pkg: невозможно смонтировать загрузочную среду %(name)s на %(clone_dir)s"
+
+msgid "pkg: unable to rollback BE %s and restore image"
+msgstr ""
+"pkg: невозможно выполнить откат загрузочной среды %s и восстановить образ"
+
+msgid "pkglint only supports a single publisher per image."
+msgstr "pkglint поддерживает только одного издателя на образ."
+
+msgid "pkgsend: illegal global option -- %s"
+msgstr "pkgsend: недопустимый глобальный параметр -- %s"
+
+msgid "preferred"
+msgstr "предпочтительно"
+
+msgid "produce verbose output, overriding settings in pkglintrc"
+msgstr "вывод verbose с переопределением параметров настройки в pkglintrc"
+
+msgid ""
+"properties to be set must be of the form '<name>=<value>'. This is what was "
+"given: %s"
+msgstr ""
+"устанавливаемые свойства должны иметь форму '<name>=<value>'. Указано: %s"
+
+msgid "property arguments must be of the form '<section.property>=<value>'."
+msgstr "аргументы свойства должны иметь форму '<section.property>=<value>'."
+
+msgid ""
+"property values to be added must be of the form '<name>=<value>'. This is "
+"what was given: %s"
+msgstr ""
+"добавляемые значения свойств должны иметь форму '<name>=<value>'. Указано: %s"
+
+msgid ""
+"property values to be removed must be of the form '<name>=<value>'. This is "
+"what was given: %s"
+msgstr ""
+"удаляемые значения свойств должны иметь форму '<name>=<value>'. Указано: %s"
+
+msgid "property: no such property: %s"
+msgstr "property: нет такого свойства: %s"
+
+msgid "propname ..."
+msgstr "propname ..."
+
+msgid "propname propvalue"
+msgstr "propname propvalue"
+
+msgid "publisher ..."
+msgstr "издатель ..."
+
+msgid "publisher argument must be of the form '<prefix>=<uri> or '<uri>''."
+msgstr "аргумент издателя должен иметь форму '<prefix>=<uri> или '<uri>''."
+
+msgid ""
+"publisher does not exist. Use -g to define origin URI for new publisher."
+msgstr ""
+"издатель не существует. Определите URI источника для нового издателя "
+"параметром -g."
+
+msgid "reference repository URI"
+msgstr "URI ссылочного хранилища"
+
+msgid ""
+"renamed package %s contains actions other than set, depend or signature "
+"actions"
+msgstr ""
+"переименованный пакет %s содержит действия, отличные от действий установки, "
+"зависимости или подписи"
+
+msgid "required attribute '%s' was not provided."
+msgstr "не предоставлен обязательный атрибут '%s'."
+
+msgid "required attribute, '%s', was not provided."
+msgstr "не предоставлен обязательный атрибут '%s'."
+
+msgid "requires a property name and at least one value"
+msgstr "требуется имя свойства и минимум одно значение"
+
+msgid "requires a property name and value"
+msgstr "необходимо название и значение свойства"
+
+msgid "requires a publisher name"
+msgstr "требуется имя издателя"
+
+msgid "requires at least one property name"
+msgstr "для команды необходимо хотя бы одно название свойства"
+
+msgid "results"
+msgstr "результаты"
+
+msgid "search_before and search_after may not be combined"
+msgstr "Не допускается комбинирование параметров search_before и search_after."
+
+msgid "set-publisher must be used to change the preferred publisher"
+msgstr ""
+"для изменения предпочтительного издателя следует использовать свойство set-"
+"publisher"
+
+msgid "specify an alternative pkglintrc file"
+msgstr "указание альтернативного файла pkglintrc"
+
+msgid "system"
+msgstr "система"
+
+msgid ""
+"the -O and -g, --add-origin, -G, or --remove-origin options may not be "
+"combined"
+msgstr ""
+"Не допускается комбинирование параметров -O и -g, --add-origin, -G, или --"
+"remove-origin."
+
+msgid "the -P and -d options may not be combined"
+msgstr "параметры -P и -d нельзя сочетать"
+
+msgid ""
+"the -p option may not be combined with the -g, --add-origin, -G, --remove-"
+"origin, -m, --add-mirror, -M, --remove-mirror, --enable, --disable, --no-"
+"refresh, --reset-uuid options, or --system-repo "
+msgstr ""
+"параметр -p нельзя сочетать с параметрами -g, --add-origin, -G, --remove-"
+"origin, -m, --add-mirror, -M, --remove-mirror, --enable, --disable, --no-"
+"refresh, --reset-uuid или --system-repo "
+
+msgid ""
+"the specified image path is not empty: %s.\n"
+"To override, use the -f (force) option."
+msgstr ""
+"указанный путь к образу не является пустым: %s.\n"
+"Для перезаписи используйте параметр -f (force)."
+
+msgid ""
+"there is already an image at: %s.\n"
+"To override, use the -f (force) option."
+msgstr ""
+"образ уже находится по адресу: %s.\n"
+"Для перезаписи используйте параметр -f (force)."
+
+msgid "true"
+msgstr "истина"
+
+msgid "unable to unmount BE %(be_name)s mounted at %(be_path)s"
+msgstr ""
+"невозможно размонтировать загрузочную среду %(be_name)s, смонтированную в "
+"%(be_path)s"
+
+msgid "unable to write to index directory."
+msgstr "запись в каталог индекса невозможна."
+
+msgid "underscore in attribute name %(key)s in %(fmri)s"
+msgstr "подчеркивание в имени атрибута %(key)s в %(fmri)s"
+
+msgid "unknown action found in %s"
+msgstr "в %s найдено неизвестное действие"
+
+msgid "unknown action type '%(type)s' in action '%(action)s'"
+msgstr "неизвестный тип действия '%(type)s' в действии '%(action)s'"
+
+msgid ""
+"unknown action type '%(type)s' in package '%(fmri)s' in action '%(action)s'"
+msgstr ""
+"неизвестный тип действия '%(type)s' в пакете '%(fmri)s' в действии "
+"'%(action)s'"
+
+msgid "unknown property '%s'"
+msgstr "неизвестное свойство '%s'"
+
+msgid "unknown property section '%s'"
+msgstr "неизвестный раздел свойства '%s'"
+
+msgid "unknown subcommand '%s'"
+msgstr "неизвестная субкоманда '%s'"
+
+msgid "unsupported"
+msgstr "не поддерживается"
+
+msgid "unsupported search"
+msgstr "неподдерживаемый поиск"
+
+msgid "unusual mode %(mode)s in %(path)s delivered by %(pkg)s"
+msgstr "необычный режим %(mode)s в %(path)s, поставляемый в %(pkg)s"
+
+msgid "variant arguments must be of the form '<name>=<value>'."
+msgstr "аргументы варианта должны иметь форму '<name>=<value>'."
+
+msgid "variant(s) %(vars)s not defined by %(pkg)s"
+msgstr "variant(s) %(vars)s не определены в %(pkg)s"
+
+msgid "variant(s) %(vars)s not in list of known values for variants in %(pkg)s"
+msgstr ""
+"variant(s) %(vars)s отсутствует в списке известных значений вариантов в "
+"%(pkg)s"
+
+msgid "variant.arch not declared in %s"
+msgstr "variant.arch не объявлен в %s"
+
+msgid "version: command does not take operands ('%s')"
+msgstr "version: команда не принимает операнды ('%s')"
+
+msgid "writable root not writable by current user id or group."
+msgstr "корень не доступен для записи текущему пользователю или группе."

@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iso_4217\n"
+"Report-Msgid-Bugs-To: Debian iso-codes team <pkg-isocodes-devel@lists.alioth."
+"debian.org>\n"
+"POT-Creation-Date: 2016-03-05 21:58+0100\n"
+"PO-Revision-Date: 2015-11-22 13:04+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.5\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Afghani"
+msgstr "Афгани"
+
+msgid "Algerian Dinar"
+msgstr "Алжирский динар"
+
+msgid "Argentine Peso"
+msgstr "Аргентинское песо"
+
+msgid "Armenian Dram"
+msgstr "Армянский драм"
+
+msgid "Australian Dollar"
+msgstr "Австралийский доллар"
+
+msgid "Azerbaijanian Manat"
+msgstr "Азербайджанский манат"
+
+msgid "Bahamian Dollar"
+msgstr "Багамский доллар"
+
+msgid "Bahraini Dinar"
+msgstr "Бахрейнский динар"
+
+msgid "Baht"
+msgstr "Бат"
+
+msgid "Balboa"
+msgstr "Бальбоа"
+
+msgid "Barbados Dollar"
+msgstr "Барбадосский доллар"
+
+msgid "Belize Dollar"
+msgstr "Белизский доллар"
+
+msgid "Bermudian Dollar"
+msgstr "Бермудский доллар"
+
+msgid "Boliviano"
+msgstr "Боливиано"
+
+msgid "Brazilian Real"
+msgstr "Бразильский реал"
+
+msgid "Brunei Dollar"
+msgstr "Брунейский доллар"
+
+msgid "Bulgarian Lev"
+msgstr "Болгарский лев"
+
+msgid "Burundi Franc"
+msgstr "Бурундийский франк"
+
+msgid "CFA Franc BCEAO"
+msgstr "Франк КФА ВСЕАО"
+
+msgid "CFA Franc BEAC"
+msgstr "Франк КФА ВЕАС"
+
+msgid "CFP Franc"
+msgstr "Франк КФП"
+
+msgid "Canadian Dollar"
+msgstr "Канадский доллар"
+
+msgid "Cayman Islands Dollar"
+msgstr "Доллар Островов Кайман"
+
+msgid "Chilean Peso"
+msgstr "Чилийское песо"
+
+msgid "Colombian Peso"
+msgstr "Колумбийское песо"
+
+msgid "Comoro Franc"
+msgstr "Франк Комор"
+
+msgid "Congolese Franc"
+msgstr "Конголезский франк"
+
+msgid "Cordoba Oro"
+msgstr "Золотая кордоба"
+
+msgid "Costa Rican Colon"
+msgstr "Костариканский колон"
+
+msgid "Cuban Peso"
+msgstr "Кубинское песо"
+
+msgid "Czech Koruna"
+msgstr "Чешская крона"
+
+msgid "Dalasi"
+msgstr "Даласи"
+
+msgid "Danish Krone"
+msgstr "Датская крона"
+
+msgid "Denar"
+msgstr "Македонский денар"
+
+msgid "Djibouti Franc"
+msgstr "Франк Джибути"
+
+msgid "Dobra"
+msgstr "Добра"
+
+msgid "Dominican Peso"
+msgstr "Доминиканское песо"
+
+msgid "Dong"
+msgstr "Донг"
+
+msgid "East Caribbean Dollar"
+msgstr "Восточно-карибский доллар"
+
+msgid "Egyptian Pound"
+msgstr "Египетский фунт"
+
+msgid "El Salvador Colon"
+msgstr "Сальвадорский колон"
+
+msgid "Ethiopian Birr"
+msgstr "Эфиопский быр"
+
+msgid "Euro"
+msgstr "Евро"
+
+msgid "Falkland Islands Pound"
+msgstr "Фунт Фолклендских островов"
+
+msgid "Fiji Dollar"
+msgstr "Доллар Фиджи"
+
+msgid "Forint"
+msgstr "Форинт"
+
+msgid "Ghana Cedi"
+msgstr "Седи"
+
+msgid "Gibraltar Pound"
+msgstr "Гибралтарский фунт"
+
+msgid "Gold"
+msgstr "Тройская унция золота"
+
+msgid "Gourde"
+msgstr "Гурд"
+
+msgid "Guarani"
+msgstr "Гуарани"
+
+msgid "Guinea Franc"
+msgstr "Гвинейский франк"
+
+msgid "Guyana Dollar"
+msgstr "Гайанский доллар"
+
+msgid "Hong Kong Dollar"
+msgstr "Гонконгский доллар"
+
+msgid "Hryvnia"
+msgstr "Гривна"
+
+msgid "Iceland Krona"
+msgstr "Исландская крона"
+
+msgid "Indian Rupee"
+msgstr "Индийская рупия"
+
+msgid "Iranian Rial"
+msgstr "Иранский риал"
+
+msgid "Iraqi Dinar"
+msgstr "Иракский динар"
+
+msgid "Jamaican Dollar"
+msgstr "Ямайский доллар"
+
+msgid "Jordanian Dinar"
+msgstr "Иорданский динар"
+
+msgid "Kenyan Shilling"
+msgstr "Кенийский шиллинг"
+
+msgid "Kina"
+msgstr "Кина"
+
+msgid "Kip"
+msgstr "Кип"
+
+msgid "Kuwaiti Dinar"
+msgstr "Кувейтский динар"
+
+msgid "Kwanza"
+msgstr "Кванза"
+
+msgid "Kyat"
+msgstr "Кьят"
+
+msgid "Lari"
+msgstr "Лари"
+
+msgid "Lebanese Pound"
+msgstr "Ливанский фунт"
+
+msgid "Lek"
+msgstr "Лек"
+
+msgid "Lempira"
+msgstr "Лемпира"
+
+msgid "Leone"
+msgstr "Леоне"
+
+msgid "Liberian Dollar"
+msgstr "Либерийский доллар"
+
+msgid "Libyan Dinar"
+msgstr "Ливийский динар"
+
+msgid "Lilangeni"
+msgstr "Лилангени"
+
+msgid "Loti"
+msgstr "Лоти"
+
+msgid "Malagasy Ariary"
+msgstr "Малагасийский ариари"
+
+msgid "Malaysian Ringgit"
+msgstr "Малайзийский ринггит"
+
+msgid "Mauritius Rupee"
+msgstr "Маврикийская рупия"
+
+msgid "Mexican Peso"
+msgstr "Мексиканское песо"
+
+msgid "Moldovan Leu"
+msgstr "Молдавский лей"
+
+msgid "Moroccan Dirham"
+msgstr "Марокканский дирхам"
+
+msgid "Naira"
+msgstr "Найра"
+
+msgid "Nakfa"
+msgstr "Накфа"
+
+msgid "Namibia Dollar"
+msgstr "Доллар Намибии"
+
+msgid "Nepalese Rupee"
+msgstr "Непальская рупия"
+
+msgid "New Israeli Sheqel"
+msgstr "Новый израильский шекель"
+
+msgid "New Taiwan Dollar"
+msgstr "Новый тайваньский доллар"
+
+msgid "New Zealand Dollar"
+msgstr "Новозеландский доллар"
+
+msgid "Ngultrum"
+msgstr "Нгултрум"
+
+msgid "North Korean Won"
+msgstr "Северокорейская вона"
+
+msgid "Norwegian Krone"
+msgstr "Норвежская крона"
+
+msgid "Ouguiya"
+msgstr "Угия"
+
+msgid "Pakistan Rupee"
+msgstr "Пакистанская рупия"
+
+msgid "Palladium"
+msgstr "Тройская унция палладия"
+
+msgid "Pataca"
+msgstr "Патака"
+
+msgid "Peso Uruguayo"
+msgstr "Уругвайское песо"
+
+msgid "Philippine Peso"
+msgstr "Филиппинское песо"
+
+msgid "Platinum"
+msgstr "Тройская унция платины"
+
+msgid "Pound Sterling"
+msgstr "Фунт стерлингов"
+
+msgid "Pula"
+msgstr "Пула"
+
+msgid "Qatari Rial"
+msgstr "Катарский риал"
+
+msgid "Quetzal"
+msgstr "Кетсаль"
+
+msgid "Rand"
+msgstr "Рэнд"
+
+msgid "Rial Omani"
+msgstr "Оманский риал"
+
+msgid "Riel"
+msgstr "Риель"
+
+msgid "Rufiyaa"
+msgstr "Руфия"
+
+msgid "Rupiah"
+msgstr "Рупия"
+
+msgid "Russian Ruble"
+msgstr "Российский рубль"
+
+msgid "Rwanda Franc"
+msgstr "Франк Руанды"
+
+msgid "Saint Helena Pound"
+msgstr "Фунт Святой Елены"
+
+msgid "Saudi Riyal"
+msgstr "Саудовский риял"
+
+msgid "Serbian Dinar"
+msgstr "Сербский динар"
+
+msgid "Seychelles Rupee"
+msgstr "Сейшельская рупия"
+
+msgid "Silver"
+msgstr "Тройская унция серебра"
+
+msgid "Singapore Dollar"
+msgstr "Сингапурский доллар"
+
+msgid "Solomon Islands Dollar"
+msgstr "Доллар Соломоновых Островов"
+
+msgid "Som"
+msgstr "Сом"
+
+msgid "Somali Shilling"
+msgstr "Сомалийский шиллинг"
+
+msgid "Somoni"
+msgstr "Сомони"
+
+msgid "Sri Lanka Rupee"
+msgstr "Шри-Ланкийская рупия"
+
+msgid "Sudanese Pound"
+msgstr "Суданский фунт"
+
+msgid "Surinam Dollar"
+msgstr "Суринамский доллар"
+
+msgid "Swedish Krona"
+msgstr "Шведская крона"
+
+msgid "Swiss Franc"
+msgstr "Швейцарский франк"
+
+msgid "Syrian Pound"
+msgstr "Сирийский фунт"
+
+msgid "Taka"
+msgstr "Така"
+
+msgid "Tala"
+msgstr "Тала"
+
+msgid "Tanzanian Shilling"
+msgstr "Танзанийский шиллинг"
+
+msgid "Tenge"
+msgstr "Тенге"
+
+msgid "Trinidad and Tobago Dollar"
+msgstr "Доллар Тринидада и Тобаго"
+
+msgid "Tugrik"
+msgstr "Тугрик"
+
+msgid "Tunisian Dinar"
+msgstr "Тунисский динар"
+
+msgid "UAE Dirham"
+msgstr "Дирхам (ОАЭ)"
+
+msgid "US Dollar"
+msgstr "Доллар США"
+
+msgid "Uganda Shilling"
+msgstr "Угандийский шиллинг"
+
+msgid "Uzbekistan Sum"
+msgstr "Узбекский сум"
+
+msgid "Vatu"
+msgstr "Вату"
+
+msgid "Won"
+msgstr "Вона"
+
+msgid "Yemeni Rial"
+msgstr "Йеменский риал"
+
+msgid "Yen"
+msgstr "Иена"
+
+msgid "Yuan Renminbi"
+msgstr "Китайский юань"
+
+msgid "Zambian Kwacha"
+msgstr "Замбийская квача"
+
+msgid "Zimbabwe Dollar"
+msgstr "Доллар Зимбабве"
+
+msgid "Zloty"
+msgstr "Злотый"

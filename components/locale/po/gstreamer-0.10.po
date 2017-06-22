@@ -1,0 +1,1173 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gstreamer-0.10.32.2\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/\n"
+"POT-Creation-Date: 2012-02-20 21:32+0000\n"
+"PO-Revision-Date: 2011-04-26 20:25+0400\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgid "\"%s\" is a directory."
+msgstr "«%s» является каталогом."
+
+msgid "%d blacklist entry"
+msgid_plural "%d blacklist entries"
+msgstr[0] "%d элемент в чёрном списке"
+msgstr[1] "%d элемента в чёрном списке"
+msgstr[2] "%d элементов в чёрном списке"
+
+msgid "%d blacklisted file"
+msgid_plural "%d blacklisted files"
+msgstr[0] "%d файл в чёрном списке"
+msgstr[1] "%d файла в чёрном списке"
+msgstr[2] "%d файлов в чёрном списке"
+
+msgid "%d feature"
+msgid_plural "%d features"
+msgstr[0] "%d функция"
+msgstr[1] "%d функции"
+msgstr[2] "%d функций"
+
+msgid "%d plugin"
+msgid_plural "%d plugins"
+msgstr[0] "%d модуль"
+msgstr[1] "%d модуля"
+msgstr[2] "%d модулей"
+
+msgid ", "
+msgstr ", "
+
+msgid "A lot of buffers are being dropped."
+msgstr "Многое из буфера было отброшено."
+
+msgid ""
+"Additional debug info:\n"
+"%s\n"
+msgstr ""
+"Дополнительная отладочная информация:\n"
+"%s\n"
+
+msgid "An error happened while waiting for EOS\n"
+msgstr "Во время ожидания EOS произошла ошибка\n"
+
+msgid "Application used to create the media"
+msgstr "Приложение с помощью которого создан носитель"
+
+msgid "Arbitrary application data to be serialized into the media"
+msgstr "Произвольные данные приложения для преобразования в данные носителя"
+
+msgid "Blacklisted files:"
+msgstr "Файлы из чёрного списка:"
+
+msgid "Buffering, setting pipeline to PAUSED ...\n"
+msgstr "Идёт буферизация, конвейер переведён в состояние PAUSED...\n"
+
+msgid "Colon-separated paths containing plugins"
+msgstr "Список путей поиска модулей, разделённых двоеточиями"
+
+msgid ""
+"Comma-separated list of category_name:level pairs to set specific levels for "
+"the individual categories. Example: GST_AUTOPLUG:5,GST_ELEMENT_*:3"
+msgstr ""
+"Список пар, разделённых запятыми, в формате «имя_категории:уровень» для "
+"установки уровней отдельных категорий. Пример: GST_AUTOPLUG:5,GST_ELEMENT_*:3"
+
+msgid ""
+"Comma-separated list of plugins to preload in addition to the list stored in "
+"environment variable GST_PLUGIN_PATH"
+msgstr ""
+"Список модулей (разделяемых запятыми) для предварительной загрузки, "
+"дополняющий список, который содержится в переменной среды GST_PLUGIN_PATH"
+
+msgid "Could not close resource."
+msgstr "Не удалось закрыть ресурс."
+
+msgid "Could not close supporting library."
+msgstr "Не удалось закрыть дополнительную библиотеку."
+
+msgid "Could not configure supporting library."
+msgstr "Не удалось настроить дополнительную библиотеку."
+
+msgid "Could not create temp file \"%s\"."
+msgstr "Не удалось создать временный файл «%s»."
+
+msgid "Could not decode stream."
+msgstr "Не удалось декодировать поток."
+
+msgid "Could not demultiplex stream."
+msgstr "Не удалось демультиплексировать поток."
+
+msgid "Could not determine type of stream."
+msgstr "Не удалось определить тип потока."
+
+msgid "Could not encode stream."
+msgstr "Не удалось закодировать поток."
+
+msgid "Could not get info on \"%s\"."
+msgstr "Не удалось получить сведения для «%s»."
+
+msgid "Could not get/set settings from/on resource."
+msgstr "Не удалось получить/установить параметры ресурса."
+
+msgid "Could not initialize supporting library."
+msgstr "Не удалось инициализировать дополнительную библиотеку."
+
+msgid "Could not load plugin file: %s\n"
+msgstr "Не удалось загрузить файл модуля: «%s»\n"
+
+msgid "Could not multiplex stream."
+msgstr "Не удалось мультиплексировать поток."
+
+msgid "Could not open file \"%s\" for reading."
+msgstr "Не удалось открыть файл «%s» для чтения."
+
+msgid "Could not open file \"%s\" for writing."
+msgstr "Не удалось открыть для записи файл «%s»."
+
+msgid "Could not open resource for reading and writing."
+msgstr "Не удалось открыть ресурс для чтения и записи."
+
+msgid "Could not open resource for reading."
+msgstr "Не удалось открыть ресурс для чтения."
+
+msgid "Could not open resource for writing."
+msgstr "Не удалось открыть ресурс для записи."
+
+msgid "Could not perform seek on resource."
+msgstr "Не удалось произвести позиционирование в ресурсе."
+
+msgid "Could not read from resource."
+msgstr "Не удалось прочитать из ресурса."
+
+msgid "Could not synchronize on resource."
+msgstr "Не удалось произвести синхронизацию для ресурса."
+
+msgid "Could not write to resource."
+msgstr "Не удалось записать в ресурс."
+
+msgid ""
+"Default debug level from 1 (only error) to 5 (anything) or 0 for no output"
+msgstr ""
+"Уровень отладки по умолчанию: от 1 (только ошибки) до 5 (всё), или 0 (ничего "
+"не печатать)"
+
+msgid "Disable colored debugging output"
+msgstr "Отключить цветовую разметку при выводе отладочных сообщений"
+
+msgid "Disable debugging"
+msgstr "Отключить отладку"
+
+msgid "Disable spawning a helper process while scanning the registry"
+msgstr ""
+"Отключить создание вспомогательного процесса, пока происходит сканирование "
+"реестра"
+
+msgid "Disable trapping of segmentation faults during plugin loading"
+msgstr "Отключить перехват ошибок сегментации памяти во время загрузки модулей"
+
+msgid "Disable updating the registry"
+msgstr "Отключить обновление реестра"
+
+msgid "Do not install a fault handler"
+msgstr "Не устанавливать обработчик ошибок"
+
+msgid "Do not install signal handlers for SIGUSR1 and SIGUSR2"
+msgstr "Не устанавливать обработчики сигналов SIGUSR1 и SIGUSR2"
+
+msgid "Do not output status information of TYPE"
+msgstr "Не выводить информацию о состоянии ТИПА"
+
+msgid "Do not print any progress information"
+msgstr "Не выводить информацию о ходе выполнения"
+
+msgid "Done buffering, setting pipeline to PLAYING ...\n"
+msgstr "Буферизация завершена, конвейер переведён в состояние PLAYING...\n"
+
+msgid "EOS on shutdown enabled -- Forcing EOS on the pipeline\n"
+msgstr "Включён EOS при закрытии -- Выдача EOS в конвейер\n"
+
+msgid "EOS received - stopping pipeline...\n"
+msgstr "Получен EOS - остановка конвейера...\n"
+
+msgid "ERROR: Pipeline doesn't want to pause.\n"
+msgstr "ОШИБКА: Конвейер не хочет становиться на паузу.\n"
+
+msgid "ERROR: could not parse command line argument %d: %s.\n"
+msgstr "ОШИБКА: ошибка обработки аргумента командной строки %d: %s.\n"
+
+msgid "ERROR: from element %s: %s\n"
+msgstr "ОШИБКА: из элемента %s: %s\n"
+
+msgid "ERROR: no toplevel pipeline element in file '%s'.\n"
+msgstr "ОШИБКА: в файле «%s» отсутствует главный элемент конвейера.\n"
+
+msgid "ERROR: parse of xml file '%s' failed.\n"
+msgstr "ОШИБКА: ошибка разбора xml-файла «%s».\n"
+
+msgid "ERROR: pipeline could not be constructed.\n"
+msgstr "ОШИБКА: не удалось собрать конвейер.\n"
+
+msgid "ERROR: pipeline could not be constructed: %s.\n"
+msgstr "ОШИБКА: не удалось собрать конвейер: %s.\n"
+
+msgid "ERROR: pipeline doesn't want to play.\n"
+msgstr "ОШИБКА: конвейер не хочет воспроизводить.\n"
+
+msgid "ERROR: pipeline doesn't want to preroll.\n"
+msgstr "ОШИБКА: конвейер не хочет подготавливаться (PREROLL).\n"
+
+msgid "ERROR: the 'pipeline' element wasn't found.\n"
+msgstr "ОШИБКА: не найден элемент «pipeline».\n"
+
+msgid "Element doesn't implement handling of this stream. Please file a bug."
+msgstr ""
+"В элементе не реализована обработка этого потока. Пожалуйста, сообщите об "
+"ошибке."
+
+msgid "Enable verbose plugin loading diagnostics"
+msgstr "Выводить дополнительную информацию при загрузке модулей"
+
+msgid "Encoding error."
+msgstr "Ошибка при кодировании."
+
+msgid "Error closing file \"%s\"."
+msgstr "Ошибка закрытия файла «%s»."
+
+msgid "Error while seeking in file \"%s\"."
+msgstr "Ошибка позиционирования в файле «%s»."
+
+msgid "Error while writing to download file."
+msgstr "Ошибка записи загружаемого файла."
+
+msgid "Error while writing to file \"%s\"."
+msgstr "Ошибка записи в файл «%s»."
+
+msgid "Execution ended after %"
+msgstr "Выполнение окончено после %"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "FOUND TAG\n"
+msgstr "НАЙДЕН ТЕГ\n"
+
+msgid "FOUND TAG      : found by element \"%s\".\n"
+msgstr "НАЙДЕН ТЕГ: найден элементом «%s».\n"
+
+msgid "FOUND TAG      : found by object \"%s\".\n"
+msgstr "НАЙДЕН ТЕГ: найден объектом «%s».\n"
+
+msgid "FOUND TAG      : found by pad \"%s:%s\".\n"
+msgstr "НАЙДЕН ТЕГ: найден контактным гнездом «%s:%s».\n"
+
+msgid "Failed after iterations as requested."
+msgstr "Сбой после итераций, согласно запросу."
+
+msgid "File \"%s\" is a socket."
+msgstr "Файл «%s» является сокетом."
+
+msgid "Filter caps"
+msgstr "Фильтровать возможности"
+
+msgid "Force EOS on sources before shutting the pipeline down"
+msgstr "Выдать EOS в источники перед закрытием конвейера"
+
+msgid "Freeing pipeline ...\n"
+msgstr "Освобождение конвейера...\n"
+
+msgid "GStreamer Options"
+msgstr "Параметры GStreamer"
+
+msgid ""
+"GStreamer developers were too lazy to assign an error code to this error."
+msgstr ""
+"Разработчики GStreamer были слишком ленивыми, чтобы добавить код обработки "
+"для этой ошибки."
+
+msgid "GStreamer encountered a general core library error."
+msgstr "Обнаружена ошибка в библиотеке ядра GStreamer."
+
+msgid "GStreamer encountered a general resource error."
+msgstr "Обнаружена общая ошибка ресурса GStreamer."
+
+msgid "GStreamer encountered a general stream error."
+msgstr "Обнаружена общая ошибка потока GStreamer."
+
+msgid "GStreamer encountered a general supporting library error."
+msgstr "Обнаружена ошибка в дополнительной библиотеке GStreamer."
+
+msgid ""
+"GStreamer error: state change failed and some element failed to post a "
+"proper error message with the reason for the failure."
+msgstr ""
+"Ошибка GStreamer: не удалось изменить состояние и некоторым элементам не "
+"удалось поместить правильное сообщение о причиной ошибки."
+
+msgid "Gather and print index statistics"
+msgstr "Собрать и вывести индексную статистику"
+
+msgid "Got EOS from element \"%s\".\n"
+msgstr "Получен маркер EOS («конец потока») от элемента «%s».\n"
+
+msgid "Got message #%u (%s): "
+msgstr "Получено сообщение #%u (%s): "
+
+msgid "Got message #%u from element \"%s\" (%s): "
+msgstr "Получено сообщение #%u от элемента «%s» (%s): "
+
+msgid "Got message #%u from object \"%s\" (%s): "
+msgstr "Получено сообщение #%u от объекта «%s» (%s): "
+
+msgid "Got message #%u from pad \"%s:%s\" (%s): "
+msgstr "Получено сообщение #%u от контактного гнезда «%s:%s» (%s): "
+
+msgid ""
+"Groups related media that spans multiple tracks, like the different pieces "
+"of a concerto. It is a higher level than a track, but lower than an album"
+msgstr ""
+"Группы носителей с несколькими дорожками, например, различные части "
+"концерта. Это больше чем дорожка, но меньше чем альбом"
+
+msgid "Homepage for this media (i.e. artist or movie homepage)"
+msgstr ""
+"Домашняя страница этого носителя (т.е. страница исполнителя или фильма)"
+
+msgid "How the image should be rotated or flipped before display"
+msgstr "Влияет на вращение или поворот изображения перед показом"
+
+msgid ""
+"INFO:\n"
+"%s\n"
+msgstr ""
+"ИНФОРМАЦИЯ:\n"
+"%s\n"
+
+msgid "ISRC"
+msgstr "ISRC"
+
+msgid "Implemented Interfaces:\n"
+msgstr "Реализованные интерфейсы:\n"
+
+msgid "Index statistics"
+msgstr "Индексная статистика"
+
+msgid "Internal GStreamer error: caps problem."
+msgstr "Внутренняя ошибка GStreamer: проблема с возможностями."
+
+msgid "Internal GStreamer error: clock problem."
+msgstr "Внутренняя ошибка GStreamer: проблема синхронизации."
+
+msgid "Internal GStreamer error: code not implemented."
+msgstr "Внутренняя ошибка GStreamer: функция не реализована."
+
+msgid "Internal GStreamer error: event problem."
+msgstr "Внутренняя ошибка GStreamer: проблема с событиями."
+
+msgid "Internal GStreamer error: negotiation problem."
+msgstr "Внутренняя ошибка GStreamer: проблема связки элементов."
+
+msgid "Internal GStreamer error: pad problem."
+msgstr "Внутренняя ошибка GStreamer: проблема с контактным гнездом."
+
+msgid "Internal GStreamer error: seek problem."
+msgstr "Внутренняя ошибка GStreamer: ошибка позиционирования."
+
+msgid "Internal GStreamer error: tag problem."
+msgstr "Внутренняя ошибка GStreamer: проблема с тегами."
+
+msgid "Internal GStreamer error: thread problem."
+msgstr "Внутренняя ошибка GStreamer: проблема с нитями."
+
+msgid "Internal clock error."
+msgstr "Внутренняя ошибка синхронизации."
+
+msgid "Internal data flow error."
+msgstr "Внутренняя ошибка передачи данных."
+
+msgid "Internal data flow problem."
+msgstr "Внутренняя проблема передачи данных."
+
+msgid "Internal data stream error."
+msgstr "Внутренняя ошибка потока данных."
+
+msgid "International Standard Recording Code - see http://www.ifpi.org/isrc/"
+msgstr "International Standard Recording Code — см. http://www.ifpi.org/isrc/"
+
+msgid "Interrupt: Stopping pipeline ...\n"
+msgstr "Прерывание: Остановка конвейера...\n"
+
+msgid "LEVEL"
+msgstr "УРОВЕНЬ"
+
+msgid "LIST"
+msgstr "СПИСОК"
+
+msgid "List the plugin contents"
+msgstr "Вывести содержимое модуля"
+
+msgid "Make all warnings fatal"
+msgstr "Сделать все предупреждения фатальными"
+
+msgid "Manufacturer of the device used to create this media"
+msgstr "Производитель устройства, на котором создан носитель"
+
+msgid "Model of the device used to create this media"
+msgstr "Модель устройства, на котором создан носитель"
+
+msgid "Name of the tv/podcast/series show the media is from"
+msgstr "Название тв/подкаста/передачи на носителе"
+
+msgid ""
+"Name of the tv/podcast/series show the media is from, for sorting purposes"
+msgstr "Название тв/подкаста/передачи на носителе (для сортировки)"
+
+msgid "No Temp directory specified."
+msgstr "Не задана временный (Temp) каталог."
+
+msgid "No error message for domain %s."
+msgstr "Нет сообщения об ошибке для домена %s."
+
+msgid "No file name specified for reading."
+msgstr "Не указано имя файла для чтения."
+
+msgid "No file name specified for writing."
+msgstr "Не указано имя файла для записи."
+
+msgid "No space left on the resource."
+msgstr "В ресурсе нет свободного места."
+
+msgid "No standard error message for domain %s and code %d."
+msgstr "Нет стандартного сообщения об ошибке для домена %s и кода %d."
+
+msgid "No such element or plugin '%s'\n"
+msgstr "Модуль или элемент «%s» не найден\n"
+
+msgid ""
+"Origin of media as a URI (location, where the original of the file or stream "
+"is hosted)"
+msgstr ""
+"Источник данных в виде URI (адрес размещения оригинального файла или потока)"
+
+msgid "Output messages"
+msgstr "Выводить сообщения"
+
+msgid "Output status information and property notifications"
+msgstr "Выводить информацию о состоянии и уведомления о свойствах"
+
+msgid "Output tags (also known as metadata)"
+msgstr "Выводить теги (метаданные)"
+
+msgid "PATHS"
+msgstr "ПУТИ"
+
+msgid "PLUGINS"
+msgstr "МОДУЛИ"
+
+msgid "Pipeline is PREROLLED ...\n"
+msgstr "Конвейер подготовлен (PREROLLED)...\n"
+
+msgid "Pipeline is PREROLLING ...\n"
+msgstr "Подготовка конвейера (PREROLL)...\n"
+
+msgid "Pipeline is live and does not need PREROLL ...\n"
+msgstr "Конвейер работает и не требует состояния PREROLL...\n"
+
+msgid "Prerolled, waiting for buffering to finish...\n"
+msgstr "Конвейер подготовлен, ожидается завершение буферизации...\n"
+
+msgid ""
+"Print a machine-parsable list of features the specified plugin or all "
+"plugins provide.\n"
+"                                       Useful in connection with external "
+"automatic plugin installation mechanisms"
+msgstr ""
+"Вывести машинно-читаемый список функций, предоставляемых указанным модулем "
+"или модулями.\n"
+"                                       Полезно для подключения внешних "
+"механизмов автоматической установки модулей"
+
+msgid "Print all elements"
+msgstr "Вывести все элементы"
+
+msgid "Print alloc trace (if enabled at compile time)"
+msgstr "Вывести трассировку выделения памяти (если включено при сборке)"
+
+msgid "Print available debug categories and exit"
+msgstr "Вывести доступные категории отладки и выйти"
+
+msgid "Print list of blacklisted files"
+msgstr "Вывести файлы из чёрного списка"
+
+msgid "Print supported URI schemes, with the elements that implement them"
+msgstr "Вывести поддерживаемые схемы URI для элементов, которые их используют"
+
+msgid "Print the GStreamer version"
+msgstr "Вывести версию GStreamer"
+
+msgid ""
+"Rating attributed by a user. The higher the rank, the more the user likes "
+"this media"
+msgstr ""
+"Оценка, данная пользователем. Чем выше оценка, тем большему числу "
+"пользователей понравился носитель"
+
+msgid "Redistribute latency...\n"
+msgstr "Перераспределение латентности...\n"
+
+msgid "Resource busy or not available."
+msgstr "Ресурс занят или недоступен."
+
+msgid "Resource not found."
+msgstr "Ресурс не найден."
+
+msgid ""
+"Restrict the possible allowed capabilities (NULL means ANY). Setting this "
+"property takes a reference to the supplied GstCaps object."
+msgstr ""
+"Ограничить разрешённые возможности (NULL равносильно ANY). Установка этого "
+"свойства увеличивает количество ссылок для предоставленного объекта GstCaps."
+
+msgid "Save xml representation of pipeline to FILE and exit"
+msgstr "Сохранить конвейер в XML-файл и выйти"
+
+msgid "Selected clock cannot be used in pipeline."
+msgstr "Выбранные часы не могут быть использованы в конвейере."
+
+msgid "Setting pipeline to NULL ...\n"
+msgstr "Установка конвейера в состояние NULL...\n"
+
+msgid "Setting pipeline to PAUSED ...\n"
+msgstr "Установка конвейера в состояние PAUSED...\n"
+
+msgid "Setting pipeline to PLAYING ...\n"
+msgstr "Установка конвейера в состояние PLAYING...\n"
+
+msgid "Setting pipeline to READY ...\n"
+msgstr "Установка конвейера в состояние READY...\n"
+
+msgid "Setting state to %s as requested by %s...\n"
+msgstr "Устанавливается состояние %s, запрошенное %s...\n"
+
+msgid "Show GStreamer Options"
+msgstr "Показать параметры GStreamer"
+
+msgid "Stream contains no data."
+msgstr "Поток не содержит данных."
+
+msgid "TYPE1,TYPE2,..."
+msgstr "ТИП1, ТИП2,..."
+
+msgid "The artist of the entire album, as it should be displayed"
+msgstr "Исполнитель всего альбома, который должен отображаться"
+
+msgid "The artist of the entire album, as it should be sorted"
+msgstr "Исполнитель всего альбома, по которому нужно выполнять сортировку"
+
+msgid "The episode number in the season the media is part of"
+msgstr "Номер эпизода в сезоне на носителе"
+
+msgid "The lyrics of the media, commonly used for songs"
+msgstr "Стихи песен на носителе"
+
+msgid "The season number of the show the media is part of"
+msgstr "Номер сезона на носителе"
+
+msgid ""
+"The stream is encrypted and can't be decrypted because no suitable key has "
+"been supplied."
+msgstr ""
+"Поток зашифрован и не может быть расшифрован, потому что не предоставлен "
+"подходящий ключ."
+
+msgid "The stream is encrypted and decryption is not supported."
+msgstr "Поток зашифрован и его расшифровка не поддерживается."
+
+msgid "The stream is in the wrong format."
+msgstr "Поток имеет неверный формат."
+
+msgid "The stream is of a different type than handled by this element."
+msgstr "Тип потока отличается от обрабатываемого этим элементом."
+
+msgid "There is no codec present that can handle the stream's type."
+msgstr "Нет кодека для обработки данного типа потока."
+
+msgid ""
+"This application is trying to use GStreamer functionality that has been "
+"disabled."
+msgstr ""
+"Приложение пытается использовать функцию GStreamer, которая была выключена."
+
+msgid "Total count: "
+msgstr "Общее количество: "
+
+msgid "URI to the copyright notice of the data"
+msgstr "URI уведомления об авторских правах"
+
+msgid "URI to the license of the data"
+msgstr "URI лицензии на эти данные"
+
+msgid "Unknown option"
+msgstr "Неизвестный параметр"
+
+msgid "Usage: gst-xmllaunch <file.xml> [ element.property=value ... ]\n"
+msgstr ""
+"Использование: gst-xmllaunch <файл.xml> [ элемент.свойство=значение...]\n"
+
+msgid "WARNING: element named '%s' not found.\n"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: элемент с именем «%s» не найден.\n"
+
+msgid "WARNING: erroneous pipeline: %s\n"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: ошибочный конвейер: %s\n"
+
+msgid "WARNING: from element %s: %s\n"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: от элемента %s: %s\n"
+
+msgid "WARNING: only one toplevel element is supported at this time.\n"
+msgstr ""
+"ПРЕДУПРЕЖДЕНИЕ: в данный момент поддерживается только один главный элемент.\n"
+
+msgid "Waiting for EOS...\n"
+msgstr "Ожидание EOS...\n"
+
+msgid "Your GStreamer installation is missing a plug-in."
+msgstr "В вашей установке GStreamer отсутствует модуль."
+
+msgid ""
+"a location whithin a city where the media has been produced or created (e.g. "
+"the neighborhood)"
+msgstr ""
+"место в городе, в котором производилась запись или производство данных "
+"(например, район)"
+
+msgid "album"
+msgstr "альбом"
+
+msgid "album artist"
+msgstr "исполнитель альбома"
+
+msgid "album artist sortname"
+msgstr "исполнитель альбома (для сортировки)"
+
+msgid "album containing this data"
+msgstr "альбом, содержащий эти данные"
+
+msgid "album containing this data for sorting purposes"
+msgstr "альбом, содержащий эти данные (для сортировки)"
+
+msgid "album gain in db"
+msgstr "уровень усиления альбома в дБ"
+
+msgid "album sortname"
+msgstr "альбом (для сортировки)"
+
+msgid "application data"
+msgstr "данные приложения"
+
+msgid "application name"
+msgstr "имя приложения"
+
+msgid "artist"
+msgstr "исполнитель"
+
+msgid "artist sortname"
+msgstr "исполнитель (для сортировки)"
+
+msgid "attachment"
+msgstr "вложение"
+
+msgid "audio codec"
+msgstr "аудио-кодек"
+
+msgid "beats per minute"
+msgstr "ударов в минуту"
+
+msgid "bitrate"
+msgstr "битрейт"
+
+msgid "buffering..."
+msgstr "буферизация..."
+
+msgid "caps"
+msgstr "возможности"
+
+msgid "changeable in NULL, READY, PAUSED or PLAYING state"
+msgstr "может быть равно состоянию NULL, READY, PAUSED или PLAYING"
+
+msgid "changeable only in NULL or READY state"
+msgstr "может быть равно только состоянию NULL или READY"
+
+msgid "changeable only in NULL, READY or PAUSED state"
+msgstr "может быть равно только состоянию NULL, READY или PAUSED"
+
+msgid "city (english name) where the media has been recorded or produced"
+msgstr ""
+"город (на английском), в котором производилась запись или производство данных"
+
+msgid "codec"
+msgstr "кодек"
+
+msgid "codec the audio data is stored in"
+msgstr "кодек, в котором сохранены аудио-данные"
+
+msgid "codec the data is stored in"
+msgstr "кодек, в котором сохранены данные"
+
+msgid "codec the subtitle data is stored in"
+msgstr "кодек, в котором хранятся субтитры"
+
+msgid "codec the video data is stored in"
+msgstr "кодек, в котором сохранены видео-данные"
+
+msgid "comma separated keywords describing the content"
+msgstr "разделяемые запятыми ключевые слова, описывающие содержимое"
+
+msgid "comment"
+msgstr "комментарий"
+
+msgid "commonly used title"
+msgstr "обычно используемое название"
+
+msgid "commonly used title for sorting purposes"
+msgstr "обычно используемое название (для сортировки)"
+
+msgid "composer"
+msgstr "композитор"
+
+msgid "composer sortname"
+msgstr "автор (для сортировки)"
+
+msgid "contact"
+msgstr "контакт"
+
+msgid "contact information"
+msgstr "контактная информация"
+
+msgid "container format"
+msgstr "формат контейнера"
+
+msgid "container format the data is stored in"
+msgstr "формат контейнера, в котором хранятся данные"
+
+msgid "controllable"
+msgstr "контролируемый"
+
+msgid "copyright"
+msgstr "авторские права"
+
+msgid "copyright notice of the data"
+msgstr "уведомление об авторских правах на эти данные"
+
+msgid "copyright uri"
+msgstr "URI авторских прав"
+
+msgid "could not link %s to %s"
+msgstr "не удалось соединить %s и %s"
+
+msgid "could not link sink element for URI \"%s\""
+msgstr "не удалось соединить элемент-приёмник для URI «%s»"
+
+msgid "could not parse caps \"%s\""
+msgstr "не удалось обработать возможности «%s»"
+
+msgid "could not set property \"%s\" in element \"%s\" to \"%s\""
+msgstr "не удалось установить свойство «%s» элемента «%s» в значение «%s»"
+
+msgid "count of discs inside collection this disc belongs to"
+msgstr "количество дисков в коллекции, к которой принадлежит этот диск"
+
+msgid "count of tracks inside collection this track belongs to"
+msgstr "количество дорожек внутри коллекции, к которой принадлежит эта дорожка"
+
+msgid "country (english name) where the media has been recorded or produced"
+msgstr ""
+"страна (на английском), в которой производилась запись или производство "
+"данных"
+
+msgid "date"
+msgstr "дата"
+
+msgid "date and time the data was created (as a GstDateTime structure)"
+msgstr "дата и время создания этих данных (как структура GstDateTime)"
+
+msgid "date the data was created (as a GDate structure)"
+msgstr "дата создания этих данных (как структура GDate)"
+
+msgid "datetime"
+msgstr "дата-время"
+
+msgid "description"
+msgstr "описание"
+
+msgid "detected capabilities in stream"
+msgstr "обнаруженные возможности потока"
+
+msgid "device manufacturer"
+msgstr "производитель устройства"
+
+msgid "device model"
+msgstr "модель устройства"
+
+msgid "disc count"
+msgstr "количество дисков"
+
+msgid "disc number"
+msgstr "номер диска"
+
+msgid "disc number inside a collection"
+msgstr "номер диска в коллекции"
+
+msgid "duration"
+msgstr "длительность"
+
+msgid "empty pipeline not allowed"
+msgstr "пустой конвейер недопустим"
+
+msgid "encoded by"
+msgstr "Кодирование выполнено"
+
+msgid "encoder"
+msgstr "кодировщик"
+
+msgid "encoder used to encode this stream"
+msgstr "кодировщик, используемый для кодирования потока"
+
+msgid "encoder version"
+msgstr "версия кодировщика"
+
+msgid "episode number"
+msgstr "номер эпизода"
+
+msgid "exact or average bitrate in bits/s"
+msgstr "точный или средний битрейт (бит/с)"
+
+msgid "expected error of the horizontal positioning measures (in meters)"
+msgstr "ожидаемая ошибка определения геогр. местоположения (в метрах)"
+
+msgid "extended comment"
+msgstr "дополнительный комментарий"
+
+msgid "file attached to this stream"
+msgstr "файл, вложенный в этот поток"
+
+msgid "force caps"
+msgstr "форсировать возможности"
+
+msgid "force caps without doing a typefind"
+msgstr "форсировать возможности без выполнения typefind"
+
+msgid "free text commenting the data"
+msgstr "комментарий к этим данным в свободной форме"
+
+msgid "free text commenting the data in key=value or key[en]=comment form"
+msgstr ""
+"комментарий к этим данным в свободной форме в виде ключ=значение или "
+"ключ[en]=значение"
+
+msgid "genre"
+msgstr "жанр"
+
+msgid "genre this data belongs to"
+msgstr "жанр, к которому относятся эти данные"
+
+msgid ""
+"geo elevation of where the media has been recorded or produced in meters "
+"according to WGS84 (zero is average sea level)"
+msgstr ""
+"географическая высота местности, в которой производилась запись или "
+"производство данных, в метрах согласно системе координат WGS84 (0 на среднем "
+"уровне моря)"
+
+msgid ""
+"geo latitude location of where the media has been recorded or produced in "
+"degrees according to WGS84 (zero at the equator, negative values for "
+"southern latitudes)"
+msgstr ""
+"географическая широта местности, в которой производилась запись или "
+"производство данных, в градусах в системе координат WGS84 (0 на экваторе, "
+"отрицательные значения для южных широт)"
+
+msgid "geo location capture direction"
+msgstr "направление съёмки"
+
+msgid "geo location city"
+msgstr "город"
+
+msgid "geo location country"
+msgstr "страна"
+
+msgid "geo location elevation"
+msgstr "геогр. высота"
+
+msgid "geo location horizontal error"
+msgstr "ошибка в геогр. местоположении"
+
+msgid "geo location latitude"
+msgstr "геогр. широта"
+
+msgid "geo location longitude"
+msgstr "геогр. долгота"
+
+msgid "geo location movement direction"
+msgstr "направление движения"
+
+msgid "geo location movement speed"
+msgstr "скорость движения"
+
+msgid "geo location name"
+msgstr "геогр. местоположение"
+
+msgid "geo location sublocation"
+msgstr "доп. к местоположению"
+
+msgid ""
+"geo longitude location of where the media has been recorded or produced in "
+"degrees according to WGS84 (zero at the prime meridian in Greenwich/UK,  "
+"negative values for western longitudes)"
+msgstr ""
+"географическая долгота местности, в которой производилась запись или "
+"производство данных, в градусах в системе координат WGS84 (0 на Гринвичском "
+"меридиане, отрицательные значения для западных долгот)"
+
+msgid "grouping"
+msgstr "группировка"
+
+msgid "homepage"
+msgstr "домашняя страница"
+
+msgid ""
+"human readable descriptive location of where the media has been recorded or "
+"produced"
+msgstr ""
+"описательное название местности, в которой производилась запись или "
+"производство данных"
+
+msgid "image"
+msgstr "изображение"
+
+msgid "image orientation"
+msgstr "ориентация изображения"
+
+msgid "image related to this stream"
+msgstr "изображение, связанное с этим потоком"
+
+msgid ""
+"indicates the direction the device is pointing to when capturing  a media. "
+"It is represented as degrees in floating point  representation, 0 means the "
+"geographic north, and increases clockwise"
+msgstr ""
+"направление, куда указывало устройство съёмки. Задаётся в градусах числом с "
+"плавающей точкой, 0 означает географический север и дальше по часовой стрелке"
+
+msgid ""
+"indicates the movement direction of the device performing the capture of a "
+"media. It is represented as degrees in floating point representation, 0 "
+"means the geographic north, and increases clockwise"
+msgstr ""
+"направление движения устройства съёмки. Задаётся в градусах числом с "
+"плавающей точкой, 0 означает географический север и дальше по часовой стрелке"
+
+msgid "keywords"
+msgstr "ключевые слова"
+
+msgid "language code"
+msgstr "код языка"
+
+msgid "language code for this stream, conforming to ISO-639-1"
+msgstr "код языка для этого потока согласно ISO-639-1"
+
+msgid "length in GStreamer time units (nanoseconds)"
+msgstr "длительность в единицах GStreamer (в наносекундах)"
+
+msgid "license"
+msgstr "лицензия"
+
+msgid "license of data"
+msgstr "лицензия на эти данные"
+
+msgid "license uri"
+msgstr "URI лицензии"
+
+msgid "link without sink element"
+msgstr "попытка соединения без элемента-приёмника"
+
+msgid "link without source element"
+msgstr "попытка соединения без элемента-источника"
+
+msgid "location"
+msgstr "местоположение"
+
+msgid "lyrics"
+msgstr "стихи"
+
+msgid "maximum"
+msgstr "максимум"
+
+msgid "maximum bitrate"
+msgstr "максимальный битрейт"
+
+msgid "maximum bitrate in bits/s"
+msgstr "максимальный битрейт (бит/с)"
+
+msgid "minimum"
+msgstr "минимум"
+
+msgid "minimum bitrate"
+msgstr "минимальный битрейт"
+
+msgid "minimum bitrate in bits/s"
+msgstr "минимальный битрейт (бит/с)"
+
+msgid ""
+"movement speed of the capturing device while performing the capture in m/s"
+msgstr "скорость движения устройства съёмки в при выполнении съёмки в м/c"
+
+msgid "name of the encoding person or organization"
+msgstr "Имя человека или название организации, выполнявшей кодировку"
+
+msgid "no bin \"%s\", skipping"
+msgstr "не найден контейнер «%s», пропуск"
+
+msgid "no element \"%s\""
+msgstr "элемент «%s» не найден"
+
+msgid "no element to link URI \"%s\" to"
+msgstr "нет элемента, который можно было бы присоединить к URI «%s»"
+
+msgid "no property \"%s\" in element \"%s\""
+msgstr "свойство «%s» не найдено для элемента «%s»"
+
+msgid "no sink element for URI \"%s\""
+msgstr "нет элемента-приёмника для URI «%s»"
+
+msgid "no source element for URI \"%s\""
+msgstr "нет элемента-источника для URI «%s»"
+
+msgid "nominal bitrate"
+msgstr "номинальный битрейт"
+
+msgid "nominal bitrate in bits/s"
+msgstr "номинальный битрейт (бит/с)"
+
+msgid "number of beats per minute in audio"
+msgstr "число ударов в минуту для аудио"
+
+msgid "organization"
+msgstr "организация"
+
+msgid "peak of the album"
+msgstr "пиковое значение сигнала для альбома"
+
+msgid "peak of the track"
+msgstr "пиковое значение сигнала для дорожки"
+
+msgid "performer"
+msgstr "исполнитель"
+
+msgid "person(s) performing"
+msgstr "лицо/лица, исполняющие композицию"
+
+msgid "person(s) responsible for the recording"
+msgstr "лицо/лица, ответственные за запись"
+
+msgid "person(s) responsible for the recording for sorting purposes"
+msgstr "лицо/лица, ответственные за запись (для сортировки)"
+
+msgid "person(s) who composed the recording"
+msgstr "лицо/лица, написавшие композицию"
+
+msgid "person(s) who composed the recording, for sorting purposes"
+msgstr "лицо/лица, ответственные за запись (для сортировки)"
+
+msgid "preview image"
+msgstr "изображение для предпросмотра"
+
+msgid "preview image related to this stream"
+msgstr "изображение для предпросмотра, связанное с этим потоком"
+
+msgid "readable"
+msgstr "считываемый"
+
+msgid "reference level of track and album gain values"
+msgstr "эталонный уровень для корректировки громкости дорожки и альбома"
+
+msgid "replaygain album gain"
+msgstr "уровень ReplayGain для альбома"
+
+msgid "replaygain album peak"
+msgstr "пик ReplayGain для альбома"
+
+msgid "replaygain reference level"
+msgstr "эталонный уровень ReplayGain"
+
+msgid "replaygain track gain"
+msgstr "уровень ReplayGain для дорожки"
+
+msgid "replaygain track peak"
+msgstr "пик ReplayGain для дорожки"
+
+msgid "season number"
+msgstr "номер сезона"
+
+msgid "serial"
+msgstr "серийный номер"
+
+msgid "serial number of track"
+msgstr "серийный номер дорожки"
+
+msgid "short text describing the content of the data"
+msgstr "короткое описание содержимого данных"
+
+msgid "show name"
+msgstr "название передачи"
+
+msgid "show sortname"
+msgstr "короткое название передачи"
+
+msgid "specified empty bin \"%s\", not allowed"
+msgstr "указанный пустой контейнер «%s» недопустим"
+
+msgid "subtitle codec"
+msgstr "кодек субтитров"
+
+msgid "title"
+msgstr "название"
+
+msgid "title sortname"
+msgstr "название (для сортировки)"
+
+msgid "track count"
+msgstr "количество дорожек"
+
+msgid "track gain in db"
+msgstr "уровень усиления дорожки в дБ"
+
+msgid "track number"
+msgstr "номер дорожки"
+
+msgid "track number inside a collection"
+msgstr "номер дорожки внутри коллекции"
+
+msgid "user rating"
+msgstr "пользовательская оценка"
+
+msgid "version"
+msgstr "версия"
+
+msgid "version of the encoder used to encode this stream"
+msgstr "версия кодировщика, используемого для кодирования потока"
+
+msgid "version of this data"
+msgstr "версия этих данных"
+
+msgid "video codec"
+msgstr "видео-кодек"
+
+msgid "writable"
+msgstr "записываемый"

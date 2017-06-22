@@ -1,0 +1,375 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-netstatus HEAD\n"
+"POT-Creation-Date: 2008-10-20 03:29+0900\n"
+"PO-Revision-Date: 2008-09-30 12:26+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%lu packet"
+msgid_plural "%lu packets"
+msgstr[0] "%lu пакет"
+msgstr[1] "%lu пакета"
+msgstr[2] "%lu пакетов"
+
+msgid "(Cisco)-HDLC"
+msgstr "(Cisco)-HDLC"
+
+msgid "16/4 Mbps Token Ring"
+msgstr "16/4 Мб/c Token Ring"
+
+msgid "6-bit Serial Line IP"
+msgstr "6-bit Serial Line IP"
+
+msgid "AMPR AX.25"
+msgstr "AMPR AX.25"
+
+msgid "AMPR NET/ROM"
+msgstr "AMPR NET/ROM"
+
+msgid "AMPR ROSE"
+msgstr "AMPR ROSE"
+
+msgid "ARCnet"
+msgstr "ARCnet"
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "Adaptive Serial Line IP"
+msgstr "Adaptive Serial Line IP"
+
+msgid "Address:"
+msgstr "Адрес:"
+
+msgid "Ash"
+msgstr "Ash"
+
+msgid "Broadcast:"
+msgstr "Широковещательный адрес:"
+
+msgid "Cannot open /proc/net/dev: %s"
+msgstr "Не удалось открыть /proc/net/dev: %s"
+
+msgid "Con_figure"
+msgstr "_Настроить"
+
+msgid "Connection"
+msgstr "Соединение"
+
+msgid "Connection Properties"
+msgstr "Свойства соединения"
+
+msgid "Connection Properties: %s"
+msgstr "Свойства соединения: %s"
+
+msgid "Could not connect to interface, '%s'"
+msgstr "Не удалось подключиться к интерфейсу, «%s»"
+
+msgid "Could not parse 'netstat' output. Unknown format"
+msgstr "Не удалось разобрать вывод утилиты «netstat». Формат неизвестен."
+
+msgid "Could not parse /proc/net/dev. Unknown format."
+msgstr "Не удалось разобрать /proc/net/dev. Неизвестный формат."
+
+msgid "Could not parse /proc/net/wireless. Unknown format."
+msgstr "Не удалось разобрать /proc/net/wireless. Неизвестный формат."
+
+msgid "Could not parse command line '%s': %s"
+msgstr "Не удалось разобрать командную строку «%s»: %s"
+
+msgid "Could not parse interface name from '%s'"
+msgstr "Не удалось разобрать имя интерфейса из «%s»"
+
+msgid ""
+"Could not parse interface statistics from '%s'. prx_idx = %d; ptx_idx = %d; "
+"brx_idx = %d; btx_idx = %d;"
+msgstr ""
+"Не удалось разобрать статистику из «%s». prx_idx = %d; ptx_idx = %d; brx_idx "
+"= %d; btx_idx = %d;"
+
+msgid "Could not parse wireless details from '%s'. link_idx = %d;"
+msgstr ""
+"Не удалось разобрать сведения беспроводного соединения из «%s». link_idx = "
+"%d;"
+
+msgid "Could not send ioctl to interface, '%s'"
+msgstr "Не удалось отправить ioctl интерфейсу, «%s»"
+
+msgid "Destination:"
+msgstr "Назначение:"
+
+msgid "Disconnected"
+msgstr "Отключён"
+
+msgid "Econet"
+msgstr "Econet"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Ethernet"
+msgstr "Ethernet"
+
+msgid "Factory for Network Monitor applet"
+msgstr "Фабрика апплета сетевого монитора"
+
+msgid "Failed to launch time configuration tool: %s"
+msgstr "Произошёл сбой при запуске утилиты конфигурации: %s"
+
+msgid "Fiber Distributed Data Interface"
+msgstr "Fiber Distributed Data Interface"
+
+msgid "Frame Relay Access Device"
+msgstr "Устройство доступа к Frame Relay"
+
+msgid "Frame Relay DLCI"
+msgstr "Frame Relay DLCI"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Generic X.25"
+msgstr "Обычный X.25"
+
+msgid "HIPPI"
+msgstr "HIPPI"
+
+msgid "IPIP Tunnel"
+msgstr "Тунель IPIP"
+
+msgid "IPv6-in-IPv4"
+msgstr "IPv6-in-IPv4"
+
+msgid "Idle"
+msgstr "Бездействие"
+
+msgid "Interface"
+msgstr "Интерфейс"
+
+msgid "Internet Protocol (IPv4)"
+msgstr "Интернет-протокол (IPv4)"
+
+msgid "Internet Protocol (IPv6)"
+msgstr "Интернет-протокол (IPv6)"
+
+msgid "IrLAP"
+msgstr "IrLAP"
+
+msgid "LAPB"
+msgstr "LAPB"
+
+msgid "Local Loopback"
+msgstr "Локальная петля"
+
+msgid "Metricom Starmode IP"
+msgstr "Metricom Starmode IP"
+
+msgid "Monitor network activity"
+msgstr "Наблюдает за сетевой активностью"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Network Connection"
+msgstr "Сетевое соединение"
+
+msgid ""
+"Network Connection: %s\n"
+"%s"
+msgstr ""
+"Сетевое соединение: %s\n"
+"%s"
+
+msgid "Network Device"
+msgstr "Сетевое устройство"
+
+msgid "Network Monitor"
+msgstr "Монитор сети"
+
+msgid "Network Monitor Factory"
+msgstr "Фабрика сетевого монитора"
+
+msgid "Network configuration tool"
+msgstr "Утилита настройки сети"
+
+msgid "Network interface"
+msgstr "Сетевой интерфейс"
+
+msgid "No network devices found"
+msgstr "Не найдено сетевое устройство"
+
+msgid "Orientation"
+msgstr "Ориентация"
+
+msgid ""
+"Please contact your system administrator to resolve the following problem:\n"
+"\n"
+"%s"
+msgstr ""
+"Свяжитесь с вашим системным администратором для решения следующей проблемы:\n"
+"\n"
+"%s"
+
+msgid "Point-to-Point Protocol"
+msgstr "Протокол точка-точка (PPP)"
+
+msgid "Received:"
+msgstr "Получено:"
+
+msgid "Receiving"
+msgstr "Приём"
+
+msgid "SIOCGIFCONF error: %s"
+msgstr "Ошибка SIOCGIFCONF: %s"
+
+msgid "SIOCGIFFLAGS error: %s"
+msgstr "Ошибка SIOCGIFFLAGS: %s"
+
+msgid "Scope:"
+msgstr "Период:"
+
+msgid "Sending"
+msgstr "Передача"
+
+msgid "Sending/Receiving"
+msgstr "Приём/передача"
+
+msgid "Sent:"
+msgstr "Отправлено:"
+
+msgid "Serial Line IP"
+msgstr "Serial Line IP"
+
+msgid "Shared"
+msgstr "Разделяемая"
+
+msgid "Show Signal"
+msgstr "Показывать уровень сигнала"
+
+msgid "Signal"
+msgstr "Сигнал"
+
+msgid "Signal Strength"
+msgstr "Уровень сигнала"
+
+msgid "State"
+msgstr "Состояние"
+
+msgid "Stats"
+msgstr "Статистика"
+
+msgid "Status:"
+msgstr "Состояние:"
+
+msgid "Subnet Mask:"
+msgstr "Маска подсети:"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "The Network Interface monitored by the Network Monitor."
+msgstr "Сетевой интерфейс, наблюдаемый с помощью монитора сети."
+
+msgid "The Network Monitor displays the status of a network device."
+msgstr "Монитор сети показывает состояние сетевого устройства."
+
+msgid "The current error condition"
+msgstr "Состояние текущей ошибки"
+
+msgid "The current interface the icon is monitoring."
+msgstr "Интерфейс, состояние которого отображает в настоящий момент значок."
+
+msgid "The interface name"
+msgstr "Имя интерфейса"
+
+msgid "The interface packets/bytes statistics"
+msgstr "Статистика приема/передачи байт/пакетов"
+
+msgid "The interface state"
+msgstr "Состояние интерфейса"
+
+msgid "The orientation of the tray."
+msgstr "Ориентация панели."
+
+msgid ""
+"There was an error displaying help:\n"
+"%s"
+msgstr ""
+"Произошла ошибка при отображении справки:\n"
+"%s"
+
+msgid ""
+"This key specifies the name of the network configuration tool which should "
+"be invoked when the \"Configure\" button in the properties dialog is "
+"clicked. If the configuration tool can take a parameter of the interface to "
+"configure you may use %i in the string and it will be substituted with the "
+"interface name before invoking the configuration tool. For example, gnome-"
+"system-tool's network-admin tool takes the interface name through a --"
+"configure parameter. Thus, you could set the value of this key to be: "
+"\"network-admin --configure %i\"."
+msgstr ""
+"Этот ключ определяет имя утилиты настройки сети, которая будет вызвана по "
+"нажатию кнопки «Настроить» в диалоге настроек. Если утилита настройки может "
+"принимать параметр интерфейса для конфигурации, можно использовать шаблон %i "
+"в строке, и он будет заменён именем интерфейса. Например, утилита gnome-"
+"system-tool принимает интерфейс через параметр --configure. Таким образом, "
+"значение этого ключа может иметь вид «network-admin --configure %i»."
+
+msgid "Tooltips Enabled"
+msgstr "Включить подсказки"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Unable to open socket: %s"
+msgstr "Не удалось открыть сокет: %s"
+
+msgid "Unknown"
+msgstr "Неизв."
+
+msgid "VJ 6-bit Serial Line IP"
+msgstr "VJ 6-bit Serial Line IP"
+
+msgid "VJ Serial Line IP"
+msgstr "VJ Serial Line IP"
+
+msgid "Whether or not the icon's tooltips are enabled."
+msgstr "Показывать ли подсказки."
+
+msgid "Whether or not the signal strength should be displayed."
+msgstr "Показывать ли уровень сигнала"
+
+msgid "Whether the interface is a wireless interface"
+msgstr "Является ли интерфейс беспроводным интерфейсом"
+
+msgid "Wireless"
+msgstr "Беспроводный"
+
+msgid "Wireless signal strength percentage"
+msgstr "Уровень сигнала беспроводной сети (%)"
+
+msgid "_About"
+msgstr "_Об апплете..."
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_Properties"
+msgstr "_Свойства"
+
+msgid "translator-credits"
+msgstr ""
+"Валёк Филиппов\n"
+"Дмитрий Мастрюков\n"
+"Леонид Кантер\n"
+"Дмитрий Яценко <d.yacenko@gmail.com>"

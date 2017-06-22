@@ -1,0 +1,41 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gksu HEAD\n"
+"Report-Msgid-Bugs-To: kov@debian.org\n"
+"POT-Creation-Date: 2009-04-06 18:58+0900\n"
+"PO-Revision-Date: 2009-04-06 13:25+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<b>Enter the password of %s to run the application '%s'</b>"
+msgstr "<b>Требуется пароль пользователя %s для запуска '%s'</b>"
+
+msgid "<b>Enter the password to run the application '%s'</b>"
+msgstr "<b>Требуется пароль для запуска '%s'</b>"
+
+msgid "<b>Options to use when changing user</b>"
+msgstr "<b>Опции используемые после смены пользователя</b>"
+
+msgid "Advanced options"
+msgstr "Дополнительные опции"
+
+msgid "As user:"
+msgstr "Как пользователь:"
+
+msgid "Missing command to run."
+msgstr "Пропущена команда для запуска."
+
+msgid "Run program"
+msgstr "Запуск программы"
+
+msgid "Run:"
+msgstr "Запуск:"
+
+msgid "_Advanced"
+msgstr "_Дополнительно"
+
+msgid "_login shell"
+msgstr "_оболочка регистрации"

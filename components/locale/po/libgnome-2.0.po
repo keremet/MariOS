@@ -1,0 +1,1020 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgnome trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-19 18:35+0200\n"
+"PO-Revision-Date: 2010-03-17 20:43+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"%s\n"
+"Выполните «%s --help», чтобы получить полный список доступных параметров "
+"командной строки.\n"
+
+msgid ""
+"A list with names of the first window manager workspaces. This key has been "
+"deprecated since GNOME 2.12."
+msgstr ""
+"Список имён рабочих областей первого оконного менеджера. Этот ключ считается "
+"устаревшим начиная с GNOME 2.12."
+
+msgid ""
+"Acceleration multiplier for mouse motion. A value of -1 is the system "
+"default."
+msgstr ""
+"Множитель ускорения движения мыши. Значение -1 является системным значением "
+"по умолчанию."
+
+msgid "Allow postponing of breaks"
+msgstr "Разрешить откладывание перерыва"
+
+msgid "App ID"
+msgstr "Идентификатор приложения"
+
+msgid "App version"
+msgstr "Версия приложения"
+
+msgid "Application options"
+msgstr "Параметры приложения"
+
+msgid ""
+"Argument used to execute programs in the terminal defined by the 'exec' key."
+msgstr ""
+"Аргумент, используемый при запуске программ в терминале по ключу «exec»."
+
+msgid "Basename of the default theme used by gtk+."
+msgstr "Базовое имя темы по умолчанию, используемой GTK+."
+
+msgid "Beep when a modifier is pressed."
+msgstr "Подавать сигнал, когда модификатор нажат."
+
+msgid "Bonobo Support"
+msgstr "Поддержка системы Bonobo"
+
+msgid "Bonobo activation Support"
+msgstr "Поддержка активации системы Bonobo"
+
+msgid "Break time"
+msgstr "Период перерыва"
+
+msgid "Browser needs terminal"
+msgstr "Браузеру нужен терминал"
+
+msgid "Browser understands remote"
+msgstr "Браузер понимает удалённые команды"
+
+msgid "Buttons Have Icons"
+msgstr "Значки на кнопках"
+
+msgid "Calendar needs terminal"
+msgstr "Календарю нужен терминал"
+
+msgid "Can Change Accels"
+msgstr "Можно ли изменять комбинации клавиш"
+
+msgid "Cannot find a terminal, using xterm, even if it may not work"
+msgstr ""
+"Не удалось найти терминал, поэтому используется xterm, даже если это может "
+"не сработать"
+
+msgid "Choose menu item"
+msgstr "Выбор пункта меню"
+
+msgid "Click on command button"
+msgstr "Щелчок на кнопке"
+
+msgid "Color Shading Type"
+msgstr "Тип цветового перехода"
+
+msgid "Configuration prefix where GNOME was installed"
+msgstr "Прификс пути, по которому были установлены файлы настроек среды GNOME"
+
+msgid "Configuration prefix where this application was installed"
+msgstr ""
+"Префикс пути, по которому были установлены файлы настроек приложений среды "
+"GNOME"
+
+msgid "Could not create gnome accelerators directory `%s': %s\n"
+msgstr "Не удалось создать каталог «%s» комбинаций клавиш среды GNOME: %s\n"
+
+msgid "Could not create per-user gnome configuration directory `%s': %s\n"
+msgstr ""
+"Не удалось создать пользовательский каталог «%s» настроек среды GNOME: %s\n"
+
+msgid ""
+"Could not set mode 0700 on private per-user gnome configuration directory `"
+"%s': %s\n"
+msgstr ""
+"Не удалось установить режим доступа 0700 для пользовательского каталога «%s» "
+"настроек среды GNOME: %s\n"
+
+msgid ""
+"Could not stat private per-user gnome configuration directory `%s': %s\n"
+msgstr ""
+"Не удалось получить сведения о пользовательском каталоге «%s» настроек среды "
+"GNOME: %s\n"
+
+msgid "Create Directories"
+msgstr "Создать каталоги"
+
+msgid "Create standard GNOME directories on startup"
+msgstr "Создать при запуске стандартные каталоги среды GNOME"
+
+msgid "Cursor Blink"
+msgstr "Мигание курсора"
+
+msgid "Cursor Blink Time"
+msgstr "Время мигания курсора"
+
+msgid "Cursor font"
+msgstr "Шрифт курсора"
+
+msgid "Cursor size"
+msgstr "Размер курсора"
+
+msgid "Cursor theme"
+msgstr "Тема курсоров"
+
+msgid ""
+"Cursor theme name. Used only by Xservers that support Xcursor, such as "
+"XFree86 4.3 and later."
+msgstr ""
+"Имя темы курсоров. Используется только с X-серверами, которые поддерживают "
+"расширение Xcursor — такими, как XFree86 4.3 и более поздние."
+
+msgid "Data prefix where GNOME was installed"
+msgstr "Префикс пути, по которому были установлены данные среды GNOME"
+
+msgid "Data prefix where this application was installed"
+msgstr ""
+"Префикс пути, по которому были установлены данные приложений среды GNOME"
+
+msgid "Default Background"
+msgstr "Фон рабочего стола по умолчанию"
+
+msgid "Default browser"
+msgstr "Браузер по умолчанию"
+
+msgid "Default browser for all URLs."
+msgstr "Браузер по умолчанию для всех URL."
+
+msgid "Default calendar"
+msgstr "Календарь по умолчанию"
+
+msgid "Default calendar application"
+msgstr "Приложение календаря по умолчанию"
+
+msgid "Default font"
+msgstr "Шрифт по умолчанию"
+
+msgid "Default mixer device"
+msgstr "Устройство микшера по умолчанию"
+
+msgid "Default mixer tracks"
+msgstr "Каналы микшера по умолчанию"
+
+msgid "Default tasks"
+msgstr "Задачи по умолчанию"
+
+msgid "Default tasks application"
+msgstr "Приложение задач по умолчанию"
+
+msgid ""
+"Determines how the image set by wallpaper_filename is rendered. Possible "
+"values are \"none\", \"wallpaper\", \"centered\", \"scaled\", \"stretched\", "
+"\"zoom\", \"spanned\"."
+msgstr ""
+"Определяет, как будет отрисовываться изображение, установленное ключом "
+"wallpaper_filename. Возможные значения: «none», «wallpaper», «centered», "
+"«scaled», «stretched», «zoom», «spanned»."
+
+msgid "Disable URL and MIME type handlers"
+msgstr "Выключить обработчики ссылок и типов MIME"
+
+msgid "Disable all external thumbnailers"
+msgstr "Отключить все внешние миниатюризаторы"
+
+msgid "Disable command line"
+msgstr "Отключить командную строку"
+
+msgid "Disable if two keys are pressed at the same time."
+msgstr "Отключать, если две клавиши нажаты одновременно."
+
+msgid "Disable lock screen"
+msgstr "Отключить блокировку экрана"
+
+msgid "Disable print setup"
+msgstr "Отключить настройку печати"
+
+msgid "Disable printing"
+msgstr "Отключить печать"
+
+msgid "Disable saving files to disk"
+msgstr "Отключить сохранение файлов на диск"
+
+msgid "Disable sound server usage"
+msgstr "Отключить использование сервера звука"
+
+msgid "Disable user switching"
+msgstr "Отключить переключение пользователей"
+
+msgid "Distance before a drag is started."
+msgstr "Расстояние до начала перетаскивания."
+
+msgid ""
+"Distance in pixels the pointer must move before accelerated mouse motion is "
+"activated. A value of -1 is the system default."
+msgstr ""
+"Расстояние в пикселах, на которое надо передвинуть указатель, прежде чем "
+"будет активировано ускорение движения мыши. Значение -1 является системным "
+"значением по умолчанию."
+
+msgid ""
+"Do not accept a key as being pressed unless held for @delay milliseconds."
+msgstr "Не принимать нажатие, если оно длилось менее @delay миллисекунд."
+
+msgid "Document font"
+msgstr "Шрифт документа"
+
+msgid "Double Click Time"
+msgstr "Время двойного щелчка"
+
+msgid "Drag Threshold"
+msgstr "Порог перетаскивания"
+
+msgid "Draw Desktop Background"
+msgstr "Отрисовывать фон рабочего стола"
+
+msgid "Dynamic modules to load"
+msgstr "Динамически загружаемые модули"
+
+msgid "Enable Accessibility"
+msgstr "Включить специальные возможности"
+
+msgid "Enable Animations"
+msgstr "Включить анимацию"
+
+msgid "Enable ESD"
+msgstr "Включить ESD"
+
+msgid "Enable Sound"
+msgstr "Включить звук"
+
+msgid "Enable sound on startup"
+msgstr "Включить звук при запуске"
+
+msgid "Enable sound server startup."
+msgstr "Включить сервер звука."
+
+msgid "Enable sound server usage"
+msgstr "Включить использование сервера звука"
+
+msgid "Error message"
+msgstr "Сообщение об ошибке"
+
+msgid "Error showing url: %s\n"
+msgstr "Ошибка отображения URL: %s\n"
+
+msgid "Espeaker"
+msgstr "Espeaker"
+
+msgid "Exec Arguments"
+msgstr "Аргументы для ключа «exec»"
+
+msgid "Extra Moniker factory"
+msgstr "фабрика компонента Extra Moniker"
+
+msgid "Fallback window manager (deprecated)"
+msgstr "Резервный оконный менеджер (устарело)"
+
+msgid ""
+"Fallback window manager if user window manager can't be found. This key has "
+"been deprecated since GNOME 2.12."
+msgstr ""
+"Резервный оконный менеджер, если указанный пользователем не найден. Этот "
+"ключ является устаревшим начиная с GNOME 2.12."
+
+msgid "File Icon Theme"
+msgstr "Тема файловых значков"
+
+msgid "File name of the bell sound to be played."
+msgstr "Имя файла для звука гудка."
+
+msgid "File to use for the background image."
+msgstr "Файл, используемый в качестве фона рабочего стола."
+
+msgid ""
+"Font name of the cursor. If unset, the default font is used. This value is "
+"only propagated to the X server start of each session, so changing it mid-"
+"session won't have an effect until the next time you log in."
+msgstr ""
+"Название шрифта курсора. Если не установлено, будет использован шрифт по "
+"умолчанию. Это значение передаётся X-серверу только в начале сеанса, так что "
+"изменения, внесённые во время сеанса, не вступят в действие до следующего "
+"входа в систему."
+
+msgid "GConf moniker"
+msgstr "Моникер системы GConf"
+
+msgid "GNOME App Datadir"
+msgstr "Каталог данных приложений среды GNOME"
+
+msgid "GNOME App Libdir"
+msgstr "Каталог библиотек приложений среды GNOME"
+
+msgid "GNOME App Prefix"
+msgstr "Префикс приложений GNOME"
+
+msgid "GNOME App Sysconfdir"
+msgstr "Каталог настроек приложений среды GNOME"
+
+msgid "GNOME Datadir"
+msgstr "Каталог данных среды GNOME"
+
+msgid "GNOME GConf Support"
+msgstr "Поддержка системы GConf среды GNOME"
+
+msgid "GNOME Libdir"
+msgstr "Каталог библиотек среды GNOME"
+
+msgid "GNOME Library"
+msgstr "Библиотека среды GNOME"
+
+msgid "GNOME Prefix"
+msgstr "Префикс GNOME"
+
+msgid "GNOME Sysconfdir"
+msgstr "Каталог конфигурации системы среды GNOME"
+
+msgid "GNOME Virtual Filesystem"
+msgstr "Виртуальная файловая система среды GNOME"
+
+msgid "GNOME path"
+msgstr "Путь к среде GNOME"
+
+msgid ""
+"GNOME to start preferred Mobility assistive technology application during "
+"login."
+msgstr ""
+"Нужно ли запускать предпочтительное приложение помощи передвижению при входе "
+"в среду."
+
+msgid ""
+"GNOME to start preferred Visual assistive technology application during "
+"login."
+msgstr ""
+"Нужно ли запускать предпочтительное приложение помощи зрению при входе в "
+"среду."
+
+msgid "GOption Context"
+msgstr "Контекст GOption"
+
+msgid "GTK IM Module"
+msgstr "Модуль ввода GTK+"
+
+msgid "GTK IM Preedit Style"
+msgstr "Стиль предправки метода ввода GTK+"
+
+msgid "GTK IM Status Style"
+msgstr "Стиль состояния метода ввода GTK+"
+
+msgid "Gtk+ Theme"
+msgstr "Тема GTK+"
+
+msgid "HOSTNAME:PORT"
+msgstr "УЗЕЛ:ПОРТ"
+
+msgid "Have GNOME draw the desktop background."
+msgstr "Должна ли среда GNOME отрисовывать рабочий стол."
+
+msgid "Help document %s/%s not found"
+msgstr "Не удалось найти справочный документ %s/%s"
+
+msgid "Help options"
+msgstr "Параметры справки"
+
+msgid ""
+"Highlights the current location of the pointer when the Control key is "
+"pressed and released."
+msgstr ""
+"Подсвечивать ли текущее положение указателя при нажатии и отпускании клавиши "
+"Control."
+
+msgid "Host:port on which the sound server to use is running"
+msgstr "Узел:порт, на котором запущен сервер звука"
+
+msgid "How long to accelerate in milliseconds"
+msgstr "Как долго ускоряться (в миллисекундах)"
+
+msgid "How many milliseconds it takes to go from 0 to maximum speed."
+msgstr ""
+"Сколько миллисекунд требуется для набора скорости от 0 до максимальной."
+
+msgid ""
+"How many milliseconds to wait before mouse movement keys start to operate."
+msgstr ""
+"Сколько миллисекунд ожидать, прежде чем включать клавиши передвижения мыши."
+
+msgid "How many pixels per second to move at the maximum speed."
+msgstr "Сколько пикселей в секунду составляет максимальная скорость."
+
+msgid "How to connect to esd"
+msgstr "Как подключаться к демону esd"
+
+msgid ""
+"How to shade the background color. Possible values are \"horizontal-gradient"
+"\", \"vertical-gradient\", and \"solid\"."
+msgstr ""
+"Как изменять цвет фона. Возможные значения: «horizontal-gradient», «vertical-"
+"gradient» и «solid»."
+
+msgid "Human readable name"
+msgstr "Читаемое название"
+
+msgid "Human readable name of this application"
+msgstr "Читаемое название для этого приложения"
+
+msgid "ID string to use for this application"
+msgstr "Строка идентификатора, используемая для этого приложения"
+
+msgid "Icon Theme"
+msgstr "Тема значков"
+
+msgid "Icon theme to use for the panel, nautilus etc."
+msgstr "Тема значков, для использования в панели, Nautilus и других местах."
+
+msgid "Ignore multiple presses of the _same_ key within @delay milliseconds."
+msgstr ""
+"Игнорировать многократные нажатия одной клавиши в период @delay миллисекунд."
+
+msgid "Informational message"
+msgstr "Информационное сообщение"
+
+msgid "Initial delay in milliseconds"
+msgstr "Начальная задержка (в миллисекундах)"
+
+msgid "Input feedback sounds"
+msgstr "Звуки реакции на действия пользователя"
+
+msgid "Key %s not found in configuration"
+msgstr "Не удалось найти ключ «%s» в конфигурации"
+
+msgid "Keyboard Bell Custom Filename"
+msgstr "Имя файла клавиатурного гудка"
+
+msgid "Keyboard shortcut to open the menu bars."
+msgstr "Комбинация клавиш клавиатуры для открытия меню."
+
+msgid "Left or Top color when drawing gradients, or the solid color."
+msgstr "Левый или верхний цвета при отрисовке градиента, либо сплошной цвет."
+
+msgid "Length of a double click."
+msgstr "Длительность двойного щелчка."
+
+msgid "Length of the cursor blink cycle, in milliseconds."
+msgstr "Длина цикла мигания курсора (в миллисекундах)."
+
+msgid "Library prefix where GNOME was installed"
+msgstr "Префикс пути, по которому были установлены библиотеки среды GNOME"
+
+msgid "Library prefix where this application was installed"
+msgstr ""
+"Префикс пути, по которому были установлены библиотеки приложений среды GNOME"
+
+msgid ""
+"List of assistive technology applications to start when logging into the "
+"GNOME desktop."
+msgstr ""
+"Список приложений для людей с ограниченными возможностями, запускаемых при "
+"входе в среду GNOME."
+
+msgid "Locate Pointer"
+msgstr "Определять положение указателя"
+
+msgid "Log in"
+msgstr "Вход в систему"
+
+msgid "Log out"
+msgstr "Выход из системы"
+
+msgid "MODULE1,MODULE2,..."
+msgstr "МОДУЛЬ1,МОДУЛЬ2,..."
+
+msgid ""
+"Maximum age for thumbnails in the cache, in days. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"Максимальная давность миниатюр в кэше, в днях. Установите в -1 для "
+"выключения очистки кэша."
+
+msgid ""
+"Maximum size of the thumbnail cache, in megabytes. Set to -1 to disable "
+"cleaning."
+msgstr ""
+"Максимальный размер кэша, в мегабайтах. Установите в -1 для выключения "
+"очистки кэша."
+
+msgid "Menubar Detachable"
+msgstr "Открепляемые меню"
+
+msgid "Menubar accelerator"
+msgstr "Клавиатурный ускоритель меню"
+
+msgid "Menus Have Icons"
+msgstr "В меню показываются значки"
+
+msgid "Menus Have Tearoff"
+msgstr "В меню есть линии разрыва"
+
+msgid "Minimum interval in milliseconds"
+msgstr "Минимальный интервал (в миллисекундах)"
+
+msgid "Miscellaneous message"
+msgstr "Прочее сообщение"
+
+msgid "Module for GtkFileChooser"
+msgstr "Модуль для GtkFileChooser"
+
+msgid ""
+"Module to use as the filesystem model for the GtkFileChooser widget. "
+"Possible values are \"gio\", \"gnome-vfs\" and \"gtk+\"."
+msgstr ""
+"Модуль для использования в качестве модели файловой системы в виджете "
+"GtkFileChooser. Возможные значения: «gio», «gnome-vfs» и «gtk+»."
+
+msgid "Monospace font"
+msgstr "Моноширинный шрифт"
+
+msgid "Motion Threshold"
+msgstr "Порог движения"
+
+msgid "Mouse button orientation"
+msgstr "Ориентация кнопок мыши"
+
+msgid ""
+"Name of a monospaced (fixed-width) font for use in locations like terminals."
+msgstr ""
+"Название моноширинного (как у пишущей машинки) шрифта, используемого в "
+"приложениях вроде терминала."
+
+msgid "Name of the GTK+ input method Preedit Style used by gtk+."
+msgstr "Имя стиля предправки метода ввода GTK+."
+
+msgid "Name of the GTK+ input method Status Style used by gtk+."
+msgstr "Имя стиля состояния метода ввода GTK+."
+
+msgid "Name of the default font used by gtk+."
+msgstr "Название шрифта по умолчанию, используемого GTK+."
+
+msgid "Name of the default font used for reading documents."
+msgstr "Имя шрифта, используемого по умолчанию для чтения документов."
+
+msgid "Name of the input method module used by GTK+."
+msgstr "Название метода ввода, используемого GTK+."
+
+msgid "Names of the workspaces (deprecated)"
+msgstr "Имена рабочих областей (устарело)"
+
+msgid "Number of minutes of typing time before break mode starts."
+msgstr "Продолжительность периода активности до начала перерыва."
+
+msgid "Number of minutes that the typing break should last."
+msgstr "Продолжительность перерыва (в минутах)."
+
+msgid "Opacity with which to draw the background picture."
+msgstr "Непрозрачность, с которой следует отрисовывать фоновое изображение."
+
+msgid "Path in which to look for installed files"
+msgstr "Путь для поиска установленных файлов"
+
+msgid "Picture Filename"
+msgstr "Имя файла картинки"
+
+msgid "Picture Opacity"
+msgstr "Непрозрачность картинки"
+
+msgid "Picture Options"
+msgstr "Параметры картинки"
+
+msgid "Pixels per seconds"
+msgstr "Пикселей в секунду"
+
+msgid "Popt Context"
+msgstr "Контекст popt"
+
+msgid "Popt Flags"
+msgstr "Флаги popt"
+
+msgid "Popt Table"
+msgstr "Таблица popt"
+
+msgid "Preferred Mobility assistive technology application"
+msgstr "Предпочтительное приложение помощи передвижению"
+
+msgid ""
+"Preferred Mobility assistive technology application to be used for login, "
+"menu, or command line."
+msgstr ""
+"Предпочтительное приложение помощи передвижению, которое следует "
+"использовать при входе в систему, в меню или в командной строке."
+
+msgid "Preferred Visual assistive technology application"
+msgstr "Предпочтительное приложение помощи зрению"
+
+msgid ""
+"Preferred Visual assistive technology application be used for login, menu, "
+"or command line."
+msgstr ""
+"Предпочтительное приложение помощи зрению, которое следует использовать при "
+"входе в систему, в меню или в командной строке."
+
+msgid "Prefix where GNOME was installed"
+msgstr "Префикс пути, по которому была установлена среда GNOME"
+
+msgid "Prefix where this application was installed"
+msgstr "Префикс пути, по которому были установлены приложения среды GNOME"
+
+msgid "Prevent running any URL or MIME type handler applications."
+msgstr ""
+"Запретить запуск любых приложений для открытия ссылок и обработки файлов "
+"различных типов."
+
+msgid ""
+"Prevent the user from accessing the terminal or specifying a command line to "
+"be executed. For example, this would disable access to the panel's \"Run "
+"Application\" dialog."
+msgstr ""
+"Запрещает пользователю доступ к терминалу и командной строке. Например, "
+"будет отключён доступ к диалогу «Запуск приложения» панели."
+
+msgid ""
+"Prevent the user from modifying print settings. For example, this would "
+"disable access to all applications' \"Print Setup\" dialogs."
+msgstr ""
+"Запрещает пользователю изменение параметров печати. Например, будет отключён "
+"доступ к диалогу «Настройка печати» во всех приложениях."
+
+msgid ""
+"Prevent the user from printing. For example, this would disable access to "
+"all applications' \"Print\" dialogs."
+msgstr ""
+"Запрещает пользователю печать. Например, будет отключён доступ к диалогу "
+"«Печать» во всех приложениях."
+
+msgid ""
+"Prevent the user from saving files to disk. For example, this would disable "
+"access to all applications' \"Save as\" dialogs."
+msgstr ""
+"Запрещает пользователю сохранение файлов на диск. Например, будет отключён "
+"доступ к диалогу «Сохранить как» во всех приложениях."
+
+msgid ""
+"Prevent the user from switching to another account while his session is "
+"active."
+msgstr ""
+"Запрещает пользователю переключение на другую учётную запись, пока активен "
+"его сеанс."
+
+msgid "Prevent the user to lock his screen."
+msgstr "Запретить пользователю блокировку экрана."
+
+msgid "Primary Color"
+msgstr "Первичный цвет"
+
+msgid "Question dialog"
+msgstr "Диалог вопроса"
+
+msgid "Remember NumLock state"
+msgstr "Запоминать состояние NumLock"
+
+msgid "Right or Bottom color when drawing gradients, not used for solid color."
+msgstr ""
+"Правый или нижний цвета при отрисовке градиента. Не используется при "
+"сплошном цвете."
+
+msgid "Secondary Color"
+msgstr "Вторичный цвет"
+
+msgid "Select check box"
+msgstr "Установка или снятие флажка"
+
+msgid ""
+"Set to true to disable all external thumbnailer programs, independent on "
+"whether they are independently disabled/enabled."
+msgstr ""
+"Установите этот ключ, чтобы отключить все внешние программы миниатюризации, "
+"независимо от того, включены они или отключены другими способами."
+
+msgid "Show GNOME options"
+msgstr "Показывать параметры GNOME"
+
+msgid "Show the 'Input Methods' menu"
+msgstr "Показывать меню «Использовать методы ввода»"
+
+msgid "Show the 'Unicode Control Character' menu"
+msgstr "Показывать меню «Вставить управляющий символ набора Юникод»"
+
+msgid "Single Click"
+msgstr "Одиночный щелчок"
+
+msgid "Single click to open icons."
+msgstr "Открывать значки одиночным щелчком."
+
+msgid ""
+"Size of icons in toolbars, either \"small-toolbar\" or \"large-toolbar\"."
+msgstr ""
+"Размер значков на панелях инструментов: либо «small-toolbar», либо «large-"
+"toolbar»."
+
+msgid "Size of the cursor referenced by cursor_theme."
+msgstr "Размер курсора, на который ссылается ключ cursor_theme."
+
+msgid "Sound theme name"
+msgstr "Имя звуковой темы"
+
+msgid "Sounds for events"
+msgstr "Звуки для событий"
+
+msgid "Start preferred Mobility assistive technology application"
+msgstr "Запускать предпочтительное приложение помощи передвижению"
+
+msgid "Start preferred Visual assistive technology application"
+msgstr "Запускать предпочтительное приложение помощи зрению"
+
+msgid "Startup Assistive Technology Applications"
+msgstr "Запускаемые при входе приложения специальных возможностей"
+
+msgid "Status Bar on Right"
+msgstr "Строка состояния справа"
+
+msgid "Swap left and right mouse buttons for left-handed mice."
+msgstr "Поменять местами правую и левую кнопки для мышей под левую руку."
+
+msgid "System events"
+msgstr "Системные события"
+
+msgid "Tasks needs terminal"
+msgstr "Задачам нужен терминал"
+
+msgid "Terminal application"
+msgstr "Терминал"
+
+msgid "Terminal program to use when starting applications that require one."
+msgstr ""
+"Терминал, который используется для запуска нуждающихся в нём приложений."
+
+msgid "The XDG sound theme to use for event sounds."
+msgstr "Звуковая тема XDG для событий."
+
+msgid "The default action does not support this protocol."
+msgstr "Действие по умолчанию не поддерживает этот протокол."
+
+msgid "The default mixer device used by the multimedia key bindings."
+msgstr ""
+"Устройство микшера, используемое по умолчанию для привязки мультимедийных "
+"клавиш."
+
+msgid "The default mixer tracks used by the multimedia key bindings."
+msgstr ""
+"Каналы микшера, используемые по умолчанию для привязки мультимедийных клавиш."
+
+msgid "The flags to use for popt"
+msgstr "Флаги, используемые для popt"
+
+msgid "The goption context pointer that GnomeProgram is using"
+msgstr "Указатель контекста goption, используемый GnomeProgram"
+
+msgid "The host \"%s\" could not be found."
+msgstr "Не удалось найти узел «%s»."
+
+msgid "The host could not be found."
+msgstr "Не удалось найти узел."
+
+msgid "The location or file could not be found."
+msgstr "Не удалось найти файл или адрес."
+
+msgid "The login has failed."
+msgstr "Не удалось войти в систему."
+
+msgid "The number of workspaces (deprecated)"
+msgstr "Число рабочих областей (устарело)"
+
+msgid ""
+"The number of workspaces the window manager should use This key has been "
+"deprecated since GNOME 2.12."
+msgstr ""
+"Число рабочих областей, которые следует иметь оконному менеджеру. Этот ключ "
+"является устаревшим начиная с GNOME 2.12."
+
+msgid "The popt context pointer that GnomeProgram is using"
+msgstr "Указатель контекста popt, используемый GnomeProgram"
+
+msgid "The request was cancelled."
+msgstr "Запрос был отменён."
+
+msgid "The specified location is invalid."
+msgstr "Указанный адрес недопустим."
+
+msgid "The table of options for popt"
+msgstr "Таблица параметров для popt"
+
+msgid "Theme used for displaying file icons."
+msgstr "Тема, используемая для показа значков файлов."
+
+msgid "There is no default action associated with this location."
+msgstr "Отсутствует действие по умолчанию, связанное с этим адресом."
+
+msgid ""
+"There was an error launching the default action command associated with this "
+"location."
+msgstr ""
+"Произошла ошибка при запуске команды по умолчанию, связанной с этим адресом."
+
+msgid ""
+"There was an error parsing the default action command associated with this "
+"location."
+msgstr ""
+"Произошла ошибка при разборе команды по умолчанию, связанной с этим адресом."
+
+msgid "Toolbar Detachable"
+msgstr "Открепляемые панели инструментов"
+
+msgid "Toolbar Icon Size"
+msgstr "Размер значков на панелях инструментов"
+
+msgid "Toolbar Style"
+msgstr "Стиль панелей инструментов"
+
+msgid ""
+"Toolbar Style. Valid values are \"both\", \"both-horiz\", \"icons\", and "
+"\"text\"."
+msgstr ""
+"Стиль панелей инструментов. Возможные значения: «both», «both_horiz», "
+"«icon», «text»."
+
+msgid "Type time"
+msgstr "Период активности"
+
+msgid "Unable to find doc_id %s in the help path"
+msgstr "Не удалось найти идентификатор документа «%s» в пути к справке"
+
+msgid "Unable to find help paths %s or %s. Please check your installation"
+msgstr ""
+"Не удалось найти пути справки %s или %s. Проверьте правильность установки."
+
+msgid "Unable to find the GNOME_FILE_DOMAIN_APP_HELP domain"
+msgstr "Не удалось найти домен GNOME_FILE_DOMAIN_APP_HELP"
+
+msgid "Unable to find the GNOME_FILE_DOMAIN_HELP domain."
+msgstr "Не удалось найти домен GNOME_FILE_DOMAIN_HELP."
+
+msgid ""
+"Unable to find the help files in either %s or %s.  Please check your "
+"installation"
+msgstr ""
+"Не удалось найти файлы справки: ни в «%s», ни в «%s». Проверьте правильность "
+"установки."
+
+msgid ""
+"Unable to show help as %s is not a directory.  Please check your "
+"installation."
+msgstr ""
+"Не удалось показать справку, так как %s не является каталогом. Проверьте "
+"правильность установки."
+
+msgid "Unknown internal error while displaying this location."
+msgstr "При отображении этого адреса произошла неизвестная внутренняя ошибка."
+
+msgid "Unknown type"
+msgstr "Неизвестный тип"
+
+msgid "Use Custom Font"
+msgstr "Использовать другой шрифт"
+
+msgid "User interface events"
+msgstr "События пользовательского интерфейса"
+
+msgid "User window manager (deprecated)"
+msgstr "Пользовательский оконный менеджер (устарело)"
+
+msgid "Version of this application"
+msgstr "Версия этого приложения"
+
+msgid "Warning message"
+msgstr "Предупреждающее сообщение"
+
+msgid ""
+"When set to true, GNOME will remember the state of the NumLock LED between "
+"sessions."
+msgstr ""
+"Если этот ключ установлен, GNOME будет сохранять состояние переключателя "
+"NumLock между сеансами."
+
+msgid "Whether Applications should have accessibility support."
+msgstr "Поддерживать ли специальные возможности в приложениях."
+
+msgid ""
+"Whether animations should be displayed. Note: This is a global key, it "
+"changes the behaviour of the window manager, the panel etc."
+msgstr ""
+"Отображать ли анимацию. Обратите внимание: это глобальный ключ, его "
+"изменение повлияет на поведение оконного менеджера, панели и так далее."
+
+msgid "Whether buttons may display an icon in addition to the button text."
+msgstr "Показывать ли значки в кнопках вместе с текстом."
+
+msgid "Whether menus may display an icon next to a menu entry."
+msgstr "Показывать ли значки в пунктах меню."
+
+msgid "Whether menus should have a tearoff."
+msgstr "Показывать ли линию отрыва в меню."
+
+msgid "Whether or not keyboard locking is enabled"
+msgstr "Включено ли блокирование клавиатуры"
+
+msgid "Whether or not keyboard locking is enabled."
+msgstr "Включено ли блокирование клавиатуры."
+
+msgid "Whether or not the typing break screen can be postponed."
+msgstr "Возможно ли отложить перерыв."
+
+msgid ""
+"Whether the context menus of entries and text views should offer to change "
+"the input method."
+msgstr ""
+"Должны ли контекстные меню элементов ввода текста предлагать сменить метод "
+"ввода."
+
+msgid ""
+"Whether the context menus of entries and text views should offer to insert "
+"control characters."
+msgstr ""
+"Должны ли контекстные меню элементов ввода текста предлагать вставить "
+"управляющие символы."
+
+msgid "Whether the cursor should blink."
+msgstr "Должен ли курсор мигать."
+
+msgid "Whether the default browser needs a terminal to run."
+msgstr "Нуждается ли браузер по умолчанию в терминале."
+
+msgid "Whether the default browser understands netscape remote."
+msgstr "Понимает ли браузер по умолчанию удалённые команды netscape."
+
+msgid "Whether the default calendar application needs a terminal to run"
+msgstr "Нуждается ли приложение календаря по умолчанию в терминале."
+
+msgid "Whether the default tasks application needs a terminal to run"
+msgstr "Нуждается ли приложение задач по умолчанию в терминале."
+
+msgid "Whether the user can detach menubars and move them around."
+msgstr "Может ли пользователь откреплять меню и передвигать их по экрану."
+
+msgid "Whether the user can detach toolbars and move them around."
+msgstr ""
+"Может ли пользователь откреплять панели инструментов и передвигать их по "
+"экрану."
+
+msgid ""
+"Whether the user can dynamically type a new accelerator when positioned over "
+"an active menuitem."
+msgstr ""
+"Может ли пользователь динамически вводить новую комбинацию клавиш для пункта "
+"меню при указании на него."
+
+msgid "Whether to display a status bar meter on the right."
+msgstr "Отображать ли область для переноса в строке состояния справа."
+
+msgid "Whether to play sounds on input events."
+msgstr "Следует ли проигрывать звуки при возникновении событий."
+
+msgid "Whether to play sounds on user events."
+msgstr "Подавать ли звуки при наступлении событий."
+
+msgid "Whether to use a custom font in gtk+ applications."
+msgstr "Следует ли использовать другой шрифт в приложениях GTK+."
+
+msgid ""
+"Window manager to try first. This key has been deprecated since GNOME 2.12."
+msgstr ""
+"Оконный менеджер, который необходимо пробовать первым. Этот ключ считается "
+"устаревшим начиная с GNOME 2.12."
+
+msgid "config indirect moniker"
+msgstr "моникер типа config indirect"
+
+msgid "minimum interval in milliseconds"
+msgstr "Минимальный интервал (в миллисекундах)"
+
+msgid "possible values are \"on\", \"off\", and \"custom\"."
+msgstr "возможные значения: «on», «off» и «custom»."

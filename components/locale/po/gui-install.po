@@ -1,0 +1,868 @@
+msgid "\n"
+msgstr "\n"
+
+msgid " "
+msgstr " "
+
+msgid "\"%s\" cannot be used"
+msgstr "   \"%s\""
+
+msgid "%.1f GB %s"
+msgstr "%.1f  %s"
+
+msgid "%.1f GB disk"
+msgstr "%.1f  "
+
+msgid "%.1f GB disk (%s)"
+msgstr "%.1f   (%s)"
+
+msgid "%.1f GB disk (%s) with %s"
+msgstr "%.1f   (%s)  %s"
+
+msgid "%.1f GB disk with %s"
+msgstr "%.1f    %s"
+
+msgid "%.1f GB partition on %.1f GB disk"
+msgstr " %.1f   %.1f  "
+
+msgid "%.1f GB partition on %.1f GB disk (%s)"
+msgstr " %.1f   %.1f   (%s)"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s\n"
+msgstr "%s\n"
+
+msgid ""
+"%s%c\n"
+"%s"
+msgstr ""
+"%s%c\n"
+"%s"
+
+msgid ""
+"%s%c\n"
+"%s,"
+msgstr ""
+"%s%c\n"
+"%s,"
+
+msgid "%s%c%s"
+msgstr "%s%c%s"
+
+msgid "%s%c%s,"
+msgstr "%s%c%s,"
+
+msgid "%ss%d"
+msgstr "%ss%d"
+
+msgid "-"
+msgstr "-"
+
+msgid "- Select -"
+msgstr "-  -"
+
+msgid ":"
+msgstr ":"
+
+msgid "<span font_desc=\"Arial Bold\">Conf_irm password:</span>"
+msgstr "<span font_desc=\"Arial Bold\"> _:</span>"
+
+msgid ""
+"<span font_desc=\"Arial Bold\">Create a user account for yourself. It will "
+"have administrative privileges.</span>"
+msgstr "<span font_desc=\"Arial Bold\">   .     .</span>"
+
+msgid "<span font_desc=\"Arial Bold\">Disk</span>"
+msgstr "<span font_desc=\"Arial Bold\"></span>"
+
+msgid ""
+"<span font_desc=\"Arial Bold\">Enter a computer name for this system.</span>"
+msgstr "<span font_desc=\"Arial Bold\">     .</span>"
+
+msgid "<span font_desc=\"Arial Bold\">Locale</span>"
+msgstr "<span font_desc=\"Arial Bold\"> </span>"
+
+msgid "<span font_desc=\"Arial Bold\">Software</span>"
+msgstr "<span font_desc=\"Arial Bold\"> </span>"
+
+msgid "<span font_desc=\"Arial Bold\">Timezone</span>"
+msgstr "<span font_desc=\"Arial Bold\"> </span>"
+
+msgid "<span font_desc=\"Arial Bold\">Users</span>"
+msgstr "<span font_desc=\"Arial Bold\"></span>"
+
+msgid "<span font_desc=\"Arial Bold\">_Computer name:</span>"
+msgstr "<span font_desc=\"Arial Bold\">_ :</span>"
+
+msgid "<span font_desc=\"Arial Bold\">_Log-in name:</span>"
+msgstr "<span font_desc=\"Arial Bold\">_ :</span>"
+
+msgid "<span font_desc=\"Arial Bold\">_User password:</span>"
+msgstr "<span font_desc=\"Arial Bold\">_ :</span>"
+
+msgid "<span font_desc=\"Arial Bold\">_Your real name:</span>"
+msgstr "<span font_desc=\"Arial Bold\">_  :</span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#587993\">Welcome</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#587993\"> </span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Disk</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"></span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Finish</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"></span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Installation</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"></span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Locale</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"> </span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Time Zone</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"> </span>"
+
+msgid "<span font_desc=\"Bold\" foreground=\"#595A5E\">Users</span>"
+msgstr "<span font_desc=\"Bold\" foreground=\"#595A5E\"></span>"
+
+msgid ""
+"<span font_desc=\"Bold\" size=\"x-large\" foreground=\"#587993\">Welcome</"
+"span>"
+msgstr ""
+"<span font_desc=\"Bold\" size=\"x-large\" foreground=\"#587993\"> </span>"
+
+msgid "<span font_desc=\"Bold\"> </span>"
+msgstr "<span font_desc=\"Bold\"> </span>"
+
+msgid "<span font_desc=\"Bold\">Avail</span>"
+msgstr "<span font_desc=\"Bold\"></span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Checking for sufficient free space on the Oracle "
+"Solaris environment to perform Oracle Solaris upgrade.</span>"
+msgstr ""
+"<span font_desc=\"Bold\">     Oracle Solaris     Oracle Solaris.</span>"
+
+msgid "<span font_desc=\"Bold\">Finding Oracle Solaris Environments</span>"
+msgstr "<span font_desc=\"Bold\">  Oracle Solaris</span>"
+
+msgid ""
+"<span font_desc=\"Bold\">I _accept the terms of the license agreement.</span>"
+msgstr "<span font_desc=\"Bold\"> _   .</span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Installation is complete. Click \"Reboot\" to start "
+"the system.</span>"
+msgstr "<span font_desc=\"Bold\"> .     .</span>"
+
+msgid "<span font_desc=\"Bold\">No Oracle Solaris environments</span>"
+msgstr "<span font_desc=\"Bold\">  Oracle Solaris</span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Oracle Solaris can be installed on the whole disk "
+"or on a partition on the disk.</span>"
+msgstr "<span font_desc=\"Bold\"> Oracle Solaris          .</span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Oracle Solaris installation did not complete "
+"normally.</span>"
+msgstr "<span font_desc=\"Bold\">   Oracle Solaris  .</span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Oracle Solaris installation is complete. Review the "
+"Oracle Solaris installation log for more information.</span>"
+msgstr ""
+"<span font_desc=\"Bold\">  Oracle Solaris .     .   Oracle Solaris.</span>"
+
+msgid "<span font_desc=\"Bold\">Oracle Solaris</span>"
+msgstr "<span font_desc=\"Bold\">Oracle Solaris</span>"
+
+msgid "<span font_desc=\"Bold\">Partition Type</span>"
+msgstr "<span font_desc=\"Bold\"> </span>"
+
+msgid ""
+"<span font_desc=\"Bold\">Select the Solaris file system to be upgraded.</"
+"span>"
+msgstr "<span font_desc=\"Bold\">   Solaris   .</span>"
+
+msgid "<span font_desc=\"Bold\">Size (GB)</span>"
+msgstr "<span font_desc=\"Bold\"> ()</span>"
+
+msgid "<span font_desc=\"Bold\">Time _Zone:</span>"
+msgstr "<span font_desc=\"Bold\"> _:</span>"
+
+msgid "<span font_desc=\"Bold\">Use the _whole disk</span>"
+msgstr "<span font_desc=\"Bold\"> _ </span>"
+
+msgid "<span font_desc=\"Bold\">_Date:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span font_desc=\"Bold\">_Language:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span font_desc=\"Bold\">_Location:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span font_desc=\"Bold\">_Partition the disk</span>"
+msgstr "<span font_desc=\"Bold\">_ </span>"
+
+msgid "<span font_desc=\"Bold\">_Region:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span font_desc=\"Bold\">_Territory:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span font_desc=\"Bold\">_Time:</span>"
+msgstr "<span font_desc=\"Bold\">_:</span>"
+
+msgid "<span foreground=\"#5582a3\">Oracle Solaris installation log</span>"
+msgstr "<span foreground=\"#5582a3\">  Oracle Solaris</span>"
+
+msgid "<span foreground=\"#5582a3\">Release Notes</span>"
+msgstr "<span foreground=\"#5582a3\">  </span>"
+
+msgid "<span foreground=\"#5582a3\">Review license agreement</span>"
+msgstr "<span foreground=\"#5582a3\">   </span>"
+
+msgid "<span size=\"small\">YYYY - MM - DD</span>"
+msgstr "<span size=\"small\"> -  - </span>"
+
+msgid "<span size=\"smaller\"><span font_desc=\"Bold\">Error: </span>%s</span>"
+msgstr "<span size=\"smaller\"><span font_desc=\"Bold\">: </span>%s</span>"
+
+msgid ""
+"<span size=\"smaller\"><span font_desc=\"Bold\">Warning: </span> Entire disk "
+"will be erased.</span>"
+msgstr "<span size=\"smaller\"><span font_desc=\"Bold\">: </span>    .</span>"
+
+msgid ""
+"<span size=\"smaller\"><span font_desc=\"Bold\">Warning: </span> The data in "
+"this partition will be erased.</span>"
+msgstr ""
+"<span size=\"smaller\"><span font_desc=\"Bold\">: </span>      .</span>"
+
+msgid ""
+"<span size=\"smaller\"><span font_desc=\"Bold\">Warning: </span>The data in "
+"this partition will be erased.</span>"
+msgstr ""
+"<span size=\"smaller\"><span font_desc=\"Bold\">: </span>      .</span>"
+
+msgid ""
+"<span>For more information, you can review the Oracle Solaris installation "
+"log.</span>"
+msgstr "<span>    .   Oracle Solaris.</span>"
+
+msgid "A computer name is required."
+msgstr "  ."
+
+msgid ""
+"AM\n"
+"PM\n"
+"24 Hour\n"
+msgstr ""
+"AM\n"
+"PM\n"
+"24 \n"
+
+msgid "ATA"
+msgstr "ATA"
+
+msgid "Adjustments were made to the size of some new or resized partitions."
+msgstr "         ."
+
+msgid "An unknown internal error (Orchestrator) occurred."
+msgstr "    (Orchestrator)."
+
+msgid "Bootenvrc file is missing."
+msgstr "  Bootenvrc."
+
+msgid "C/POSIX"
+msgstr "C/POSIX"
+
+msgid "C/Posix"
+msgstr "C/Posix"
+
+msgid "Change the extra Solaris partitions to another type."
+msgstr "    Solaris."
+
+msgid "Checking for free space"
+msgstr "   "
+
+msgid "Choose another type."
+msgstr "  ."
+
+msgid "Cluster file is missing."
+msgstr "  Cluster."
+
+msgid "Clustertoc file is missing."
+msgstr "  Clustertoc."
+
+msgid "Computer name contains invalid characters."
+msgstr "    ."
+
+msgid "Computer name ends with invalid character."
+msgstr "    ."
+
+msgid "Computer name exceeds maximum length."
+msgstr "    ."
+
+msgid "Confirmation"
+msgstr ""
+
+msgid "Contains a misconfigured non-global zone."
+msgstr "    ."
+
+msgid "Create one Solaris partition or use the whole disk."
+msgstr "   Solaris    ."
+
+msgid "Date and Time"
+msgstr "  "
+
+msgid "Default Language: %s"
+msgstr "  : %s"
+
+msgid "Desktop (GNOME 2.28)"
+msgstr "  (GNOME 2.28)"
+
+msgid "Disk"
+msgstr ""
+
+msgid "Do you accept the terms of the license agreement ?"
+msgstr "     ?"
+
+msgid "Do you want to quit this installation ?"
+msgstr "   ?"
+
+msgid ""
+"Error code: %s\n"
+"This is an unexpected, internal error. It is not safe to continue with "
+"installation of this system and you should quit the installation process now."
+msgstr ""
+" : %s\n"
+"   .     ;     ."
+
+msgid "Failed to add %s to pair list"
+msgstr "   %s   "
+
+msgid "Failed to add OM_ATTR_INSTALL_TEST to pair list"
+msgstr "   OM_ATTR_INSTALL_TEST   "
+
+msgid "Failed to allocate named pair list"
+msgstr "     "
+
+msgid "Failed to mount root."
+msgstr "   root."
+
+msgid "Failed to mount var."
+msgstr "   var."
+
+msgid "Failure"
+msgstr ""
+
+msgid "Fibre"
+msgstr ""
+
+msgid "Finding Disks"
+msgstr " "
+
+msgid "Finish"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Free space checking failed"
+msgstr "     "
+
+msgid "Host name: %s"
+msgstr " : %s"
+
+msgid "IEEE1394"
+msgstr "IEEE1394"
+
+msgid "Increase the size of the Solaris partition."
+msgstr "   Solaris."
+
+msgid "Installation"
+msgstr ""
+
+msgid "Installation Failed"
+msgstr "  "
+
+msgid "Installation Log"
+msgstr " "
+
+msgid "Installer Startup Terminated"
+msgstr "   "
+
+msgid "Installing"
+msgstr ""
+
+msgid "Insufficient free space."
+msgstr "  ."
+
+msgid "Internal partitioning error."
+msgstr "    ."
+
+msgid "Invalid Computer Name"
+msgstr "  "
+
+msgid ""
+"Invalid Log-in name.\n"
+"Enter a different Log-in name."
+msgstr ""
+"  .\n"
+"   ."
+
+msgid "Invalid User Account"
+msgstr "   "
+
+msgid "Language Support:"
+msgstr " :"
+
+msgid "License Agreement"
+msgstr " "
+
+msgid "Locale"
+msgstr " "
+
+msgid "Log-in must be entered."
+msgstr "   ."
+
+msgid "Log-in name cannot be all digits"
+msgstr "       "
+
+msgid "Log-in name cannot be greater than 8 characters"
+msgstr "      8 "
+
+msgid "Meta cluster is wrong."
+msgstr " -."
+
+msgid "NO"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No default language support"
+msgstr "    "
+
+msgid "No disk has been selected for Oracle Solaris installation."
+msgstr "      Oracle Solaris."
+
+msgid "No disks were found."
+msgstr "  ."
+
+msgid "No upgradeable Oracle Solaris Environments"
+msgstr "   Oracle Solaris"
+
+msgid "No user account."
+msgstr "   ."
+
+msgid "Only one extended partition can exist."
+msgstr "     ."
+
+msgid ""
+"Only one instance of this Installer is allowed. Another instance is already "
+"running."
+msgstr "      .    ."
+
+msgid "Oracle Solaris"
+msgstr " Oracle Solaris"
+
+msgid ""
+"Oracle Solaris Developer Preview 2 upgrade did not complete normally. The "
+"system has been restored to its previous state."
+msgstr "  Oracle Solaris Developer Preview 2  .   ."
+
+msgid "Oracle Solaris Help"
+msgstr "  Oracle Solaris "
+
+msgid "Oracle Solaris Installer"
+msgstr "   Oracle Solaris "
+
+msgid ""
+"Oracle Solaris does not support changing the partition type when two or more "
+"of that type exist on the disk. Please Quit the installer, run fdisk in the "
+"terminal window to create the Solaris partition, then restart the installer."
+msgstr " Oracle Solaris      ,        .   ,      fdisk    Solaris,     ."
+
+msgid "Oracle Solaris installation did not complete normally."
+msgstr "  Oracle Solaris  ."
+
+msgid ""
+"Oracle Solaris installation is complete. Review the Oracle Solaris "
+"installation log for more information"
+msgstr "  Oracle Solaris .     .   Oracle Solaris"
+
+msgid "Oracle Solaris installation log"
+msgstr "  Oracle Solaris"
+
+msgid ""
+"Oracle Solaris upgrade is complete. Review the Oracle Solaris upgrade log "
+"for more information"
+msgstr "  Oracle Solaris .    .   Oracle Solaris"
+
+msgid "Oracle Solaris upgrade log"
+msgstr "  Oracle Solaris"
+
+msgid "Password must contain 1 alphabetical character."
+msgstr "     ."
+
+msgid "Password must contain 1 digit/special character."
+msgstr "        ."
+
+msgid "Password must contain at least 6 characters."
+msgstr "     6 ."
+
+msgid "Passwords do not match."
+msgstr "  ."
+
+msgid "Performing post-installation tasks"
+msgstr "    "
+
+msgid "Performing upgrade check"
+msgstr "   "
+
+msgid "Please select a valid time zone"
+msgstr "   ."
+
+msgid "Preparing disk for Oracle Solaris installation"
+msgstr "     Oracle Solaris "
+
+msgid "Re-enter to check for typing errors."
+msgstr "    ."
+
+msgid "Recommended size: %lldGB Minimum: %.1fGB"
+msgstr " : %lld : %.1f"
+
+msgid ""
+"Reduce the size of one or more partitions until the available disk space is "
+"zero."
+msgstr "     ,       ."
+
+msgid ""
+"Review the settings below before installing. Click the back button to make "
+"changes."
+msgstr "    .      ."
+
+msgid "Root Password: Same as user account."
+msgstr " root:       ."
+
+msgid "Root fs is corrupted."
+msgstr "   ."
+
+msgid "SATA"
+msgstr "SATA"
+
+msgid "SCSI"
+msgstr "SCSI"
+
+msgid ""
+"Select a city near you on the map or set your time zone below,then set the "
+"date and time."
+msgstr "         ,      ."
+
+msgid "Select a disk."
+msgstr " ."
+
+msgid "Select another disk."
+msgstr "  ."
+
+msgid "Set the default language support and locale specific data formats."
+msgstr "       ,    ."
+
+msgid ""
+"Size: %.1f%s\n"
+"Type: %s\n"
+"Vendor: %s\n"
+"Device: %s\n"
+"Boot device: %s"
+msgstr ""
+": %.1f%s\n"
+": %s\n"
+": %s\n"
+": %s\n"
+" : %s"
+
+msgid ""
+"Size: %.1fGB\n"
+"Type: %s\n"
+"Vendor: %s\n"
+"Device: %s\n"
+"Boot device: %s"
+msgstr ""
+": %.1f\n"
+": %s\n"
+": %s\n"
+": %s\n"
+" : %s"
+
+msgid "Target Discovery failed to start\n"
+msgstr "   Target Discovery\n"
+
+msgid ""
+"Thanks for choosing to install the Oracle Solaris OS! Before you start, "
+"review the Release Notes for this release for a list of known problems. For "
+"detailed step-by-step procedures for completing this installation, select "
+"the Getting Started With Oracle Solaris icon on the Live CD desktop."
+msgstr ""
+"     Oracle Solaris!    ,        \"  \"        \"   Oracle Solaris\"    - "
+"Live CD."
+
+msgid ""
+"The Log-in name cannot be blank.\n"
+"Enter a Log-in name."
+msgstr ""
+"     .\n"
+"  ."
+
+msgid "The Solaris partition is too small for Solaris installation."
+msgstr " Solaris      Solaris."
+
+msgid ""
+"The computer name cannot be blank. It has been reset to the default value.\n"
+"Click Cancel to set a different computer name."
+msgstr ""
+"     .  ,   .\n"
+"      ."
+
+msgid ""
+"The computer name contains invalid characters.\n"
+"Enter a valid computer name."
+msgstr ""
+"    .\n"
+"   ."
+
+msgid "The disk space has been over allocated."
+msgstr "   ."
+
+msgid "The entire disk will be erased"
+msgstr "   "
+
+msgid "The entire disk will be erased, usable size limited to 2TB"
+msgstr "   ,    2 "
+
+msgid ""
+"The following partition is proposed. The existing partition table cannot be "
+"read."
+msgstr "  .      ."
+
+msgid "The following partitions, in physical order, were found on the disk."
+msgstr "     (  )."
+
+msgid ""
+"The installer encountered an internal error validating the selected Oracle "
+"Solaris environment. It can not be upgraded."
+msgstr "     Oracle Solaris     .   ."
+
+msgid "The instance is a mirror."
+msgstr " -   ."
+
+msgid "The instance is incomplete."
+msgstr " ."
+
+msgid "The release information is missing."
+msgstr "   ."
+
+msgid ""
+"The requested partitioning would require existing partitions to be moved. \n"
+"\n"
+"Click cancel to review the adjustments. "
+msgstr ""
+"     . \n"
+"\n"
+" \"\"   . "
+
+msgid "The selected disk contains no Solaris partitions."
+msgstr "     Solaris."
+
+msgid "The selected disk is not suitable for Oracle Solaris installation."
+msgstr "       Oracle Solaris."
+
+msgid "The selected disk is smaller than the recommended minimum size."
+msgstr "      ."
+
+msgid "The selected partition is smaller than the recommended minimum size."
+msgstr "      ."
+
+msgid "The system may take a few minutes to shut down and reboot."
+msgstr "         ."
+
+msgid ""
+"The two user passwords do not match\n"
+"Re-enter the user password."
+msgstr ""
+"    \n"
+"   ."
+
+msgid ""
+"The user password cannot be blank.\n"
+"Enter a user password."
+msgstr ""
+"     .\n"
+"  ."
+
+msgid "The whole installation will take up %.1fGB hard disk space."
+msgstr "         %.1f."
+
+msgid ""
+"There is insufficient free space to upgrade the selected Oracle Solaris "
+"environment."
+msgstr "       Oracle Solaris."
+
+msgid ""
+"There must be one Solaris partition. It will be the target for this "
+"installation."
+msgstr "    Solaris.      ."
+
+msgid "There must be only one Solaris partition."
+msgstr "     Solaris."
+
+msgid "This disk is too small"
+msgstr "    "
+
+msgid "This disk will be erased"
+msgstr "  "
+
+msgid ""
+"This installer will not upgrade existing installations of Oracle Solaris. If "
+"you would like to upgrade an existing installation, select the Getting "
+"Started With Oracle Solaris icon on the Live CD desktop, and review the "
+"upgrade instructions in that document."
+msgstr ""
+"         Oracle Solaris.      ,      Oracle Solaris    - Live CD         ."
+
+msgid "This may take several minutes..."
+msgstr "    ..."
+
+msgid "This partition will be erased"
+msgstr "   "
+
+msgid "This release is not supported."
+msgstr "   ."
+
+msgid "This storage device contains no media"
+msgstr "     "
+
+msgid "Time Zone"
+msgstr " "
+
+msgid "Time Zone Invalid"
+msgstr "  "
+
+msgid "Time Zone, Date and Time"
+msgstr " ,   "
+
+msgid ""
+"To review the license agreement click Cancel, then click 'Review license "
+"agreement'."
+msgstr "     ,     ."
+
+msgid "USB"
+msgstr "USB-"
+
+msgid "Unable to display release notes"
+msgstr "    "
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown Language"
+msgstr " "
+
+msgid "Unknown error."
+msgstr " ."
+
+msgid "Unsupported partitioning configuration."
+msgstr "    ."
+
+msgid "Updating Oracle Solaris software"
+msgstr "    Oracle Solaris "
+
+msgid "Upgrade Log"
+msgstr " "
+
+msgid "Upgrade target validation error."
+msgstr "    ."
+
+msgid "Upgrade target validation failed"
+msgstr "    "
+
+msgid "Usable size limited to 2TB"
+msgstr "   2 "
+
+msgid "User Account:"
+msgstr " :"
+
+msgid "User Account: %s"
+msgstr " : %s"
+
+msgid "User Password Invalid"
+msgstr "  "
+
+msgid "User password must be entered."
+msgstr "   ."
+
+msgid "Users"
+msgstr ""
+
+msgid "Welcome"
+msgstr " !"
+
+msgid "Where should Oracle Solaris be installed?"
+msgstr "      Oracle Solaris?"
+
+msgid "Would you like to install?"
+msgstr "?"
+
+msgid "YES"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid ""
+"You may have difficulties upgrading the system software and/or installing "
+"and running additional applications."
+msgstr "        /      ."
+
+msgid "_Accept"
+msgstr "_"
+
+msgid "_Back"
+msgstr "_"
+
+msgid "_Install"
+msgstr "_"
+
+msgid "_Next"
+msgstr "_"
+
+msgid "_Reboot"
+msgstr "_"
+
+msgid "_Reset"
+msgstr "_"
+
+msgid "_Upgrade"
+msgstr "_"
+
+msgid "boot"
+msgstr ""
+
+msgid "day"
+msgstr ""
+
+msgid "disk"
+msgstr ""
+
+msgid "installdiskwindow"
+msgstr "installdiskwindow"
+
+msgid "minute"
+msgstr ""
+
+msgid "month"
+msgstr ""

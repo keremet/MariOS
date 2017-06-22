@@ -1,0 +1,1533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgimp trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-17 14:24+0300\n"
+"PO-Revision-Date: 2011-11-15 00:23+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@lists.gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2); 10<=4 && (n%100<10 || n"
+"%100>=20) ? 1 : 2);\n"
+
+msgid "%d page selected"
+msgid_plural "All %d pages selected"
+msgstr[0] "Выбрана %d страница"
+msgstr[1] "Выбраны %d страницы"
+msgstr[2] "Выбрано %d страниц"
+
+msgid "%d procedure"
+msgid_plural "%d procedures"
+msgstr[0] "%d процедура"
+msgstr[1] "%d процедуры"
+msgstr[2] "%d процедур"
+
+msgid "%d procedure matches your query"
+msgid_plural "%d procedures match your query"
+msgstr[0] "%d процедура совпадает с запросом"
+msgstr[1] "%d процедуры совпадают с запросом"
+msgstr[2] "%d процедур совпадает с запросом"
+
+msgid "%s plug-in  can only handle RGB or indexed images"
+msgstr ""
+"Расширение %s может обрабатывать только\\n\n"
+"RGB- или индексированные изображения"
+
+msgid "%s plug-in can only handle RGB images"
+msgstr ""
+"Расширение %s может обрабатывать\\n\n"
+"только RGB-изображения"
+
+msgid "%s plug-in can only handle RGB or grayscale images"
+msgstr ""
+"Расширение %s может обрабатывать только\\n\n"
+"изображения в градациях серого или RGB"
+
+msgid "%s plug-in can only handle bitmap (two color) indexed images"
+msgstr ""
+"Расширение %s может обрабатывать только\\n\n"
+"двухцветные или индексированные изображения"
+
+msgid "%s plug-in can only handle grayscale images"
+msgstr ""
+"Расширение %s может обрабатывать\\n\n"
+"только изображения в градациях серого"
+
+msgid "%s plug-in can only handle grayscale or indexed images"
+msgstr ""
+"Расширение %s может обрабатывать только изображения\\n\n"
+"в градациях серого или индексированные изображения"
+
+msgid "%s plug-in can only handle indexed images"
+msgstr ""
+"Расширение %s может обрабатывать\\n\n"
+"только индексированные изображения"
+
+msgid "%s plug-in can only handle layers as animation frames"
+msgstr "Расширение %s может обрабатывать слои только как кадры анимации"
+
+msgid "%s plug-in can't handle layer masks"
+msgstr "Расширение %s не может обрабатывать маски слоя"
+
+msgid "%s plug-in can't handle layer offsets, size or opacity"
+msgstr ""
+"Расширение %s не может обрабатывать смещение, размер или непрозрачность слоя"
+
+msgid "%s plug-in can't handle layers"
+msgstr "Расширение %s не может работать со слоями"
+
+msgid "%s plug-in can't handle transparency"
+msgstr "Расширение %s не может обрабатывать прозрачность"
+
+msgid "%s plug-in needs an alpha channel"
+msgstr "Расширению %s требуется альфа-канал"
+
+msgid "(Empty)"
+msgstr "(Пусто)"
+
+msgid "(invalid UTF-8 string)"
+msgstr "(неверная строка UTF-8)"
+
+msgid "Add Alpha Channel"
+msgstr "Добавить альфа-канал"
+
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+msgid "All files (*.*)"
+msgstr "Все файлы (*.*)"
+
+msgid "Alpha"
+msgstr "Альфа"
+
+msgid "Anchor"
+msgstr "Прикрепить"
+
+msgid "Apply Layer Masks"
+msgstr "Применить маски слоя"
+
+msgid "Author:"
+msgstr "Автор:"
+
+msgid "Blac_k"
+msgstr "_Чёрный"
+
+msgid "Black"
+msgstr "Черный"
+
+msgid "Black _pullout:"
+msgstr "С_одержание черного:"
+
+msgid "Blue"
+msgstr "Синий"
+
+msgid "Brush Selection"
+msgstr "Выбор кисти"
+
+msgid "Button %d"
+msgstr "Клавиша %d"
+
+msgid "Button %d Press"
+msgstr "Нажатие клавиши %d"
+
+msgid "Button %d Release"
+msgstr "Отпускание клавиши %d"
+
+msgid "Button 0"
+msgstr "Клавиша 0"
+
+msgid "Button 1"
+msgstr "Клавиша 1"
+
+msgid "Button 2"
+msgstr "Клавиша 2"
+
+msgid "Button 3"
+msgstr "Клавиша 3"
+
+msgid "Button 4"
+msgstr "Клавиша 4"
+
+msgid "Button 5"
+msgstr "Клавиша 5"
+
+msgid "Button 6"
+msgstr "Клавиша 6"
+
+msgid "Button 7"
+msgstr "Клавиша 7"
+
+msgid "Button 8"
+msgstr "Клавиша 8"
+
+msgid "Button 9"
+msgstr "Клавиша 9"
+
+msgid "Button Back"
+msgstr "Клавиша «Назад»"
+
+msgid "Button Extra"
+msgstr "Дополнительная клавиша"
+
+msgid "Button Forward"
+msgstr "Клавиша «Вперёд»"
+
+msgid "Button Gear Down"
+msgstr "Педаль вниз"
+
+msgid "Button Gear Up"
+msgstr "Педаль вверх"
+
+msgid "Button Left"
+msgstr "Клавиша слева"
+
+msgid "Button Middle"
+msgstr "Средняя клавиша"
+
+msgid "Button Mouse"
+msgstr "Мышь с клавишами"
+
+msgid "Button Right"
+msgstr "Клавиша справа"
+
+msgid "Button Side"
+msgstr "Боковая клавиша"
+
+msgid "Button Task"
+msgstr "Button Task"
+
+msgid "Button Wheel"
+msgstr "Клавиша колеса"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "CMYK color selector"
+msgstr "Выбора цвета в CMYK"
+
+msgid "CMYK color selector (using color profile)"
+msgstr "Цветоуправляемый выбор цвета в модели CMYK"
+
+msgid "C_enter"
+msgstr "Центр"
+
+msgid ""
+"Cannot determine a valid home directory.\n"
+"Thumbnails will be stored in the folder for temporary files (%s) instead."
+msgstr ""
+"Невозможно определить домашний каталог.\n"
+"Файлы предварительного просмотра будут храниться в каталоге для временных "
+"файлов (%s)."
+
+msgid "Cannot expand ${%s}"
+msgstr "Невозможно расширить ${%s}"
+
+msgid "Channel:"
+msgstr "Канал:"
+
+msgid "Check Size"
+msgstr "Размер клеток"
+
+msgid "Check Style"
+msgstr "Стиль клеток"
+
+msgid "Choose an ICC Color Profile"
+msgstr "Выберите ICC-профиль"
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+"Выберите пипетку, затем укажите цвет где-нибудь на экране, чтобы выбрать его."
+
+msgid "Color Deficient Vision"
+msgstr "Зрение со сниженным цветовосприятием"
+
+msgid "Color Management"
+msgstr "Управление цветом"
+
+msgid "Color Proof"
+msgstr "Настройка цветопередачи"
+
+msgid "Color _deficiency type:"
+msgstr "_Тип сниженного цветовосприятия:"
+
+msgid "Color deficit simulation filter (Brettel-Vienot-Mollon algorithm)"
+msgstr ""
+"Фильтр, моделирующий невосприятие цвета (алгоритм Бреттеля-Виенота-Моллона)"
+
+msgid "Color management display filter using ICC color profiles"
+msgstr "Фильтр настройки цветопередачи, использующий ICC"
+
+msgid "Color proof filter using ICC color profile"
+msgstr "Фильтр настройки цветопередачи, использующий ICC-профиль"
+
+msgid "Confirm"
+msgstr "Подтвердить"
+
+msgid "Confirm Save"
+msgstr "Подтвердить сохранение"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "Contrast c_ycles:"
+msgstr "_Степень контраста:"
+
+msgid "Controller %03d"
+msgstr "Контроллер %03d"
+
+msgid "Convert to Grayscale"
+msgstr "Преобразовать в оттенки серого"
+
+msgid ""
+"Convert to Indexed using bitmap default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+"Преобразовать в индексированное используя\\n\n"
+"параметры по умолчанию для растра (изменяемо вручную)"
+
+msgid ""
+"Convert to Indexed using default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+"Преобразовать в индексированное используя\\n\n"
+"параметры по умолчанию (изменяемо вручную)"
+
+msgid "Convert to RGB"
+msgstr "Преобразовать в RGB"
+
+msgid "Copyright:"
+msgstr "Авторские права:"
+
+msgid "Could not create '%s': %s"
+msgstr "Не удалось создать '%s': %s"
+
+msgid "Could not create temporary file for '%s': %s"
+msgstr "Не удалось создать временный файл для '%s': %s"
+
+msgid "Could not create thumbnail for %s: %s"
+msgstr "Не удалось создать файлы предварительного просмотра  %s:  %s."
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "Не удалось открыть '%s' для записи: %s"
+
+msgid "Cr_op"
+msgstr "_Обрезать"
+
+msgid "Current:"
+msgstr "Текущий:"
+
+msgid "Cyan"
+msgstr "Голубой"
+
+msgid "Date:"
+msgstr "Дата:"
+
+msgid "Deuteranopia (insensitivity to green)"
+msgstr "Дейтеранопия (нечувствительность к зелёному)"
+
+msgid "Device not available"
+msgstr "Устройство недоступно"
+
+msgid "Device not available: %s"
+msgstr "Устройство недоступно: %s"
+
+msgid "Device:"
+msgstr "Устройство:"
+
+msgid "Dial Turn Left"
+msgstr "Поворот круга влево"
+
+msgid "Dial Turn Right"
+msgstr "Поворот круга вправо"
+
+msgid "DirectInput Events"
+msgstr "Входящие события DirectInput"
+
+msgid "DirectX DirectInput"
+msgstr "DirectX DirectInput"
+
+msgid "DirectX DirectInput event controller"
+msgstr "DirectX-контроллер входящих событий"
+
+msgid "End of file"
+msgstr "Конец файла"
+
+msgid "Enter 'alsa' to use the ALSA sequencer."
+msgstr "Введите 'alsa', чтобы использовать ALSA-секвенсер"
+
+msgid "Error while parsing '%s' in line %d: %s"
+msgstr "Ошибка при синтаксическом разборе '%s' в строке %d: %s"
+
+msgid "Error writing to '%s': %s"
+msgstr "Ошибка записи в '%s': %s"
+
+msgid ""
+"Error writing to temporary file for '%s': %s\n"
+"No file has been created."
+msgstr ""
+"Ошибка записи во временный файл для '%s': %s\n"
+"Файл не был создан."
+
+msgid ""
+"Error writing to temporary file for '%s': %s\n"
+"The original file has not been touched."
+msgstr ""
+"Ошибка записи во временный файл для '%s': %s\n"
+"Исходный файл не был изменён."
+
+msgid "Export File"
+msgstr "Экспортировать файл"
+
+msgid "Export Image as "
+msgstr "Экспортировать изображение как "
+
+msgid "Factor"
+msgstr "Множитель"
+
+msgid "Failed to create thumbnail folder '%s'."
+msgstr "Не удалось создать каталог файлов предварительного просмотра '%s'."
+
+msgid "Flatten Image"
+msgstr "Свести изображение"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Font Selection"
+msgstr "Выбор шрифта"
+
+msgid "GIMP"
+msgstr "GIMP"
+
+msgid "GIMP MIDI Input Controller"
+msgstr "Контроллер входящих MIDI-событий"
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Gamma color display filter"
+msgstr "Фильтр цветовой гаммы"
+
+msgid "Gigabytes"
+msgstr "Гигабайты"
+
+msgid "Gradient Selection"
+msgstr "Выбор градиента"
+
+msgid "Green"
+msgstr "Зеленый"
+
+msgid "HSV color wheel"
+msgstr "Цветовой круг HSV"
+
+msgid "HTML _notation:"
+msgstr "HTML-р_азметка:"
+
+msgid ""
+"Hexadecimal color notation as used in HTML and CSS.  This entry also accepts "
+"CSS color names."
+msgstr ""
+"Шестнадцатеричная запись цвета, используемая в HTML и CSS. Также можно "
+"вводить имена цветов в нотации CSS."
+
+msgid "High Contrast color display filter"
+msgstr "Фильтр повышенного контраста"
+
+msgid "Horiz. Wheel Turn Back"
+msgstr "Горизонтальное колесо — назад"
+
+msgid "Horiz. Wheel Turn Forward"
+msgstr "Горизонтальное колесо — вперёд"
+
+msgid "Hue"
+msgstr "Тон"
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr "Цветовой ICC-профиль (*.icc, *.icm)"
+
+msgid "Image profile:"
+msgstr "Профиль изображения:"
+
+msgid "Kilobytes"
+msgstr "Килобайты"
+
+msgid "L_etter Spacing"
+msgstr "М_ежбуквенное расстояние"
+
+msgid "L_ine Spacing"
+msgstr "_Интерлиньяж"
+
+msgid "Linked"
+msgstr "Связанные"
+
+msgid "Linux Input"
+msgstr "Linux Input"
+
+msgid "Linux Input Events"
+msgstr "Входящие Linux-события"
+
+msgid "Linux input event controller"
+msgstr "Linux-контроллер входящих событий"
+
+msgid "Load failed"
+msgstr "Сбой при загрузке"
+
+msgid "Loaded"
+msgstr "Загружен"
+
+msgid "MIDI"
+msgstr "MIDI"
+
+msgid "MIDI Events"
+msgstr "MIDI-события"
+
+msgid "MIDI event controller"
+msgstr "Контроллер MIDI-событий"
+
+msgid "Magenta"
+msgstr "Пурпурный"
+
+msgid "Megabytes"
+msgstr "Мегабайты"
+
+msgid "Merge Visible Layers"
+msgstr "Объединить видимые слои"
+
+msgid "Mode of operation for color management."
+msgstr "Способ управления цветом"
+
+msgid "Mode of operation:"
+msgstr "Режим обработки:"
+
+msgid "Module '%s' load error: %s"
+msgstr ""
+"Ошибка загрузки модуля \"%s\":\n"
+"%s"
+
+msgid "Module error"
+msgstr "Ошибка модуля"
+
+msgid "Monitor profile:"
+msgstr "Профиль монитора:"
+
+msgid "More..."
+msgstr "Ещё..."
+
+msgid "No device configured"
+msgstr "Ни одно устройство не настроено"
+
+msgid "No matches"
+msgstr "Совпадений нет"
+
+msgid "No matches for your query"
+msgstr "Совпадений с запросом нет"
+
+msgid "None"
+msgstr "Без"
+
+msgid "Not loaded"
+msgstr "Не загружен"
+
+msgid "Note %02x off"
+msgstr "Нота %02x выкл."
+
+msgid "Note %02x on"
+msgstr "Нота %02x вкл."
+
+msgid "Nothing selected"
+msgstr "Ничего не выбрано"
+
+msgid "Old:"
+msgstr "Прежний:"
+
+msgid "One page selected"
+msgstr "Выбрана одна страница"
+
+msgid "Open _pages as"
+msgstr "Открыть страницы _как"
+
+msgid "Open a file selector to browse your files"
+msgstr "Откройте диалог для просмотра файлов"
+
+msgid "Open a file selector to browse your folders"
+msgstr "Откройте диалог для просмотра папок"
+
+msgid "POV %d Return"
+msgstr "POV %d Return"
+
+msgid "POV %d X View"
+msgstr "POV %d X View"
+
+msgid "POV %d Y View"
+msgstr "POV %d Y View"
+
+msgid "Page %d"
+msgstr "Страница %d"
+
+msgid "Palette Selection"
+msgstr "Выбор палитры"
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Paste Into"
+msgstr "Вставить в"
+
+msgid "Paste as New"
+msgstr "Вставить как новое"
+
+msgid "Pattern Selection"
+msgstr "Выбор текстуры"
+
+msgid "Press F1 for more help"
+msgstr "Нажмите F1 для получения полной справки"
+
+msgid "Pressure"
+msgstr "Давление"
+
+msgid "Print simulation profile:"
+msgstr "Профиль имитации принтера:"
+
+msgid "Profile: %s"
+msgstr "Профиль: %s"
+
+msgid "Profile: (none)"
+msgstr "Профиль: (нет)"
+
+msgid "Protanopia (insensitivity to red)"
+msgstr "Протанопия (нечувствительность к красному)"
+
+msgid "Reading from %s"
+msgstr "Чтение с %s"
+
+msgid "Red"
+msgstr "Красный"
+
+msgid "Return Values"
+msgstr "Возвращаемые значения"
+
+msgid "Sans"
+msgstr "Sans"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Save as Animation"
+msgstr "Сохранить как анимацию"
+
+msgid "Scales"
+msgstr "Шкала"
+
+msgid "Search term invalid or incomplete"
+msgstr "Искомое слово введено неправильно или не полностью"
+
+msgid "Searching"
+msgstr "Выполняется поиск"
+
+msgid "Searching by author"
+msgstr "Выполняется поиск по автору"
+
+msgid "Searching by copyright"
+msgstr "Выполняется поиск по авторскому праву"
+
+msgid "Searching by date"
+msgstr "Выполняется поиск по дате"
+
+msgid "Searching by description"
+msgstr "Выполняется поиск по описанию"
+
+msgid "Searching by help"
+msgstr "Выполняется поиск по справке"
+
+msgid "Searching by name"
+msgstr "Выполняется поиск по имени"
+
+msgid "Searching by type"
+msgstr "Выполняется поиск по типу"
+
+msgid "Seed random number generator with a generated random number"
+msgstr ""
+"Инициализировать генератор случайных чисел сгенерированным случайным числом"
+
+msgid "Select File"
+msgstr "Выбрать файл"
+
+msgid "Select Folder"
+msgstr "Выбрать каталог"
+
+msgid "Select _All"
+msgstr "Выбрать в_се"
+
+msgid "Select _range:"
+msgstr "Выбрать _диапазон:"
+
+msgid "Select color profile from disk..."
+msgstr "Выберите цветовой профиль с диска..."
+
+msgid ""
+"Sets how colors are converted from RGB working space to the print simulation "
+"device."
+msgstr ""
+"Определяет способ преобразования цветов из рабочего пространства RGB в "
+"пространство имитируемого печатающего устройства."
+
+msgid "Sets how colors are mapped for your display."
+msgstr "Определяет способ переноса цветов на монитор"
+
+msgid "Slider %d Decrease"
+msgstr "Слайдер %d — уменьшение"
+
+msgid "Slider %d Increase"
+msgstr "Слайдер %d — увеличение"
+
+msgid "The CMYK color profile used to convert between RGB and CMYK."
+msgstr "CMYK-профиль для преобразований между RGB и CMYK."
+
+msgid ""
+"The MIDI channel to read events from. Set to -1 for reading from all MIDI "
+"channels."
+msgstr ""
+"MIDI-канал, с которого читать события. Укажите -1, чтобы читать со всех MIDI-"
+"каналов."
+
+msgid "The color profile of your (primary) monitor."
+msgstr "Цветовой профиль (основного) монитора."
+
+msgid "The color profile used for simulating a printed version (softproof)."
+msgstr "Цветовой профиль для имитации печатной версии (цветопроба)."
+
+msgid "The color to use for marking colors which are out of gamut."
+msgstr "Цвет, используемый для пометки цветов вне цветового охвата."
+
+msgid "The default RGB working space color profile."
+msgstr ""
+"Используемый по умолчанию ICC-профиль для работы в цветовом пространстве RGB."
+
+msgid "The device to read DirectInput events from."
+msgstr "Имя устройства, с которого читать события DirectInput."
+
+msgid "The export conversion won't modify your original image."
+msgstr "Экспортное преобразование не изменит ваше исходное изображение."
+
+msgid "The name of the device to read Linux Input events from."
+msgstr "Имя устройства, с которого читать входящие Linux-события."
+
+msgid "The name of the device to read MIDI events from."
+msgstr "Имя устройства, с которого читать MIDI-события"
+
+msgid "The percentage of black to pull out of the colored inks."
+msgstr "Процентное содержание черного в цветных чернилах."
+
+msgid ""
+"This filter takes its configuration from the Color Management section in the "
+"Preferences dialog."
+msgstr ""
+"Этот фильтр настраивается во вкладке «Управление цветом» диалога настройки "
+"программы."
+
+msgid "This text input field is limited to %d character."
+msgid_plural "This text input field is limited to %d characters."
+msgstr[0] "Ввод текста в это поле ограничен %d символом"
+msgstr[1] "Ввод текста в это поле ограничен %d символами."
+msgstr[2] "Ввод текста в это поле ограничен %d символами."
+
+msgid "Thumbnail contains no Thumb::URI tag"
+msgstr "В эскизе нет тэга Thumb::URI"
+
+msgid "Tritanopia (insensitivity to blue)"
+msgstr "Тританопия (нечувствительность к синему)"
+
+msgid "Unit"
+msgstr "Единица"
+
+msgid "Unit Selection"
+msgstr "Выбор единиц"
+
+msgid ""
+"Use this value for random number generator seed - this allows you to repeat "
+"a given \"random\" operation"
+msgstr ""
+"Используйте это значение для инициализации генератора случайных чисел - это "
+"даст возможность повторить заданную \"случайную\" операцию"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Visible"
+msgstr "Видимый"
+
+msgid "Watercolor"
+msgstr "Акварель"
+
+msgid "Watercolor style color selector"
+msgstr "Тип выбора цвета - акварель"
+
+msgid "Wheel"
+msgstr "Круг"
+
+msgid "Wheel Turn Left"
+msgstr "Поворот колеса влево"
+
+msgid "Wheel Turn Right"
+msgstr "Поворот колеса вправо"
+
+msgid ""
+"When enabled, GIMP will try to use the display color profile from the "
+"windowing system.  The configured monitor profile is then only used as a "
+"fallback."
+msgstr ""
+"Если профиль указан, GIMP попытается получить цветовой профиль монитора от "
+"оконной системы. Указанный выше профиль монитора в таком случае используется "
+"для отката."
+
+msgid ""
+"When enabled, the print simulation will mark colors which can not be "
+"represented in the target color space."
+msgstr ""
+"Если включено, при экранной цветопробе все цвета, не попадающие в цветовой "
+"охват, будут заменены на указанный здесь цвет."
+
+msgid "Writable"
+msgstr "Перезаписываемый"
+
+msgid "X Axis Tilt Away"
+msgstr "X Axis Tilt Away"
+
+msgid "X Axis Tilt Back"
+msgstr "X Axis Tilt Back"
+
+msgid "X Axis Tilt Forward"
+msgstr "X Axis Tilt Forward"
+
+msgid "X Axis Tilt Near"
+msgstr "X Axis Tilt Near"
+
+msgid "X Move Left"
+msgstr "X Move Left"
+
+msgid "X Move Right"
+msgstr "X Move Right"
+
+msgid "Y Axis Tilt Left"
+msgstr "Y Axis Tilt Left"
+
+msgid "Y Axis Tilt Right"
+msgstr "Y Axis Tilt Right"
+
+msgid "Y Move Away"
+msgstr "Y Move Away"
+
+msgid "Y Move Back"
+msgstr "Y Move Back"
+
+msgid "Y Move Forward"
+msgstr "Y Move Forward"
+
+msgid "Y Move Near"
+msgstr "Y Move Near"
+
+msgid "Yellow"
+msgstr "Желтый"
+
+msgid ""
+"You are about to save a channel (saved selection) as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+"Вы собираетесь сохранить канал\n"
+"(сохраненное выделение)\n"
+"в файл формата %s.\n"
+"Видимые слои не будут сохранены."
+
+msgid ""
+"You are about to save a layer mask as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+"Вы собираетесь сохранить маску слоя\n"
+" в файл формата %s.\n"
+"Видимые слои не будут сохранены."
+
+msgid ""
+"Your image should be exported before it can be saved as %s for the following "
+"reasons:"
+msgstr ""
+"Ваше изображение должно быть экспортировано до того, как оно будет сохранено "
+"%s по следующим причинам:"
+
+msgid "Z Axis Turn Left"
+msgstr "Z Axis Turn Left"
+
+msgid "Z Axis Turn Right"
+msgstr "Z Axis Turn Right"
+
+msgid "Z Move Down"
+msgstr "Z Move Down"
+
+msgid "Z Move Up"
+msgstr "Z Move Up"
+
+msgid "_Background Color"
+msgstr "Цвет _фона"
+
+msgid "_Black Point Compensation"
+msgstr "Компенсация _чёрной точки"
+
+msgid "_Browse..."
+msgstr "_Просмотреть..."
+
+msgid "_C"
+msgstr "_C"
+
+msgid "_Duplicate"
+msgstr "Сделать копию"
+
+msgid "_Edit"
+msgstr "Исправить"
+
+msgid "_Export"
+msgstr "_Экспорт"
+
+msgid "_Foreground Color"
+msgstr "Цвет _переднего плана"
+
+msgid "_Gamma:"
+msgstr "_Гамма:"
+
+msgid "_Ignore"
+msgstr "_Игнорировать"
+
+msgid "_Intent:"
+msgstr "_Цветопередача:"
+
+msgid "_K"
+msgstr "_K"
+
+msgid "_M"
+msgstr "_M"
+
+msgid "_New Seed"
+msgstr "Новое зерно"
+
+msgid "_Preview"
+msgstr "_Просмотр"
+
+msgid "_Profile:"
+msgstr "_Профиль:"
+
+msgid "_Randomize"
+msgstr "Перемешать"
+
+msgid "_Reset"
+msgstr "_Сбросить"
+
+msgid "_Resize"
+msgstr "_Изменить размер"
+
+msgid "_Rotate"
+msgstr "_Повернуть"
+
+msgid "_Scale"
+msgstr "Из_менить"
+
+msgid "_Search:"
+msgstr "_Искать:"
+
+msgid "_Shear"
+msgstr "Н_аклонить"
+
+msgid "_Stroke"
+msgstr "_Обвести"
+
+msgid "_Transform"
+msgstr "_Преобразовать"
+
+msgid "_White"
+msgstr "_Белый"
+
+msgid "_Y"
+msgstr "_Y"
+
+msgctxt "add-mask-type"
+msgid "C_hannel"
+msgstr "_Канал"
+
+msgctxt "add-mask-type"
+msgid "Layer's _alpha channel"
+msgstr "_Альфа-канал слоя"
+
+msgctxt "add-mask-type"
+msgid "_Black (full transparency)"
+msgstr "_Черный цвет (полная прозрачность)"
+
+msgctxt "add-mask-type"
+msgid "_Grayscale copy of layer"
+msgstr "_Копия слоя в градациях серого"
+
+msgctxt "add-mask-type"
+msgid "_Selection"
+msgstr "_Выделение"
+
+msgctxt "add-mask-type"
+msgid "_Transfer layer's alpha channel"
+msgstr "_Передать альфа-канал слоя"
+
+msgctxt "add-mask-type"
+msgid "_White (full opacity)"
+msgstr "_Белый цвет (полная непрозрачность)"
+
+msgctxt "aspect-type"
+msgid "Landscape"
+msgstr "Альбом"
+
+msgctxt "aspect-type"
+msgid "Portrait"
+msgstr "Портрет"
+
+msgctxt "aspect-type"
+msgid "Square"
+msgstr "Квадрат"
+
+msgctxt "blend-mode"
+msgid "Custom gradient"
+msgstr "Собственный градиент"
+
+msgctxt "blend-mode"
+msgid "FG to BG (HSV)"
+msgstr "Передний план до фона (HSV)"
+
+msgctxt "blend-mode"
+msgid "FG to BG (RGB)"
+msgstr "Передний план до фона (RGB)"
+
+msgctxt "blend-mode"
+msgid "FG to transparent"
+msgstr "Передний план до прозрачности"
+
+msgctxt "bucket-fill-mode"
+msgid "BG color fill"
+msgstr "Цветом фона"
+
+msgctxt "bucket-fill-mode"
+msgid "FG color fill"
+msgstr "Цветом переднего плана"
+
+msgctxt "bucket-fill-mode"
+msgid "Pattern fill"
+msgstr "Текстурой"
+
+msgid "by author"
+msgstr "по автору"
+
+msgid "by copyright"
+msgstr "по авторскому праву"
+
+msgid "by date"
+msgstr "по дате"
+
+msgid "by description"
+msgstr "по описанию"
+
+msgid "by help"
+msgstr "по справке"
+
+msgid "by name"
+msgstr "по имени"
+
+msgid "by type"
+msgstr "по типу"
+
+msgid "calling error"
+msgstr "ошибка вызова"
+
+msgid "cancelled"
+msgstr "отменено"
+
+msgctxt "channel-ops"
+msgid "Add to the current selection"
+msgstr "Добавить в текущее выделение"
+
+msgctxt "channel-ops"
+msgid "Intersect with the current selection"
+msgstr "Пересечь с текущим выделением"
+
+msgctxt "channel-ops"
+msgid "Replace the current selection"
+msgstr "Заменить текущее выделение"
+
+msgctxt "channel-ops"
+msgid "Subtract from the current selection"
+msgstr "Вычесть из текущего выделения"
+
+msgctxt "channel-type"
+msgid "Alpha"
+msgstr "Альфа"
+
+msgctxt "channel-type"
+msgid "Blue"
+msgstr "Синий"
+
+msgctxt "channel-type"
+msgid "Gray"
+msgstr "Серый"
+
+msgctxt "channel-type"
+msgid "Green"
+msgstr "Зелёный"
+
+msgctxt "channel-type"
+msgid "Indexed"
+msgstr "Индексированный"
+
+msgctxt "channel-type"
+msgid "Red"
+msgstr "Красный"
+
+msgctxt "check-size"
+msgid "Large"
+msgstr "Большой"
+
+msgctxt "check-size"
+msgid "Medium"
+msgstr "Средний"
+
+msgctxt "check-size"
+msgid "Small"
+msgstr "Маленький"
+
+msgctxt "check-type"
+msgid "Black only"
+msgstr "Только чёрный"
+
+msgctxt "check-type"
+msgid "Dark checks"
+msgstr "Темные клетки"
+
+msgctxt "check-type"
+msgid "Gray only"
+msgstr "Только серый"
+
+msgctxt "check-type"
+msgid "Light checks"
+msgstr "Белые клетки"
+
+msgctxt "check-type"
+msgid "Mid-tone checks"
+msgstr "Серые клетки"
+
+msgctxt "check-type"
+msgid "White only"
+msgstr "Только белый"
+
+msgctxt "clone-type"
+msgid "Image"
+msgstr "Изображение"
+
+msgctxt "clone-type"
+msgid "Pattern"
+msgstr "Текстура"
+
+msgctxt "color-management-mode"
+msgid "Color managed display"
+msgstr "Цветоуправляемый монитор"
+
+msgctxt "color-management-mode"
+msgid "No color management"
+msgstr "Без управления цветом"
+
+msgctxt "color-management-mode"
+msgid "Print simulation"
+msgstr "Имитация принтера"
+
+msgctxt "color-rendering-intent"
+msgid "Absolute colorimetric"
+msgstr "Абсолютная колориметрическая"
+
+msgctxt "color-rendering-intent"
+msgid "Perceptual"
+msgstr "Воспринимаемая"
+
+msgctxt "color-rendering-intent"
+msgid "Relative colorimetric"
+msgstr "Относительная колориметрическая"
+
+msgctxt "color-rendering-intent"
+msgid "Saturation"
+msgstr "Насыщенная"
+
+msgctxt "color-selector-channel"
+msgid "_A"
+msgstr "_A"
+
+msgctxt "color-selector-channel"
+msgid "_B"
+msgstr "_B"
+
+msgctxt "color-selector-channel"
+msgid "_G"
+msgstr "_G"
+
+msgctxt "color-selector-channel"
+msgid "_H"
+msgstr "_H"
+
+msgctxt "color-selector-channel"
+msgid "_R"
+msgstr "_R"
+
+msgctxt "color-selector-channel"
+msgid "_S"
+msgstr "_S"
+
+msgctxt "color-selector-channel"
+msgid "_V"
+msgstr "_V"
+
+msgctxt "desaturate-mode"
+msgid "Average"
+msgstr "Среднее"
+
+msgctxt "desaturate-mode"
+msgid "Lightness"
+msgstr "Освещенность"
+
+msgctxt "desaturate-mode"
+msgid "Luminosity"
+msgstr "Светимость"
+
+msgctxt "dodge-burn-type"
+msgid "Burn"
+msgstr "Затемнить"
+
+msgctxt "dodge-burn-type"
+msgid "Dodge"
+msgstr "Осветлить"
+
+msgid "execution error"
+msgstr "ошибка выполнения"
+
+msgid "expected 'yes' or 'no' for boolean token %s, got '%s'"
+msgstr "ожидалось 'yes' или 'no' для булевого маркёра %s, получено '%s'"
+
+msgid "expected 'yes' or 'no' for boolean token, got '%s'"
+msgstr "ожидалось 'yes' или 'no' для булевого маркера, получено '%s'"
+
+msgid "fatal parse error"
+msgstr "критическая ошибка при синтаксическом разборе"
+
+msgctxt "gradient-type"
+msgid "Bi-linear"
+msgstr "Билинейная"
+
+msgctxt "gradient-type"
+msgid "Conical (asym)"
+msgstr "Коническая (асимм.)"
+
+msgctxt "gradient-type"
+msgid "Conical (sym)"
+msgstr "Коническая (симм.)"
+
+msgctxt "gradient-type"
+msgid "Linear"
+msgstr "Линейная"
+
+msgctxt "gradient-type"
+msgid "Radial"
+msgstr "Радиальная"
+
+msgctxt "gradient-type"
+msgid "Shaped (angular)"
+msgstr "Очертания (угловая)"
+
+msgctxt "gradient-type"
+msgid "Shaped (dimpled)"
+msgstr "Очертания (рябь)"
+
+msgctxt "gradient-type"
+msgid "Shaped (spherical)"
+msgstr "Очертания (сфера)"
+
+msgctxt "gradient-type"
+msgid "Spiral (ccw)"
+msgstr "Спираль (CCW)"
+
+msgctxt "gradient-type"
+msgid "Spiral (cw)"
+msgstr "Спираль (CW)"
+
+msgctxt "gradient-type"
+msgid "Square"
+msgstr "Квадратная"
+
+msgctxt "grid-style"
+msgid "Dashed"
+msgstr "Пунктир"
+
+msgctxt "grid-style"
+msgid "Double dashed"
+msgstr "Двойной пунктир"
+
+msgctxt "grid-style"
+msgid "Intersections (crosshairs)"
+msgstr "Пересечения (перекрестья)"
+
+msgctxt "grid-style"
+msgid "Intersections (dots)"
+msgstr "Пересечения (точки)"
+
+msgctxt "grid-style"
+msgid "Solid"
+msgstr "Цельная линия"
+
+msgctxt "icon-type"
+msgid "Image file"
+msgstr "Файл изображения"
+
+msgctxt "icon-type"
+msgid "Inline pixbuf"
+msgstr "Внутристрочное изображение"
+
+msgctxt "icon-type"
+msgid "Stock ID"
+msgstr "Stock ID"
+
+msgctxt "image-base-type"
+msgid "Grayscale"
+msgstr "Градации серого"
+
+msgctxt "image-base-type"
+msgid "Indexed color"
+msgstr "Индексированный цвет"
+
+msgctxt "image-base-type"
+msgid "RGB color"
+msgstr "Цвета RGB"
+
+msgctxt "image-type"
+msgid "Grayscale"
+msgstr "Градации серого"
+
+msgctxt "image-type"
+msgid "Grayscale-alpha"
+msgstr "Градации серого + альфа"
+
+msgctxt "image-type"
+msgid "Indexed"
+msgstr "Индексированный"
+
+msgctxt "image-type"
+msgid "Indexed-alpha"
+msgstr "Индексированный + альфа"
+
+msgctxt "image-type"
+msgid "RGB"
+msgstr "RGB"
+
+msgctxt "image-type"
+msgid "RGB-alpha"
+msgstr "RGB + альфа"
+
+msgctxt "input-mode"
+msgid "Disabled"
+msgstr "Отключено"
+
+msgctxt "input-mode"
+msgid "Screen"
+msgstr "Экран"
+
+msgctxt "input-mode"
+msgid "Window"
+msgstr "Окно"
+
+msgctxt "interpolation-type"
+msgid "Cubic"
+msgstr "Кубическая"
+
+msgctxt "interpolation-type"
+msgid "Linear"
+msgstr "Линейная"
+
+msgctxt "interpolation-type"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "interpolation-type"
+msgid "Sinc (Lanczos3)"
+msgstr "Sinc (Lanczos3)"
+
+msgid "invalid UTF-8 string"
+msgstr "неверная строка UTF-8"
+
+msgid "invalid value '%ld' for token %s"
+msgstr "неверное значение '%ld' для маркёра %s"
+
+msgid "invalid value '%s' for token %s"
+msgstr "неверное значение '%s' для маркёра %s"
+
+msgctxt "page-selector-target"
+msgid "Images"
+msgstr "Изображения"
+
+msgctxt "page-selector-target"
+msgid "Layers"
+msgstr "Слои"
+
+msgctxt "paint-application-mode"
+msgid "Constant"
+msgstr "Константа"
+
+msgctxt "paint-application-mode"
+msgid "Incremental"
+msgstr "Постепенная"
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Extension"
+msgstr "Расширение GIMP"
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Plug-In"
+msgstr "Модуль GIMP"
+
+msgctxt "pdb-proc-type"
+msgid "Internal GIMP procedure"
+msgstr "Внутренняя процедура GIMP"
+
+msgctxt "pdb-proc-type"
+msgid "Temporary Procedure"
+msgstr "Временная процедура"
+
+msgid "percent"
+msgstr "процент"
+
+msgctxt "profile"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "repeat-mode"
+msgid "None"
+msgstr "Нет"
+
+msgctxt "repeat-mode"
+msgid "Sawtooth wave"
+msgstr "Зубцевидная волна"
+
+msgctxt "repeat-mode"
+msgid "Triangular wave"
+msgstr "Треугольная волна"
+
+msgctxt "run-mode"
+msgid "Run interactively"
+msgstr "Запустить интерактивно"
+
+msgctxt "run-mode"
+msgid "Run non-interactively"
+msgstr "Запустить неинтерактивно"
+
+msgctxt "run-mode"
+msgid "Run with last used values"
+msgstr "Запустить с последними введёнными значениями"
+
+msgctxt "size-type"
+msgid "Pixels"
+msgstr "Точек растра"
+
+msgctxt "size-type"
+msgid "Points"
+msgstr "Пунктов"
+
+msgid "success"
+msgstr "успешно"
+
+msgctxt "text-direction"
+msgid "From left to right"
+msgstr "Слева направо"
+
+msgctxt "text-direction"
+msgid "From right to left"
+msgstr "Справа налево"
+
+msgctxt "text-hint-style"
+msgid "Full"
+msgstr "Полное"
+
+msgctxt "text-hint-style"
+msgid "Medium"
+msgstr "Среднее"
+
+msgctxt "text-hint-style"
+msgid "None"
+msgstr "Без"
+
+msgctxt "text-hint-style"
+msgid "Slight"
+msgstr "Слабое"
+
+msgctxt "text-justification"
+msgid "Centered"
+msgstr "Выключка по центру"
+
+msgctxt "text-justification"
+msgid "Filled"
+msgstr "Полная выключка"
+
+msgctxt "text-justification"
+msgid "Left justified"
+msgstr "Выключка влево"
+
+msgctxt "text-justification"
+msgid "Right justified"
+msgstr "Выключка вправо"
+
+msgctxt "transfer-mode"
+msgid "Highlights"
+msgstr "Светлые части"
+
+msgctxt "transfer-mode"
+msgid "Midtones"
+msgstr "Полутона"
+
+msgctxt "transfer-mode"
+msgid "Shadows"
+msgstr "Тени"
+
+msgctxt "transform-direction"
+msgid "Corrective (Backward)"
+msgstr "Корректирующее (назад)"
+
+msgctxt "transform-direction"
+msgid "Normal (Forward)"
+msgstr "Обычное (вперед)"
+
+msgctxt "transform-resize"
+msgid "Adjust"
+msgstr "С полями"
+
+msgctxt "transform-resize"
+msgid "Clip"
+msgstr "Без полей"
+
+msgctxt "transform-resize"
+msgid "Crop to result"
+msgstr "В прямоугольник"
+
+msgctxt "transform-resize"
+msgid "Crop with aspect"
+msgstr "Пропорциональная"
+
+msgid "value for token %s is not a valid UTF-8 string"
+msgstr "значение для маркёра %s не является корректной строкой в UTF-8"
+
+msgid "while parsing token '%s': %s"
+msgstr "при синтаксическом разборе маркёра '%s': %s"
+
+msgctxt "zoom-type"
+msgid "Zoom in"
+msgstr "Приблизить"
+
+msgctxt "zoom-type"
+msgid "Zoom out"
+msgstr "Отдалить"

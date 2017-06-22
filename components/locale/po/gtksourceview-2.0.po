@@ -1,0 +1,1666 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-20 11:52+0200\n"
+"PO-Revision-Date: 2010-03-17 20:34+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <debian-l10n-russian@lists.debian.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid ".desktop"
+msgstr ".desktop"
+
+msgid ".ini"
+msgstr ".ini"
+
+msgid "ASP"
+msgstr "ASP"
+
+msgid "ASP Object"
+msgstr "Объект ASP"
+
+msgid "Accelerators"
+msgstr "Ускорители"
+
+msgid "Activation"
+msgstr "Активация"
+
+msgid "Ada"
+msgstr "Ada"
+
+msgid "Added line"
+msgstr "Добавленная строка"
+
+msgid "Additional Category"
+msgstr "Дополнительная Категория"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Anchor"
+msgstr "Выравнивание"
+
+msgid "Arbitrary base number"
+msgstr "Число произвольной точности"
+
+msgid "Assertion"
+msgstr "Утверждение"
+
+msgid "Assignment Left Hand Side"
+msgstr "Присваивание со значением справа"
+
+msgid "Assignment Operator"
+msgstr "Оператор присваивания"
+
+msgid "Assignment Right Hand Side"
+msgstr "Присваивание со значением слева"
+
+msgid "Atom"
+msgstr "Atom"
+
+msgid "Attribute Definition"
+msgstr "Определение атрибута"
+
+msgid "Attribute Name"
+msgstr "Атрибут"
+
+msgid "Attribute Value"
+msgstr "Значение атрибута"
+
+msgid "Attribute name"
+msgstr "Атрибут"
+
+msgid "Attribute value"
+msgstr "Значение атрибута"
+
+msgid "Auto Complete Delay"
+msgstr "Задержка автодополнения"
+
+msgid "Auto Indentation"
+msgstr "Расставлять отступы автоматически"
+
+msgid "Autoconf Macro"
+msgstr "Макрос Autoconf"
+
+msgid "BOZ Literal"
+msgstr "BOZ литерал"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background color"
+msgstr "Цвет фона"
+
+msgid "Background set"
+msgstr "Цвет фона установлен"
+
+msgid "Base-N Integer"
+msgstr "Целое число в N-ичной системе счисления"
+
+msgid "Base-N number"
+msgstr "Целое число в N-ичной системе счисления"
+
+msgid "BibTeX"
+msgstr "BibTeX"
+
+msgid "Binary number"
+msgstr "Двоичное число"
+
+msgid "Bindings"
+msgstr "Привязки"
+
+msgid "Block"
+msgstr "Блок"
+
+msgid "Block Elements"
+msgstr "Блочные элементы"
+
+msgid "Blue based color scheme"
+msgstr "Синяя цветовая схема"
+
+msgid "Body Font Name"
+msgstr "Шрифт основного текста"
+
+msgid "Bold"
+msgstr "Жирный"
+
+msgid "Bold set"
+msgstr "Жирность текста установлена"
+
+msgid "Boo"
+msgstr "Boo"
+
+msgid "Boolean"
+msgstr "Булево"
+
+msgid "Boolean Value"
+msgstr "Булево (логическое) значение"
+
+msgid "Boolean value"
+msgstr "Булево (логическое) значение"
+
+msgid "Buffer"
+msgstr "Буфер"
+
+msgid "Built-in identifier"
+msgstr "Встроенный идентификатор"
+
+msgid "Builtin"
+msgstr "Встроенные функции"
+
+msgid "Builtin Command"
+msgstr "Встроенная команда"
+
+msgid "Builtin Constant"
+msgstr "Встроенная константа"
+
+msgid "Builtin Function"
+msgstr "Встроенная функция"
+
+msgid "Builtin Object"
+msgstr "Встроенный объект"
+
+msgid "Builtin Variable"
+msgstr "Встроенная переменная"
+
+msgid "Builtin-function keyword"
+msgstr "Встроенные функции"
+
+msgid "Bullet"
+msgstr "Точка"
+
+msgid "C"
+msgstr "C"
+
+msgid "C#"
+msgstr "C#"
+
+msgid "C++"
+msgstr "C++"
+
+msgid "C/C++/ObjC Header"
+msgstr "Заголовок C/C++/ObjC"
+
+msgid "CDATA delimiter"
+msgstr "Разделитель CDATA"
+
+msgid "CG Shader Language"
+msgstr "Язык Шейдеров CG"
+
+msgid "CMake"
+msgstr "CMake"
+
+msgid "CSS"
+msgstr "CSS"
+
+msgid "CUDA"
+msgstr "CUDA"
+
+msgid "Can redo"
+msgstr "Можно возвратить"
+
+msgid "Can undo"
+msgstr "Можно отменить"
+
+msgid ""
+"Cannot create a regex for all the transitions, the syntax highlighting "
+"process will be slower than usual.\n"
+"The error was: %s"
+msgstr ""
+"Не удалось создать регулярное выражение для всех преобразований, подсветка "
+"синтаксиса будет выполняться гораздо медленнее.\n"
+"Ошибка: %s"
+
+msgid "ChangeLog"
+msgstr "ChangeLog"
+
+msgid "Changed line"
+msgstr "Изменённая строка"
+
+msgid "Character"
+msgstr "Символ"
+
+msgid "Class"
+msgstr "Класс"
+
+msgid "Classic"
+msgstr "Классическая"
+
+msgid "Classic color scheme"
+msgstr "Классическая цветовая схема"
+
+msgid "Cobalt"
+msgstr "Cobalt"
+
+msgid "Code Block"
+msgstr "Блок кода"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color scheme used in the Kate text editor"
+msgstr "Цветовая схема из текстового редактора Kate"
+
+msgid "Color scheme using Tango color palette"
+msgstr "Цветовая схема, использующая палитру Tango"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "Command Macro"
+msgstr "Макрокоманда"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Common Commands"
+msgstr "Общие команды"
+
+msgid "Common Defines"
+msgstr "Общее определение"
+
+msgid "Compiler Directive"
+msgstr "Директива компилятора"
+
+msgid "Completion"
+msgstr "Завершение"
+
+msgid "Completion Info"
+msgstr "Информация о завершении"
+
+msgid "Completion popup delay for interactive completion"
+msgstr "Задержка всплывающего окна дополнений при интерактивном дополнении"
+
+msgid "Complex number"
+msgstr "Комплексное число"
+
+msgid "Conditional Macro"
+msgstr "Условная макрокоманда"
+
+msgid "Constant"
+msgstr "Константа"
+
+msgid "Constructors"
+msgstr "Конструкторы"
+
+msgid "Control"
+msgstr "Управляющая инструкция"
+
+msgid "Control Keyword"
+msgstr "Управляющее ключевое слово"
+
+msgid "D"
+msgstr "D"
+
+msgid "DOCTYPE"
+msgstr "Тип документа DOCTYPE"
+
+msgid "DPatch"
+msgstr "DPatch"
+
+msgid "DTD"
+msgstr "DTD"
+
+msgid "Dark color scheme using the Tango color palette"
+msgstr "Тёмная цветовая схема, использующая палитру Tango"
+
+msgid "Data Type"
+msgstr "Тип данных"
+
+msgid "Data type"
+msgstr "Тип данных"
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Debug Code"
+msgstr "Отладочный код"
+
+msgid "Decimal"
+msgstr "Десятичное число"
+
+msgid "Decimal number"
+msgstr "Десятичное число"
+
+msgid "Declaration"
+msgstr "Определение"
+
+msgid "Defaults"
+msgstr "По умолчанию"
+
+msgid "Define"
+msgstr "Определение"
+
+msgid "Definition"
+msgstr "Определение"
+
+msgid "Definition list"
+msgstr "Список определений"
+
+msgid "Delimiter"
+msgstr "Разделитель"
+
+msgid "Deprecated"
+msgstr "Устарел"
+
+msgid "Design by Contract"
+msgstr "Обусловленное проектирование"
+
+msgid "Device Functions"
+msgstr "Функции устройств"
+
+msgid "Diff"
+msgstr "Diff"
+
+msgid "Dimension"
+msgstr "Размер"
+
+msgid "Directory Macro"
+msgstr "Каталог"
+
+msgid "Docbook"
+msgstr "Docbook"
+
+msgid "Document Words"
+msgstr "Слова Документа"
+
+msgid "Documentation comment"
+msgstr "Документация"
+
+msgid "Documentation comment element"
+msgstr "Элемент документирующего комментария"
+
+msgid "Dos Batch"
+msgstr "Командный файл DOS"
+
+msgid "Draw Spaces"
+msgstr "Отображать пробелы"
+
+msgid "E-mail address"
+msgstr "Адрес эл. почты"
+
+msgid "Eiffel"
+msgstr "Eiffel"
+
+msgid "Element"
+msgstr "Элемент"
+
+msgid "Element name"
+msgstr "Имя элемента"
+
+msgid "Email"
+msgstr "Эл. почта"
+
+msgid "Emphasis"
+msgstr "Акцент"
+
+msgid "Encoding"
+msgstr "Кодировка"
+
+msgid "Entity"
+msgstr "Сущность (entity)"
+
+msgid "Entries"
+msgstr "Вхождения"
+
+msgid "Enumerated list"
+msgstr "Нумерованный список"
+
+msgid "Erlang"
+msgstr "Erlang"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error Text"
+msgstr "Текст ошибки"
+
+msgid "Escape"
+msgstr "Escape"
+
+msgid "Escaped Character"
+msgstr "Экранирующий символ"
+
+msgid "Exception Handling"
+msgstr "Обработка исключений"
+
+msgid "Exec parameter"
+msgstr "Параметр запуска"
+
+msgid "External"
+msgstr "Внешние методы"
+
+msgid "F#"
+msgstr "F#"
+
+msgid "FCL"
+msgstr "FCL"
+
+msgid "Field"
+msgstr "Поле"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File Attributes"
+msgstr "Атрибуты файла"
+
+msgid "File Descriptor"
+msgstr "Файловый дескриптор"
+
+msgid "Float"
+msgstr "Число с плавающей точкой"
+
+msgid "Floating Point"
+msgstr "Число с плавающей точкой"
+
+msgid "Floating Point number"
+msgstr "Число с плавающей точкой"
+
+msgid "Floating point number"
+msgstr "Число с плавающей точкой"
+
+msgid "Flow Conditional"
+msgstr "Условное выполнение"
+
+msgid "Footer Font Name"
+msgstr "Шрифт нижнего колонтитула"
+
+msgid "Foreground"
+msgstr "Текст"
+
+msgid "Foreground color"
+msgstr "Цвет текста"
+
+msgid "Foreground set"
+msgstr "Цвет текста установлен"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Formatting Elements"
+msgstr "Форматирование"
+
+msgid "Forth"
+msgstr "Forth"
+
+msgid "Fortran 95"
+msgstr "Fortran 95"
+
+msgid "Function"
+msgstr "Функция"
+
+msgid "Function Name"
+msgstr "Имя функции"
+
+msgid "Future Reserved Keywords"
+msgstr "Слова, зарезервированные на будущее"
+
+msgid "Fuzzy"
+msgstr "Неточное"
+
+msgid "GAP"
+msgstr "GAP"
+
+msgid "GUI Elements"
+msgstr "Пользовательский интерфейс"
+
+msgid "Gate"
+msgstr "Шлюз"
+
+msgid "Generated Content"
+msgstr "Сгенерированное содержимое"
+
+msgid "Global Functions"
+msgstr "Глобальные функции"
+
+msgid "Global Variables"
+msgstr "Глобальные переменные"
+
+msgid "Graphviz Dot"
+msgstr "Graphviz Dot"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "GtkRC"
+msgstr "GtkRC"
+
+msgid ""
+"HOME and END keys move to first/last non whitespace characters on line "
+"before going to the start/end of the line"
+msgstr ""
+"Kлавиши «Home» и «End» перемещают курсор к первому/последнему непробельному "
+"символу в строке перед переходом к началу/концу строки"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "Haddock"
+msgstr "Haddock"
+
+msgid "Haddock Directive"
+msgstr "Директивы Haddock"
+
+msgid "Haskell"
+msgstr "Haskell"
+
+msgid "Header"
+msgstr "Заголовок"
+
+msgid "Header Elements"
+msgstr "Заголовки"
+
+msgid "Header Font Name"
+msgstr "Шрифт верхнего колонтитула"
+
+msgid "Header Property"
+msgstr "Свойство заголовка"
+
+msgid "Heredoc"
+msgstr "Документация"
+
+msgid "Heredoc Bound"
+msgstr "Граница документации"
+
+msgid "Hex"
+msgstr "Шестнадцатеричное"
+
+msgid "Hexadecimal number"
+msgstr "Шестнадцатеричное число"
+
+msgid "Hidden"
+msgstr "Скрыто"
+
+msgid "Highlight Matching Brackets"
+msgstr "Подсвечивать совпадающие скобки"
+
+msgid "Highlight Syntax"
+msgstr "Подсвечивать синтаксис"
+
+msgid "Highlight current line"
+msgstr "Подсвечивать текущую строку"
+
+msgid ""
+"Highlighting a single line took too much time, syntax highlighting will be "
+"disabled"
+msgstr ""
+"Обработка одной строки заняла слишком много времени, подсветка синтаксиса "
+"будет отключена"
+
+msgid "Hyperlinked Identifier"
+msgstr "Связанный идентификатор"
+
+msgid "Hyperlinked Module Name"
+msgstr "Связанное имя модуля"
+
+msgid "IDL"
+msgstr "IDL"
+
+msgid "IRI"
+msgstr "IRI"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "Icon to be shown for this item"
+msgstr "Значок для отображения для этого элемента"
+
+msgid "Identifier"
+msgstr "Идентификатор"
+
+msgid "Ignore"
+msgstr "Игнорировать"
+
+msgid "Include"
+msgstr "Директива «Include»"
+
+msgid "Include Statement"
+msgstr "Оператор включения"
+
+msgid "Include directive"
+msgstr "Директива включения"
+
+msgid "Included File"
+msgstr "Включённый файл"
+
+msgid "Indent Width"
+msgstr "Ширина отступа"
+
+msgid "Indent on tab"
+msgstr "Выравнивать по табуляции"
+
+msgid "Individual"
+msgstr "Индивидуальный"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Info to be shown for this item"
+msgstr "Информация для отображения для этого элемента"
+
+msgid "Inline Documentation Section"
+msgstr "Встроенная секция документации"
+
+msgid "Inline Elements"
+msgstr "Строковые элементы"
+
+msgid "Inline Haddock Section"
+msgstr "Встроенная секция Haddock"
+
+msgid "Inline Math Mode"
+msgstr "Встроенная математика"
+
+msgid "Insert Spaces Instead of Tabs"
+msgstr "Вставлять пробелы вместо табуляций"
+
+msgid "Integer Number"
+msgstr "Целое число"
+
+msgid "Interactive Delay"
+msgstr "Интерактивная задержка"
+
+msgid "Interval of printed line numbers (0 means no numbers)"
+msgstr "Интервал печатаемых номеров строк (0 -- выключить нумерацию)"
+
+msgid "Intrinsic function"
+msgstr "Важная функция"
+
+msgid "Italic"
+msgstr "Курсив"
+
+msgid "Italic set"
+msgstr "Курсив установлен"
+
+msgid "Item text"
+msgstr "Элемент текста"
+
+msgid "Itemized list"
+msgstr "Перечисляемый список"
+
+msgid "Iterator"
+msgstr "Итератор "
+
+msgid "Java"
+msgstr "Java"
+
+msgid "Javascript"
+msgstr "JavaScript"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Key"
+msgstr "Поле ключа"
+
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+msgid "Known Property Value"
+msgstr "Свойство с известным значением"
+
+msgid "LaTeX"
+msgstr "LaTeX"
+
+msgid "Label"
+msgstr "Метка"
+
+msgid "Label to be shown for this item"
+msgstr "Метка для отображения для этого объекта"
+
+msgid "Labeled argument"
+msgstr "Аргумент с меткой"
+
+msgid "Language"
+msgstr "Язык"
+
+msgid "Language id"
+msgstr "Идентификатор языка"
+
+msgid "Language ids"
+msgstr "Идентификаторы языка"
+
+msgid "Language name"
+msgstr "Язык"
+
+msgid "Language object to get highlighting patterns from"
+msgstr "Объект языка, для которого подсвечивать синтаксис"
+
+msgid "Language section"
+msgstr "Секция языка"
+
+msgid "Language specification directories"
+msgstr "Каталоги со спецификациями языков"
+
+msgid "Line Directive"
+msgstr "Директива включения"
+
+msgid "Line Numbers Font Name"
+msgstr "Шрифт для номеров строк"
+
+msgid "Line background"
+msgstr "Фон строки"
+
+msgid "Line background color"
+msgstr "Цвет фона строки"
+
+msgid "Line background set"
+msgstr "Цвет строки установлен"
+
+msgid "List of directories and files where the style schemes are located"
+msgstr "Список каталогов, где расположены файлы определения стилевых схем"
+
+msgid ""
+"List of directories where the language specification files (.lang) are "
+"located"
+msgstr "Список каталогов, где расположены файлы определения языка (.lang)"
+
+msgid "List of the ids of the available languages"
+msgstr "Список идентификаторов для доступных языков"
+
+msgid "List of the ids of the available style schemes"
+msgstr "Список идентификаторов доступных стилевых схем"
+
+msgid "Literal"
+msgstr "Опечатка"
+
+msgid "Literate Haskell"
+msgstr "Грамотный Haskell"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Lua"
+msgstr "Lua"
+
+msgid "MSIL"
+msgstr "MSIL"
+
+msgid "Macros"
+msgstr "Макрос"
+
+msgid "Main Category"
+msgstr "Главная категория"
+
+msgid "Makefile"
+msgstr "Makefile"
+
+msgid "Mallard"
+msgstr "Mallard"
+
+msgid "Markup"
+msgstr "Разметка"
+
+msgid "Markup to be shown for this item"
+msgstr "Разметка для отображения для этого элемента"
+
+msgid "Math Mode"
+msgstr "Математика"
+
+msgid "Maximum Undo Levels"
+msgstr "Максимальный уровень отката"
+
+msgid "Maximum height"
+msgstr "Максимальная высота"
+
+msgid "Maximum width"
+msgstr "Максимальная ширина"
+
+msgid "Minimum Word Size"
+msgstr "Минимальная длина слова"
+
+msgid "Missing main language definition (id = \"%s\".)"
+msgstr "Отсутствует главное определение языка (id=\"%s\".)"
+
+msgid "Module Handler"
+msgstr "Обработчик модуля"
+
+msgid "Module Path"
+msgstr "Путь к модулю"
+
+msgid "Module handler"
+msgstr "Обработчик модуля"
+
+msgid "Monospace"
+msgstr "Моноширинный"
+
+msgid "Multiline string"
+msgstr "Строка с переносами"
+
+msgid "NSIS"
+msgstr "NSIS"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "Name of the font to use for the line numbers (e.g. \"Monospace 10\")"
+msgstr "Шрифт, которым печатаются номера строк (например, «Monospace 10»)"
+
+msgid "Name of the font to use for the page footer (e.g. \"Monospace 10\")"
+msgstr "Шрифт, которым печатается нижний колонтитул (например, «Monospace 10»)"
+
+msgid "Name of the font to use for the page header (e.g. \"Monospace 10\")"
+msgstr ""
+"Шрифт, которым печатается верхний колонтитул (например, «Monospace 10»)"
+
+msgid "Name of the font to use for the text body (e.g. \"Monospace 10\")"
+msgstr "Шрифт, которым печатается основной текст (например, «Monospace 10»)"
+
+msgid "Namespace"
+msgstr "Пространство имён"
+
+msgid "Nemerle"
+msgstr "Nemerle"
+
+msgid "Nil Constant"
+msgstr "Константа Nil"
+
+msgid "No extra information available"
+msgstr "Дополнительная информация не доступна"
+
+msgid "No idea what it is"
+msgstr "Что-то специальное"
+
+msgid "Note (FIXME, TODO, XXX, etc.)"
+msgstr "Заметка (FIXME, TODO, XXX, и так далее)"
+
+msgid "Null Value"
+msgstr "Нулевое значение"
+
+msgid "Number"
+msgstr "Число"
+
+msgid "Number of lines scanned in one batch"
+msgstr "Количество строк, сканируемых в одном пакете"
+
+msgid "Number of pages"
+msgstr "Нумерация страниц"
+
+msgid "Number of proposal accelerators to show"
+msgstr "Количество предложенных ускорителей для отображения"
+
+msgid "Number of proposals added in one batch"
+msgstr "Количество предложенных вставок в одну группу"
+
+msgid "Number of spaces to use for each step of indent"
+msgstr "Число пробелов, используемых для выравнивая текста"
+
+msgid "Number of undo levels for the buffer"
+msgstr "Установить число уровней отката для буфера"
+
+msgid "Numeric literal"
+msgstr "Числовое значение"
+
+msgid "OCL"
+msgstr "OCL"
+
+msgid "OOC"
+msgstr "OOC"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Objective Caml"
+msgstr "Объектный Caml (ocaml)"
+
+msgid "Objective-C"
+msgstr "Objective-C"
+
+msgid "Oblivion"
+msgstr "Oblivion"
+
+msgid "Obsolete Autoconf Macro"
+msgstr "Устаревший макрос Autoconf"
+
+msgid "Ocamldoc Comments"
+msgstr "Комментарий Ocamldoc"
+
+msgid "Octal"
+msgstr "Восьмеричное"
+
+msgid "Octal number"
+msgstr "Восьмеричное число"
+
+msgid "Octave"
+msgstr "Octave"
+
+msgid "OpenGL Shading Language"
+msgstr "Язык шейдеров OpenGL"
+
+msgid "Operation operator"
+msgstr "Оператор операций"
+
+msgid "Operator"
+msgstr "Оператор"
+
+msgid "Option"
+msgstr "Параметр"
+
+msgid "Option Name"
+msgstr "Имя параметра"
+
+msgid "Other Macro"
+msgstr "Прочие макрокоманды"
+
+msgid "Others"
+msgstr "Прочее"
+
+msgid "Others 2"
+msgstr "Прочее 2"
+
+msgid "Others 3"
+msgstr "Прочее 3"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "POD"
+msgstr "POD"
+
+msgid "POD Escape"
+msgstr "Экран POD"
+
+msgid "POD heading"
+msgstr "Заголовок POD"
+
+msgid "POD keyword"
+msgstr "Ключевое слово POD"
+
+msgid "Package Info"
+msgstr "Информация о пакете"
+
+msgid "Page Elements"
+msgstr "Элементы страницы"
+
+msgid "Parameter"
+msgstr "Параметр"
+
+msgid "Pascal"
+msgstr "Pascal"
+
+msgid "Pattern"
+msgstr "Шаблон"
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid "Polymorphic Variant"
+msgstr "Полиморфный вариант"
+
+msgid "Position of the right margin"
+msgstr "Позиция правой границы"
+
+msgid "Predefined Variable"
+msgstr "Предопределённая переменная"
+
+msgid "Predicate"
+msgstr "Утвердить"
+
+msgid "Preprocessor"
+msgstr "Директива препроцессора"
+
+msgid "Preprocessor directive"
+msgstr "Директива препроцессора"
+
+msgid "Print Footer"
+msgstr "Печать нижнего колонтитула"
+
+msgid "Print Header"
+msgstr "Печать верхнего колонтитула"
+
+msgid "Print Line Numbers"
+msgstr "Печатать номера строк"
+
+msgid "Priority"
+msgstr "Приоритет"
+
+msgid "Processing instruction"
+msgstr "Инструкция обработки"
+
+msgid "Prolog"
+msgstr "Prolog"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Property Name"
+msgstr "Имя свойств"
+
+msgid "Proposal Page Size"
+msgstr "Предложенный размер страницы"
+
+msgid "Proposal scrolling page size"
+msgstr "Предложенный прокручиваемый размер окна"
+
+msgid "Proposals Batch Size"
+msgstr "Предложенный размер группы"
+
+msgid "Provider"
+msgstr "Поставщик услуг"
+
+msgid "Provider Page Size"
+msgstr "Размер страницы поставщика услуг"
+
+msgid "Provider priority"
+msgstr "Приоритет поставщика услуг"
+
+msgid "Provider scrolling page size"
+msgstr "Прокручиваемый размер окна поставщика услуг"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "QName"
+msgstr "QName"
+
+msgid "R"
+msgstr "R"
+
+msgid "RPM Variable"
+msgstr "Переменная RPM"
+
+msgid "RPM spec"
+msgstr "Спецификация RPM"
+
+msgid "Real number"
+msgstr "Действительное число"
+
+msgid "Regular Expression"
+msgstr "Регулярное выражение"
+
+msgid "Release"
+msgstr "Выпуск"
+
+msgid "Remember Info Visibility"
+msgstr "Запомнить отображение информации"
+
+msgid "Remember the last info window visibility state"
+msgstr "Запомнить последнее состояние отображения информации"
+
+msgid "Removed line"
+msgstr "Удалённая строка"
+
+msgid "Reserved Category"
+msgstr "Зарезервированная Категория"
+
+msgid "Reserved Class"
+msgstr "Зарезервированный класс"
+
+msgid "Reserved Constant"
+msgstr "Зарезервированная константа"
+
+msgid "Reserved Identifier"
+msgstr "Зарезервированный идентификатор"
+
+msgid "Reserved Keywords"
+msgstr "Зарезервированные ключевые слова"
+
+msgid "Reserved keyword"
+msgstr "Зарезервированные ключевые слова"
+
+msgid "Return"
+msgstr "Описание результата"
+
+msgid "Right Margin Position"
+msgstr "Позиция правой границы"
+
+msgid "Ruby"
+msgstr "Ruby"
+
+msgid "SPARQL"
+msgstr "SPARQL"
+
+msgid "SQL"
+msgstr "SQL"
+
+msgid "Scan Batch Size"
+msgstr "Размер группы сканирования"
+
+msgid "Scheme"
+msgstr "Scheme"
+
+msgid "Scheme ids"
+msgstr "Идентификатор схемы"
+
+msgid "Scientific"
+msgstr "Научное"
+
+msgid "Scope Declaration"
+msgstr "Описание области действия"
+
+msgid "Scripts"
+msgstr "Языки сценариев"
+
+msgid "Section"
+msgstr "Секция"
+
+msgid "Section 1"
+msgstr "Секция 1"
+
+msgid "Section 2"
+msgstr "Секция 2"
+
+msgid "Section 3"
+msgstr "Секция 3"
+
+msgid "Section 4"
+msgstr "Секция 4"
+
+msgid "Section 5"
+msgstr "Секция 5"
+
+msgid "Section Elements"
+msgstr "Элементы секции"
+
+msgid "Select first proposal when completion is shown"
+msgstr "Выбрать первый предложенный вариант при отображении списка дополнений"
+
+msgid "Select on Show"
+msgstr "Выбор при отображении"
+
+msgid "Set if and how the spaces should be visualized"
+msgstr "Включить отображение пробельных символов и задать его стиль"
+
+msgid "Shebang"
+msgstr "Shebang"
+
+msgid "Show Headers"
+msgstr "Показывать заголовки"
+
+msgid "Show Icons"
+msgstr "Показать значки"
+
+msgid "Show Line Marks"
+msgstr "Показывать маркеры строк"
+
+msgid "Show Line Numbers"
+msgstr "Показывать номера строк"
+
+msgid "Show Right Margin"
+msgstr "Показывать правую границу"
+
+msgid "Show provider and proposal icons in the completion popup"
+msgstr ""
+"Показывать поставщиков услуг и предложенные значки в всплывающем окне "
+"подстановок"
+
+msgid ""
+"Show provider headers when proposals from multiple providers are available"
+msgstr ""
+"Показывать заголовки поставщика услуг, если  доступны предложения нескольких "
+"поставщиков"
+
+msgid "Shrink height"
+msgstr "Уменьшенная высота"
+
+msgid "Shrink width"
+msgstr "Уменьшенная ширина"
+
+msgid "Signal Name"
+msgstr "Имя сигнала"
+
+msgid "Since"
+msgstr "Описание времени появления"
+
+msgid "Smart Home/End"
+msgstr "Интеллектуальные клавиши «Home»/«End»"
+
+msgid "Source Buffer"
+msgstr "Буфер исходных текстов"
+
+msgid "Sources"
+msgstr "Исходные тексты"
+
+msgid "Spec Macro"
+msgstr "Специальная макрокоманда"
+
+msgid "Special"
+msgstr "Специальное"
+
+msgid "Special Constant"
+msgstr "Специальная константа"
+
+msgid "Special Token"
+msgstr "Специальные слова"
+
+msgid "Special Variable"
+msgstr "Специальные переменные"
+
+msgid "Special case"
+msgstr "Специальный случай"
+
+msgid "Special character (inside a string)"
+msgstr "Специальный символ (внутри строки)"
+
+msgid "Special constant"
+msgstr "Специальная константа"
+
+msgid "Standart Modules"
+msgstr "Стандартные модули"
+
+msgid "Statement"
+msgstr "Оператор"
+
+msgid "Storage Class"
+msgstr "Класс хранения переменной"
+
+msgid "Strikethrough"
+msgstr "Перечёркивание"
+
+msgid "Strikethrough set"
+msgstr "Перечёркивание установлено"
+
+msgid "String"
+msgstr "Строка"
+
+msgid "String Format"
+msgstr "Формат строки"
+
+msgid "Structural Elements"
+msgstr "Структурные элементы 1"
+
+msgid "Style scheme"
+msgstr "Стилевая схема"
+
+msgid "Style scheme description"
+msgstr "Описание стилевой схемы"
+
+msgid "Style scheme filename"
+msgstr "Имя файла стилевой схемы"
+
+msgid "Style scheme id"
+msgstr "Идентификатор стилевой схемы"
+
+msgid "Style scheme name"
+msgstr "Стилевая схема"
+
+msgid "Style scheme search path"
+msgstr "Пути поиска схем стиля"
+
+msgid "Subshell"
+msgstr "Субшелл"
+
+msgid "Switch"
+msgstr "Выбор"
+
+msgid "Swizzle operator"
+msgstr "Оператор типа"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "System Command"
+msgstr "Системная команда"
+
+msgid "Tab Width"
+msgstr "Шаг табуляции"
+
+msgid "Tag"
+msgstr "Тег"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Tcl"
+msgstr "Tcl"
+
+msgid "Texinfo"
+msgstr "Texinfo"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text2Tags"
+msgstr "Text2Tags"
+
+msgid "The GtkSourceBuffer object to print"
+msgstr "Объект GtkSourceBuffer для печати"
+
+msgid "The GtkSourceView bound to the completion"
+msgstr "Ограничение GtkSourceView для дополнения"
+
+msgid "The GtkTextIter at which the completion was invoked"
+msgstr "GtkTextIter около которого было совершено дополнение"
+
+msgid "The buffer undo manager"
+msgstr "Буфер управления отменами"
+
+msgid "The completion object associated with the view"
+msgstr "Объект дополнения ассоциированный с данным видом"
+
+msgid "The completion object to which the context belongs"
+msgstr "Объект дополнения, которому принадлежит содержимое"
+
+msgid "The delay before initiating interactive completion"
+msgstr "Задержка перед интерактивным дополнением"
+
+msgid "The gutters text window type"
+msgstr "Тип полей текстового окна"
+
+msgid "The gutters' GtkSourceView"
+msgstr "Поля GtkSourceView"
+
+msgid "The mark category"
+msgstr "Маркер категории"
+
+msgid "The maximum allowed height"
+msgstr "Максимально допустимая высота"
+
+msgid "The maximum allowed width"
+msgstr "Максимально допустимая ширина"
+
+msgid "The minimum word size to complete"
+msgstr "Минимальная длина слова для завершения"
+
+msgid ""
+"The number of pages in the document (-1 means the document has not been "
+"completely paginated)."
+msgstr "Включить нумерацию страниц в (значение -1 отключает нумерацию)."
+
+msgid "The provider icon"
+msgstr "Значок поставщика услуг"
+
+msgid "The provider name"
+msgstr "Имя поставщика услуг"
+
+msgid "The text buffer to add undo support on"
+msgstr "Текстовый буфер для поддержки отката изменений"
+
+msgid "The type of activation"
+msgstr "Тип активации"
+
+msgid "Trailing Tab"
+msgstr "Табуляция в начале строки"
+
+msgid "Translation"
+msgstr "Перевод"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type Operators"
+msgstr "Оператор типа"
+
+msgid "Type Variable"
+msgstr "Переменная типа"
+
+msgid "Type, module or object keyword"
+msgstr "Ключевые слова для типов, классов и объектов"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Undefined Value"
+msgstr "Неопределённое значение"
+
+msgid "Underline"
+msgstr "Подчёркивание"
+
+msgid "Underline set"
+msgstr "Подчёркивание установлено"
+
+msgid "Underlined"
+msgstr "Подчёркнутое"
+
+msgid "Undo manager"
+msgstr "Управление отменами"
+
+msgid "Unknown id '%s' in regex '%s'"
+msgstr "Неизвестный идентификатор «%s» в регулярном выражении «%s»"
+
+msgid "VB.NET"
+msgstr "VB.NET"
+
+msgid "VBScript and ADO constants"
+msgstr "VBScript и константы ADO"
+
+msgid "VHDL"
+msgstr "VHDL"
+
+msgid "Vala"
+msgstr "Vala"
+
+msgid "Variable"
+msgstr "Переменная"
+
+msgid "Variable Definition"
+msgstr "Определение переменной"
+
+msgid "Variant Constructor"
+msgstr "Конструктор вариантов"
+
+msgid "Verbatim"
+msgstr "Дословный режим"
+
+msgid "Verbatim Block"
+msgstr "Дословный блок"
+
+msgid "Verilog"
+msgstr "Verilog"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Void Value"
+msgstr "Пустое (Void) значение"
+
+msgid "Whether Redo operation is possible"
+msgstr "Возможно ли вернуть действие"
+
+msgid "Whether Undo operation is possible"
+msgstr "Возможно ли отменить действие"
+
+msgid "Whether background color is set"
+msgstr "Установлен ли цвет фона"
+
+msgid "Whether bold attribute is set"
+msgstr "Установлен атрибут жирного текста"
+
+msgid "Whether foreground color is set"
+msgstr "Установлен ли цвет текста"
+
+msgid "Whether italic attribute is set"
+msgstr "Установлен ли атрибут курсива"
+
+msgid "Whether line background color is set"
+msgstr "Установлен ли цвет фона строки"
+
+msgid "Whether strikethrough attribute is set"
+msgstr "Установлен ли атрибут перечёркивания"
+
+msgid "Whether the language should be hidden from the user"
+msgstr "Скрывать ли язык от пользователя"
+
+msgid "Whether the window should shrink height to fit the contents"
+msgstr "Должно ли окно уменьшать высоту по высоте содержимого"
+
+msgid "Whether the window should shrink width to fit the contents"
+msgstr "Должно ли окно уменьшать ширину по ширине содержимого"
+
+msgid "Whether to display line mark pixbufs"
+msgstr "Следует ли отображать маркеры pixbuf"
+
+msgid "Whether to display line numbers"
+msgstr "Следует ли отображать номера строк"
+
+msgid "Whether to display the right margin"
+msgstr "Следует ли отображать правую границу"
+
+msgid "Whether to enable auto indentation"
+msgstr "Следует ли автоматически расставлять отступы"
+
+msgid "Whether to highlight matching brackets"
+msgstr "Подсвечивать ли совпадающие скобки"
+
+msgid "Whether to highlight syntax in the buffer"
+msgstr "Следует ли подсвечивать синтаксис в буфере"
+
+msgid "Whether to highlight the current line"
+msgstr "Следует ли подсвечивать текущую строку"
+
+msgid "Whether to indent the selected text when the tab key is pressed"
+msgstr "Выравнивать ли выделенный текст при нажатии клавиши «Tab»"
+
+msgid "Whether to insert spaces instead of tabs"
+msgstr "Следует ли заменять табуляции пробелами"
+
+msgid "Whether to print a footer in each page"
+msgstr "Следует ли печатать нижний колонтитул на каждой странице"
+
+msgid "Whether to print a header in each page"
+msgstr "Следует ли печатать верхний колонтитул на каждой странице"
+
+msgid "Whether to print the document with highlighted syntax"
+msgstr "Оставлять ли подсветку синтаксиса при выводе печать"
+
+msgid ""
+"Whether to wrap lines never, at word boundaries, or at character boundaries."
+msgstr ""
+"Не включать перенос строк, переносить по границам слова или по символьным "
+"границам."
+
+msgid "Whether underline attribute is set"
+msgstr "Установлен ли атрибут подчёркивания"
+
+msgid "Widget State"
+msgstr "Состояние виджета"
+
+msgid "Width of a tab character expressed in spaces"
+msgstr "Ширина табуляции в пробелах"
+
+msgid "Window Type"
+msgstr "Тип окна"
+
+msgid "Wrap Mode"
+msgstr "Режим переноса"
+
+msgid "XML"
+msgstr "XML"
+
+msgid "XSLT"
+msgstr "XSLT"
+
+msgid "Yacc"
+msgstr "Yack"
+
+msgid "at-rules"
+msgstr "правила at"
+
+msgid "awk"
+msgstr "awk"
+
+msgid "category"
+msgstr "категория"
+
+msgid "command"
+msgstr "команда"
+
+msgid "context '%s' cannot contain a \\%%{...@start} command"
+msgstr "контекст «%s» не может содержать команду \\%%{...@start}"
+
+msgid "decl"
+msgstr "элемент"
+
+msgid "duplicated context id '%s'"
+msgstr "повторный идентификатор контекста «%s»"
+
+msgid "entity"
+msgstr "сущность (entity)"
+
+msgid "error"
+msgstr "ошибка"
+
+msgid "function"
+msgstr "функция"
+
+msgid "gettext translation"
+msgstr "Перевод в формате gettext"
+
+msgid "gtk-doc"
+msgstr "gtk-doc"
+
+msgid "in regex '%s': backreferences are not supported"
+msgstr "в регулярном выражении «%s»: обратные ссылки не поддерживаются"
+
+msgid "invalid context reference '%s'"
+msgstr "некорректная ссылка на контекст «%s»"
+
+msgid "keyword"
+msgstr "ключевое слово"
+
+msgid "libtool"
+msgstr "libtool"
+
+msgid "m4"
+msgstr "m4"
+
+msgid "m4 Macro"
+msgstr "Макрос m4"
+
+msgid "m4-comment"
+msgstr "Комментарий m4"
+
+msgid "math-bound"
+msgstr "Граница математики"
+
+msgid "patch-start"
+msgstr "patch-start"
+
+msgid "pkg-config"
+msgstr "pkg-config"
+
+msgid "prereq"
+msgstr "зависимость"
+
+msgid "printf Conversion"
+msgstr "Преобразование printf"
+
+msgid "quoted-value"
+msgstr "значение в кавычках"
+
+msgid "rule"
+msgstr "правило"
+
+msgid "sh"
+msgstr "sh"
+
+msgid "string-conversion"
+msgstr "преобразование строки"
+
+msgid ""
+"style override used with wildcard context reference in language '%s' in ref "
+"'%s'"
+msgstr ""
+"в языке «%s» использовалось переопределение стиля с помощью шаблона в ссылке "
+"«%s»"
+
+msgid "targets"
+msgstr "цели"
+
+msgid "token-type"
+msgstr "тип лексемы"
+
+msgid "translator-credits"
+msgstr ""
+"Dmitry G. Mastrukov <dmitry@taurussoft.org>, 2003-2004\n"
+"Mikhail Zabaluev <mhz@altlinux.org>, 2004\n"
+"Leonid Kanter <leon@asplinux.ru>, 2005, 2006\n"
+"Nickolay V. Shmyrev <nshmyrev@yandex.ru>, 2007\n"
+"Yuri Kozlov <kozlov.y@gmail.com>, 2008\n"
+"Lebedev Roman <roman@lebedev.com>, 2008\n"
+"Kostyuchenko Sergey <kofenix@gmail.com>,2010"
+
+msgid "unknown context '%s'"
+msgstr "неизвестный контекст «%s»"
+
+msgid "using \\C is not supported in language definitions"
+msgstr "Использование \\C не поддерживается в определениях языка"

@@ -1,0 +1,3418 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xkeyboard-config 2.19.99\n"
+"Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
+"POT-Creation-Date: 2017-01-10 23:31+0000\n"
+"PO-Revision-Date: 2017-01-11 18:59+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Lokalize 2.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "&lt;Less/Greater&gt;"
+msgstr "&lt;Меньше чем/Больше чем&gt;"
+
+msgid ""
+"&lt;Less/Greater&gt; chooses 3rd level, acts as onetime lock when pressed "
+"together with another 3rd-level-chooser"
+msgstr ""
+"&lt;Меньше чем/Больше чем&gt; выбирается 3-й ряд, действует как разовая "
+"блокировка при нажатии вместе с другим выборщиком-3-го-ряда"
+
+msgid ""
+"&lt;Less/Greater&gt; chooses 5th level, locks when pressed together with "
+"another 5th-level-chooser"
+msgstr ""
+"По клавише &lt;Меньше чем/Больше чем&gt; выбирается 5-й ряд, блокируется при "
+"нажатии вместе с другим выборщиком-5-го-ряда"
+
+msgid "3rd level of &lt;Less/Greater&gt;"
+msgstr "3-й ряд &lt;Меньше чем/Больше чем&gt;"
+
+msgid "3rd level of Caps Lock"
+msgstr "3-й ряд Caps Lock"
+
+msgid "3rd level of Left Ctrl"
+msgstr "3-й ряд левой Ctrl"
+
+msgid "3rd level of Left Win"
+msgstr "3-й ряд левой Win"
+
+msgid "3rd level of Menu"
+msgstr "3-й ряд Menu"
+
+msgid "3rd level of Right Ctrl"
+msgstr "3-й ряд правой Ctrl"
+
+msgid "3rd level of Right Win"
+msgstr "3-й ряд правой Win"
+
+msgid "A4Tech KB-21"
+msgstr "A4Tech KB-21"
+
+msgid "A4Tech KBS-8"
+msgstr "A4Tech KBS-8"
+
+msgid "A4Tech Wireless Desktop RFKB-23"
+msgstr "A4Tech Wireless Desktop RFKB-23"
+
+msgid "APL keyboard symbols"
+msgstr "Клавиатурные символы APL"
+
+msgid "APL keyboard symbols (APLX unified)"
+msgstr "Клавиатурные символы APL (унифицированные APLX)"
+
+msgid "APL keyboard symbols (Dyalog)"
+msgstr "Клавиатурные символы APL (Dyalog)"
+
+msgid "APL keyboard symbols (IBM APL2)"
+msgstr "Клавиатурные символы APL (IBM APL2)"
+
+msgid "APL keyboard symbols (Manugistics APL*PLUS II)"
+msgstr "Клавиатурные символы APL (Manugistics APL*PLUS II)"
+
+msgid "APL keyboard symbols (sax)"
+msgstr "Клавиатурные символы APL (sax)"
+
+msgid "APL keyboard symbols (unified)"
+msgstr "Клавиатурные символы APL (унифицированные)"
+
+msgid "ATM/phone-style"
+msgstr "В стиле банкоматной/телефонной"
+
+msgid "Acer AirKey V"
+msgstr "Acer AirKey V"
+
+msgid "Acer C300"
+msgstr "Acer C300"
+
+msgid "Acer Ferrari 4000"
+msgstr "Acer Ferrari 4000"
+
+msgid "Acer Laptop"
+msgstr "Ноутбук Acer"
+
+msgid "Add the standard behavior to Menu key"
+msgstr "Добавить обыкновенное поведение на клавишу Menu"
+
+msgid "Adding Esperanto supersigned letters"
+msgstr "Добавление букв эсперанто с надстрочными знаками"
+
+msgid "Adding currency signs to certain keys"
+msgstr "Добавление знаков валют к некоторым клавишам"
+
+msgid "Advance Scorpius KI"
+msgstr "Advance Scorpius KI"
+
+msgid "Afghani"
+msgstr "Афганская"
+
+msgid "Akan"
+msgstr "Аканская"
+
+msgid "Albanian"
+msgstr "Албанская"
+
+msgid "Albanian (Plisi)"
+msgstr "Албанская (Plisi)"
+
+msgid "Allow breaking grabs with keyboard actions (warning: security risk)"
+msgstr ""
+"Позволить прерывать захват с помощью клавиатуры (предупреждение: угроза "
+"безопасности)"
+
+msgid "Allow grab and window tree logging"
+msgstr "Позволить захват и протоколирование дерева окон"
+
+msgid "Alt and Meta are on Alt keys"
+msgstr "Alt и Meta на клавишах Alt"
+
+msgid "Alt is mapped to Right Win, Super to Menu"
+msgstr "Alt соответствует правой клавише Win, а Super — Menu"
+
+msgid "Alt is mapped to Win keys (and the usual Alt keys)"
+msgstr "Alt используется в качестве клавиш Win (и как обычный Alt)"
+
+msgid "Alt is swapped with Win"
+msgstr "Клавиша Alt поменяна местами с клавишей Win"
+
+msgid "Alt+Caps Lock"
+msgstr "Alt+Caps Lock"
+
+msgid "Alt+Ctrl"
+msgstr "Alt+Ctrl"
+
+msgid "Alt+Shift"
+msgstr "Alt+Shift"
+
+msgid "Alt+Space"
+msgstr "Alt+Пробел"
+
+msgid "Alt/Win key behavior"
+msgstr "Поведение клавиши Alt/Win"
+
+msgid "Amharic"
+msgstr "Амхарская"
+
+msgid "Any Alt key"
+msgstr "Любая клавиша Alt"
+
+msgid "Any Win key"
+msgstr "Любая клавиша Win"
+
+msgid "Any Win key (while pressed)"
+msgstr "Любая клавиша Win (на время нажатия)"
+
+msgid "Apple"
+msgstr "Apple"
+
+msgid "Apple Aluminium Keyboard (ANSI)"
+msgstr "Алюминиевая клавиатура Apple (ANSI)"
+
+msgid "Apple Aluminium Keyboard (ISO)"
+msgstr "Алюминиевая клавиатура Apple (ISO)"
+
+msgid "Apple Aluminium Keyboard (JIS)"
+msgstr "Алюминиевая клавиатура Apple (JIS)"
+
+msgid ""
+"Apple Aluminium Keyboard: emulate PC keys (Print, Scroll Lock, Pause, Num "
+"Lock)"
+msgstr ""
+"Алюминиевая клавиатура Apple: эмуляция клавиш ПК (Print, Scroll Lock, Pause, "
+"Num Lock)"
+
+msgid "Apple Laptop"
+msgstr "Ноутбук Apple"
+
+msgid "Arabic"
+msgstr "Арабская"
+
+msgid "Arabic (Algeria)"
+msgstr "Арабская (Алжир)"
+
+msgid "Arabic (Buckwalter)"
+msgstr "Арабская (Buckwalter)"
+
+msgid "Arabic (Macintosh)"
+msgstr "Арабская (Macintosh)"
+
+msgid "Arabic (Morocco)"
+msgstr "Арабская (Марокко)"
+
+msgid "Arabic (Pakistan)"
+msgstr "Арабская (Пакистан)"
+
+msgid "Arabic (Sun Type 6/7)"
+msgstr "Арабская (Sun Type 6/7)"
+
+msgid "Arabic (Syria)"
+msgstr "Арабская (Сирия)"
+
+msgid "Arabic (azerty)"
+msgstr "Арабская (azerty)"
+
+msgid "Arabic (azerty/digits)"
+msgstr "Арабская (azerty/цифры)"
+
+msgid "Arabic (digits)"
+msgstr "Арабская (цифры)"
+
+msgid "Arabic (qwerty)"
+msgstr "Арабская (qwerty)"
+
+msgid "Arabic (qwerty/digits)"
+msgstr "Арабская (qwerty/цифры)"
+
+msgid "Armenian"
+msgstr "Армянская"
+
+msgid "Armenian (OLPC phonetic)"
+msgstr "Армянская (фонетическая на OLPC)"
+
+msgid "Armenian (alternative eastern)"
+msgstr "Армянская (альтернативная восточная)"
+
+msgid "Armenian (alternative phonetic)"
+msgstr "Армянская (альтернативная фонетическая)"
+
+msgid "Armenian (eastern)"
+msgstr "Армянская (восточная)"
+
+msgid "Armenian (phonetic)"
+msgstr "Армянская (фонетическая)"
+
+msgid "Armenian (western)"
+msgstr "Армянская (западная)"
+
+msgid "Asturian (Spain, with bottom-dot H and bottom-dot L)"
+msgstr "Астурлеонская (испанский вариант с нижними точками у H и L)"
+
+msgid "Asus Laptop"
+msgstr "Ноутбук Asus"
+
+msgid "At bottom left"
+msgstr "Снизу слева"
+
+msgid "At left of 'A'"
+msgstr "Слева от 'A'"
+
+msgid "Atsina"
+msgstr "Атсинская"
+
+msgid "Avatime"
+msgstr "Аватайм"
+
+msgid "Avestan"
+msgstr "Авестийская"
+
+msgid "Azerbaijani"
+msgstr "Азербайджанская"
+
+msgid "Azerbaijani (Cyrillic)"
+msgstr "Азербайджанская (кириллица)"
+
+msgid "Azona RF2300 wireless Internet Keyboard"
+msgstr "Azona RF2300 wireless Internet Keyboard"
+
+msgid "BTC 5090"
+msgstr "BTC 5090"
+
+msgid "BTC 5113RF Multimedia"
+msgstr "BTC 5113RF Multimedia"
+
+msgid "BTC 5126T"
+msgstr "BTC 5126T"
+
+msgid "BTC 6301URF"
+msgstr "BTC 6301URF"
+
+msgid "BTC 9000"
+msgstr "BTC 9000"
+
+msgid "BTC 9000A"
+msgstr "BTC 9000A"
+
+msgid "BTC 9001AH"
+msgstr "BTC 9001AH"
+
+msgid "BTC 9019U"
+msgstr "BTC 9019U"
+
+msgid "BTC 9116U Mini Wireless Internet and Gaming"
+msgstr "BTC 9116U Mini Wireless Internet and Gaming"
+
+msgid "Backslash"
+msgstr "Backslash"
+
+msgid ""
+"Backslash chooses 3rd level, acts as onetime lock when pressed together with "
+"another 3rd-level-chooser"
+msgstr ""
+"Backslash выбирается 3-й ряд, действует как разовая блокировка при нажатии "
+"вместе с другим выборщиком-3-го-ряда"
+
+msgid "Bambara"
+msgstr "Баманская"
+
+msgid "Bangla"
+msgstr "Бенгальская"
+
+msgid "Bangla (India)"
+msgstr "Бенгальская (Индия)"
+
+msgid "Bangla (India, Baishakhi Inscript)"
+msgstr "Бенгальская (Индия, письменность байшакхи)"
+
+msgid "Bangla (India, Baishakhi)"
+msgstr "Бенгальская (Индия, байшакхи)"
+
+msgid "Bangla (India, Bornona)"
+msgstr "Бенгальская (Индия, борона)"
+
+msgid "Bangla (India, Probhat)"
+msgstr "Бенгальская (Индия, пробхат)"
+
+msgid "Bangla (India, Uni Gitanjali)"
+msgstr "Бенгальская (Индия, юни-гитанжали)"
+
+msgid "Bangla (Probhat)"
+msgstr "Бенгальская (пробхат)"
+
+msgid "Bashkirian"
+msgstr "Башкирская"
+
+msgid "Belarusian"
+msgstr "Белорусская"
+
+msgid "Belarusian (Latin)"
+msgstr "Белорусская (латиница)"
+
+msgid "Belarusian (legacy)"
+msgstr "Белорусская (устаревшая)"
+
+msgid "Belgian"
+msgstr "Бельгийская"
+
+msgid "Belgian (ISO alternate)"
+msgstr "Бельгийская (альтернативная ISO)"
+
+msgid "Belgian (Sun Type 6/7)"
+msgstr "Бельгийская (Sun Type 6/7)"
+
+msgid "Belgian (Sun dead keys)"
+msgstr "Бельгийская (спец. клавиши (dead keys) Sun)"
+
+msgid "Belgian (Wang model 724 azerty)"
+msgstr "Бельгийская (Wang model 724 azerty)"
+
+msgid "Belgian (alternative)"
+msgstr "Бельгийская (альтернативная)"
+
+msgid "Belgian (alternative, Latin-9 only)"
+msgstr "Бельгийская (альтернативная, только Latin-9)"
+
+msgid "Belgian (alternative, Sun dead keys)"
+msgstr "Бельгийская (альтернативная, спец. клавиши (dead keys) Sun)"
+
+msgid "Belgian (eliminate dead keys)"
+msgstr "Бельгийская (без спец. клавиш (dead keys))"
+
+msgid "BenQ X-Touch"
+msgstr "BenQ X-Touch"
+
+msgid "BenQ X-Touch 730"
+msgstr "BenQ X-Touch 730"
+
+msgid "BenQ X-Touch 800"
+msgstr "BenQ X-Touch 800"
+
+msgid "Berber (Algeria, Latin characters)"
+msgstr "Берберская (Алжир, латинские символы)"
+
+msgid "Berber (Algeria, Tifinagh characters)"
+msgstr "Берберская (Алжир, тифинагские символы)"
+
+msgid "Berber (Morocco, Tifinagh alternative phonetic)"
+msgstr "Берберская (Марокко, тифинагская альтернативная фонетическая)"
+
+msgid "Berber (Morocco, Tifinagh alternative)"
+msgstr "Берберская (Марокко, тифинагская альтернативная)"
+
+msgid "Berber (Morocco, Tifinagh extended phonetic)"
+msgstr "Берберская (Марокко, тифинагская расширенная фонетическая)"
+
+msgid "Berber (Morocco, Tifinagh extended)"
+msgstr "Берберская (Марокко, тифинагская расширенная)"
+
+msgid "Berber (Morocco, Tifinagh phonetic)"
+msgstr "Берберская (Марокко, тифинагская фонетическая)"
+
+msgid "Berber (Morocco, Tifinagh)"
+msgstr "Берберская (Марокко, тифинагская)"
+
+msgid "Bosnian"
+msgstr "Боснийская"
+
+msgid "Bosnian (US keyboard with Bosnian digraphs)"
+msgstr "Боснийская (клавиатура США с боснийскими диграфами)"
+
+msgid "Bosnian (US keyboard with Bosnian letters)"
+msgstr "Боснийская (клавиатура США с боснийскими буквами)"
+
+msgid "Bosnian (with Bosnian digraphs)"
+msgstr "Боснийская (с боснийскими диграфами)"
+
+msgid "Bosnian (with guillemets for quotes)"
+msgstr "Боснийская (с кавычками ёлочками для кавычек)"
+
+msgid "Both Alt keys together"
+msgstr "Обе клавиши Alt, нажатые вместе"
+
+msgid "Both Ctrl keys together"
+msgstr "Обе клавиши Ctrl, нажатые вместе"
+
+msgid "Both Shift keys together"
+msgstr "Обе клавиши Shift, нажатые вместе"
+
+msgid "Both Shift keys together activate Caps Lock, one Shift key deactivates"
+msgstr ""
+"Обе клавиши Shift, нажатые вместе, включают Caps Lock, одна клавиша Shift "
+"выключает"
+
+msgid "Both Shift keys together toggle Caps Lock"
+msgstr "Обе клавиши Shift, нажатые вместе, переключают Caps Lock"
+
+msgid "Both Shift keys together toggle ShiftLock"
+msgstr "Обе клавиши Shift, нажатые вместе, переключают ShiftLock"
+
+msgid "Braille"
+msgstr "Брайля"
+
+msgid "Braille (left hand)"
+msgstr "Брайля (под левую руку)"
+
+msgid "Braille (right hand)"
+msgstr "Брайля (под правую руку)"
+
+msgid "Brother Internet Keyboard"
+msgstr "Brother Internet Keyboard"
+
+msgid "Bulgarian"
+msgstr "Болгарская"
+
+msgid "Bulgarian (new phonetic)"
+msgstr "Болгарская (новая фонетическая)"
+
+msgid "Bulgarian (traditional phonetic)"
+msgstr "Болгарская (традиционная фонетическая)"
+
+msgid "Burmese"
+msgstr "Бирманская"
+
+msgid "Cameroon Multilingual (Dvorak)"
+msgstr "Камерунская многоязыковая (дворак)"
+
+msgid "Cameroon Multilingual (azerty)"
+msgstr "Камерунская многоязыковая (azerty)"
+
+msgid "Cameroon Multilingual (qwerty)"
+msgstr "Камерунская многоязыковая (qwerty)"
+
+msgid "Canadian Multilingual"
+msgstr "Канадская многоязыковая"
+
+msgid "Canadian Multilingual (first part)"
+msgstr "Канадская многоязыковая (первая часть)"
+
+msgid "Canadian Multilingual (second part)"
+msgstr "Канадская многоязыковая (вторая часть)"
+
+msgid "Caps Lock"
+msgstr "Caps Lock"
+
+msgid "Caps Lock (to first layout), Shift+Caps Lock (to last layout)"
+msgstr ""
+"Caps Lock (на первую раскладку), Shift+Caps Lock (на последнюю раскладку)"
+
+msgid ""
+"Caps Lock (while pressed), Alt+Caps Lock does the original capslock action"
+msgstr ""
+"Caps Lock (пока нажата), Alt+Caps Lock выполняет первоначальную функцию "
+"capslock"
+
+msgid "Caps Lock acts as Shift with locking; Shift \"pauses\" Caps Lock"
+msgstr ""
+"Caps Lock действует как Shift с блокировкой; Shift «приостанавливает» "
+"действие Caps Lock"
+
+msgid "Caps Lock acts as Shift with locking; Shift doesn't affect Caps Lock"
+msgstr ""
+"Caps Lock действует как Shift с блокировкой; Shift не влияет на Caps Lock"
+
+msgid "Caps Lock as Ctrl"
+msgstr "Caps Lock как Ctrl"
+
+msgid ""
+"Caps Lock chooses 3rd level, acts as onetime lock when pressed together with "
+"another 3rd-level-chooser"
+msgstr ""
+"Caps Lock выбирается 3-й ряд, действует как разовая блокировка при нажатии "
+"вместе с другим выборщиком-3-го-ряда"
+
+msgid "Caps Lock is also a Ctrl"
+msgstr "Caps Lock как Ctrl"
+
+msgid "Caps Lock is disabled"
+msgstr "Caps Lock отключён"
+
+msgid "Caps Lock key behavior"
+msgstr "Поведение клавиши Caps Lock"
+
+msgid "Caps Lock toggles ShiftLock (affects all keys)"
+msgstr "Caps Lock переключает ShiftLock (действует сразу на все клавиши)"
+
+msgid "Caps Lock toggles normal capitalization of alphabetic characters"
+msgstr "Caps Lock переключает обычную капитализацию символов алфавита"
+
+msgid "Caps Lock uses internal capitalization; Shift \"pauses\" Caps Lock"
+msgstr ""
+"Caps Lock включает внутреннюю капитализацию; Shift «приостанавливает» "
+"действие Caps Lock"
+
+msgid "Caps Lock uses internal capitalization; Shift doesn't affect Caps Lock"
+msgstr ""
+"Caps Lock включает внутреннюю капитализацию; Shift не влияет на Caps Lock"
+
+msgid "Catalan (Spain, with middle-dot L)"
+msgstr "Каталонская (испанский вариант с точкой в L посередине)"
+
+msgid "Cherokee"
+msgstr "Черокская"
+
+msgid "Cherry B.UNLIMITED"
+msgstr "Cherry B.UNLIMITED"
+
+msgid "Cherry Blue Line CyBo@rd"
+msgstr "Cherry Blue Line CyBo@rd"
+
+msgid "Cherry Blue Line CyBo@rd (alternate option)"
+msgstr "Cherry Blue Line CyBo@rd (альтернативный вариант)"
+
+msgid "Cherry CyBo@rd USB-Hub"
+msgstr "Cherry CyBo@rd USB-Hub"
+
+msgid "Cherry CyMotion Expert"
+msgstr "Cherry CyMotion Expert"
+
+msgid "Cherry CyMotion Master Linux"
+msgstr "Cherry CyMotion Master Linux"
+
+msgid "Cherry CyMotion Master XPress"
+msgstr " Cherry CyMotion Master Linux"
+
+msgid "Chicony Internet Keyboard"
+msgstr "Chicony Internet Keyboard"
+
+msgid "Chicony KB-9885"
+msgstr "Chicony KB-9885"
+
+msgid "Chicony KU-0108"
+msgstr "Chicony KU-0108"
+
+msgid "Chicony KU-0420"
+msgstr "Chicony KU-0420"
+
+msgid "Chinese"
+msgstr "Китайская"
+
+msgid "Church Slavonic"
+msgstr "Старославянская"
+
+msgid "Chuvash"
+msgstr "Чувашия"
+
+msgid "Chuvash (Latin)"
+msgstr "Чувашская (латиница)"
+
+msgid "Classmate PC"
+msgstr "Classmate PC"
+
+msgid "CloGaelach"
+msgstr "CloGaelach"
+
+msgid "Coeur d'Alene Salish"
+msgstr "Салишская Кёр-д’Ален"
+
+msgid "Compaq Easy Access Keyboard"
+msgstr "Compaq Easy Access Keyboard"
+
+msgid "Compaq Internet Keyboard (13 keys)"
+msgstr "Compaq Internet Keyboard (13 клавиш)"
+
+msgid "Compaq Internet Keyboard (18 keys)"
+msgstr "Compaq Internet Keyboard (18 клавиш)"
+
+msgid "Compaq Internet Keyboard (7 keys)"
+msgstr "Compaq Internet Keyboard (7 клавиш)"
+
+msgid "Compaq iPaq Keyboard"
+msgstr "Compaq iPaq Keyboard"
+
+msgid "Creative Desktop Wireless 7000"
+msgstr "Creative Desktop Wireless 7000"
+
+msgid "Crimean Tatar (Dobruja Q)"
+msgstr "Крымско-татарская (Dobruja Q)"
+
+msgid "Crimean Tatar (Turkish Alt-Q)"
+msgstr "Крымско-татарская (турецкая Alt-Q)"
+
+msgid "Crimean Tatar (Turkish F)"
+msgstr "Крымско-татарская (турецкая F)"
+
+msgid "Crimean Tatar (Turkish Q)"
+msgstr "Крымско-татарская (турецкая Q)"
+
+msgid "Croatian"
+msgstr "Хорватская"
+
+msgid "Croatian (US keyboard with Croatian digraphs)"
+msgstr "Хорватская (клавиатура США с хорватскими диграфами)"
+
+msgid "Croatian (US keyboard with Croatian letters)"
+msgstr "Хорватская (клавиатура США с хорватскими буквами)"
+
+msgid "Croatian (with Croatian digraphs)"
+msgstr "Хорватская (с хорватскими диграфами)"
+
+msgid "Croatian (with guillemets for quotes)"
+msgstr "Хорватская (с кавычками ёлочками для кавычек)"
+
+msgid "Ctrl + Alt + Backspace"
+msgstr "Ctrl + Alt + Backspace"
+
+msgid "Ctrl is mapped to Alt keys, Alt is mapped to Win keys"
+msgstr ""
+"Ctrl используется в качестве клавиш Alt; Alt используется в качестве клавиш "
+"Win"
+
+msgid "Ctrl is mapped to Win keys (and the usual Ctrl keys)"
+msgstr "Ctrl используется в качестве клавиш Win (и как обычные клавиши Ctrl)"
+
+msgid "Ctrl key position"
+msgstr "Положение клавиши Ctrl"
+
+msgid "Ctrl+Shift"
+msgstr "Ctrl+Shift"
+
+msgid "Czech"
+msgstr "Чешская"
+
+msgid "Czech (Sun Type 6/7)"
+msgstr "Чешская (Sun Type 6/7)"
+
+msgid "Czech (UCW layout, accented letters only)"
+msgstr "Чешская (раскладка UCW, только символы акцентов)"
+
+msgid "Czech (US Dvorak with CZ UCW support)"
+msgstr "Чешская (дворак США с поддержкой CZ UCW)"
+
+msgid "Czech (qwerty)"
+msgstr "Чешская (qwerty)"
+
+msgid "Czech (qwerty, extended Backslash)"
+msgstr "Чешская (qwerty, расширенные функции Backslash)"
+
+msgid "Czech (with &lt;\\|&gt; key)"
+msgstr "Чешская (с клавишей &lt;\\|&gt;)"
+
+msgid "Czech Slovak and German (US)"
+msgstr "Чехословацкая и немецкая (США)"
+
+msgid "DTK2000"
+msgstr "DTK2000"
+
+msgid "Danish"
+msgstr "Датская"
+
+msgid "Danish (Dvorak)"
+msgstr "Датская (дворак)"
+
+msgid "Danish (Macintosh)"
+msgstr "Датская (Macintosh)"
+
+msgid "Danish (Macintosh, eliminate dead keys)"
+msgstr "Датская (Macintosh, без спец. клавиш (dead keys))"
+
+msgid "Danish (Sun Type 6/7)"
+msgstr "Датская (Sun Type 6/7)"
+
+msgid "Danish (Winkeys)"
+msgstr "Датская (с клавишами Win)"
+
+msgid "Danish (eliminate dead keys)"
+msgstr "Датская (без спец. клавиш (dead keys))"
+
+msgid "Default numeric keypad keys"
+msgstr "Клавиши цифровой клавиатуры по умолчанию"
+
+msgid "Dell"
+msgstr "Dell"
+
+msgid "Dell 101-key PC"
+msgstr "Dell 101-клавишный PC"
+
+msgid "Dell Laptop/notebook Inspiron 6xxx/8xxx"
+msgstr "Ноутбук Dell Inspiron из серий 6xxx/8xxx"
+
+msgid "Dell Laptop/notebook Precision M series"
+msgstr "Ноутбук Dell Precision из серии M"
+
+msgid "Dell Latitude series laptop"
+msgstr "Ноутбук Dell из серии Latitude"
+
+msgid "Dell Precision M65"
+msgstr "Dell Precision M65"
+
+msgid "Dell SK-8125"
+msgstr "Dell SK-8125"
+
+msgid "Dell SK-8135"
+msgstr "Dell SK-8135"
+
+msgid "Dell USB Multimedia Keyboard"
+msgstr "Dell USB Multimedia Keyboard"
+
+msgid "Dexxa Wireless Desktop Keyboard"
+msgstr "Dexxa Wireless Desktop Keyboard"
+
+msgid "Dhivehi"
+msgstr "Дивехи"
+
+msgid "Diamond 9801 / 9802 series"
+msgstr "Модели Diamond 9801/9802"
+
+msgid "Dutch"
+msgstr "Голландская"
+
+msgid "Dutch (Macintosh)"
+msgstr "Голландская (Macintosh)"
+
+msgid "Dutch (Sun Type 6/7)"
+msgstr "Голландская (Sun Type 6/7)"
+
+msgid "Dutch (Sun dead keys)"
+msgstr "Голландская (спец. клавиши (dead keys) Sun)"
+
+msgid "Dutch (standard)"
+msgstr "Голландская (стандартная)"
+
+msgid "Dzongkha"
+msgstr "Дзонг-кэ (dz"
+
+msgid "Elfdalian (Swedish, with combining ogonek)"
+msgstr "Эльвдальская (шведская с добавлением огонэк)"
+
+msgid "Enable extra typographic characters"
+msgstr "Включить дополнительные типографские символы"
+
+msgid "English (Australian)"
+msgstr "Английская (австралийская)"
+
+msgid "English (Cameroon)"
+msgstr "Английская (Камерун)"
+
+msgid "English (Canada)"
+msgstr "Английская (Канада)"
+
+msgid "English (Carpalx)"
+msgstr "Английская (Carpalx)"
+
+msgid "English (Carpalx, full optimization)"
+msgstr "Английская (Carpalx, полная оптимизация)"
+
+msgid "English (Carpalx, full optimization, international AltGr dead keys)"
+msgstr ""
+"Английская (Carpalx, полная оптимизация, международная с AltGr и спец. "
+"клавишами)"
+
+msgid "English (Carpalx, full optimization, international with dead keys)"
+msgstr ""
+"Английская (Carpalx, полная оптимизация, международная с спец. клавишами)"
+
+msgid "English (Carpalx, international AltGr dead keys)"
+msgstr ""
+"Английская (Carpalx, международная с AltGr и спец. клавишами (dead keys))"
+
+msgid "English (Carpalx, international with dead keys)"
+msgstr "Английская (Carpalx, международная с спец. клавишами)"
+
+msgid "English (Colemak)"
+msgstr "Английская (Коулмак)"
+
+msgid "English (Dvorak alternative international no dead keys)"
+msgstr "Английская (дворак альтернативная международная без спец. клавиш)"
+
+msgid "English (Dvorak)"
+msgstr "Английская (дворак)"
+
+msgid "English (Dvorak, international with dead keys)"
+msgstr "Английская (дворак, международная с спец. клавишами)"
+
+msgid "English (Ghana)"
+msgstr "Английская (Гана)"
+
+msgid "English (Ghana, GILLBT)"
+msgstr "Английская (Гана, GILLBT)"
+
+msgid "English (Ghana, multilingual)"
+msgstr "Английская (Гана, международная)"
+
+msgid "English (India, with rupee sign)"
+msgstr "Английская (Индия, с символом рупии)"
+
+msgid "English (Macintosh)"
+msgstr "Английская (Macintosh)"
+
+msgid "English (Mali, US Macintosh)"
+msgstr "Английская (Мали, Macintosh США)"
+
+msgid "English (Mali, US international)"
+msgstr "Английская (Мали, международная США)"
+
+msgid "English (Nigeria)"
+msgstr "Английская (Нигерия)"
+
+msgid "English (Norman)"
+msgstr "Английская (нормандская)"
+
+msgid "English (Programmer Dvorak)"
+msgstr "Английская (дворак для программистов)"
+
+msgid "English (South Africa)"
+msgstr "Английская (Южная Африка)"
+
+msgid "English (UK)"
+msgstr "Английская (Великобритания)"
+
+msgid "English (UK, Colemak)"
+msgstr "Английская (Великобритания, Коулмак)"
+
+msgid "English (UK, Dvorak with UK punctuation)"
+msgstr "Английская (Великобритания, дворак с английской пунктуацией)"
+
+msgid "English (UK, Dvorak)"
+msgstr "Английская (Великобритания, дворак)"
+
+msgid "English (UK, Macintosh international)"
+msgstr "Английская (Великобритания, Macintosh международная)"
+
+msgid "English (UK, Macintosh)"
+msgstr "Английская (Великобритания, Macintosh)"
+
+msgid "English (UK, Sun Type 6/7)"
+msgstr "Английская (Великобритания, Sun Type 6/7)"
+
+msgid "English (UK, extended WinKeys)"
+msgstr "Английская (Великобритания, расширенная клавишами Win)"
+
+msgid "English (UK, international with dead keys)"
+msgstr ""
+"Английская (Великобритания, международная с спец. клавишами (dead keys))"
+
+msgid "English (US)"
+msgstr "Английская (США)"
+
+msgid "English (US, IBM Arabic 238_L)"
+msgstr "Английская (США, арабская IBM 238_L)"
+
+msgid "English (US, Sun Type 6/7)"
+msgstr "Английская (США, Sun Type 6/7)"
+
+msgid "English (US, alternative international)"
+msgstr "Английская (США, альтернативная международная)"
+
+msgid "English (US, international AltGr Unicode combining)"
+msgstr "Английская (США, международная, объединённая с юникодным AltGr)"
+
+msgid "English (US, international AltGr Unicode combining, alternative)"
+msgstr ""
+"Английская (США, международная, объединённая с юникодным AltGr, "
+"альтернативная)"
+
+msgid "English (US, international with dead keys)"
+msgstr "Английская (США, международная с спец. клавишами (dead keys))"
+
+msgid "English (US, with euro on 5)"
+msgstr "Английская (США, международная с символом евро на клавише 5)"
+
+msgid "English (Workman)"
+msgstr "Английская (Воркман)"
+
+msgid "English (Workman, international with dead keys)"
+msgstr "Английская (Воркман, международная с спец. клавишами)"
+
+msgid "English (classic Dvorak)"
+msgstr "Английская (классическая дворак)"
+
+msgid "English (international AltGr dead keys)"
+msgstr "Английская (международная с AltGr и спец. клавишами (dead keys))"
+
+msgid "English (left handed Dvorak)"
+msgstr "Английская (дворак под левую руку)"
+
+msgid "English (right handed Dvorak)"
+msgstr "Английская (дворак под правую руку)"
+
+msgid "English (the divide/multiply keys toggle the layout)"
+msgstr "Английская (переключение раскладки по клавишам умножения/деления)"
+
+msgid "Ennyah DKB-1008"
+msgstr "Ennyah DKB-1008"
+
+msgid "Enter on keypad"
+msgstr "Enter на цифровой клавиатуре"
+
+msgid "Esperanto"
+msgstr "Эсперанто"
+
+msgid "Esperanto (Brazil, Nativo)"
+msgstr "Эсперанто (Бразилия, навито)"
+
+msgid "Esperanto (Portugal, Nativo)"
+msgstr "Эсперанто (Португалия, Nativo)"
+
+msgid "Esperanto (displaced semicolon and quote, obsolete)"
+msgstr "Эсперанто (смещённые точка с запятой и кавычка, устарела)"
+
+msgid "Estonian"
+msgstr "Эстонская"
+
+msgid "Estonian (Dvorak)"
+msgstr "Эстонская (дворак)"
+
+msgid "Estonian (Sun Type 6/7)"
+msgstr "Эстонская (Sun Type 6/7)"
+
+msgid "Estonian (US keyboard with Estonian letters)"
+msgstr "Эстонская (клавиатура США с эстонскими буквами)"
+
+msgid "Estonian (eliminate dead keys)"
+msgstr "Эстонская (без спец. клавиш (dead keys))"
+
+msgid "EurKEY (US based layout with european letters)"
+msgstr "EurKEY (раскладка на основе США с европейскими буквами)"
+
+msgid "Euro on 2"
+msgstr "Символ евро на клавише 2"
+
+msgid "Euro on 4"
+msgstr "Символ евро на клавише 4"
+
+msgid "Euro on 5"
+msgstr "Символ евро на клавише 5"
+
+msgid "Euro on E"
+msgstr "Символ евро на клавише E"
+
+msgid "Everex STEPnote"
+msgstr "Everex STEPnote"
+
+msgid "Ewe"
+msgstr "Ewe"
+
+msgid "FL90"
+msgstr "FL90"
+
+msgid "Faroese"
+msgstr "Фарерская"
+
+msgid "Faroese (eliminate dead keys)"
+msgstr "Фарерская (без спец. клавиш (dead keys))"
+
+msgid "Filipino"
+msgstr "Филиппинская"
+
+msgid "Filipino (Capewell-Dvorak Baybayin)"
+msgstr "Филиппинская (кэйпвелл-дворак байбайинcкая)"
+
+msgid "Filipino (Capewell-Dvorak Latin)"
+msgstr "Филиппинская (кэйпвелл-дворак латиница)"
+
+msgid "Filipino (Capewell-QWERF 2006 Baybayin)"
+msgstr "Филиппинская (Кэйпвелл-QWERF 2006 байбайинская)"
+
+msgid "Filipino (Capewell-QWERF 2006 Latin)"
+msgstr "Филиппинская (Кэйпвелл-QWERF 2006 латиница)"
+
+msgid "Filipino (Colemak Baybayin)"
+msgstr "Филиппинская (Коулмак байбайинская)"
+
+msgid "Filipino (Colemak Latin)"
+msgstr "Филиппинская (Коулмак латиница)"
+
+msgid "Filipino (Dvorak Baybayin)"
+msgstr "Филиппинская (дворак байбайинcкая)"
+
+msgid "Filipino (Dvorak Latin)"
+msgstr "Филиппинская (дворак латиница)"
+
+msgid "Filipino (QWERTY Baybayin)"
+msgstr "Филиппинская (QWERTY байбайинская)"
+
+msgid "Finnish"
+msgstr "Финская"
+
+msgid "Finnish (DAS)"
+msgstr "Финская (DAS)"
+
+msgid "Finnish (Macintosh)"
+msgstr "Финская (Macintosh)"
+
+msgid "Finnish (Sun Type 6/7)"
+msgstr "Финская (Sun Type 6/7)"
+
+msgid "Finnish (Winkeys)"
+msgstr "Финская (с клавишами Win)"
+
+msgid "Finnish (classic)"
+msgstr "Финская (классическая)"
+
+msgid "Finnish (classic, eliminate dead keys)"
+msgstr "Финская (классическая, без спец. клавиш (dead keys))"
+
+msgid "Four-level key with abstract separators"
+msgstr "Четырёх-рядная клавиша с абстрактными разделителями"
+
+msgid "Four-level key with comma"
+msgstr "Четырёх-рядная клавиша с запятой"
+
+msgid "Four-level key with dot"
+msgstr "Четырёх-рядная клавиша с точкой"
+
+msgid "Four-level key with dot, Latin-9 only"
+msgstr "Четырёх-рядная клавиша с точкой, только Latin-9"
+
+msgid "Four-level key with momayyez"
+msgstr "Четырёх-рядная клавиша с momayyez"
+
+msgid "French"
+msgstr "Французская"
+
+msgid "French (Azerty)"
+msgstr "Французская (Azerty)"
+
+msgid "French (Bepo, ergonomic, Dvorak way)"
+msgstr "Французская (Бепо, эргономичная, похожа на дворак)"
+
+msgid "French (Bepo, ergonomic, Dvorak way, Latin-9 only)"
+msgstr "Французская (Бепо, эргономичная, похожа на дворак, только Latin-9)"
+
+msgid "French (Breton)"
+msgstr "Французская (бретонская)"
+
+msgid "French (Cameroon)"
+msgstr "Французская (Камерун)"
+
+msgid "French (Canada)"
+msgstr "Французская (Канада)"
+
+msgid "French (Canada, Dvorak)"
+msgstr "Французская (Канада, дворак)"
+
+msgid "French (Canada, legacy)"
+msgstr "Французская (Канада, устаревшая)"
+
+msgid "French (Democratic Republic of the Congo)"
+msgstr "Французская (Демократическая республика Конго)"
+
+msgid "French (Dvorak)"
+msgstr "Французская (дворак)"
+
+msgid "French (Guinea)"
+msgstr "Французская (Гвинея)"
+
+msgid "French (Macintosh)"
+msgstr "Французская (Macintosh)"
+
+msgid "French (Mali, alternative)"
+msgstr "Французская (Мали, альтернативная)"
+
+msgid "French (Morocco)"
+msgstr "Французская (Марокко)"
+
+msgid "French (Sun Type 6/7)"
+msgstr "Французская (Sun Type 6/7)"
+
+msgid "French (Sun dead keys)"
+msgstr "Французская (со спец. клавишами (dead keys) Sun)"
+
+msgid "French (Switzerland)"
+msgstr "Французская (Швейцария)"
+
+msgid "French (Switzerland, Macintosh)"
+msgstr "Французская (Швейцария, Macintosh)"
+
+msgid "French (Switzerland, Sun Type 6/7)"
+msgstr "Французская (Швейцария, Sun Type 6/7)"
+
+msgid "French (Switzerland, Sun dead keys)"
+msgstr "Французская (Швейцария, спец. клавиши (dead keys) Sun)"
+
+msgid "French (Switzerland, eliminate dead keys)"
+msgstr "Французская (Швейцария, без спец. клавиш (dead keys))"
+
+msgid "French (Togo)"
+msgstr "Французская (Того)"
+
+msgid "French (alternative)"
+msgstr "Французская (альтернативная)"
+
+msgid "French (alternative, Latin-9 only)"
+msgstr "Французская (альтернативная, только Latin-9)"
+
+msgid "French (alternative, Sun dead keys)"
+msgstr "Французская (альтернативная, спец. клавиши (dead keys) Sun)"
+
+msgid "French (alternative, eliminate dead keys)"
+msgstr "Французская (альтернативная, без спец. клавиш (dead keys))"
+
+msgid "French (eliminate dead keys)"
+msgstr "Французская (без спец. клавиш (dead keys))"
+
+msgid "French (legacy, alternative)"
+msgstr "Французская (устаревшая, альтернативная)"
+
+msgid "French (legacy, alternative, Sun dead keys)"
+msgstr ""
+"Французская (устаревшая, альтернативная, с спец. клавишами (dead keys) Sun)"
+
+msgid "French (legacy, alternative, eliminate dead keys)"
+msgstr "Французская (устаревшая, альтернативная, без спец. клавиш (dead keys))"
+
+msgid "Fujitsu-Siemens Computers AMILO laptop"
+msgstr "Ноутбук Fujitsu-Siemens Computers AMILO"
+
+msgid "Fula"
+msgstr "Фулайская"
+
+msgid "Ga"
+msgstr "Гайская"
+
+msgid "Generic 101-key PC"
+msgstr "Обычная 101-клавишная"
+
+msgid "Generic 102-key (Intl) PC"
+msgstr "Обычная 102-клавишная (межд)"
+
+msgid "Generic 104-key PC"
+msgstr "Обычная 104-клавишная"
+
+msgid "Generic 105-key (Intl) PC"
+msgstr "Обычная 105-клавишная (межд)"
+
+msgid "Genius Comfy KB-12e"
+msgstr "Genius Comfy KB-12e"
+
+msgid "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+msgstr "Genius Comfy KB-16M / Genius MM Keyboard KWD-910"
+
+msgid "Genius Comfy KB-21e-Scroll"
+msgstr "Genius Comfy KB-21e-Scroll"
+
+msgid "Genius KB-19e NB"
+msgstr "Genius KB-19e NB"
+
+msgid "Genius KKB-2050HS"
+msgstr "Genius KKB-2050HS"
+
+msgid "Georgian"
+msgstr "Грузинская"
+
+msgid "Georgian (France, AZERTY Tskapo)"
+msgstr "Грузинская (Франция, AZERTY Tskapo)"
+
+msgid "Georgian (Italy)"
+msgstr "Грузинская (Италия)"
+
+msgid "Georgian (MESS)"
+msgstr "Грузинская (MESS)"
+
+msgid "Georgian (ergonomic)"
+msgstr "Georgian (эргономичная)"
+
+msgid "German"
+msgstr "Немецкая"
+
+msgid "German (Aus der Neo-Welt)"
+msgstr "Немецкая (Aus der Neo-Welt)"
+
+msgid "German (Austria)"
+msgstr "Немецкая (Австрия)"
+
+msgid "German (Austria, Macintosh)"
+msgstr "Немецкая (Австрия, Macintosh)"
+
+msgid "German (Austria, Sun dead keys)"
+msgstr "Немецкая (Австрия, с спец. клавишами (dead keys) Sun)"
+
+msgid "German (Austria, eliminate dead keys)"
+msgstr "Немецкая (Австрия, без спец. клавиш (dead keys))"
+
+msgid "German (Bone)"
+msgstr "Немецкая (Bone)"
+
+msgid "German (Bone, eszett home row)"
+msgstr "German (Bone, эсцет в строке с home)"
+
+msgid "German (Dvorak)"
+msgstr "Немецкая (дворак)"
+
+msgid "German (KOY)"
+msgstr "Немецкая (KOY)"
+
+msgid "German (Macintosh)"
+msgstr "Немецкая (Macintosh)"
+
+msgid "German (Macintosh, eliminate dead keys)"
+msgstr "Немецкая (Macintosh, без спец. клавиш (dead keys))"
+
+msgid "German (Neo 2)"
+msgstr "Немецкая (Neo 2)"
+
+msgid "German (Neo qwerty)"
+msgstr "Немецкая (новая qwerty)"
+
+msgid "German (Neo qwertz)"
+msgstr "Немецкая (новая qwertz)"
+
+msgid "German (Sun Type 6/7)"
+msgstr "Немецкая (Sun Type 6/7)"
+
+msgid "German (Sun dead keys)"
+msgstr "Немецкая (со спец. клавишами (dead keys) Sun)"
+
+msgid "German (Switzerland)"
+msgstr "Немецкая (Швейцария)"
+
+msgid "German (Switzerland, Macintosh)"
+msgstr "Немецкая (Швейцария, Macintosh)"
+
+msgid "German (Switzerland, Sun Type 6/7)"
+msgstr "Немецкая (Швейцария, Sun Type 6/7)"
+
+msgid "German (Switzerland, Sun dead keys)"
+msgstr "Немецкая (Швейцария, с спец. клавишами (dead keys) Sun)"
+
+msgid "German (Switzerland, eliminate dead keys)"
+msgstr "Немецкая (Швейцария, без спец. клавиш (dead keys))"
+
+msgid "German (Switzerland, legacy)"
+msgstr "Немецкая (Швейцария, устаревшая)"
+
+msgid "German (T3)"
+msgstr "Немецкая (T3)"
+
+msgid "German (US keyboard with German letters)"
+msgstr "Немецкая (клавиатура США с немецкими буквами)"
+
+msgid "German (dead acute)"
+msgstr "Немецкая (с акутом (dead acute))"
+
+msgid "German (dead grave acute)"
+msgstr "Немецкая (с dead grave acute)"
+
+msgid "German (dead tilde)"
+msgstr "Немецкая (с тильдой (dead tilde))"
+
+msgid "German (eliminate dead keys)"
+msgstr "Немецкая (без спец. клавиш (dead keys))"
+
+msgid "German (qwerty)"
+msgstr "Немецкая (qwerty)"
+
+msgid "German (with Hungarian letters and no dead keys)"
+msgstr "Немецкая (с венгерскими буквами и без спец. клавиш (dead keys))"
+
+msgid "Greek"
+msgstr "Греческая"
+
+msgid "Greek (Sun Type 6/7)"
+msgstr "Греческая (Sun Type 6/7)"
+
+msgid "Greek (eliminate dead keys)"
+msgstr "Греческая (без спец. клавиш (dead keys))"
+
+msgid "Greek (extended)"
+msgstr "Греческая (расширенная)"
+
+msgid "Greek (polytonic)"
+msgstr "Греческая (полифоническая)"
+
+msgid "Greek (simple)"
+msgstr "Греческая (простая)"
+
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+msgid "Gyration"
+msgstr "Гирашн"
+
+msgid "HTC Dream"
+msgstr "HTC Dream"
+
+msgid "Happy Hacking Keyboard"
+msgstr "Happy Hacking Keyboard"
+
+msgid "Happy Hacking Keyboard for Mac"
+msgstr "Happy Hacking Keyboard для Mac"
+
+msgid "Hardware Hangul/Hanja keys"
+msgstr "Аппаратные клавиши хангыль/ханча"
+
+msgid "Hausa"
+msgstr "Хауза"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "Hebrew (Biblical, SIL phonetic)"
+msgstr "Иврит (Библейская, фонетическая SIL)"
+
+msgid "Hebrew (Biblical, Tiro)"
+msgstr "Иврит (библейский, Tiro)"
+
+msgid "Hebrew (lyx)"
+msgstr "Иврит (lyx)"
+
+msgid "Hebrew (phonetic)"
+msgstr "Иврит (фонетическая)"
+
+msgid "Hewlett-Packard Internet Keyboard"
+msgstr "Hewlett-Packard Internet Keyboard"
+
+msgid "Hewlett-Packard Mini 110 Notebook"
+msgstr "Ноутбук Hewlett-Packard Mini 110"
+
+msgid "Hewlett-Packard Omnibook 500 FA"
+msgstr "Hewlett-Packard Omnibook 500 FA"
+
+msgid "Hewlett-Packard Omnibook 5xx"
+msgstr "Hewlett-Packard Omnibook 5xx"
+
+msgid "Hewlett-Packard Omnibook 6000/6100"
+msgstr "Hewlett-Packard Omnibook 6000/6100"
+
+msgid "Hewlett-Packard Omnibook XE3 GC"
+msgstr "Hewlett-Packard Omnibook XE3 GC"
+
+msgid "Hewlett-Packard Omnibook XE3 GF"
+msgstr "Hewlett-Packard Omnibook XE3 GF"
+
+msgid "Hewlett-Packard Omnibook XT1000"
+msgstr "Hewlett-Packard Omnibook XT1000"
+
+msgid "Hewlett-Packard Pavilion ZT11xx"
+msgstr "Hewlett-Packard Pavilion ZT11xx"
+
+msgid "Hewlett-Packard Pavilion dv5"
+msgstr "Hewlett-Packard Pavilion dv5"
+
+msgid "Hewlett-Packard SK-250x Multimedia Keyboard"
+msgstr "Hewlett-Packard SK-250x Multimedia Keyboard"
+
+msgid "Hewlett-Packard nx9020"
+msgstr "Hewlett-Packard nx9020"
+
+msgid "Hexadecimal"
+msgstr "Шестнадцатеричная"
+
+msgid "Hindi (Bolnagri)"
+msgstr "Хинди (Bolnagri)"
+
+msgid "Hindi (KaGaPa phonetic)"
+msgstr "Хинди (фонетика KaGaPa)"
+
+msgid "Hindi (Wx)"
+msgstr "Хинди (Wx)"
+
+msgid "Honeywell Euroboard"
+msgstr "Honeywell Euroboard"
+
+msgid "Htc Dream phone"
+msgstr "телефон Htc Dream"
+
+msgid "Hungarian"
+msgstr "Венгерская"
+
+msgid "Hungarian (101/qwerty/comma/dead keys)"
+msgstr "Венгерская (pc101/qwerty/запятая/спец. клавиши (dead keys))"
+
+msgid "Hungarian (101/qwerty/comma/eliminate dead keys)"
+msgstr "Венгерская (pc101/qwerty/запятая/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (101/qwerty/dot/dead keys)"
+msgstr "Венгерская (pc101/qwerty/точка/спец. клавиши (dead keys))"
+
+msgid "Hungarian (101/qwerty/dot/eliminate dead keys)"
+msgstr "Венгерская (pc101/qwerty/точка/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (101/qwertz/comma/dead keys)"
+msgstr "Венгерская (101/qwertz/запятая/спец. клавиши (dead keys))"
+
+msgid "Hungarian (101/qwertz/comma/eliminate dead keys)"
+msgstr "Венгерская (101/qwertz/запятая/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (101/qwertz/dot/dead keys)"
+msgstr "Венгерская (101/qwertz/точка/спец. клавиши (dead keys))"
+
+msgid "Hungarian (101/qwertz/dot/eliminate dead keys)"
+msgstr "Венгерская (101/qwertz/точка/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (102/qwerty/comma/dead keys)"
+msgstr "Венгерская (102/qwerty/запятая/спец. клавиши (dead keys))"
+
+msgid "Hungarian (102/qwerty/comma/eliminate dead keys)"
+msgstr "Венгерская (102/qwerty/запятая/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (102/qwerty/dot/dead keys)"
+msgstr "Венгерская (102/qwerty/точка/спец. клавиши (dead keys))"
+
+msgid "Hungarian (102/qwerty/dot/eliminate dead keys)"
+msgstr "Венгерская (102/qwerty/точка/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (102/qwertz/comma/dead keys)"
+msgstr "Венгерская (102/qwertz/запятая/спец. клавиши (dead keys))"
+
+msgid "Hungarian (102/qwertz/comma/eliminate dead keys)"
+msgstr "Венгерская (102/qwertz/запятая/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (102/qwertz/dot/dead keys)"
+msgstr "Венгерская (102/qwertz/точка/спец. клавиши (dead keys))"
+
+msgid "Hungarian (102/qwertz/dot/eliminate dead keys)"
+msgstr "Венгерская (102/qwertz/точка/без спец. клавиш (dead keys))"
+
+msgid "Hungarian (eliminate dead keys)"
+msgstr "Венгерская (без спец. клавиш (dead keys))"
+
+msgid "Hungarian (qwerty)"
+msgstr "Венгерская (qwerty)"
+
+msgid "Hungarian (standard)"
+msgstr "Венгерская (стандартная)"
+
+msgid "Hyper is mapped to Win keys"
+msgstr "Hyper соответствует клавишам Win"
+
+msgid "IBM Rapid Access"
+msgstr "IBM Rapid Access"
+
+msgid "IBM Rapid Access II"
+msgstr "IBM Rapid Access II"
+
+msgid "IBM Space Saver"
+msgstr "IBM Space Saver"
+
+msgid "IBM ThinkPad 560Z/600/600E/A22E"
+msgstr "IBM ThinkPad 560Z/600/600E/A22E"
+
+msgid "IBM ThinkPad R60/T60/R61/T61"
+msgstr "IBM ThinkPad R60/T60/R61/T61"
+
+msgid "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+msgstr "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+
+msgid "Icelandic"
+msgstr "Исландская"
+
+msgid "Icelandic (Dvorak)"
+msgstr "Исландская (дворак)"
+
+msgid "Icelandic (Macintosh)"
+msgstr "Исландская (Macintosh)"
+
+msgid "Icelandic (Macintosh, legacy)"
+msgstr "Исландская (Macintosh, устаревшая)"
+
+msgid "Icelandic (Sun dead keys)"
+msgstr "Исландская (спец. клавиши (dead keys) Sun)"
+
+msgid "Icelandic (eliminate dead keys)"
+msgstr "Исландская (без спец. клавиш (dead keys))"
+
+msgid "Igbo"
+msgstr "Игбо"
+
+msgid "Indian"
+msgstr "Индийская"
+
+msgid "Inuktitut"
+msgstr "Иннуитская"
+
+msgid "Iraqi"
+msgstr "Иракская"
+
+msgid "Irish"
+msgstr "Ирландская"
+
+msgid "Irish (UnicodeExpert)"
+msgstr "Ирландская (UnicodeExpert)"
+
+msgid "Italian"
+msgstr "Итальянская"
+
+msgid "Italian (IBM 142)"
+msgstr "Итальянская (IBM 142)"
+
+msgid "Italian (Macintosh)"
+msgstr "Итальянская (Macintosh)"
+
+msgid "Italian (Sun Type 6/7)"
+msgstr "Итальянская (Sun Type 6/7)"
+
+msgid "Italian (US keyboard with Italian letters)"
+msgstr "Итальянская (клавиатура США с итальянскими буквами)"
+
+msgid "Italian (Winkeys)"
+msgstr "Итальянская (с клавишами Win)"
+
+msgid "Italian (eliminate dead keys)"
+msgstr "Итальянская (без спец. клавиш (dead keys))"
+
+msgid "Japanese"
+msgstr "Японская"
+
+msgid "Japanese (Dvorak)"
+msgstr "Японская (дворак)"
+
+msgid "Japanese (Kana 86)"
+msgstr "Японская (Кана 86)"
+
+msgid "Japanese (Kana)"
+msgstr "Японская (Кана)"
+
+msgid "Japanese (Macintosh)"
+msgstr "Японская (Macintosh)"
+
+msgid "Japanese (OADG 109A)"
+msgstr "Японская (OADG 109A)"
+
+msgid "Japanese (PC-98xx Series)"
+msgstr "Японская (PC-98xx Series)"
+
+msgid "Japanese (Sun Type 6)"
+msgstr "Японская (Sun Type 6)"
+
+msgid "Japanese (Sun Type 7 - pc compatible)"
+msgstr "Японская (Sun Type 7, совместимая с pc)"
+
+msgid "Japanese (Sun Type 7 - sun compatible)"
+msgstr "Японская (Sun Type 7, совместимая с sun)"
+
+msgid "Japanese keyboard options"
+msgstr "Настройки японской клавиатуры"
+
+msgid "Kalmyk"
+msgstr "Калмыцкая"
+
+msgid "Kana Lock key is locking"
+msgstr "Кана блокируется клавишей Lock"
+
+msgid "Kannada"
+msgstr "Каннада"
+
+msgid "Kannada (KaGaPa phonetic)"
+msgstr "Каннадакская (фонетика KaGaPa)"
+
+msgid "Kashubian"
+msgstr "Кашубская"
+
+msgid "Kazakh"
+msgstr "Казахская"
+
+msgid "Kazakh (extended)"
+msgstr "Казахская (расширенная)"
+
+msgid "Kazakh (with Russian)"
+msgstr "Казахская (с русским)"
+
+msgid "Key sequence to kill the X server"
+msgstr "Комбинация клавиш для прерывания работы X-сервера"
+
+msgid "Key to choose 3rd level"
+msgstr "Клавиша для выбора 3-го ряда"
+
+msgid "Key to choose 5th level"
+msgstr "Клавиша для выбора 5-го ряда"
+
+msgid "Keytronic FlexPro"
+msgstr "Keytronic FlexPro"
+
+msgid "Khmer (Cambodia)"
+msgstr "Кхмерская (Камбоджа)"
+
+msgid "Kikuyu"
+msgstr "Кикуйу"
+
+msgid "Kinesis"
+msgstr "Kinesis"
+
+msgid "Komi"
+msgstr "Коми"
+
+msgid "Korean"
+msgstr "Корейская"
+
+msgid "Korean (101/104 key compatible)"
+msgstr "Корейская (совместимая c 101/104 кнопочной)"
+
+msgid "Korean (Sun Type 6/7)"
+msgstr "Корейская (Sun Type 6/7)"
+
+msgid "Korean Hangul/Hanja keys"
+msgstr "Корейские клавиши хангыль/ханча"
+
+msgid "Kurdish (Iran, Arabic-Latin)"
+msgstr "Курдская (Иран, арабо-латинская)"
+
+msgid "Kurdish (Iran, F)"
+msgstr "Курдская (Иран, F)"
+
+msgid "Kurdish (Iran, Latin Alt-Q)"
+msgstr "Курдская (Иран, латинская Alt-Q)"
+
+msgid "Kurdish (Iran, Latin Q)"
+msgstr "Курдская (Иран, латинская Q)"
+
+msgid "Kurdish (Iraq, Arabic-Latin)"
+msgstr "Курдская (Ирак, арабо-латинская)"
+
+msgid "Kurdish (Iraq, F)"
+msgstr "Курдская (Ирак, F)"
+
+msgid "Kurdish (Iraq, Latin Alt-Q)"
+msgstr "Курдская (Ирак, латинская alt-Q)"
+
+msgid "Kurdish (Iraq, Latin Q)"
+msgstr "Курдская (Ирак, латинская Q)"
+
+msgid "Kurdish (Syria, F)"
+msgstr "Курдская (Сирия, F)"
+
+msgid "Kurdish (Syria, Latin Alt-Q)"
+msgstr "Курдская (Сирия, латинская Alt-Q)"
+
+msgid "Kurdish (Syria, Latin Q)"
+msgstr "Курдская (Сирия, латинская Q)"
+
+msgid "Kurdish (Turkey, F)"
+msgstr "Курдская (Турция, F)"
+
+msgid "Kurdish (Turkey, Latin Alt-Q)"
+msgstr "Курдская (Турция, латинская Alt-Q)"
+
+msgid "Kurdish (Turkey, Latin Q)"
+msgstr "Курдская (Турция, латинская Q)"
+
+msgid "Kutenai"
+msgstr "Кутенайская"
+
+msgid "Kyrgyz"
+msgstr "Киргизская"
+
+msgid "Kyrgyz (phonetic)"
+msgstr "Киргизская (фонетическая)"
+
+msgid "Lao"
+msgstr "Лаосская"
+
+msgid "Lao (STEA proposed standard layout)"
+msgstr "Лаосская (стандартная раскладка, предложенная STEA)"
+
+msgid "Laptop/notebook Compaq (eg. Armada) Laptop Keyboard"
+msgstr "Клавиатура ноутбука Compaq (например, Armada)"
+
+msgid "Laptop/notebook Compaq (eg. Presario) Internet Keyboard"
+msgstr "«Интернет-клавиатура» ноутбука Compaq (например, Presario)"
+
+msgid "Laptop/notebook eMachines m68xx"
+msgstr "Ноутбук eMachines из серии m68xx"
+
+msgid "Latvian"
+msgstr "Латышская"
+
+msgid "Latvian (F variant)"
+msgstr "Латышская (вариант с F)"
+
+msgid "Latvian (Sun Type 6/7)"
+msgstr "Латышская (Sun Type 6/7)"
+
+msgid "Latvian (US Colemak)"
+msgstr "Латышская (Коулмак США)"
+
+msgid "Latvian (US Colemak, apostrophe variant)"
+msgstr "Латышская (Коулмак США, вариант с апострофом)"
+
+msgid "Latvian (US Dvorak)"
+msgstr "Латышская (дворак США)"
+
+msgid "Latvian (US Dvorak, Y variant)"
+msgstr "Латышская (дворак США, вариант с Y)"
+
+msgid "Latvian (US Dvorak, minus variant)"
+msgstr "Латышская (дворак США, вариант с минусом)"
+
+msgid "Latvian (adapted)"
+msgstr "Латышская (адаптированная)"
+
+msgid "Latvian (apostrophe variant)"
+msgstr "Латышская (вариант с апострофом)"
+
+msgid "Latvian (ergonomic, ŪGJRMV)"
+msgstr "Латышская (эргономичная, ŪGJRMV)"
+
+msgid "Latvian (modern)"
+msgstr "Латышская (современная)"
+
+msgid "Latvian (programmer US Dvorak)"
+msgstr "Латышская (дворак США для программистов)"
+
+msgid "Latvian (programmer US Dvorak, Y variant)"
+msgstr "Латышская (дворак США для программистов, вариант с Y)"
+
+msgid "Latvian (programmer US Dvorak, minus variant)"
+msgstr "Латышская (дворак США для программистов, вариант с минусом)"
+
+msgid "Latvian (tilde variant)"
+msgstr "Латышская (вариант с тильдой)"
+
+msgid "Layout of numeric keypad"
+msgstr "Раскладка цифровой клавиатуры"
+
+msgid "Left Alt"
+msgstr "Левая клавиша Alt"
+
+msgid "Left Alt (while pressed)"
+msgstr "Левая клавиша Alt (пока нажата)"
+
+msgid "Left Alt as Ctrl, Left Ctrl as Win, Left Win as Alt"
+msgstr ""
+"Левая клавиша Alt как Ctrl, левая клавиша Ctrl как Win, левая клавиша Win "
+"как Alt"
+
+msgid "Left Alt is swapped with Left Win"
+msgstr "Левая клавиша Alt поменяна местами с левой клавишей Win"
+
+msgid "Left Alt+Left Shift"
+msgstr "Левая Alt+Левая Shift"
+
+msgid "Left Ctrl"
+msgstr "Левая клавиша Ctrl"
+
+msgid "Left Ctrl (to first layout), Right Ctrl (to last layout)"
+msgstr "Левая Ctrl (на первую раскладку), Правая Ctrl (на последнюю раскладку)"
+
+msgid "Left Ctrl as Meta"
+msgstr "Левая клавиша Ctrl как Meta"
+
+msgid "Left Ctrl+Left Shift"
+msgstr "Левая Ctrl+Левая Shift"
+
+msgid "Left Shift"
+msgstr "Левая клавиша Shift"
+
+msgid "Left Win"
+msgstr "Левая клавиша Win"
+
+msgid "Left Win (to first layout), Right Win/Menu (to last layout)"
+msgstr ""
+"Левая Win (на первую раскладку), Правая Win/Menu (на последнюю раскладку)"
+
+msgid "Left Win (while pressed)"
+msgstr "Левая клавиша Win (пока нажата)"
+
+msgid ""
+"Left Win chooses 5th level, locks when pressed together with another 5th-"
+"level-chooser"
+msgstr ""
+"По левой клавише Win выбирается 5-й ряд, блокирует, блокирует при нажатии "
+"вместе с другим выборщиком-5-го-ряда"
+
+msgid "LeftCtrl+LeftWin"
+msgstr "Левая-Ctrl+Левая-Win"
+
+msgid "LeftCtrl+LeftWin (to first layout), RightCtrl+Menu (to second layout)"
+msgstr ""
+"Левая-Ctrl+Левая-Win (на первую раскладку), Правая-Ctrl+Menu (на вторую "
+"раскладку)"
+
+msgid "Legacy"
+msgstr "Legacy"
+
+msgid "Legacy Wang 724"
+msgstr "Старая Wang 724"
+
+msgid "Legacy key with comma"
+msgstr "Клавиша Legacy с запятой"
+
+msgid "Legacy key with dot"
+msgstr "Клавиша Legacy с точкой"
+
+msgid "Lithuanian"
+msgstr "Литовская"
+
+msgid "Lithuanian (IBM LST 1205-92)"
+msgstr "Литовская (IBM LST 1205-92)"
+
+msgid "Lithuanian (LEKP)"
+msgstr "Литовская (LEKP)"
+
+msgid "Lithuanian (LEKPa)"
+msgstr "Литовская (LEKPa)"
+
+msgid "Lithuanian (Sun Type 6/7)"
+msgstr "Литовская (Sun Type 6/7)"
+
+msgid "Lithuanian (US Dvorak with Lithuanian letters)"
+msgstr "Литовская (дворак США с литовскими буквами)"
+
+msgid "Lithuanian (US keyboard with Lithuanian letters)"
+msgstr "Литовская (клавиатура США с литовскими буквами)"
+
+msgid "Lithuanian (standard)"
+msgstr "Литовская (стандартная)"
+
+msgid "Logitech Access Keyboard"
+msgstr "Logitech Access Keyboard"
+
+msgid "Logitech Cordless Desktop"
+msgstr "Logitech Cordless Desktop"
+
+msgid "Logitech Cordless Desktop (alternate option)"
+msgstr "Logitech Cordless Desktop (альтернативный вариант)"
+
+msgid "Logitech Cordless Desktop EX110"
+msgstr "Logitech Cordless Desktop EX110"
+
+msgid "Logitech Cordless Desktop LX-300"
+msgstr "Logitech Cordless Desktop LX-300"
+
+msgid "Logitech Cordless Desktop Navigator"
+msgstr "Logitech Cordless Desktop Navigator"
+
+msgid "Logitech Cordless Desktop Optical"
+msgstr "Logitech Cordless Desktop Optical"
+
+msgid "Logitech Cordless Desktop Pro (alternate option 2)"
+msgstr "Logitech Cordless Desktop Pro (альтернативный вариант 2)"
+
+msgid "Logitech Cordless Desktop iTouch"
+msgstr "Logitech Cordless Desktop iTouch"
+
+msgid "Logitech Cordless Freedom/Desktop Navigator"
+msgstr "Logitech Cordless Freedom/Desktop Navigator"
+
+msgid "Logitech G15 extra keys via G15daemon"
+msgstr "Дополнительные клавиши Logitech G15 с помощью службы G15"
+
+msgid "Logitech Generic Keyboard"
+msgstr "Logitech Generic Keyboard"
+
+msgid "Logitech Internet 350 Keyboard"
+msgstr "Logitech Internet 350 Keyboard"
+
+msgid "Logitech Internet Keyboard"
+msgstr "Logitech Internet Keyboard"
+
+msgid "Logitech Internet Navigator Keyboard"
+msgstr "Logitech Internet Navigator Keyboard"
+
+msgid "Logitech Media Elite Keyboard"
+msgstr "Logitech Media Elite Keyboard"
+
+msgid "Logitech Ultra-X Cordless Media Desktop Keyboard"
+msgstr "Logitech Ultra-X Cordless Media Desktop Keyboard"
+
+msgid "Logitech Ultra-X Keyboard"
+msgstr "Logitech Ultra-X Keyboard"
+
+msgid "Logitech diNovo Edge Keyboard"
+msgstr "Logitech diNovo Edge Keyboard"
+
+msgid "Logitech diNovo Keyboard"
+msgstr "Logitech diNovo Keyboard"
+
+msgid "Logitech iTouch"
+msgstr "Logitech iTouch"
+
+msgid "Logitech iTouch Cordless Keyboard (model Y-RB6)"
+msgstr "Logitech iTouch Cordless Keyboard (модель Y-RB6)"
+
+msgid "Logitech iTouch Internet Navigator Keyboard SE"
+msgstr "Logitech iTouch Internet Navigator Keyboard SE"
+
+msgid "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+msgstr "Logitech iTouch Internet Navigator Keyboard SE (USB)"
+
+msgid "Lower Sorbian"
+msgstr "Нижнелужицкая"
+
+msgid "Lower Sorbian (qwertz)"
+msgstr "Нижнелужицкая (qwertz)"
+
+msgid "MacBook/MacBook Pro"
+msgstr "MacBook/MacBook Pro"
+
+msgid "MacBook/MacBook Pro (Intl)"
+msgstr "MacBook/MacBook Pro (межд)"
+
+msgid "Macedonian"
+msgstr "Македонская"
+
+msgid "Macedonian (eliminate dead keys)"
+msgstr "Македонская (без спец. клавиш (dead keys))"
+
+msgid "Macintosh"
+msgstr "Macintosh"
+
+msgid "Macintosh Old"
+msgstr "Старый Macintosh"
+
+msgid "Maintain key compatibility with old Solaris keycodes"
+msgstr "Сохранить совместимость со старыми кодами клавиш Solaris"
+
+msgid "Make Caps Lock an additional Backspace"
+msgstr "Использовать Caps Lock как дополнительную клавишу Backspace"
+
+msgid "Make Caps Lock an additional ESC"
+msgstr "Использовать Caps Lock как дополнительную клавишу ESC"
+
+msgid "Make Caps Lock an additional Hyper"
+msgstr "Использовать Caps Lock как дополнительную клавишу Hyper"
+
+msgid "Make Caps Lock an additional Menu key"
+msgstr "Использовать Caps Lock как дополнительную клавишу Menu"
+
+msgid "Make Caps Lock an additional Num Lock"
+msgstr "Использовать Caps Lock как дополнительную клавишу Num Lock"
+
+msgid "Make Caps Lock an additional Super"
+msgstr "Использовать Caps Lock как дополнительную клавишу Super"
+
+msgid "Make Zenkaku Hankaku an additional ESC"
+msgstr "Использовать Zenkaku Hankaku как дополнительную клавишу ESC"
+
+msgid "Malayalam"
+msgstr "Малайaлам"
+
+msgid "Malayalam (Lalitha)"
+msgstr "Малайaламская (лалита)"
+
+msgid "Malayalam (enhanced Inscript, with rupee sign)"
+msgstr "Малайaламская (улучшенная письменность с символом рупии)"
+
+msgid "Maltese"
+msgstr "Мальтийская"
+
+msgid "Maltese (with US layout)"
+msgstr "Мальтийская (с раскладкой США)"
+
+msgid "Manipuri (Eeyek)"
+msgstr "Манипури (Eeyek)"
+
+msgid "Maori"
+msgstr "Маори"
+
+msgid "Marathi (KaGaPa phonetic)"
+msgstr "Маратхийская (фонетика KaGaPa)"
+
+msgid "Mari"
+msgstr "Марийская"
+
+msgid "Memorex MX1998"
+msgstr "Memorex MX1998"
+
+msgid "Memorex MX2500 EZ-Access Keyboard"
+msgstr "Memorex MX2500 EZ-Access Keyboard"
+
+msgid "Memorex MX2750"
+msgstr "Memorex MX2750"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Menu as Right Ctrl"
+msgstr "Menu как правая клавиша Ctrl"
+
+msgid "Meta is mapped to Left Win"
+msgstr "Meta соответствует левой клавише Win"
+
+msgid "Meta is mapped to Win keys"
+msgstr "Meta соответствует клавишам Win"
+
+msgid "Microsoft Comfort Curve Keyboard 2000"
+msgstr "Microsoft Comfort Curve Keyboard 2000"
+
+msgid "Microsoft Internet Keyboard"
+msgstr "Microsoft Internet Keyboard"
+
+msgid "Microsoft Internet Keyboard Pro, Swedish"
+msgstr "Microsoft Internet Keyboard Pro, шведская"
+
+msgid "Microsoft Natural"
+msgstr "Microsoft Natural"
+
+msgid "Microsoft Natural Ergonomic Keyboard 4000"
+msgstr "Microsoft Natural Ergonomic Keyboard 4000"
+
+msgid "Microsoft Natural Keyboard Elite"
+msgstr "Microsoft Natural Keyboard Elite"
+
+msgid "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+msgstr "Microsoft Natural Keyboard Pro / Microsoft Internet Keyboard Pro"
+
+msgid "Microsoft Natural Keyboard Pro OEM"
+msgstr "Microsoft Natural Keyboard Pro OEM"
+
+msgid "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+msgstr "Microsoft Natural Keyboard Pro USB / Microsoft Internet Keyboard Pro"
+
+msgid "Microsoft Natural Wireless Ergonomic Keyboard 7000"
+msgstr "Microsoft Natural Wireless Ergonomic Keyboard 7000"
+
+msgid "Microsoft Office Keyboard"
+msgstr "Microsoft Office Keyboard"
+
+msgid "Microsoft Wireless Multimedia Keyboard 1.0A"
+msgstr "Microsoft Wireless Multimedia Keyboard 1.0A"
+
+msgid "Miscellaneous compatibility options"
+msgstr "Разные параметры совместимости"
+
+msgid "Mmuock"
+msgstr "Mmuock"
+
+msgid "Moldavian"
+msgstr "Молдавская"
+
+msgid "Moldavian (Gagauz)"
+msgstr "Молдавская (гагаузская)"
+
+msgid "Mongolian"
+msgstr "Монгольская"
+
+msgid "Montenegrin"
+msgstr "Черногорская"
+
+msgid "Montenegrin (Cyrillic with guillemets)"
+msgstr "Черногорская (кириллица с кавычками ёлочками)"
+
+msgid "Montenegrin (Cyrillic)"
+msgstr "Черногорская (кириллица)"
+
+msgid "Montenegrin (Cyrillic, ZE and ZHE swapped)"
+msgstr "Черногорская (кириллица, З и Ж переставлены местами)"
+
+msgid "Montenegrin (Latin Unicode qwerty)"
+msgstr "Черногорская (латинская юникодная qwerty)"
+
+msgid "Montenegrin (Latin Unicode)"
+msgstr "Черногорская (латинская юникодная)"
+
+msgid "Montenegrin (Latin qwerty)"
+msgstr "Черногорская (латинская qwerty)"
+
+msgid "Montenegrin (Latin with guillemets)"
+msgstr "Черногорская (латинская с кавычками ёлочками)"
+
+msgid "Multilingual (Canada, Sun Type 6/7)"
+msgstr "Многоязыковая (Канада, Sun Type 6/7)"
+
+msgid "NICOLA-F style Backspace"
+msgstr "Backspace в стиле NICOLA-F"
+
+msgid "Nepali"
+msgstr "Непальская"
+
+msgid "Non-breakable space character at fourth level"
+msgstr "Символ неразрывного пробела в четвёртом ряду"
+
+msgid ""
+"Non-breakable space character at fourth level, thin non-breakable space "
+"character at sixth level"
+msgstr ""
+"Символ неразрывного пробела в четвёртом ряду, символ тонкого неразрывного "
+"пробела в шестом ряду"
+
+msgid ""
+"Non-breakable space character at fourth level, thin non-breakable space "
+"character at sixth level (via Ctrl+Shift)"
+msgstr ""
+"Символ неразрывного пробела в четвёртом ряду, символ тонкого неразрывного "
+"пробела в шестом ряду (с помощью Ctrl+Shift)"
+
+msgid "Non-breakable space character at second level"
+msgstr "Символ неразрывного пробела во втором ряду"
+
+msgid "Non-breakable space character at third level"
+msgstr "Символ неразрывного пробела в третьем ряду"
+
+msgid "Non-breakable space character at third level, nothing at fourth level"
+msgstr "Символ неразрывного пробела в третьем ряду, ничего на четвёртом"
+
+msgid ""
+"Non-breakable space character at third level, thin non-breakable space "
+"character at fourth level"
+msgstr ""
+"Символ неразрывного пробела в третьем ряду, символ тонкого неразрывного "
+"пробела в четвёртом ряду"
+
+msgid "Northern Saami (Finland)"
+msgstr "Северная Саамская (Финляндия)"
+
+msgid "Northern Saami (Norway)"
+msgstr "Северная Саамская (Норвегия)"
+
+msgid "Northern Saami (Norway, eliminate dead keys)"
+msgstr "Северная Саамская (Норвегия, без спец. клавиш (dead keys))"
+
+msgid "Northern Saami (Sweden)"
+msgstr "Северная Саамская (Швеция)"
+
+msgid "Northgate OmniKey 101"
+msgstr "Northgate OmniKey 101"
+
+msgid "Norwegian"
+msgstr "Норвежская"
+
+msgid "Norwegian (Colemak)"
+msgstr "Норвежская (Коулмак)"
+
+msgid "Norwegian (Dvorak)"
+msgstr "Норвежская (дворак)"
+
+msgid "Norwegian (Macintosh)"
+msgstr "Норвежская (Macintosh)"
+
+msgid "Norwegian (Macintosh, eliminate dead keys)"
+msgstr "Норвежская (Macintosh, без спец. клавиш (dead keys))"
+
+msgid "Norwegian (Sun Type 6/7)"
+msgstr "Норвежская (Sun Type 6/7)"
+
+msgid "Norwegian (Winkeys)"
+msgstr "Норвежская (с клавишами Win)"
+
+msgid "Norwegian (eliminate dead keys)"
+msgstr "Норвежская (без спец. клавиш (dead keys))"
+
+msgid "Num Lock"
+msgstr "Num Lock"
+
+msgid ""
+"NumLock on: digits, Shift switches to arrow keys, Numlock off: always arrow "
+"keys (as in MS Windows)"
+msgstr ""
+"NumLock включен: цифры, Shift переключает на клавиши-стрелки, Numlock "
+"выключен: всегда клавиши-стрелки (как в MS Windows)"
+
+msgid "Numeric keypad delete key behaviour"
+msgstr "Функция клавиши Delete на цифровой клавиатуре"
+
+msgid "Numeric keypad keys always enter digits (as in Mac OS)"
+msgstr "С клавиш цифровой клавиатуры всегда вводятся цифры (как в Mac OS)"
+
+msgid "OLPC"
+msgstr "OLPC"
+
+msgid "Occitan"
+msgstr "Окситанский"
+
+msgid "Ogham"
+msgstr "Огхам"
+
+msgid "Ogham (IS434)"
+msgstr "Огхам (IS434)"
+
+msgid "Ol Chiki"
+msgstr "Ол-чики"
+
+msgid "Oriya"
+msgstr "Орийя"
+
+msgid "Ortek MCK-800 MM/Internet keyboard"
+msgstr "Клавиатура Ortek MCK-800 MM/Internet"
+
+msgid "Ossetian (Georgia)"
+msgstr "Осетинская (Грузия)"
+
+msgid "Ossetian (WinKeys)"
+msgstr "Осетинская (с клавишами Win)"
+
+msgid "Ossetian (legacy)"
+msgstr "Осетинская (устаревшая)"
+
+msgid "PC-98xx Series"
+msgstr "PC-98xx Series"
+
+msgid "Pannonian Rusyn"
+msgstr "Паннонская русинская"
+
+msgid "Pashto"
+msgstr "Пуштунская"
+
+msgid "Pashto (Afghanistan, OLPC)"
+msgstr "Пуштунская (Афганистан, OLPC)"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Persian"
+msgstr "Персидская"
+
+msgid "Persian (Afghanistan, Dari OLPC)"
+msgstr "Персидская (Афганистан, Dari OLPC)"
+
+msgid "Persian (with Persian keypad)"
+msgstr "Персидская (с персидской доп. панелью)"
+
+msgid "Polish"
+msgstr "Польская"
+
+msgid "Polish (Colemak)"
+msgstr "Польская (Коулмак)"
+
+msgid "Polish (Dvorak)"
+msgstr "Польская (дворак)"
+
+msgid "Polish (Dvorak, Polish quotes on key 1)"
+msgstr "Польская (дворак, польские кавычки на клавише 1)"
+
+msgid "Polish (Dvorak, Polish quotes on quotemark key)"
+msgstr "Польская (дворак, польские кавычки на клавишах с кавычками)"
+
+msgid "Polish (Germany, eliminate dead keys)"
+msgstr "Польская (Германия, без спец. клавиш (dead keys))"
+
+msgid "Polish (Sun Type 6/7)"
+msgstr "Польская (Sun Type 6/7)"
+
+msgid "Polish (international with dead keys)"
+msgstr "Польская (международная со спец. клавишами)"
+
+msgid "Polish (legacy)"
+msgstr "Польская (устаревшая)"
+
+msgid "Polish (programmer Dvorak)"
+msgstr "Польская (дворак для программистов)"
+
+msgid "Polish (qwertz)"
+msgstr "Польская (qwertz)"
+
+msgid "Portuguese"
+msgstr "Португальская"
+
+msgid "Portuguese (Brazil)"
+msgstr "Португальская (Бразилия)"
+
+msgid "Portuguese (Brazil, Dvorak)"
+msgstr "Португальская (Бразилия, дворак)"
+
+msgid "Portuguese (Brazil, IBM/Lenovo ThinkPad)"
+msgstr "Португальская (Бразилия, IBM/Lenovo ThinkPad)"
+
+msgid "Portuguese (Brazil, Nativo for US keyboards)"
+msgstr "Португальская (Бразилия, навито для клавиатур US)"
+
+msgid "Portuguese (Brazil, Nativo)"
+msgstr "Португальская (Бразилия, навито)"
+
+msgid "Portuguese (Brazil, Sun Type 6/7)"
+msgstr "Португальская (Бразилия, Sun Type 6/7)"
+
+msgid "Portuguese (Brazil, eliminate dead keys)"
+msgstr "Португальская (Бразилия, без спец. клавиш (dead keys))"
+
+msgid "Portuguese (Macintosh)"
+msgstr "Португальская (Macintosh)"
+
+msgid "Portuguese (Macintosh, Sun dead keys)"
+msgstr "Португальская (Macintosh, спец. клавиши (dead keys) Sun)"
+
+msgid "Portuguese (Macintosh, eliminate dead keys)"
+msgstr "Португальская (Macintosh, без спец. клавиш (dead keys))"
+
+msgid "Portuguese (Nativo for US keyboards)"
+msgstr "Португальская (Nativo для клавиатур US)"
+
+msgid "Portuguese (Nativo)"
+msgstr "Португальская (Nativo)"
+
+msgid "Portuguese (Sun Type 6/7)"
+msgstr "Португальская (Sun Type 6/7)"
+
+msgid "Portuguese (Sun dead keys)"
+msgstr "Португальская (спец. клавиши (dead keys) Sun)"
+
+msgid "Portuguese (eliminate dead keys)"
+msgstr "Португальская (без спец. клавиш (dead keys))"
+
+msgid "Position of Compose key"
+msgstr "Положение клавиши Compose"
+
+msgid "Propeller Voyager (KTEZ-1000)"
+msgstr "Propeller Voyager (KTEZ-1000)"
+
+msgid "PrtSc"
+msgstr "PrtSc"
+
+msgid "Punjabi (Gurmukhi Jhelum)"
+msgstr "Пенджабская (гурмукхи Jhelum)"
+
+msgid "Punjabi (Gurmukhi)"
+msgstr "Пенджабская (гурмукхи)"
+
+msgid "QTronix Scorpius 98N+"
+msgstr "QTronix Scorpius 98N+"
+
+msgid "Right Alt"
+msgstr "Правая клавиша Alt"
+
+msgid "Right Alt (while pressed)"
+msgstr "Правая клавиша Alt (пока нажата)"
+
+msgid "Right Alt as Hangul, right Ctrl as Hanja"
+msgstr "Правая клавиша Alt для хангыли, правая клавиша Ctrl для ханчи"
+
+msgid ""
+"Right Alt chooses 5th level, locks when pressed together with another 5th-"
+"level-chooser"
+msgstr ""
+"По правой клавише Alt выбирается 5-й ряд, блокируется при нажатии вместе с "
+"другим выборщиком-5-го-ряда"
+
+msgid "Right Alt key never chooses 3rd level"
+msgstr "По правой клавише Alt никогда не выбирается третий ряд"
+
+msgid "Right Alt, Shift+Right Alt key is Compose"
+msgstr "Правая клавиша Alt, Shift и правая Alt вместе работают как Compose"
+
+msgid "Right Ctrl"
+msgstr "Правая клавиша Ctrl"
+
+msgid "Right Ctrl (while pressed)"
+msgstr "Правая клавиша Ctrl (пока нажата)"
+
+msgid "Right Ctrl as Hangul, right Alt as Hanja"
+msgstr "Правая клавиша Ctrl для хангыли, правая клавиша Alt для ханчи"
+
+msgid "Right Ctrl as Right Alt"
+msgstr "Правая клавиша Ctrl работает как правая клавиша Alt"
+
+msgid "Right Ctrl+Right Shift"
+msgstr "Правая Ctrl+Правая Shift"
+
+msgid "Right Shift"
+msgstr "Правая клавиша Shift"
+
+msgid "Right Win"
+msgstr "Правая клавиша Win"
+
+msgid "Right Win (while pressed)"
+msgstr "Правая клавиша Win (пока нажата)"
+
+msgid ""
+"Right Win chooses 5th level, locks when pressed together with another 5th-"
+"level-chooser"
+msgstr ""
+"По правой клавише Win выбирается 5-й ряд, блокируется при нажатии вместе с "
+"другим выборщиком-5-го-ряда"
+
+msgid "Romanian"
+msgstr "Румынская"
+
+msgid "Romanian (Germany)"
+msgstr "Румынская (Германия)"
+
+msgid "Romanian (Germany, eliminate dead keys)"
+msgstr "Румынская (Германия, без спец. клавиш (dead keys))"
+
+msgid "Romanian (Sun Type 6/7)"
+msgstr "Румынская (Sun Type 6/7)"
+
+msgid "Romanian (WinKeys)"
+msgstr "Румынская (клавиши Win)"
+
+msgid "Romanian (cedilla)"
+msgstr "Румынская (седиль)"
+
+msgid "Romanian (ergonomic Touchtype)"
+msgstr "Румынская (эргономичная для слепой печати)"
+
+msgid "Romanian (standard cedilla)"
+msgstr "Румынская (стандартная седиль)"
+
+msgid "Romanian (standard)"
+msgstr "Румынская (стандартная)"
+
+msgid "Rupee on 4"
+msgstr "Символ рупии на клавише 4"
+
+msgid "Russian"
+msgstr "Русская"
+
+msgid "Russian (Czech, phonetic)"
+msgstr "Русская (Чехия, фонетическая)"
+
+msgid "Russian (DOS)"
+msgstr "Русская (DOS)"
+
+msgid "Russian (Georgia)"
+msgstr "Русская (Грузия)"
+
+msgid "Russian (Germany, phonetic)"
+msgstr "Русская (Германия, фонетическая)"
+
+msgid "Russian (Kazakhstan, with Kazakh)"
+msgstr "Русская (Казахстан, с казахской)"
+
+msgid "Russian (Macintosh)"
+msgstr "Русская (Macintosh)"
+
+msgid "Russian (Poland, phonetic Dvorak)"
+msgstr "Русская (Польша, фонетический дворак)"
+
+msgid "Russian (Rulemak, phonetic Colemak)"
+msgstr "Русская (рулмак, фонетический коулмак)"
+
+msgid "Russian (Sun Type 6/7)"
+msgstr "Русская (Sun Type 6/7)"
+
+msgid "Russian (Sweden, phonetic)"
+msgstr "Русская (Швеция, фонетическая)"
+
+msgid "Russian (Sweden, phonetic, eliminate dead keys)"
+msgstr "Русская (Швеция, фонетическая, без спец. клавиш (dead keys))"
+
+msgid "Russian (US, phonetic)"
+msgstr "Русская (США, фонетическая)"
+
+msgid "Russian (Ukraine, standard RSTU)"
+msgstr "Русская (Украина, стандартная RSTU)"
+
+msgid "Russian (legacy)"
+msgstr "Русская (устаревшая)"
+
+msgid "Russian (phonetic French)"
+msgstr "Русская (французская фонетическая)"
+
+msgid "Russian (phonetic WinKeys)"
+msgstr "Русская (фонетическая с клавишами Win)"
+
+msgid "Russian (phonetic azerty)"
+msgstr "Русская (фонетическая azerty)"
+
+msgid "Russian (phonetic dvorak)"
+msgstr "Русская (фонетический дворак)"
+
+msgid "Russian (phonetic)"
+msgstr "Русская (фонетическая)"
+
+msgid "Russian (typewriter)"
+msgstr "Русская (печатная машинка)"
+
+msgid "Russian (typewriter, legacy)"
+msgstr "Русская (печатная машинка, устаревшая)"
+
+msgid "Russian (with Ukrainian-Belorussian layout)"
+msgstr "Русская (с украинско-белорусской раскладкой)"
+
+msgid "SILVERCREST Multimedia Wireless Keyboard"
+msgstr "SILVERCREST Multimedia Wireless Keyboard"
+
+msgid "SK-1300"
+msgstr "SK-1300"
+
+msgid "SK-2500"
+msgstr "SK-2500"
+
+msgid "SK-6200"
+msgstr "SK-6200"
+
+msgid "SK-7100"
+msgstr "SK-7100"
+
+msgid "SVEN Ergonomic 2500"
+msgstr "SVEN Ergonomic 2500"
+
+msgid "SVEN Slim 303"
+msgstr "SVEN Slim 303"
+
+msgid "Saisiyat (Taiwan)"
+msgstr "Сайсьят (Тайвань)"
+
+msgid "Samsung SDM 4500P"
+msgstr "Samsung SDM 4500P"
+
+msgid "Samsung SDM 4510P"
+msgstr "Samsung SDM 4510P"
+
+msgid "Sanskrit (KaGaPa phonetic)"
+msgstr "Санскритическая (фонетика KaGaPa)"
+
+msgid "Sanwa Supply SKB-KG3"
+msgstr "Sanwa Supply SKB-KG3"
+
+msgid "Scroll Lock"
+msgstr "Scroll Lock"
+
+msgid "Secwepemctsin"
+msgstr "Secwepemctsin"
+
+msgid "Semicolon on third level"
+msgstr "Точка с запятой в третьем ряду"
+
+msgid "Serbian"
+msgstr "Сербская"
+
+msgid "Serbian (Cyrillic with guillemets)"
+msgstr "Сербская (кириллица с кавычками ёлочками)"
+
+msgid "Serbian (Cyrillic, ZE and ZHE swapped)"
+msgstr "Сербская (кириллица, З и Ж переставлены местами)"
+
+msgid "Serbian (Latin Unicode qwerty)"
+msgstr "Сербская (латинская юникодная qwerty)"
+
+msgid "Serbian (Latin Unicode)"
+msgstr "Сербская (латинская юникодная)"
+
+msgid "Serbian (Latin qwerty)"
+msgstr "Сербская (латинская qwerty)"
+
+msgid "Serbian (Latin with guillemets)"
+msgstr "Сербская (латинская с кавычками ёлочками)"
+
+msgid "Serbian (Latin)"
+msgstr "Сербская (латинская)"
+
+msgid "Serbian (Russia)"
+msgstr "Сербская (Россия)"
+
+msgid "Serbian (combining accents instead of dead keys)"
+msgstr ""
+"Сербская (объединённые надбуквенные знаки вместе спец. клавиш (dead keys))"
+
+msgid "Serbo-Croatian (US)"
+msgstr "Сербо-Хорватская (США)"
+
+msgid "Shift + NumLock toggles PointerKeys"
+msgstr "Shift + NumLock переключают PointerKeys"
+
+msgid "Shift cancels Caps Lock"
+msgstr "Shift отменяет Caps Lock"
+
+msgid "Shift does not cancel Num Lock, chooses 3rd level instead"
+msgstr "Shift не отменяет Num Lock, а выбирает третий ряд"
+
+msgid "Shift+Caps Lock"
+msgstr "Shift+Caps Lock"
+
+msgid "Silesian"
+msgstr "Силезская"
+
+msgid "Sindhi"
+msgstr "Синдхи"
+
+msgid "Sinhala (US keyboard with Sinhala letters)"
+msgstr "Сингальская (клавиатура США с сингальскими буквами)"
+
+msgid "Sinhala (phonetic)"
+msgstr "Сингальская (фонетическая)"
+
+msgid "Slovak"
+msgstr "Словацкая"
+
+msgid "Slovak (Sun Type 6/7)"
+msgstr "Словацкая (Sun Type 6/7)"
+
+msgid "Slovak (extended Backslash)"
+msgstr "Словацкая (расширенные функции Backslash)"
+
+msgid "Slovak (qwerty)"
+msgstr "Словацкая (qwerty)"
+
+msgid "Slovak (qwerty, extended Backslash)"
+msgstr "Словацкая (qwerty, расширенные функции Backslash)"
+
+msgid "Slovenian"
+msgstr "Словенская"
+
+msgid "Slovenian (US keyboard with Slovenian letters)"
+msgstr "Словенская (клавиатура США с словенскими буквами)"
+
+msgid "Slovenian (with guillemets for quotes)"
+msgstr "Словенская (с кавычками ёлочками для кавычек)"
+
+msgid "Spanish"
+msgstr "Испанская"
+
+msgid "Spanish (Dvorak)"
+msgstr "Испанская (дворак)"
+
+msgid "Spanish (Latin American)"
+msgstr "Испанская (латиноамериканская)"
+
+msgid "Spanish (Latin American, Dvorak)"
+msgstr "Испанская (латиноамериканская, дворак)"
+
+msgid "Spanish (Latin American, Sun dead keys)"
+msgstr "Испанская (латиноамериканская, с спец. клавишами (dead keys) Sun)"
+
+msgid "Spanish (Latin American, eliminate dead keys)"
+msgstr "Испанская (латиноамериканская, без спец. клавиш (dead keys))"
+
+msgid "Spanish (Latin American, include dead tilde)"
+msgstr "Испанская (латиноамериканская, с dead tilde)"
+
+msgid "Spanish (Macintosh)"
+msgstr "Испанская (Macintosh)"
+
+msgid "Spanish (Sun Type 6/7)"
+msgstr "Испанская (Sun Type 6/7)"
+
+msgid "Spanish (Sun dead keys)"
+msgstr "Испанская (с спец. клавишами (dead keys) Sun)"
+
+msgid "Spanish (Winkeys)"
+msgstr "Испанская (с клавишами Win)"
+
+msgid "Spanish (eliminate dead keys)"
+msgstr "Испанская (без спец. клавиш (dead keys))"
+
+msgid "Spanish (include dead tilde)"
+msgstr "Испанская (с dead tilde)"
+
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
+msgstr "Специальные клавиши (Ctrl+Alt+&lt;клв&gt;) обрабатываются сервером"
+
+msgid "Sun Key compatibility"
+msgstr "Совместимость с клавишами Sun"
+
+msgid "Sun Type 6 (Japanese layout)"
+msgstr "Sun Type 6 (японская раскладка)"
+
+msgid "Sun Type 6 USB (Japanese layout)"
+msgstr "Sun Type 6 USB (японская раскладка)"
+
+msgid "Sun Type 6 USB (Unix layout)"
+msgstr "Sun Type 6 USB (раскладка Unix)"
+
+msgid "Sun Type 6/7 USB"
+msgstr "Sun Type 6/7 USB"
+
+msgid "Sun Type 6/7 USB (European layout)"
+msgstr "Sun Type 6/7 USB (европейская раскладка)"
+
+msgid "Sun Type 7 USB"
+msgstr "Sun Type 7 USB"
+
+msgid "Sun Type 7 USB (European layout)"
+msgstr "Sun Type 7 USB (европейская раскладка)"
+
+msgid "Sun Type 7 USB (Japanese layout) / Japanese 106-key"
+msgstr "Sun Type 7 USB (японская раскладка) / японская 106 клавиш"
+
+msgid "Sun Type 7 USB (Unix layout)"
+msgstr "Sun Type 7 USB (раскладка Unix)"
+
+msgid "Super Power Multimedia Keyboard"
+msgstr "Super Power Multimedia Keyboard"
+
+msgid "Swahili (Kenya)"
+msgstr "Суахильская (Кения)"
+
+msgid "Swahili (Tanzania)"
+msgstr "Суахильская (Танзания)"
+
+msgid "Swap Ctrl and Caps Lock"
+msgstr "Поменять местами клавиши Ctrl и Caps Lock"
+
+msgid "Swap ESC and Caps Lock"
+msgstr "Поменять местами клавиши ESC и Caps Lock"
+
+msgid "Swap Left Alt key with Left Ctrl key"
+msgstr "Левая клавиша Alt поменяна местами с левой клавишей Ctrl"
+
+msgid "Swap Left Win key with Left Ctrl key"
+msgstr "Левая клавиша Win поменяна местами с левой клавишей Ctrl"
+
+msgid "Swap Right Win key with Right Ctrl key"
+msgstr "Правая клавиша Win поменяна местами с правой клавишей Ctrl"
+
+msgid "Swedish"
+msgstr "Шведская"
+
+msgid "Swedish (Dvorak A5)"
+msgstr "Шведская (дворак A5)"
+
+msgid "Swedish (Dvorak)"
+msgstr "Шведская (дворак)"
+
+msgid "Swedish (Macintosh)"
+msgstr "Шведская (Macintosh)"
+
+msgid "Swedish (Sun Type 6/7)"
+msgstr "Шведская (Sun Type 6/7)"
+
+msgid "Swedish (Svdvorak)"
+msgstr "Шведская (Svdvorak)"
+
+msgid "Swedish (eliminate dead keys)"
+msgstr "Шведская (без спец. клавиш (dead keys))"
+
+msgid "Swedish Sign Language"
+msgstr "Шведский язык жестов"
+
+msgid "Switching to another layout"
+msgstr "Переключение на другую раскладку"
+
+msgid "Symplon PaceBook (tablet PC)"
+msgstr "Symplon PaceBook (карманный ПК)"
+
+msgid "Syriac"
+msgstr "Сирийская"
+
+msgid "Syriac (phonetic)"
+msgstr "Сирийская (фонетическая)"
+
+msgid "Taiwanese"
+msgstr "Тайваньская"
+
+msgid "Taiwanese (indigenous)"
+msgstr "Тайваньская (туземная)"
+
+msgid "Tajik"
+msgstr "Таджикская"
+
+msgid "Tajik (legacy)"
+msgstr "Таджикская (устаревшая)"
+
+msgid "Tamil"
+msgstr "Тамильская"
+
+msgid "Tamil (Sri Lanka, TAB Typewriter)"
+msgstr "Тамильская (Шри-Ланка, печатная машинка TAB)"
+
+msgid "Tamil (Sri Lanka, Unicode)"
+msgstr "Тамильская (Шри-Ланка, юникодная)"
+
+msgid "Tamil (TAB typewriter)"
+msgstr "Тамильская (печатная машинка TAB)"
+
+msgid "Tamil (TSCII typewriter)"
+msgstr "Тамильская (печатная машинка TSCII)"
+
+msgid "Tamil (Unicode)"
+msgstr "Тамильская (юникодная)"
+
+msgid "Tamil (keyboard with numerals)"
+msgstr "Тамильская (клавиатура с цифрами)"
+
+msgid "Targa Visionary 811"
+msgstr "Targa Visionary 811"
+
+msgid "Tatar"
+msgstr "Татарская"
+
+msgid "Telugu"
+msgstr "Телугская"
+
+msgid "Telugu (KaGaPa phonetic)"
+msgstr "Телугская (фонетика KaGaPa)"
+
+msgid "Thai"
+msgstr "Тайская"
+
+msgid "Thai (Pattachote)"
+msgstr "Тайская (паттачотская)"
+
+msgid "Thai (TIS-820.2538)"
+msgstr "Тайская (TIS-820.2538)"
+
+msgid "Tibetan"
+msgstr "Тибетская"
+
+msgid "Tibetan (with ASCII numerals)"
+msgstr "Тибетская (с цифрами ASCII)"
+
+msgid "To the corresponding key in a Colemak layout"
+msgstr "На соответствующую клавишу в раскладке Коулмак"
+
+msgid "To the corresponding key in a Dvorak layout"
+msgstr "На соответствующую клавишу в раскладке дворак"
+
+msgid "To the corresponding key in a Qwerty layout"
+msgstr "На соответствующую клавишу в раскладке Qwerty"
+
+msgid "Toshiba Satellite S3000"
+msgstr "Toshiba Satellite S3000"
+
+msgid "Truly Ergonomic Computer Keyboard Model 227 (Wide Alt keys)"
+msgstr ""
+"Действительно эргономичная компьютерная клавиатура, модель 227 (с широкими "
+"клавишами Alt)"
+
+msgid ""
+"Truly Ergonomic Computer Keyboard Model 229 (Standard sized Alt keys, "
+"additional Super and Menu key)"
+msgstr ""
+"Действительно эргономичная компьютерная клавиатура, модель 229 (со "
+"стандартными клавишами Alt, а также с клавишами Super и Menu)"
+
+msgid "Trust Direct Access Keyboard"
+msgstr "Trust Direct Access Keyboard"
+
+msgid "Trust Slimline"
+msgstr "Trust Slimline"
+
+msgid "Trust Wireless Keyboard Classic"
+msgstr "Trust Wireless Keyboard Classic"
+
+msgid "Tswana"
+msgstr "Тсванская"
+
+msgid "Turkish"
+msgstr "Турецкая"
+
+msgid "Turkish (Alt-Q)"
+msgstr "Турецкая (Alt-Q)"
+
+msgid "Turkish (F)"
+msgstr "Турецкая (F)"
+
+msgid "Turkish (Germany)"
+msgstr "Турецкая (Германия)"
+
+msgid "Turkish (Sun Type 6/7)"
+msgstr "Турецкая (Sun Type 6/7)"
+
+msgid "Turkish (Sun dead keys)"
+msgstr "Турецкая (со спец. клавишами (dead keys) Sun)"
+
+msgid "Turkish (international with dead keys)"
+msgstr "Турецкая (международная со спец. клавишами)"
+
+msgid "Turkmen"
+msgstr "Туркменская"
+
+msgid "Turkmen (Alt-Q)"
+msgstr "Туркменская (Alt-Q)"
+
+msgid "TypeMatrix EZ-Reach 2020"
+msgstr "TypeMatrix EZ-Reach 2020"
+
+msgid "TypeMatrix EZ-Reach 2030 PS2"
+msgstr "TypeMatrix EZ-Reach 2030 PS2"
+
+msgid "TypeMatrix EZ-Reach 2030 USB"
+msgstr "TypeMatrix EZ-Reach 2030 USB"
+
+msgid "TypeMatrix EZ-Reach 2030 USB (102/105:EU mode)"
+msgstr "TypeMatrix EZ-Reach 2030 USB (102/105:режим EU)"
+
+msgid "TypeMatrix EZ-Reach 2030 USB (106:JP mode)"
+msgstr "TypeMatrix EZ-Reach 2030 USB (106:режим JP)"
+
+msgid "Udmurt"
+msgstr "Удмуртская"
+
+msgid "Ukrainian"
+msgstr "Украинская"
+
+msgid "Ukrainian (Sun Type 6/7)"
+msgstr "Украинская (Sun Type 6/7)"
+
+msgid "Ukrainian (WinKeys)"
+msgstr "Украинская (с клавишами Win)"
+
+msgid "Ukrainian (homophonic)"
+msgstr "Украинская (омофоническая)"
+
+msgid "Ukrainian (legacy)"
+msgstr "Украинская (устаревшая)"
+
+msgid "Ukrainian (phonetic)"
+msgstr "Украинская (фонетическая)"
+
+msgid "Ukrainian (standard RSTU)"
+msgstr "Украинская (стандартная RSTU)"
+
+msgid "Ukrainian (typewriter)"
+msgstr "Украинская (печатная машинка)"
+
+msgid "Unicode additions (arrows and math operators)"
+msgstr "Дополнения юникода (стрелки и математические операторы)"
+
+msgid ""
+"Unicode additions (arrows and math operators; math operators on default "
+"level)"
+msgstr ""
+"Дополнения юникода (стрелки и математические операторы; математические "
+"операторы в ряду по умолчанию)"
+
+msgid "Unitek KB-1925"
+msgstr "Unitek KB-1925"
+
+msgid "Urdu (Pakistan)"
+msgstr "Урдская (Пакистан)"
+
+msgid "Urdu (Pakistan, CRULP)"
+msgstr "Урдская (Пакистан, CRULP)"
+
+msgid "Urdu (Pakistan, NLA)"
+msgstr "Урдская (Пакистан, NLA)"
+
+msgid "Urdu (WinKeys)"
+msgstr "Урдcкая (с клавишами Win)"
+
+msgid "Urdu (alternative phonetic)"
+msgstr "Урдская (альтернативная фонетическая)"
+
+msgid "Urdu (phonetic)"
+msgstr "Урдская (фонетическая)"
+
+msgid "Use keyboard LED to show alternative layout"
+msgstr ""
+"Использовать клавиатурные индикаторы для отображения дополнительных раскладок"
+
+msgid "Using space key to input non-breakable space character"
+msgstr "Клавиша пробела используется для ввода символа неразрывного пробела"
+
+msgid "Usual space at any level"
+msgstr "Обычный пробел в любом ряду"
+
+msgid "Uyghur"
+msgstr "Уйгурская"
+
+msgid "Uzbek"
+msgstr "Узбекская"
+
+msgid "Uzbek (Afghanistan)"
+msgstr "Узбекская (Афганистан)"
+
+msgid "Uzbek (Afghanistan, OLPC)"
+msgstr "Узбекская (Афганистан, OLPC)"
+
+msgid "Uzbek (Latin)"
+msgstr "Узбекская (латинская)"
+
+msgid "Vietnamese"
+msgstr "Вьетнамская"
+
+msgid "ViewSonic KU-306 Internet Keyboard"
+msgstr "ViewSonic KU-306 Internet Keyboard"
+
+msgid "Wang 724 keypad with Unicode additions (arrows and math operators)"
+msgstr ""
+"Цифровая клавиатура Wang 724 с дополнениями юникода (стрелки и "
+"математические операторы)"
+
+msgid ""
+"Wang 724 keypad with Unicode additions (arrows and math operators; math "
+"operators on default level)"
+msgstr ""
+"Цифровая клавиатура Wang 724 с дополнениями юникода (стрелки и "
+"математические операторы; математические операторы в ряду по умолчанию)"
+
+msgid "Win Key+Space"
+msgstr "Клавиша Win+Пробел"
+
+msgid "Win is mapped to PrtSc (and the usual Win key)"
+msgstr "Win используется в качестве клавиши PrtSc (и как обычная Win)"
+
+msgid "Winbook Model XP5"
+msgstr "Winbook Model XP5"
+
+msgid "Wolof"
+msgstr "Волофская"
+
+msgid "Yahoo! Internet Keyboard"
+msgstr "Yahoo! Internet Keyboard"
+
+msgid "Yakut"
+msgstr "Якутская"
+
+msgid "Yoruba"
+msgstr "Йорубская"
+
+msgid "Zero-width non-joiner character at second level"
+msgstr "Несвязывающий символ нулевой ширины во втором ряду"
+
+msgid ""
+"Zero-width non-joiner character at second level, non-breakable space "
+"character at third level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, символ неразрывного "
+"пробела в третьем ряду"
+
+msgid ""
+"Zero-width non-joiner character at second level, non-breakable space "
+"character at third level, nothing at fourth level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, символ неразрывного "
+"пробела в третьем ряду, ничего в четвёртом"
+
+msgid ""
+"Zero-width non-joiner character at second level, non-breakable space "
+"character at third level, thin non-breakable space at fourth level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, символ неразрывного "
+"пробела в третьем ряду, тонкий неразрывный пробел в четвёртом ряду"
+
+msgid ""
+"Zero-width non-joiner character at second level, non-breakable space "
+"character at third level, zero-width joiner at fourth level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, символ неразрывного "
+"пробела в третьем ряду, связывающий символ нулевой ширины в четвёртом ряду"
+
+msgid ""
+"Zero-width non-joiner character at second level, zero-width joiner character "
+"at third level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, связывающий символ "
+"нулевой ширины в третьем ряду"
+
+msgid ""
+"Zero-width non-joiner character at second level, zero-width joiner character "
+"at third level, non-breakable space character at fourth level"
+msgstr ""
+"Несвязывающий символ нулевой ширины во втором ряду, связывающий символ "
+"нулевой ширины в третьем ряду, символ неразрывного пробела в четвёртом ряду"
+
+msgid ""
+"Zero-width non-joiner character at third level, zero-width joiner at fourth "
+"level"
+msgstr ""
+"Несвязывающий символ нулевой ширины в третьем ряду, связывающий символ "
+"нулевой ширины в четвёртом ряду"
+
+msgid "ak"
+msgstr "ak"
+
+msgid "am"
+msgstr "am"
+
+msgid "apl"
+msgstr "apl"
+
+msgid "apl2"
+msgstr "apl2"
+
+msgid "aplII"
+msgstr "aplII"
+
+msgid "aplx"
+msgstr "aplx"
+
+msgid "ar"
+msgstr "ar"
+
+msgid "avn"
+msgstr "avn"
+
+msgid "az"
+msgstr "az"
+
+msgid "be"
+msgstr "be"
+
+msgid "ber"
+msgstr "ber"
+
+msgid "bg"
+msgstr "bg"
+
+msgid "bm"
+msgstr "bm"
+
+msgid "bn"
+msgstr "bn"
+
+msgid "brl"
+msgstr "brl"
+
+msgid "bs"
+msgstr "bs"
+
+msgid "by"
+msgstr "by"
+
+msgid "chr"
+msgstr "chr"
+
+msgid "cm"
+msgstr "cm"
+
+msgid "crh"
+msgstr "crh"
+
+msgid "cs"
+msgstr "cs"
+
+msgid "da"
+msgstr "da"
+
+msgid "de"
+msgstr "de"
+
+msgid "dlg"
+msgstr "dlg"
+
+msgid "dv"
+msgstr "dv"
+
+msgid "dz"
+msgstr "dz"
+
+msgid "ee"
+msgstr "ee"
+
+msgid "en"
+msgstr "en"
+
+msgid "eo"
+msgstr "eo"
+
+msgid "es"
+msgstr "es"
+
+msgid "et"
+msgstr "et"
+
+msgid "eu"
+msgstr "eu"
+
+msgid "fa"
+msgstr "fa"
+
+msgid "ff"
+msgstr "ff"
+
+msgid "fi"
+msgstr "fi"
+
+msgid "fo"
+msgstr "fo"
+
+msgid "fr"
+msgstr "fr"
+
+msgid "fr-tg"
+msgstr "fr-tg"
+
+msgid "gaa"
+msgstr "gaa"
+
+msgid "gag"
+msgstr "gag"
+
+msgid "gr"
+msgstr "gr"
+
+msgid "gu"
+msgstr "gu"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "he"
+msgstr "he"
+
+msgid "hi"
+msgstr "hi"
+
+msgid "hr"
+msgstr "hr"
+
+msgid "hu"
+msgstr "hu"
+
+msgid "hy"
+msgstr "hy"
+
+msgid "ie"
+msgstr "ie"
+
+msgid "ig"
+msgstr "ig"
+
+msgid "ike"
+msgstr "ike"
+
+msgid "in"
+msgstr "in"
+
+msgid "is"
+msgstr "is"
+
+msgid "it"
+msgstr "it"
+
+msgid "ja"
+msgstr "ja"
+
+msgid "ka"
+msgstr "ka"
+
+msgid "ki"
+msgstr "ki"
+
+msgid "kk"
+msgstr "kk"
+
+msgid "km"
+msgstr "km"
+
+msgid "kn"
+msgstr "kn"
+
+msgid "ko"
+msgstr "ko"
+
+msgid "ku"
+msgstr "ku"
+
+msgid "kut"
+msgstr "kut"
+
+msgid "la"
+msgstr "la"
+
+msgid "lo"
+msgstr "lo"
+
+msgid "lt"
+msgstr "lt"
+
+msgid "lv"
+msgstr "lv"
+
+msgid "md"
+msgstr "md"
+
+msgid "mi"
+msgstr "mi"
+
+msgid "mk"
+msgstr "mk"
+
+msgid "ml"
+msgstr "ml"
+
+msgid "mn"
+msgstr "mn"
+
+msgid "mr"
+msgstr "mr"
+
+msgid "mt"
+msgstr "mt"
+
+msgid "my"
+msgstr "my"
+
+msgid "ne"
+msgstr "ne"
+
+msgid "nl"
+msgstr "nl"
+
+msgid "no"
+msgstr "no"
+
+msgid "or"
+msgstr "or"
+
+msgid "pa"
+msgstr "pa"
+
+msgid "ph"
+msgstr "ph"
+
+msgid "pl"
+msgstr "pl"
+
+msgid "ps"
+msgstr "ps"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "ro"
+msgstr "ro"
+
+msgid "ru"
+msgstr "ru"
+
+msgid "sa"
+msgstr "sa"
+
+msgid "sat"
+msgstr "sat"
+
+msgid "sax"
+msgstr "sax"
+
+msgid "sd"
+msgstr "sd"
+
+msgid "shs"
+msgstr "shs"
+
+msgid "si"
+msgstr "si"
+
+msgid "sk"
+msgstr "sk"
+
+msgid "sl"
+msgstr "sl"
+
+msgid "sq"
+msgstr "sq"
+
+msgid "sr"
+msgstr "sr"
+
+msgid "sv"
+msgstr "sv"
+
+msgid "sw"
+msgstr "sw"
+
+msgid "syc"
+msgstr "syc"
+
+msgid "ta"
+msgstr "ta"
+
+msgid "te"
+msgstr "te"
+
+msgid "tg"
+msgstr "tg"
+
+msgid "th"
+msgstr "th"
+
+msgid "tk"
+msgstr "tk"
+
+msgid "tn"
+msgstr "tn"
+
+msgid "tr"
+msgstr "tr"
+
+msgid "ufd"
+msgstr "ufd"
+
+msgid "ug"
+msgstr "ug"
+
+msgid "uk"
+msgstr "uk"
+
+msgid "ur"
+msgstr "ur"
+
+msgid "us"
+msgstr "us"
+
+msgid "uz"
+msgstr "uz"
+
+msgid "vi"
+msgstr "vi"
+
+msgid "wo"
+msgstr "wo"
+
+msgid "xsy"
+msgstr "xsy"
+
+msgid "yo"
+msgstr "yo"
+
+msgid "zh"
+msgstr "zh"

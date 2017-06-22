@@ -1,0 +1,156 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk-engines trunk\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-12 23:51+0300\n"
+"PO-Revision-Date: 2008-02-29 12:12+0300\n"
+"Last-Translator: Alexandre Prokoudine <alexandre.prokoudine@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "3d-ish (button)"
+msgstr "трёхмерность (кнопка)"
+
+msgid "3d-ish (gradient)"
+msgstr "трёхмерность (градиент)"
+
+msgid "Animations"
+msgstr "Анимации"
+
+msgid "Arrow"
+msgstr "Стрелки"
+
+msgid "Cell Indicator Size"
+msgstr "Размер индикатора ячейки"
+
+msgid "Classic"
+msgstr "Классическая"
+
+msgid "Colorize Scrollbar"
+msgstr "Раскрашивать полосы прокрутки"
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "Disable focus drawing"
+msgstr "Выключить рамку фокуса"
+
+msgid "Dot"
+msgstr "Точки"
+
+msgid "Edge Thickness"
+msgstr "Толщина углов"
+
+msgid "Enable Animations on Progressbars"
+msgstr "Включить анимацию в индикаторах прогресса"
+
+msgid "Flat"
+msgstr "Простой"
+
+msgid "Full"
+msgstr "Полностью"
+
+msgid "Glossy"
+msgstr "Глянец"
+
+msgid "Gummy"
+msgstr "Смола"
+
+msgid "Handlebox Marks"
+msgstr "Стиль отделяемой области"
+
+msgid "If set, button corners are rounded"
+msgstr "Если установлено, углы кнопок закругляются"
+
+msgid "Inset"
+msgstr "Вкладка"
+
+msgid "Inverted"
+msgstr "Инвертированные"
+
+msgid "Inverted Dot"
+msgstr "Инвертированные точки"
+
+msgid "Inverted Slash"
+msgstr "Инвертированные черточки"
+
+msgid "Mark Type 1"
+msgstr "Отметка первого типа"
+
+msgid "Mark Type for Scrollbar Buttons"
+msgstr "Тип отметок для кнопок полосы прокрутки"
+
+msgid "Mark Type for Scrollbar Handles, Handleboxes, etc"
+msgstr "Тип отметки для бегунков полос прокрутки, панелей отделения и т.д."
+
+msgid "Menubar Style"
+msgstr "Стиль меню"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Nothing"
+msgstr "Ничего"
+
+msgid "Paned Dots"
+msgstr "Разделённые точки"
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Rectangle"
+msgstr "Прямоугольник"
+
+msgid "Relief Style"
+msgstr "Стиль рельефа"
+
+msgid "Requires style Glossy or Gummy"
+msgstr "Требует стиля Глянец или Смола"
+
+msgid "Rounded Buttons"
+msgstr "Скруглённые кнопки"
+
+msgid "Scrollbar Color"
+msgstr "Цвет полосы прокрутки"
+
+msgid "Scrollbar Marks"
+msgstr "Отметки полосы прокрутки"
+
+msgid "Scrollbar Type"
+msgstr "Тип полосы прокрутки"
+
+msgid "Scrollbutton Marks"
+msgstr "Отметки кнопки прокрутки"
+
+msgid "Sets the Color of Scrollbars"
+msgstr "Устанавливает цвет полос прокрутки"
+
+msgid "Shadow"
+msgstr "Тень"
+
+msgid "Shaped"
+msgstr "Выделенные"
+
+msgid "Size of check- and radiobuttons inside treeviews. (Bug #351764)"
+msgstr "Размер отметок и кнопок выбора в деревьях и списках. (Bug #351764)"
+
+msgid "Slash"
+msgstr "Черта"
+
+msgid "Some"
+msgstr "Некоторые"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid ""
+"This option allows to disable the focus drawing. The primary purpose is to "
+"create screenshots for documentation."
+msgstr ""
+"Этот параметр выключает отрисовку рамки фокуса. Он полезен, например, для "
+"сохранения снимков экрана для документации."
+
+msgid "Toolbar Style"
+msgstr "Стиль панели инструментов"

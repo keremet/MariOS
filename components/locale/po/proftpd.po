@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: proftpd 1.3.2\n"
+"Report-Msgid-Bugs-To: core@proftpd.org\n"
+"POT-Creation-Date: 2008-04-03 08:54-0800\n"
+"PO-Revision-Date: 2008-12-08 03:52+0300\n"
+"Last-Translator: Fedor Pletnev <fedor@envia.ru>\n"
+"Language-Team: Alex Samorukov <samm@os2.kiev.ua>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+
+msgid " bytes)"
+msgstr " байт)"
+
+msgid "\"%s\" - Directory successfully created"
+msgstr "\"%s\" - Директория успешно создана"
+
+msgid "\"%s\" is the current directory"
+msgstr "\"%s\" является текущей директорией"
+
+msgid "%s End of list"
+msgstr "%s Конец списка"
+
+msgid "%s FTP server ready"
+msgstr "%s FTP сервер готов"
+
+msgid "%s command successful"
+msgstr "%s успешно выполнена"
+
+msgid "%s from %s port %u"
+msgstr "%s от %s порт %u"
+
+msgid "%s not allowed in ASCII mode"
+msgstr "%s не разрешено в режиме ASCII"
+
+msgid "%s not understood"
+msgstr "%s не распознано"
+
+msgid "%s- Start of list for %s"
+msgstr "%s- Начало списка для %s"
+
+msgid "%s: Append/Restart not permitted, try again"
+msgstr "%s: Добавление/Рестарт не разрешено, попытайтесь ещё раз"
+
+msgid "%s: Bad file name"
+msgstr "%s: Неправильное имя файла"
+
+msgid "%s: File name too long"
+msgstr "%s: Превышена допустимая длина файла"
+
+msgid "%s: Forbidden command argument"
+msgstr "%s: Запрещённый аргумент"
+
+msgid "%s: Forbidden filename"
+msgstr "%s: Запрещённое имя файла"
+
+msgid "%s: Invalid directory name"
+msgstr "%s: Некорректное имя директории"
+
+msgid "%s: Not a regular file"
+msgstr "%s: Необычный файл"
+
+msgid "%s: Overwrite permission denied"
+msgstr "%s: Ошибка доступа при перезаписи файла"
+
+msgid "%s: Rename of hidden file %s failed: %s"
+msgstr "%s: Изменение имени скрытого файла %s завершено с ошибкой: %s"
+
+msgid "%s: Rename permission denied"
+msgstr "%s: Запрет изменения имени"
+
+msgid "%s: Restart not permitted, try again"
+msgstr "%s: Рестарт не разрешён, попробуйте снова"
+
+msgid "%s: Resuming transfers not allowed in ASCII mode"
+msgstr "%s: Продолжене передачи запрещено в режиме ASCII"
+
+msgid "%s: Temporary hidden file %s already exists"
+msgstr "%s: Временный скрытый файл %s уже существует"
+
+msgid "%s: Too many transfers"
+msgstr "%s: Слишком много передач"
+
+msgid "%s: data transfer in progress"
+msgstr "%s: передача данных выполняется"
+
+msgid "%s: invalid REST argument"
+msgstr "%s: некорректный аргумент REST"
+
+msgid "%s: not a plain file"
+msgstr "%s: не текстовый файл"
+
+msgid "%s: not a regular file"
+msgstr "%s: не обычный файл"
+
+msgid "%s: unable to generate unique filename"
+msgstr "%s: не могу создать уникальное имя файла"
+
+msgid "%s: unknown network protocol"
+msgstr "%s: неизвестный сетевой протокол"
+
+msgid "'%s' cannot be listed"
+msgstr "'%s' не может быть каталогизирована"
+
+msgid "'%s' is not a directory"
+msgstr "'%s' не является директорией"
+
+msgid "'%s' not understood"
+msgstr "'%s' не понятно"
+
+msgid "'%s' unrecognized structure type"
+msgstr "'%s' тип структуры не распознан"
+
+msgid "'%s' unrecognized transfer mode"
+msgstr "'%s' нераспознанный режим передачи"
+
+msgid "'%s' unsupported structure type"
+msgstr "'%s' неподдерживаемый тип структуры"
+
+msgid "'%s' unsupported transfer mode"
+msgstr "'%s' неподдерживаемый режим передачи"
+
+msgid "'%s': invalid mode"
+msgstr "'%s': неправильный режим"
+
+msgid "'SITE %s' not understood"
+msgstr "'SITE %s' не распознан"
+
+msgid "'SITE' requires parameters"
+msgstr "'SITE' требует параметров"
+
+msgid ". Send STORE or RETRIEVE to initiate transfer"
+msgstr ". Пошлите STORE или RETRIEVE для начала передачи"
+
+msgid "ACCT command not implemented"
+msgstr "Команда ACCT не реализована"
+
+msgid "Abort successful"
+msgstr "Отмена успешна"
+
+msgid "Active data transfer to"
+msgstr "Активная передача данных к"
+
+msgid "Anonymous access granted, restrictions apply"
+msgstr "Анонимное подключение, ограничения применены"
+
+msgid "Anonymous login ok, send your complete email address as your password"
+msgstr "Анонимное подключение, укажите ваш e-mail адрес в качестве пароля"
+
+msgid "Bad sequence of commands"
+msgstr "Ошибочная последовательность команд"
+
+msgid "Cannot modify fact '%s'"
+msgstr "Не могу изменить факт '%s'"
+
+msgid "Connected from %s (%s)"
+msgstr "Адрес подключения %s (%s)"
+
+msgid "Data connection closed"
+msgstr "Соединение данных закрыто"
+
+msgid "Direct comments to %s"
+msgstr "Прямой комментарий для %s"
+
+msgid "EPRT command successful"
+msgstr "Команда EPRT успешно обработана"
+
+msgid "EPSV ALL command successful"
+msgstr "Команда EPSV ALL успешно обработана"
+
+msgid "ERROR: %s"
+msgstr "ОШИБКА: %s"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "End of status"
+msgstr "Конец статуса"
+
+msgid "FTP server shut down (%s) -- please try again later"
+msgstr "FTP завершает работу (%s) -- попробуйте позже"
+
+msgid "FTP server shutting down - %s"
+msgstr "FTP сервер завершает работу - %s"
+
+msgid ""
+"Features:\n"
+" "
+msgstr ""
+"Возможности:\n"
+" "
+
+msgid "File or directory exists, ready for destination name"
+msgstr "Файл или директория существуют, готов к имени назначения"
+
+msgid "Goodbye."
+msgstr "До свидания."
+
+msgid "Idle timeout (%d seconds): closing control connection"
+msgstr ""
+"Истёк лимит времени простоя (%d секунд): закрываю управляющее соединение"
+
+msgid "Illegal EPRT command"
+msgstr "Неправильная команда EPRT"
+
+msgid "Illegal PASV command, EPSV ALL in effect"
+msgstr "Команда PASV ошибочна, действует EPSV ALL"
+
+msgid "Illegal PORT command"
+msgstr "Неправильная команда PORT"
+
+msgid "Illegal PORT command, EPSV ALL in effect"
+msgstr "Команда PORT  ошибочна, действует EPSV ALL"
+
+msgid "Insufficient memory or file locked"
+msgstr "Недостаточно памяти или файл заблокирован"
+
+msgid "Invalid command: try being more creative"
+msgstr "Неправильная команда: попробуйте добавить креатива"
+
+msgid "Invalid number of arguments"
+msgstr "Неправильное количество аргументов"
+
+msgid "Language %s not supported"
+msgstr "Язык %s не поддерживается"
+
+msgid "Link to file server lost"
+msgstr "Связь с файловым сервером потеряна"
+
+msgid "Logged in as %s"
+msgstr "Подключен как %s"
+
+msgid "Login Timeout (%d seconds): closing control connection"
+msgstr "Время подключения (%d секунд) истекло: закрываю управляющее соединение"
+
+msgid "Login incorrect"
+msgstr "Некорректные данные аутентификации"
+
+msgid "Login incorrect."
+msgstr "Некорректные данные аутентификации."
+
+msgid "Login with USER first"
+msgstr "Подключитесь с использованием USER"
+
+msgid "Mode set to S"
+msgstr "Установлен S режим"
+
+msgid "NOOP command successful"
+msgstr "Команда NOOP выполнена"
+
+msgid "Network protocol not supported, use (1)"
+msgstr "Сетевой протокол не поддерживается, используйте (1)"
+
+msgid "Network protocol not supported, use (1,2)"
+msgstr "Сетевой протокол не поддерживается, используйте (1,2)"
+
+msgid "No data connection"
+msgstr "Нет соединения данных"
+
+msgid "No features supported"
+msgstr "Нет поддерживаемых возможностей"
+
+msgid "No files found"
+msgstr "Файлы не найдены"
+
+msgid "No storage allocation necessary"
+msgstr "Нет необходимости в выделении места"
+
+msgid "No transfer timeout (%d seconds): closing control connection"
+msgstr ""
+"Истекло время отсутствия передачи (%d секунд): закрываю управляющее "
+"соединение"
+
+msgid "Opening %s mode data connection for %s"
+msgstr "Открываю режим %s данных для %s"
+
+msgid "Opening %s mode data connection for %s (%"
+msgstr "Открываю режим %s данных для %s (%"
+
+msgid "Out of memory during globbing of %s"
+msgstr "Недостаточно памяти при обработке шаблона %s"
+
+msgid "PORT command successful"
+msgstr "Команда PORT успешно обработана"
+
+msgid "Passive data transfer from"
+msgstr "Пассивная передача данных от"
+
+msgid "Password required for %s"
+msgstr "Необходим пароль для пользователя %s"
+
+msgid "Please login with USER and PASS"
+msgstr "Пожалуйста, подключитесь используя USER и PASS"
+
+msgid "REIN command not implemented"
+msgstr "Команда REIN не реализована"
+
+msgid "REST not compatible with server configuration"
+msgstr "REST не совместимо с конфигурацией сервера"
+
+msgid "REST requires a value greater than or equal to 0"
+msgstr "REST требует значения большего или идентичного 0"
+
+msgid "Read error during globbing of %s"
+msgstr "Ошибка чтения при обработке шаблона %s"
+
+msgid "Rename %s: %s"
+msgstr "Изменение имени %s: %s"
+
+msgid "Rename successful"
+msgstr "Имя изменено"
+
+msgid "Restarting at %"
+msgstr "Рестарт в %"
+
+msgid "SITE %s command successful"
+msgstr "Команда 'SITE %s' успешно выполнена"
+
+msgid "SMNT command not implemented"
+msgstr "Команда SNMT не реализована"
+
+msgid "STOU incompatible with REST"
+msgstr "STOU несовместимо с REST"
+
+msgid "Session Timeout (%u seconds): closing control connection"
+msgstr "Время сессии (%u секунд) истекло: закрываю управляющее соединение"
+
+msgid "Sorry, no server available to handle request on %s"
+msgstr "Извините, нет доступного сервера чтобы выполнить запрос для %s"
+
+msgid "Status of %s:"
+msgstr "Статус для %s:"
+
+msgid "Status of '%s'"
+msgstr "Статус '%s'"
+
+msgid "Structure set to F"
+msgstr "Структура установлена как F"
+
+msgid "Syntax: SITE %s %s"
+msgstr "Синтакс: SITE %s %s"
+
+msgid "TYPE: %s, STRUcture: File, Mode: Stream"
+msgstr "ТИП: %s, Структура: Файл, Режим: Потоковый"
+
+msgid "The following SITE commands are recognized (* =>'s unimplemented)"
+msgstr "Следующие команды SITE были распознаны (* => не реализовано)"
+
+msgid "The following commands are recognized (* =>'s unimplemented):"
+msgstr "Следующие команды были распознаны (* => не реализовано):"
+
+msgid "Total bytes transferred for session: %"
+msgstr "Общее количество байт, переданных во время сессии: %"
+
+msgid "Transfer aborted. %s"
+msgstr "Передача отменена. %s"
+
+msgid "Transfer aborted. Data connection closed."
+msgstr "Передача отменена. Соединение данных закрыто."
+
+msgid "Transfer complete"
+msgstr "Передача завершена"
+
+msgid "Type set to %s"
+msgstr "Тип установлен в %s"
+
+msgid "USER: command requires a parameter"
+msgstr "USER: требуется параметр команды"
+
+msgid "UTF8 set to off"
+msgstr "UTF-8 деактивирован"
+
+msgid "UTF8 set to on"
+msgstr "UTF-8 активирован"
+
+msgid "Unable to accept %s"
+msgstr "Не могу принять %s"
+
+msgid "Unable to build data connection: %s"
+msgstr "Невозможно создать соединение данных: %s"
+
+msgid "Unable to build data connection: Internal error"
+msgstr "Невозможно создать передачу данных: Внутренняя ошибка"
+
+msgid "Unable to handle command"
+msgstr "Невозможно обработать команду"
+
+msgid "Unable to service EPRT commands"
+msgstr "Не могу обработать команду EPRT"
+
+msgid "Unable to service PORT commands"
+msgstr "Не могу обработать команду PORT"
+
+msgid "Unexpected streams hangup"
+msgstr "Неожиданный обрыв потока"
+
+msgid "Unknown command '%s'"
+msgstr "Неизвестная команда '%s'"
+
+msgid "Unknown command 'SITE %s'"
+msgstr "Неизвестная команда 'SITE %s'"
+
+msgid "Unknown error during globbing of %s"
+msgstr "Неизвестная ошибка при обработке шаблона %s"
+
+msgid "Unknown or out of range errno [%d]"
+msgstr "Неизвестный номер ошибки [%d]"
+
+msgid "User %s logged in"
+msgstr "Пользователь %s подключён"
+
+msgid "Using default language %s"
+msgstr "Используется язык по умолчанию %s"
+
+msgid "Using language %s"
+msgstr "Использую язык %s"
+
+msgid "You are already logged in"
+msgstr "Вы уже подключены"

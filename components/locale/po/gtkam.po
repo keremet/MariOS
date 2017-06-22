@@ -1,0 +1,629 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtkam 0.1.17\n"
+"Report-Msgid-Bugs-To: gphoto-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2011-09-25 22:57+0200\n"
+"PO-Revision-Date: 2011-01-01 16:53+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@mx.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "%liK (%li bytes)"
+msgstr "%liКБ (%li байт)"
+
+msgid ""
+"%s\n"
+"\n"
+"%s %s with options:\n"
+"    %s\n"
+msgstr ""
+"%s\n"
+"\n"
+"%s %s с параметрами:\n"
+"   %s\n"
+
+msgid ""
+"%s\n"
+"%s %s with options:\n"
+"    %s\n"
+msgstr ""
+"%s\n"
+"%s %s с параметрами:\n"
+"   %s\n"
+
+msgid "+90 degrees"
+msgstr "+90 градусов"
+
+msgid "-90 degrees"
+msgstr "-90 градусов"
+
+msgid "/Capture image..."
+msgstr "/Захватить изображение..."
+
+msgid "/Delete directory"
+msgstr "/Удалить каталог"
+
+msgid "/Make directory..."
+msgstr "/Создать каталог..."
+
+msgid "/Remove camera"
+msgstr "/Удалить камеру"
+
+msgid "/Save directory tree..."
+msgstr "/Сохранить дерево каталогов..."
+
+msgid "/Select camera..."
+msgstr "/Выбрать камеру..."
+
+msgid "/Upload file..."
+msgstr "/Выгрузить файл..."
+
+msgid "/View _EXIF data"
+msgstr "/_Просмотреть данные EXIF"
+
+msgid "/View camera manual"
+msgstr "/Руководство по камере"
+
+msgid "/View camera preferences"
+msgstr "/Настройки камеры"
+
+msgid "/View camera summary"
+msgstr "/Сводка по камере"
+
+msgid "/View driver details"
+msgstr "/Детали о драйвере"
+
+msgid "/View file _properties"
+msgstr "/_Просмотреть свойства файла..."
+
+msgid "/View with.../Built-in viewer"
+msgstr "/_Просмотреть с помощью.../Встроенный просмотрщик"
+
+msgid "/_Delete"
+msgstr "/_Удалить"
+
+msgid "/_Save"
+msgstr "/_Сохранить"
+
+msgid "/_View with..."
+msgstr "/_Просмотреть с помощью..."
+
+msgid "0 degrees"
+msgstr "0 градусов"
+
+msgid "180 degrees"
+msgstr "180 градусов"
+
+msgid "<Toolbox>/File/Acquire/Capture from Camera..."
+msgstr "<Toolbox>/File/Acquire/Захватить с камеры..."
+
+msgid "<Toolbox>/File/Acquire/Load from Camera..."
+msgstr "<Toolbox>/File/Acquire/Загрузить с камеры..."
+
+msgid ""
+"ALWAYS INCLUDE THE FOLLOWING LINES WHEN SENDING DEBUG MESSAGES TO THE "
+"MAILING LIST:"
+msgstr ""
+"ВСЕГДА ВКЛЮЧАЙТЕ СЛЕДУЮЩИЕ СТРОКИ В СООБЩЕНИЕ ОБ ОШИБКАХ ПРИ ОТПРАВКЕ В "
+"СПИСОК РАССЫЛКИ:"
+
+msgid "Add Camera"
+msgstr "Добавить камеру"
+
+msgid "Allow multiple frontends"
+msgstr "Разрешить множество клиентов"
+
+msgid "Applying configuration..."
+msgstr "Применение настройки..."
+
+msgid "Audio"
+msgstr "Аудио"
+
+msgid "Audio data will be saved if this is checked"
+msgstr "Аудио-данные будут сохранены, если выбран этот пункт"
+
+msgid "Best"
+msgstr "Лучшая"
+
+msgid "Capture"
+msgstr "Захват"
+
+msgid "Captures images from digital camera"
+msgstr "Захватить изображения с цифровой камеры"
+
+msgid "Capturing image..."
+msgstr "Захват изображения..."
+
+msgid "Choose whether to use the filename provided by the camera"
+msgstr "Выберите, использовать ли имена файлов, назначенные камерой"
+
+msgid "Could not apply configuration."
+msgstr "Не удалось применить настройку."
+
+msgid "Could not capture image."
+msgstr "Не могу захватить изображение."
+
+msgid "Could not capture."
+msgstr "Не могу захватить."
+
+msgid "Could not create directory '%s'"
+msgstr "Не удалось создать каталог %s"
+
+msgid "Could not create folder '%s' in folder '%s'."
+msgstr "Не удалось создать папку %s в папке %s."
+
+msgid "Could not delete all files in '%s'."
+msgstr "Не удалось удалить все файлы в %s."
+
+msgid "Could not delete file '%s' in folder '%s'."
+msgstr "Не удалось удалить файл %s из папки %s."
+
+msgid "Could not detect any cameras."
+msgstr "Не удалось найти ни одной камеры."
+
+msgid ""
+"Could not display '%s'. Either the image type ('%s') is not supported by gtk "
+"or the file itself is corrupt."
+msgstr ""
+"Не удалось показать %s. Или тип изображения (%s) не поддерживается gtk или "
+"файл повреждён."
+
+msgid "Could not download '%s' from folder '%s'."
+msgstr "Не удалось загрузить %s из папки %s."
+
+msgid "Could not download file '%s' from folder '%s'."
+msgstr "Не удалось загрузить файл %s из папки %s."
+
+msgid "Could not execute command."
+msgstr "Не удалось выполнить команду."
+
+msgid "Could not get '%s' from folder '%s'."
+msgstr "Не удалось получить %s из папки %s."
+
+msgid "Could not get EXIF information for '%s' in folder '%s'."
+msgstr "Не удалось получить EXIF-информацию из файла %s в папке %s."
+
+msgid "Could not get abilities of model '%s'."
+msgstr "Не удалось получить свойства модели %s."
+
+msgid "Could not get configuration."
+msgstr "Не удалось получить настройку."
+
+msgid "Could not get file list for folder '%s'"
+msgstr "Не удалось получить список файлов в папке %s"
+
+msgid "Could not get information about file '%s' in folder '%s'."
+msgstr "Не удалось получить информацию о файле %s в папке %s."
+
+msgid "Could not get number of ports."
+msgstr "Не удалось получить количество портов."
+
+msgid "Could not get number of supported camera models"
+msgstr "Не удалось получить количество поддерживаемых моделей камер"
+
+msgid "Could not get subfolders list for folder '%s'"
+msgstr "Не удалось получить список вложенных папок в папке %s"
+
+msgid "Could not initialize camera."
+msgstr "Не удалось инициализировать камеру."
+
+msgid "Could not interpret EXIF data."
+msgstr "Не удалось интерпретировать данные EXIF."
+
+msgid "Could not list folders in '%s'."
+msgstr "Не удалось просмотреть папки в %s."
+
+msgid "Could not open '%s'!"
+msgstr "Не удалось открыть %s!"
+
+msgid "Could not open '%s'."
+msgstr "Не удалось открыть %s."
+
+msgid "Could not remove directory '%s'."
+msgstr "Не удалось удалить каталог %s."
+
+msgid "Could not retrieve information."
+msgstr "Не удалось получить информацию."
+
+msgid "Could not save file to '%s'."
+msgstr "Не удалось сохранить файл %s."
+
+msgid "Could not set file information for '%s' in folder '%s'"
+msgstr "Не удалось установить информацию для файла %s в папке '%s'"
+
+msgid "Could not upload '%s' into '%s'."
+msgstr "Не удалось выгрузить %s в %s."
+
+msgid "Creating folder '%s' in folder '%s'..."
+msgstr "Создание папки %s в папке %s..."
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Debug"
+msgstr "Отладка"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete these files?"
+msgstr "Удалить эти файлы?"
+
+msgid "Deleting all files in '%s'..."
+msgstr "Удаление всех файлов в %s..."
+
+msgid "Deleting file '%s' from folder '%s'..."
+msgstr "Удаление файла %s из папки %s..."
+
+msgid "Detect"
+msgstr "Обнаружить"
+
+msgid "Detect USB camera"
+msgstr "Обнаружить USB-камеру"
+
+msgid "Detecting cameras..."
+msgstr "Обнаружение камер..."
+
+msgid "Do you really want to delete '%s'?"
+msgstr "Вы действительно хотите удалить %s?"
+
+msgid "Do you really want to delete all the files in '%s'?"
+msgstr "Вы действительно хотите удалить все файлы в %s?"
+
+msgid "Do you really want to delete the selected %i files?"
+msgstr "Вы действительно хотите удалить выделенные %i файла(ов)?"
+
+msgid "Don't rotate thumbnail"
+msgstr "Не вращать миниатюру"
+
+msgid "Download '%s' subtree to..."
+msgstr "Загрузка подкаталогов %s в ..."
+
+msgid "Downloading %i files"
+msgstr "Загрузка %i файла(ов)"
+
+msgid "Downloading %i files from '%s'"
+msgstr "Загрузка %i файла(ов) из %s"
+
+msgid "Downloading %i files..."
+msgstr "Загрузка %i файла(ов)..."
+
+msgid "Downloading '%s' from '%s'..."
+msgstr "Загрузка %s из %s..."
+
+msgid "Downloading '%s' from folder '%s'..."
+msgstr "Загрузка %s из папки %s..."
+
+msgid "Downloading file"
+msgstr "Загрузка файла"
+
+msgid "Downloading file from '%s'"
+msgstr "Загрузка файла из %s"
+
+msgid "Downloading thumbnail of '%s' from folder '%s'..."
+msgstr "Загрузка миниатюры %s из папки %s..."
+
+msgid "EXIF data will be saved if this is checked"
+msgstr "Данные EXIF будут сохранены, если выбран этот пункт"
+
+msgid "Enhanced"
+msgstr "Дополнительно"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "Filename prefix: "
+msgstr "Префикс имён файлов: "
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "General Settings"
+msgstr "Общие настройки"
+
+msgid "Getting EXIF information for file '%s' in folder '%s'..."
+msgstr "Получение EXIF-информации из файла %s в папке %s..."
+
+msgid "Getting configuration..."
+msgstr "Получение настройки..."
+
+msgid "Getting information about file '%s' in folder '%s'..."
+msgstr "Получение информации о файле %s в папке %s..."
+
+msgid "Getting information about the camera..."
+msgstr "Получение информации о камере..."
+
+msgid "Getting information about the driver..."
+msgstr "Получение информации о драйвере..."
+
+msgid "Getting manual..."
+msgstr "Получение руководства..."
+
+msgid "Gtkam has been compiled without EXIF support."
+msgstr "Gtkam скомпилирован без поддержки EXIF."
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image Download Program"
+msgstr "Программа загрузки изображений"
+
+msgid "Initializing camera..."
+msgstr "Инициализация камеры..."
+
+msgid "Last modified:"
+msgstr "Изменён:"
+
+msgid "Listing files in folder '%s'..."
+msgstr "Получение списка файлов в папке %s..."
+
+msgid "Listing folders in '%s'..."
+msgstr "Просмотр папок в %s..."
+
+msgid "Listing subfolders in folder '%s'..."
+msgstr "Просмотр вложенных папок в папке %s..."
+
+msgid "Loading cameras..."
+msgstr "Загрузка камер..."
+
+msgid "Loads files from digital cameras"
+msgstr "Загрузить файлы с цифровых камер"
+
+msgid "MIME type:"
+msgstr "MIME-тип:"
+
+msgid "Many others"
+msgstr "Многие другие"
+
+msgid "Model:"
+msgstr "Модель:"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "New directory"
+msgstr "Новый каталог"
+
+msgid "No additional information available. (1)"
+msgstr "Нет дополнительной информации. (1)"
+
+msgid "No additional information available. (2)"
+msgstr "Нет дополнительной информации. (2)"
+
+msgid "No additional information available. (3)"
+msgstr "Нет дополнительной информации. (3)"
+
+msgid "No additional information available. (4)"
+msgstr "Нет дополнительной информации. (4)"
+
+msgid "No additional information available. (5)"
+msgstr "Нет дополнительной информации. (5)"
+
+msgid "No additional information available. (6)"
+msgstr "Нет дополнительной информации. (6)"
+
+msgid "No cameras detected."
+msgstr "Камеры не найдены."
+
+msgid "None"
+msgstr "Ничего"
+
+msgid "Open image(s) with: "
+msgstr "Открыть изображение(я) с помощью: "
+
+msgid "Permissions:"
+msgstr "Права:"
+
+msgid "Photos will be saved if this is checked"
+msgstr "Фотографии будут сохранены, если выбран этот пункт"
+
+msgid "Please choose a name for the directory that should be created in '%s':"
+msgstr "Выберите имя папки, которая должна быть создана в %s:"
+
+msgid "Please right-click to access additional menus"
+msgstr "Щёлкните по правой клавише для доступа к дополнительным меню"
+
+msgid "Please specify the path to the port your camera is attached to:"
+msgstr "Укажите путь к порту, куда присоединена ваша камера:"
+
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Preview"
+msgstr "Предпросмотр"
+
+msgid "Problem getting '%s' from folder '%s'."
+msgstr "Проблема получения %s из папки %s."
+
+msgid "Raw data will be saved if this is checked"
+msgstr "Сырые данные будут сохранены, если выбран этот пункт"
+
+msgid "Read"
+msgstr "Прочитать"
+
+msgid "Removing directory '%s'..."
+msgstr "Удаление каталога %s..."
+
+msgid "Rotate thumbnail by -90 degrees"
+msgstr "Повернуть миниатюру на -90 градусов"
+
+msgid "Rotate thumbnail by 180 degrees"
+msgstr "Повернуть миниатюру на 180 градусов"
+
+msgid "Rotate thumbnail by 90 degrees"
+msgstr "Повернуть миниатюру на 90 градусов"
+
+msgid "Save '%s'..."
+msgstr "Сохранить %s ..."
+
+msgid "Save As..."
+msgstr "Сохранить как..."
+
+msgid "Save EXIF data"
+msgstr "Сохранять данные EXIF"
+
+msgid "Save audio data"
+msgstr "Сохранять аудио-данные"
+
+msgid "Save photos"
+msgstr "Сохранить фотографии"
+
+msgid "Save photos..."
+msgstr "Сохранить фотографии..."
+
+msgid "Save raw data"
+msgstr "Сохранять сырые данные"
+
+msgid "Save thumbnails"
+msgstr "Сохранять миниатюры"
+
+msgid "Select Camera"
+msgstr "Выберите камеру"
+
+msgid "Set to system's time"
+msgstr "Установить по системному времени"
+
+msgid "Setting information for file '%s' in '%s'..."
+msgstr "Установка информации для файла %s в %s..."
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Speed:"
+msgstr "Скорость:"
+
+msgid "Start numbering with: "
+msgstr "Нумеровать с: "
+
+msgid "The EXIF data could not be retrieved from the file."
+msgstr "Не удалось получить данные EXIF из файла."
+
+msgid "The file '%s' already exists."
+msgstr "Файл %s уже существует."
+
+msgid ""
+"The port '%s' could not be found. Please make sure that the port exists."
+msgstr "Порт %s не может быть открыт. Убедитесь, что порт существует."
+
+msgid "There is nothing to be saved."
+msgstr "Нечего сохранять."
+
+msgid "Thumbnails will be saved if this is checked"
+msgstr "Миниатюры будут сохранены, если выбран этот пункт"
+
+msgid "Time"
+msgstr "Время"
+
+msgid "Type in the name of the program you want to run, leave blank for none"
+msgstr ""
+"Введите имя программы, которую вы хотите запустить, или оставьте пустым"
+
+msgid "Type of messages to log:"
+msgstr "Тип сообщений для протоколирования:"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Upload into '%s'..."
+msgstr "Выгрузка в %s..."
+
+msgid "Uploading '%s' into folder '%s'..."
+msgstr "Выгрузка %s в папку %s..."
+
+msgid "Use filename(s) provided by the camera"
+msgstr "Использовать имена файлов, назначенные камерой"
+
+msgid "Verbose"
+msgstr "Подробно"
+
+msgid "What to save:"
+msgstr "Что сохранять:"
+
+msgid "Zoom _100"
+msgstr "Масштаб 100%"
+
+msgid "Zoom _In"
+msgstr "Увеличить"
+
+msgid "Zoom _Out"
+msgstr "Уменьшить"
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Add Camera..."
+msgstr "_Добавить камеру..."
+
+msgid "_Add camera..."
+msgstr "_Добавить камеру..."
+
+msgid "_All"
+msgstr "_Все"
+
+msgid "_Camera"
+msgstr "_Камера"
+
+msgid "_Contents"
+msgstr "_Содержимое"
+
+msgid "_Debug"
+msgstr "_Отладка"
+
+msgid "_Delete Photos"
+msgstr "_Удалить фотографии"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Help"
+msgstr "_Помощь"
+
+msgid "_Inverse"
+msgstr "_Инвертировать"
+
+msgid "_None"
+msgstr "_Ничего"
+
+msgid "_Quit"
+msgstr "_Выход"
+
+msgid "_Rescan"
+msgstr "_Обновить"
+
+msgid "_Save Photos"
+msgstr "_Сохранить фотографии"
+
+msgid "_Select"
+msgstr "_Выбрать"
+
+msgid "_Selected"
+msgstr "_Выделенные"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "_View Thumbnails"
+msgstr "_Просмотр миниатюр"
+
+msgid ""
+"gtkam is a program that lets you download\n"
+"images from many digital cameras. It uses\n"
+"libgphoto2. More info is available at\n"
+"http://www.gphoto.org.\n"
+"\n"
+"Enjoy the wonderful world of gphoto!"
+msgstr ""
+"gtkam это программа, которая позволяет вам загружать изображения со\n"
+"многих цифровых камер. Она использует libgphoto2. Дополнительную\n"
+"информацию можно найти на http://www.gphoto.org.\n"
+"\n"
+"Наслаждайтесь прекрасным миром gphoto!"

@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=yelp&keywords=I18N+L10N&component=General\n"
+"POT-Creation-Date: 2015-06-25 12:09+0000\n"
+"PO-Revision-Date: 2015-06-26 01:03+0300\n"
+"Last-Translator: Stas Solovey <whats_up@tut.by>\n"
+"Language-Team: Русский <gnome-cyr@gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"X-Generator: Gtranslator 2.91.7\n"
+
+msgid "A GtkIconTheme object to get icons from"
+msgstr "Объект GtkIconTheme для получения значков"
+
+msgid "A GtkSettings object to get settings from"
+msgstr "Объект GtkSettings для получения параметров"
+
+msgid "A YelpApplication instance that controls this window"
+msgstr "Экземпляр YelpApplication, управляющий этим окном"
+
+msgid "A YelpBookmarks implementation instance"
+msgstr "Экземпляр реализации YelpBookmarks"
+
+msgid "A YelpUri with the current location"
+msgstr "YelpUri с текущим местоположением"
+
+msgid "A YelpView instance to control"
+msgstr "Управляющий экземпляр YelpView"
+
+msgid "A size adjustment to add to font sizes"
+msgstr "Размер для добавления в размеры шрифтов"
+
+msgid "Add Bookmark"
+msgstr "Добавить закладку"
+
+msgid "All Help"
+msgstr "Вся справочная документация"
+
+msgid "All Help Documents"
+msgstr "Вся справочная документация"
+
+msgid "An unknown error occurred."
+msgstr "Произошла неизвестная ошибка."
+
+msgid "Application"
+msgstr "Приложение"
+
+msgid "Back"
+msgstr "Назад"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "C_opy Code Block"
+msgstr "_Копировать блок кода"
+
+msgid "Cannot Read"
+msgstr "Не удалось прочитать"
+
+msgid "Could not load a document"
+msgstr "Не удалось загрузить документ"
+
+msgid "Could not load a document for ‘%s’"
+msgstr "Не удалось загрузить документ для «%s»"
+
+msgid "Database filename"
+msgstr "Имя файла базы данных"
+
+msgid "Document Not Found"
+msgstr "Документ не найден"
+
+msgid "Document URI"
+msgstr "URI документа"
+
+msgid "Editor Mode"
+msgstr "Режим редактирования"
+
+msgid "Enable features useful to editors"
+msgstr "Включить полезные возможности редактирования"
+
+msgid "Find…"
+msgstr "Найти…"
+
+msgid "Font Adjustment"
+msgstr "Изменение шрифта"
+
+msgid "Forward"
+msgstr "Вперёд"
+
+msgid "Get help with GNOME"
+msgstr "Получение справки в среде GNOME"
+
+msgid "GtkIconTheme"
+msgstr "GtkIconTheme"
+
+msgid "GtkSettings"
+msgstr "GtkSettings"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Indexed"
+msgstr "Проиндексировано"
+
+msgid "Install <string/>"
+msgstr "Установить <string/>"
+
+msgid "Invalid compressed data"
+msgstr "Недопустимые сжатые данные"
+
+msgid "Larger Text"
+msgstr "Увеличить текст"
+
+msgid "Loading State"
+msgstr "Загрузка состояния"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "New Window"
+msgstr "Создать окно"
+
+msgid "Next Page"
+msgstr "Следующая страница"
+
+msgid "No bookmarks"
+msgstr "Нет закладок"
+
+msgid "No href attribute found on yelp:document\n"
+msgstr "Отсутствует атрибут ссылки в yelp:document\n"
+
+msgid "No matching help pages found in “%s”."
+msgstr "В «%s» не найдено совпадающих справочных страниц."
+
+msgid "No matching help pages found."
+msgstr "Не найдено совпадений в справочных страницах."
+
+msgid "Not enough memory"
+msgstr "Недостаточно памяти"
+
+msgid "Open Link in New _Window"
+msgstr "Открыть ссылку в _новом окне"
+
+msgid "Out of memory"
+msgstr "Недостаточно памяти"
+
+msgid "Page Description"
+msgstr "Описание страницы"
+
+msgid "Page ID"
+msgstr "ID страницы"
+
+msgid "Page Icon"
+msgstr "Значок страницы"
+
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+msgid "Print…"
+msgstr "Печать…"
+
+msgid "Remove Bookmark"
+msgstr "Удалить закладку"
+
+msgid "Root Title"
+msgstr "Корневой заголовок"
+
+msgid "S_end Image To…"
+msgstr "О_тправить изображение…"
+
+msgid "S_end Video To…"
+msgstr "О_тправить видео…"
+
+msgid "Save Code"
+msgstr "Сохранить код"
+
+msgid "Save Code _Block As…"
+msgstr "Сохранить _блок кода как…"
+
+msgid "Save Image"
+msgstr "Сохранить изображение"
+
+msgid "Search (Ctrl+S)"
+msgstr "Найти (Ctrl+S)"
+
+msgid "Search for packages containing this document."
+msgstr "Найти пакеты, содержащие этот документ."
+
+msgid "Search for “%s”"
+msgstr "Поиск «%s»"
+
+msgid "Search results for “%s”"
+msgstr "Найти результаты для «%s»"
+
+msgid "Send email to %s"
+msgstr "Сохранить эл. почту в %s"
+
+msgid "Show Text Cursor"
+msgstr "Показывать текстовый курсор"
+
+msgid "Show the text cursor or caret for accessible navigation"
+msgstr "Показывать текстовый курсор или каретку для перемещения по документу"
+
+msgid "Smaller Text"
+msgstr "Уменьшить текст"
+
+msgid "The ID of the root page of the page being viewed"
+msgstr "ID корневой страницы для просматриваемой страницы"
+
+msgid "The URI does not point to a valid page."
+msgstr "URI указывает на недопустимую страницу."
+
+msgid "The URI which identifies the document"
+msgstr "URI, который идентифицирует документ"
+
+msgid "The URI ‘%s’ could not be parsed."
+msgstr "Не удалось разобрать URI «%s»."
+
+msgid "The URI ‘%s’ does not point to a valid page."
+msgstr "URI «%s» указывает на недопустимую страницу."
+
+msgid "The XSLT stylesheet ‘%s’ is either missing or not valid."
+msgstr "Таблица стилей XSLT «%s» отсутствует или является некорректной."
+
+msgid "The description of the page being viewed"
+msgstr "Описание просматриваемой страницы"
+
+msgid "The directory ‘%s’ does not exist."
+msgstr "Каталог «%s» не существует."
+
+msgid "The file does not exist."
+msgstr "Файл не существует."
+
+msgid ""
+"The file ‘%s’ could not be parsed because it is not a well-formed XML "
+"document."
+msgstr ""
+"Не удалось разобрать файл «%s», потому что он не является корректно "
+"сформированным файлом XML."
+
+msgid ""
+"The file ‘%s’ could not be parsed because it is not a well-formed info page."
+msgstr ""
+"Не удалось разобрать файл «%s», потому что он не является корректной "
+"страницей в формате info."
+
+msgid ""
+"The file ‘%s’ could not be parsed because one or more of its included files "
+"is not a well-formed XML document."
+msgstr ""
+"Не удалось разобрать файл «%s», некоторые подключаемые части этого файла не "
+"являются корректно сформированными файлами XML."
+
+msgid "The file ‘%s’ does not exist."
+msgstr "Файл «%s» не существует."
+
+msgid "The filename of the sqlite database"
+msgstr "Имя файла базы данных sqlite"
+
+msgid "The icon of the page being viewed"
+msgstr "Значок просматриваемой страницы"
+
+msgid "The loading state of the view"
+msgstr "Загрузка состояния вида"
+
+msgid "The location of the XSLT stylesheet"
+msgstr "Расположение таблицы стилей XSLT"
+
+msgid "The page ‘%s’ was not found in the document ‘%s’."
+msgstr "Не удалось найти страницу «%s» в документе «%s»."
+
+msgid "The requested page was not found in the document ‘%s’."
+msgstr "Требуемая страница не найдена в документе «%s»."
+
+msgid "The title of the page being viewed"
+msgstr "Заголовок просматриваемой страницы"
+
+msgid "The title of the root page of the page being viewed"
+msgstr "Заголовок корневой страницы для просматриваемой страницы"
+
+msgid "Turn on editor mode"
+msgstr "Включить режим редактирования"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown Error"
+msgstr "Неизвестная ошибка"
+
+msgid "Unknown Error."
+msgstr "Неизвестная ошибка."
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Whether the document content has been indexed"
+msgstr "Является ли содержимое документа проиндексированным"
+
+msgid "XSLT Stylesheet"
+msgstr "Таблица стилей XSLT"
+
+msgid "Yelp URI"
+msgstr "URI Yelp"
+
+msgid "You do not have PackageKit. Package install links require PackageKit."
+msgstr ""
+"Отсутствует приложение PackageKit. Ссылки для установки пакетов требуют "
+"PackageKit."
+
+msgid "_Copy Link Location"
+msgstr "_Копировать адрес ссылки"
+
+msgid "_Copy Text"
+msgstr "_Копировать текст"
+
+msgid "_Install Packages"
+msgstr "_Установить пакеты"
+
+msgid "_Open Link"
+msgstr "_Открыть ссылку"
+
+msgid "_Save Image As…"
+msgstr "_Сохранить изображение как…"
+
+msgid "_Save Video As…"
+msgstr "_Сохранить видео как…"
+
+msgid "documentation;information;manual;"
+msgstr "документация;информация;руководство;"

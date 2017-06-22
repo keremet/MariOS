@@ -1,0 +1,2776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: control-center HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-10 12:07+0900\n"
+"PO-Revision-Date: 2008-03-04 17:45+0100\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"\n"
+"Compiz is not installed on the system"
+msgstr ""
+"\n"
+"Compiz не установлен"
+
+msgid ""
+"\n"
+"Composite extension is not enabled"
+msgstr ""
+"\n"
+"Расширения Composite не включены"
+
+msgid ""
+"\n"
+"The OpenGL extension TextureFromPixmap is not enabled"
+msgstr ""
+"\n"
+"Расширение OpenGL TextureFromPixmap не включено"
+
+msgid ""
+"\n"
+"This application was compiled without the OpenGL extension"
+msgstr ""
+"\n"
+"Это приложение было скомпилировано без расширения OpenGL"
+
+msgid "\"%s\" does not appear to be a valid theme."
+msgstr "Похоже, «%s» не является правильной темой."
+
+msgid ""
+"\"%s\" does not appear to be a valid theme. It may be a theme engine which "
+"you need to compile."
+msgstr ""
+"Похоже, «%s» не является правильной темой. Возможно, нужно установить "
+"дополнительные пакеты обработки тем."
+
+msgid "%a %l:%M %p"
+msgstr "%a %l:%M %p"
+
+msgid "%b %d %Y"
+msgstr "%b %d %Y"
+
+msgid "%b %d %l:%M %p"
+msgstr "%b %d %l:%M %p"
+
+msgid "%d %s by %d %s"
+msgstr "%d %s на %d %s"
+
+msgid "%d Hz"
+msgstr "%d Гц"
+
+msgid "%d minute until the next break"
+msgid_plural "%d minutes until the next break"
+msgstr[0] "%d минута до следующего перерыва"
+msgstr[1] "%d минуты до следующего перерыва"
+msgstr[2] "%d минут до следующего перерыва"
+
+msgid "%d x %d"
+msgstr "%d x %d"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "%s must be a directory\n"
+msgstr "Значение %s должно быть каталогом\n"
+
+msgid "%s must be a regular file\n"
+msgstr "%s должен быть обычным файлом\n"
+
+msgid "%s must be owned by you\n"
+msgstr "%s должен принадлежать вам\n"
+
+msgid "%s must not have any directory components\n"
+msgstr "В %s не должно содержаться компонент каталогов\n"
+
+msgid "- GNOME Default Applications"
+msgstr "- приложения по умолчанию"
+
+msgid "- GNOME Keyboard Preferences"
+msgstr "- параметры клавиатуры GNOME"
+
+msgid "- GNOME Mouse Preferences"
+msgstr "- параметры мыши"
+
+msgid "<Unknown Action>"
+msgstr "<Неизвестное действие>"
+
+msgid ""
+"<b>%s</b>\n"
+"%s\n"
+"Folder: %s"
+msgstr ""
+"<b>%s</b>\n"
+"%s\n"
+"Папка: %s"
+
+msgid ""
+"<b>%s</b>\n"
+"%s, %s\n"
+"Folder: %s"
+msgstr ""
+"<b>%s</b>\n"
+"%s, %s\n"
+"Каталог: %s"
+
+msgid "<b>C_ustom:</b> Uses custom set of effects."
+msgstr "<b>С_обственные:</b> собственный набор эффектов."
+
+msgid "<b>Di_rect internet connection</b>"
+msgstr "<b>_Прямое соединение с интернетом</b>"
+
+msgid ""
+"<b>E_xtra:</b> Provides more aesthetically pleasing set of effects. Requires "
+"faster graphics-card."
+msgstr ""
+"<b>До_полнительные:</b> набор более эстетически привлекательных эффектов. "
+"Требуетсяболее мощная видеоплата."
+
+msgid ""
+"<b>N_ormal:</b> Provides improved usability and good balance between "
+"attractiveness and moderate performance-requirements."
+msgstr ""
+"<b>О_бычные:</b> повышенный уровень удобства и равновесие между "
+"привлекательностью и умеренными требованиями к производительности."
+
+msgid "<b>Open %s</b>"
+msgstr "<b>Открыть %s</b>"
+
+msgid "<b>Open</b>"
+msgstr "<b>Открыть</b>"
+
+msgid ""
+"<b>Visual effects cannot be enabled</b>\n"
+"\n"
+"Details :\n"
+msgstr ""
+"<b>Включение визуальных эффектов невозможно</b>\n"
+"\n"
+"Сведения:\n"
+
+msgid "<b>_Automatic proxy configuration</b>"
+msgstr "<b>_Автоматическая настройка прокси-службы</b>"
+
+msgid "<b>_Manual proxy configuration</b>"
+msgstr "<b>Р_учная настройка прокси-службы</b>"
+
+msgid ""
+"<b>_None:</b> Provides a simple desktop environment without any effects."
+msgstr "<b>_Нет:</b> простая рабочая среда без эффектов."
+
+msgid "<b>_Use authentication</b>"
+msgstr "<b>_Использовать авторизацию</b>"
+
+msgid "?"
+msgstr "?"
+
+msgid "A computer break reminder."
+msgstr "Программа напоминания о перерыве."
+
+msgid "A system error has occurred"
+msgstr "Произошла ошибка в системе"
+
+msgid "A_IM/iChat:"
+msgstr "A_IM/iChat:"
+
+msgid "A_ddress:"
+msgstr "_Адрес:"
+
+msgid "A_ssistant:"
+msgstr "_Помощник:"
+
+msgid "About %s"
+msgstr "О %s"
+
+msgid "About Me"
+msgstr "Обо мне"
+
+msgid "Accel Mode"
+msgstr "Режим ускорителя"
+
+msgid "Accelerator key"
+msgstr "Клавиша ускорителя"
+
+msgid "Accelerator keycode"
+msgstr "Код клавиши ускорителя"
+
+msgid "Accelerator modifiers"
+msgstr "Модификаторы ускорителя"
+
+msgid "Accessibility"
+msgstr "Вспомогательные технологии"
+
+msgid "Accessible Lo_gin"
+msgstr "Вспомогательные технологии при входе в систему"
+
+msgid "Action"
+msgstr "Команда"
+
+msgid "Add Wallpaper"
+msgstr "Добавить обои"
+
+msgid "Add to Favorites"
+msgstr "Добавить в Избранное"
+
+msgid "Add to Startup Programs"
+msgstr "Добавить в автозагрузку"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Adjust the screen resolution and rotation"
+msgstr "Регулировка разрешения и угла поворота экрана"
+
+msgid "Alert Buttons"
+msgstr "Кнопки диалога предупреждения"
+
+msgid "Alert Type"
+msgstr "Тип предупреждения"
+
+msgid "All %s occurrences will be replaced with actual link"
+msgstr "Все вхождения %s будут заменены реальным путем в файловой системе"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "All files"
+msgstr "Все файлы"
+
+msgid "All_ow postponing of breaks"
+msgstr "Разрешать _откладывать перерыв"
+
+msgid "An internal error occured"
+msgstr "Произошла внутренняя ошибка"
+
+msgid "Appearance"
+msgstr "Внешний вид"
+
+msgid "Appearance Preferences"
+msgstr "Параметры внешнего вида"
+
+msgid "Apply Background"
+msgstr "Применить _фон"
+
+msgid "Apply Font"
+msgstr "Применить _шрифт"
+
+msgid "Apply New Theme"
+msgstr "Применить новую тему"
+
+msgid "Are you sure you want to permanently delete \"%s\"?"
+msgstr "Уверены, что навсегда хотите удалить «%s»?"
+
+msgid "Assign shortcut keys to commands"
+msgstr "Диалог назначения комбинаций клавиш командам"
+
+msgid "Assistive Technologies"
+msgstr "Вспомогательные технологии"
+
+msgid "Assistive Technologies Preferences"
+msgstr "Параметры вспомогательных технологий"
+
+msgid "Audio _Feedback..."
+msgstr "Обратная _звуковая связь..."
+
+msgid "Authenticated!"
+msgstr "Авторизовано!"
+
+msgid ""
+"Authentication is required to install multi-monitor settings for all users"
+msgstr ""
+"Для установки многомониторных настроек для всех пользователей требуется "
+"аутентификация"
+
+msgid "Autoconfiguration _URL:"
+msgstr "Ад_рес (URL) автоконфигурации:"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Balsa"
+msgstr "Balsa"
+
+msgid "Banshee Music Player"
+msgstr "Музыкальный проигрыватель Banshee"
+
+msgid "Beep when _accessibility features are turned on or off"
+msgstr ""
+"Подавать сигн_ал, когда включаются или выключаются вспомогательные "
+"технологии клавиатуры"
+
+msgid "Beep when a _modifier key is pressed"
+msgstr "Под_авать сигнал, когда модификатор нажат"
+
+msgid "Beep when a _toggle key is pressed"
+msgstr "Подавать с_игнал, когда переключатель нажат"
+
+msgid "Beep when a key is pr_essed"
+msgstr "Подавать сиг_нал, когда клавиша нажата"
+
+msgid "Beep when a key is reje_cted"
+msgstr "Подавать сигнал, когда клавиша н_е принята"
+
+msgid "Beep when key is _accepted"
+msgstr "Подавать _сигнал, когда клавиша принята"
+
+msgid "Beep when key is _rejected"
+msgstr "Подавать сигнал, когда клавиша н_е принята"
+
+msgid "Best _shapes"
+msgstr "Наилучшее _начертание"
+
+msgid "Best co_ntrast"
+msgstr "Наилучшая _контрастность"
+
+msgid "Bounce Keys"
+msgstr "Кнопки мыши"
+
+msgid "By _country"
+msgstr "По _стране"
+
+msgid "By _language"
+msgstr "По _языку"
+
+msgid "C_ity:"
+msgstr "_Город:"
+
+msgid "C_olors:"
+msgstr "Цвета:"
+
+msgid "C_ommand:"
+msgstr "Коман_да:"
+
+msgid "C_ompany:"
+msgstr "_Компания:"
+
+msgid "C_reate"
+msgstr "_Создать"
+
+msgid "C_ustomize..."
+msgstr "_Настроить..."
+
+msgid "Cale_ndar:"
+msgstr "К_алендарь:"
+
+msgid "Callback"
+msgstr "Обработчик"
+
+msgid ""
+"Callback to be issued when data are to be converted from GConf to the widget"
+msgstr ""
+"Обработчик, который будет вызван после передачи данных от системы GConf к "
+"виджету"
+
+msgid ""
+"Callback to be issued when data are to be converted to GConf from the widget"
+msgstr ""
+"Обработчик, который будет вызван после передачи данных от виджета к системе "
+"GConf"
+
+msgid "Callback to be issued when property editor object data is to be freed"
+msgstr ""
+"Обработчик, вызываемый, когда редактор данные объекта редактора свойств "
+"освобождаются"
+
+msgid "Cannot install theme"
+msgstr "Не удалось установить тему"
+
+msgid "Cannot start the preferences application for your window manager"
+msgstr "Не удалось запустить приложение настройки вашего оконного менеджера"
+
+msgid "Center"
+msgstr "По центру"
+
+msgid "Change Passwo_rd..."
+msgstr "Изменить _пароль..."
+
+msgid "Change pa_ssword"
+msgstr "Изменить _пароль"
+
+msgid "Change password"
+msgstr "Изменить пароль"
+
+msgid "Change resolution and position of monitors"
+msgstr "Изменение разрешения и позиции мониторов"
+
+msgid "Change set"
+msgstr "Изменить набор"
+
+msgid "Change window selection, movement and sizing behavior"
+msgstr "Изменение поведения при выборе, перемещении и изменении размеров окон"
+
+msgid "Change your password"
+msgstr "Изменить пароль"
+
+msgid ""
+"Changes to enable assistive technologies will not take effect until your "
+"next log in."
+msgstr ""
+"Изменения в настройках вспомогательных технологий не будут использоваться до "
+"следующего входа в систему."
+
+msgid "Changing your cursor theme takes effect the next time you log in."
+msgstr ""
+"Изменения темы курсора войдут в силу только следующего входа в систему."
+
+msgid "Check if breaks are allowed to be postponed"
+msgstr "Установите, если разрешено откладывать перерывы"
+
+msgid "Check if visual effects can be enabled"
+msgstr "Проверка возможности включения визуальных эффектов"
+
+msgid "Checking password..."
+msgstr "Проверка пароля..."
+
+msgid "Child exited unexpectedly"
+msgstr "Дочерний процесс неожиданно завершился"
+
+msgid "Choose a Keyboard Model"
+msgstr "Выберите модель клавиатуры"
+
+msgid "Choose a Layout"
+msgstr "Выберите раскладку"
+
+msgid "Choose applications to open different types of documents"
+msgstr "Выбор приложений для открытия различных типов документов"
+
+msgid "Choose type of click _beforehand"
+msgstr "Тип предвар_ительного щелчка"
+
+msgid "Choose type of click with mo_use gestures"
+msgstr "Тип щелчка при _жестах мышью"
+
+msgid "Choose which accessibility features to enable when you log in"
+msgstr "Выбрать вспомогательные технологии, запускаемые при входе в систему"
+
+msgid "Ci_ty:"
+msgstr "Го_род:"
+
+msgid "Claws Mail"
+msgstr "Claws Mail"
+
+msgid "Click <b>Change password</b> to change your password."
+msgstr "Нажмите <b>Изменить пароль</b> для смены пароля."
+
+msgid "Close and _Log Out"
+msgstr "Закрыть и _выйти из системы"
+
+msgid "Close the control-center when a task is activated"
+msgstr "Закрывать центр управления, когда задача активирована"
+
+msgid "Co_mmand:"
+msgstr "Коман_да:"
+
+msgid "Co_untry:"
+msgstr "_Страна:"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Common Tasks"
+msgstr "Общие задачи"
+
+msgid "Contact"
+msgstr "Контакт"
+
+msgid "Control Center"
+msgstr "Центр управления"
+
+msgid "Controls"
+msgstr "Элементы управления"
+
+msgid "Conversion from widget callback"
+msgstr "Обработчик данных виджета"
+
+msgid "Conversion to widget callback"
+msgstr "Обработчик данных GConf"
+
+msgid "Copying '%s'"
+msgstr "Копируется «%s»"
+
+msgid "Copying file: %u of %u"
+msgstr "Копируется файл: %u из %u"
+
+msgid "Copying files"
+msgstr "Копирование файлов"
+
+msgid "Copyright:"
+msgstr "Лицензия:"
+
+msgid "Cou_ntry:"
+msgstr "Стра_на:"
+
+msgid "Could not access '%s' device"
+msgstr "Не удалось получить доступ к устройству «%s»"
+
+msgid "Could not access any fingerprint readers"
+msgstr "Не удалось найти устройств сканирования отпечатков"
+
+msgid "Could not detect displays"
+msgstr "Не удалось определить характеристики экранов"
+
+msgid "Could not get information for %s: %s\n"
+msgstr "Не удалось получить информацию для %s: %s\n"
+
+msgid "Could not get screen information"
+msgstr "Не удалось получить информацию об экране"
+
+msgid "Could not get session bus while applying display configuration"
+msgstr ""
+"Не удалось получить доступ к системной шине сообщений для изменения "
+"параметров экрана"
+
+msgid "Could not install theme engine"
+msgstr "Не удалось установить модуль темы"
+
+msgid "Could not load the main interface"
+msgstr "Не удалось загрузить главный интерфейс"
+
+msgid "Could not load user interface file: %s"
+msgstr "Не удалось загрузить файл интерфейса пользователя: %s"
+
+msgid "Could not open %s/%s: %s\n"
+msgstr "Не удалось открыть %s/%s: %s\n"
+
+msgid "Could not open %s: %s\n"
+msgstr "Не удалось открыть %s: %s\n"
+
+msgid "Could not rename %s to %s: %s\n"
+msgstr "Не удалось переименовать %s в %s: %s\n"
+
+msgid "Could not save the monitor configuration"
+msgstr "Не удалось сохранить конфигурацию монитора"
+
+msgid "Could not set the default configuration for monitors"
+msgstr "Не удалось сохранить конфигурацию по умолчанию для мониторов"
+
+msgid "Could not shutdown backend_stdin IO channel: %s"
+msgstr "Не удалось закрыть канал ввода дочернего процесса: %s"
+
+msgid "Could not shutdown backend_stdout IO channel: %s"
+msgstr "Не удалось закрыть канал вывода дочернего процесса: %s"
+
+msgid "Could not start finger capture on '%s' device"
+msgstr "Не удалось начать сканирование отпечатка пальцев на устройстве «%s»"
+
+msgid ""
+"Couldn't find the file '%s'.\n"
+"\n"
+"Please make sure it exists and try again, or choose a different background "
+"picture."
+msgstr ""
+"Не удалось найти файл «%s».\n"
+"\n"
+"Убедитесь, что он существует и попробуйте снова, или выберите иную картинку "
+"для фона."
+
+msgid "Create New Location"
+msgstr "Создать новое местоположение"
+
+msgid "Current URI index"
+msgstr "Текущий индекс URI"
+
+msgid "Current URI index - starts from 1"
+msgstr "Текущий индекс URI - начинается с 1"
+
+msgid "Current _password:"
+msgstr "Текущий па_роль:"
+
+msgid "Current network location"
+msgstr "Текущее расположение в сети"
+
+msgid "Cursor Blinking"
+msgstr "Мигание курсора"
+
+msgid "Cursor _blinks in text fields"
+msgstr "Курсор _мигает в полях ввода текста"
+
+msgid "Cursor blinks speed"
+msgstr "Скорость мерцания курсора"
+
+msgid "Custom"
+msgstr "Другой"
+
+msgid "Custom Shortcut"
+msgstr "Дополнительные комбинации клавиш"
+
+msgid "Custom Shortcuts"
+msgstr "Пользовательские комбинации клавиш"
+
+msgid "Custom data required by the specific property editor"
+msgstr "Пользовательские данные, требуемые частным редактором свойств"
+
+msgid "Customize Theme"
+msgstr "Настроить тему"
+
+msgid "Customize the look of the desktop"
+msgstr "Настройте тему рабочего стола"
+
+msgid "D_elay:"
+msgstr "За_держка:"
+
+msgid "D_etails..."
+msgstr "По_дробнее..."
+
+msgid "D_ouble click:"
+msgstr "Двойн_ой щелчок:"
+
+msgid "D_rag click:"
+msgstr "Щелчок перетаскиванием:"
+
+msgid "Dasher"
+msgstr "Dasher"
+
+msgid "Debian Sensible Browser"
+msgstr "Debian Sensible Browser"
+
+msgid "Debian Terminal Emulator"
+msgstr "Эмулятор терминала Debian"
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid "Default Pointer"
+msgstr "Указатель по умолчанию"
+
+msgid "Default Pointer - Current"
+msgstr "Указатель по умолчанию - текущий"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Delete registered fingerprints?"
+msgstr "Удалить зарегистрированные отпечатки?"
+
+msgid "Des_ktop font:"
+msgstr "Шрифт _рабочего стола:"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Desktop effects could not be enabled"
+msgstr "Включение эффектов рабочего стола невозможно"
+
+msgid "Disa_ble sticky keys if two keys are pressed together"
+msgstr "Откл_ючать залипающие клавиши, если две клавиши нажаты одновременно"
+
+msgid "Disable _Fingerprint Login..."
+msgstr "Выключить _сканирование отпечатков..."
+
+msgid "Disable _touchpad while typing"
+msgstr "_Запретить сенсорную панель на время набора"
+
+msgid "Disabled"
+msgstr "Выкл."
+
+msgid ""
+"Do you want to delete your registered fingerprints so fingerprint login is "
+"disabled?"
+msgstr ""
+"Удалить зарегистрированные отпечатки пальцев и заблокировать доступ по "
+"отпечатку?"
+
+msgid "Do you want to keep these settings?"
+msgstr "Сохранить эти параметры настройки?"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Don't check whether the notification area exists"
+msgstr "Не проверять наличие области уведомлений на панели"
+
+msgid "Done!"
+msgstr "Выполнено!"
+
+msgid "Double-Click Timeout"
+msgstr "Задержка двойного щелчка"
+
+msgid "Drag and Drop"
+msgstr "Перетаскивание"
+
+msgid "Duration of the break when typing is disallowed"
+msgstr "Продолжительность перерыва, когда работа на клавиатуре запрещена"
+
+msgid "Duration of work before forcing a break"
+msgstr "Продолжительность работы перед принудительным перерывом"
+
+msgid "Dwell Click"
+msgstr "Щелчок выдержкой"
+
+msgid "ETerm"
+msgstr "ETerm"
+
+msgid "E_xecute flag:"
+msgstr "Флаг _выполнения:"
+
+msgid "Email"
+msgstr "Адрес эл. почты"
+
+msgid "Enable Fingerprint Login"
+msgstr "Включить вход в систему по отпечатку"
+
+msgid "Enable _Fingerprint Login..."
+msgstr "Включить _сканирование отпечатков..."
+
+msgid "Enable _mouse clicks with touchpad"
+msgstr "Включить _щелчок при помощи сенсорной панели"
+
+msgid "Enable debugging code"
+msgstr "Включить режим отладки"
+
+msgid "Enable h_orizontal scrolling"
+msgstr "Включить _горизонтальную прокрутку"
+
+msgid "Encompass"
+msgstr "Encompass"
+
+msgid "Epiphany Web Browser"
+msgstr "Веб-браузер Epiphany"
+
+msgid "Error parsing arguments: %s\n"
+msgstr "Возникла ошибка при разборе ключей: %s\n"
+
+msgid "Error saving configuration: %s"
+msgstr "Ошибка при сохранении конфигурации: %s"
+
+msgid "Error saving the new shortcut"
+msgstr "Ошибка при сохранении комбинации клавиш"
+
+msgid "Error unsetting accelerator in configuration database: %s"
+msgstr "Ошибка при сбросе ускорителя в базе данных конфигурации: %s"
+
+msgid "Evolution Mail Reader"
+msgstr "Почтовый клиент Evolution"
+
+msgid "Exit shell on add or remove action performed"
+msgstr "Выходить из оболочки при выполнении действия удаления или добавления"
+
+msgid "Exit shell on help action performed"
+msgstr "Выходить из оболочки при вызове действия справки"
+
+msgid "Exit shell on start action performed"
+msgstr "Выходить из оболочки при выполнении действия запуска"
+
+msgid "Exit shell on upgrade or uninstall action performed"
+msgstr "Выходить из оболочки при выполнении действия обновления или удаления"
+
+msgid "Eye candy added by Anders Carlsson"
+msgstr "Дизайн: Андерс Карлссон (Anders Carlsson)"
+
+msgid "FONT-FILE OUTPUT-FILE"
+msgstr "ФАЙЛ-ШРИФТА РЕЗУЛЬТАТ"
+
+msgid "Failed to create temporary directory"
+msgstr "Не удалось создать временный каталог"
+
+msgid "Fast"
+msgstr "Быстро"
+
+msgid "File '%s' already exists. Do you want to overwrite it?"
+msgstr "Файл «%s» уже существует. Переписать его?"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "Filter"
+msgstr "Фильтр"
+
+msgid "Find Now"
+msgstr "Найти сейчас"
+
+msgid "Firebird"
+msgstr "Firebird"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "Flash _window titlebar"
+msgstr "Мигание _заголовка окна"
+
+msgid "Flash entire _screen"
+msgstr "Мигание _экрана"
+
+msgid "Font Rendering Details"
+msgstr "Подробности отрисовки шрифтов"
+
+msgid "Font Viewer"
+msgstr "Просмотр шрифтов"
+
+msgid "Font may be too large"
+msgstr "Шрифт может быть слишком большим"
+
+msgid "Font size (default: 64)"
+msgstr "Размер шрифта (по умолчанию: 64)"
+
+msgid "Fonts"
+msgstr "Шрифт"
+
+msgid "Fraction completed"
+msgstr "Часть выполнена"
+
+msgid "Fraction of transfer currently completed"
+msgstr "Часть передачи выполнена"
+
+msgid "From URI"
+msgstr "Из URI"
+
+msgid "Full Name"
+msgstr "Полное имя"
+
+msgid ""
+"GConf change set containing data to be forwarded to the gconf client on apply"
+msgstr ""
+"Набор изменений системы GConf содержит данные, которые будут направлены "
+"клиенту по применении"
+
+msgid "GConf key to which this property editor is attached"
+msgstr "Ключ системы GConf, к которому подключён этот редактор свойств"
+
+msgid "GNOME Magnifier without Screen Reader"
+msgstr "Увеличитель GNOME без чтения с экрана"
+
+msgid "GNOME OnScreen Keyboard"
+msgstr "Экранный увеличитель GNOME"
+
+msgid "GNOME Terminal"
+msgstr "Терминал GNOME"
+
+msgid "GNOME Theme %s correctly installed"
+msgstr "Тема среды GNOME %s успешно установлена"
+
+msgid "Galeon"
+msgstr "Galeon"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Get more backgrounds online"
+msgstr "Скачать дополнительные фоновые рисунки"
+
+msgid "Get more themes online"
+msgstr "Скачать дополнительные темы"
+
+msgid "Gnome Theme Package"
+msgstr "Пакет тем GNOME"
+
+msgid "Gnopernicus"
+msgstr "Gnopernicus"
+
+msgid "Gnopernicus with Magnifier"
+msgstr "Gnopernicus с увеличителем экрана"
+
+msgid "Gra_yscale"
+msgstr "Пол_утона"
+
+msgid "Groups"
+msgstr "Группы"
+
+msgid "HTTP Proxy Details"
+msgstr "Параметры HTTP прокси"
+
+msgid "H_TTP proxy:"
+msgstr "Прокси для H_TTP:"
+
+msgid "H_yper"
+msgstr "H_yper"
+
+msgid "Help"
+msgstr "Справка"
+
+msgid "Hide on start (useful to preload the shell)"
+msgstr "Скрывать при запуске (полезно для предварительной загрузки оболочки)"
+
+msgid "High"
+msgstr "Высокая"
+
+msgid "Hinting"
+msgstr "Уточнение"
+
+msgid "Hom_e:"
+msgstr "До_м:"
+
+msgid "Home"
+msgstr "Дом"
+
+msgctxt "Home folder"
+msgid "Home"
+msgstr "Домой"
+
+msgid "Horizontal gradient"
+msgstr "Горизонтальный градиент"
+
+msgid ""
+"I don't know how to open the file '%s'.\n"
+"Perhaps it's a kind of picture that is not yet supported.\n"
+"\n"
+"Please select a different picture instead."
+msgstr ""
+"Неизвестно, как открыть файл «%s».\n"
+"Возможно это ещё неподдерживаемый формат картинки.\n"
+"\n"
+"Выберите иную картинку, пожалуйста"
+
+msgid "IC_Q:"
+msgstr "IC_Q:"
+
+msgid "I_nstall Font"
+msgstr "_Установить шрифт"
+
+msgid "Iceape"
+msgstr "Iceape"
+
+msgid "Iceape Mail"
+msgstr "Почта Iceape"
+
+msgid "Icedove"
+msgstr "Icedove"
+
+msgid "Iceweasel"
+msgstr "Iceweasel"
+
+msgid "Icons"
+msgstr "Значки"
+
+msgid "Icons only"
+msgstr "Значки"
+
+msgid "If set to true, then OpenType fonts will be thumbnailed."
+msgstr "Если включено, будут создаваться миниатюры для шрифтов OpenType"
+
+msgid "If set to true, then PCF fonts will be thumbnailed."
+msgstr "Если включено, будут создаваться миниатюры для шрифтов PCF"
+
+msgid "If set to true, then TrueType fonts will be thumbnailed."
+msgstr "Если включено, будут создаваться миниатюры для шрифтов TrueType"
+
+msgid "If set to true, then Type1 fonts will be thumbnailed."
+msgstr "Если включено, будут создаваться миниатюры для шрифтов Type1"
+
+msgid "If you delete an item, it is permanently lost."
+msgstr "После удаления восстановление невозможно."
+
+msgid ""
+"If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
+msgstr ""
+"После переназначения комбинации клавиш «%s» на «%s» она будет выключена."
+
+msgid "Ignore Host List"
+msgstr "Список игнорируемых узлов"
+
+msgid "Ignored Hosts"
+msgstr "Игнорируемые узлы"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image Viewer"
+msgstr "Просмотр изображений"
+
+msgid "Image missing"
+msgstr "Нет изображения"
+
+msgid "Image/label border"
+msgstr "Обрамление рисунка/метки"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid "Include _panel"
+msgstr "Включить _панель"
+
+msgid "Indicates whether to close the shell when a help action is performed."
+msgstr "Указывает, закрывать ли оболочку при выполнении действия справки."
+
+msgid "Indicates whether to close the shell when a start action is performed."
+msgstr "Указывает, закрывать ли оболочку при выполнении действия запуска."
+
+msgid ""
+"Indicates whether to close the shell when an add or remove action is "
+"performed."
+msgstr ""
+"Указывает, закрывать ли оболочку при выполнении действия добавления или "
+"удаления."
+
+msgid ""
+"Indicates whether to close the shell when an upgrade or uninstall action is "
+"performed."
+msgstr ""
+"Указывает, закрывать ли оболочку при выполнении действия установки или "
+"удаления."
+
+msgid "Install"
+msgstr "Установить"
+
+msgid "Install Failed"
+msgstr "Не удалось установить шрифт"
+
+msgid "Install multi-monitor settings for the whole system"
+msgstr "Установка многомониторных настроек в качестве системных"
+
+msgid "Installation for theme \"%s\" failed."
+msgstr "Установка темы «%s» завершилась неудачно."
+
+msgid "Installed"
+msgstr "Установлено"
+
+msgid "Installs themes packages for various parts of the desktop"
+msgstr "Устанавливает пакеты тем для различных элементов рабочего стола"
+
+msgid "Instant Messaging"
+msgstr "Мгновенные сообщения"
+
+msgid "Instant Messenger"
+msgstr "Мгновенные сообщения"
+
+msgid ""
+"Insufficient permissions to install the theme in:\n"
+"%s"
+msgstr ""
+"Недостаточно прав, чтобы установить тему в:\n"
+"%s"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Issue this callback when the value associated with key gets changed"
+msgstr ""
+"Вызвать этот обработчик, когда значение, связанное с этим ключом, изменится"
+
+msgid "Job"
+msgstr "Должность"
+
+msgid "Jump to Preferred Applications dialog"
+msgstr "Перейти в диалог настройки предпочтительных приложений"
+
+msgid "Jump to the Accessible Login dialog"
+msgstr ""
+"Перейти в диалог настройки вспомогательных технологий при входе в систему"
+
+msgid "Jump to the Keyboard Accessibility dialog"
+msgstr "Перейти в диалог настройки вспомогательных возможностей клавиатуры"
+
+msgid "Jump to the Mouse Accessibility dialog"
+msgstr "Перейти в диалог настройки вспомогательных возможностей мыши"
+
+msgid ""
+"Just apply settings and quit (compatibility only; now handled by daemon)"
+msgstr ""
+"Просто применить установки и выйти (только для совместимости; теперь "
+"обрабатывается демоном)"
+
+msgid "KDE Magnifier without Screen Reader"
+msgstr "Увеличитель KDE без чтения с экрана"
+
+msgid "KMail"
+msgstr "KMail"
+
+msgid "Keep Current Theme"
+msgstr "Сохранить текущую тему"
+
+msgid "Keep Settings"
+msgstr "Сохранить параметры настройки"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Key presses _repeat when key is held down"
+msgstr "_Повторять удерживаемую нажатой клавишу"
+
+msgid "Keyboard"
+msgstr "Клавиатура"
+
+msgid "Keyboard Accessibility Audio Feedback"
+msgstr "Вспомогательные звуковые возможности _клавиатуры"
+
+msgid "Keyboard Layout Options"
+msgstr "Параметры раскладки"
+
+msgid "Keyboard Preferences"
+msgstr "Параметры клавиатуры"
+
+msgid "Keyboard Shortcuts"
+msgstr "Комбинации клавиш клавиатуры"
+
+msgid "Keyboard _model:"
+msgstr "_Модель клавиатуры:"
+
+msgid "Konqueror"
+msgstr "Konqueror"
+
+msgid "Konsole"
+msgstr "Konsole"
+
+msgid "Large"
+msgstr "Увеличенный"
+
+msgid "Large Pointer"
+msgstr "Увеличенный указатель"
+
+msgid "Large Pointer - Current"
+msgstr "Увеличенный указатель - Текущий"
+
+msgid "Large White Pointer"
+msgstr "Увеличенный белый указатель"
+
+msgid "Large White Pointer - Current"
+msgstr "Увеличенный белый указатель - Текущий"
+
+msgid "Layout"
+msgstr "Раскладка"
+
+msgid "Layouts"
+msgstr "Раскладки"
+
+msgid "Left"
+msgstr "повёрнут влево"
+
+msgid "Left index finger"
+msgstr "Левый указательный палец"
+
+msgid "Left little finger"
+msgstr "Левый мизинец"
+
+msgid "Left middle finger"
+msgstr "Левый средний палец"
+
+msgid "Left ring finger"
+msgstr "Левый безымянный палец"
+
+msgid "Left thumb"
+msgstr "Левый большой палец"
+
+msgid "Less than one minute until the next break"
+msgstr "Менее одной минуты до следующего перерыва"
+
+msgid "Linux Screen Reader"
+msgstr "Чтение с экрана LSR"
+
+msgid "Linux Screen Reader with Magnifier"
+msgstr "Чтение с экрана LSR с увеличителем"
+
+msgid "List of keyboard layouts selected for usage"
+msgstr "Список выбранных для использования клавиатурных раскладок"
+
+msgid "Listen"
+msgstr "Listen"
+
+msgid "Locate Pointer"
+msgstr "Поиск указателя"
+
+msgid "Location already exists"
+msgstr "Положение уже существует"
+
+msgid "Location:"
+msgstr "Место:"
+
+msgid ""
+"Lock screen after a certain duration to help prevent repetitive keyboard use "
+"injuries"
+msgstr ""
+"Блокировать экран через определенное время для предотвращения болезней, "
+"связанных с продолжительным использованием клавиатуры"
+
+msgid "Long"
+msgstr "Длинная"
+
+msgid "Low"
+msgstr "Низкая"
+
+msgid "M_SN:"
+msgstr "M_SN:"
+
+msgid "Mail Reader"
+msgstr "Почтовая программа"
+
+msgid "Make Default"
+msgstr "По умолчанию"
+
+msgid "Maximize"
+msgstr "На весь экран"
+
+msgid "Maximize Horizontally"
+msgstr "Растянуть по горизонтали"
+
+msgid "Maximize Vertically"
+msgstr "Растянуть по вертикали"
+
+msgid "Midori"
+msgstr "Midori"
+
+msgid "Minimize"
+msgstr "Свернуть"
+
+msgid "Mirror Screens"
+msgstr "Зеркальные экраны"
+
+msgid "Mobility"
+msgstr "Мобильность"
+
+msgid "Models"
+msgstr "Модели"
+
+msgid "Monitor"
+msgstr "Монитор"
+
+msgid "Monitor Preferences"
+msgstr "Параметры монитора"
+
+msgid "Monitor: %s"
+msgstr "Монитор: %s"
+
+msgid "Monitors"
+msgstr "Мониторы"
+
+msgid "More backgrounds URL"
+msgstr "URL хранилища фоновых рисунков"
+
+msgid "More themes URL"
+msgstr "URL хранилища тем"
+
+msgid "Mouse"
+msgstr "Мышь"
+
+msgid "Mouse Keys"
+msgstr "Кнопки мыши"
+
+msgid "Mouse Orientation"
+msgstr "Ориентация мыши"
+
+msgid "Mouse Preferences"
+msgstr "Параметры мыши"
+
+msgid "Move _Down"
+msgstr "Переместить в_низ"
+
+msgid "Move _Up"
+msgstr "Переместить _вверх"
+
+msgid "Move the selected keyboard layout down in the list"
+msgstr "Переместить выбранную клавиатурную раскладку вниз по списку"
+
+msgid "Move the selected keyboard layout up in the list"
+msgstr "Переместить выбранную клавиатурную раскладку вверх по списку"
+
+msgid "Move to Trash"
+msgstr "Переместить в корзину"
+
+msgid "Movement Key"
+msgstr "Клавиша перемещения"
+
+msgid "Mozilla"
+msgstr "Mozilla"
+
+msgid "Mozilla 1.6"
+msgstr "Mozilla 1.6"
+
+msgid "Mozilla Mail"
+msgstr "Mozilla Mail"
+
+msgid "Mozilla Thunderbird"
+msgstr "Mozilla Thunderbird"
+
+msgid "Muine Music Player"
+msgstr "Проигрыватель Muine"
+
+msgid "Multimedia"
+msgstr "Мультимедиа"
+
+msgid "Multimedia Player"
+msgstr "Проигрыватель"
+
+msgid "Mutt"
+msgstr "Mutt"
+
+msgid "NXterm"
+msgstr "NXterm"
+
+msgid "N_one"
+msgstr "Н_ет"
+
+msgid "Name:"
+msgstr "Шрифт:"
+
+msgid "Netscape Communicator"
+msgstr "Netscape Communicator"
+
+msgid "Network Proxy"
+msgstr "Сетевая прокси-служба"
+
+msgid "Network Proxy Preferences"
+msgstr "Параметры proxy-серверов"
+
+msgid "Network Servers"
+msgstr "Сетевые серверы"
+
+msgid "New Document"
+msgstr "Новый документ"
+
+msgid "New Location..."
+msgstr "Новое положение..."
+
+msgid "New Spreadsheet"
+msgstr "Новая таблица"
+
+msgid "New shortcut..."
+msgstr "Новая комбинация клавиш..."
+
+msgid "New themes have been successfully installed."
+msgstr "Новые темы были успешно установлены."
+
+msgid "New windows u_se active window's layout"
+msgstr "Новые окн_а используют раскладку активного окна"
+
+msgid "No Desktop Background"
+msgstr "Без фона рабочего стола"
+
+msgid "No Image"
+msgstr "Нет изображения"
+
+msgid "No matches found."
+msgstr "Совпадений не найдено."
+
+msgid "No theme file location specified to install"
+msgstr "Не указан адрес файла темы для установки"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Normal"
+msgstr "нормальный"
+
+msgid "Object that controls the property (normally a widget)"
+msgstr "Объект, управляющий свойством (обычно виджет)"
+
+msgid "Off"
+msgstr "Выключен"
+
+msgid "On"
+msgstr "Включён"
+
+msgid "Open a dialog to specify the color"
+msgstr "Открыть диалог выбора цвета"
+
+msgid "Open in File Manager"
+msgstr "Открыть в менеджере файлов"
+
+msgid "Open link in new _tab"
+msgstr "Открыть ссылку в новой _вкладке"
+
+msgid "Open link in new _window"
+msgstr "Открыть ссылку в новом _окне"
+
+msgid "Open link with web browser _default"
+msgstr "Открыть ссылку с параметрами _браузера"
+
+msgid "Open with \"%s\""
+msgstr "Открыть с помощью «%s»"
+
+msgid "Open with Default Application"
+msgstr "Открыть в приложении по умолчанию"
+
+msgid "Opera"
+msgstr "Opera"
+
+msgid "Orca"
+msgstr "Orca"
+
+msgid "Orca with Magnifier"
+msgstr "Orca с увеличителем экрана"
+
+msgid "Other"
+msgstr "Прочее"
+
+msgid "Other finger: "
+msgstr "Другой палец: "
+
+msgid "Overwrite _All"
+msgstr "Переписать _всё"
+
+msgid "P.O. _box:"
+msgstr "По_чтовый адрес:"
+
+msgid "P._O. box:"
+msgstr "По_чтовый ящик:"
+
+msgid "PKEXEC_UID must be set to an integer value"
+msgstr "Значение PKEXEC_UID должно выражаться целым числом"
+
+msgid "Panel icon"
+msgstr "Значок на панели"
+
+msgid "Parent Window"
+msgstr "Родительское окно"
+
+msgid "Parent window of the dialog"
+msgstr "Родительское окно диалога"
+
+msgid "Personal Info"
+msgstr "Персональная информация"
+
+msgid "Place finger on reader"
+msgstr "Разместите палец на устройстве"
+
+msgid "Please contact your system administrator for help."
+msgstr "Свяжитесь с системным администратором"
+
+msgid "Please make sure that the applet is properly installed"
+msgstr "Убедитесь, что этот апплет установлен правильно"
+
+msgid "Please select an image."
+msgstr "Выберите изображение."
+
+msgid ""
+"Please type your password again in the <b>Retype new password</b> field."
+msgstr "Пожалуйста, введите пароль ещё раз в поле <b>Ещё раз</b>."
+
+msgid "Please type your password in the <b>New password</b> field."
+msgstr "Пожалуйста, введите пароль в поле <b>Новый пароль</b>."
+
+msgid "Pointer"
+msgstr "Указатели"
+
+msgid "Pointer Speed"
+msgstr "Скорость указателя"
+
+msgid "Port:"
+msgstr "Порт:"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Preferred Applications"
+msgstr "Предпочтительные приложения"
+
+msgid "Preview fonts"
+msgstr "Предварительный просмотр шрифтов"
+
+msgid "Preview:"
+msgstr "Образец:"
+
+msgid "Print a diagram of the selected keyboard layout"
+msgstr "Показать графическое представление выбранной клавиатурной раскладки"
+
+msgid "Property editor data freeing callback"
+msgstr "Обработчик освобождения данных редактора свойств"
+
+msgid "Property editor object data"
+msgstr "Данные объекта редактора свойств"
+
+msgid "Proxy Configuration"
+msgstr "Параметры прокси"
+
+msgid "Purge all the recent items"
+msgstr "Вычистить все недавно использовавшиеся элементы"
+
+msgid "RXVT"
+msgstr "RXVT"
+
+msgid "R_esolution:"
+msgstr "_Разрешение:"
+
+msgid "R_otation:"
+msgstr "Ор_иентация:"
+
+msgid "Re_fresh rate:"
+msgstr "Частота _обновления:"
+
+msgid "Remove from Favorites"
+msgstr "Удалить из Избранного"
+
+msgid "Remove from Startup Programs"
+msgstr "Удалить из автозагрузки"
+
+msgid "Remove from System Items"
+msgstr "Удалить из системных элементов"
+
+msgid "Remove from recent menu"
+msgstr "Удалить из Недавних"
+
+msgid "Remove the selected keyboard layout from the list"
+msgstr "Удалить выбранную клавиатурную раскладку из списка"
+
+msgid "Rename..."
+msgstr "Переименовать..."
+
+msgid "Rendering"
+msgstr "Отрисовка шрифтов"
+
+msgid "Repeat Keys"
+msgstr "Автоповтор"
+
+msgid "Repeat keys speed"
+msgstr "Скорость повтора клавиш"
+
+msgid ""
+"Replace the current keyboard layout settings with the\n"
+"default settings"
+msgstr ""
+"Заменить текущие настройки клавиатурной раскладки\n"
+"настройками по умолчанию"
+
+msgid "Reset to De_faults"
+msgstr "Восстановить параметры по _умолчанию"
+
+msgid "Revert Font"
+msgstr "Вернуть шрифт"
+
+msgid "Rhythmbox Music Player"
+msgstr "Музыкальный проигрыватель Rhythmbox"
+
+msgid "Right"
+msgstr "повёрнут вправо"
+
+msgid "Right index finger"
+msgstr "Правый указательный палец"
+
+msgid "Right little finger"
+msgstr "Правый мизинец"
+
+msgid "Right middle finger"
+msgstr "Правый средний палец"
+
+msgid "Right ring finger"
+msgstr "Правый безымянный палец"
+
+msgid "Right thumb"
+msgstr "Правый большой палец"
+
+msgid "Roll up"
+msgstr "Скрутить"
+
+msgid "Run at st_art"
+msgstr "Запускать при вх_оде"
+
+msgid "Run in t_erminal"
+msgstr "Запустить в т_ерминале"
+
+msgid "SIZE"
+msgstr "РАЗМЕР"
+
+msgid "S_ocks host:"
+msgstr "Узел S_ocks:"
+
+msgid "S_peed:"
+msgstr "С_корость:"
+
+msgid "S_uper (or \"Windows logo\")"
+msgstr "S_uper (или «логотип Windows»)"
+
+msgid "Sa_me image in all monitors"
+msgstr "О_динаковое изображение на всех мониторах"
+
+msgid "Save Theme As..."
+msgstr "Сохранить тему как..."
+
+msgid "Save _As..."
+msgstr "Сохранить _как..."
+
+msgid "Save _background image"
+msgstr "Сохранить _фон рабочего стола"
+
+msgid "Scale"
+msgstr "Масштаб"
+
+msgid "Scrolling"
+msgstr "Прокрутка"
+
+msgid "SeaMonkey"
+msgstr "SeaMonkey"
+
+msgid "SeaMonkey Mail"
+msgstr "Почта SeaMonkey"
+
+msgid "Search"
+msgstr "Найти"
+
+msgid "Seco_ndary click:"
+msgstr "Втор_ичный щелчок:"
+
+msgid "Select Image"
+msgstr "Выбрать изображение"
+
+msgid "Select Theme"
+msgstr "Выбрать тему"
+
+msgid "Select a keyboard layout to be added to the list"
+msgstr "Выбор клавиатурной раскладки для добавления в список"
+
+msgid ""
+"Select a monitor to change its properties; drag it to rearrange its "
+"placement."
+msgstr ""
+"Выберите монитор для изменения его параметров; перетащите его для изменения "
+"его положения."
+
+msgid "Select finger"
+msgstr "Выберите палец"
+
+msgid "Select your default applications"
+msgstr "Выбор приложений-обработчиков по умолчанию"
+
+msgid "Select your photo"
+msgstr "Выберите фотографию"
+
+msgid "Send To..."
+msgstr "Отправить..."
+
+msgid "Set auto-repeat preferences and enforce typing breaks"
+msgstr ""
+"Настройка параметров автоматического повторения и принудительных перерывов в "
+"наборе текста"
+
+msgid "Set mouse button and motion preferences"
+msgstr "Настройка параметров кнопок и перемещения мыши"
+
+msgid ""
+"Set this key to the command used to create thumbnails for OpenType fonts."
+msgstr "Ключ задаёт команду для создания миниатюр шрифтов OpenType."
+
+msgid "Set this key to the command used to create thumbnails for PCF fonts."
+msgstr "Ключ задаёт команду для создания миниатюр шрифтов PCF."
+
+msgid ""
+"Set this key to the command used to create thumbnails for TrueType fonts."
+msgstr "Ключ задаёт команду для создания миниатюр шрифтов TrueType."
+
+msgid "Set this key to the command used to create thumbnails for Type1 fonts."
+msgstr "Ключ задаёт команду для создания миниатюр шрифтов Type1."
+
+msgid ""
+"Set this to your current location name. This is used to determine the "
+"appropriate network proxy configuration."
+msgstr ""
+"Установить название вашего текущего местоположения.  Оно используется для "
+"определения соответствующей настройки прокси-сервера."
+
+msgid "Set up a network proxy for most desktop applications"
+msgstr ""
+"Настройка сетевого прокси-сервера для большинства приложений рабочей среды"
+
+msgid "Set your keyboard preferences"
+msgstr "Диалог настройки клавиатуры"
+
+msgid "Set your mouse preferences"
+msgstr "Диалог настройки мыши"
+
+msgid "Set your network proxy preferences"
+msgstr "Диалог настройки прокси-серверов"
+
+msgid "Set your personal information"
+msgstr "Ваши персональные данные"
+
+msgid "Set your window properties"
+msgstr "Диалог настройки свойств окон"
+
+msgid "Sh_ow position of pointer when the Control key is pressed"
+msgstr "Показывать поз_ицию указателя при нажатии клавиши Control"
+
+msgid "Short"
+msgstr "Короткая"
+
+msgid "Shortcut"
+msgstr "Комбинация клавиш"
+
+msgid "Show _visual feedback for the alert sound"
+msgstr "Показывать на _экране звуки уведомлений"
+
+msgid "Show click type _window"
+msgstr "Показывать т_ип щелчка окна"
+
+msgid "Show more _details"
+msgstr "По_дробнее"
+
+msgid "Simulated Secondary Click"
+msgstr "Симулирование вторичного щелчка"
+
+msgid "Size:"
+msgstr "Размер:"
+
+msgid "Slide Show"
+msgstr "Cлайд-шоу"
+
+msgid "Slow"
+msgstr "Медленно"
+
+msgid "Slow Keys"
+msgstr "Медленные клавиши"
+
+msgid "Small"
+msgstr "Уменьшенный"
+
+msgid "Smoothing"
+msgstr "Сглаживание"
+
+msgid "Solid color"
+msgstr "Сплошная заливка"
+
+msgid "Sound"
+msgstr "Звук"
+
+msgid "Span"
+msgstr "Заполнение"
+
+msgid "Specify the filename of a theme to install"
+msgstr "Укажите имя файла темы для установки"
+
+msgid "Specify the name of the page to show (general|accessibility)"
+msgstr "Название открываемой страницы (general|accessibility)"
+
+msgid "Specify the name of the page to show (internet|multimedia|system|a11y)"
+msgstr "Задаёт название страницы для показа (internet|multimedia|system|a11y)"
+
+msgid "Specify the name of the page to show (theme|background|fonts|interface)"
+msgstr ""
+"Название открываемой страницы (тема|фон рабочего стола|шрифты|интерфейс)"
+
+msgid "Standard XTerminal"
+msgstr "Стандартный X-терминал"
+
+msgid "Start %s"
+msgstr "Запуск %s"
+
+msgid "Start the page with the accessibility settings showing"
+msgstr "Запустить страницу с отображением настроек вспомогательных технологий"
+
+msgid "Start the page with the typing break settings showing"
+msgstr "Начинать страницу с отображения установок перерыва в работе"
+
+msgid "Start the preferred visual assistive technology"
+msgstr "Запуск предпочтительной визуальной вспомогательной технологии"
+
+msgid "State/Pro_vince:"
+msgstr "Область:"
+
+msgid "Sticky Keys"
+msgstr "Залипающие клавиши"
+
+msgid "Stretch"
+msgstr "Растянуть"
+
+msgid "Style:"
+msgstr "Стиль:"
+
+msgid "Sub_pixel (LCDs)"
+msgstr "С_убпиксельное (ЖК-мониторы)"
+
+msgid "Sub_pixel smoothing (LCDs)"
+msgstr "С_убпиксельное сглаживание (для ЖК-мониторов)"
+
+msgid "Subpixel Order"
+msgstr "Порядок субпикселов"
+
+msgid "Swipe finger on reader"
+msgstr "Проведите пальцем по устройству"
+
+msgid "Sylpheed"
+msgstr "Sylpheed"
+
+msgid "Sylpheed-Claws"
+msgstr "Sylpheed-Claws"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System error: %s."
+msgstr "Системная ошибка: %s."
+
+msgid "TEXT"
+msgstr "ТЕКСТ"
+
+msgid "Take a break now (next in %dm)"
+msgstr "Сделать перерыв (следующий в %dm)"
+
+msgid "Take a break now (next in less than one minute)"
+msgstr "Сделать перерыв (до следующего осталось меньше минуты)"
+
+msgid "Take a break!"
+msgstr "Сделайте перерыв!"
+
+msgid "Task names and associated .desktop files"
+msgstr "Имена заданий и связанные с ними файлы .desktop"
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Terminal Emulator"
+msgstr "Эмулятор терминала"
+
+msgid "Terminator"
+msgstr "Terminator"
+
+msgid ""
+"Testing the new settings. If you don't respond in %d second the previous "
+"settings will be restored."
+msgid_plural ""
+"Testing the new settings. If you don't respond in %d seconds the previous "
+"settings will be restored."
+msgstr[0] ""
+"Тестирование новых параметров настройки. При отсутствии ввода пользователя в "
+"течение %d секунды будут восстановлены предыдущие параметры настройки."
+msgstr[1] ""
+"Тестирование новых параметров настройки. При отсутствии ввода пользователя в "
+"течение %d секунд будут восстановлены предыдущие параметры настройки."
+msgstr[2] ""
+"Тестирование новых параметров настройки. При отсутствии ввода пользователя в "
+"течение %d секунд будут восстановлены предыдущие параметры настройки."
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text Editor"
+msgstr "Текстовый редактор"
+
+msgid "Text below items"
+msgstr "Текст под значками"
+
+msgid "Text beside items"
+msgstr "Текст рядом со значками"
+
+msgid "Text only"
+msgstr "Текст"
+
+msgid "Text to thumbnail (default: Aa)"
+msgstr "Текст для миниатюры (по умолчанию: Aa)"
+
+msgid "That password was incorrect."
+msgstr "Пароль неверен."
+
+msgid "The %s utility is not installed."
+msgstr "Приложение %s не установлено."
+
+msgid "The GNOME configuration tool"
+msgstr "Утилита настройки среды GNOME"
+
+msgid "The buttons shown in the alert dialog"
+msgstr "Кнопки для диалога предупреждения"
+
+msgid "The current controls theme does not support color schemes."
+msgstr "Текущая тема элементов управления не поддерживает цветовые схемы."
+
+msgid "The current theme suggests a background and a font."
+msgstr "Эта тема подразумевает фон рабочего стола и шрифт."
+
+msgid ""
+"The current theme suggests a background and a font. Also, the last applied "
+"font suggestion can be reverted."
+msgstr ""
+"Параметры текущей темы предлагают установить фон рабочего стола и шрифты. "
+"Заметьте, что последние указанные параметры шрифтов могут быть отменены."
+
+msgid "The current theme suggests a background."
+msgstr "Эта тема подразумевает фон."
+
+msgid ""
+"The current theme suggests a background. Also, the last applied font "
+"suggestion can be reverted."
+msgstr ""
+"Параметры текущей темы предлагают установить фон рабочего стола. Заметьте, "
+"что последние указанные параметры шрифтов могут быть отменены."
+
+msgid "The current theme suggests a font."
+msgstr "Эта тема подразумевает шрифт."
+
+msgid ""
+"The current theme suggests a font. Also, the last applied font suggestion "
+"can be reverted."
+msgstr ""
+"Параметры текущей темы предлагают установить шрифт. Заметьте, что последние "
+"указанные параметры шрифтов могут быть отменены."
+
+msgid "The device is already in use."
+msgstr "Устройство уже используется."
+
+msgid ""
+"The font selected is %d point large, and may make it difficult to "
+"effectively use the computer.  It is recommended that you select a size "
+"smaller than %d."
+msgid_plural ""
+"The font selected is %d points large, and may make it difficult to "
+"effectively use the computer. It is recommended that you select a size "
+"smaller than %d."
+msgstr[0] ""
+"Выбранный шрифт имеет размер %d пункт, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта менее %d."
+msgstr[1] ""
+"Выбранный шрифт имеет размер %d пункта, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта менее %d."
+msgstr[2] ""
+"Выбранный шрифт имеет размер %d пунктов, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта менее %d."
+
+msgid ""
+"The font selected is %d point large, and may make it difficult to "
+"effectively use the computer.  It is recommended that you select a smaller "
+"sized font."
+msgid_plural ""
+"The font selected is %d points large, and may make it difficult to "
+"effectively use the computer. It is recommended that you select a smaller "
+"sized font."
+msgstr[0] ""
+"Выбранный шрифт имеет размер %d пункт, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта меньшего размера."
+msgstr[1] ""
+"Выбранный шрифт имеет размер %d пункта, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта меньшего размера."
+msgstr[2] ""
+"Выбранный шрифт имеет размер %d пунктов, это может затруднить использование "
+"компьютера. Рекомендуется выбрать выбрать размер шрифта меньшего размера."
+
+msgid "The last applied font suggestion can be reverted."
+msgstr "Последние указанные параметры шрифтов могут быть отменены."
+
+msgid "The location already exists."
+msgstr "Местоположение уже существует."
+
+msgid "The monitor configuration has been saved"
+msgstr "Конфигурация монитора сохранена"
+
+msgid "The new password has already been used recently."
+msgstr "Новый пароль уже использовался ранее."
+
+msgid "The new password must contain numeric or special character(s)."
+msgstr "Новый пароль содержать цифровые или специальные символы."
+
+msgid "The old and new passwords are the same."
+msgstr "Новый пароль совпадает со старым."
+
+msgid "The old and new passwords are too similar."
+msgstr "Старый и новый пароли слишком похожи."
+
+msgid "The password is too short."
+msgstr "Пароль слишком короток."
+
+msgid "The password is too simple."
+msgstr "Пароль слишком прост."
+
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time."
+msgstr ""
+"Клавиша «%s» не может быть задействована, потому что станет невозможным её "
+"использование для обычного ввода.\n"
+"Попробуйте с такими клавишами, как Control, Alt или Shift одновременно."
+
+msgid ""
+"The shortcut \"%s\" is already used for\n"
+"\"%s\""
+msgstr ""
+"Комбинация клавиш «%s» уже используется для\n"
+"«%s»"
+
+msgid "The source filename must be absolute"
+msgstr "Имя исходного файла должно быть абсолютным"
+
+msgid ""
+"The task name to be displayed in the control-center followed by a \";\" "
+"separator then the filename of an associated .desktop file to launch for "
+"that task."
+msgstr ""
+"Имя задачи, отображаемое в центре управления после разделителя \";\" — имя "
+"связанного файла .desktop для запуска этой задачи."
+
+msgid "The theme \"%s\" has been installed."
+msgstr "Тема «%s» была установлена."
+
+msgid "The theme already exists. Would you like to replace it?"
+msgstr "Тема уже существует. Заменить её?"
+
+msgid "The two passwords are not equal."
+msgstr "Два пароля не совпадают."
+
+msgid "The type of accelerator."
+msgstr "Тип ускорителя."
+
+msgid "The type of alert"
+msgstr "Тип предупреждения"
+
+msgid ""
+"The typing monitor uses the notification area to display information. You "
+"don't seem to have a notification area on your panel. You can add it by "
+"right-clicking on your panel and choosing 'Add to panel', selecting "
+"'Notification area' and clicking 'Add'."
+msgstr ""
+"Монитор печати использует область уведомления для отображения информации."
+"Похоже, что на вашей панели нет области уведомления. Вы можете добавить ее, "
+"щелкнув правой кнопкой на панели и выбрав \"Добавить на панель -> Утилиты -> "
+"Область уведомления\"."
+
+msgid "Theme"
+msgstr "Тема"
+
+msgid "Theme Installer"
+msgstr "Установщик тем"
+
+msgid "Theme Packages"
+msgstr "Пакеты тем"
+
+msgid "Theme cannot be deleted"
+msgstr "Не удалось удалить тему"
+
+msgid "Theme name must be present"
+msgstr "Имя темы должно присутствовать"
+
+msgid "There was a problem while extracting the theme."
+msgstr "Возникла проблема при распаковке темы."
+
+msgid "There was an error displaying help: %s"
+msgstr "Произошла ошибка при отображении справки: %s"
+
+msgid "There was an error installing the selected file"
+msgstr "Произошла ошибка при установке выбранного файла"
+
+msgid ""
+"There was an error while trying to get the addressbook information\n"
+"Evolution Data Server can't handle the protocol"
+msgstr ""
+"Не удалось получить информацию из адресной книги.\n"
+"Сервер данных Evolution не поддерживает протокол"
+
+msgid "This configuration will be used the next time someone logs in."
+msgstr "Эта конфигурация будет использована при следующем входе в систему."
+
+msgid "This program can only be used by the root user"
+msgstr "Эта программа может использоваться только суперпользователем"
+
+msgid "This program must only be run through pkexec(1)"
+msgstr "Эта программа должна запускаться только с помощью pkexec(1)"
+
+msgid ""
+"This theme will not look as intended because the required GTK+ theme '%s' is "
+"not installed."
+msgstr ""
+"Эта тема не будет выглядеть так, как задумано, потому что требуемая тема GTK"
+"+ «%s» не установлена."
+
+msgid ""
+"This theme will not look as intended because the required GTK+ theme engine "
+"'%s' is not installed."
+msgstr ""
+"Эта тема не будет выглядеть так, как задумано, потому что требуемый модуль "
+"GTK+ «%s» не установлен."
+
+msgid ""
+"This theme will not look as intended because the required icon theme '%s' is "
+"not installed."
+msgstr ""
+"Эта тема не будет выглядеть так, как задумано, потому что требуемая тема "
+"значков «%s» не установлена."
+
+msgid ""
+"This theme will not look as intended because the required window manager "
+"theme '%s' is not installed."
+msgstr ""
+"Эта тема не будет выглядеть так, как задумано, потому что требуемая тема "
+"менеджера окон «%s» не установлена."
+
+msgid "Thr_eshold:"
+msgstr "_Порог:"
+
+msgid "Thumbnail command for OpenType fonts"
+msgstr "Команда создания миниатюр для шрифтов OpenType"
+
+msgid "Thumbnail command for PCF fonts"
+msgstr "Команда создания миниатюр для шрифтов PCF"
+
+msgid "Thumbnail command for TrueType fonts"
+msgstr "Команда создания миниатюр для шрифтов TrueType"
+
+msgid "Thumbnail command for Type1 fonts"
+msgstr "Команда создания миниатюр для шрифтов Type1"
+
+msgid "Thunderbird"
+msgstr "Thunderbird"
+
+msgid "Tile"
+msgstr "Мозаика"
+
+msgid "Titlebar Action"
+msgstr "Щелчок по заголовку"
+
+msgid "To URI"
+msgstr "В URI"
+
+msgid ""
+"To change your password, enter your current password in the field below and "
+"click <b>Authenticate</b>.\n"
+"After you have authenticated, enter your new password, retype it for "
+"verification and click <b>Change password</b>."
+msgstr ""
+"Для изменения пароля, введите текущий пароль в поле ввода ниже и нажмите "
+"<b>Авторизоваться</b>.\n"
+"После аутентификации, введите новый пароль, наберите его ещё раз и нажмите "
+"<b>Изменить пароль</b>."
+
+msgid ""
+"To edit a shortcut key, click on the corresponding row and type a new key "
+"combination, or press backspace to clear."
+msgstr ""
+"Для редактирования комбинации щёлкните по соответствующему ряду и введите "
+"новый ускоритель или нажмите клавишу Backspace для очистки."
+
+msgid ""
+"To enable fingerprint login, you need to save one of your fingerprints, "
+"using the '%s' device."
+msgstr ""
+"Чтобы включить вход по отпечатку пальца, необходимо снять один или несколько "
+"образцов, используя устройство «%s»"
+
+msgid "To move a window, press-and-hold this key then grab the window:"
+msgstr ""
+"Для перемещения окна нажать и держать эту клавишу, затем захватить окно:"
+
+msgid ""
+"To test your double-click settings, try to double-click on the light bulb."
+msgstr ""
+"Чтобы протестировать двойной щелчок, щёлкните дважды по светящемуся шарику."
+
+msgid "Today %l:%M %p"
+msgstr "Сегодня %l:%M %p"
+
+msgid "Too many custom shortcuts"
+msgstr "Число пользовательских комбинаций слишком велико"
+
+msgid "Total URIs"
+msgstr "Всего URI"
+
+msgid "Total number of URIs"
+msgstr "Общее число URI"
+
+msgid "Totem Movie Player"
+msgstr "Проигрыватель Totem"
+
+msgid "Touchpad"
+msgstr "Манипулятор тачпэд"
+
+msgid "Two-_finger scrolling"
+msgstr "Двух-_пальцевый скроллинг"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "Typing Break"
+msgstr "Перерыв в работе"
+
+msgid "Typing Monitor"
+msgstr "Монитор печати"
+
+msgid "UI Control"
+msgstr "Управление интерфейсом"
+
+msgid "URI currently transferring from"
+msgstr "URI, откуда происходит перемещение"
+
+msgid "URI currently transferring to"
+msgstr "URI, куда происходит перемещение"
+
+msgid ""
+"URL for where to get more desktop backgrounds. If set to an empty string the "
+"link will not appear."
+msgstr ""
+"URL для получения дополнительных обоев рабочего стола. Если установить в "
+"пустую строку - ссылка не будет отображаться."
+
+msgid ""
+"URL for where to get more desktop themes. If set to an empty string the link "
+"will not appear."
+msgstr ""
+"URL для получения дополнительных тем рабочего стола. Если установить в "
+"пустую строку - ссылка не будет отображаться."
+
+msgid "U_sername:"
+msgstr "_Имя пользователя:"
+
+msgid ""
+"Unable to bring up the typing break properties dialog with the following "
+"error: %s"
+msgstr "Не удалось отобразить диалог настройки перерыва печати. Ошибка: %s"
+
+msgid "Unable to launch %s: %s"
+msgstr "Не удалось запустить %s: %s"
+
+msgid "Unable to launch backend"
+msgstr "Не удалось запустить внутреннюю программу"
+
+msgid "Unable to load stock icon '%s'\n"
+msgstr "Не удалось загрузить встроенный значок «%s»\n"
+
+msgid "Unable to open address book"
+msgstr "Не удалось открыть адресную книгу"
+
+msgid ""
+"Unable to start the settings manager 'gnome-settings-daemon'.\n"
+"Without the GNOME settings manager running, some preferences may not take "
+"effect. This could indicate a problem with DBus, or a non-GNOME (e.g. KDE) "
+"settings manager may already be active and conflicting with the GNOME "
+"settings manager."
+msgstr ""
+"Не удалось запустить менеджер установок «gnome-settings-daemon».\n"
+"Без менеджера параметров среды GNOME некоторые параметры могут не возыметь "
+"эффекта. Либо это проблемы с системой Bonobo, либо иной менеджер параметров "
+"(например, среды KDE) может быть уже запущен и конфликтовать с менеджером "
+"параметров среды GNOME."
+
+msgid "Uninstall"
+msgstr "Удалить"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Upgrade"
+msgstr "Обновить"
+
+msgid "Upside Down"
+msgstr "сверху вниз"
+
+msgid "Upside-down"
+msgstr "сверху вниз"
+
+msgid ""
+"Usage: %s SOURCE_FILE DEST_NAME\n"
+"\n"
+"This program installs a RANDR profile for multi-monitor setups into\n"
+"a systemwide location.  The resulting profile will get used when\n"
+"the RANDR plug-in gets run in gnome-settings-daemon.\n"
+"\n"
+"SOURCE_FILE - a full pathname, typically /home/username/.config/monitors."
+"xml\n"
+"\n"
+"DEST_NAME - relative name for the installed file.  This will get put in\n"
+"            the systemwide directory for RANDR configurations,\n"
+"            so the result will typically be %s/DEST_NAME\n"
+msgstr ""
+"Использование: %s ИСХОДНЫЙ_ФАЙЛ ИМЯ_НАЗНАЧЕНИЯ\n"
+"\n"
+"Эта программа устанавливает профиль RANDR для многомониторных настроек в\n"
+"системный каталог. Получившийся профиль будет использован при запуске\n"
+"модулей RANDR из gnome-settings-daemon.\n"
+"\n"
+"ИСХОДНЫЙ_ФАЙЛ — полный путь к файлу, обычно /home/username/.config/monitors."
+"xml\n"
+"\n"
+"ИМЯ_НАЗНАЧЕНИЯ — относительное имя для устанавливаемого файла. Он будет "
+"помещён\n"
+"            в системный каталог настроек RANDR, и в результате полный путь,\n"
+"            обычно, будет %s/ИМЯ_НАЗНАЧЕНИЯ\n"
+
+msgid "Use _previous settings"
+msgstr "Использовать _предыдущие параметры настройки"
+
+msgid "Use previous font"
+msgstr "Использовать предыдущий шрифт"
+
+msgid "Use selected font"
+msgstr "Использовать выбранный шрифт"
+
+msgid "User name:"
+msgstr "Пользователь:"
+
+msgid "VB_GR"
+msgstr "VB_GR"
+
+msgid "Vendors"
+msgstr "Производители"
+
+msgid "Version:"
+msgstr "Версия:"
+
+msgid "Vertical gradient"
+msgstr "Вертикальный градиент"
+
+msgid "Video Player"
+msgstr "Видеопроигрыватель"
+
+msgid "View and edit keyboard layout options"
+msgstr "Просмотр и изменение параметров клавиатурной раскладки"
+
+msgid "Visual"
+msgstr "Экран"
+
+msgid "Visual Assistance"
+msgstr "Визуальная поддержка"
+
+msgid "Visual Effects"
+msgstr "Визуальные эффекты"
+
+msgid "Visual cues for sounds"
+msgstr "Эффекты для звуков"
+
+msgid "Web"
+msgstr "Веб"
+
+msgid "Web Browser"
+msgstr "Веб-браузер"
+
+msgid "Web _log:"
+msgstr "Сетевой _дневник:"
+
+msgid "Whether to thumbnail OpenType fonts"
+msgstr "Создавать ли миниатюры для шрифтов OpenType"
+
+msgid "Whether to thumbnail PCF fonts"
+msgstr "Создавать ли миниатюры для шрифтов PCF"
+
+msgid "Whether to thumbnail TrueType fonts"
+msgstr "Создавать ли миниатюры для шрифтов TrueType"
+
+msgid "Whether to thumbnail Type1 fonts"
+msgstr "Создавать ли миниатюры для шрифтов Type1"
+
+msgid "White Pointer"
+msgstr "Белый указатель"
+
+msgid "White Pointer - Current"
+msgstr "Белый указатель - Текущий"
+
+msgid "Width of border around the label and image in the alert dialog"
+msgstr "Ширина обрамления вокруг рисунка и метки в диалоге предупреждения"
+
+msgid "Window Border"
+msgstr "Рамка окна"
+
+msgid "Window Preferences"
+msgstr "Параметры окна"
+
+msgid "Window Selection"
+msgstr "Выбор окна"
+
+msgid "Window manager \"%s\" has not registered a configuration tool\n"
+msgstr "Оконный менеджер «%s» не зарегистрировал средство конфигурации\n"
+
+msgid "Windows"
+msgstr "Окна"
+
+msgid "Wor_k:"
+msgstr "_Работа:"
+
+msgid "Work"
+msgstr "Работа"
+
+msgid "Work _fax:"
+msgstr "Рабочий _факс:"
+
+msgid "Would you like to apply it now, or keep your current theme?"
+msgstr "Применить её сейчас, или сохранить вашу текущую тему?"
+
+msgid "Would you like to delete this theme?"
+msgstr "Удалить эту тему?"
+
+msgid "Written by Richard Hult <richard@imendio.com>"
+msgstr "Автор: Ричард Халт (Richard Hult) <richard@imendio.com>"
+
+msgid "Yesterday %l:%M %p"
+msgstr "Вчера %l:%M %p"
+
+msgid ""
+"You are not allowed to access the device. Contact your system administrator."
+msgstr ""
+"Доступ к устройству чтения запрещён. Свяжитесь с системным администратором."
+
+msgid "You can also use the Dwell Click panel applet to choose the click type."
+msgstr ""
+"Также для выбора типа нажатия можно использовать панель апплета щелчка "
+"выдержкой."
+
+msgid "Your filter \"%s\" does not match any items."
+msgstr "Ваш фильтр «%s» не соответствует не одному объекту."
+
+msgid ""
+"Your fingerprint was successfully saved. You should now be able to log in "
+"using your fingerprint reader."
+msgstr ""
+"Отпечаток был успешно сохранён. Теперь возможно войти в систему с "
+"использованием устройства сканирования отпечатков."
+
+msgid ""
+"Your password has been changed since you initially authenticated! Please re-"
+"authenticate."
+msgstr ""
+"Ваш пароль изменился со времени последней авторизации! Пожалуйста, "
+"попробуйте ещё раз"
+
+msgid "Your password has been changed."
+msgstr "Ваш пароль изменён."
+
+msgid "ZIP/_Postal code:"
+msgstr "_Почтовый индекс:"
+
+msgid "Zoom"
+msgstr "Приближение"
+
+msgid ""
+"[Change Theme;gtk-theme-selector.desktop,Set Preferred Applications;default-"
+"applications.desktop,Add Printer;gnome-cups-manager.desktop]"
+msgstr ""
+"[Изменить тему;gtk-theme-selector.desktop,Установить предпочтительные "
+"приложения;default-applications.desktop,Добавить принтер;gnome-cups-manager."
+"desktop]"
+
+msgid "[WALLPAPER...]"
+msgstr "[ФОН РАБОЧЕГО СТОЛА...]"
+
+msgid "_Acceleration:"
+msgstr "_Ускорение:"
+
+msgid "_Accessibility features can be toggled with keyboard shortcuts"
+msgstr ""
+"Разрешать включение и выключ_ение вспомогательных технологий с клавиатуры"
+
+msgid "_Add..."
+msgstr "_Добавить..."
+
+msgid "_Address:"
+msgstr "_Адрес:"
+
+msgid "_Alt"
+msgstr "_Alt"
+
+msgid "_Application font:"
+msgstr "Шрифт _приложения:"
+
+msgid "_Authenticate"
+msgstr "_Авторизоваться"
+
+msgid "_BGR"
+msgstr "_BGR"
+
+msgid "_Break interval lasts:"
+msgstr "Продолжительность _перерыва:"
+
+msgid "_Country:"
+msgstr "_Страна:"
+
+msgid "_Delay:"
+msgstr "Зад_ержка:"
+
+msgid "_Delete Fingerprints"
+msgstr "_Удалить отпечатки"
+
+msgid "_Delete Location"
+msgstr "_Удалить положение"
+
+msgid "_Department:"
+msgstr "_Отделение:"
+
+msgid "_Description:"
+msgstr "_Описание:"
+
+msgid "_Details"
+msgstr "По_дробнее"
+
+msgid "_Detect monitors"
+msgstr "_Обнаруживать мониторы"
+
+msgid "_Disabled"
+msgstr "Выкл."
+
+msgid "_Document font:"
+msgstr "Шрифт _документа:"
+
+msgid "_Double-click titlebar to perform this action:"
+msgstr "Д_войной щелчок по заголовку выполняет следующее действие:"
+
+msgid "_Edge scrolling"
+msgstr "_Краевая прокрутка"
+
+msgid "_Enable assistive technologies"
+msgstr "_Включить вспомогательные технологии"
+
+msgid "_FTP proxy:"
+msgstr "Прокси для _FTP:"
+
+msgid "_Fixed width font:"
+msgstr "_Моноширинный шрифт:"
+
+msgid "_Full"
+msgstr "П_олное"
+
+msgid "_GroupWise:"
+msgstr "_GroupWise:"
+
+msgid "_Home page:"
+msgstr "Дома_шняя страница:"
+
+msgid "_Home:"
+msgstr "_Дом:"
+
+msgid "_Ignore fast duplicate keypresses"
+msgstr "_Игнорировать быстрые повторные нажатия"
+
+msgid "_Initiate click when stopping pointer movement"
+msgstr "Включ_ить щелчок после остановки движения указателя"
+
+msgid "_Input boxes:"
+msgstr "_Поля ввода:"
+
+msgid "_Install..."
+msgstr "_Установить..."
+
+msgid "_Interval before raising:"
+msgstr "За_держка перед поднятием:"
+
+msgid "_Keep settings"
+msgstr "_Сохранить параметры настройки"
+
+msgid "_Keyboard Accessibility"
+msgstr "Вспомогательные возможности _клавиатуры"
+
+msgid "_Language:"
+msgstr "_Язык:"
+
+msgid "_Left-handed"
+msgstr "под _левую руку"
+
+msgid "_Location name:"
+msgstr "_Положение:"
+
+msgid "_Lock screen to enforce typing break"
+msgstr "_Блокировать экран для принудительного перерыва в работе"
+
+msgid "_Manager:"
+msgstr "_Управляющий:"
+
+msgid "_Medium"
+msgstr "Сре_днее"
+
+msgid "_Meta"
+msgstr "_Мета"
+
+msgid "_Mobile:"
+msgstr "_Мобильный:"
+
+msgid "_Models:"
+msgstr "_Модели:"
+
+msgid "_Monochrome"
+msgstr "_Монохромный"
+
+msgid "_Motion threshold:"
+msgstr "Двигательный _порог:"
+
+msgid "_Mouse Accessibility"
+msgstr "Вспомогательные технологии _мыши"
+
+msgid "_Name:"
+msgstr "_Название:"
+
+msgid "_New password:"
+msgstr "_Новый пароль:"
+
+msgid "_None"
+msgstr "_Нет"
+
+msgid "_Only accept long keypresses"
+msgstr "Принимать только д_олгие нажатия"
+
+msgid "_Options..."
+msgstr "_Параметры..."
+
+msgid "_Overwrite"
+msgstr "_Переписать"
+
+msgid "_Password:"
+msgstr "_Пароль:"
+
+msgid "_Pointer can be controlled using the keypad"
+msgstr "Разрешать управлять указ_ателем с клавиатуры"
+
+msgid "_Postpone Break"
+msgstr "_Отложить перерыв"
+
+msgid "_Preferred Applications"
+msgstr "_Предпочтительные приложения"
+
+msgid "_Profession:"
+msgstr "Про_фессия:"
+
+msgid "_RGB"
+msgstr "_RGB"
+
+msgid "_Raise selected windows after an interval"
+msgstr "_Поднимать выбранное окно после определённого интервала"
+
+msgid "_Reassign"
+msgstr "_Переназначить"
+
+msgid "_Reset to Defaults"
+msgstr "Восстановить параметры по _умолчанию"
+
+msgid "_Resolution:"
+msgstr "_Разрешение:"
+
+msgid "_Retype new password:"
+msgstr "_Ещё раз:"
+
+msgid "_Right-handed"
+msgstr "под пр_авую руку"
+
+msgid "_Run at start"
+msgstr "Запускать при вх_оде"
+
+msgid "_Secure HTTP proxy:"
+msgstr "Прокси для бе_зопасного HTTP:"
+
+msgid "_Select"
+msgstr "_Выбрать"
+
+msgid "_Select windows when the mouse moves over them"
+msgstr "_Выбирать окно, когда указатель мыши находится над ним"
+
+msgid "_Selected items:"
+msgstr "_Выделенные элементы:"
+
+msgid "_Sensitivity:"
+msgstr "_Чувствительность:"
+
+msgid "_Separate layout for each window"
+msgstr "О_тдельная раскладка для каждого окна"
+
+msgid "_Show monitors in panel"
+msgstr "Показывать мониторы на _панели"
+
+msgid "_Show..."
+msgstr "Показать..."
+
+msgid "_Simulate simultaneous keypresses"
+msgstr "Симулировать одноврем_енные нажатия"
+
+msgid "_Single click:"
+msgstr "Прост_ой щелчок:"
+
+msgid "_Size:"
+msgstr "Ра_змер:"
+
+msgid "_Skip"
+msgstr "_Пропустить"
+
+msgid "_Slight"
+msgstr "Сл_абое"
+
+msgid "_Speed:"
+msgstr "С_корость:"
+
+msgid "_State/Province:"
+msgstr "_Область/округ:"
+
+msgid "_Style:"
+msgstr "_Стиль:"
+
+msgid "_Take a Break"
+msgstr "_Сделать перерыв"
+
+msgid "_Timeout:"
+msgstr "З_адержка:"
+
+msgid "_Title:"
+msgstr "_Заголовок:"
+
+msgid "_Tooltips:"
+msgstr "Всплывающ_ие подсказки:"
+
+msgid "_Trigger secondary click by holding down the primary button"
+msgstr "Запускать втор_ичный щелчок по удержанию главной кнопки"
+
+msgid "_Type to test settings:"
+msgstr "П_оле для проверки параметров:"
+
+msgid "_Use the same proxy for all protocols"
+msgstr "_Использовать общий прокси для всех протоколов"
+
+msgid "_VRGB"
+msgstr "_VRGB"
+
+msgid "_Variants:"
+msgstr "_Варианты:"
+
+msgid "_Vendors:"
+msgstr "_Производители:"
+
+msgid "_Window title font:"
+msgstr "Шрифт за_головка окна:"
+
+msgid "_Windows:"
+msgstr "_Окна:"
+
+msgid "_Work interval lasts:"
+msgstr "Продолжительность _работы:"
+
+msgid "_Work:"
+msgstr "_Работа:"
+
+msgid "_XMPP:"
+msgstr "_XMPP:"
+
+msgid "_Yahoo:"
+msgstr "_Yahoo:"
+
+msgid "_ZIP/Postal code:"
+msgstr "По_чтовый индекс:"
+
+msgid "aterm"
+msgstr "aterm"
+
+msgid "dots per inch"
+msgstr "точек на дюйм"
+
+msgid "filename"
+msgstr "filename"
+
+msgid "gesture|Disabled"
+msgstr "Выключено"
+
+msgid "gesture|Move down"
+msgstr "Мышь вниз"
+
+msgid "gesture|Move left"
+msgstr "Мышь влево"
+
+msgid "gesture|Move right"
+msgstr "Мышь вправо"
+
+msgid "gesture|Move up"
+msgstr "Мышь вверх"
+
+msgid ""
+"if true, the control-center will close when a \"Common Task\" is activated."
+msgstr ""
+"Если этот параметр установлен, центр управления будет закрыт при активации "
+"\"Общей задачи\"."
+
+msgid "key not found [%s]\n"
+msgstr "ключ не найден [%s]\n"
+
+msgid "minutes"
+msgstr "минут"
+
+msgid "multiple sizes"
+msgstr "множество размеров"
+
+msgid "page"
+msgstr "страница"
+
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] "пиксел"
+msgstr[1] "пиксела"
+msgstr[2] "пикселов"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "translator-credits"
+msgstr ""
+"Леонид Кантер <leon@asplinux.ru>\n"
+"Дмитрий Яценко <d.yacenko@gmail.com>"
+
+msgid "usage: %s fontfile\n"
+msgstr "использование: %s файл_шрифта\n"

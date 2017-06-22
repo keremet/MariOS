@@ -1,0 +1,2060 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tar 1.28.90\n"
+"Report-Msgid-Bugs-To: bug-tar@gnu.org\n"
+"POT-Creation-Date: 2016-05-16 09:55+0300\n"
+"PO-Revision-Date: 2016-03-15 19:04+0300\n"
+"Last-Translator: Yuri Kozlov <yuray@komyakino.ru>\n"
+"Language-Team: Russian <gnu@d07.ru>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Lokalize 1.5\n"
+
+msgid ""
+"\n"
+"*This* tar defaults to:\n"
+msgstr ""
+"\n"
+"Значения по умолчанию *этого* tar:\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl."
+"html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"Лицензия GPLv3+: GNU GPL версии 3 или новее <http://gnu.org/licenses/gpl."
+"html>\n"
+"Это свободное ПО: вы можете продавать и распространять его.\n"
+"Нет НИКАКИХ ГАРАНТИЙ до степени, разрешённой законом.\n"
+"\n"
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+"\n"
+"Отчёты об ошибках отправляйте по адресу: %s\n"
+
+msgid "  or: "
+msgstr " или: "
+
+msgid " !             Spawn a subshell\n"
+msgstr " !             Порождение подпроцесса командного процессора\n"
+
+msgid " ?             Print this list\n"
+msgstr " ?             Вывод этого списка\n"
+
+msgid " [OPTION...]"
+msgstr " [ПАРАМЕТР...]"
+
+msgid " link to %s\n"
+msgstr " ссылка на %s\n"
+
+msgid ""
+" n name        Give a new file name for the next (and subsequent) volume(s)\n"
+" q             Abort tar\n"
+" y or newline  Continue operation\n"
+msgstr ""
+" n [имя]       Указание нового имени файла для следующего (и последующих) "
+"томов\n"
+" q             Выход из tar\n"
+" y или [нов.строка] Продолжение операции\n"
+
+msgid " unknown file type %s\n"
+msgstr " неизвестный тип файла %s\n"
+
+msgid "%.*s: ARGP_HELP_FMT parameter must be positive"
+msgstr "%.*s: Параметра ARGP_HELP_FMT должен быть положительным"
+
+msgid "%.*s: ARGP_HELP_FMT parameter requires a value"
+msgstr "%.*s: Для параметра ARGP_HELP_FMT требуется значение"
+
+msgid "%.*s: Unknown ARGP_HELP_FMT parameter"
+msgstr "%.*s: Неизвестный параметр ARGP_HELP_FMT"
+
+msgid "%s command failed"
+msgstr "Сбой команды %s"
+
+msgid "%s home page: <%s>\n"
+msgstr "Домашняя страница %s: %s\n"
+
+msgid "%s home page: <http://www.gnu.org/software/%s/>\n"
+msgstr "Домашняя страница %s: <http://www.gnu.org/software/%s/>\n"
+
+msgid "%s is not continued on this volume"
+msgstr "%s не продолжается на этом томе"
+
+msgid "%s is possibly continued on this volume: header contains truncated name"
+msgstr ""
+"%s, возможно, продолжается на этом томе - в заголовке находится усечённое имя"
+
+msgid "%s is the wrong size (%s != %s + %s)"
+msgstr "%s является неверным размером (%s != %s + %s)"
+
+msgid "%s: Cannot %s"
+msgstr "%s: Функция %s завершилась с ошибкой"
+
+msgid "%s: Cannot change mode to %s"
+msgstr "%s: Невозможно изменить права доступа на %s"
+
+msgid "%s: Cannot change ownership to uid %lu, gid %lu"
+msgstr "%s: Невозможно изменить владельца на uid %lu, gid %lu"
+
+msgid "%s: Cannot create symlink to %s"
+msgstr "%s: Невозможно создать символическую ссылку на %s"
+
+msgid "%s: Cannot extract -- file is continued from another volume"
+msgstr "%s: Невозможно извлечь -- файл продолжается с другого тома"
+
+msgid "%s: Cannot hard link to %s"
+msgstr "%s: Невозможно создать жёсткую ссылку на %s"
+
+msgid "%s: Cannot remove"
+msgstr "%s: Невозможно удалить"
+
+msgid "%s: Cannot rename to %s"
+msgstr "%s: Невозможно переименовать в %s"
+
+msgid "%s: Cannot seek to %s"
+msgstr "%s: Невозможно найти в %s"
+
+msgid "%s: Deleting %s\n"
+msgstr "%s: Удаляется %s\n"
+
+msgid "%s: Directory has been renamed"
+msgstr "%s: Каталог был переименован"
+
+msgid "%s: Directory has been renamed from %s"
+msgstr "%s: Каталог был переименован из %s"
+
+msgid "%s: Directory is new"
+msgstr "%s: Каталог новый"
+
+msgid "%s: Directory renamed before its status could be extracted"
+msgstr "%s: Каталог переименован до того, как мог быть извлечен его статус"
+
+msgid "%s: File removed before we read it"
+msgstr "%s: Файла удален до его считывания"
+
+msgid "%s: File shrank by %s byte"
+msgid_plural "%s: File shrank by %s bytes"
+msgstr[0] "%s: Файл урезан на %s байт"
+msgstr[1] "%s: Файл урезан на %s байта"
+msgstr[2] "%s: Файл урезан на %s байтов"
+
+msgid "%s: File shrank by %s byte; padding with zeros"
+msgid_plural "%s: File shrank by %s bytes; padding with zeros"
+msgstr[0] "%s: Файл урезан на %s байт; дополнен нулями"
+msgstr[1] "%s: Файл урезан на %s байта; дополнен нулями"
+msgstr[2] "%s: Файл урезан на %s байт; дополнен нулями"
+
+msgid "%s: Invalid archive format"
+msgstr "%s: Неверный формат архива"
+
+msgid "%s: Not found in archive"
+msgstr "%s: Не найден в архиве"
+
+msgid "%s: Not purging directory: unable to stat"
+msgstr "%s: Каталог не удалён: невозможно выполнить stat"
+
+msgid "%s: Omitting"
+msgstr "%s: Пропускается"
+
+msgid "%s: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: Ошибка чтения с позиции %s при чтении %lu байта"
+msgstr[1] "%s: Ошибка чтения с позиции %s при чтении %lu байт"
+msgstr[2] "%s: Ошибка чтения с позиции %s при чтении %lu байт"
+
+msgid "%s: Required occurrence not found in archive"
+msgstr "%s: Требуемое вхождение не найдено в архиве"
+
+msgid "%s: Too many arguments\n"
+msgstr "%s: Слишком много аргументов\n"
+
+msgid "%s: Unexpected inconsistency when making directory"
+msgstr "%s: Неожиданная противоречивость при создании каталога"
+
+msgid "%s: Unknown file type '%c', diffed as normal file"
+msgstr "%s: Неизвестный тип файла «%c», сравнён как обычный файл"
+
+msgid "%s: Unknown file type '%c', extracted as normal file"
+msgstr "%s: Неизвестный тип файла «%c», извлечён как обычный файл"
+
+msgid "%s: Unknown file type; file ignored"
+msgstr "%s: Неизвестный тип файла; файл проигнорирован"
+
+msgid "%s: Volume label is too long (limit is %lu byte)"
+msgid_plural "%s: Volume label is too long (limit is %lu bytes)"
+msgstr[0] "%s: Метка тома слишком длинная (максимум %lu байт)"
+msgstr[1] "%s: Метка тома слишком длинная (максимум %lu байта)"
+msgstr[2] "%s: Метка тома слишком длинная (максимум %lu байт)"
+
+msgid "%s: Warning: Cannot %s"
+msgstr "%s: Предупреждение: Функция %s завершилась с ошибкой"
+
+msgid "%s: Warning: Cannot seek to %s"
+msgstr "%s: Предупреждение: Невозможно найти в %s"
+
+msgid "%s: Warning: Read error at byte %s, while reading %lu byte"
+msgid_plural "%s: Warning: Read error at byte %s, while reading %lu bytes"
+msgstr[0] "%s: Предупреждение: Ошибка чтения с позиции %s при чтении %lu байта"
+msgstr[1] "%s: Предупреждение: Ошибка чтения с позиции %s при чтении %lu байт"
+msgstr[2] "%s: Предупреждение: Ошибка чтения с позиции %s при чтении %lu байт"
+
+msgid "%s: Was unable to backup this file"
+msgstr "%s: Невозможно было выполнить резервное копирование этот файла"
+
+msgid "%s: Wrote only %lu of %lu byte"
+msgid_plural "%s: Wrote only %lu of %lu bytes"
+msgstr[0] "%s: Записан только %lu байт из %lu"
+msgstr[1] "%s: Записано только %lu байта из %lu"
+msgstr[2] "%s: Записано только %lu байт из %lu"
+
+msgid "%s: byte %s: %s"
+msgstr "%s: байт %s: %s"
+
+msgid "%s: byte %s: %s %.*s... too long"
+msgstr "%s: байт %s: %s %.*s... слишком длинное"
+
+msgid "%s: byte %s: %s %s"
+msgstr "%s: байт %s: %s %s"
+
+msgid "%s: byte %s: %s %s followed by invalid byte 0x%02x"
+msgstr "%s: байт %s: %s %s следует за неправильным байтом 0x%02x"
+
+msgid ""
+"%s: byte %s: (valid range %s..%s)\n"
+"\t%s %s"
+msgstr ""
+"%s: байт %s: (допустимый диапазон %s..%s)\n"
+"\t%s %s"
+
+msgid "%s: contains a cache directory tag %s; %s"
+msgstr "%s: содержит каталог с кэшем тегов %s; %s"
+
+msgid "%s: contains invalid volume number"
+msgstr "%s: содержит неверный номер тома"
+
+msgid "%s: directory is on a different device: not purging"
+msgstr "%s: Каталог находится на другом устройстве: не удален"
+
+msgid "%s: directory is on a different filesystem; not dumped"
+msgstr "%s: каталог находится на другой файловой системе; не сброшен"
+
+msgid "%s: door ignored"
+msgstr "%s: door проигнорирован"
+
+msgid "%s: file changed as we read it"
+msgstr "%s: файл изменился во время чтения"
+
+msgid "%s: file is on a different filesystem; not dumped"
+msgstr "%s: файл находится на другой файловой системе; не сброшен"
+
+msgid "%s: file is the archive; not dumped"
+msgstr "%s: файл является архивом; не сброшен"
+
+msgid "%s: file is unchanged; not dumped"
+msgstr "%s: файл не изменён; не сброшен"
+
+msgid "%s: file list requested from %s already read from %s"
+msgstr "%s: список файлов, запрошенный из %s, уже прочитан из %s"
+
+msgid "%s: file name is too long (cannot be split); not dumped"
+msgstr "%s: имя файла слишком длинное (не может быть разделено); не сброшено"
+
+msgid "%s: file name is too long (max %d); not dumped"
+msgstr "%s: имя файла слишком длинное (максимум %d); не сброшено"
+
+msgid "%s: file name read contains nul character"
+msgstr "%s: в прочитанном имени файла присутствует пустой символ"
+
+msgid ""
+"%s: file name too long to be stored in a GNU multivolume header, truncated"
+msgstr ""
+"%s: слишком длинное имя файла для сохранения в многотомном заголовке GNU; "
+"обрезано"
+
+msgid "%s: implausibly old time stamp %s"
+msgstr "%s: невероятно старая временная метка %s"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s: недопустимый параметр -- «%c»\n"
+
+msgid "%s: link name is too long; not dumped"
+msgstr "%s: имя ссылки слишком длинное; не сброшено"
+
+msgid "%s: not a valid timeout"
+msgstr "%s: недопустимое время ожидания"
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr "%s: с параметром «%c%s» нельзя использовать аргумент\n"
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr "%s: двусмысленный параметр «%s»\n"
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr "%s: двусмысленный параметр «%s»; возможные варианты:"
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr "%s: с параметром «--%s» нельзя использовать аргумент\n"
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr "%s: для параметра «--%s» требуется аргумент\n"
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr "%s: с параметром «-W %s» нельзя использовать аргумент\n"
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr "%s: параметр «-W %s» неоднозначен\n"
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr "%s: для параметра «-W %s» требуется аргумент\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s: для параметра требуется аргумент -- «%c»\n"
+
+msgid "%s: skipping existing file"
+msgstr "%s: пропускается существующий файл"
+
+msgid "%s: socket ignored"
+msgstr "%s: сокет проигнорирован"
+
+msgid "%s: time stamp %s is %s s in the future"
+msgstr "%s: временная метка %s - %s с в будущем "
+
+msgid "%s: unknown checkpoint action"
+msgstr "%s: неизвестное действие контрольной точки"
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr "%s: нераспознанный параметр «%c%s»\n"
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr "%s: нераспознанный параметр «--%s»\n"
+
+msgid "%s:%lu: location of the error"
+msgstr "%s:%lu: место ошибки"
+
+msgid "'"
+msgstr "»"
+
+msgid "'%s' cannot be used with '%s'"
+msgstr "«%s» не может быть использован с «%s»"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr "(ОШИБКА ПРОГРАММЫ) Неизвестная версия?!"
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr "(ОШИБКА ПРОГРАММЫ) Параметр должен был быть распознан?!"
+
+msgid "(pipe)"
+msgstr "(канал)"
+
+msgid "--Continued at byte %s--\n"
+msgstr "--Продолжение с позиции %s--\n"
+
+msgid "--Long Link--\n"
+msgstr "--Длинная ссылка--\n"
+
+msgid "--Long Name--\n"
+msgstr "--Длинное имя--\n"
+
+msgid "--Volume Header--\n"
+msgstr "--Заголовок тома--\n"
+
+msgid "--acls can be used only on POSIX archives"
+msgstr "--acls может быть использована только с архивами POSIX"
+
+msgid "--atime-preserve='system' is not supported on this platform"
+msgstr "--atime-preserve='system' не поддерживается на этой платформе"
+
+msgid "--checkpoint value is not an integer"
+msgstr "значение --checkpoint не является целым числом"
+
+msgid "--level is meaningless without --listed-incremental"
+msgstr "параметр --level не имеет смыла без --listed-incremental"
+
+msgid "--occurrence is meaningless without a file list"
+msgstr "--occurrence бесполезна без списка файлов"
+
+msgid "--pax-option can be used only on POSIX archives"
+msgstr "--pax-option может быть использована только с архивами POSIX"
+
+msgid "--selinux can be used only on POSIX archives"
+msgstr "--selinux может быть использована только с архивами POSIX"
+
+msgid "--stat requires file names"
+msgstr "для опции --stat нужны имена файлов"
+
+msgid "--xattrs can be used only on POSIX archives"
+msgstr "--xattrs может быть использована только с архивами POSIX"
+
+msgid "-T reads file names verbatim (no option handling)"
+msgstr "-T читает имена файлов буквально (не считаются параметрами)"
+
+msgid "-T reads null-terminated names"
+msgstr "-T читает строки, оканчивающиеся нулём"
+
+msgid "-T reads null-terminated names; implies --verbatim-files-from"
+msgstr ""
+"-T читает строки, оканчивающиеся null; подразумевается --verbatim-files-from"
+
+msgid "-T treats file names starting with dash as options (default)"
+msgstr ""
+"-T считает имена файлов, начинающихся с переноса, параметрами (по умолчанию)"
+
+msgid "A lone zero block at %s"
+msgstr "Нулевой блок в %s"
+
+msgid "ACTION"
+msgstr "ДЕЙСТВИЕ"
+
+msgid "ARCHIVE"
+msgstr "АРХИВ"
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr "ARGP_HELP_FMT: Значение %s меньше или равно %s"
+
+msgid "Append SIZE bytes to FILE. SIZE is given by previous --length option."
+msgstr ""
+"Добавить РАЗМЕР байт к ФАЙЛУ. РАЗМЕР определяется предыдущей опцией --length."
+
+msgid "Archive base-256 value is out of %s range"
+msgstr "Значение base-256 архива за пределами диапазона %s"
+
+msgid "Archive contains %.*s where numeric %s value expected"
+msgstr "Заголовок содержит %.*s вместо ожидаемого числового значения %s"
+
+msgid "Archive contains file names with leading prefixes removed."
+msgstr "Архив содержит файлы с именами, из которых удалены префиксы."
+
+msgid "Archive contains obsolescent base-64 headers"
+msgstr "Архив содержит устаревающие заголовки base-64"
+
+msgid "Archive contains transformed file names."
+msgstr "Архив содержит преобразованные имена файлов."
+
+msgid "Archive format selection:"
+msgstr "Формата архива:"
+
+msgid "Archive is compressed. Use %s option"
+msgstr "Архив сжат. Используйте параметр %s"
+
+msgid "Archive label mismatch"
+msgstr "Несоответствие метки архива"
+
+msgid "Archive not labeled to match %s"
+msgstr "Метка архива не соответствует %s"
+
+msgid "Archive octal value %.*s is out of %s range"
+msgstr "Восьмеричное значение архива %.*s за пределами диапазона %s"
+
+msgid "Archive octal value %.*s is out of %s range; assuming two's complement"
+msgstr ""
+"Восьмеричное значение архива %.*s за пределами диапазона %s; предполагается "
+"дополнение до двух"
+
+msgid "Archive signed base-64 string %s is out of %s range"
+msgstr "Архив подписан строкой base-64 %s за пределами диапазона %s"
+
+msgid "Archive value %s is out of %s range %s..%s"
+msgstr "Значение архива %s за пределами %s диапазона %s..%s"
+
+msgid "At beginning of tape, quitting now"
+msgstr "Начало ленты, завершение работы"
+
+msgid "Attempting extraction of symbolic links as hard links"
+msgstr "Выполняется попытка извлечь символические ссылки как жесткие"
+
+msgid "BLOCKS"
+msgstr "БЛОКИ"
+
+msgid "BLOCKS x 512 bytes per record"
+msgstr "число БЛОКОВ x 512 байт на запись"
+
+msgid "Bad incremental file format"
+msgstr "Неверный формат инкрементного файла"
+
+msgid "Blanks in header where numeric %s value expected"
+msgstr "В заголовке пустое поле вместо ожидаемого числового значения %s"
+
+msgid "Byte count out of range"
+msgstr "Число байт за пределами диапазона"
+
+msgid "CHANGES"
+msgstr "РЕЖИМ"
+
+msgid "COMMAND"
+msgstr "КОМАНДА"
+
+msgid "CONTROL"
+msgstr "УПРАВЛЕНИЕ"
+
+msgid "Cannot backspace archive file; it may be unreadable without -i"
+msgstr ""
+"Невозможно вернуться назад на один архивный файл; он может быть нечитаемым "
+"без -i"
+
+msgid "Cannot concatenate compressed archives"
+msgstr "Невозможно объединить сжатые архивы"
+
+msgid "Cannot connect to %s: resolve failed"
+msgstr "Не удаётся подключиться к %s: ошибка разрешения"
+
+msgid "Cannot create temporary directory using template %s"
+msgstr "Невозможно создать временный каталог с помощью шаблона %s"
+
+msgid ""
+"Cannot deduce top-level directory name; please set it explicitly with --one-"
+"top-level=DIR"
+msgstr ""
+"Невозможно определить имя каталога верхнего уровня; укажите его явно с "
+"помощью --one-top-level=КАТАЛОГ"
+
+msgid "Cannot execute remote shell"
+msgstr "Не удаётся запустить удалённый командный процессор"
+
+msgid "Cannot redirect files for remote shell"
+msgstr "Не удалось перенаправить файлы для удалённого командного процессора"
+
+msgid "Cannot rename %s to %s"
+msgstr "Невозможно переименовать %s в %s"
+
+msgid "Cannot update compressed archives"
+msgstr "Не удаётся обновить сжатые архивы"
+
+msgid "Cannot use multi-volume compressed archives"
+msgstr "Невозможно использовать многотомные сжатые архивы"
+
+msgid "Cannot verify compressed archives"
+msgstr "Невозможно проверить сжатые архивы"
+
+msgid "Cannot verify multi-volume archives"
+msgstr "Невозможно проверить многотомные архивы"
+
+msgid "Cannot verify stdin/stdout archive"
+msgstr "Не удаётся проверить архив на stdin/stdout"
+
+msgid "Command dumped core\n"
+msgstr "Команда сбросила дамп памяти\n"
+
+msgid "Command exited successfully\n"
+msgstr "Команда успешно выполнена\n"
+
+msgid "Command failed with status %d\n"
+msgstr "Сбой команды; состояние: %d\n"
+
+msgid "Command stopped on signal %d\n"
+msgstr "Команда остановлена по сигналу %d\n"
+
+msgid "Command terminated\n"
+msgstr "Команда завершена\n"
+
+msgid "Command terminated on signal %d\n"
+msgstr "Команда завершена по сигналу %d\n"
+
+msgid "Compatibility options:"
+msgstr "Опции совместимости:"
+
+msgid "Compression options:"
+msgstr "Опции сжатия:"
+
+msgid "Conflicting compression options"
+msgstr "Конфликт опций сжатия"
+
+msgid "Contents differ"
+msgstr "Содержимое различно"
+
+msgid "Could only read %lu of %lu byte"
+msgid_plural "Could only read %lu of %lu bytes"
+msgstr[0] "Можно было прочитать только %lu байт из %lu"
+msgstr[1] "Можно было прочитать только %lu байта из %lu"
+msgstr[2] "Можно было прочитать только %lu байт из %lu"
+
+msgid "Cowardly refusing to create an empty archive"
+msgstr "Робкий отказ от создания пустого архива"
+
+msgid "Create file of the given SIZE"
+msgstr "Создание файла указанного РАЗМЕРА"
+
+msgid "Creating directory:"
+msgstr "Создание каталога:"
+
+msgid "Current %s is newer or same age"
+msgstr "Текущий %s более новый или такого же возраста"
+
+msgid "DATE"
+msgstr "ДАТА"
+
+msgid "DATE-OR-FILE"
+msgstr "ДАТА-ИЛИ-ФАЙЛ"
+
+msgid "DIR"
+msgstr "КАТАЛОГ"
+
+msgid "Date sample file not found"
+msgstr "Файл с образцом даты не найден"
+
+msgid "Deleting non-header from archive"
+msgstr "Удаляется не-заголовок из архива"
+
+msgid "Device blocking:"
+msgstr "Разбиение на блоки:"
+
+msgid "Device number differs"
+msgstr "Номера устройств отличаются"
+
+msgid "Device selection and switching:"
+msgstr "Выбор и переключение устройств:"
+
+msgid "Disable extended attributes support"
+msgstr "Отключить поддержку расширенных атрибутов"
+
+msgid "Disable the POSIX ACLs support"
+msgstr "Отключить поддержку POSIX ACL"
+
+msgid "Disable the SELinux context support"
+msgstr "Отключить поддержку контекста SELinux"
+
+msgid "Display executed checkpoints and exit status of COMMAND"
+msgstr "Показать выполненные контрольные точки и статус выхода КОМАНДЫ"
+
+msgid "EOF where user reply was expected"
+msgstr "Конец файла вместо ожидаемого ответа пользователя"
+
+msgid "EXPRESSION"
+msgstr "РАСШИРЕНИЕ"
+
+msgid "Enable extended attributes support"
+msgstr "Включить поддержку расширенных атрибутов"
+
+msgid "Enable the POSIX ACLs support"
+msgstr "Включить поддержку POSIX ACL"
+
+msgid "Enable the SELinux context support"
+msgstr "Включить поддержку контекста SELinux"
+
+msgid "Error parsing number near `%s'"
+msgstr "Ошибка разбора числа возле `%s'"
+
+msgid ""
+"Execute ARGS. Useful with --checkpoint and one of --cut, --append, --touch, "
+"--unlink"
+msgstr ""
+"Выполнение АРГУМЕНТОВ. Полезно с параметром --checkpoint и одним из --cut, --"
+"append или --touch"
+
+msgid "Execute COMMAND"
+msgstr "Выполнить КОМАНДУ"
+
+msgid "Exiting with failure status due to previous errors"
+msgstr "Завершение работы с состоянием неисправности из-за возникших ошибок"
+
+msgid "Extended header %s=%s is out of range %s..%s"
+msgstr "Расширенный заголовок %s=%s за пределами диапазона %s..%s"
+
+msgid "Extended header length %*s is out of range"
+msgstr "Длина расширенного заголовка %*s за пределами допустимого диапазона"
+
+msgid "Extracting contiguous files as regular files"
+msgstr "Непрерывные файлы извлекаются как обычные"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "FORMAT"
+msgstr "ФОРМАТ"
+
+msgid "FORMAT is one of the following:"
+msgstr "ФОРМАТОМ может быть:"
+
+msgid "File creation options:"
+msgstr "Опции создания файла:"
+
+msgid "File name matching options (affect both exclude and include patterns):"
+msgstr ""
+"Опции шаблонов подстановки для имён файлов (влияют на шаблоны включения и "
+"исключения):"
+
+msgid "File name not specified. Try again.\n"
+msgstr "Не указано имя имя файла. Попробуйте ещё раз.\n"
+
+msgid "File name transformations:"
+msgstr "Преобразование имён файлов:"
+
+msgid "File statistics options:"
+msgstr "Параметры статистики по файлам:"
+
+msgid "File type differs"
+msgstr "Типы файлов отличаются"
+
+msgid "Fill the file with the given PATTERN. PATTERN is 'default' or 'zeros'"
+msgstr "Заполнение файла заданным ШАБЛОНОМ. ШАБЛОН - это 'default' или 'zeros'"
+
+msgid ""
+"GNU 'tar' saves many files together into a single tape or disk archive, and "
+"can restore individual files from the archive.\n"
+"\n"
+"Examples:\n"
+"  tar -cf archive.tar foo bar  # Create archive.tar from files foo and bar.\n"
+"  tar -tvf archive.tar         # List all files in archive.tar verbosely.\n"
+"  tar -xf archive.tar          # Extract all files from archive.tar.\n"
+msgstr ""
+"GNU «tar» предназначен для сохранения файлов в единый архив на магнитную "
+"ленту или на диск и для восстановления отдельных файлов из архива.\n"
+"\n"
+"Примеры:\n"
+"  tar -cf archive.tar foo bar  # Создаёт archive.tar из файлов foo и bar.\n"
+"  tar -tvf archive.tar         # Выводит подробный список всех файлов\n"
+"                               в архиве archive.tar.\n"
+"  tar -xf archive.tar          # Извлекает все файлы из archive.tar.\n"
+
+msgid "GNU features wanted on incompatible archive format"
+msgstr "Запрошены расширения GNU для несовместимого формата архива"
+
+msgid "GNU format as per tar <= 1.12"
+msgstr "формат GNU как в tar <= 1.12"
+
+msgid "GNU tar 1.13.x format"
+msgstr "формат GNU tar 1.13.х"
+
+msgid "Garbage command"
+msgstr "Неверная команда"
+
+msgid "Garbage in ARGP_HELP_FMT: %s"
+msgstr "Мусор в ARGP_HELP_FMT: %s"
+
+msgid "General help using GNU software: <http://www.gnu.org/gethelp/>\n"
+msgstr "Справка по работе с ПО GNU: <http://www.gnu.org/gethelp/>\n"
+
+msgid "Generate sparse file. Rest of the command line gives the file map."
+msgstr ""
+"Создание разрежённого файла. Остальная часть команды определяет карту файла."
+
+msgid "Generated keyword/value pair is too long (keyword=%s, length=%s)"
+msgstr ""
+"Слишком длинная сгенерированная пара \"ключевое слово-значение\"  (ключевое "
+"слово=%s, длина=%s)"
+
+msgid "Generating negative octal headers"
+msgstr "Создаются отрицательные восьмеричные заголовки"
+
+msgid "Gid differs"
+msgstr "Gid отличаются"
+
+msgid "Handling of extended file attributes:"
+msgstr "Обработка расширенных атрибутов файлов:"
+
+msgid "Handling of file attributes:"
+msgstr "Обработка атрибутов файлов:"
+
+msgid "Ignoring unknown extended header keyword '%s'"
+msgstr "Игнорируется неизвестное ключевое слово расширенного заголовка «%s»"
+
+msgid "Informative output:"
+msgstr "Вывод информации:"
+
+msgid "Invalid blocking factor"
+msgstr "Неверный размер ёмкости блока"
+
+msgid "Invalid byte count"
+msgstr "Недопустимое число байт"
+
+msgid "Invalid device number"
+msgstr "Неверный номер устройства"
+
+msgid "Invalid incremental level value"
+msgstr "Недопустимое значение добавочного уровня"
+
+msgid "Invalid inode number"
+msgstr "Неверный номер inode"
+
+msgid "Invalid input. Type ? for help.\n"
+msgstr "Неверные входные данные. Наберите ? для получения справки.\n"
+
+msgid "Invalid mode given on option"
+msgstr "В опции указан неверный режим доступа"
+
+msgid "Invalid modification time"
+msgstr "Неверное время изменения"
+
+msgid "Invalid modification time (nanoseconds)"
+msgstr "Неверное время изменения (наносекунды)"
+
+msgid "Invalid number"
+msgstr "Неверное число"
+
+msgid "Invalid number of elements"
+msgstr "Неверное число элементов"
+
+msgid "Invalid operation code"
+msgstr "Недопустимый код операции"
+
+msgid "Invalid owner or group ID"
+msgstr "Неверный владелец или группа"
+
+msgid "Invalid record size"
+msgstr "Неверный размер записи"
+
+msgid "Invalid seek direction"
+msgstr "Недопустимое направление поиска"
+
+msgid "Invalid seek offset"
+msgstr "Недопустимое смещение поиска"
+
+msgid "Invalid size: %s"
+msgstr "Недопустимый размер: %s"
+
+msgid "Invalid sparse version value"
+msgstr "Неверное значение версии разрежения"
+
+msgid "Invalid tape length"
+msgstr "Неверная длина ленты"
+
+msgid "Invalid time stamp"
+msgstr "Неверная временная метка"
+
+msgid "Invalid value for record_size"
+msgstr "Недопустимое значение для record_size"
+
+msgid "KEYWORD"
+msgstr "КЛЮЧЕВОЕ СЛОВО"
+
+msgid "Keyword %s cannot be overridden"
+msgstr "Ключевое слово %s не может быть перекрыто"
+
+msgid "Keyword %s is unknown or not yet implemented"
+msgstr "Неизвестное или ещё не реализованное ключевое слово %s"
+
+msgid "Local file name selection:"
+msgstr "Имя выбранного локального файла:"
+
+msgid "Local file selection:"
+msgstr "Выбор локальных файлов:"
+
+msgid "MAJOR[.MINOR]"
+msgstr "MAJOR[.MINOR]"
+
+msgid "MASK"
+msgstr "МАСКА"
+
+msgid "MEMBER-NAME"
+msgstr "ИМЯ-ЧЛЕНА"
+
+msgid "METHOD"
+msgstr "СПОСОБ"
+
+msgid "Main operation mode:"
+msgstr "Основной режим работы:"
+
+msgid "Malformed density argument: %s"
+msgstr "Неверно сформирован аргумент плотности: %s"
+
+msgid "Malformed dumpdir: 'T' not preceded by 'R'"
+msgstr "Неверно сформирован dump-каталог: перед «T» не стоит «R»"
+
+msgid "Malformed dumpdir: 'X' duplicated"
+msgstr "Неверно сформирован dump-каталог: 'X' повторяется"
+
+msgid "Malformed dumpdir: 'X' never used"
+msgstr "Неверно сформирован dump-каталог: 'X' ни разу не использован"
+
+msgid "Malformed dumpdir: empty name in 'R'"
+msgstr "Неверно сформирован dump-каталог: пустое имя в 'R'"
+
+msgid "Malformed dumpdir: empty name in 'T'"
+msgstr "Неверно сформирован dump-каталог: пустое имя в «T»"
+
+msgid "Malformed dumpdir: expected '%c' but found %#3o"
+msgstr "Неверно сформирован dump-каталог: ожидался '%c', а найден %#3o"
+
+msgid "Malformed dumpdir: expected '%c' but found end of data"
+msgstr "Неверно сформирован dump-каталог: ожидался '%c', а найден конец данных"
+
+msgid "Malformed extended header: excess %s=%s"
+msgstr "Неверно сформирован расширенный заголовок: превышен %s=%s"
+
+msgid "Malformed extended header: invalid %s: odd number of values"
+msgstr ""
+"Неверно сформирован расширенный заголовок: неверный %s: нечётное число "
+"значений"
+
+msgid "Malformed extended header: invalid %s: unexpected delimiter %c"
+msgstr ""
+"Неверно сформирован расширенный заголовок: неверный %s: непредвиденный "
+"разделитель %c"
+
+msgid "Malformed extended header: invalid %s=%s"
+msgstr "Неверно сформирован расширенный заголовок: неверный %s=%s"
+
+msgid "Malformed extended header: missing blank after length"
+msgstr ""
+"Неверно сформирован расширенный заголовок: после длины отсутствует пробел"
+
+msgid "Malformed extended header: missing equal sign"
+msgstr "Неверно сформирован расширенный заголовок: отсутствует знак равенства "
+
+msgid "Malformed extended header: missing length"
+msgstr "Неверно сформирован расширенный заголовок: отсутствует длина"
+
+msgid "Malformed extended header: missing newline"
+msgstr ""
+"Неверно сформирован расширенный заголовок: отсутствует знак новой строки"
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr ""
+"Обязательные или необязательные аргументы для длинных параметров также "
+"являются обязательными или необязательными для соответствующих коротких "
+"параметров."
+
+msgid "Manipulate a tape drive, accepting commands from a remote process"
+msgstr ""
+"Работа с накопителем на магнитной ленте с приёмом команд от удалённого "
+"процесса"
+
+msgid "Missing links to %s."
+msgstr "Отсутствуют ссылки на %s."
+
+msgid "Missing record terminator"
+msgstr "Отсутствует указатель конца записи"
+
+msgid "Mod time differs"
+msgstr "Время изменения отличается"
+
+msgid "Mode differs"
+msgstr "Права доступа отличаются"
+
+msgid "More than one threshold date"
+msgstr "Больше одной пороговой даты"
+
+msgid "Multiple archive files require '-M' option"
+msgstr "Для нескольких файлов архивов требуется опция «-M»"
+
+msgid "NAME"
+msgstr "ИМЯ"
+
+msgid "NUMBER"
+msgstr "N"
+
+msgid "NUMBER of bytes per record, multiple of 512"
+msgstr "ЧИСЛО байт на запись, кратное 512"
+
+msgid "Negative size: %s"
+msgstr "Отрицательный размер: %s"
+
+msgid "No archive name given"
+msgstr "Не указано имя архива"
+
+msgid "No new volume; exiting.\n"
+msgstr "Нет нового тома, завершение работы.\n"
+
+msgid "Not linked to %s"
+msgstr "Не ссылается на %s"
+
+msgid "Number out of allowed range: %s"
+msgstr "Число за пределами допустимого диапазона: %s"
+
+msgid "OFFSET"
+msgstr "СМЕЩЕНИЕ"
+
+msgid "OPTION"
+msgstr "ПАРАМЕТР"
+
+msgid "ORDER"
+msgstr "ПОРЯДОК"
+
+msgid "Old option '%c' requires an argument."
+msgstr "Для старой опции «%c» нужно указать аргумент."
+
+msgid "Only one --to-command option allowed"
+msgstr "Разрешается использовать только одну опцию --to-command"
+
+msgid "Only one -C option is allowed with --listed-incremental"
+msgstr ""
+"С параметром --listed-incremental можно использовать только параметр -C"
+
+msgid "Operation modifiers:"
+msgstr "Модификаторы:"
+
+msgid "Operation not supported"
+msgstr "Операция не поддерживается"
+
+msgid "Option %s: Treating date '%s' as %s"
+msgstr "Опция %s: дата «%s» рассматривается как %s"
+
+msgid "Options '%s' and '%s' both want standard input"
+msgstr "Для обоих параметров «%s» и «%s» требуется стандартный ввод"
+
+msgid "Options '-Aru' are incompatible with '-f -'"
+msgstr "Параметры «-Aru» не совместимы с «-f -»"
+
+msgid "Options '-[0-7][lmh]' not supported by *this* tar"
+msgstr "Опции «-[0-7][lmh]» не поддерживаются *этим* tar-ом"
+
+msgid "Other options:"
+msgstr "Другие опции:"
+
+msgid "Overwrite control:"
+msgstr "Управление перезаписью:"
+
+msgid "PATTERN"
+msgstr "ШАБЛОН"
+
+msgid "POSIX 1003.1-1988 (ustar) format"
+msgstr "формат POSIX 1003.1-1988 (ustar)"
+
+msgid "POSIX 1003.1-2001 (pax) format"
+msgstr "формат POSIX 1003.1-2001 (pax)"
+
+msgid "PROG"
+msgstr "ПРОГ"
+
+msgid "Packaged by %s\n"
+msgstr "Упакован %s\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "Упакован %s (%s)\n"
+
+msgid "Pattern %s cannot be used"
+msgstr "Шаблон %s не может быть использован"
+
+msgid "Pattern matching characters used in file names"
+msgstr "В именах файлов используются символы подстановки"
+
+msgid "Perform given action (see below) upon reaching checkpoint NUMBER"
+msgstr ""
+"Выполнение указанного действия (см. ниже) до достижения контрольной точки с "
+"заданным НОМЕРОМ"
+
+msgid "Premature eof"
+msgstr "Неожиданный конец файла"
+
+msgid "Prepare volume #%d for %s and hit return: "
+msgstr "Приготовьте том Номер %d для %s и нажмите Enter: "
+
+msgid "Print contents of struct stat for each given file. Default FORMAT is: "
+msgstr ""
+"Вывод содержимого структуры stat для всех указанных файлов. ФОРМАТ по "
+"умолчанию:"
+
+msgid "Read checkpoint %u"
+msgstr "Контрольная точка чтения %u"
+
+msgid "Read file names from FILE"
+msgstr "Чтение имён файла из ФАЙЛА"
+
+msgid "Record size = %lu block"
+msgid_plural "Record size = %lu blocks"
+msgstr[0] "Размер записи = %lu блок"
+msgstr[1] "Размер записи = %lu блока"
+msgstr[2] "Размер записи = %lu блоков"
+
+msgid "Record size must be a multiple of %d."
+msgstr "Размер записи должен быть кратен %d."
+
+msgid "Refusing to read archive contents from terminal (missing -f option?)"
+msgstr "Отказ чтения содержимого архива с терминала (пропущен параметр -f?)"
+
+msgid "Refusing to write archive contents to terminal (missing -f option?)"
+msgstr "Отказ записи содержимого архива в терминал (пропущен параметр -f?)"
+
+msgid "Removing leading `%s' from hard link targets"
+msgstr "Удаляются начальные `%s' из целей жестких ссылок"
+
+msgid "Removing leading `%s' from member names"
+msgstr "Удаляется начальный `%s' из имен объектов"
+
+msgid "Renaming %s back to %s\n"
+msgstr "%s переименовывается назад в %s\n"
+
+msgid "Renaming %s to %s\n"
+msgstr "%s переименован в %s\n"
+
+msgid "Report %s bugs to: %s\n"
+msgstr "Отчёты об ошибках %s отправляйте по адресу <%s>\n"
+
+msgid "Report bugs to %s.\n"
+msgstr "Сообщения об ошибках отправляйте по адресу: %s.\n"
+
+msgid "SECS"
+msgstr "СЕК"
+
+msgid "SIGNAL"
+msgstr "СИГНАЛ"
+
+msgid "SIZE"
+msgstr "РАЗМЕР"
+
+msgid "STRING"
+msgstr "СТРОКА"
+
+msgid "STYLE"
+msgstr "СТИЛЬ"
+
+msgid "Seek direction out of range"
+msgstr "Направление поиска за пределами диапазона"
+
+msgid "Seek offset out of range"
+msgstr "Смещение поиска за пределами диапазона"
+
+msgid "Seek to the given offset before writing data"
+msgstr "Искать до указанного смещения перед записью данных"
+
+msgid "Select output stream:"
+msgstr "Выбор выходного потока:"
+
+msgid "Set date for next --touch option"
+msgstr "Указание даты для следующего параметра --touch"
+
+msgid "Size differs"
+msgstr "Размеры отличаются"
+
+msgid "Size of a block for sparse file"
+msgstr "Размер блока для разрежённого файла"
+
+msgid "Skipping to next header"
+msgstr "Пропускается до следующего заголовка"
+
+msgid "Substituting %s for unknown date format %s"
+msgstr "%s заменяется на неизвестный формат даты %s"
+
+msgid "Substituting `.' for empty hard link target"
+msgstr "`.' заменяются пустыми целями жестких ссылок"
+
+msgid "Substituting `.' for empty member name"
+msgstr "`.' заменяются пустыми именами объектов"
+
+msgid "Symlink differs"
+msgstr "Символические ссылки отличаются"
+
+msgid ""
+"Synchronous execution actions. These are executed when checkpoint number "
+"given by --checkpoint option is reached."
+msgstr ""
+"Синхронное выполнение действий. Они выполняются при достижении контрольной "
+"точки с номером, определённым опцией --checkpoint."
+
+msgid "Synchronous execution options:"
+msgstr "Параметры синхронного выполнения:"
+
+msgid "TEXT"
+msgstr "ТЕКСТ"
+
+msgid "TYPE"
+msgstr "ТИП"
+
+msgid ""
+"The backup suffix is '~', unless set with --suffix or SIMPLE_BACKUP_SUFFIX.\n"
+"The version control may be set with --backup or VERSION_CONTROL, values "
+"are:\n"
+"\n"
+"  none, off       never make backups\n"
+"  t, numbered     make numbered backups\n"
+"  nil, existing   numbered if numbered backups exist, simple otherwise\n"
+"  never, simple   always make simple backups\n"
+msgstr ""
+"Суффикс для резервных копий — «~», если он не установлен через --suffix\n"
+"или SIMPLE_BACKUP_SUFFIX. Управление версиями может быть установлено\n"
+"через --backup или VERSION_CONTROL. Значениями могут быть:\n"
+"\n"
+"  none, off       не создавать резервные копии\n"
+"  t, numbered     создавать нумерованные резервные копии\n"
+"  nil, existing   нумерованные, если существуют нумерованные копии,\n"
+"                   иначе простые\n"
+"  never, simple   всегда создавать простые резервные копии\n"
+
+msgid "This does not look like a tar archive"
+msgstr "Это не похоже на tar-архив"
+
+msgid "This volume is out of sequence (%s - %s != %s)"
+msgstr "Этот том вне последовательности (%s - %s != %s)"
+
+msgid "Time stamp is out of allowed range"
+msgstr "Метка времени за пределами допустимого диапазона"
+
+msgid "Too many errors, quitting"
+msgstr "Слишком много ошибок, завершение работы"
+
+msgid "Total bytes deleted"
+msgstr "Всего удалено байт"
+
+msgid "Total bytes read"
+msgstr "Всего прочитано байт"
+
+msgid "Total bytes written"
+msgstr "Всего записано байт"
+
+msgid ""
+"Truncate FILE to the size specified by previous --length option (or 0, if it "
+"is not given)"
+msgstr ""
+"Усечь ФАЙЛ до размера, определённого предыдущей опцией --length (или 0, если "
+"не указан)"
+
+msgid "Try '%s --help' or '%s --usage' for more information.\n"
+msgstr ""
+"Попробуйте «%s --help» или «%s --usage» для получения более подробного "
+"описания.\n"
+
+msgid "Uid differs"
+msgstr "Uid отличаются"
+
+msgid "Unaligned block (%lu byte) in archive"
+msgid_plural "Unaligned block (%lu bytes) in archive"
+msgstr[0] "Невыровненный блок (%lu байт) в архиве"
+msgstr[1] "Невыровненный блок (%lu байта) в архиве"
+msgstr[2] "Невыровненный блок (%lu байт) в архиве"
+
+msgid "Unexpected EOF in archive"
+msgstr "Неожиданный конец файла в архиве"
+
+msgid "Unexpected EOF in snapshot file"
+msgstr "Неожиданный конец файла в snapshot-файле"
+
+msgid "Unexpected arguments"
+msgstr "Неожиданные аргументы"
+
+msgid "Unexpected long name header"
+msgstr "Непредвиденный длинный заголовок имени"
+
+msgid "Unknown date format"
+msgstr "Неизвестный формат даты"
+
+msgid "Unknown density: '%c'"
+msgstr "Неизвестная плотность: «%c»"
+
+msgid "Unknown field `%s'"
+msgstr "Неизвестное поле `%s'"
+
+msgid ""
+"Unknown quoting style '%s'. Try '%s --quoting-style=help' to get a list."
+msgstr ""
+"Неизвестный стиль цитирования «%s». Воспользуйтесь «%s --quoting-style=help» "
+"для получения полного списка."
+
+msgid "Unknown signal name: %s"
+msgstr "Неизвестное название сигнала: %s"
+
+msgid "Unknown system error"
+msgstr "Неизвестная системная ошибка"
+
+msgid "Unlink FILE"
+msgstr "Разорвать связь с ФАЙЛОМ"
+
+msgid "Update the access and modification times of FILE"
+msgstr "Обновить время последнего доступа и изменения ФАЙЛА."
+
+msgid "Usage:"
+msgstr "Использование:"
+
+msgid ""
+"Use --wildcards to enable pattern matching, or --no-wildcards to suppress "
+"this warning"
+msgstr ""
+"Используйте --wildcards, чтобы задействовать эти символы, или --no-"
+"wildcards, чтобы убрать это предупреждение"
+
+msgid ""
+"Using -C option inside file list is not allowed with --listed-incremental"
+msgstr ""
+"Параметра -C в списке файлов нельзя Использовать с параметром --listed-"
+"incremental"
+
+msgid "VERIFY FAILURE: %d invalid header detected"
+msgid_plural "VERIFY FAILURE: %d invalid headers detected"
+msgstr[0] "СБОЙ ПРОВЕРКИ: обнаружен %d неверный заголовок"
+msgstr[1] "СБОЙ ПРОВЕРКИ: обнаружено %d неверных заголовка"
+msgstr[2] "СБОЙ ПРОВЕРКИ: обнаружено %d неверных заголовков"
+
+msgid "Valid arguments are:"
+msgstr "Допустимые аргументы:"
+
+msgid "Valid arguments for the --quoting-style option are:"
+msgstr "Допустимые аргументы для параметра --quoting-style:"
+
+msgid "Verification may fail to locate original files."
+msgstr "При проверке оригинальные файлы могут быть не найдены."
+
+msgid "Verify "
+msgstr "Проверка "
+
+msgid "Volume %s does not match %s"
+msgstr "Том %s не соответствует %s"
+
+msgid "Volume length cannot be less than record size"
+msgstr "Размер тома не может быть меньше размера записи"
+
+msgid "Volume number overflow"
+msgstr "Переполнение номера тома"
+
+msgid "WARNING: Archive is incomplete"
+msgstr "ПРЕДУПРЕЖДЕНИЕ: Архив не полный"
+
+msgid "Write checkpoint %u"
+msgstr "Контрольная точка записи %u"
+
+msgid "Write to file NAME, instead of standard output"
+msgstr "Запись в файл с ИМЕНЕМ, а не на стандартный вывод"
+
+msgid "Written by %s and %s.\n"
+msgstr "Авторы: %s и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s и другими.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s, %s, %s, %s\n"
+"и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s, %s, %s и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s, %s и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s,\n"
+"%s и %s.\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"Авторы: %s, %s, %s\n"
+"и %s.\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "Авторы: %s, %s и %s.\n"
+
+msgid "Written by %s.\n"
+msgstr "Автор: %s.\n"
+
+msgid ""
+"You may not specify more than one '-Acdtrux', '--delete' or  '--test-label' "
+"option"
+msgstr ""
+"Указать можно только один из параметров «-Acdtrux», «--delete» или «--test-"
+"label»"
+
+msgid ""
+"You must specify one of the '-Acdtrux', '--delete' or '--test-label' options"
+msgstr ""
+"Необходимо указать один из параметров «-Acdtrux», «--delete» или «--test-"
+"label»"
+
+msgid "[ARGS...]"
+msgstr "[АРГУМЕНТЫ...]"
+
+msgid "[FILE]..."
+msgstr "[ФАЙЛ]…"
+
+msgid "^[nN]"
+msgstr "^[nN]"
+
+msgid "^[yY]"
+msgstr "^[yY]"
+
+msgid "`"
+msgstr "«"
+
+msgid "add given FILE to the archive (useful if its name starts with a dash)"
+msgstr ""
+"добавить указанный ФАЙЛ в архив (полезно, если имя начинается с дефиса)"
+
+msgid "additionally quote characters from STRING"
+msgstr "дополнительно цитировать символы из СТРОКИ"
+
+msgid "always use numbers for user/group names"
+msgstr "использовать числа вместо имён владельца/группы"
+
+msgid "ambiguous argument %s for %s"
+msgstr "неоднозначный аргумент %s для %s"
+
+msgid "append files to the end of an archive"
+msgstr "добавление файлов в конец архива"
+
+msgid "append tar files to an archive"
+msgstr "присоединение tar-файлов к архиву"
+
+msgid ""
+"apply the user's umask when extracting permissions from the archive (default "
+"for ordinary users)"
+msgstr ""
+"применять umask пользователя при извлечении прав доступа из архива (по "
+"умолчанию для обычных пользователей)"
+
+msgid "archive file is local even if it has a colon"
+msgstr "файл архива является локальным, даже если содержит двоеточие"
+
+msgid "archive is not seekable"
+msgstr "поиск по архиву недоступен"
+
+msgid "archive is seekable"
+msgstr "доступен поиск по архиву"
+
+msgid "ask for confirmation for every action"
+msgstr "запрашивать подтверждение для каждого действия"
+
+msgid "attempt to verify the archive after writing it"
+msgstr "попытка проверить архив после его записи"
+
+msgid "avoid descending automatically in directories"
+msgstr "отключить автоматический спуск в каталоги"
+
+msgid "backup before removal, choose version CONTROL"
+msgstr "делать копию перед удалением, УПРАВЛЕНИЕ выбора версий"
+
+msgid ""
+"backup before removal, override usual suffix ('~' unless overridden by "
+"environment variable SIMPLE_BACKUP_SUFFIX)"
+msgstr ""
+"делать копию перед удалением, переопределяет обычный суффикс ('~', если "
+"только он не переопределён переменной окружения SIMPLE_BACKUP_SUFFIX)"
+
+msgid "begin at member MEMBER-NAME when reading the archive"
+msgstr "начинать с члена ИМЯ-ЧЛЕНА при чтении архива"
+
+msgid "block %s: "
+msgstr "блок %s: "
+
+msgid "block %s: ** Block of NULs **\n"
+msgstr "блок %s: ** Блок нулей **\n"
+
+msgid "block %s: ** End of File **\n"
+msgstr "блок %s: ** Конец файла **\n"
+
+msgid "cancel the effect of --delay-directory-restore option"
+msgstr "отменить действие параметра --delay-directory-restore"
+
+msgid "cannot generate sparse files on standard output, use --file option"
+msgstr ""
+"невозможно вывести разрежённые файлы на стандартный вывод; используйте опцию "
+"--file"
+
+msgid "cannot open %s"
+msgstr "не удаётся открыть %s"
+
+msgid "cannot open `%s'"
+msgstr "невозможно открыть `%s'"
+
+msgid "cannot seek"
+msgstr "невозможно найти"
+
+msgid "cannot set time on `%s'"
+msgstr "невозможно установить время в `%s'"
+
+msgid "cannot split TAR_OPTIONS: %s"
+msgstr "невозможно разделить TAR_OPTIONS: %s"
+
+msgid "cannot split string '%s': %s"
+msgstr "невозможно разделить строку «%s»: %s"
+
+msgid "cannot truncate `%s'"
+msgstr "не удалось обрезать «%s»"
+
+msgid "cannot unlink `%s'"
+msgstr "не удалось удалить «%s»"
+
+msgid "case sensitive matching (default)"
+msgstr "с учётом регистра (по умолчанию)"
+
+msgid "change tape after writing NUMBER x 1024 bytes"
+msgstr "сменить ленту после записи ЧИСЛО x 1024 байт"
+
+msgid "change to directory DIR"
+msgstr "перейти в КАТАЛОГ"
+
+msgid "check device numbers when creating incremental archives (default)"
+msgstr ""
+"проверять номера устройств при создании инкрементных архивов (по умолчанию)"
+
+msgid "child process"
+msgstr "дочерний процесс"
+
+msgid "command failed: %s"
+msgstr "сбой команды: %s"
+
+msgid "command line"
+msgstr "командная строка"
+
+msgid "compare date and time when data changed only"
+msgstr "сравнивать дату и время, только если изменены данные"
+
+msgid "contents not dumped"
+msgstr "содержимое не сброшено"
+
+msgid "control pax keywords"
+msgstr "управляющие ключевые слова pax"
+
+msgid "create a new archive"
+msgstr "создание нового архива"
+
+msgid "create a subdirectory to avoid having loose files extracted"
+msgstr "создавать подкаталог, чтобы избежать потери извлекаемых файлов"
+
+msgid "create archive of the given format"
+msgstr "создать архив в указанном формате"
+
+msgid ""
+"create archive with volume name TEXT; at list/extract time, use TEXT as a "
+"globbing pattern for volume name"
+msgstr ""
+"создать архив с именем тома ТЕКСТ; при листинге/извлечении использовать "
+"ТЕКСТ в качестве шаблона подстановки"
+
+msgid "create/list/extract multi-volume archive"
+msgstr "создание/листинг/извлечение многотомных архивов"
+
+msgid "created file is not sparse"
+msgstr "созданный файл не является разреженным"
+
+msgid ""
+"delay setting modification times and permissions of extracted directories "
+"until the end of extraction"
+msgstr ""
+"не устанавливать время изменения и права доступа извлечённых каталогов до "
+"завершения процесса извлечения"
+
+msgid "delete from the archive (not on mag tapes!)"
+msgstr "удаление из архива (не на магнитных лентах!)"
+
+msgid "directory not dumped"
+msgstr "каталог не сброшен"
+
+msgid "directory sorting order: none (default) or name"
+msgstr "порядок сортировки каталога: none (по умолчанию) или name"
+
+msgid "directory sorting order: none (default), name or inode"
+msgstr "порядок сортировки каталога: none (по умолчанию), name или inode"
+
+msgid "disable quoting for characters from STRING"
+msgstr "отключить цитирование символов из СТРОКИ"
+
+msgid "disable the effect of the previous --null option"
+msgstr "выключить воздействие предыдущей опции --null"
+
+msgid "disable use of some potentially harmful options"
+msgstr "отключить использование некоторых потенциально опасных опций"
+
+msgid "display progress messages every NUMBERth record (default 10)"
+msgstr ""
+"вывод сообщений о ходе выполнения через каждые ЧИСЛО записей (по умолчанию "
+"10)"
+
+msgid "do not check device numbers when creating incremental archives"
+msgstr "не проверять номера устройств при создании инкрементных архивов"
+
+msgid "do not exit with nonzero on unreadable files"
+msgstr "не завершать работу при ненулевом статусе для нечитаемых файлов"
+
+msgid "do not unquote input file or member names"
+msgstr "не убирать кавычки в имени входного файла или членов (по умолчанию)"
+
+msgid "do not use archive suffix to determine the compression program"
+msgstr "не использовать суффикс архива для определения программы сжатия"
+
+msgid "don't extract file modified time"
+msgstr "не извлекать время изменения файла"
+
+msgid "don't replace existing files that are newer than their archive copies"
+msgstr ""
+"не перезаписывать существующие файлы, которые более новые, чем их копии в "
+"архиве"
+
+msgid "don't replace existing files when extracting, silently skip over them"
+msgstr ""
+"не перезаписывать существующие файлы при извлечении, просто пропускать их"
+
+msgid "don't replace existing files when extracting, treat them as errors"
+msgstr ""
+"не перезаписывать существующие файлы при извлечении, считать это ошибкой"
+
+msgid "don't strip leading '/'s from file names"
+msgstr "не удалять начальные «/» из имён файлов"
+
+msgid "dump level for created listed-incremental archive"
+msgstr "уровень копирования для созданного разностного архива со списком"
+
+msgid "empty hierarchies prior to extracting directory"
+msgstr "очистка всей иерархии до извлечения каталога"
+
+msgid "error parsing %s"
+msgstr "ошибка разбора %s"
+
+msgid "exclude backup and lock files"
+msgstr "исключать резервные файлы и файлы блокировки"
+
+msgid ""
+"exclude contents of directories containing CACHEDIR.TAG, except for the tag "
+"file itself"
+msgstr ""
+"исключать содержимое каталогов с файлом CACHEDIR.TAG за исключением самого "
+"файла с тегами"
+
+msgid "exclude contents of directories containing FILE, except for FILE itself"
+msgstr "исключать каталоги, содержащие ФАЙЛ, за исключением самого ФАЙЛА"
+
+msgid "exclude directories containing CACHEDIR.TAG"
+msgstr "исключать каталоги, содержащие файл CACHEDIR.TAG"
+
+msgid "exclude directories containing FILE"
+msgstr "исключать каталоги с ФАЙЛОМ"
+
+msgid "exclude everything under directories containing CACHEDIR.TAG"
+msgstr "исключать всё содержимое каталогов, содержащих файл CACHEDIR.TAG"
+
+msgid "exclude everything under directories containing FILE"
+msgstr "исключать всё содержимое каталогов, содержащих ФАЙЛ"
+
+msgid "exclude files, given as a PATTERN"
+msgstr "исключать файлы, определённые ШАБЛОНОМ"
+
+msgid "exclude patterns listed in FILE"
+msgstr "исключать шаблоны, перечисленных в ФАЙЛЕ"
+
+msgid "exclude version control system directories"
+msgstr "исключать каталоги CVS"
+
+msgid "exec/tcp: Service not available"
+msgstr "exec/tcp: Служба недоступна"
+
+msgid "execute ACTION on each checkpoint"
+msgstr "выполнять ДЕЙСТВИЕ на каждой контрольной точке"
+
+msgid "extract files as yourself (default for ordinary users)"
+msgstr ""
+"извлекать файлы как свои собственные (по умолчанию для обычных пользователей)"
+
+msgid "extract files from an archive"
+msgstr "извлечение файлов из архива"
+
+msgid "extract files to standard output"
+msgstr "извлекать файлы на стандартный вывод"
+
+msgid "extract information about file permissions (default for superuser)"
+msgstr ""
+"извлекать информацию о правах доступа к файлу (по умолчанию для "
+"суперпользователя)"
+
+msgid "failed to return to initial working directory"
+msgstr "не удалось вернуться в первоначальный рабочий каталог"
+
+msgid "file name contains null character"
+msgstr "в имени файла присутствует пустой символ"
+
+msgid "filter the archive through %s"
+msgstr "пропустить архив через %s"
+
+msgid "filter through PROG (must accept -d)"
+msgstr "пропустить архив через ПРОГ (должна поддерживать -d)"
+
+msgid "find differences between archive and file system"
+msgstr "поиск различий между архивом и файловой системой"
+
+msgid "follow hard links; archive and dump the files they refer to"
+msgstr ""
+"следовать по жёстким ссылкам и сохранять файлы, на которые они указывают"
+
+msgid "follow symlinks; archive and dump the files they point to"
+msgstr ""
+"следовать по символьным ссылкам и сохранять файлы, на которые они указывают"
+
+msgid "force (symbolic) mode CHANGES for added files"
+msgstr ""
+"принудительно устанавливать (символьный) РЕЖИМ доступа для добавляемых файлов"
+
+msgid "force NAME as group for added files"
+msgstr ""
+"принудительно устанавливать ИМЯ в качестве группы для добавленных файлов"
+
+msgid "force NAME as owner for added files"
+msgstr ""
+"принудительно устанавливать ИМЯ в качестве владельца для добавленных файлов"
+
+msgid ""
+"genfile manipulates data files for GNU paxutils test suite.\n"
+"OPTIONS are:\n"
+msgstr ""
+"genfile используется для работы с файлами данных для пакета тестов paxutils "
+"от GNU.\n"
+"ОПЦИИ:\n"
+
+msgid "get names to extract or create from FILE"
+msgstr "загрузить из ФАЙЛА имена для извлечения или создания"
+
+msgid "give a short usage message"
+msgstr "вывод короткого сообщения об использовании"
+
+msgid "give this help list"
+msgstr "вывод этой справки"
+
+msgid "handle new GNU-format incremental backup"
+msgstr "обработка добавочного резервирования нового формата GNU"
+
+msgid "handle old GNU-format incremental backup"
+msgstr "обработка добавочного резервирования старого формата GNU"
+
+msgid "handle sparse files efficiently"
+msgstr "эффективная обработка разрежённых файлов"
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr "ожидание в течение заданных СЕКУНД (по умолчанию 3600)"
+
+msgid "ignore case"
+msgstr "игнорировать регистр"
+
+msgid "ignore exit codes of children"
+msgstr "игнорировать коды завершения дочерних процессов"
+
+msgid "ignore zeroed blocks in archive (means EOF)"
+msgstr "игнорировать нулевые блоки в архиве (т.е. EOF)"
+
+msgid "incorrect mask (near `%s')"
+msgstr "неверная маска (возле `%s')"
+
+msgid "interprocess channel"
+msgstr "межпроцессорный канал"
+
+msgid "invalid argument %s for %s"
+msgstr "недопустимый аргумент %s для %s"
+
+msgid "keyword[[:]=value][,keyword[[:]=value]]..."
+msgstr "keyword[[:]=значение][,keyword[[:]=значение]]..."
+
+msgid "list the contents of an archive"
+msgstr "вывод списка содержимого архива"
+
+msgid ""
+"member arguments are listed in the same order as the files in the archive"
+msgstr "члены-аргументы перечислены в том же порядке как файлы в архиве"
+
+msgid "memory exhausted"
+msgstr "недостаточно памяти"
+
+msgid "non-option arguments in %s"
+msgstr "аргументы, не являющиеся параметрами, в %s"
+
+msgid "old V7 tar format"
+msgstr "старый формат tar V7"
+
+msgid "only append files newer than copy in archive"
+msgstr "добавление в архив только более новых файлов"
+
+msgid "only store files newer than DATE-OR-FILE"
+msgstr "сохранять только те файлы, которые новее ДАТЫ-ИЛИ-ФАЙЛА"
+
+msgid "overwrite existing files when extracting"
+msgstr "перезапись существующих файлов при извлечении"
+
+msgid "overwrite metadata of existing directories when extracting (default)"
+msgstr "перезапись существующих файлов при извлечении (по умолчанию)"
+
+msgid "patterns match after any '/' (default for exclusion)"
+msgstr "шаблоны совпадают после любого «/» (по умолчанию для исключаемых)"
+
+msgid "patterns match file name start"
+msgstr "шаблоны начала имени файла"
+
+msgid "pipe extracted files to another program"
+msgstr "перенаправлять извлечённые файлы в другую программу"
+
+msgid ""
+"preserve access times on dumped files, either by restoring the times after "
+"reading (METHOD='replace'; default) or by not setting the times in the first "
+"place (METHOD='system')"
+msgstr ""
+"сохранять время доступа скопированных файлов путём восстановления времени "
+"после чтения (СПОСОБ='replace'; используется по умолчанию) или не установки "
+"времени в первую очередь (СПОСОБ='system')"
+
+msgid "preserve existing symlinks to directories when extracting"
+msgstr "сохранить существующие символьные файлы на каталоги при извлечении"
+
+msgid "preserve metadata of existing directories"
+msgstr "сохранение метаданных существующих каталогов"
+
+msgid "print a message if not all links are dumped"
+msgstr "вывод сообщений, если сохранены не все ссылки"
+
+msgid "print file modification times in UTC"
+msgstr "вывод времени изменения файла в формате UTC"
+
+msgid "print file time to its full resolution"
+msgstr "вывод имени файла и его полного разрешения"
+
+msgid "print program version"
+msgstr "вывод версии программы"
+
+msgid ""
+"print total bytes after processing the archive; with an argument - print "
+"total bytes when this SIGNAL is delivered; Allowed signals are: SIGHUP, "
+"SIGQUIT, SIGINT, SIGUSR1 and SIGUSR2; the names without SIG prefix are also "
+"accepted"
+msgstr ""
+"вывод общего числа байт после обработки архива; с аргументом - вывод общего "
+"числа байт после доставки этого СИГНАЛА. Разрешённые сигналы: SIGHUP, "
+"SIGQUIT, SIGINT, SIGUSR1 и SIGUSR2. Также разрешается использовать имена без "
+"префикса SIG"
+
+msgid ""
+"process only the NUMBERth occurrence of each file in the archive; this "
+"option is valid only in conjunction with one of the subcommands --delete, --"
+"diff, --extract or --list and when a list of files is given either on the "
+"command line or via the -T option; NUMBER defaults to 1"
+msgstr ""
+"обработка только N-ого вхождения для каждого файла в архиве. Эта опция верна "
+"только в сочетании с одной из подкоманд --delete, --diff, --extract или --"
+"list, и когда список файлов задан либо в командной строке, либо через опцию -"
+"T. По умолчанию N равен 1."
+
+msgid "read"
+msgstr "чтение"
+
+msgid ""
+"read exclude patterns for each directory and its subdirectories from FILE, "
+"if it exists"
+msgstr ""
+"читать шаблоны исключения для каждого каталога и его подкаталогов из ФАЙЛА, "
+"если он существует"
+
+msgid "read exclude patterns for each directory from FILE, if it exists"
+msgstr ""
+"читать шаблоны исключения для каждого каталога из ФАЙЛА, если он существует"
+
+msgid "read exclude patterns from the VCS ignore files"
+msgstr "читать шаблоны исключения из файлов игнорирования VCS"
+
+msgid "reblock as we read (for 4.2BSD pipes)"
+msgstr "заново разбивать на блоки при чтении (для каналов 4.2BSD)"
+
+msgid "recurse into directories (default)"
+msgstr "рекурсивный спуск по каталогам (по умолчанию)"
+
+msgid "remove each file prior to extracting over it"
+msgstr "удаление каждого файла до извлечения поверх него"
+
+msgid "remove files after adding them to the archive"
+msgstr "удаление файлов после их добавления в архив"
+
+msgid "requested file length %lu, actual %lu"
+msgstr "запрошенная длина файла %lu, реальная %lu"
+
+msgid "rmtlseek not stopped at a record boundary"
+msgstr "rmtlseek не остановился на границе записи"
+
+msgid "run script at end of each tape (implies -M)"
+msgstr ""
+"запустить скрипт по окончании каждой ленты (подразумевается использование -М)"
+
+msgid "same as --format=posix"
+msgstr "эквивалент --format=posix"
+
+msgid "same as --format=v7"
+msgstr "эквивалент --format=v7"
+
+msgid "same as pax"
+msgstr "эквивалент pax"
+
+msgid "send verbose output to FILE"
+msgstr "отправить подробный вывод данных в FILE"
+
+msgid "set debug level"
+msgstr "задайте уровень отладки"
+
+msgid "set debug output file name"
+msgstr "задайте имя выходного файла отладки"
+
+msgid "set mtime for added files from DATE-OR-FILE"
+msgstr "устанавливать для добавленных файлов mtime из ДАТЫ-ИЛИ-ФАЙЛА"
+
+msgid "set name quoting style; see below for valid STYLE values"
+msgstr "установить стиль цитирования имён. Значения для СТИЛЯ см. ниже"
+
+msgid "set the program name"
+msgstr "определяет название программы"
+
+msgid "set version of the sparse format to use (implies --sparse)"
+msgstr ""
+"установить версию используемого формата разрежения (подразумевает --sparse)"
+
+msgid "show block number within archive with each message"
+msgstr "выводить номера блоков архива в каждом сообщении"
+
+msgid "show file or archive names after transformation"
+msgstr "показывать имена файлов или архивов после преобразования"
+
+msgid "show tar defaults"
+msgstr "показать значения tar по умолчанию"
+
+msgid "show valid ranges for snapshot-file fields"
+msgstr "показать допустимые диапазоны для полей snapshot-файла"
+
+msgid "specify drive and density"
+msgstr "указать устройство и плотность"
+
+msgid "specify the exclude pattern for xattr keys"
+msgstr "задаёт шаблон исключаемых ключей xattr"
+
+msgid "specify the include pattern for xattr keys"
+msgstr "задаёт шаблон включаемых ключей xattr"
+
+msgid "stat(%s) failed"
+msgstr "Сбой stat(%s)"
+
+msgid "stay in local file system when creating archive"
+msgstr "оставаться в локальной файловой системе при создании архива"
+
+msgid "stdin"
+msgstr "stdin"
+
+msgid "stdout"
+msgstr "stdout"
+
+msgid "strip NUMBER leading components from file names on extraction"
+msgstr ""
+"удалять указанное ЧИСЛО начальных компонентов из имён файлов перед "
+"извлечением"
+
+msgid "technique to detect holes"
+msgstr "метод определения дыр"
+
+msgid "test the archive volume label and exit"
+msgstr "проверка метки тома архива и выход"
+
+msgid "too many arguments"
+msgstr "слишком много аргументов"
+
+msgid "treat non-zero exit codes of children as error"
+msgstr "считать ненулевые коды завершения дочерних процессов как ошибку"
+
+msgid ""
+"try extracting files with the same ownership as exists in the archive "
+"(default for superuser)"
+msgstr ""
+"попытаться извлечь файлы с тем же владельцем, что и в архиве (по умолчанию "
+"для супепользователя)"
+
+msgid "unable to record current working directory"
+msgstr "невозможно зарегистрировать текущий рабочий каталог"
+
+msgid "unquote input file or member names (default)"
+msgstr "убрать кавычки в имени входного файла или членов (по умолчанию)"
+
+msgid "use FILE to map file owner GIDs and names"
+msgstr "использовать ФАЙЛ для сопоставления GID владельцев файла и имён"
+
+msgid "use FILE to map file owner UIDs and names"
+msgstr "использовать ФАЙЛ для сопоставления UID владельцев файла и имён"
+
+msgid "use archive file or device ARCHIVE"
+msgstr "использовать файл или устройство АРХИВ"
+
+msgid "use archive suffix to determine the compression program"
+msgstr "использовать суффикс архива для определения программы сжатия"
+
+msgid "use given rmt COMMAND instead of rmt"
+msgstr "использовать указанную КОМАНДУ rmt вместо rmt"
+
+msgid "use remote COMMAND instead of rsh"
+msgstr "использовать удалённую КОМАНДУ вместо rsh"
+
+msgid "use sed replace EXPRESSION to transform file names"
+msgstr "использовать замену РАСШИРЕНИЯ sed'ом для преобразования имён файлов"
+
+msgid "use wildcards (default for exclusion)"
+msgstr "использовать маски (по умолчанию для исключаемых)"
+
+msgid "use/update the volume number in FILE"
+msgstr "использовать/обновлять номера тома в ФАЙЛЕ"
+
+msgid "value %s out of %s range %s..%s"
+msgstr "значение %s за пределами %s диапазона %s..%s"
+
+msgid "value %s out of %s range %s..%s; substituting %s"
+msgstr "значение %s за пределами %s диапазона %s..%s; заменяется на %s"
+
+msgid "verbatim string matching"
+msgstr "точное соответствие строке"
+
+msgid "verbosely list files processed"
+msgstr "подробный листинг обрабатываемых файлов"
+
+msgid "warning control"
+msgstr "управление предупреждением"
+
+msgid ""
+"when creating, same as --old-archive; when extracting, same as --no-same-"
+"owner"
+msgstr ""
+"при создании, эквивалент --old-archive; при извлечении, эквивалент --no-same-"
+"owner"
+
+msgid ""
+"when listing or extracting, list each directory that does not match search "
+"criteria"
+msgstr ""
+"при выводе листинга или извлечении показывать все каталоги, не "
+"соответствующем условию поиска"
+
+msgid "wildcards do not match '/'"
+msgstr "маски не соответствуют «/»"
+
+msgid "wildcards match '/' (default for exclusion)"
+msgstr "маски соответствуют «/» (по умолчанию для исключаемых)"
+
+msgid "write"
+msgstr "запись"
+
+msgid "write did not end on a block boundary"
+msgstr "запись не остановилась на границе блока"
+
+msgid "write error"
+msgstr "ошибка записи"
+
+#, c-format
+msgid "Unsupported incremental format version: %<PRIuMAX>"
+msgstr "Неподдерживаемая версия инкрементного формата: %<PRIuMAX>"

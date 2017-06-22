@@ -1,0 +1,249 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GIMP Python-Fu 2.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-26 11:19+0400\n"
+"PO-Revision-Date: 2013-01-28 09:47+0300\n"
+"Last-Translator: Александр Прокудин <alexandre.prokoudine@gmail.com>\n"
+"Language-Team: Russian <gnome-cyr@lists.gnome.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2); 10<=4 && (n%100<10 || n"
+"%100>=20) ? 1 : 2);\n"
+
+msgid "Add a drop shadow to a layer, and optionally bevel it"
+msgstr "Добавить в изображение отбрасываемую тень и добавить бордюр"
+
+msgid "Add a layer of fog"
+msgstr "Добавить слой тумана"
+
+msgid "An error occurred running %s"
+msgstr "При запуске %s произошла ошибка"
+
+msgid "Blue or Value"
+msgstr "Синий или значение"
+
+msgid "Channel to _sort"
+msgstr "Сортируемые _каналы"
+
+msgid "Character _source"
+msgstr "_Источник символа"
+
+msgid "Clouds"
+msgstr "Облака"
+
+msgid "Color _model"
+msgstr "Цветовая _модель"
+
+msgid "Colored XHTML"
+msgstr "Раскрашенный XHTML"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "Не удалось открыть '%s' для записи: %s"
+
+msgid "Could not write to '%s': %s"
+msgstr "Не удалось записать в '%s': %s"
+
+msgid "Create a gradient using colors from the palette"
+msgstr "Создать градиент, используя цвета палитры"
+
+msgid "Create a new brush with characters from a text sequence"
+msgstr "Создать новую кисть, содержащую последовательность букв"
+
+msgid "Create a repeating gradient using colors from the palette"
+msgstr "Создать повторяющийся градиент из цветов палитры"
+
+msgid "Cuts an image along its guides, creates images and a HTML table snippet"
+msgstr "Разрезать изображение по направляющим в HTML-таблицу с его фрагментами"
+
+msgid "Drop shadow _X displacement"
+msgstr "Смещение тени по _X"
+
+msgid "Drop shadow _Y displacement"
+msgstr "Смещение тени по _Y"
+
+msgid "Entry box"
+msgstr "Поле ввода"
+
+msgid "File Name"
+msgstr "Имя файла"
+
+msgid "Filename for export"
+msgstr "Имя экспортируемого файла"
+
+msgid "Fo_nt size in pixels"
+msgstr "_Кегль шрифта в пикселах"
+
+msgid "Folder for image export"
+msgstr "Имя каталога изображений"
+
+msgid "Font"
+msgstr "Шрифт:"
+
+msgid "Gradient to use"
+msgstr "Используемый градиент"
+
+msgid "Green or Saturation"
+msgstr "Зеленый или насыщенность"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "Image format"
+msgstr "Формат изображения"
+
+msgid "Image name prefix"
+msgstr "Префикс имени файла"
+
+msgid "Interactive GIMP Python interpreter"
+msgstr "Интерактивный интерпретатор Python в GIMP"
+
+msgid "Invalid input for '%s'"
+msgstr "Некорректный ввод для '%s'"
+
+msgid "Javascript for onmouseover and clicked"
+msgstr "JavaScript для действий onmouseover и clicked"
+
+msgid "Missing exception information"
+msgstr "Отсутствует информация о прерывании"
+
+msgid "New Brush from _Text..."
+msgstr "_Кисть из текста..."
+
+msgid "No"
+msgstr "Нет"
+
+msgid "Off_set"
+msgstr "Сд_виг"
+
+msgid "Offset the colors in a palette"
+msgstr "Сместить цвета в палитре"
+
+msgid "Op_acity"
+msgstr "_Непрозрачность"
+
+msgid "Palette"
+msgstr "Палитра"
+
+msgid "Palette to _Gradient"
+msgstr "Палитра в _градиент"
+
+msgid "Palette to _Repeating Gradient"
+msgstr "П_алитра в повторяющийся градиент"
+
+msgid "Path for HTML export"
+msgstr "Каталог экспорта HTML"
+
+msgid "Pixel Size"
+msgstr "Кегль (px):"
+
+msgid "Python Console"
+msgstr "Консоль Python"
+
+msgid "Python Procedure Browser"
+msgstr "Браузер процедур Python"
+
+msgid "Python-Fu Color Selection"
+msgstr "Выделение цвета в Python-Fu"
+
+msgid "Python-Fu File Selection"
+msgstr "Выбор файла в Python-Fu"
+
+msgid "Python-Fu Folder Selection"
+msgstr "Выбор каталога в Python-Fu"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Red or Hue"
+msgstr "Красный или тон"
+
+msgid "Save Python-Fu Console Output"
+msgstr "Сохранить вывод консоли Python-Fu"
+
+msgid "Save as colored XHTML"
+msgstr "Сохранить как раскрашенный XHTML"
+
+msgid "Saving as colored XHTML"
+msgstr "Сохранение раскрашенного XHTML"
+
+msgid "Separate image folder"
+msgstr "Изображения в отдельном каталоге"
+
+msgid "Skip animation for table caps"
+msgstr "Пропустить анимацию для заголовков таблицы"
+
+msgid "Slice"
+msgstr "Нарезка"
+
+msgid "Sort the colors in a palette"
+msgstr "Отсортировать цвета в палитре"
+
+msgid "Source code"
+msgstr "Исходный код"
+
+msgid "Space between table elements"
+msgstr "Пробел между элементами таблицы"
+
+msgid "Text"
+msgstr "Текст:"
+
+msgid "Text file"
+msgstr "Текстовый файл"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid "_Ascending"
+msgstr "_Восходящий"
+
+msgid "_Bevel"
+msgstr "_Бордюр"
+
+msgid "_Browse..."
+msgstr "_Просмотр…"
+
+msgid "_Console"
+msgstr "_Консоль"
+
+msgid "_Drop Shadow and Bevel..."
+msgstr "Отбрасываемая тень с _бордюром"
+
+msgid "_Drop shadow"
+msgstr "Отбр_асываемая тень"
+
+msgid "_File to read or characters to use"
+msgstr "_Читаемый файл или используемые символы"
+
+msgid "_Fog color"
+msgstr "_Цвет тумана"
+
+msgid "_Fog..."
+msgstr "_Туман..."
+
+msgid "_Layer name"
+msgstr "_Имя слоя"
+
+msgid "_More Information"
+msgstr "_Подробнее"
+
+msgid "_Offset Palette..."
+msgstr "_Сдвиг палитры..."
+
+msgid "_Shadow blur"
+msgstr "_Размытость тени"
+
+msgid "_Slice..."
+msgstr "_Нарезка для веба..."
+
+msgid "_Sort Palette..."
+msgstr "Отсортировать _палитру..."
+
+msgid "_Turbulence"
+msgstr "Т_урбулентность"
+
+msgid "_Write a separate CSS file"
+msgstr "З_аписать отдельный файл CSS"

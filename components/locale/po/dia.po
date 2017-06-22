@@ -1,0 +1,7437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dia 0.95\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?"
+"product=dia&keywords=I18N+L10N&component=general\n"
+"POT-Creation-Date: 2011-10-03 11:48+0000\n"
+"PO-Revision-Date: 2011-11-20 23:58+0300\n"
+"Last-Translator: Yuri Myasoedov <omerta13@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid ""
+"\n"
+"Dia is documented by:\n"
+"\n"
+msgstr ""
+"\n"
+"Документация для Dia составлена:\n"
+"\n"
+
+msgid ""
+"\n"
+"Other authors are:\n"
+"\n"
+msgstr ""
+"\n"
+"Другие авторы:\n"
+"\n"
+
+msgid ""
+"\n"
+"The current maintainers of Dia are:\n"
+"\n"
+msgstr ""
+"\n"
+"Текущие разработчики Dia:\n"
+"\n"
+
+msgid " "
+msgstr " "
+
+msgid ""
+"$(^Name) is released under the GPL license. The license is provided here for "
+"information purposes only. $_CLICK"
+msgstr ""
+"$(^Name) распространяется под лицензией GPL. Лицензия предоставлена здесь "
+"только в ознакомительных целях. $_CLICK"
+
+msgid "%0.3gcm x %0.3gcm"
+msgstr "%0.3gcm x %0.3gcm"
+
+msgid ""
+"%s\n"
+"Object"
+msgstr ""
+"%s\n"
+"Объект"
+
+msgid ""
+"%s\n"
+"Shape"
+msgstr ""
+"Элемент\n"
+"%s"
+
+msgid ""
+"%s\n"
+"System sheet"
+msgstr ""
+"%s\n"
+"Системная категория"
+
+msgid ""
+"%s\n"
+"Unassigned type"
+msgstr ""
+"%s\n"
+"Неназначенный тип"
+
+msgid ""
+"%s\n"
+"User sheet"
+msgstr ""
+"%s\n"
+"Пользовательская категория"
+
+msgid "%s --> %s\n"
+msgstr "%s --> %s\n"
+
+msgid "%s Plugin could not be unloaded"
+msgstr "Не удалось выгрузить модуль %s"
+
+msgid "%s error: don't know how to export into %s\n"
+msgstr "%s ошибка: не известен способ экспорта в %s\n"
+
+msgid "%s error: input and output file name is identical: %s"
+msgstr "%s ошибка: название входного и выходного файлов совпадают: %s"
+
+msgid "%s error: need valid input file %s\n"
+msgstr "%s ошибка: требуется корректный входной файл %s\n"
+
+msgid "%s: you should use object tags rather than shape tags now"
+msgstr "%s: вы должны использовать метки объектов вместо меток фигур"
+
+msgid "%s<illegal characters>..."
+msgstr "%s<некорректный символ>..."
+
+msgid "'%s' creation failed"
+msgstr "Не удалось создать «%s»"
+
+msgid "'if not' (normally closed) ladder contact"
+msgstr "'если не' (нормально закрытый) контакт"
+
+msgid "'if' (normally open) ladder contact"
+msgstr "'если' (нормально открытый) контакт"
+
+msgid "'jump' output variable"
+msgstr "Выходная переменная 'прыжок'"
+
+msgid "'reset' output variable"
+msgstr "Выходная переменная 'сброс'"
+
+msgid "'set' output variable"
+msgstr "Выходная переменная 'установить'"
+
+msgid "/Sort _diagrams"
+msgstr "/Упорядочивать _диаграммы"
+
+msgid "/Sort _diagrams/as _inserted"
+msgstr "/Упорядочивать _диаграммы/как _вставленные"
+
+msgid "/Sort _diagrams/by _name"
+msgstr "/Упорядочивать _диаграммы/по _имени"
+
+msgid "/Sort diagrams/Default/as _inserted"
+msgstr "/Упорядочивать диаграммы/Умолчание/как вставленные"
+
+msgid "/Sort diagrams/Default/by _name"
+msgstr "/Упорядочивать диаграммы/Умолчание/по _имени"
+
+msgid "/Sort diagrams/_Default"
+msgstr "/Упорядочивать _диаграммы/по _умолчанию"
+
+msgid "/Sort objects/All as inserted"
+msgstr "/Упорядочивать объекты/Все как вставлены"
+
+msgid "/Sort objects/All by name"
+msgstr "/Упорядочивать объекты/Все по имени"
+
+msgid "/Sort objects/All by type"
+msgstr "/Упорядочивать объекты/Все по типу"
+
+msgid "/Sort objects/Default/as _inserted"
+msgstr "/Упорядочивать объекты/Умолчание/как вставлены"
+
+msgid "/Sort objects/Default/by _name"
+msgstr "/Упорядочивать объекты/Умолчание/по _имени"
+
+msgid "/Sort objects/Default/by _type"
+msgstr "/Упорядочивать объекты/Умолчание/по типу"
+
+msgid "/Sort objects/_Default"
+msgstr "/Упорядочивать объекты/По _умолчанию"
+
+msgid "/Sort objects/as _inserted"
+msgstr "/Упорядочивать объекты/как _вставленные"
+
+msgid "/Sort objects/by _name"
+msgstr "/Упорядочивать объекты/по _имени"
+
+msgid "/Sort objects/by _type"
+msgstr "/Упорядочивать объекты/по _типу"
+
+msgid "/_Hide this type"
+msgstr "/Скрывать данный тип"
+
+msgid "/_Locate"
+msgstr "/_Расположение"
+
+msgid "/_Properties"
+msgstr "/_Свойства"
+
+msgid "/_Sort objects"
+msgstr "/_Упорядочивать объекты"
+
+msgid "0-or-many"
+msgstr "0-или-много"
+
+msgid "1 exactly"
+msgstr "ровно 1"
+
+msgid "1-or-0"
+msgstr "1-или-0"
+
+msgid "1-or-many"
+msgstr "1-или-много"
+
+msgid "10%"
+msgstr "10%"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "100BaseT Hub"
+msgstr "Повторитель 100BaseT"
+
+msgid "10700"
+msgstr "10700"
+
+msgid "141"
+msgstr "41"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "15200"
+msgstr "15200"
+
+msgid "15800"
+msgstr "15800"
+
+msgid "1600%"
+msgstr "1600%"
+
+msgid "2/2 distributor"
+msgstr "Распределитель 2/2"
+
+msgid "200"
+msgstr "200"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "24 Port Patch Panel"
+msgstr "24-х портовая пач панель"
+
+msgid "25"
+msgstr "25"
+
+msgid "25%"
+msgstr "25%"
+
+msgid "283"
+msgstr "283"
+
+msgid "3 1/2 inch diskette"
+msgstr "3,5\" дискета"
+
+msgid "3/2 distributor"
+msgstr "Распределитель 3/2"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3174 (desktop) cluster controller"
+msgstr "Управление кластером 3174 (рабочее место)"
+
+msgid "35.4"
+msgstr "35.4"
+
+msgid "3X74 (floor) cluster controller"
+msgstr "Управление кластером 3X74 (напольное)"
+
+msgid "4/2 distributor"
+msgstr "Распределитель 4/2"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "5/2 distributor"
+msgstr "Распределитель 5/2"
+
+msgid "50"
+msgstr "50"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "6701"
+msgstr "6701"
+
+msgid "6705"
+msgstr "6705"
+
+msgid "6732"
+msgstr "6732"
+
+msgid "70.7"
+msgstr "70.7"
+
+msgid "75%"
+msgstr "75%"
+
+msgid "7500ARS (7513) Router"
+msgstr "7500ARS (7513) Маршрутизатор"
+
+msgid "7505 Router"
+msgstr "7505 Маршрутизатор"
+
+msgid "7507 Router"
+msgstr "7507 Маршрутизатор"
+
+msgid "800%"
+msgstr "800%"
+
+msgid "85"
+msgstr "85"
+
+msgid "<- Copy"
+msgstr "<- Копировать"
+
+msgid "<- Copy All"
+msgstr "< - Копировать всё"
+
+msgid "<- Move"
+msgstr "<- Переместить"
+
+msgid "<- Move All"
+msgstr "<- Переместить всё"
+
+msgid "<unnamed>"
+msgstr "<без названия>"
+
+msgid "???"
+msgstr "???"
+
+msgid ""
+"@ time    set the pointer at an absolute time.\n"
+"( duration  sets the signal up, then wait 'duration'.\n"
+") duration  sets the signal down, then wait 'duration'.\n"
+"u duration  sets the signal to \"unknown\" state, then wait 'duration'.\n"
+"example : @ 1.0 (2.0)1.0(2.0)\n"
+msgstr ""
+"@ время   устанавливает указатель на абсолютное время.\n"
+"( длительность  включает сигнал и ждёт указанное время.\n"
+") длительность  выключает сигнал и ждёт указанное время.\n"
+"u длительность  устанавливает сигнал в неопределённое состояние и ждёт "
+"указанное время.\n"
+"Пример: @ 1.0 (2.0)1.0(2.0)\n"
+
+msgid "A Jackson designed domain"
+msgstr "Разработанный домен Джексона"
+
+msgid "A Jackson given domain"
+msgstr "Заданный домен Джексона"
+
+msgid "A Jackson machine domain"
+msgstr "Машинный домен по Джексону"
+
+msgid "A Jackson requirement"
+msgstr "Требование по Джексону"
+
+msgid "A Jackson requirement phenomenon"
+msgstr "Требуемое явление Джексона"
+
+msgid "A Jackson shared phenomenon"
+msgstr "Общее явление Джексона"
+
+msgid "A KAOS AND refinement"
+msgstr "Уточнение KAOS И"
+
+msgid "A KAOS OR refinement"
+msgstr "Уточнение KAOS ИЛИ"
+
+msgid "A KAOS agent"
+msgstr "Агент KAOS"
+
+msgid "A KAOS assumption"
+msgstr "Предположение KAOS"
+
+msgid "A KAOS binary conflict"
+msgstr "Бинарный конфликт KAOS"
+
+msgid "A KAOS capable-of"
+msgstr "Возможность KAOS"
+
+msgid "A KAOS complete AND refinement"
+msgstr "Окончательное уточнение И в KAOS"
+
+msgid "A KAOS complete OR refinement"
+msgstr "Окончательное уточнение ИЛИ в KAOS"
+
+msgid "A KAOS contribution"
+msgstr "Вклад KAOS"
+
+msgid "A KAOS control link"
+msgstr "Управляющая связь KAOS"
+
+msgid "A KAOS goal"
+msgstr "Цель KAOS"
+
+msgid "A KAOS input"
+msgstr "Ввод KAOS"
+
+msgid "A KAOS monitor link"
+msgstr "Наблюдающая связь KAOS"
+
+msgid "A KAOS obstacle"
+msgstr "Препятствие KAOS"
+
+msgid "A KAOS obstruction"
+msgstr "Заслон KAOS"
+
+msgid "A KAOS operation"
+msgstr "Операция KAOS"
+
+msgid "A KAOS operationalization"
+msgstr "Сведение к операции KAOS"
+
+msgid "A KAOS output"
+msgstr "Вывод KAOS"
+
+msgid "A KAOS performs"
+msgstr "KAOS выполняет"
+
+msgid "A KAOS requirement"
+msgstr "Требование KAOS"
+
+msgid "A KAOS responsibility"
+msgstr "Ответственность KAOS"
+
+msgid "A KAOS softgoal"
+msgstr "Приблизительная цель в KAOS"
+
+msgid "A program for drawing structured diagrams."
+msgstr "Приложение для рисования структурированных диаграмм."
+
+msgid "AADL"
+msgstr "AADL"
+
+msgid "AADL Shapes"
+msgstr "Объекты AADL"
+
+msgid "AC Generator"
+msgstr "Генератор переменного тока"
+
+msgid "ACL"
+msgstr "Список контроля доступа (ACL)"
+
+msgid "ADM"
+msgstr "ADM"
+
+msgid "AND"
+msgstr "И"
+
+msgid "AND Refinement"
+msgstr "И уточнение"
+
+msgid "AND gate"
+msgstr "Элемент И"
+
+msgid "AND vergent"
+msgstr "И предельное"
+
+msgid "ASIC Processor"
+msgstr "ASIC обработчик"
+
+msgid "ATA"
+msgstr "ATA"
+
+msgid "ATM 3800"
+msgstr "ATM 3800"
+
+msgid "ATM Fast Gigabit Etherswitch"
+msgstr "ATM Быстрый Гигабитный эзернетовский коммутатор (свич)"
+
+msgid "ATM Switch"
+msgstr "Коммутатор ATM"
+
+msgid "ATM Tag Switch Router"
+msgstr "ATM маршрутизатор отметчик коммутатор"
+
+msgid "ATM switch symbol"
+msgstr "Символ коммутатора ATM"
+
+msgid "Absolute end gap"
+msgstr "Пробел абсолютного конца"
+
+msgid "Absolute start gap"
+msgstr "Пробел абсолютного начала"
+
+msgid "Absorb"
+msgstr "Поглощать"
+
+msgid "Abstract"
+msgstr "Абстракция"
+
+msgid "Abstract (?)"
+msgstr "Абстракция (?)"
+
+msgid "Abstract Class"
+msgstr "Абстрактный класс"
+
+msgid "Abstract Classname"
+msgstr "Название абстрактного класса"
+
+msgid "Access Gateway"
+msgstr "Шлюз доступа"
+
+msgid "Access Server"
+msgstr "Сервер Доступа"
+
+msgid "AccessPoint"
+msgstr "Точка доступа"
+
+msgid "Acoustic Energy"
+msgstr "Акустическая энергия"
+
+msgid "Action"
+msgstr "Действие"
+
+msgid "Action being executed"
+msgstr "Действие, которое будет выполнено"
+
+msgid "Action to associate to a step"
+msgstr "Действие ассоциированное с шагом"
+
+msgid "Action to perform when this transition is taken"
+msgstr "Действие во время перехода"
+
+msgid "Active"
+msgstr "Действующий"
+
+msgid "Active object"
+msgstr "Действующий объект"
+
+msgid "Activity"
+msgstr "Активность"
+
+msgid "Activity Looping"
+msgstr "Цикл активностей"
+
+msgid "Activity/Data identifier"
+msgstr "Идентификатор деятельности/данных"
+
+msgid "Activity/data box"
+msgstr "Блок активность/данные"
+
+msgid "Activity/data flow arrow"
+msgstr "Направление потока активности/данных"
+
+msgid "Actor"
+msgstr "Актор"
+
+msgid "Actuate"
+msgstr "Привести в действие"
+
+msgid "Ad-Hoc Collapsed Sub-Process"
+msgstr "Прикрепить свернутый подпроцесс"
+
+msgid "Add"
+msgstr "Добавлять"
+
+msgid "Add Access Provider"
+msgstr "Добавить провайдера доступа"
+
+msgid "Add Access Requirer"
+msgstr "Добавить пользователя доступа"
+
+msgid "Add Connection Point"
+msgstr "Добавить соединительную точку"
+
+msgid "Add Corner"
+msgstr "Добавить уголок"
+
+msgid "Add Handle"
+msgstr "Добавить обработчик"
+
+msgid "Add In Data Port"
+msgstr "Добавить порт входящих данных"
+
+msgid "Add In Event Data Port"
+msgstr "Добавить порт входящих данных и событий"
+
+msgid "Add In Event Port"
+msgstr "Добавить порт входящих событий"
+
+msgid "Add In Out Data Port"
+msgstr "Добавить порт входящих и исходящих данных"
+
+msgid "Add In Out Event Data Port"
+msgstr "Добавить пор входящих и исходящих данных и событий"
+
+msgid "Add In Out Event Port"
+msgstr "Добавить порт входящих и исходящих событий"
+
+msgid "Add Layer"
+msgstr "Добавить слой"
+
+msgid "Add Layer..."
+msgstr "Добавить слой..."
+
+msgid "Add Out Data Port"
+msgstr "Добавить порт исходящих данных"
+
+msgid "Add Out Event Data Port"
+msgstr "Добавить порт исходящих данных и событий"
+
+msgid "Add Out Event Port"
+msgstr "Добавить порт исходящих событий"
+
+msgid "Add Port Group"
+msgstr "Добавить группу портов"
+
+msgid "Add connection point"
+msgstr "Добавить соединительную точку"
+
+msgid "Add connection points"
+msgstr "Добавить соединительные точки"
+
+msgid "Add segment"
+msgstr "Добавить сегмент"
+
+msgid "Adjacent"
+msgstr "Смежные"
+
+msgid "Adjust"
+msgstr "Подбирать"
+
+msgid "Aerator with bubbles"
+msgstr "Аэратор с пузырьками"
+
+msgid "Agent"
+msgstr "Агент"
+
+msgid "Aggregation"
+msgstr "Агрегация"
+
+msgid "Aggregation, one class is part of another"
+msgstr "Агрегирование - один класс является частью другого"
+
+msgid "Air Cooler"
+msgstr "Воздушный охладитель"
+
+msgid "Air action"
+msgstr "Воздействие воздуха"
+
+msgid "Air detection"
+msgstr "Обнаружение воздушного воздействия"
+
+msgid "Air exhaust orifice"
+msgstr "Исходящий поток воздуха"
+
+msgid "Air filter"
+msgstr "Воздушный фильтр"
+
+msgid "Air quality detector"
+msgstr "Датчик состава воздуха"
+
+msgid "Airconditioner"
+msgstr "Кондиционер"
+
+msgid "Alarm center"
+msgstr "Пульт аварийной сигнализации"
+
+msgid "Align"
+msgstr "Выравнивать"
+
+msgid "All"
+msgstr "Все"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "Allow"
+msgstr "Разрешать"
+
+msgid "Allow DOF"
+msgstr "Позволять DOF"
+
+msgid "Alternate external entity"
+msgstr "Другая внешняя сущность"
+
+msgid "Amplify"
+msgstr "Усиливать"
+
+msgid ""
+"An Assorted Collection of Polygons, Beziergons and other Miscellaneous "
+"Geometric Shapes"
+msgstr ""
+"Коллекция различных полигонов, безьегонов и других геометрических фигур"
+
+msgid "An i* agent"
+msgstr "i* агент"
+
+msgid "An i* decomposition link"
+msgstr "i* связь декомпозиции"
+
+msgid "An i* dependency link"
+msgstr "i* зависимость"
+
+msgid "An i* goal"
+msgstr "i* цель"
+
+msgid "An i* means-ends link"
+msgstr "i* ссылка на окончательное значение"
+
+msgid "An i* negative contribution"
+msgstr "i* отрицательный вклад"
+
+msgid "An i* position"
+msgstr "i* позиция"
+
+msgid "An i* positive contribution"
+msgstr "i* положительный вклад"
+
+msgid "An i* resource"
+msgstr "i* ресурс"
+
+msgid "An i* role"
+msgstr "i* роль"
+
+msgid "An i* softgoal"
+msgstr "i* приблизительная цель"
+
+msgid "An i* task"
+msgstr "i* задание"
+
+msgid "An i* unspecified actor"
+msgstr "i* незаданный участник"
+
+msgid "An i* unspecified link"
+msgstr "i* незаданное соединение"
+
+msgid "Androgynous Person"
+msgstr "Личность неизвестного пола"
+
+msgid "Angle to rotate the outline"
+msgstr "Угол вращения контура"
+
+msgid "Antenna"
+msgstr "Антенна"
+
+msgid "Antenna for wireless transmission"
+msgstr "Антенна для беспроводной передачи"
+
+msgid "Antialias:"
+msgstr "_Сглаженный:"
+
+msgid "Arc"
+msgstr "Дуга"
+
+msgid "Arc (upward)"
+msgstr "Дуга (кверху)"
+
+msgid "Architecture Analysis & Design Language diagram objects"
+msgstr "Объекты языка анализа архитектуры и разработки"
+
+msgid "Arrow Properties"
+msgstr "Свойства стрелки"
+
+msgid "Arrow color"
+msgstr "Цвет стрелки"
+
+msgid "Arrow head of type %s has too small dimensions, removing.\n"
+msgstr "Размеры окончания стрелки слишком малы, удаление %s.\n"
+
+msgid "Arrow head of unknown type"
+msgstr "Кончик стрелки неизвестного типа"
+
+msgid "Arrow line width"
+msgstr "Ширина линии стрелки"
+
+msgid ""
+"Arrow style at the beginning of new lines.  Click to pick an arrow, or set "
+"arrow parameters with Details..."
+msgstr ""
+"Стиль стрелки в начале новых линий.  Нажмите для выбора стрелки, или для "
+"установки параметров стрелки в соответствии с настройками по-умолчанию..."
+
+msgid ""
+"Arrow style at the end of new lines.  Click to pick an arrow, or set arrow "
+"parameters with Details..."
+msgstr ""
+"Стиль стрелки в конце новой линии. Нажмите для выбора стрелки, или для "
+"установки параметров стрелки в соответствие с настройками по-умолчанию..."
+
+msgid "Arrows"
+msgstr "Стрелки"
+
+msgid "Aspect"
+msgstr "Вид"
+
+msgid "Aspect ratio"
+msgstr "Отношение сторон"
+
+msgid "Assemble"
+msgstr "Собирать"
+
+msgid "Association, two classes are associated"
+msgstr "Ассоциация - семантические отношения между двумя классами"
+
+msgid "Associative:"
+msgstr "Связанный:"
+
+msgid "Assorted"
+msgstr "Разное"
+
+msgid "Assumption"
+msgstr "Предположение"
+
+msgid "Attach"
+msgstr "Присоединять"
+
+msgid "Attribute"
+msgstr "Атрибут"
+
+msgid "Attribute compound"
+msgstr "Структура атрибута"
+
+msgid "Attribute data"
+msgstr "Данные атрибута"
+
+msgid "Attributes"
+msgstr "Атрибуты"
+
+msgid "Attributes visible"
+msgstr "Видимые атрибуты"
+
+msgid "Author"
+msgstr "Автор"
+
+msgid "Autoclave"
+msgstr "Автоклав"
+
+msgid "Automatic Protection Switching"
+msgstr "Коммутирование с автоматической защитой"
+
+msgid "Automatically gray vertical flows:"
+msgstr "Автоматически выделять вертикальные потоки:"
+
+msgid ""
+"Autosaved files exist.\n"
+"Please select those you wish to recover."
+msgstr ""
+"Автосохранённые файлы существуют.\n"
+"Выберите те, которые вы хотите восстановить."
+
+msgid "Average hardware integrity"
+msgstr "Средняя аппаратная целостность"
+
+msgid "Average software integrity"
+msgstr "Средняя программная целостность"
+
+msgid "Axial Flow Fan"
+msgstr "Вентилятор создающий осесимметричные поток"
+
+msgid "Axial Ventilator"
+msgstr "Осевой вентилятор"
+
+msgid "BBFW"
+msgstr "BBFW"
+
+msgid "BBFW media"
+msgstr "Носитель BBFW"
+
+msgid "BBS"
+msgstr "BBS"
+
+msgid "BBSM"
+msgstr "BBSM"
+
+msgid "BPMN"
+msgstr "BPMN"
+
+msgid "BTS 10200"
+msgstr "BTS 10200"
+
+msgid "Backflow preventer"
+msgstr "Предохранитель обратного потока"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background Color"
+msgstr "Цвет фона"
+
+msgid "Background Color:"
+msgstr "Цвет фона:"
+
+msgid "Backslash"
+msgstr "Обратный слеш"
+
+msgid "Backup"
+msgstr "Дублёр, резерв"
+
+msgid "Badge reader"
+msgstr "Считыватель жетонов"
+
+msgid "Badge reader/keyboard"
+msgstr "Считыватель жетонов/кодовый замок"
+
+msgid "Base Station"
+msgstr "Базовая станция"
+
+msgid "Basic Filter"
+msgstr "Фильтр"
+
+msgid "Basin"
+msgstr "Резервуар"
+
+msgid "Beziergon"
+msgstr "Безье-угольник"
+
+msgid "Bezierline"
+msgstr "Кривая Безье"
+
+msgid "Biddable"
+msgstr "Послушный"
+
+msgid "Bigtower PC"
+msgstr "ПК большая башня"
+
+msgid "Binary DXF from '%s' not supported\n"
+msgstr "Бинарный DXF от «%s» не поддерживается\n"
+
+msgid "Biological"
+msgstr "Биологический"
+
+msgid "Biometric reader"
+msgstr "Биометрический считыватель"
+
+msgid "Bivalent vertical rest"
+msgstr "Двусторонняя вертикальная опора"
+
+msgid "Black light"
+msgstr "Невидимое излучение"
+
+msgid "Blanked Box"
+msgstr "Пустой квадрат"
+
+msgid "Blanked Concave"
+msgstr "Пустую впадину"
+
+msgid "Blanked Dot"
+msgstr "Пустой круг"
+
+msgid "Blend"
+msgstr "Смешивать"
+
+msgid "Blinders"
+msgstr "Боковые экраны антенны"
+
+msgid "Block 1, 2:4"
+msgstr "Блок 1, 2:4"
+
+msgid "Block 2, 2:8"
+msgstr "Блок 2, 2:8"
+
+msgid "Block 3, 4:4"
+msgstr "Блок 3, 4:4"
+
+msgid "Block 4, 4:8"
+msgstr "Блок 4, 4:8"
+
+msgid "Block 5, 3:3"
+msgstr "Блок 5, 3:3"
+
+msgid "Block 6, 4:6"
+msgstr "Блок 6, 4:6"
+
+msgid "Block 7"
+msgstr "Блок 7"
+
+msgid "Block type reference"
+msgstr "Ссылка типа блока"
+
+msgid "Boolean Logic"
+msgstr "Бинарная логика"
+
+msgid "Border width:"
+msgstr "Ширина рамки:"
+
+msgid "Bottom"
+msgstr "Низ"
+
+msgid "Bottom:"
+msgstr "Снизу:"
+
+msgid "Boundary"
+msgstr "Граница"
+
+msgid "Box"
+msgstr "Прямоугольник"
+
+msgid "Branch"
+msgstr "Разветвлять"
+
+msgid "Branch office"
+msgstr "Офис отделения"
+
+msgid "Branch office blue"
+msgstr "Офис отделения синий"
+
+msgid "Branch office subdued"
+msgstr "Офис отделения приглушённый"
+
+msgid "Breakout box"
+msgstr "Разбивающий модуль"
+
+msgid "Bridge"
+msgstr "Мост"
+
+msgid "Bring Forwards"
+msgstr "Переместить ближе"
+
+msgid "Bring to _Front"
+msgstr "Переместить на _передний план"
+
+msgid "Broadband router"
+msgstr "Широковещательный маршрутизатор"
+
+msgid "Browse"
+msgstr "Выбрать..."
+
+msgid "Browse..."
+msgstr "Выбрать..."
+
+msgid "Bus"
+msgstr "Шина"
+
+msgid "Business Process Modeling Notation"
+msgstr "Нотация моделирования бизнес-процессов"
+
+msgid "Business application"
+msgstr "Бизнес-приложение"
+
+msgid "By extension"
+msgstr "По расширению"
+
+msgid "CDDI/FDDI Concentrator"
+msgstr "CDDI/FDDI концентратор"
+
+msgid "CDM Content Distribution Manager"
+msgstr "CDM менеджер раздачи контента"
+
+msgid "CSM-S"
+msgstr "CSM-S"
+
+msgid "CSU/DSU"
+msgstr "CSU/DSU"
+
+msgid "C_lone View"
+msgstr "_Клонировать окно"
+
+msgid "Cable Modem"
+msgstr "Кабельный Модем"
+
+msgid "Cairo EMF"
+msgstr "Файл Cairo WMF"
+
+msgid "Cairo PNG"
+msgstr "Cairo PNG"
+
+msgid "Cairo PNG (with alpha)"
+msgstr "Cairo PNG (с прозрачностью)"
+
+msgid "Cairo Portable Document Format"
+msgstr "Cairo Portable Document Format (PDF)"
+
+msgid "Cairo PostScript"
+msgstr "Cairo PostScript"
+
+msgid "Cairo Scalable Vector Graphics"
+msgstr "Cairo масштабируемая векторная графика (SVG)"
+
+msgid "Cairo WMF"
+msgstr "Cairo WMF"
+
+msgid "Cairo based Rendering"
+msgstr "Отрисовка с использованием Cairo"
+
+msgid "Calculate"
+msgstr "Вычислять"
+
+msgid "Call"
+msgstr "Вызвать"
+
+msgid "CallManager"
+msgstr "Менеджер вызовов"
+
+msgid ""
+"Can not render unknown font:\n"
+"%s"
+msgstr ""
+"Не удалось отобразить неизвестный шрифт:\n"
+"%s"
+
+msgid "Can't connect to session manager!\n"
+msgstr "Не удалось установить соединение с диспетчером сеанса!\n"
+
+msgid ""
+"Can't convert output filename '%s' to locale encoding.\n"
+"Please choose a different name to save with cairo.\n"
+msgstr ""
+"Не удалось сохранить выходной файл '%s' в локальной кодировке.\n"
+"Попробуйте выбрать другое имя для сохранения.\n"
+
+msgid "Can't decode object %s"
+msgstr "Не удалось декодировать объект %s"
+
+msgid "Can't export png icon without export plug-in!"
+msgstr ""
+"Невозможно экспортировать значок в формате png без модуля экспортирования!"
+
+msgid "Can't find output format/filter %s\n"
+msgstr "Не удалось найти выходной формат/фильтр %s\n"
+
+msgid "Can't find parent %s of %s object\n"
+msgstr "Не удалось найти родителей %s объекта %s\n"
+
+msgid "Can't find standard object"
+msgstr "Стандартный объект не найден"
+
+msgid ""
+"Can't get symbol 'custom_type' from any module.\n"
+"Editing shapes is disabled."
+msgstr ""
+"Ни в одном из модулей не найден символ 'custom_type'.\n"
+"Редактирование форм выключено."
+
+msgid "Can't load font %s.\n"
+msgstr "Не удалось загрузить шрифт %s.\n"
+
+msgid "Can't open output file %s: %s\n"
+msgstr "Не удалось открыть выходной файл %s: %s\n"
+
+msgid "Can't rename %s to final output file %s: %s\n"
+msgstr "Не удалось переименовать %s выходной файл из %s в %s\n"
+
+msgid "Can't rotate ellipse\n"
+msgstr "Не удалось повернуть эллипс: %s\n"
+
+msgid "Can't write %d bytes to %s"
+msgstr "Не удалось записать %d байтов в %s"
+
+msgid "Can't write object %u"
+msgstr "Не удалось записать объект %u"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Cannot convert approximated spline yet."
+msgstr "Преобразование аппроксимированный сплайнов пока невозможно."
+
+msgid "Cannot open icon file %s for object type '%s'."
+msgstr "Не удалось открыть файл пиктограммы %s для объекта типа «%s»."
+
+msgid "CapableOf"
+msgstr "Возможность"
+
+msgid "Capture"
+msgstr "Захватывать"
+
+msgid "Car"
+msgstr "Машина"
+
+msgid "Car 1, Front View"
+msgstr "Машина 1, вид спереди"
+
+msgid "Car 2, Rear View"
+msgstr "Машина 2, вид сзади"
+
+msgid "Carrier Routing System"
+msgstr "Система маршрутизации носителя"
+
+msgid "Catalyst Access Gateway"
+msgstr "Шлюз доступа Catalyst"
+
+msgid "Causal"
+msgstr "Казуальный"
+
+msgid "Cell phone"
+msgstr "Сотовый телефон"
+
+msgid "Cellular Phone"
+msgstr "Сотовый телефон"
+
+msgid "Center"
+msgstr "По середине"
+
+msgid "Center mount point"
+msgstr "Точка привязки в центре"
+
+msgid "Center mount point horizontaly"
+msgstr "Точка привязки в центре по горизонтали"
+
+msgid "Center mount point verticaly"
+msgstr "Точка привязки в центре по вертикали"
+
+msgid "Centri Firewall"
+msgstr "Защитный экран Centri"
+
+msgid "Centrifugal Pump or Fan"
+msgstr "Центробежный насос или вентилятор"
+
+msgid "Centrifugal Ventilator"
+msgstr "Центробежный вентилятор"
+
+msgid "Centrifuge"
+msgstr "Центрифуга"
+
+msgid "Change"
+msgstr "Изменять"
+
+msgid "Channel"
+msgstr "Канал"
+
+msgid "Channelized Pipe"
+msgstr "Канальная труба"
+
+msgid "Check"
+msgstr "Контролировать"
+
+msgid "ChemEng"
+msgstr "Химия"
+
+msgid "Chemical"
+msgstr "Химия"
+
+msgid "Chevron"
+msgstr "Шеврон"
+
+msgid "Chronogram"
+msgstr "Хронограмма"
+
+msgid "Chronogram diagram objects"
+msgstr "Объекты диаграммы хронограммы"
+
+msgid "Cipher machine"
+msgstr "Шифровальная машина"
+
+msgid "Circle"
+msgstr "Круг"
+
+msgid "Circuit"
+msgstr "Электрические схемы"
+
+msgid "Circulation pump"
+msgstr "Циркуляционный насос"
+
+msgid "Cisco - Computer"
+msgstr "Cisco - Компьютеры"
+
+msgid "Cisco - Misc"
+msgstr "Cisco - Другие"
+
+msgid "Cisco - Network"
+msgstr "Cisco - Сеть"
+
+msgid "Cisco - Switch"
+msgstr "Cisco - Коммутатор"
+
+msgid "Cisco - Telephony"
+msgstr "Cisco - Телефония"
+
+msgid "Cisco 1000"
+msgstr "Cisco 1000"
+
+msgid "Cisco CA"
+msgstr "Cisco CA"
+
+msgid "Cisco Hub"
+msgstr "Cisco Повторитель"
+
+msgid "CiscoSecurity"
+msgstr "Безопасность Cisco"
+
+msgid "CiscoWorks Man"
+msgstr "CiscoWorks чувак"
+
+msgid "CiscoWorks workstation"
+msgstr "Рабочая станция Cisco"
+
+msgid "Civil"
+msgstr "Гражданское"
+
+msgid "Civil Engineering Components"
+msgstr "Гражданские инженерные компоненты"
+
+msgid "Clarifier or Settling Tank"
+msgstr "Очиститель или отстойник"
+
+msgid "Class"
+msgstr "Класс"
+
+msgid "Class 4/5 switch"
+msgstr "Коммутатор класса 4/5"
+
+msgid "Class Name"
+msgstr "Название класса"
+
+msgid "Class name:"
+msgstr "Название класса:"
+
+msgid "Class scope"
+msgstr "Область видимости класса"
+
+msgid "Class scope (static)"
+msgstr "Видимость класса (static)"
+
+msgid "Class stereotype icon"
+msgstr "Изображение стереотипа класса"
+
+msgid "Classname"
+msgstr "Название класса"
+
+msgid "Clear"
+msgstr "Очищать"
+
+msgid "Clipboard copy failed"
+msgstr "Не удалось скопировать в буфер обмена"
+
+msgid "Close Diagram"
+msgstr "Закрыть диаграмму"
+
+msgid "Closing diagram without saving"
+msgstr "Закрытие диаграммы без сохранения"
+
+msgid "Cloud"
+msgstr "Облако"
+
+msgid "Cloud Dark"
+msgstr "Облако тёмное"
+
+msgid "Cloud Gold"
+msgstr "Облако золотое"
+
+msgid "Cloud White"
+msgstr "Облако белое"
+
+msgid "Coalesce"
+msgstr "Сращивать"
+
+msgid "Collaboration"
+msgstr "Кооперация"
+
+msgid "Collapsed Sub-Process"
+msgstr "Свернутый поддпроцесс"
+
+msgid "Collate"
+msgstr "Сопоставлять"
+
+msgid "Collect"
+msgstr "Собирать"
+
+msgid "Collection for chemical engineering"
+msgstr "Подборка для химического проектирования"
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Color index %d too high, only 512 colors allowed. Using black instead."
+msgstr ""
+"Индекс цвета %d слишком большой. Разрешается использовать только 512 цветов. "
+"Заменяется на чёрный."
+
+msgid "Color number %d out of range 0..%d.  Discarding color.\n"
+msgstr "Цвет с номером %d выходит за границы 0..%d. Отбрасывается.\n"
+
+msgid "Color:"
+msgstr "Цвет:"
+
+msgid "Colors"
+msgstr "Цвета"
+
+msgid "Columns"
+msgstr "Столбцы"
+
+msgid "Combine"
+msgstr "Объединять"
+
+msgid "Comment"
+msgstr "Комментарий"
+
+msgid "Comment line length"
+msgstr "Длина строки комментария"
+
+msgid "Comment tagging"
+msgstr "Пометки комментариев"
+
+msgid "Comment visible"
+msgstr "Видимые комментарии"
+
+msgid "Comment:"
+msgstr "Комментарий:"
+
+msgid "Comments visible"
+msgstr "Видимые комментарии"
+
+msgid "Communication"
+msgstr "Коммуникация"
+
+msgid "Communication interface"
+msgstr "Коммуникационный интерфейс"
+
+msgid "Compact"
+msgstr "Упаковывать"
+
+msgid "Company directory"
+msgstr "Каталог компании"
+
+msgid "Compensation Collapsed Sub-Process"
+msgstr "Компенсированный свернутый подпроцесс"
+
+msgid "Compensation Task"
+msgstr "Компенсация (задача)"
+
+msgid "Complete AND Refinement"
+msgstr "Полное И уточнение"
+
+msgid "Complex"
+msgstr "Сложный"
+
+msgid "Component"
+msgstr "Компонент"
+
+msgid "Components for LADDER circuits"
+msgstr "Компоненты для контактных цепей"
+
+msgid "Components for circuit diagrams"
+msgstr "Компоненты для электрических схем"
+
+msgid "Components for electric circuits"
+msgstr "Компоненты для электрических цепей"
+
+msgid "Components for pneumatic and hydraulic circuits"
+msgstr "Компоненты для пневматических и гидравлических контуров"
+
+msgid "Composition"
+msgstr "Композиция"
+
+msgid "Compound"
+msgstr "Структура"
+
+msgid "Compound end outside compound\n"
+msgstr "Конец соединения вне соединения\n"
+
+msgid "Compress"
+msgstr "Сжимать"
+
+msgid "Compress diagram files"
+msgstr "Сжимать сохраняемые файлы"
+
+msgid "Compress saved files"
+msgstr "Сжимать сохраняемые файлы"
+
+msgid ""
+"Compression reduces file size to less than 1/10th size and speeds up loading "
+"and saving.  Some text programs cannot manipulate compressed files."
+msgstr ""
+"Сжатие уменьшает размер файла почти в 10 раз и ускоряет загрузку и "
+"сохранение. Но некоторые программы для работы с текстом не умеют работать с "
+"такими файлами."
+
+msgid "Compressor or Turbine"
+msgstr "Компрессор или турбина"
+
+msgid "Computer"
+msgstr "Компьютер"
+
+msgid "Computer Graphics Metafile"
+msgstr "Computer Graphics Metafile"
+
+msgid "Computer Graphics Metafile export filter"
+msgstr "Фильтр экспорта файлов Computer Graphics Metafile"
+
+msgid "Computer shapes by Cisco"
+msgstr "Фигуры компьютеров от Cisco "
+
+msgid "Concatenated Payload"
+msgstr "Соединенная нагрузка"
+
+msgid "Condensator"
+msgstr "Конденсатор"
+
+msgid "Condense"
+msgstr "Конденсировать"
+
+msgid "Condition"
+msgstr "Условие"
+
+msgid "Condition (of an action)"
+msgstr "Условие (действия)"
+
+msgid "Condition for taking this transition when the event is fired"
+msgstr "Условие перехода при возникновении события"
+
+msgid "Conduct"
+msgstr "Сопровождать"
+
+msgid "Conduction"
+msgstr "Проводимость"
+
+msgid "Confidential"
+msgstr "Секретный"
+
+msgid "Confirm Diagram Size"
+msgstr "Подтвердить размер диаграммы"
+
+msgid "Conflicts"
+msgstr "Конфликты"
+
+msgid "Connect"
+msgstr "Связывать"
+
+msgid "Connected"
+msgstr "Связанные"
+
+msgid "Connection Points:"
+msgstr "Соединительные точки:"
+
+msgid "Connection point"
+msgstr "Соединительная точка"
+
+msgid "Connector"
+msgstr "Коннектор"
+
+msgid "Constant factor below -1"
+msgstr "Постоянный множитель меньше -1"
+
+msgid "Constant factor between 0 and -1"
+msgstr "Постоянный множитель между 0 и -1"
+
+msgid "Constant factor between 0 and 1"
+msgstr "Постоянный множитель между 0 и 1"
+
+msgid "Constant factor greater 1"
+msgstr "Постоянный множитель больше 1"
+
+msgid "Constant negative shift on the y-axis"
+msgstr "Постоянное отрицательное смещение по Оу"
+
+msgid "Constant positive shift on the y-axis"
+msgstr "Постоянное положительное смещение по Оу"
+
+msgid "Constrain"
+msgstr "Сдерживать"
+
+msgid "Constraint, place a constraint on something"
+msgstr "Ограничение - указывает влияние на что-либо"
+
+msgid "Constraint:"
+msgstr "Ограничение:"
+
+msgid "Contain"
+msgstr "Содержать"
+
+msgid "Container"
+msgstr "Контейнер"
+
+msgid "Content Engine (Cache Director)"
+msgstr "Система управления содержимым (кэширующая)"
+
+msgid "Content Router"
+msgstr "Маршрутизатор содержимого"
+
+msgid "Content Service Module"
+msgstr "Модуль поддержки содержимого"
+
+msgid "Content Service Switch 1100"
+msgstr "Коммутатор поддержки содержимого 1100"
+
+msgid "Content Switch"
+msgstr "Коммутатор содержимого"
+
+msgid "Content Transformation Engine (CTE)"
+msgstr "Система преобразования содержимого (CTE)"
+
+msgid "Contributes"
+msgstr "Вносит вклад"
+
+msgid "Control"
+msgstr "Контролировать"
+
+msgid "Control Magnitude"
+msgstr "Контрольное значение"
+
+msgid "Controls"
+msgstr "Управление"
+
+msgid "Convection"
+msgstr "Конвекция"
+
+msgid "Convert"
+msgstr "Преобразовать"
+
+msgid "Convey"
+msgstr "Преобразовать"
+
+msgid "Cooling / Pollution"
+msgstr "Охлаждение / Загрязнение"
+
+msgid "Copy ->"
+msgstr "Копировать ->"
+
+msgid "Copy All ->"
+msgstr "Копировать всё ->"
+
+msgid "Copy Text"
+msgstr "Копировать текст"
+
+msgid "Copy _Diagram"
+msgstr "Копировать _диаграмму"
+
+msgid "Core Dia files and dlls"
+msgstr "Файлы ядра Dia и библиотеки"
+
+msgid "Corner 1"
+msgstr "Угол 1"
+
+msgid "Corner 2"
+msgstr "Угол 2"
+
+msgid "Corner radius"
+msgstr "Радиус угла"
+
+msgid "Could not create PNG header info structure"
+msgstr "Не удалось создать структуру информационного заголовка PNG"
+
+msgid "Could not create PNG write structure"
+msgstr "Не удалось создать структуру записи PNG"
+
+msgid "Could not create per-user Dia config directory"
+msgstr "Не удалось создать пользовательский каталог конфигурации Dia"
+
+msgid ""
+"Could not create per-user Dia config directory. Please make sure that the "
+"environment variable HOME points to an existing directory."
+msgstr ""
+"Не удалось создать пользовательский каталог настроек Dia. Убедитесь, что "
+"переменная окружения HOME указывает на существующий каталог."
+
+msgid ""
+"Could not determine which export filter\n"
+"to use to save '%s'"
+msgstr ""
+"Не удалось определить какой экспортный\n"
+"фильтр использовать для сохранения «%s»"
+
+msgid "Could not find help directory"
+msgstr "Не удалось найти каталог с файлами помощи"
+
+msgid "Could not initialize Bonobo!"
+msgstr "Не удалось инициализировать Bonobo!"
+
+msgid "Could not interpret shape file: '%s'"
+msgstr "Не удалось обработать файл формы: «%s»"
+
+msgid "Could not open '%s' for writing: %s"
+msgstr "Не удалось открыть «%s» для записи: %s"
+
+msgid ""
+"Could not open `%s'\n"
+"`%s'"
+msgstr ""
+"Не удалось открыть «%s»\n"
+"«%s»"
+
+msgid ""
+"Could not open help directory:\n"
+"%s"
+msgstr ""
+"Не удалось открыть каталог со справкой:\n"
+"%s"
+
+msgid "Could not run command '%s': %s"
+msgstr "Не удалось выполнить команду «%s»: %s"
+
+msgid ""
+"Could not save file:\n"
+"%s\n"
+"%s"
+msgstr ""
+"Не удалось сохранить файл:\n"
+"%s\n"
+"%s"
+
+msgid "Couldn't convert filename '%s' to UTF-8: %s\n"
+msgstr "Не удалось преобразовать имя файла «%s» в UTF-8: %s\n"
+
+msgid "Couldn't find font family for %s\n"
+msgstr "Не удалось найти семейство шрифта для %s\n"
+
+msgid "Couldn't find shape %d\n"
+msgstr "Не удалось найти форму %d\n"
+
+msgid ""
+"Couldn't find standard objects when looking for object-libs in '%s'; "
+"exiting...\n"
+msgstr ""
+"Не удалось найти стандартные объекты при поиске библиотек в «%s»; завершение "
+"работы...\n"
+
+msgid ""
+"Couldn't find standard objects when looking for object-libs; exiting...\n"
+msgstr ""
+"Не удалось найти стандартные объекты при поиске библиотек; завершение "
+"работы...\n"
+
+msgid "Couldn't get GTK settings"
+msgstr "Не удалось получить настройки GTK"
+
+msgid "Couldn't handle foreign object type %s"
+msgstr "Не удалось  обработать сторонний тип объекта %s"
+
+msgid "Couldn't identify FIG object: %s\n"
+msgstr "Не удалось идентифицировать объект FIG: %s\n"
+
+msgid "Couldn't make object dir %s"
+msgstr "Не удалось создать каталог объектов %s"
+
+msgid "Couldn't open '%s' for writing.\n"
+msgstr "Не удалось открыть «%s» для записи.\n"
+
+msgid "Couldn't open '%s': %s"
+msgstr "Не удалось открыть «%s»: %s"
+
+msgid "Couldn't open: '%s' for reading.\n"
+msgstr "Не удалось открыть: «%s» для чтения.\n"
+
+msgid "Couldn't open: '%s' for writing"
+msgstr "Не удалось открыть: «%s» для записи"
+
+msgid "Couldn't open: '%s' for writing.\n"
+msgstr "Не удалось открыть: «%s» для записи.\n"
+
+msgid "Couldn't read arc info: %s\n"
+msgstr "Не удалось прочесть информацию о дуге: %s\n"
+
+msgid "Couldn't read color: %s\n"
+msgstr "Не удалось прочесть цвет: %s\n"
+
+msgid "Couldn't read ellipse info: %s\n"
+msgstr "Не удалось прочесть информацию об эллипсе: %s\n"
+
+msgid "Couldn't read file %s"
+msgstr "Не удалось прочесть файл %s"
+
+msgid "Couldn't read flipped bit: %s\n"
+msgstr "Не удалось прочесть отражённый бит: %s\n"
+
+msgid "Couldn't read group extend: %s\n"
+msgstr "Не удалось прочесть расширитель групп: %s\n"
+
+msgid "Couldn't read polyline info: %s\n"
+msgstr "Не удалось прочесть информацию о ломаной: %s\n"
+
+msgid "Couldn't read spline info: %s\n"
+msgstr "Не удалось прочитать информацию о сплайне: %s\n"
+
+msgid "Couldn't read text info: %s\n"
+msgstr "Не удалось прочесть информацию о тексте: %s\n"
+
+msgid "Couldn't write file %s"
+msgstr "Не удалось записать файл %s"
+
+msgid "Couple"
+msgstr "Соединять"
+
+msgid "Covered tank"
+msgstr "Ёмкость с крышкой"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Creation date"
+msgstr "Дата создания"
+
+msgid "Cross"
+msgstr "Пересечение"
+
+msgid "Crossconnector"
+msgstr "Перекрёстный соединитель"
+
+msgid "Crossroads"
+msgstr "Перекресток"
+
+msgid "Crow Foot"
+msgstr "Куриная лапка"
+
+msgid "Crush"
+msgstr "Раздавливать"
+
+msgid "Current"
+msgstr "Ток"
+
+msgid "Current transducer"
+msgstr "Преобразователь тока"
+
+msgid "Curve distance"
+msgstr "Длина кривой"
+
+msgid "Curved eight point star"
+msgstr "Криволинейная восьмиконечная звезда"
+
+msgid "Curved four point star"
+msgstr "Криволинейная четырёхконечная звезда"
+
+msgid "Cusp control"
+msgstr "Управляющая точка"
+
+msgid "Custom"
+msgstr "Другая"
+
+msgid "Custom XML lines loader"
+msgstr "Загрузчик пользовательских XML-форм"
+
+msgid "Custom XML shapes loader"
+msgstr "Загрузчик пользовательских XML-форм"
+
+msgid "CustomLines"
+msgstr "Объект CustomLines"
+
+msgid "Cut"
+msgstr "Вырезать"
+
+msgid "Cut Text"
+msgstr "Вырезать текст"
+
+msgid "Cybernetics"
+msgstr "Кибернетика"
+
+msgid "Cyclone and hydrocyclone"
+msgstr "Циклон или гидроциклон"
+
+msgid "DIRECTORY"
+msgstr "КАТАЛОГ"
+
+msgid "DSLAM"
+msgstr "DSLAM"
+
+msgid "DWDM Filter"
+msgstr "Фильтр DWDM"
+
+msgid "D_ebug"
+msgstr "_Отладка"
+
+msgid "D_ialogs"
+msgstr "_Диалоги"
+
+msgid "Dampen"
+msgstr "Отсыревать"
+
+msgid "Dash length: "
+msgstr "Длина штриха: "
+
+msgid "Dash-Dot"
+msgstr "Штрих-точка"
+
+msgid "Dash-Dot-Dot"
+msgstr "Штрих-точка-точка"
+
+msgid "Dashed"
+msgstr "Штриховая"
+
+msgid "Data"
+msgstr "Данные"
+
+msgid "Data Center Switch"
+msgstr "Центральный коммутатор данных"
+
+msgid "Data Center Switch Reversed"
+msgstr "Коммутатор Data Center обращенный"
+
+msgid "Data Object"
+msgstr "Объект данных"
+
+msgid "Data Switch Processor"
+msgstr "Обработчик коммутации данных"
+
+msgid "Data color"
+msgstr "Цвет данных"
+
+msgid "Data line"
+msgstr "Строка данных"
+
+msgid "Data line width"
+msgstr "Ширина линии данных"
+
+msgid "Data medium (passive)"
+msgstr "Посредник данных (пассивный)"
+
+msgid "Data name"
+msgstr "Название данных"
+
+msgid "Data source"
+msgstr "Источник данных"
+
+msgid "Data store"
+msgstr "Хранилище данных"
+
+msgid "Data-processing equipment (active)"
+msgstr "Оборудование для обработки данных (активное)"
+
+msgid "Database"
+msgstr "База данных"
+
+msgid "Date: %s"
+msgstr "Дата: %s"
+
+msgid "Day"
+msgstr "День"
+
+msgid "Decision"
+msgstr "Решение"
+
+msgid "Decision maker"
+msgstr "Принимающий решение"
+
+msgid "Declaration"
+msgstr "Определение"
+
+msgid "Decomposition"
+msgstr "Декомпозиция"
+
+msgid "Decrease"
+msgstr "Уменьшать"
+
+msgid "Decrease connection points distance"
+msgstr "Уменьшить расстояние до соединительных точек"
+
+msgid "Def. value:"
+msgstr "Значение по умолчанию:"
+
+msgid "Defaults: "
+msgstr "Параметры по умолчанию: "
+
+msgid "Defense Confidential"
+msgstr "Секретный (оборона)"
+
+msgid "Defense Secret"
+msgstr "Тайна (оборона)"
+
+msgid "Delay"
+msgstr "Задержка"
+
+msgid "Delete Connection Point"
+msgstr "Удалить соединительную точку"
+
+msgid "Delete Corner"
+msgstr "Удалить уголок"
+
+msgid "Delete Handle"
+msgstr "Удалить обработчик"
+
+msgid "Delete Layer"
+msgstr "Удалить слой"
+
+msgid "Delete Port"
+msgstr "Удалить порт"
+
+msgid "Delete connection point"
+msgstr "Удалить соединительную точку"
+
+msgid "Delete segment"
+msgstr "Удалить сегмент"
+
+msgid "Demultiplexer"
+msgstr "Демультиплексор"
+
+msgid "Dependency"
+msgstr "Зависимость"
+
+msgid "Depth %d of of range, only 0-%d allowed.\n"
+msgstr "Глубина %d за границами допустимых значений, только 0-%d возможно.\n"
+
+msgid "Derived:"
+msgstr "Производное:"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "Designed Domain"
+msgstr "Запланированный домен"
+
+msgid "Desktop PC"
+msgstr "Настольный ПК"
+
+msgid "Destroy"
+msgstr "Уничтожить"
+
+msgid "Detach"
+msgstr "Отсоединять"
+
+msgid "Details..."
+msgstr "Подробности..."
+
+msgid "Detector"
+msgstr "Датчик"
+
+msgid "Determine file type:"
+msgstr "Определять тип файла:"
+
+msgid "Developer"
+msgstr "Разработчик"
+
+msgid "Device"
+msgstr "Устройство"
+
+msgid "Dia (remove only)"
+msgstr "Dia (только удаление)"
+
+msgid "Dia Diagram Editor"
+msgstr "Dia — Редактор диаграмм"
+
+msgid "Dia Diagram Editor (required)"
+msgstr "Редактор диаграмм Dia (необходим)"
+
+msgid "Dia Diagram File"
+msgstr "Собственный формат Dia"
+
+msgid "Dia Shape File"
+msgstr "Файл Форм Dia"
+
+msgid "Dia v %s"
+msgstr "Dia версии %s"
+
+msgid "Dia version %s\n"
+msgstr "Версия Dia %s\n"
+
+msgid "Dia version %s, compiled %s %s\n"
+msgstr "Версия Dia %s, скомпилировано %s в %s\n"
+
+msgid "DiaObject"
+msgstr "Объект Dia"
+
+msgid ""
+"DiaObject '%s' needed in sheet '%s' was not found.\n"
+"It will not be available for use."
+msgstr ""
+"Объект DiaObject «%s», нужный на листе «%s» не найден.\n"
+"Он будет недоступен для использования."
+
+msgid "DiaObject:"
+msgstr "Объект Dia:"
+
+msgid "DiaRenderScript"
+msgstr "DiaRenderScript"
+
+msgid "DiaRenderScript filter"
+msgstr "Фильтр DiaRenderScript"
+
+msgid "Diagram Defaults"
+msgstr "Настройки диаграммы по-умолчанию"
+
+msgid "Diagram Editor"
+msgstr "Dia — Редактор диаграмм"
+
+msgid "Diagram Properties"
+msgstr "Свойства диаграммы"
+
+msgid "Diagram Properties: %s"
+msgstr "Свойства диаграммы: %s"
+
+msgid "Diagram Tree"
+msgstr "Дерево диаграммы"
+
+msgid "Diagram menu."
+msgstr "Меню диаграммы."
+
+msgid "Diagram tree window:"
+msgstr "Окно дерева диаграммы"
+
+msgid "Diagram%d.dia"
+msgstr "Диаграмма%d.dia"
+
+msgid "Diagram1.dia"
+msgstr "Диаграмма1.dia"
+
+msgid "Diagram:"
+msgstr "Диаграмма:"
+
+msgid "Diamond"
+msgstr "Ромб"
+
+msgid "Differentiate"
+msgstr "Различать"
+
+msgid "Diffuse"
+msgstr "Распылять"
+
+msgid "Digital Cross-Connect"
+msgstr "Цифровой разветвитель"
+
+msgid "Digital code"
+msgstr "Цифровой код"
+
+msgid "Digitizing board"
+msgstr "Плата оцифровки"
+
+msgid "Dimension Origin"
+msgstr "Первоначальные размеры"
+
+msgid "Direct"
+msgstr "Направлять"
+
+msgid "Direction"
+msgstr "Направление"
+
+msgid "Direction:"
+msgstr "Направление:"
+
+msgid "Director-class Fibre Channel intelligent switch"
+msgstr "Интеллектуальный коммутатор носителя каналов управляющего класса"
+
+msgid "Directory Server"
+msgstr "Сервер каталогов"
+
+msgid "Directory containing input files"
+msgstr "Каталог, содержащий входные файлы"
+
+msgid "Directory containing output files"
+msgstr "Каталог, содержащий выходные файлы"
+
+msgid "Disable"
+msgstr "Отключать"
+
+msgid "Discern"
+msgstr "Различать"
+
+msgid "Discharge"
+msgstr "Разряжать"
+
+msgid "Disconnect"
+msgstr "Отключать"
+
+msgid "Disk subsystem"
+msgstr "Дисковая подсистема"
+
+msgid "Diskette"
+msgstr "Дискета"
+
+msgid "Dispel"
+msgstr "Разгонять"
+
+msgid "Disperse"
+msgstr "Рассеивать"
+
+msgid "Display"
+msgstr "Показывать"
+
+msgid "Display credits list and exit"
+msgstr "Показать список благодарностей и выйти"
+
+msgid "Display version and exit"
+msgstr "Показать версию и выйти"
+
+msgid "Dispose"
+msgstr "Располагать"
+
+msgid "Dissipate"
+msgstr "Расточать"
+
+msgid "Distribute"
+msgstr "Распределять"
+
+msgid "Distributed Director"
+msgstr "Распределённое управление"
+
+msgid "Diverge"
+msgstr "Отклонять"
+
+msgid "Divide"
+msgstr "Разделять"
+
+msgid "Do Not Exit"
+msgstr "Отмена"
+
+msgid "Do action"
+msgstr "Выполнить действие"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Document title"
+msgstr "Заголовок документа"
+
+msgid "Documents"
+msgstr "Документы"
+
+msgid "Doesn't look like a Fig file: %s\n"
+msgstr "Не похоже на файл Fig: %s\n"
+
+msgid "Domain Kind"
+msgstr "Род домена"
+
+msgid "Domain Type"
+msgstr "Тип домена"
+
+msgid "Don't create empty diagram"
+msgstr "Не создавать пустую диаграмму"
+
+msgid "Don't show the splash screen"
+msgstr "Не показывать заставку при запуске"
+
+msgid "Don't show this message again"
+msgstr "Не показывать данное сообщение вновь"
+
+msgid "Dotted"
+msgstr "Точечная"
+
+msgid "Dotted arrow"
+msgstr "Точечная стрелка"
+
+msgid "Double Filled Triangle"
+msgstr "Двойной заполненный треугольник"
+
+msgid "Double Hollow Triangle"
+msgstr "Двойной полый треугольник"
+
+msgid "Double-Pipe Exchanger"
+msgstr "Двутрубный обменник"
+
+msgid "Double-effect jack"
+msgstr "Поршень двойного действия"
+
+msgid "Down arrow"
+msgstr "Стрелка вниз"
+
+msgid "Draw arrow heads on upward arcs:"
+msgstr "Рисовать кончик стрелки на восходящих дугах:"
+
+msgid "Draw background"
+msgstr "Нарисовать фон"
+
+msgid "Draw border"
+msgstr "Нарисовать рамку"
+
+msgid "Draw destruction mark:"
+msgstr "Отобразить метку уничтожения:"
+
+msgid "Draw focus of control:"
+msgstr "Отобразить фокус управления:"
+
+msgid "Drawing Interchange File"
+msgstr "DIF (векторный формат обмена изображениями)"
+
+msgid "Drawing Interchange File import and export filters"
+msgstr "Фильтр экспорта/импорта DIF (Векторный формат обмена изображениями)"
+
+msgid "Drill"
+msgstr "Сверлить"
+
+msgid "Dual Mode AccessPoint"
+msgstr "Двусторонняя точка доступа"
+
+msgid "Dynamic grid"
+msgstr "Динамическая сетка"
+
+msgid "Dynamic grid resizing"
+msgstr "Динамическое изменение шага сетки"
+
+msgid "ER"
+msgstr "ER"
+
+msgid "Edge Label Switch Router"
+msgstr "Угловая метка коммутатора-маршрутизатора"
+
+msgid "Edge Label Switch Router with NetFlow"
+msgstr "Угловая метка коммутатор-маршрутизатора с поддержкой NetFlow"
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Edit Attributes"
+msgstr "Правка атрибутов"
+
+msgid "Edit Layer"
+msgstr "Изменить слой"
+
+msgid "Edit Port Declaration"
+msgstr "Правка определения порта"
+
+msgid "Edit text"
+msgstr "Редактировать текст"
+
+msgid "Edit your Diagrams"
+msgstr "Редактировать ваши диаграммы"
+
+msgid "Editor for Database Table Relation Diagrams"
+msgstr "Редактор диаграмм отношений таблиц БД"
+
+msgid "Editor for Entity Relations Diagrams"
+msgstr "Редактор для диаграмм отношений сущностей (ER)"
+
+msgid "Editor for Function Structure Diagrams."
+msgstr "Редактор для диаграмм функциональной структуры."
+
+msgid "Editor for UML Static Structure Diagrams"
+msgstr "Редактор статических структурных диаграмм UML"
+
+msgid "Eight point star"
+msgstr "Восьмиконечная звезда"
+
+msgid "Eject"
+msgstr "Выкидывать"
+
+msgid "Ejector or Injector"
+msgstr "Эжектор или инжектор"
+
+msgid "Electric"
+msgstr "Электрические схемы"
+
+msgid "Electric command (double coil)"
+msgstr "Электрическая команда (двойная катушка)"
+
+msgid "Electric command (single coil)"
+msgstr "Электрическая команда (одинарная катушка)"
+
+msgid "Electrical"
+msgstr "Электрическая"
+
+msgid "Electricity"
+msgstr "Электричество"
+
+msgid "Electronic medium"
+msgstr "Электронный посредник"
+
+msgid "Electronic messaging"
+msgstr "Электронная передача сообщений"
+
+msgid "Elements of cybernetic circuits"
+msgstr "Компоненты кибернетических цепей"
+
+msgid "Elevated Road"
+msgstr "Надземная дорога"
+
+msgid "Ellipse"
+msgstr "Эллипс"
+
+msgid "Ellipsoidal Reflector Spotlight"
+msgstr "Подсветка элипсоидного отражателя"
+
+msgid "Empty"
+msgstr "Пусто"
+
+msgid "Enable"
+msgstr "Включать"
+
+msgid "Encapsulated Postscript (using Pango fonts)"
+msgstr "Encapsulated PostScript (используя шрифты Pango)"
+
+msgid "Encapsulated Postscript (using PostScript Latin-1 fonts)"
+msgstr "Encapsulated PostScript (используя PostScript-шрифты Latin-1)"
+
+msgid "Encapsulated Postscript with preview (using Pango fonts)"
+msgstr "Encapsulated Postscript с предпросмотром (используя шрифты Pango)"
+
+msgid "End Event"
+msgstr "Конечное событие"
+
+msgid "End Event - Cancel"
+msgstr "Конечное событие - отмена"
+
+msgid "End Event - Compensation"
+msgstr "Конечное событие - компенсация"
+
+msgid "End Event - Error"
+msgstr "Конечное событие - ошибка"
+
+msgid "End Event - Link"
+msgstr "Конечное событие - связь"
+
+msgid "End Event - Message"
+msgstr "Конечное событие - сообщение"
+
+msgid "End Event - Multiple"
+msgstr "Конченое событие - составное"
+
+msgid "End Event - Terminate"
+msgstr "Конечное событие - прервать"
+
+msgid "End Office"
+msgstr "Конечный офис"
+
+msgid "End arrow"
+msgstr "Конечная стрелка"
+
+msgid "End description"
+msgstr "Конечное описание"
+
+msgid "End point"
+msgstr "Конечная точка"
+
+msgid "End time"
+msgstr "Время окончания"
+
+msgid "Energy"
+msgstr "Энергия"
+
+msgid "Energy action"
+msgstr "Энергетическое воздействие"
+
+msgid "Energy detection"
+msgstr "Обнаружение энергетического воздействия"
+
+msgid "Enhanced Meta File"
+msgstr "Улучшенный Meta File"
+
+msgid "Enhanced MetaFile"
+msgstr "Расширенный MetaFile"
+
+msgid "Enthalpy transducer"
+msgstr "Датчик энтальпии (теплосодержания)"
+
+msgid "Entity"
+msgstr "Сущность"
+
+msgid "Entity/Relationship diagram objects"
+msgstr "Объекты диаграммы Сущностей/Отношений"
+
+msgid "Entity/Relationship table diagram objects"
+msgstr "Объекты диаграммы Сущностей/Отношений"
+
+msgid "Entry action"
+msgstr "Начать действие"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error examining %s: %s"
+msgstr "Ошибка при проверке %s: %s"
+
+msgid ""
+"Error loading defaults '%s'.\n"
+"Not a Dia diagram file."
+msgstr ""
+"Ошибка при загрузке умолчаний «%s».\n"
+"Это не файл с диаграммой Dia."
+
+msgid ""
+"Error loading diagram %s.\n"
+"Not a Dia file."
+msgstr ""
+"Ошибка при загрузке диаграммы %s.\n"
+"Это не файл Dia."
+
+msgid ""
+"Error loading diagram %s.\n"
+"Unknown file type."
+msgstr ""
+"Ошибка при загрузке диаграммы %s.\n"
+"Неизвестный тип файла."
+
+msgid ""
+"Error loading diagram.\n"
+"Linked object not found in document."
+msgstr ""
+"Ошибка при загрузке диаграммы.\n"
+"Связанный объект не найден в документе."
+
+msgid ""
+"Error loading diagram.\n"
+"connection handle %d does not exist on '%s'."
+msgstr ""
+"Ошибка при загрузке диаграммы.\n"
+"Дескриптор соединения %d не найден в «%s»."
+
+msgid ""
+"Error loading diagram.\n"
+"connection point %d does not exist on '%s'."
+msgstr ""
+"Ошибка при загрузке диаграммы.\n"
+"Точка соединения %d не существует в «%s»."
+
+msgid ""
+"Error loading diagram:\n"
+"%s.\n"
+"A valid Dia file defines at least one layer."
+msgstr ""
+"Ошибка при загрузке диаграммы:\n"
+"%s.\n"
+"Корректный файл Dia определяет по меньшей мере один слой."
+
+msgid ""
+"Error loading object.\n"
+"Incorrect file type: %s"
+msgstr ""
+"Ошибка при загрузке объекта.\n"
+"Неверный тип файла: %s"
+
+msgid ""
+"Error loading object.\n"
+"Not a Dia file: %s"
+msgstr ""
+"Ошибка при загрузке объекта\n"
+"Это не файл Dia: %s"
+
+msgid ""
+"Error loading object.\n"
+"Not a regular file: %s"
+msgstr ""
+"Ошибка при загрузке объекта.\n"
+"Это не обычный файл: %s"
+
+msgid "Error occurred while writing PNG"
+msgstr "При записи PNG обнаружена ошибка"
+
+msgid "Error parsing bezpoint p1."
+msgstr "Ошибка разбора точки Безье p1."
+
+msgid "Error parsing bezpoint p2."
+msgstr "Ошибка разбора точки Безье p2."
+
+msgid "Error parsing bezpoint p3."
+msgstr "Ошибка разбора точки Безье p3."
+
+msgid "Error parsing point."
+msgstr "Ошибка при обработке точки."
+
+msgid "Error reading FIG file: %s\n"
+msgstr "Ошибка при чтении файла FIG: %s\n"
+
+msgid "Error reading justification: %s\n"
+msgstr "Ошибка при чтении выравнивания: %s\n"
+
+msgid "Error reading magnification: %s\n"
+msgstr "Ошибка при чтении увеличения: %s\n"
+
+msgid "Error reading multipage indicator: %s\n"
+msgstr "Ошибка при чтении многостраничного индикатора: %s\n"
+
+msgid "Error reading paper orientation: %s\n"
+msgstr "Ошибка при чтении ориентации бумаги: %s\n"
+
+msgid "Error reading paper size: %s\n"
+msgstr "Ошибка при чтении размера бумаги: %s\n"
+
+msgid "Error reading resolution: %s\n"
+msgstr "Ошибка при чтении разрешения: %s\n"
+
+msgid "Error reading transparent color: %s\n"
+msgstr "Ошибка при чтении прозрачного цвета: %s\n"
+
+msgid "Error reading units: %s\n"
+msgstr "Ошибка при чтении единиц: %s\n"
+
+msgid "Error while applying stylesheet %s\n"
+msgstr "Ошибка при применении таблицы стилей %s\n"
+
+msgid "Error while applying stylesheet: %s\n"
+msgstr "Ошибка при применении таблицы стилей: %s\n"
+
+msgid "Error while parsing %s\n"
+msgstr "Ошибка при разборе %s\n"
+
+msgid "Error while parsing stylesheet %s\n"
+msgstr "Ошибка при разборе таблицы стилей %s\n"
+
+msgid "Error while parsing stylesheet: %s\n"
+msgstr "Ошибка при обработке таблицы стилей: %s\n"
+
+msgid "Error while reading %dth of %d points: %s\n"
+msgstr "Ошибка при чтении %d-ой из %d точек: %s\n"
+
+msgid "Error while reading arrowhead\n"
+msgstr "Ошибка при чтении файла стрелки\n"
+
+msgid "Error while saving result: %s\n"
+msgstr "Ошибка при записи результата: %s\n"
+
+msgid "Essential Services"
+msgstr "Приоритетные потребители"
+
+msgid "EtherClient"
+msgstr "Клиент локальной сети"
+
+msgid "Ethernet bus"
+msgstr "Шина Ethernet"
+
+msgid "Evaporate"
+msgstr "Выпаривать"
+
+msgid "Event Sink"
+msgstr "Приёмник события"
+
+msgid "Event Source"
+msgstr "Источник событий"
+
+msgid "Event specification"
+msgstr "Спецификация события"
+
+msgid "Events"
+msgstr "События"
+
+msgid "Exclusive (XOR) Data Based"
+msgstr "Исключение (XOR)"
+
+msgid "Exclusive (XOR) Event Based"
+msgstr "Исключение (XOR)"
+
+msgid "Exit Without Save"
+msgstr "Выйти без сохранения"
+
+msgid "Exit action"
+msgstr "Закончить действие"
+
+msgid "Exiting Dia"
+msgstr "Завершение Dia"
+
+msgid "Expected SVG Namespace not found in file"
+msgstr "В файле не найдено ожидаемое пространство имен SVG"
+
+msgid "Explicit state"
+msgstr "Окончательное состояние"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export Diagram"
+msgstr "Экспорт диаграммы"
+
+msgid "Export Options"
+msgstr "Параметры экспорта"
+
+msgid "Export graphics size"
+msgstr "Размер экспортируемой графики"
+
+msgid "Export loaded file and exit"
+msgstr "Экспортировать загруженный файл и выйти"
+
+msgid "Export through XSLT"
+msgstr "Экспортировать через XSLT"
+
+msgid "Expose"
+msgstr "Выставлять"
+
+msgid "External DAT drive"
+msgstr "Внешний привод DAT"
+
+msgid "External entity"
+msgstr "Внешняя сущность"
+
+msgid "External environment"
+msgstr "Внешнее окружение"
+
+msgid "External portal"
+msgstr "Внешний портал"
+
+msgid "Extinguisher"
+msgstr "Огнетушитель"
+
+msgid "Extract"
+msgstr "Извлекать"
+
+msgid "FC Storage"
+msgstr "Хранилище FC"
+
+msgid "FDDI Ring"
+msgstr "Кольцо FDDI"
+
+msgid "FIG format has no equivalent of arrow style %s, using simple arrow.\n"
+msgstr ""
+"Формат FIG не имеет аналога для стиля стрелок %s, используем простую "
+"стрелку.\n"
+
+msgid "FS"
+msgstr "FS"
+
+msgid "Facet"
+msgstr "Грань"
+
+msgid "Factory"
+msgstr "Фабрика (завод)"
+
+msgid "Fall time"
+msgstr "Время падения"
+
+msgid "Fan or Stirrer"
+msgstr "Вентилятор или мешалка"
+
+msgid "Faraday cage"
+msgstr "клетка Фарадея"
+
+msgid "Fasten"
+msgstr "Скреплять"
+
+msgid "Favorites"
+msgstr "Избранное"
+
+msgid "Fax"
+msgstr "Факс"
+
+msgid "Fig Format import and export filter"
+msgstr "Фильтр импорта/экспорта формата Fig"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File Engine"
+msgstr "Система управления файлами"
+
+msgid "File Name"
+msgstr "Название файла"
+
+msgid "File Server"
+msgstr "Файловый сервер"
+
+msgid "File already exists"
+msgstr "Файл уже существует"
+
+msgid "File cabinet"
+msgstr "Картотека"
+
+msgid "File: %s"
+msgstr "Файл: %s"
+
+msgid "File: %s type/version unsupported.\n"
+msgstr "Файл: %s тип или версия не поддерживается.\n"
+
+msgid "Filename conversion failed: %s\n"
+msgstr "Сбой при преобразовании имени файла: %s\n"
+
+msgid "Filename must end with '%s': '%s'"
+msgstr "Название файла должно оканчиваться символами «%s»: «%s»"
+
+msgid "Fill"
+msgstr "Заполнять"
+
+msgid "Fill color"
+msgstr "Цвет заполнения"
+
+msgid "Filled Box"
+msgstr "Заполненный квадрат"
+
+msgid "Filled Concave"
+msgstr "Заполненную впадину"
+
+msgid "Filled Diamond"
+msgstr "Заполненный ромб"
+
+msgid "Filled Dot"
+msgstr "Заполненный круг"
+
+msgid "Filled Dot and Triangle"
+msgstr "Заполнено точками и треугольниками"
+
+msgid "Filled Ellipse"
+msgstr "Заполненный эллипс"
+
+msgid "Filled Triangle"
+msgstr "Заполненный треугольник"
+
+msgid "Filled arc treated as unfilled"
+msgstr "Закрашенная дуга очищена"
+
+msgid "Filter"
+msgstr "Фильтровать"
+
+msgid "Final-settling basin"
+msgstr "Резервуар конечной обработки"
+
+msgid "Find"
+msgstr "Найти"
+
+msgid "Finger"
+msgstr "Палец"
+
+msgid "Fire action"
+msgstr "Воздействие огня"
+
+msgid "Fire detection"
+msgstr "Обнаружение пожара"
+
+msgid "Firewall"
+msgstr "Сетевой защитный экран"
+
+msgid "Firewall Service Module"
+msgstr "Модуль обслуживания защитного экрана"
+
+msgid "Firewall horizontal"
+msgstr "Сетевой экран в горизонтальном ракурсе"
+
+msgid "Firewall router"
+msgstr "Защитный экран маршрутизатора"
+
+msgid "Firewall subdued"
+msgstr "Защитный экран приглушённый"
+
+msgid "First Line"
+msgstr "Первая линия"
+
+msgid "Fit"
+msgstr "Подогнать"
+
+msgid "Fit to:"
+msgstr "Заполнять по:"
+
+msgid "Five point star"
+msgstr "Пятиконечная звезда"
+
+msgid "Fixed"
+msgstr "Фиксированный"
+
+msgid "Fixed aspect"
+msgstr "Фиксированные пропорции"
+
+msgid "Fixed equipment"
+msgstr "Стационарное оборудование"
+
+msgid "Fixed-Sheet Exchanger"
+msgstr "Обменник с фиксированным сведением"
+
+msgid "Flip arms horizontaly"
+msgstr "Отразить плечи горизонтально"
+
+msgid "Flip arms verticaly"
+msgstr "Отразить плечи вертикально"
+
+msgid "Flip horizontal"
+msgstr "Горизонтальное отражение"
+
+msgid "Flip vertical"
+msgstr "Вертикальное отражение"
+
+msgid "Floating-Head or U-Tube Exchanger"
+msgstr "Обменник с плавающей головкой или U-образной трубкой"
+
+msgid "Flow"
+msgstr "Поток"
+
+msgid "Flow label"
+msgstr "Плавающая метка"
+
+msgid "Flow style:"
+msgstr "Стиль потока:"
+
+msgid "Flowchart"
+msgstr "Блок-схема"
+
+msgid "Flowchart objects"
+msgstr "Объекты блок-схемы"
+
+msgid "Fluid Contacting Vessel, simple"
+msgstr "Простой сосуд, для жидкости"
+
+msgid "Folder"
+msgstr "Папка"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font size"
+msgstr "Размер шрифта"
+
+msgid "Font-size unit:"
+msgstr "Единица измерения размера шрифта:"
+
+msgid "Foot"
+msgstr "Нога"
+
+msgid "Footbridge, Pedestrian Bridge"
+msgstr "Пешеходный мостик"
+
+msgid "For: %s"
+msgstr "Для: %s"
+
+msgid "Force"
+msgstr "Сила"
+
+msgid "Forced-Flow Air Cooler"
+msgstr "Охладитель с принужденным воздушным обдувом"
+
+msgid ""
+"Foreground & background colors for new objects.  The small black and white "
+"squares reset colors.  The small arrows swap colors.  Double click to change "
+"colors."
+msgstr ""
+"Цвета переднего плана и фона для новых объектов. Маленькие белый и чёрный "
+"квадратики сбрасывают цвета. Маленькая стрелка меняет их местами. Двойное "
+"нажатие мышкой позволяет выбрать цвет."
+
+msgid "Foreground Color"
+msgstr "Цвет переднего плана"
+
+msgid "Foreground Color:"
+msgstr "Цвет переднего плана:"
+
+msgid "Fork/union"
+msgstr "Ответвление/объединение"
+
+msgid "Form"
+msgstr "Формировать"
+
+msgid "Form Entrance"
+msgstr "Составлять вход"
+
+msgid "Formal parameter data"
+msgstr "Данные формального параметра"
+
+msgid "Four point star"
+msgstr "Четырёхконечная звезда"
+
+msgid "Free"
+msgstr "Свободный"
+
+msgid "Free aspect"
+msgstr "Произвольные пропорции"
+
+msgid "Frequency converter"
+msgstr "Преобразователь частоты"
+
+msgid "Fresel lantern"
+msgstr "Карнас Fresel"
+
+msgid "From A to B"
+msgstr "От А до В"
+
+msgid "From B to A"
+msgstr "От В до А"
+
+msgid "From:"
+msgstr "От:"
+
+msgid "Front End Processor"
+msgstr "Процессор передней панели"
+
+msgid "Full wave rectifier (absolute value)"
+msgstr "Двухполупериодный выпрямитель (абсолютное значение)"
+
+msgid "Fullscr_een"
+msgstr "Развернуть на весь _экран"
+
+msgid "Function"
+msgstr "Функция"
+
+msgid "Function call"
+msgstr "Вызов функции"
+
+msgid "Function header"
+msgstr "Заголовок функции"
+
+msgid "Function structure diagram objects"
+msgstr "Объекты диаграммы функциональной структуры"
+
+msgid "Functional administrator"
+msgstr "Функциональный администратор"
+
+msgid "GRAFCET"
+msgstr "GRAFCET"
+
+msgid "GRAFCET OR/AND vergent"
+msgstr "GRAFCET И/ИЛИ хребет"
+
+msgid "GRAFCET diagram objects"
+msgstr "Объекты диаграммы GRAFCET"
+
+msgid ""
+"GTK+ is not installed. Please use the full installer. It is available from "
+"http://dia-installer.de."
+msgstr ""
+"GTK+ не установлен. Используйте полную программу установки. Она доступна по "
+"адресу http://dia-installer.de."
+
+msgid "Gamma Rays"
+msgstr "Гамма-излучение"
+
+msgid "Gane and Sarson"
+msgstr "Gane и Sarson"
+
+msgid "Gane and Sarson DFD"
+msgstr "Gane и Sarson DFD"
+
+msgid "Gas"
+msgstr "Газ"
+
+msgid "Gas Holder, basic"
+msgstr "Простая ёмкость для газа"
+
+msgid "Gas bottle"
+msgstr "Газовый баллон"
+
+msgid "Gate"
+msgstr "Шлюз"
+
+msgid "Gatekeeper"
+msgstr "Привратник"
+
+msgid "Gateway"
+msgstr "Шлюз"
+
+msgid "General Appliance"
+msgstr "Произвольное устройство"
+
+msgid "Generalization, class inheritance"
+msgstr "Обобщение, наследование класса"
+
+msgid "Generate verbose output"
+msgstr "Создать детальный вывод"
+
+msgid "Generic Building"
+msgstr "Просто строение"
+
+msgid "Generic Building blue"
+msgstr "Просто строение синее"
+
+msgid "Generic Building subdued"
+msgstr "Просто строение приглушённое"
+
+msgid "Generic Gateway"
+msgstr "Просто шлюз"
+
+msgid "Generic Processor"
+msgstr "Просто процессор"
+
+msgid "Generic pressure source"
+msgstr "Общий источник давления"
+
+msgid "Generic softswitch"
+msgstr "Общий программный коммутатор"
+
+msgid "Generic text note"
+msgstr "Текстовая заметка"
+
+msgid "Geographic site"
+msgstr "Географическое местоположение"
+
+msgid "Given Domain"
+msgstr "Заданный домен"
+
+msgid "Glass-break sensor"
+msgstr "Датчик целостности стекла"
+
+msgid "Goal"
+msgstr "Цель"
+
+msgid "Goal Type"
+msgstr "Тип цели"
+
+msgid "Government Building"
+msgstr "Правительственное здание"
+
+msgid "Grid"
+msgstr "Сетка"
+
+msgid "Grid Lines"
+msgstr "Линии сетки"
+
+msgid "Gridline color"
+msgstr "Цвет сетки"
+
+msgid "Gridline width"
+msgstr "Ширина линии сетки"
+
+msgid "Ground point"
+msgstr "Земля"
+
+msgid "Group"
+msgstr "Сгруппировать"
+
+msgid "Group with %d objects"
+msgstr "Сгруппировать с %d объектами"
+
+msgid "Guard"
+msgstr "Хранитель"
+
+msgid "Guide"
+msgstr "Руководить"
+
+msgid "H.323"
+msgstr "H.323"
+
+msgid "HARDWARE"
+msgstr "АППАРАТНОЕ ОБЕСПЕЧЕНИЕ"
+
+msgid "HP Graphics Language"
+msgstr "Графический язык HP"
+
+msgid "HP Graphics Language export filter"
+msgstr "Фильтр экспорта файлов HPGL"
+
+msgid "HP Mini"
+msgstr "HP Мини"
+
+msgid "Half Diamond"
+msgstr "Полуромб"
+
+msgid "Half Head"
+msgstr "Полукруг"
+
+msgid "Half wave rectifier or ramp input"
+msgstr "Однополупериодный выпрямитель"
+
+msgid "Hand"
+msgstr "Рука"
+
+msgid "Handheld"
+msgstr "Карманный ПК"
+
+msgid "Head"
+msgstr "Голова"
+
+msgid "Headphones"
+msgstr "Наушники"
+
+msgid "Heart"
+msgstr "Сердце"
+
+msgid "Heat"
+msgstr "Нагрев"
+
+msgid "Heating/Cooling Coil"
+msgstr "Нагревательный/охлаждающий змеевик"
+
+msgid "Heating/Cooling Coil, vertical"
+msgstr "Вертикальный нагревательный/охлаждающий змеевик"
+
+msgid "Height:"
+msgstr "Высота:"
+
+msgid "Heptagon. Seven sided shape"
+msgstr "Гептагон. Семисторонний многоугольник"
+
+msgid "Hex Size:"
+msgstr "Размер шестигранной сетки:"
+
+msgid "Hex grid"
+msgstr "Шестиугольная сетка"
+
+msgid "Hex grid size"
+msgstr "Размер шестиугольной сетки"
+
+msgid "Hexagon. Six sided shape"
+msgstr "Гексагон. Шестисторонний многоугольник"
+
+msgid "High hardware integrity"
+msgstr "Высокая аппаратная целостность"
+
+msgid "High pass filter"
+msgstr "Фильтр высоких частот"
+
+msgid "High software integrity"
+msgstr "Высокая программная целостность"
+
+msgid "Higher-tier organisation"
+msgstr "Высокоуровневая организация"
+
+msgid "Hold"
+msgstr "Сохранять"
+
+msgid "Hollow Diamond"
+msgstr "Пустотелый ромб"
+
+msgid "Hollow Ellipse"
+msgstr "Полый эллипс"
+
+msgid "Hollow Triangle"
+msgstr "Полый треугольник"
+
+msgid "Home office"
+msgstr "Домашний офис"
+
+msgid "HootPhone"
+msgstr "Аппарат гудков"
+
+msgid "Horizontal jumper"
+msgstr "Горизонтальный переключатель"
+
+msgid "Horizontal limiting line"
+msgstr "Горизонтальная ограничивающая линия"
+
+msgid "Horizontal parallelogram"
+msgstr "Горизонтальный параллелограмм"
+
+msgid "Horizontal rest"
+msgstr "Горизонтальная опора"
+
+msgid "Horizontally aligned LED"
+msgstr "Горизонтально выровненный светодиод"
+
+msgid "Horizontally aligned arrow"
+msgstr "Горизонтально выровненная стрелка"
+
+msgid "Horizontally aligned capacitor"
+msgstr "Горизонтально выровненный конденсатор"
+
+msgid "Horizontally aligned compressor"
+msgstr "Горизонтально ориентированный компрессор"
+
+msgid "Horizontally aligned diode"
+msgstr "Горизонтально выровненный диод"
+
+msgid "Horizontally aligned fuse"
+msgstr "Горизонтально выровненный предохранитель"
+
+msgid "Horizontally aligned inductor"
+msgstr "Горизонтально выровненная индуктивность"
+
+msgid "Horizontally aligned inductor (European)"
+msgstr "Горизонтально выровненная индуктивность (По-европейски)"
+
+msgid "Horizontally aligned powersource"
+msgstr "Горизонтально выровненный источник питания"
+
+msgid "Horizontally aligned pump"
+msgstr "Горизонтально ориентированный насос"
+
+msgid "Horizontally aligned resistor"
+msgstr "Горизонтально выровненный резистор"
+
+msgid "Horizontally aligned resistor (European)"
+msgstr "Горизонтально выровненный резистор (По-европейски)"
+
+msgid "Horizontally aligned valve"
+msgstr "Горизонтально выровненный клапан"
+
+msgid "Horizontally aligned zener diode"
+msgstr "Горизонтально выровненный зенеровский диод"
+
+msgid "Host"
+msgstr "Узел"
+
+msgid "Hour"
+msgstr "Час"
+
+msgid "House"
+msgstr "Дом"
+
+msgid "House blue"
+msgstr "Синий дом"
+
+msgid "Hub"
+msgstr "Повторитель"
+
+msgid "Hub subdued"
+msgstr "Повторитель приглушённый"
+
+msgid "Human"
+msgstr "Человек"
+
+msgid "Human Force"
+msgstr "Человеческая сила"
+
+msgid "Human Motion"
+msgstr "Человеческое перемещение"
+
+msgid "Hydraulic"
+msgstr "Гидравлическая"
+
+msgid "Hydraulic pressure source"
+msgstr "Источник гидравлического давления"
+
+msgid "IAD router"
+msgstr "Маршрутизатор IAD"
+
+msgid "IBM Mini (AS400)"
+msgstr "Миникомпьютер IBM (AS400)"
+
+msgid "IBM Tower"
+msgstr "Компьютер-башня IBM"
+
+msgid "IBM mainframe"
+msgstr "Мэйнфрейм IBM"
+
+msgid "IBM mainframe with FEP"
+msgstr "Мэйнфрейм IBM с FEP"
+
+msgid "ICM"
+msgstr "ICM"
+
+msgid "ICS"
+msgstr "ICS"
+
+msgid "INTERNAL: CustomLines: Illegal line type in LineInfo object %s."
+msgstr "ВНУТРЕННЕЕ: CustomLines: Некорректный тип линии в объекте LineInfo %s."
+
+msgid "INTERNAL: CustomLines: Illegal line type in LineInfo object."
+msgstr "ВНУТРЕННЕЕ: CustomLines: Некорректный тип линии в объекте LineInfo."
+
+msgid "IOS Firewall"
+msgstr "Защитный экран IOS"
+
+msgid "IOS SLB"
+msgstr "IOS SLB"
+
+msgid "IP"
+msgstr "IP"
+
+msgid "IP DSL Switch"
+msgstr "IP DSL коммутатор"
+
+msgid "IP Old-style"
+msgstr "IP по старому стилю"
+
+msgid "IP Phone"
+msgstr "IP-телефон"
+
+msgid "IP Softphone"
+msgstr "Программная телефония на IP"
+
+msgid "IP Telephony Router"
+msgstr "Маршрутизатор IP-телефонии"
+
+msgid "IP Transport Concentrator"
+msgstr "Концентратор транспорта IP"
+
+msgid "IPTV broadcast server"
+msgstr "Широковещательный сервер IPTV"
+
+msgid "IPTV content manager"
+msgstr "Менеджер содержимого IPTV"
+
+msgid "ISDN switch"
+msgstr "ISDN коммутатор"
+
+msgid "ITP"
+msgstr "ITP"
+
+msgid "Identifier"
+msgstr "Идентификатор"
+
+msgid "Identifying:"
+msgstr "Идентификация:"
+
+msgid "Image"
+msgstr "Изображение"
+
+msgid "Image file"
+msgstr "Файл изображения"
+
+msgid "Image height:"
+msgstr "Высота изображения:"
+
+msgid ""
+"Image row length larger than maximum cell array.\n"
+"Image not exported to CGM."
+msgstr ""
+"Длина строки изображения больше чем максимальный массив ячеек.\n"
+"Изображение не экспортировано в CGM."
+
+msgid "Image width:"
+msgstr "Ширина изображения:"
+
+msgid "Implementation"
+msgstr "Реализация"
+
+msgid "Implements, class implements a specific interface"
+msgstr "Реализация, класс реализующий определённый интерфейс"
+
+msgid "Imply resource (not shown downstairs)"
+msgstr "Подразумевать ресурс (не показывать звёздочки)"
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Import resource (not shown upstairs)"
+msgstr "Импорт ресурса (не показывать звёздочки)"
+
+msgid "In"
+msgstr "Ввод"
+
+msgid "In & Out"
+msgstr "Ввод и Вывод"
+
+msgid "In/Out connector"
+msgstr "Входной/Выходной разъём"
+
+msgid "Inclusive (OR)"
+msgstr "Включение (ИЛИ)"
+
+msgid "Incorrect x Point value \"%s\" %f; discarding it."
+msgstr "Неправильное значение точки x «%s» %f; отбрасываем его."
+
+msgid "Incorrect y Point value \"%s\" %f; discarding it."
+msgstr "Неправильное значение точки y «%s» %f; отбрасываем его."
+
+msgid "Increase"
+msgstr "Увеличивать"
+
+msgid "Increase connection points distance"
+msgstr "Увеличить расстояние до соединительных точек"
+
+msgid "Indicate"
+msgstr "Указывать"
+
+msgid "Indirect command by hydraulic driver"
+msgstr "Косвенная команда от гидравлического драйвера"
+
+msgid "Indirect command by pneumatic driver"
+msgstr "Косвенная команда от пневматического драйвера"
+
+msgid "Induced-Flow Air Cooler"
+msgstr "Охладитель с индуцированным воздушным потоком"
+
+msgid "Industrial Confidential"
+msgstr "Секретный (промышленность)"
+
+msgid "Industrie Confidential"
+msgstr "Секретный (промышленность)"
+
+msgid "Infinite Line"
+msgstr "Бесконечная линия"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Information system"
+msgstr "Информационная система"
+
+msgid "Inheritance type"
+msgstr "Тип наследования"
+
+msgid "Inheritance type:"
+msgstr "Тип наследования"
+
+msgid "Inhibit"
+msgstr "Препятствовать"
+
+msgid "Initial step"
+msgstr "Начальный шаг"
+
+msgid "Initial/end state"
+msgstr "Начальное/конечное состояние"
+
+msgid "Initiate"
+msgstr "Инициировать"
+
+msgid "Input"
+msgstr "Вводить"
+
+msgid "Input-directory '%s' must exist!\n"
+msgstr "Входной каталог «%s» должна быть создан!\n"
+
+msgid "Input/Output"
+msgstr "Ввод/Вывод"
+
+msgid "Insulate"
+msgstr "Изолировать"
+
+msgid "Integral Symbol"
+msgstr "Символ интеграла"
+
+msgid "Integrate"
+msgstr "Укрупнять"
+
+msgid "Integrator - input bottom"
+msgstr "Интегратор - вход снизу"
+
+msgid "Integrator - input left"
+msgstr "Интегратор - вход слева"
+
+msgid "Integrator - input right"
+msgstr "Интегратор - вход справа"
+
+msgid "Integrator - input top"
+msgstr "Интегратор - вход сверху"
+
+msgid "IntelliSwitch Stack"
+msgstr "Стэк IntelliSwitch"
+
+msgid "Interface:"
+msgstr "Интерфейс:"
+
+msgid "Intermediate Event"
+msgstr "Промежуточное событие"
+
+msgid "Intermediate Event - Cancel"
+msgstr "Промежуточное событие - отмена"
+
+msgid "Intermediate Event - Compensation"
+msgstr "Промежуточное событие - компенсация"
+
+msgid "Intermediate Event - Error"
+msgstr "Промежуточное событие - ошибка"
+
+msgid "Intermediate Event - Link"
+msgstr "Промежуточное событие - связь"
+
+msgid "Intermediate Event - Message"
+msgstr "Промежуточное событие - сообщение"
+
+msgid "Intermediate Event - Multiple"
+msgstr "Промежуточное событие - составное"
+
+msgid "Intermediate Event - Rule"
+msgstr "Промежуточное событие - правило"
+
+msgid "Intermediate Event - Timer"
+msgstr "Промежуточное событие - таймер"
+
+msgid "Internal error %d writing file %s\n"
+msgstr "Внутренняя ошибка: %d при записи файла %s\n"
+
+msgid "Internal error: Setting corner type of endpoint of bezier"
+msgstr "Внутренняя ошибка: установка типа угла для конечной точки кривой Безье"
+
+msgid "Internal storage"
+msgstr "Внутреннее хранилище"
+
+msgid "Internet access device"
+msgstr "Устройство доступа к Интернету"
+
+msgid "Interrupt"
+msgstr "Прерывать"
+
+msgid "Intersection"
+msgstr "Пересечь"
+
+msgid "Intranet"
+msgstr "Интранет"
+
+msgid "Intrusion action"
+msgstr "Проникновение"
+
+msgid "Intrusion detection"
+msgstr "Обнаружение проникновения (вторжения)"
+
+msgid "Invalid NURBS formula"
+msgstr "Некорректная формула NURBS"
+
+msgid "Invalid option?"
+msgstr "Неверный параметр?"
+
+msgid ""
+"Invalid path data.\n"
+"svg:path data must start with moveto."
+msgstr ""
+"Некорректные данные пути.\n"
+"svg:path должно начинаться с команды moveto."
+
+msgid "Inverse"
+msgstr "Обратить"
+
+msgid "Invert"
+msgstr "Обратить"
+
+msgid "Inverter"
+msgstr "Инвертор"
+
+msgid "Is final"
+msgstr "Окончен"
+
+msgid "Is object"
+msgstr "Является объектом"
+
+msgid "Isoceles triangle"
+msgstr "Равнобедренный треугольник"
+
+msgid "Isometric Directional Map Shapes"
+msgstr "Изометрические шаблоны для карт"
+
+msgid "Istar diagram"
+msgstr "Диаграмма Istar"
+
+msgid "JBOD"
+msgstr "JBOD"
+
+msgid "Jackson diagram"
+msgstr "Диаграмма Джексона"
+
+msgid "Jackson domain"
+msgstr "Домен Джексона"
+
+msgid "Jigsaw"
+msgstr "Пазлы"
+
+msgid "Jigsaw - part_iiii"
+msgstr "Пазл - часть iiii"
+
+msgid "Jigsaw - part_iiio"
+msgstr "Пазл - часть iiio"
+
+msgid "Jigsaw - part_iioi"
+msgstr "Пазл - часть iioi"
+
+msgid "Jigsaw - part_iioo"
+msgstr "Пазл - часть iioo"
+
+msgid "Jigsaw - part_ioii"
+msgstr "Пазл - часть ioii"
+
+msgid "Jigsaw - part_ioio"
+msgstr "Пазл - часть ioio"
+
+msgid "Jigsaw - part_iooi"
+msgstr "Пазл - часть iooi"
+
+msgid "Jigsaw - part_iooo"
+msgstr "Пазл - часть iooo"
+
+msgid "Jigsaw - part_oiii"
+msgstr "Пазл - часть oiii"
+
+msgid "Jigsaw - part_oiio"
+msgstr "Пазл - часть oiio"
+
+msgid "Jigsaw - part_oioi"
+msgstr "Пазл - часть oioi"
+
+msgid "Jigsaw - part_oioo"
+msgstr "Пазл - часть oioo"
+
+msgid "Jigsaw - part_ooii"
+msgstr "Пазл - часть ooii"
+
+msgid "Jigsaw - part_ooio"
+msgstr "Пазл - часть ooio"
+
+msgid "Jigsaw - part_oooi"
+msgstr "Пазл - часть oooi"
+
+msgid "Jigsaw - part_oooo"
+msgstr "Пазл - часть oooo"
+
+msgid "Join"
+msgstr "Подключать"
+
+msgid "KAOS diagram"
+msgstr "Диаграмма KAOS"
+
+msgid "KAOS goal"
+msgstr "Цель KAOS"
+
+msgid "KAOS other"
+msgstr "KAOS иное"
+
+msgid "Keep aspect ratio"
+msgstr "Сохранять пропорции"
+
+msgid "Keep tool box on top of diagram windows"
+msgstr "Сохранять панель инструментов сверху окна диаграммы"
+
+msgid "Kettle Reboiler"
+msgstr "Нагреватель Kettle"
+
+msgid "Key"
+msgstr "Ключ"
+
+msgid "Key:"
+msgstr "Ключ:"
+
+msgid "Kind"
+msgstr "Сорт"
+
+msgid "Knock-out Drum (with demister pad)"
+msgstr "Выбивающий барабан (с подставкой)"
+
+msgid "LAN to LAN"
+msgstr "Сеть-Сеть "
+
+msgid "LAN2LAN Switch"
+msgstr "Коммутатор локальных сетей"
+
+msgid "LAYER,LAYER,..."
+msgstr "СЛОЙ, СЛОЙ,..."
+
+msgid "LaTeX PGF export filter"
+msgstr "Фильтр экспорта в формат LaTeX PGF"
+
+msgid "LaTeX PGF macros"
+msgstr "Макрос LaTeX PGF"
+
+msgid "Label"
+msgstr "Метка, Заголовок"
+
+msgid "Label Switch Router"
+msgstr "Метка коммутатор-маршрутизатор"
+
+msgid "Ladder"
+msgstr "Контактные цепи"
+
+msgid "Lamp"
+msgstr "Лампочка"
+
+msgid "Lamp or indicator light (horizontal)"
+msgstr "Лампа или световой индикатор (горизонтально)"
+
+msgid "Lamp or indicator light (vertical)"
+msgstr "Лампа или световой индикатор (вертикально)"
+
+msgid "Laptop"
+msgstr "Ноутбук"
+
+msgid "Laptop PC"
+msgstr "Переносной компьютер ПК"
+
+msgid "Large extension node"
+msgstr "Узел большого расширения"
+
+msgid "Large package"
+msgstr "Большой пакет"
+
+msgid "Lathe"
+msgstr "Вытачивать"
+
+msgid "Layer 2 Remote Switch"
+msgstr "Удаленный коммутатор второго уровня"
+
+msgid "Layer name:"
+msgstr "Название слоя:"
+
+msgid "Layers"
+msgstr "Слои"
+
+msgid "Layers:"
+msgstr "Слои:"
+
+msgid "Leaf (final)"
+msgstr "Лист (окончание)"
+
+msgid "Left"
+msgstr "Влево"
+
+msgid "Left Cardinality:"
+msgstr "Левая мощность:"
+
+msgid "Left arrow"
+msgstr "Слева влево"
+
+msgid "Left-right arrow"
+msgstr "Стрелка слева направо"
+
+msgid "Left-right-up arrow"
+msgstr "Стрелка слева направо вверх"
+
+msgid "Left-up arrow"
+msgstr "Стрелка слева наверх"
+
+msgid "Left:"
+msgstr "Слева:"
+
+msgid "Length unit:"
+msgstr "Единица измерения длины"
+
+msgid "Level detector"
+msgstr "Датчик уровня"
+
+msgid "Lexical"
+msgstr "Лексический"
+
+msgid "Libart based rendering"
+msgstr "Отрисовка с использованием Libart"
+
+msgid "Lifeline"
+msgstr "Линия жизни"
+
+msgid "Lift"
+msgstr "Поднимать"
+
+msgid "Light detector"
+msgstr "Датчик освещенности"
+
+msgid "Lights"
+msgstr "Источники света"
+
+msgid "Lightweight AP"
+msgstr "Облегчённая точка доступа"
+
+msgid "Limit"
+msgstr "Ограничивать"
+
+msgid "Line"
+msgstr "Линия"
+
+msgid "Line Break"
+msgstr "Разрыв строки"
+
+msgid "Line Style Properties"
+msgstr "Свойства стиля линии"
+
+msgid "Line Width"
+msgstr "Толщина линии"
+
+msgid "Line color"
+msgstr "Цвет линии"
+
+msgid "Line gaps"
+msgstr "Пробелы линии"
+
+msgid "Line style"
+msgstr "Стиль линии"
+
+msgid "Line style %d should not appear\n"
+msgstr "Стиль линии %d не должен появляться\n"
+
+msgid ""
+"Line style for new lines.  Click to pick a line style, or set line style "
+"parameters with Details..."
+msgstr ""
+"Стиль линии для новых линий.  Нажмите для выбора стиля линии, или для "
+"установки свойств линий в соответствии с настройками по-умолчанию..."
+
+msgid "Line width"
+msgstr "Ширина линии"
+
+msgid "Line width:"
+msgstr "Ширина линии:"
+
+msgid ""
+"Line widths.  Click on a line to set the default line width for new "
+"objects.  Double-click to set the line width more precisely."
+msgstr ""
+"Толщина линий.  Нажмите на линию, чтобы установить толщину линии по "
+"умолчанию для новых объектов.  Двойное нажатие устанавливает толщину линии "
+"более точно."
+
+msgid "Lines"
+msgstr "Линии"
+
+msgid "Lines per major line"
+msgstr "Линий на главные линии"
+
+msgid "Liquefy"
+msgstr "Сжижать"
+
+msgid "Liquid"
+msgstr "Жидкость"
+
+msgid "Load at Startup"
+msgstr "Загружать при запуске"
+
+msgid "Loaded"
+msgstr "Загружен"
+
+msgid "Loading ..."
+msgstr "Загрузка..."
+
+msgid "LocalDirector"
+msgstr "Локальный управляющий"
+
+msgid "Locate"
+msgstr "Располагать"
+
+msgid "Location server"
+msgstr "Сервер расположения"
+
+msgid "Lock"
+msgstr "Блокировать"
+
+msgid "Lock and Key"
+msgstr "Ключ и замок"
+
+msgid "Log analysis"
+msgstr "Анализатор логов"
+
+msgid "Log transfer manager or rep agent"
+msgstr "Менеджер переноса журнала или агент архивирования"
+
+msgid "Logic"
+msgstr "Логика"
+
+msgid "Long Straight Road Section"
+msgstr "Длинный прямой участок дороги"
+
+msgid "LongReach CPE"
+msgstr "LongReach CPE"
+
+msgid "Looping Collapsed Sub-Process"
+msgstr "Циклический свернутый подпроцесс"
+
+msgid "Low integrity"
+msgstr "Низкая целостность"
+
+msgid "Low pass filter"
+msgstr "Фильтр нижних частот"
+
+msgid "Lower Layer"
+msgstr "Опустить слой"
+
+msgid "MAS Gateway"
+msgstr "Шлюз MAS"
+
+msgid "MAU"
+msgstr "MAU"
+
+msgid "MCU"
+msgstr "MCU"
+
+msgid "MDU"
+msgstr "MDU"
+
+msgid "ME 1100"
+msgstr "ME 1100"
+
+msgid "MGX 8000 Series Voice Gateway"
+msgstr "Голосовой шлюз серий MGX 8000"
+
+msgid "MGX 8220"
+msgstr "MGX 8220"
+
+msgid "MGX 8240"
+msgstr "MGX 8240"
+
+msgid "MGX 8260"
+msgstr "MGX 8260"
+
+msgid "MSE"
+msgstr "MSE"
+
+msgid "MUX"
+msgstr "MUX"
+
+msgid "Mac Woman"
+msgstr "Женщина, работающая на Макинтоше"
+
+msgid "Machine Domain"
+msgstr "Машинный домен"
+
+msgid "Macintosh"
+msgstr "Макинтош"
+
+msgid "Macro call"
+msgstr "Вызов макроса"
+
+msgid "Macro call step"
+msgstr "Шаг вызова макроса"
+
+msgid "Macro entry step"
+msgstr "Шаг входа в макрос"
+
+msgid "Macro exit step"
+msgstr "Шаг выхода из макроса"
+
+msgid "Macro sub-program call step"
+msgstr "Шаг вызова подпрограммы"
+
+msgid "Magnetic Energy"
+msgstr "Магнитная энергия"
+
+msgid "Magnetic disk"
+msgstr "Магнитный диск"
+
+msgid "Magnetic drum"
+msgstr "Магнитный барабан"
+
+msgid "Magnetic storage"
+msgstr "Хранилище на магнитных носителях"
+
+msgid "Magnetic tape"
+msgstr "Магнитная лента"
+
+msgid "Magnify"
+msgstr "Увеличить"
+
+msgid "Magnify:"
+msgstr "Увеличение:"
+
+msgid "Major time step"
+msgstr "Основной шаг времени"
+
+msgid "Maltese cross"
+msgstr "Мальтийский крест"
+
+msgid "Man"
+msgstr "Человек"
+
+msgid "Man blue"
+msgstr "Человек синего цвета"
+
+msgid "Man gold"
+msgstr "Человек золотого цвета"
+
+msgid "Man red"
+msgstr "Человек красного цвета"
+
+msgid "Manual input"
+msgstr "Ручной ввод"
+
+msgid "Manual operation"
+msgstr "Ручная операция"
+
+msgid "Map, Isometric"
+msgstr "Карта"
+
+msgid "Margins"
+msgstr "Отступы"
+
+msgid "Mark"
+msgstr "Помечать"
+
+msgid "Match _all properties (not just object name)"
+msgstr "Совпадают _все свойства (не только имя объекта)"
+
+msgid "Match _entire word only"
+msgstr "Искать только _полные слова"
+
+msgid "Material"
+msgstr "Материал"
+
+msgid "Means-Ends"
+msgstr "Смысл-конец"
+
+msgid "Measure"
+msgstr "Измерять"
+
+msgid "Measure distance"
+msgstr "Измеряемая дистанция"
+
+msgid "Measurement"
+msgstr "Измерение"
+
+msgid "Mech. Energy"
+msgstr "Механическая энергия"
+
+msgid "Mechanical"
+msgstr "Механическая"
+
+msgid "Mechanical command by spring"
+msgstr "Механическая команда от пружины"
+
+msgid "Mechanical command by tappet"
+msgstr "Механическая команда (от кулачкового механизма)"
+
+msgid "Medical Confidential"
+msgstr "Секретный (медицинская информация)"
+
+msgid "Medium Building"
+msgstr "Среднее строение"
+
+msgid "Medium Building blue"
+msgstr "Среднее строение синее"
+
+msgid "Medium Building subdued"
+msgstr "Среднее строение приглушённое"
+
+msgid "Medium and support"
+msgstr "Посредник и Поддержка"
+
+msgid "Memory"
+msgstr "Память"
+
+msgid "Menace"
+msgstr "Угроза"
+
+msgid "Merge"
+msgstr "Объединять"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Message type:"
+msgstr "Тип сообщения:"
+
+msgid "Message:"
+msgstr "Сообщение:"
+
+msgid "Metro 1500"
+msgstr "Metro 1500"
+
+msgid "MicroWebserver"
+msgstr "Микровебсервер"
+
+msgid "Microphone"
+msgstr "Микрофон"
+
+msgid "Microwaves"
+msgstr "Микроволновая"
+
+msgid "Middle"
+msgstr "Середина"
+
+msgid "Miditower PC"
+msgstr "ПК средняя башня"
+
+msgid "Millisecond"
+msgstr "Миллисекунда"
+
+msgid "Mini VAX"
+msgstr "Mini VAX"
+
+msgid "Minitower PC"
+msgstr "ПК минибашня"
+
+msgid "Minor step line width"
+msgstr "Ширина линии вспомогательного шага"
+
+msgid "Minor time step"
+msgstr "Вспомогательный шаг времени"
+
+msgid "Minute"
+msgstr "Минута"
+
+msgid "Misc"
+msgstr "Разное"
+
+msgid "Miscellaneous Shapes"
+msgstr "Различные формы"
+
+msgid "Miscellaneous objects"
+msgstr "Прочие объекты"
+
+msgid "Miscellaneous shapes by Cisco"
+msgstr "Различные фигуры от Cisco"
+
+msgid "Missing dependencies for '%s'?"
+msgstr "Пропущенные зависимости для «%s»?"
+
+msgid "Missing input: %s\n"
+msgstr "Отсутствует ввод: %s\n"
+
+msgid "Missing symbol 'dia_plugin_init'"
+msgstr "Отсутствует символ 'dia_plugin_init'"
+
+msgid "Mix"
+msgstr "Перемешивать"
+
+msgid "Mixer"
+msgstr "Смеситель"
+
+msgid "MoH server (Music on Hold)"
+msgstr "MoH сервер (музыка во время задержки)"
+
+msgid "Mobile Access IP Phone"
+msgstr "IP телефон мобильного доступа"
+
+msgid "Mobile Access Router"
+msgstr "Маршрутизатор мобильного доступа"
+
+msgid "Mobile equipment"
+msgstr "Переносное оборудование"
+
+msgid "Mobile phone"
+msgstr "Мобильный телефон"
+
+msgid "Mobile telephony base station"
+msgstr "Базовая станция мобильной телефонии"
+
+msgid "Mobile telephony cell"
+msgstr "Сота мобильной связи"
+
+msgid "Modem"
+msgstr "Модем"
+
+msgid "Modification date"
+msgstr "Дата изменения"
+
+msgid ""
+"Modified diagrams exist. Are you sure you want to quit Dia without saving "
+"them?"
+msgstr ""
+"Некоторые диаграммы изменены. Вы уверены, что хотите выйти из Dia без их "
+"сохранения?"
+
+msgid "Modify"
+msgstr "Изменить"
+
+msgid ""
+"Modify object(s)\n"
+"Use <Space> to toggle between this and other tools"
+msgstr ""
+"Изменение объекты\n"
+"Используйте <Пробел> для переключения между инструментами"
+
+msgid "Modular switching system"
+msgstr "Модульная переключающая система"
+
+msgid "Moisture extractor"
+msgstr "Извлекатель влаги"
+
+msgid "Moisture sensor"
+msgstr "Датчик влажности"
+
+msgid "Monitor"
+msgstr "Монитор"
+
+msgid "Monitors"
+msgstr "Наблюдатели"
+
+msgid "More arrows"
+msgstr "Другие стрелки"
+
+msgid "More colors..."
+msgstr "Другие цвета..."
+
+msgid "Motor"
+msgstr "Двигатель"
+
+msgid "Mount"
+msgstr "Подключать"
+
+msgid "Move"
+msgstr "Перемещать"
+
+msgid "Move ->"
+msgstr "Переместить ->"
+
+msgid "Move All ->"
+msgstr "Переместить всё ->"
+
+msgid "Move down"
+msgstr "Переместить вниз"
+
+msgid "Move selection to layer above"
+msgstr "Переместить выделенное на слой выше"
+
+msgid "Move selection to layer below"
+msgstr "Переместить выделенное  на слой ниже"
+
+msgid "Move up"
+msgstr "Перенести вверх"
+
+msgid "MoveTo not at start of Bezier\n"
+msgstr "MoveTo не на старте у Безье\n"
+
+msgid "Movement detector"
+msgstr "Датчик движения"
+
+msgid "Moving head"
+msgstr "Движение вперед"
+
+msgid "Multi-Fabric Server Switch"
+msgstr "Сервер коммутации Multi-Fabric"
+
+msgid "Multi-bit data"
+msgstr "Мультибитные данные"
+
+msgid "MultiSwitch Device"
+msgstr "Устройство множественной коммутации"
+
+msgid "Multilayer Remote Switch"
+msgstr "Многоуровневый удаленный коммутатор"
+
+msgid "Multilayer Switch"
+msgstr "Многоуровневый коммутатор"
+
+msgid "Multilayer Switch with Silicon"
+msgstr "Многоуровневый коммутатор с поддержкой Silicon"
+
+msgid "Multilayer Switch with Silicon subdued"
+msgstr "Многоуровневый коммутатор с поддержкой Silicon приглушённый"
+
+msgid "Multiple Instance Collapsed Sub-Process"
+msgstr "Многоэкземплярный свёрнутый подпроцесс"
+
+msgid "Multiple Instance Task"
+msgstr "Задача со множественными вхождениями"
+
+msgid "Multiple export filters with unique name %s"
+msgstr "Множество фильтров экспорта с уникальным названием %s"
+
+msgid "Multiple instance"
+msgstr "Множественные экземпляры"
+
+msgid "Multiplexer"
+msgstr "Мультиплексор"
+
+msgid "Multiplicity"
+msgstr "Сложность,Множественность"
+
+msgid "Multiply"
+msgstr "Умножать"
+
+msgid "Multivalue:"
+msgstr "Многозначность:"
+
+msgid "Muscular command"
+msgstr "Ручное управление"
+
+msgid "NAND gate"
+msgstr "Элемент И-НЕ"
+
+msgid "NAT"
+msgstr "NAT — трансляция сетевых адресов"
+
+msgid "NATO Confidential"
+msgstr "Секретный (НАТО)"
+
+msgid "NATO Secret"
+msgstr "Тайна (НАТО)"
+
+msgid "NATO Very Secret"
+msgstr "Строго секретно (НАТО)"
+
+msgid "NMOS transistor"
+msgstr "NMOS-транзистор"
+
+msgid "NOR gate"
+msgstr "Элемент ИЛИ-НЕ"
+
+msgid "NOT"
+msgstr "НЕТ"
+
+msgid "NPN bipolar transistor"
+msgstr "npn-транзистор, биполярный"
+
+msgid "NULL tooldata in tool_menu_select"
+msgstr "NULL данные инструмента в tool_menu_select"
+
+msgid "N_ullable"
+msgstr "_Допустим null"
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Negative contrib"
+msgstr "Отрицательный вклад"
+
+msgid "Negative corner radius, negating"
+msgstr "Отрицательный радиус угла, отрицание"
+
+msgid "Negative output variable"
+msgstr "Негативная выходная переменная"
+
+msgid "NetFlow router"
+msgstr "Маршрутизатор NetFlow"
+
+msgid "NetRanger"
+msgstr "NetRanger"
+
+msgid "NetSonar"
+msgstr "NetSonar"
+
+msgid "Network"
+msgstr "Компьютерная сеть"
+
+msgid "Network Management"
+msgstr "Управление сетью"
+
+msgid "Network cloud"
+msgstr "Компьютерная сеть"
+
+msgid "Network diagram objects"
+msgstr "Объекты диаграммы сети"
+
+msgid "Network shapes by Cisco"
+msgstr "Фигуры сетевых устройств от Cisco"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "New Layer"
+msgstr "Создать слой"
+
+msgid "New _View"
+msgstr "Создать _окно"
+
+msgid "New diagram:"
+msgstr "Новая диаграмма:"
+
+msgid "New layer %d"
+msgstr "Новый слой %d"
+
+msgid "New window:"
+msgstr "Новое окно:"
+
+msgid "New-style group object, for testing"
+msgstr "Группирование объектов нового стиля, для тестирования"
+
+msgid "Newton"
+msgstr "Newton"
+
+msgid "Next >"
+msgstr "Далее >"
+
+msgid "No"
+msgstr "Нет"
+
+msgid "No Protection"
+msgstr "Без защиты"
+
+msgid "No anti-aliased renderer found"
+msgstr "Не найден сглаживатель отрисовки"
+
+msgid "No attribute '%s' (%p) or no data(%p) in this attribute"
+msgstr "Свойство «%s» (%p) отсутствует или не содержит (%p) данных"
+
+msgid "No existing object to paste.\n"
+msgstr "Не существует объекта для вставки.\n"
+
+msgid "No integrity"
+msgstr "Нет целостности"
+
+msgid "No more user-definable colors - using black"
+msgstr "Недостаточно цветов, определяемых пользователем - используем чёрный"
+
+msgid "No print plug-in found!"
+msgstr "Не найден модуль для печати!"
+
+msgid "No sheet named %s"
+msgstr "Библиотеки элементов с названием %s не существует"
+
+msgid "No valid configuration files found for the XSLT plugin, not loading."
+msgstr ""
+"Не найдено корректного конфигурационного файла для дополнительного модуля "
+"XSLT, он не будет загружен."
+
+msgid "Node"
+msgstr "Узел"
+
+msgid "Node center"
+msgstr "Центр узлов"
+
+msgid "None"
+msgstr "Нет"
+
+msgid "Normal"
+msgstr "Нормальный"
+
+msgid "Normal:"
+msgstr "Нормальный:"
+
+msgid "Normalize"
+msgstr "Нормализовать"
+
+msgid "Normally closed contact (horizontal)"
+msgstr "Нормально замкнутый контакт (горизонтально)"
+
+msgid "Normally closed contact (vertical)"
+msgstr "Нормально замкнутый контакт (вертикально)"
+
+msgid "Normally closed position switch (horizontal)"
+msgstr "Нормально замкнутый переключатель (горизонтальный)"
+
+msgid "Normally closed position switch (vertical)"
+msgstr "Нормально замкнутый переключатель (вертикальный)"
+
+msgid "Normally open contact (horizontal)"
+msgstr "Нормально разомкнутый контакт (горизонтально)"
+
+msgid "Normally open contact (vertical)"
+msgstr "Нормально разомкнутый контакт (вертикально)"
+
+msgid "Normally open position switch (horizontal)"
+msgstr "Нормально разомкнутый переключатель (горизонтально)"
+
+msgid "Normally open position switch (vertical)"
+msgstr "Нормально разомкнутый переключатель (вертикально)"
+
+msgid "Normally-in simple-effect jack"
+msgstr "Нормально впускающий поршень одиночного действия"
+
+msgid "Normally-out simple-effect jack"
+msgstr "Нормально выпускающий поршень одиночного действия"
+
+msgid "North point"
+msgstr "Северная точка"
+
+msgid "Not allowed to write temporary files in %s\n"
+msgstr "Не удалось записать временный файл в %s\n"
+
+msgid "Not allowed to write to output file %s\n"
+msgstr "Не удалось записать выходной файл %s\n"
+
+msgid "Not valid UTF8"
+msgstr "Некорректный UTF8"
+
+msgid "Notched left arrow"
+msgstr "Зубчатая стрелка влево"
+
+msgid "Notched right arrow"
+msgstr "Зубчатая стрелка вправо"
+
+msgid "Note"
+msgstr "Заметка"
+
+msgid "Nothing selected for saving.  Would you like to try again?"
+msgstr "Не выделено объектов для сохранения. Желаете попробовать еще раз?"
+
+msgid "Nothing to print"
+msgstr "Нет документов для печати"
+
+msgid "Notice"
+msgstr "Заметка"
+
+msgid "Noun"
+msgstr "Существительное"
+
+msgid "Nullable"
+msgstr "Допустим null"
+
+msgid "Number of arms"
+msgstr "Количество плечей:"
+
+msgid "Number of undo levels:"
+msgstr "Число уровней отката:"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "ONS15104"
+msgstr "ONS15104"
+
+msgid "ONS15540"
+msgstr "ONS15540"
+
+msgid "OR"
+msgstr "ИЛИ"
+
+msgid "OR Refinement"
+msgstr "ИЛИ уточнение"
+
+msgid "OR gate"
+msgstr "Элемент ИЛИ"
+
+msgid "OR vergent"
+msgstr "ИЛИ предельное"
+
+msgid "ORGANISATION"
+msgstr "ОРГАНИЗАЦИЯ"
+
+msgid "OUTPUT"
+msgstr "ВЫВОД"
+
+msgid "Object"
+msgstr "Объект"
+
+msgid "Object defaults"
+msgstr "Параметры объекта по умолчанию"
+
+msgid "Object properties"
+msgstr "Свойства объекта"
+
+msgid "Object properties:"
+msgstr "Свойства объекта:"
+
+msgid "Objects and filters internal to dia"
+msgstr "Объекты и фильтры внутри Dia"
+
+msgid "Objects to design GRAFCET charts"
+msgstr "Объекты для разработки диаграмм GRAFCET"
+
+msgid "Objects to design Jackson diagrams"
+msgstr "Объекты для разработки диаграмм Джексона"
+
+msgid "Objects to design KAOS diagrams"
+msgstr "Объекты для разработки KAOS-диаграмм"
+
+msgid "Objects to design SADT diagrams"
+msgstr "Объекты для разработки SADT-диаграмм"
+
+msgid "Objects to design Sybase replication domain diagrams with"
+msgstr "Объекты для разработки диаграмм доменов репликаций Sybase"
+
+msgid "Objects to design chronogram charts"
+msgstr "Объекты для разработки хронограмм"
+
+msgid "Objects to design i* diagrams"
+msgstr "Объекты для разработки i*-диаграмм"
+
+msgid "Objects to design network diagrams with"
+msgstr "Объекты для разработки сетевых диаграмм"
+
+msgid "Objects to design simple lighting plots"
+msgstr "Объекты для разработки простых световых диаграмм"
+
+msgid "Objects to design sissi diagrams"
+msgstr "Объекты для разработки диаграмм sissi"
+
+msgid "Objects to draw flowcharts"
+msgstr "Объекты рисования диаграмм"
+
+msgid "Obstacle"
+msgstr "Препятствие"
+
+msgid "Obstructs"
+msgstr "Заслоняет"
+
+msgid "Octel"
+msgstr "Octel"
+
+msgid "Octogon. Eight sided shape"
+msgstr "Октогон. Восьмисторонний многогранник"
+
+msgid "Off page connector"
+msgstr "Внестраничный соединитель"
+
+msgid "Offline storage"
+msgstr "Внешний накопитель"
+
+msgid "Ok"
+msgstr "OK"
+
+msgid "One Way Road Sign"
+msgstr "Дорожный знак указывающий направление движения"
+
+msgid "Open Diagram"
+msgstr "Открыть диаграмму"
+
+msgid "Open Options"
+msgstr "Параметры открытия"
+
+msgid "Open Round"
+msgstr "Раскрытый полукруг"
+
+msgid "Open Tank"
+msgstr "Открытая ёмкость"
+
+msgid "Open group"
+msgstr "Открыть группу"
+
+msgid "Operating System"
+msgstr "Операционная система"
+
+msgid "Operation data"
+msgstr "Данные операции"
+
+msgid "Operational amplifier"
+msgstr "Операционный усилитель"
+
+msgid "Operationalization"
+msgstr "Сведение к операции"
+
+msgid "Operations"
+msgstr "Операции"
+
+msgid "Operations visible"
+msgstr "Видимые операции"
+
+msgid "Operator / Maintenance"
+msgstr "Оператор / Сопровождение"
+
+msgid "Optical Amplifier"
+msgstr "Оптический усилитель"
+
+msgid "Optical Cross-Connect"
+msgstr "Оптический разветвитель"
+
+msgid "Optical Energy"
+msgstr "Оптическая энергия"
+
+msgid "Optical Fiber"
+msgstr "Оптическая линия"
+
+msgid "Optical Services Router"
+msgstr "Маршрутизатор оптического транспорта"
+
+msgid "Optical Transport"
+msgstr "Оптический транспорт"
+
+msgid "Optional kind which appears in the lower right corner of the Domain"
+msgstr "Дополнительный род который располагается в нижнем правом углу домена"
+
+msgid "Optional translations of the Dia user interface"
+msgstr "Дополнительные переводы интерфейса Dia"
+
+msgid "Or"
+msgstr "Или"
+
+msgid "Orient"
+msgstr "Ориентировать"
+
+msgid "Orientation"
+msgstr "Ориентация"
+
+msgid "Orthogonal polyline flow"
+msgstr "Ортогональный многолинейный поток"
+
+msgid "Other fonts"
+msgstr "Другие шрифты"
+
+msgid "Other media"
+msgstr "Другие средства информации"
+
+msgid "Other properties"
+msgstr "Другие свойства"
+
+msgid "Other sheets"
+msgstr "Другие библиотеки элементов"
+
+msgid "Out"
+msgstr "Вывод"
+
+msgid "Outline"
+msgstr "Эскиз"
+
+msgid "Output"
+msgstr "Вывод"
+
+msgid "Output-directory '%s' must exist!\n"
+msgstr "Выходной каталог «%s» должен быть создан!\n"
+
+msgid "P Action"
+msgstr "Действие P"
+
+msgid "P Detection"
+msgstr "Определение P"
+
+msgid "PAD"
+msgstr "PAD"
+
+msgid "PAR"
+msgstr "РЛС"
+
+msgid "PAR on the floor"
+msgstr "РЛС.."
+
+msgid "PBX"
+msgstr "PBX"
+
+msgid "PBX Switch"
+msgstr "Коммутатор PBX"
+
+msgid "PC"
+msgstr "ПК"
+
+msgid "PC Adapter Card"
+msgstr "Плата адаптера для ПК"
+
+msgid "PC Card"
+msgstr "Плата для ПК"
+
+msgid "PC Man"
+msgstr "Человек за персональным компьютером"
+
+msgid "PC Man left"
+msgstr "Человек за персональным компьютером (левый)"
+
+msgid "PC Router Card"
+msgstr "Плата маршрутизатора для ПК"
+
+msgid "PC Software"
+msgstr "Программное обеспечение для ПК"
+
+msgid "PC Video"
+msgstr "ПК Видео"
+
+msgid "PC with Router-Based Software"
+msgstr "ПК с софтовым роутером"
+
+msgid "PDA"
+msgstr "КПК"
+
+msgid "PIX Firewall"
+msgstr "Защитный экран PIX"
+
+msgid "PIX Firewall Left"
+msgstr "Защитный экран PIX левый"
+
+msgid "PMOS transistor"
+msgstr "PMOS-транзистор"
+
+msgid "PNG (anti-aliased)"
+msgstr "PNG (_Сглаженный)"
+
+msgid "PNG Export Options"
+msgstr "Параметры экспорта PNG"
+
+msgid "PNP bipolar transistor"
+msgstr "npn-транзистор, биполярный"
+
+msgid "PXF"
+msgstr "PXF"
+
+msgid "Pack"
+msgstr "Упаковывать"
+
+msgid "Package"
+msgstr "Пакет"
+
+msgid "Packaged software or standard software"
+msgstr "Коробочное ПО или стандартное ПО"
+
+msgid "Page Breaks"
+msgstr "Границы страниц"
+
+msgid "Page Set_up..."
+msgstr "Настр_ойка страницы..."
+
+msgid "Page Setup"
+msgstr "Настройка страницы"
+
+msgid "Page breaks:"
+msgstr "Границы страниц:"
+
+msgid "Pager"
+msgstr "Пейджер"
+
+msgid "Paper Size"
+msgstr "Размер бумаги"
+
+msgid "Paper storage"
+msgstr "Хранилище печатных документов"
+
+msgid "Paper type:"
+msgstr "Тип листа:"
+
+msgid "Parallel (AND)"
+msgstr "Параллельный (AND)"
+
+msgid "Parameter data"
+msgstr "Данные параметра"
+
+msgid "Parameters"
+msgstr "Параметры"
+
+msgid "Parameters:"
+msgstr "Параметры:"
+
+msgid "Participation"
+msgstr "Участие"
+
+msgid "Passive or active relay"
+msgstr "Пассивная или активная смена"
+
+msgid "Paste _Text"
+msgstr "В_ставить текст"
+
+msgid "Path"
+msgstr "Путь"
+
+msgid "Patterns are not supported by Dia"
+msgstr "Шаблоны не поддерживаются Dia"
+
+msgid "Pebble Convex lantern"
+msgstr "Каркас Pebble Convex"
+
+msgid "Pentagon block arrow"
+msgstr "Пятиугольный блок в виде стрелки"
+
+msgid "Pentagon. Five sided shape"
+msgstr "Гептагон. Семисторонний многогранник"
+
+msgid "Perceive"
+msgstr "Воспринимать"
+
+msgid "Percolate"
+msgstr "Процеживать"
+
+msgid "Perfect circle"
+msgstr "Точный круг"
+
+msgid "Perfect square, height equals width"
+msgstr "Точный квадрат, высота равна ширине"
+
+msgid "Performs"
+msgstr "Производит"
+
+msgid "Peripheral processing"
+msgstr "Обработка данных переферийным оборудованием"
+
+msgid "Person"
+msgstr "Персона"
+
+msgid "Personal"
+msgstr "Персональный"
+
+msgid "Personal Confidential"
+msgstr "Секретный (частная информация)"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Phone 2"
+msgstr "Телефон 2"
+
+msgid "Phone Appliance"
+msgstr "Устройство телефона"
+
+msgid "Phone Ethernet"
+msgstr "Сеть телефона"
+
+msgid "Phone Feature"
+msgstr "Дополнение телефона"
+
+msgid "Phone/Fax"
+msgstr "Телефон/Факс"
+
+msgid "Pieces of a jigsaw"
+msgstr "Кусочки пазлов"
+
+msgid "Pierce"
+msgstr "Пронзать"
+
+msgid "Places"
+msgstr "Места"
+
+msgid "Plate Exchanger"
+msgstr "Пластинчатый обменник"
+
+msgid "Please export the diagram as a shape."
+msgstr "Экспортируйте диаграмму как форму(шаблон)."
+
+msgid ""
+"Please remove old Dia installations completely or install Dia to a different "
+"location."
+msgstr ""
+"Полностью удалите старые установки Dia или установите Dia в другое место."
+
+msgid "Plotter"
+msgstr "Плоттер"
+
+msgid "Plug-ins"
+msgstr "Модули"
+
+msgid "Plugins..."
+msgstr "Модули..."
+
+msgid "Pneumatic"
+msgstr "Пневматическая"
+
+msgid "Pneumatic Line"
+msgstr "Пневматическая линия"
+
+msgid "Pneumatic Line, vertical"
+msgstr "Вертикальная пневматическая линия"
+
+msgid "Pneumatic pressure source"
+msgstr "Источник пневматического давления"
+
+msgid "Pneumatic/Hydraulic"
+msgstr "Пневматика/Гидравлика"
+
+msgid "Polish"
+msgstr "Полировать"
+
+msgid "Polygon"
+msgstr "Многоугольник"
+
+msgid "Polyline"
+msgstr "Ломаная"
+
+msgid "Polymorphic"
+msgstr "Полиморфный"
+
+msgid "Polymorphic (virtual)"
+msgstr "Полиморфный (виртуальный)"
+
+msgid "Pops up the Navigation window."
+msgstr "Открыть окно навигации."
+
+msgid "Portable Network Graphics"
+msgstr "Переносимая сетевая графика (PNG)"
+
+msgid "Portrait"
+msgstr "Портрет"
+
+msgid "Position"
+msgstr "Помещать"
+
+msgid "Positive Displacement Rotary Pump or Compressor"
+msgstr "Вращательный насос или компрессор положительного смещения"
+
+msgid "Positive contrib"
+msgstr "Положительный вклад"
+
+msgid "PostScript"
+msgstr "PostScript"
+
+msgid "Postscript Rendering"
+msgstr "Отрисовка Postscript"
+
+msgid "Power"
+msgstr "Мощность, Сила"
+
+msgid "Power transducer"
+msgstr "Силовой преобразователь"
+
+msgid "Power-saved 'reset' output variable"
+msgstr "Выходная переменная энергосберегающего 'сброса'"
+
+msgid "Power-saved 'set' output variable"
+msgstr "Выходная переменная энергосберегающего 'установить'"
+
+msgid "Power-saved negative output variable"
+msgstr "Энергосберегающая выходная переменная отрицания"
+
+msgid "Power-saved simple output variable"
+msgstr "Энергосберегающая выходная переменная"
+
+msgid "Precision"
+msgstr "Точность"
+
+msgid "Predefined process"
+msgstr "Предопределённые процессы"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Preliminary clarification tank"
+msgstr "Резервуар предварительной очистки"
+
+msgid "Premature end of FIG file\n"
+msgstr "Неожиданный конец файла FIG\n"
+
+msgid "Premises"
+msgstr "Площади, недвижимость"
+
+msgid "Preparation"
+msgstr "Подготовка"
+
+msgid "Pressure"
+msgstr "Давление"
+
+msgid "Pressure Relief Valve"
+msgstr "Клапан сброса давления"
+
+msgid "Pressure transducer"
+msgstr "Датчик давления"
+
+msgid "Prevent"
+msgstr "Предотвращать"
+
+msgid "Primary key"
+msgstr "Первичный ключ"
+
+msgid "Print (GDI) ..."
+msgstr "Печать (GDI)..."
+
+msgid "Print (GTK) ..."
+msgstr "Печать (GTK)..."
+
+msgid "Print (PS)"
+msgstr "Печать (PS)"
+
+msgid "Printer"
+msgstr "Принтер"
+
+msgid "Printing error: command '%s' caused sigpipe."
+msgstr "Ошибка печати: команда «%s» вызвала сигнал sigpipe."
+
+msgid "Printing error: command '%s' returned %d\n"
+msgstr "Ошибка печати: команда «%s» возвратила %d\n"
+
+msgid "Printing with Gtk+(cairo) requires at least version 2.10."
+msgstr "Печать требует Gtk+(cairo) версии 2.10 и выше."
+
+msgid "Private"
+msgstr "Частный"
+
+msgid "Procedure return"
+msgstr "Процедуры возврата"
+
+msgid "Process"
+msgstr "Обрабатывать"
+
+msgid "Process type reference"
+msgstr "Ссылка типа процесса"
+
+msgid "Process/Auxiliary Operation"
+msgstr "Блок выполнения арифметических операций"
+
+msgid "Processor"
+msgstr "Процессор"
+
+msgid "Product"
+msgstr "Продукт"
+
+msgid "Programmable Switch"
+msgstr "Программируемый коммутатор"
+
+msgid "Programmed DiaObject"
+msgstr "Запрограммированный объект Dia"
+
+msgid "Project or system organisation"
+msgstr "Проектная или системная организация"
+
+msgid "Properties..."
+msgstr "Свойства..."
+
+msgid "Properties: "
+msgstr "Свойства:"
+
+msgid "Property cast from int to enum out of range"
+msgstr "Преобразование типа свойства с int на enum дало ошибку «вне диапазона»"
+
+msgid "Protect"
+msgstr "Защищать"
+
+msgid "Protected"
+msgstr "Защищённый"
+
+msgid "Protocol Translator"
+msgstr "Преобразователь протокола"
+
+msgid "Provide"
+msgstr "Предоставлять"
+
+msgid "Provision"
+msgstr "Обеспечивать"
+
+msgid "Public"
+msgstr "Публичный"
+
+msgid "Pump"
+msgstr "Насос"
+
+msgid "Punched card"
+msgstr "Перфокарта"
+
+msgid "Punched tape"
+msgstr "Перфолента"
+
+msgid "Purify"
+msgstr "Очищать"
+
+msgid "Push-button command"
+msgstr "Нажатие клавиши"
+
+msgid "Python plug-in"
+msgstr "Модуль для Python"
+
+msgid "Python scripting support"
+msgstr "Поддержка скриптов Python"
+
+msgid "Quad arrow"
+msgstr "Четверная стрелка"
+
+msgid "Quarter circle"
+msgstr "Четверть круга"
+
+msgid "Quarter moon"
+msgstr "Четверть луны"
+
+msgid "Query"
+msgstr "Запрос"
+
+msgid "Query (const)"
+msgstr "Запрос (const)"
+
+msgid "Quit Dia"
+msgstr "Выйти из Dia"
+
+msgid "Quitting without saving modified diagrams"
+msgstr "Завершение работы без сохранения изменённых диаграмм"
+
+msgid "RE-Jackson"
+msgstr "RE-Джексона"
+
+msgid "RE-KAOS"
+msgstr "RE-KAOS"
+
+msgid "RE-i*"
+msgstr "RE-i*"
+
+msgid "RJ45 wall-plug"
+msgstr "Штекер Rj45"
+
+msgid "RPS"
+msgstr "RPS"
+
+msgid "Radiation"
+msgstr "Излучение"
+
+msgid "Radio Tower"
+msgstr "Радиовышка"
+
+msgid "Radio waves"
+msgstr "Радиоволновая"
+
+msgid "Radioactive"
+msgstr "Радиоактивная"
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Raise Layer"
+msgstr "Поднять слой"
+
+msgid "Random Motion"
+msgstr "Случайное движение"
+
+msgid "RateMUX"
+msgstr "RateMUX"
+
+msgid "Reactor or Absorption Vessel, simple"
+msgstr "Упрощённый реактор или абсорбционный сосуд"
+
+msgid "Realizes, implements a specific interface"
+msgstr "Реализация - класс, реализующий определённый интерфейс"
+
+msgid "Receive"
+msgstr "Принимать"
+
+msgid "Receive message"
+msgstr "Получить сообщение"
+
+msgid "Recent documents list size:"
+msgstr "Размер списка последних документов:"
+
+msgid "Receptacle"
+msgstr "Контейнер"
+
+msgid "Receptivity"
+msgstr "Восприимчивость:"
+
+msgid "Receptivity output variable"
+msgstr "Восприимчивая выходная переменная"
+
+msgid "Reciprocating Compressor or Pump"
+msgstr "Поршневой компрессор или насос"
+
+msgid "Recognize"
+msgstr "Распознавать"
+
+msgid "Recovering autosaved diagrams"
+msgstr "Восстановление автосохранённых диаграмм"
+
+msgid "Rectify"
+msgstr "Исправлять"
+
+msgid "Recursive"
+msgstr "Рекурсивный"
+
+msgid "Reduce"
+msgstr "Ослаблять"
+
+msgid "Reference"
+msgstr "Ссылка"
+
+msgid "Reference line"
+msgstr "Базовая линия"
+
+msgid "Refine"
+msgstr "Облагораживать"
+
+msgid "Regulable Valve"
+msgstr "Регулируемый клапан"
+
+msgid "Regulable Valve, vertical"
+msgstr "Регулируемый клапан, вертикальный"
+
+msgid "Regular step"
+msgstr "Обычный шаг"
+
+msgid "Regulate"
+msgstr "Регулировать"
+
+msgid "Relational Database"
+msgstr "Реляционная база данных"
+
+msgid "Relationship"
+msgstr "Отношение"
+
+msgid "Relay (horizontal)"
+msgstr "Реле (горизонтальное)"
+
+msgid "Relay (vertical)"
+msgstr "Реле (вертикальное)"
+
+msgid "Relay characteristic (sigma)"
+msgstr "Характеристика реле (сигма)"
+
+msgid "Release"
+msgstr "Выпускать"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove connection points"
+msgstr "Удалить соединительные точки"
+
+msgid "Rename Layer..."
+msgstr "Переименовать слой..."
+
+msgid "Renderer transformation"
+msgstr "Компенсационное преобразование"
+
+msgid "Repeater"
+msgstr "Повторитель"
+
+msgid "Replace"
+msgstr "Заменить"
+
+msgid "Replace _All"
+msgstr "Заменить _все"
+
+msgid "Replace _with:"
+msgstr "Заменить _на:"
+
+msgid "Replenish"
+msgstr "Пополнять"
+
+msgid "Replication server manager"
+msgstr "Менеджер сервера репликаций"
+
+msgid "Represent"
+msgstr "Предоставлять"
+
+msgid "Requirement"
+msgstr "Требование"
+
+msgid "Reserve"
+msgstr "Запасать"
+
+msgid "Reset menu"
+msgstr "Прочитать по новой меню"
+
+msgid "Reset tools after create"
+msgstr "Сбрасывать инструменты после создания"
+
+msgid "Resist"
+msgstr "Сопротивляться"
+
+msgid "Resizable grid"
+msgstr "Масшатабируемая сетка"
+
+msgid "Resource"
+msgstr "Ресурс"
+
+msgid "Responsibility"
+msgstr "Ответственность"
+
+msgid "Restricted Diffusion"
+msgstr "Ограниченное распространение"
+
+msgid "Return"
+msgstr "Возврат"
+
+msgid ""
+"Reverse dragging selects\n"
+"intersecting objects"
+msgstr ""
+"Обратное перетягивание выделяет\n"
+"пересекающиеся объекты"
+
+msgid "Revert"
+msgstr "Обратить"
+
+msgid "Revolving door"
+msgstr "Вращающаяся дверь"
+
+msgid "Right"
+msgstr "Вправо"
+
+msgid "Right Cardinality:"
+msgstr "Правая мощность:"
+
+msgid "Right angle triangle"
+msgstr "Прямоугольный треугольник"
+
+msgid "Right arrow"
+msgstr "Стрелка направо"
+
+msgid "Right:"
+msgstr "Справа:"
+
+msgid "Rise time"
+msgstr "Время подъёма"
+
+msgid "River"
+msgstr "Река"
+
+msgid "Road Section"
+msgstr "Участок дороги"
+
+msgid "Role"
+msgstr "Роль"
+
+msgid "Roof1"
+msgstr "Крыша 1"
+
+msgid "Room"
+msgstr "Комната"
+
+msgid "Rotate"
+msgstr "Вращать"
+
+msgid "Rotate:"
+msgstr "Вращать:"
+
+msgid "Rotation"
+msgstr "Вращение"
+
+msgid "Rotational Energy"
+msgstr "Энергия вращения"
+
+msgid "Rotor"
+msgstr "Ротор"
+
+msgid "Round"
+msgstr "Полукруг"
+
+msgid "Route Switch Processor"
+msgstr "Обработчик переключения маршрутизации"
+
+msgid "Route Switch Processor with Si"
+msgstr "Обработчик переключения маршрутизации с поддержкой Si"
+
+msgid "Router"
+msgstr "Маршрутизатор"
+
+msgid "Router and switch shapes by Cisco"
+msgstr "Фигуры маршрутизатора и коммутатора от Cisco"
+
+msgid "Router subdued"
+msgstr "Маршрутизатор приглушённый"
+
+msgid "Router symbol"
+msgstr "Символ маршрутизатора"
+
+msgid "Router with Firewall"
+msgstr "Маршрутизатор с защитным сетевым экраном"
+
+msgid "Router with Silicon Switch"
+msgstr "Маршрутизатор с коммутатором Silicon"
+
+msgid "Rows"
+msgstr "Строки"
+
+msgid "Running man"
+msgstr "Бегущий человек"
+
+msgid "Running man subdued"
+msgstr "Бегущий человек приглушённый"
+
+msgid "Running woman"
+msgstr "Бегущая женщина"
+
+msgid "SADT Arrow"
+msgstr "SADT стрелка"
+
+msgid "SADT box"
+msgstr "Ячейка SADT"
+
+msgid "SADT diagram objects"
+msgstr "Объекты диаграммы SADT"
+
+msgid "SADT/IDEF0"
+msgstr "SADT/IDEF0"
+
+msgid "SC2200 (Signalling Controller)"
+msgstr "SC2200 (Сигнальный Контроллер)"
+
+msgid "SC2200/VSC3000 host"
+msgstr "Узел SC2200/VSC3000"
+
+msgid "SDL"
+msgstr "SDL"
+
+msgid "SIP Proxy Server"
+msgstr "Прокси-сервер SIP"
+
+msgid "SISSI diagram"
+msgstr "Диаграмма SISSI"
+
+msgid "SITE"
+msgstr "МЕСТОПОЛОЖЕНИЕ"
+
+msgid "SONET MUX"
+msgstr "Переключатель SONET"
+
+msgid "SSI Responsible"
+msgstr "Ответственный SSI"
+
+msgid "SSI administrator"
+msgstr "Администратор SSI"
+
+msgid "SSL Terminator"
+msgstr "Терминал SSL"
+
+msgid "STB (set top box)"
+msgstr "STB (модуль установки)"
+
+msgid "STP"
+msgstr "STP"
+
+msgid "SUN workstation"
+msgstr "Рабочая станция SUN"
+
+msgid "SVG Shape"
+msgstr "Формы SVG"
+
+msgid "SVG Shape:"
+msgstr "Формы SVG:"
+
+msgid "SYSTEM"
+msgstr "СИСТЕМА"
+
+msgid "Safe"
+msgstr "Сейф"
+
+msgid "Same Type"
+msgstr "Того же типа"
+
+msgid "Sand"
+msgstr "Чистить песком"
+
+msgid "Satellite"
+msgstr "Спутник"
+
+msgid "Satellite dish"
+msgstr "Спутник тарелка"
+
+msgid "Saturation characteristic"
+msgstr "Характеристика насыщенности"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save Diagram"
+msgstr "Сохранить диаграмму"
+
+msgid "Save Selected"
+msgstr "Сохранить выделенное"
+
+msgid "Save hidden object types"
+msgstr "Сохранять типы спрятанных объектов"
+
+msgid "Save state"
+msgstr "Сохранить состояние"
+
+msgid "Scalable Vector Graphics"
+msgstr "Масштабируемая векторная графика (SVG)"
+
+msgid "Scalable Vector Graphics import and export filters"
+msgstr "Фильтры импорта и экспорта масштабируемой векторной графики(SVG)"
+
+msgid "Scale"
+msgstr "Масштабировать"
+
+msgid "Scale of the subshapes"
+msgstr "Маштаб подформ"
+
+msgid "Scale:"
+msgstr "Масштаб:"
+
+msgid "Scaling"
+msgstr "Масштабирование"
+
+msgid "Scanner"
+msgstr "Сканер"
+
+msgid "Scatter"
+msgstr "Разбрасывать"
+
+msgid "Scroll"
+msgstr "Перемещать"
+
+msgid "Scroll around the diagram"
+msgstr "Перемещаться по диаграмме"
+
+msgid "Sealed Tank"
+msgstr "Запаянный сосуд"
+
+msgid "Second"
+msgstr "Секунда"
+
+msgid "Seconds arrow color"
+msgstr "Цвет секундной стрелки"
+
+msgid "Seconds arrow line width"
+msgstr "Ширина линии секундной стрелки"
+
+msgid "Secret"
+msgstr "Тайна"
+
+msgid "Secret special country"
+msgstr "Тайна (указанная страна)"
+
+msgid "Sectors"
+msgstr "Секторы"
+
+msgid "Secure"
+msgstr "Защищать"
+
+msgid "Security appliance"
+msgstr "Устройство безопасности"
+
+msgid "Security area"
+msgstr "Охраняемая зона"
+
+msgid "Select All"
+msgstr "Выделить всё"
+
+msgid "Select By"
+msgstr "Выделить по"
+
+msgid "Select None"
+msgstr "Ничего не выбрать"
+
+msgid "Select Printer"
+msgstr "Выбрать принтер"
+
+msgid "Select SVG Shape File"
+msgstr "Выберите файл с формой SVG"
+
+msgid "Select background color"
+msgstr "Выберите цвет фона"
+
+msgid "Select color"
+msgstr "Выбор цвета"
+
+msgid "Select foreground color"
+msgstr "Выберите цвет переднего плана"
+
+msgid "Select image file"
+msgstr "Выбрать файл изображения"
+
+msgid "Select the filter/format out of: %s"
+msgstr "Выделить фильтр/формат из: %s"
+
+msgid "Selected '%s'"
+msgstr "Выделено «%s»"
+
+msgid "Selection"
+msgstr "Выделение"
+
+msgid "Selection of %d object"
+msgid_plural "Selection of %d objects"
+msgstr[0] "Выделение %d объекта"
+msgstr[1] "Выделение %d объектов"
+msgstr[2] "Выделение %d объектов"
+
+msgid "Send"
+msgstr "Послать"
+
+msgid "Send Backwards"
+msgstr "Переместить дальше"
+
+msgid "Send error messages to stderr instead of showing dialogs."
+msgstr ""
+"Выводить сообщения об ошибках на стандартный вывод ошибок вместо вывода "
+"диалоговых окон."
+
+msgid "Send message"
+msgstr "Послать сообщение"
+
+msgid "Send to _Back"
+msgstr "Переместить на _задний план"
+
+msgid "Sense"
+msgstr "Ощущать"
+
+msgid "Sensor - bottom"
+msgstr "Датчик - снизу"
+
+msgid "Sensor - left"
+msgstr "Датчик - слева"
+
+msgid "Sensor - right"
+msgstr "Датчик - справа"
+
+msgid "Sensor - top"
+msgstr "Датчик - сверху"
+
+msgid "Sensor beam"
+msgstr "Датчик"
+
+msgid "Separate"
+msgstr "Отделять"
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Server Switch"
+msgstr "Сервер с маршрутизатором"
+
+msgid "Server with PC Router"
+msgstr "Сервер с маршрутизатором на ПК"
+
+msgid "Service - maintenance or administration software"
+msgstr "Сервис - поддержка или ПО для администрирования"
+
+msgid "Service Control"
+msgstr "Обслуживающая точка"
+
+msgid "Service type reference"
+msgstr "Ссылка на тип сервиса"
+
+msgid "Set default connection points distance"
+msgstr "Установить расстояние до соединительных точек по умолчанию"
+
+msgid "Seven point star"
+msgstr "Семиконечная звезда"
+
+msgid "Shape"
+msgstr "Придавать форму"
+
+msgid "Shape files must end in .shape, or they cannot be loaded by Dia"
+msgstr ""
+"Файлы форм должны иметь расширения .shape. В противном случае они не могут "
+"быть загружены Dia"
+
+msgid "Shared"
+msgstr "Разделяемый"
+
+msgid "Sharp eight point star"
+msgstr "Фигура восьмиконечной звезды"
+
+msgid "Shear angle"
+msgstr "Угол смещения"
+
+msgid "Sheet"
+msgstr "Категория"
+
+msgid "Sheet must have a Name"
+msgstr "Категория должна иметь название"
+
+msgid "Sheet name:"
+msgstr "Название категории:"
+
+msgid "Sheet:"
+msgstr "Категория:"
+
+msgid "Sheets and Objects"
+msgstr "Категории и объекты"
+
+msgid "Sheets and Objects..."
+msgstr "Категории и объекты..."
+
+msgid "Shield"
+msgstr "Экранировать"
+
+msgid "Show Comments"
+msgstr "Показать комментарии"
+
+msgid "Show Layers"
+msgstr "Показать слои"
+
+msgid "Show Statusbar"
+msgstr "Показать Строку состояния"
+
+msgid "Show Toolbar"
+msgstr "Показывать Панель инструментов"
+
+msgid "Show _Connection Points"
+msgstr "Показывать _соединительные точки"
+
+msgid "Show _Grid"
+msgstr "Показывать _сетку"
+
+msgid "Show _Rulers"
+msgstr "Показывать _линейки"
+
+msgid "Show arrow"
+msgstr "Показать стрелку"
+
+msgid "Show arrow:"
+msgstr "Показать стрелку:"
+
+msgid "Show attributes"
+msgstr "Показать атрибуты"
+
+msgid "Show comments"
+msgstr "Показать комментарии"
+
+msgid "Show direction"
+msgstr "Показать направление"
+
+msgid "Show documentation tag"
+msgstr "Показывать метки документации"
+
+msgid "Show hours"
+msgstr "Показывать часы"
+
+msgid ""
+"Show only specified layers (e.g. when exporting). Can be either the layer "
+"name or a range of layer numbers (X-Y)"
+msgstr ""
+"Показать только те слои, которые были выбраны для экспортирования. "
+"Значениеможет быть именем слоя или интервалом номеров (от-до)"
+
+msgid "Show repeated messages"
+msgstr "Показывать повторяющиеся сообщения"
+
+msgid "Show the small arrow denoting the reading direction"
+msgstr "Показать стрелкой направление чтения"
+
+msgid "Shows a red dot to figure the step's activity"
+msgstr "Показывает красную точку для отображения активности шага"
+
+msgid "Side A"
+msgstr "Сторона A"
+
+msgid "Side B"
+msgstr "Сторона B"
+
+msgid "Sigmoid characteristic"
+msgstr "Характеристика sigmoid"
+
+msgid "Signal"
+msgstr "Сигнал"
+
+msgid "Simple"
+msgstr "Простой"
+
+msgid "Simple Furnace"
+msgstr "Печка"
+
+msgid "Simple Heat Exchanger"
+msgstr "Упрощённый теплообменник"
+
+msgid "Simple Heat Exchanger, vertical"
+msgstr "Горизонтальный теплообменник"
+
+msgid "Simple Vessel"
+msgstr "Простой сосуд"
+
+msgid "Simple buffer"
+msgstr "Простой буфер"
+
+msgid "Simple modem"
+msgstr "Простой модем"
+
+msgid "Simple output variable"
+msgstr "Простая выходная переменная"
+
+msgid "Simple printer"
+msgstr "Простой принтер"
+
+msgid "Sine characteristic or input"
+msgstr "Синусоидальная характеристика или вход"
+
+msgid "Sitting Woman"
+msgstr "Сидящая женщина"
+
+msgid "Sitting Woman right"
+msgstr "Сидящая женщина (в право)"
+
+msgid "Six point star"
+msgstr "Шестиконечная звезда"
+
+msgid "Size"
+msgstr "Размер"
+
+msgid "Size: "
+msgstr "Размер: "
+
+msgid "Slashed"
+msgstr "Заштрихованный"
+
+msgid "Slashed Cross"
+msgstr "Косой крест"
+
+msgid "Small Business"
+msgstr "Малый бизнес"
+
+msgid "Small Hub"
+msgstr "Маленький повторитель"
+
+msgid "Small extension node"
+msgstr "Узел малого расширения"
+
+msgid "Small package"
+msgstr "Маленький пакет"
+
+msgid "Smoke detector"
+msgstr "Датчик дыма"
+
+msgid "Smooth control"
+msgstr "Гладкая точка"
+
+msgid "Snap To _Objects"
+msgstr "_Выравнивать по объекту"
+
+msgid "Snap to"
+msgstr "Выравнивать по"
+
+msgid "Snap to object"
+msgstr "Привязать к объекту"
+
+msgid "Softgoal"
+msgstr "Приблизительная цель"
+
+msgid "Softphone"
+msgstr "Программный телефон"
+
+msgid "Software"
+msgstr "Программное обеспечение"
+
+msgid "Software-Based Router on File Server"
+msgstr "Софтовый роутер или Файловый сервер"
+
+msgid "Soil"
+msgstr "Почва"
+
+msgid "Solar Energy"
+msgstr "Солнечная энергия"
+
+msgid "Solid"
+msgstr "Сплошная"
+
+msgid "Solid lines"
+msgstr "Сплошные линии"
+
+msgid "Solidify"
+msgstr "Отвердевать"
+
+msgid ""
+"Some characters in the filename are neither UTF-8\n"
+"nor your local encoding.\n"
+"Some things will break."
+msgstr ""
+"Некоторые символы в названии файла не в UTF-8 и не в вашей локальной "
+"кодировке.\n"
+"Это может привести к сбою, а также имя файла, возможно, будет отображаться "
+"некорректно."
+
+msgid "Sort"
+msgstr "Упорядочить"
+
+msgid "South point"
+msgstr "Южная точка"
+
+msgid "Spacing"
+msgstr "Интервал"
+
+msgid "Speaker"
+msgstr "Динамик"
+
+msgid "Speaker with integrated amplifier"
+msgstr "Колонки со встроенным усилителем"
+
+msgid "Speaker without amplifier"
+msgstr "Колонки без усилителя"
+
+msgid "Special Country Confidential"
+msgstr "Секретный (указанная страна)"
+
+msgid "Specific business application"
+msgstr "Специальное бизнес-приложение"
+
+msgid "Specification and Description Language."
+msgstr "Язык описаний и детализаций (SDL)"
+
+msgid "Spin"
+msgstr "Крутить"
+
+msgid "Spray Drier"
+msgstr "Распыляющая сушилка"
+
+msgid "Spraying Device"
+msgstr "Распылитель"
+
+msgid "Spread Out Horizontally"
+msgstr "Распределить горизонтально"
+
+msgid "Spread Out Vertically"
+msgstr "Распределить вертикально"
+
+msgid "Square"
+msgstr "Квадрат"
+
+msgid "Stabilize"
+msgstr "Стабилизировать"
+
+msgid "Stable storage device"
+msgstr "Стабильное устройство хранения"
+
+msgid "Stackable hub or switch"
+msgstr "Наращиваемый концентратор или коммутатор"
+
+msgid "Stacked"
+msgstr "Вложенные"
+
+msgid "Standard business application"
+msgstr "Стандартное бизнес-приложение"
+
+msgid "Standard objects"
+msgstr "Стандартные объекты"
+
+msgid "Standing Man"
+msgstr "Стоящий человек"
+
+msgid "Standing woman"
+msgstr "Стоящая женщина"
+
+msgid "Start"
+msgstr "Начать"
+
+msgid "Start Event"
+msgstr "Начальное событие"
+
+msgid "Start Event - Link"
+msgstr "Начальное событие - связь"
+
+msgid "Start Event - Message"
+msgstr "Начальное событие - сообщение"
+
+msgid "Start Event - Multiple"
+msgstr "Начальнаое событие - составное"
+
+msgid "Start Event - Rule"
+msgstr "Начальное событие - правило"
+
+msgid "Start Event - Timer"
+msgstr "Начальное событие - таймер"
+
+msgid "Start arrow"
+msgstr "Начальная стрелка"
+
+msgid "Start description"
+msgstr "Первичное описание"
+
+msgid "Start integrated user interface (diagrams in tabs)"
+msgstr ""
+"Запустить интегрированный интерфейс пользователя (диаграммы во вкладках)"
+
+msgid "Start point"
+msgstr "Начальная точка:"
+
+msgid "Start time"
+msgstr "Время начала"
+
+msgid "State"
+msgstr "Состояние"
+
+msgid "Status"
+msgstr "Состояние"
+
+msgid "Steady"
+msgstr "Остепенять"
+
+msgid "Steer"
+msgstr "Управлять"
+
+msgid "Step name"
+msgstr "Название шага"
+
+msgid "Step type"
+msgstr "Тип шага"
+
+msgid "Stereotype"
+msgstr "Стереотип"
+
+msgid "Stereotype:"
+msgstr "Стереотип:"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Storage"
+msgstr "Хранилище"
+
+msgid "Storage Router"
+msgstr "Маршрутизатор хранилища"
+
+msgid "Storage Solution Engine"
+msgstr "Решение по хранению данных"
+
+msgid "Storage Sphere"
+msgstr "Сферический накопитель"
+
+msgid "Storage array"
+msgstr "Массив данных"
+
+msgid "Store"
+msgstr "Хранить"
+
+msgid "Straighten"
+msgstr "Выправлять"
+
+msgid "Strain"
+msgstr "Натягивать"
+
+msgid "Striplight"
+msgstr "Узконаправленный свет"
+
+msgid "Stroboscope light"
+msgstr "Стробоскопический свет"
+
+msgid "Structure"
+msgstr "Структура"
+
+msgid "Structure of the organisation"
+msgstr "Организационная структура"
+
+msgid "Subcontractors / Suppliers / Manufacturers"
+msgstr "Субподрядчики / Поставщики / Производители"
+
+msgid "Sublimate"
+msgstr "Осаждать"
+
+msgid "Subprogram"
+msgstr "Подпрограмма"
+
+msgid "Subprogram call step"
+msgstr "Шаг вызова подпрограммы"
+
+msgid "Sum"
+msgstr "Сумматор"
+
+msgid "Sum, subtracting bottom input"
+msgstr "Сумматор, вычитающий вход снизу"
+
+msgid "Sum, subtracting left input"
+msgstr "Сумматор, вычитающий вход слева"
+
+msgid "Sum, subtracting right input"
+msgstr "Сумматор, вычитающий вход справа"
+
+msgid "Sum, subtracting top input"
+msgstr "Сумматор, вычитающий вход сверху"
+
+msgid "Summing junction"
+msgstr "Суммирующий узел"
+
+msgid "Sun"
+msgstr "Солнце"
+
+msgid "Supercomputer"
+msgstr "Суперкомпьютер"
+
+msgid "Supply"
+msgstr "Поставлять"
+
+msgid "Support"
+msgstr "Поддерживать"
+
+msgid ""
+"Support for the Python Scripting Language 2.3. Do not select this if Python "
+"is not installed."
+msgstr "Поддержка яызка Python 2.3. Не выбирайте, если Python не установлен."
+
+msgid "Supported Formats"
+msgstr "Поддерживаемые форматы"
+
+msgid "Suppress Attributes"
+msgstr "Скрытые атрибуты"
+
+msgid "Suppress Operations"
+msgstr "Скрытые операции"
+
+msgid "Suppress operations"
+msgstr "Скрытые операции"
+
+msgid "Swiss cross"
+msgstr "Швейцарский крест"
+
+msgid "Switch"
+msgstr "Переключать"
+
+msgid "Switch Processor"
+msgstr "Коммутаторный процессор"
+
+msgid "Switch symbol"
+msgstr "Символ коммутатора"
+
+msgid "Sybase"
+msgstr "Sybase"
+
+msgid "Sybase client application"
+msgstr "Клиентское приложение Sybase"
+
+msgid "Sybase dataserver"
+msgstr "Сервер данных Sybase"
+
+msgid "Sybase replication server"
+msgstr "Сервер репликаций Sybase"
+
+msgid "Symmetric control"
+msgstr "Симметричная точка"
+
+msgid "System"
+msgstr "Система"
+
+msgid "System controller"
+msgstr "Контроллер системы"
+
+msgid "T-Junction"
+msgstr "Т-образное соединение"
+
+msgid "TDM router"
+msgstr "Маршрутизатор TDM"
+
+msgid "TV"
+msgstr "ТВ"
+
+msgid "TYPE"
+msgstr "ТИП"
+
+msgid "Table"
+msgstr "Таблица"
+
+msgid "Table name:"
+msgstr "Имя таблицы:"
+
+msgid "Tablename"
+msgstr "Имя таблицы"
+
+msgid "Tablet"
+msgstr "Портативный компьютер"
+
+msgid "Tactical satellite communications terminal"
+msgstr "Коммуникационный терминал боевого спутника"
+
+msgid "Taking bezpoint value of non-point node."
+msgstr "Взятие значение точки Безье бесточечного узла."
+
+msgid "Taking point value of non-point node."
+msgstr "Взять значение точки безточечного узла"
+
+msgid "Tank with Fixed Roof"
+msgstr "Резервуар с закрепленной кровлей"
+
+msgid "Tank with Floating Roof"
+msgstr "Резервуар с подвижной кровлей"
+
+msgid "Tape array"
+msgstr "Массив данных на ленте"
+
+msgid "Task"
+msgstr "Задача"
+
+msgid "TeX Metapost export filter"
+msgstr "Фильтр экспорта файлов TeX Metapost"
+
+msgid "TeX Metapost macros"
+msgstr "Макрос TeX Metapost"
+
+msgid "TeX PSTricks macros"
+msgstr "Макрос TeX PSTricks"
+
+msgid "TeX Pstricks export filter"
+msgstr "Фильтр экспорта файлов TeX Pstricks"
+
+msgid "Technical administrator"
+msgstr "Технический администратор"
+
+msgid "Telecommuter"
+msgstr "Телекоммутатор"
+
+msgid "Telecommuter house"
+msgstr "Телекоммуникационное здание"
+
+msgid "Telecommuter house subdued"
+msgstr "Телекоммуникационное здание приглушённое"
+
+msgid "Telephone"
+msgstr "Телефон"
+
+msgid "Telephony shapes by Cisco"
+msgstr "Фигуры телефонных устройств от Cisco"
+
+msgid "Template"
+msgstr "Шаблон"
+
+msgid "Template Parameters"
+msgstr "Параметры шаблона"
+
+msgid "Template class"
+msgstr "Класс-шаблон"
+
+msgid "Template for custom characteristics"
+msgstr "Шаблон для настраиваемых характеристик"
+
+msgid "Terminal"
+msgstr "Терминал"
+
+msgid "Terminal Interrupt"
+msgstr "Прерывание терминала"
+
+msgid "Terminal Server"
+msgstr "Терминал-сервер"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text Annotation"
+msgstr "Анотация"
+
+msgid "Text Color"
+msgstr "Цвет текста"
+
+msgid "Text Color:"
+msgstr "Цвет текста:"
+
+msgid "Text alignment"
+msgstr "Выравнивание текста"
+
+msgid "Text color"
+msgstr "Цвет текста"
+
+msgid "Text content"
+msgstr "Содержимое текста"
+
+msgid ""
+"Text edit(s)\n"
+"Use <Esc> to leave this tool"
+msgstr ""
+"Редактор текста\n"
+"Используйте <ESC> чтобы закрыть данный инструмент"
+
+msgid "Text outside"
+msgstr "Текст снаружи"
+
+msgid "Text padding"
+msgstr "Заполнение текста"
+
+msgid "Text:"
+msgstr "Текст:"
+
+msgid "The boolean equation of the condition"
+msgstr "Логическое уравнение условия"
+
+msgid "The boolean equation of the receptivity"
+msgstr "Логическое уравнение восприимчивости"
+
+msgid "The command organ of a relay (horizontal)"
+msgstr "Управляющий орган реле (горизонтально)"
+
+msgid "The command organ of a relay (vertical)"
+msgstr "Управляющий орган реле (вертикально)"
+
+msgid "The condition's color"
+msgstr "Цвет условия"
+
+msgid "The condition's font"
+msgstr "Шрифт условия"
+
+msgid "The condition's font size"
+msgstr "Размер шрифта условия"
+
+msgid ""
+"The diagram '%s'\n"
+"has not been saved. Save changes now?"
+msgstr ""
+"Диаграмма «%s»\n"
+"не была сохранена. Сохранить изменения сейчас?"
+
+msgid "The event that causes this transition to be taken"
+msgstr "Событие которое вызывает переход"
+
+msgid ""
+"The file %s has no encoding specification;\n"
+"assuming it is encoded in %s"
+msgstr ""
+"Файл %s не содержит указания на кодировку;\n"
+"полагаем, что это %s"
+
+msgid ""
+"The file '%s' already exists.\n"
+"Do you want to overwrite it?"
+msgstr ""
+"Файл «%s» уже существует.\n"
+"Хотите переписать его?"
+
+msgid ""
+"The file '%s' has invalid path data.\n"
+"svg:path data must start with moveto."
+msgstr ""
+"Файл «%s» содержит некорректные данные в пути.\n"
+"svg:path должно начинаться с команды moveto."
+
+msgid "The following are not saved:"
+msgstr "Не сохранены перечисленные файлы:"
+
+msgid "The identifier which appears in the lower right corner of the Box"
+msgstr "Идентификатор, который располагается в нижнем правом углу объекта"
+
+msgid ""
+"The image file '%s' was not found in that directory.\n"
+"Using the file '%s' instead\n"
+msgstr ""
+"Файл изображения «%s» не был найден в этом каталоге.\n"
+"Вместо него используется файл «%s»\n"
+
+msgid "The image file '%s' was not found.\n"
+msgstr "Файл изображения «%s» не был найден.\n"
+
+msgid ""
+"The installation directory you specified already exists. Any contents$\rwill "
+"be deleted. Would you like to continue?"
+msgstr ""
+"Указанный каталог установки уже существует. Любое содержимое$\rбудет "
+"удалено. Хотите продолжить?"
+
+msgid "The kind of step"
+msgstr "Тип шага"
+
+msgid "The name of the step"
+msgstr "Название шага"
+
+msgid ""
+"The object you dropped cannot fit into its parent. \n"
+"Either expand the parent object, or drop the object elsewhere."
+msgstr ""
+"Объект, который вы перетаскиваете, не может поместиться в своего родителя.\n"
+"Либо увеличьте родительский объект, либо перетаскивайте объект в другое "
+"место."
+
+msgid ""
+"The original author of Dia was:\n"
+"\n"
+msgstr ""
+"Первым автором Dia был:\n"
+"\n"
+
+msgid "The receptivity's color"
+msgstr "Цвет восприимчивости"
+
+msgid "The receptivity's font"
+msgstr "Шрифт восприимчивости"
+
+msgid "The receptivity's font size"
+msgstr "Размер шрифта восприимчивости"
+
+msgid ""
+"The system sheet '%s' appears to be more recent than your custom\n"
+"version and has been loaded as '%s' for this session.\n"
+"\n"
+"Move new objects (if any) from '%s' into your custom sheet\n"
+"or remove '%s', using the 'Sheets and Objects' dialog."
+msgstr ""
+"Кажется, системная категория «%s» имеют более новую версию,\n"
+"чем та, что загружена как «%s» для этого сеанса.\n"
+"\n"
+"Переместить новые объекты (если они есть) из «%s» в вашу категорию\n"
+"или удалить «%s», используя диалоговые окна «Категории и объекты»."
+
+msgid ""
+"The uninstaller could not find registry entries for Dia.$\rIt is likely that "
+"another user installed this application."
+msgstr ""
+"Программа удаление Dia не может найти ключи рееста.$\rВероятно, что "
+"приложение было установлено другим пользователем."
+
+msgid "There are %d similar messages."
+msgstr "Появилось %d похожих сообщений."
+
+msgid "There is one similar message."
+msgstr "Уже существует одно подобное сообщение."
+
+msgid "Thermal"
+msgstr "Тепловая"
+
+msgid "Thermal action"
+msgstr "Тепловое воздействие"
+
+msgid "Thermal detection"
+msgstr "Обнаружение теплового воздействия"
+
+msgid "This action is a call to a macro-step"
+msgstr "Это действие является вызовом макро-шага"
+
+msgid ""
+"This diagram uses the State object for initial/final states.\n"
+"That option will go away in future versions.\n"
+"Please use the Initial/Final State object instead\n"
+msgstr ""
+"Эта диаграмма использует объект State для начальных/конечных состояний.\n"
+"Этот параметр будет отменён в будущих версиях.\n"
+"Используйте объект 'Начальное/Конечное состояние' вместо этого\n"
+
+msgid "This is a FIG version %d.%d file, I may not understand it\n"
+msgstr "Это файл FIG версии %d.%d, возможно он не будет понят\n"
+
+msgid ""
+"This object doesn't support Undo/Redo.\n"
+"Undo information erased."
+msgstr ""
+"Этот объект не поддерживает откат или возврат отменённого действия.\n"
+"Информация об отмене действия была удалена."
+
+msgid "This object has no defaults."
+msgstr "У этого объекта нет параметров по умолчанию."
+
+msgid "This object has no properties."
+msgstr "У этого объекта нет свойств."
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software\n"
+"Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.\n"
+msgstr ""
+"Эта программа ― свободное программное обеспечение. Вы можете распространять "
+"или\n"
+"изменять его при условиях соответствия GNU General Public License\n"
+"опубликованной Free Software Foundation; либо версии 2 лицензии, либо (на\n"
+"ваше усмотрение) любой более поздней версии.\n"
+"\n"
+"Программа распространяется в надежде на то, что приложение будет полезно, "
+"но\n"
+"БЕЗ ВСЯКИХ ГАРАНТИЙ; не гарантируется даже ПРИГОДНОСТЬ или СООТВЕТСТВИЕ "
+"КАКИМ-\n"
+"ЛИБО ТРЕБОВАНИЯМ. Для получения дополнительной информации ознакомьтесь с "
+"GNU\n"
+"General Public License.\n"
+"\n"
+"Вы должны получить копию GNU General Public License вместе с программой. "
+"Если\n"
+"этого не произошло, напишите в Free Software Foundation, Inc., 59\n"
+"Temple Place, Suite 330, Boston, MA  02111-1307  USA\n"
+
+msgid ""
+"This shouldn't happen.  Please file a bug report at bugzilla.gnome.org\n"
+"describing how you can cause this message to appear.\n"
+msgstr ""
+"Возникла ошибка. Пожалуйста, отправьте отчёт об ошибке с описанием, как \n"
+"удалось добиться появления данного сообщения, по адресу bugzilla.gnome.org.\n"
+
+msgid "This will completely delete $INSTDIR and all subdirectories. Continue?"
+msgstr "Это полностью удалит $INSTDIR и все вложенные каталоги. Продолжить?"
+
+msgid ""
+"This will completely delete $PROFILE\\.dia and all subdirectories. Continue?"
+msgstr ""
+"Это полностью удалит $PROFILE\\.dia и все вложенные каталоги. Продолжить?"
+
+msgid "Thread"
+msgstr "Поток"
+
+msgid "Thread Group"
+msgstr "Группа потоков"
+
+msgid "Time data"
+msgstr "Данные времени"
+
+msgid "Time delay"
+msgstr "Временная задержка"
+
+msgid "Time scale"
+msgstr "Шкала времени"
+
+msgid ""
+"To improve the ease of reading, flows which begin and end vertically can be "
+"rendered gray"
+msgstr ""
+"Чтобы упростить чтение, потоки, которые начинаются и заканчиваются "
+"вертикально, могут быть отображены серым."
+
+msgid "To:"
+msgstr "Куда:"
+
+msgid "Toe"
+msgstr "Носок"
+
+msgid "Toggles object snapping for this window."
+msgstr "Переключает выравнивание объектов."
+
+msgid "Toggles object snapping."
+msgstr "Переключает выравнивание объектов для этого окна."
+
+msgid "Toggles snap-to-grid for this window."
+msgstr "Переключает выравнивание по сетке."
+
+msgid "Toggles snap-to-grid."
+msgstr "Переключает выравнивание по сетке для этого окна."
+
+msgid "TokenRing"
+msgstr "TokenRing"
+
+msgid "Too many ..'s in filename %s\n"
+msgstr "Слишком много ... в имени файла %s\n"
+
+msgid "Top"
+msgstr "Верх"
+
+msgid "Top:"
+msgstr "Сверху:"
+
+msgid "Torque"
+msgstr "Вращающий момент"
+
+msgid "Total:"
+msgstr "Всего:"
+
+msgid "Traditional clock"
+msgstr "Обычные часы"
+
+msgid "Train 1, angled downward"
+msgstr "Поезд 1, под углом вниз"
+
+msgid "Train 2, angled upward"
+msgstr "Поезд 2, под углом вверх"
+
+msgid "TransPath"
+msgstr "TransPath"
+
+msgid "Transaction"
+msgstr "Транзакция"
+
+msgid "Transaction file"
+msgstr "Файл транзакций"
+
+msgid "Transfer"
+msgstr "Переносить"
+
+msgid "Transform"
+msgstr "Трансформировать"
+
+msgid "Transform pointer"
+msgstr "Точка трансформации"
+
+msgid "Transition"
+msgstr "Переход"
+
+msgid "Transitive"
+msgstr "Вложенные"
+
+msgid "Translate"
+msgstr "Переводить"
+
+msgid "Translation"
+msgstr "Поступательное движение"
+
+msgid "Translational Energy"
+msgstr "Энергия движения"
+
+msgid "Translations"
+msgstr "Переводы"
+
+msgid "Transmit"
+msgstr "Передавать"
+
+msgid "Transmittal tape"
+msgstr "Передаточная лента"
+
+msgid "Transport"
+msgstr "Перевозить"
+
+msgid "Trapezoid"
+msgstr "Трапеция"
+
+msgid "Tray Column, detailed"
+msgstr "Колонна лотков, детальная"
+
+msgid "Tray Column, simple"
+msgstr "Колонна лотков, простая"
+
+msgid "Tree"
+msgstr "Дерево"
+
+msgid "Tree 1"
+msgstr "Дерево 1"
+
+msgid "Trigger"
+msgstr "Триггер"
+
+msgid "Triple-dotted lines are not supported by Dia, using double-dotted"
+msgstr "Трёхточечные линии не поддерживаются Dia, используются двухточечные"
+
+msgid "Truck"
+msgstr "Грузовик"
+
+msgid "Trying to group with no selected objects."
+msgstr "Попытка сгруппировать, не выбрано ни одного объекта."
+
+msgid "Turn"
+msgstr "Поворачивать"
+
+msgid "Turn-up arrow"
+msgstr "Приподнятая стрелка"
+
+msgid "Turret"
+msgstr "Башенка"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Type:"
+msgstr "Тип:"
+
+msgid "U.S. Army Mobile Subscriber Equipment Components"
+msgstr "Компонент мобильной доставки обеспечения американской армии"
+
+msgid "UML"
+msgstr "UML"
+
+msgid "UML Lifeline"
+msgstr "Линия жизни UML"
+
+msgid "UNIX workstation"
+msgstr "Рабочая станция UNIX"
+
+msgid "UPS"
+msgstr "ИБП"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Undefined"
+msgstr "Неопределённый"
+
+msgid "Underline primary keys"
+msgstr "Подчёркивать первичные ключи"
+
+msgid "Unexpected Ellipse object: %s\n"
+msgstr "Неожиданный объект овал: %s\n"
+
+msgid "Unfilled Triangle"
+msgstr "Незаполненный треугольник"
+
+msgid "Uni_que"
+msgstr "_Уникальность"
+
+msgid "Unified Modelling Language diagram objects UML 1.3"
+msgstr "Объекты диаграмм Унифицированного языка моделирования UML версии 1.3"
+
+msgid "Union"
+msgstr "Объединить"
+
+msgid "Unique"
+msgstr "Уникальность"
+
+msgid "Unit"
+msgstr "Объединение"
+
+msgid "Unity Express"
+msgstr "Unity Express"
+
+msgid "Unity server"
+msgstr "Серверный модуль"
+
+msgid "Universal Gateway"
+msgstr "Университетский шлюз"
+
+msgid "University"
+msgstr "Университет"
+
+msgid "Unknown arrow type %d\n"
+msgstr "Неизвестный тип стрелки %d\n"
+
+msgid "Unknown object type %d\n"
+msgstr "Неизвестный тип объекта %d\n"
+
+msgid "Unknown paper size `%s', using default\n"
+msgstr "Неизвестный размер бумаги «%s», используется исходный\n"
+
+msgid "Unknown polyline arc: %d\n"
+msgstr "Неизвестный подтип ломаной: %d\n"
+
+msgid "Unknown polyline subtype: %d\n"
+msgstr "Неизвестный подтип ломаной: %d\n"
+
+msgid "Unknown spline subtype: %d\n"
+msgstr "Неизвестный подтип сплайна: %d\n"
+
+msgid "Unlock"
+msgstr "Разблокировать"
+
+msgid "Unspecified"
+msgstr "Неопределённый"
+
+msgid "Up arrow"
+msgstr "Стрелка вверх"
+
+msgid "Up-down arrow"
+msgstr "Стрелка сверху вниз"
+
+msgid "Up-down-left arrow"
+msgstr "Стрелка сверху вниз налево"
+
+msgid "Use bold font for primary keys"
+msgstr "Использовать полужирный шрифт для первичных ключей"
+
+msgid "Use case"
+msgstr "Вариант использования"
+
+msgid "Use menu bar"
+msgstr "Использовать строку меню"
+
+msgid "User Interface"
+msgstr "Интерфейс пользователя"
+
+msgid "User function"
+msgstr "Пользовательская функция"
+
+msgid "User/Device Fn"
+msgstr "Функция пользователя/устройства"
+
+msgid "Users"
+msgstr "Пользователи"
+
+msgid "VIP"
+msgstr "VIP"
+
+msgid "VN2900"
+msgstr "VN2900"
+
+msgid "VN5900"
+msgstr "VN5900"
+
+msgid "VN5902"
+msgstr "VN5902"
+
+msgid "VPN Concentrator"
+msgstr "Концетратор VPN"
+
+msgid "VPN Gateway"
+msgstr "Шлюз VPN"
+
+msgid "Value"
+msgstr "Значение"
+
+msgid "Value:"
+msgstr "Значение:"
+
+msgid "Valve"
+msgstr "Клапан"
+
+msgid "Valve, vertical"
+msgstr "Клапан, вертикальный"
+
+msgid "Vehicle detector"
+msgstr "Радар"
+
+msgid "Ventilator"
+msgstr "Вентилятор"
+
+msgid "Verb"
+msgstr "Глагол"
+
+msgid "Vergent type:"
+msgstr "Тип хребта:"
+
+msgid "Verify"
+msgstr "Проверять"
+
+msgid "Vertical limiting line"
+msgstr "Вертикальная ограничивающая линия"
+
+msgid "Vertical parallelogram"
+msgstr "Вертикальный параллелограмм"
+
+msgid "Vertical rest"
+msgstr "Вертикальная опора"
+
+msgid "Vertical text alignment"
+msgstr "Вертикальное выравнивание текста"
+
+msgid "Vertically aligned LED"
+msgstr "Вертикально выровненный ЖКИ"
+
+msgid "Vertically aligned arrow"
+msgstr "Вертикально выровненная стрелка"
+
+msgid "Vertically aligned capacitor"
+msgstr "Вертикально выровненный конденсатор"
+
+msgid "Vertically aligned compressor"
+msgstr "Вертикально ориентированный компрессор"
+
+msgid "Vertically aligned diode"
+msgstr "Вертикально выровненный диод"
+
+msgid "Vertically aligned fuse"
+msgstr "Вертикально выровненный предохранитель"
+
+msgid "Vertically aligned inductor"
+msgstr "Вертикально выровненная индуктивность"
+
+msgid "Vertically aligned inductor (European)"
+msgstr "Вертикально выровненная индуктивность (По-европейски)"
+
+msgid "Vertically aligned powersource"
+msgstr "Вертикально выровненный источник питания"
+
+msgid "Vertically aligned propeller"
+msgstr "Вертикально выровненный вентилятор"
+
+msgid "Vertically aligned pump"
+msgstr "Вертикально ориентированный насос"
+
+msgid "Vertically aligned resistor"
+msgstr "Вертикально выровненный резистор"
+
+msgid "Vertically aligned resistor (European)"
+msgstr "Вертикально выровненный резистор (По-европейски)"
+
+msgid "Vertically aligned valve"
+msgstr "Вертикально ориентированный клапан"
+
+msgid "Vertically aligned zener diode"
+msgstr "Вертикально выровненный зенеровский диод"
+
+msgid "Very Secret"
+msgstr "Строго секретно"
+
+msgid "Vibration"
+msgstr "Вибрация"
+
+msgid "Vibration sensor"
+msgstr "Датчик вибрации"
+
+msgid "Video Camera"
+msgstr "Видеокамера"
+
+msgid "Video Camera right"
+msgstr "Видеокамера (вправо)"
+
+msgid "Video camera"
+msgstr "Видеокамера"
+
+msgid "Video movement detector"
+msgstr "Видео-датчик движения"
+
+msgid "View Defaults"
+msgstr "Вид по-умолчанию"
+
+msgid "Virtual Layer Switch"
+msgstr "Коммутатор виртуальных слоёв"
+
+msgid "Virtual switch controller (VSC 3000)"
+msgstr "Виртуальный контроллер коммутации (VSC 3000)"
+
+msgid "Visibility"
+msgstr "Видимость"
+
+msgid "Visibility:"
+msgstr "Видимость:"
+
+msgid "Visible"
+msgstr "Видимый"
+
+msgid "Visible Attributes"
+msgstr "Видимые атрибуты"
+
+msgid "Visible Comments"
+msgstr "Видимые комментарии"
+
+msgid "Visible Operations"
+msgstr "Видимые операции"
+
+msgid "Visible comments"
+msgstr "Видимые Комментарии"
+
+msgid "Visible rect pointer"
+msgstr "Видимый указатель прямоугольника"
+
+msgid "Visible spacing"
+msgstr "Видимый интервал"
+
+msgid "Visio XML File Format"
+msgstr "Файл Visio XML"
+
+msgid "Visio XML Format import and export filter"
+msgstr "Фильтр импорта/экспорта формата Visio XML Format"
+
+msgid "Visio XML format"
+msgstr "Visio XML формат"
+
+msgid "Visit the Dia for Windows Web Page"
+msgstr "Посетить веб-страницу Dia для Windows"
+
+msgid "Voice-Enabled ATM Switch"
+msgstr "Голосовой коммутатор ATM"
+
+msgid "Voice-Enabled Access Server"
+msgstr "Сервер доступа голосовой коммуникации"
+
+msgid "Voice-Enabled Router"
+msgstr "Голосовой маршрутизатор"
+
+msgid "Voltage"
+msgstr "Напряжение"
+
+msgid "Voltage detector"
+msgstr "Датчик напряжения (Вольтметр)"
+
+msgid "Volumetric Flow"
+msgstr "Объёмный поток"
+
+msgid "Vulnerability"
+msgstr "Уязвимость"
+
+msgid "WAN"
+msgstr "WAN"
+
+msgid "WAN connection"
+msgstr "WAN-соединение"
+
+msgid "WAN link"
+msgstr "WAN линк"
+
+msgid "WDM"
+msgstr "WDM"
+
+msgid "WLAN controller"
+msgstr "Контроллер беспроводной сети"
+
+msgid "WMF export filter"
+msgstr "фильтр экспорта в WMF"
+
+msgid "WPG"
+msgstr "WPG"
+
+msgid "WWW server"
+msgstr "Веб-сервер"
+
+msgid "Wall-plug for the scEAD cabling system"
+msgstr "Настенный коннектор для кабельной системы scEAD"
+
+msgid "Warning"
+msgstr "Внимание"
+
+msgid "Warning: Layer %d (%s) selected more than once.\n"
+msgstr "Внимание: Слой %d (%s) выбран более одного раза.\n"
+
+msgid "Warning: Layer %lu (%s) selected more than once.\n"
+msgstr "Внимание: Слой %lu (%s) выбран более одного раза.\n"
+
+msgid "Warning: There is no layer named %s\n"
+msgstr "Внимание: Слой с именем %s не существует\n"
+
+msgid "Warning: invalid layer range %lu - %lu\n"
+msgstr "Внимание: неправильный диапазон слоя %lu - %lu\n"
+
+msgid "Water Cooler"
+msgstr "Водяной охладитель"
+
+msgid "Water Cooler, vertical"
+msgstr "Водяной охладитель, вертикальный"
+
+msgid "Water action"
+msgstr "Воздействие воды"
+
+msgid "Water detection"
+msgstr "Обнаружение водного воздействия"
+
+msgid "Water level"
+msgstr "Уровень воды"
+
+msgid "Wavelength router"
+msgstr "Маршрутизатор Wavelenght"
+
+msgid "Weak entity"
+msgstr "Слабая сущность"
+
+msgid "Weak key:"
+msgstr "Слабый ключ:"
+
+msgid "Weak:"
+msgstr "Слабый:"
+
+msgid "Web browser"
+msgstr "Браузер"
+
+msgid "Web cluster"
+msgstr "Кластер веб-серверов"
+
+msgid "Week"
+msgstr "Неделя"
+
+msgid "Wi-Fi Tag"
+msgstr "Метка Wi-Fi"
+
+msgid "Widget not found: %s"
+msgstr "Виджет не найден: %s"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Width:"
+msgstr "Ширина:"
+
+msgid "Windows Meta File"
+msgstr "Windows Meta File"
+
+msgid "Windows MetaFile"
+msgstr "Windows MetaFile"
+
+msgid "Wireless"
+msgstr "Беспроводное"
+
+msgid "Wireless Bridge"
+msgstr "Беспроводной мост"
+
+msgid "Wireless Connectivity"
+msgstr "Беспроводное подключение"
+
+msgid "Wireless Location Appliance"
+msgstr "Устройство беспроводного расположения"
+
+msgid "Wireless Transport"
+msgstr "Беспроводной транспорт"
+
+msgid "Wireless router"
+msgstr "Маршрутизатор беспроводной сети"
+
+msgid "Wish Fn"
+msgstr "Желаемая функция"
+
+msgid "Wish function"
+msgstr "Искомая функция"
+
+msgid "Woman"
+msgstr "Женщина"
+
+msgid "Woman blue"
+msgstr "Женщина синяя"
+
+msgid "Woman gold"
+msgstr "Женщина золотистая"
+
+msgid "Woman red"
+msgstr "Женщина красная"
+
+msgid "WordPerfect Graphics export filter"
+msgstr "Фильтр экспорта файлов WordPerfect Graphics"
+
+msgid "Workgroup 5000"
+msgstr "Рабочая группа 5000"
+
+msgid "Workgroup 5002"
+msgstr "Рабочая группа 5002"
+
+msgid "Workgroup 5500"
+msgstr "Workgroup 5500"
+
+msgid "Workgroup Fibre Channel intelligent switch"
+msgstr "Интеллектуальный переключатель канала рабочей группы"
+
+msgid "Workgroup Switch Voice-Enabled"
+msgstr "Коммутатор рабочей группы с поддержкой голоса"
+
+msgid "Workgroup director"
+msgstr "Руководитель рабочей группы"
+
+msgid "Workgroup switch"
+msgstr "Коммутатор рабочей группы"
+
+msgid "Workgroup switch Subdued"
+msgstr "Коммутатор рабочей группы приглушённый"
+
+msgid "Workstation"
+msgstr "Рабочая станция"
+
+msgid "Workstation monitor"
+msgstr "Монитор рабочей станции"
+
+msgid "Wrap Operations"
+msgstr "Операции сокрытия"
+
+msgid "Wrap after char"
+msgstr "Скрыть после символа"
+
+msgid "Wrap after this length: "
+msgstr "Переносить после этой длины: "
+
+msgid "Wrap comment after this length: "
+msgstr "Переносить комментарий по этой длине: "
+
+msgid "WxH"
+msgstr "ШхВ"
+
+msgid "X Size:"
+msgstr "Размер X:"
+
+msgid "X position"
+msgstr "Позиция по X"
+
+msgid "X position of child widget"
+msgstr "Позиция X дочернего виджета"
+
+msgid "X-Rays"
+msgstr "Рентгеновская"
+
+msgid "XFig File Format"
+msgstr "Файл в формате XFig"
+
+msgid "XFig format"
+msgstr "Файл в формате XFig"
+
+msgid "XOR gate"
+msgstr "Элемент ИСКЛ. ИЛИ"
+
+msgid "XSL Transformation filter"
+msgstr "Фильтр преобразования XSL"
+
+msgid "Y Size:"
+msgstr "Размер Y:"
+
+msgid "Y position"
+msgstr "Позиция по Y"
+
+msgid "Y position of child widget"
+msgstr "Позиция Y дочернего виджета"
+
+msgid "Yes"
+msgstr "Да"
+
+msgid ""
+"You are about to export a diagram which may require %s of memory.(%d pages)."
+msgstr ""
+"Вы собираетесь экспортировать диаграмму, которой требуется %s памяти "
+"(страниц: %d)."
+
+msgid "You are about to export a diagram with %d pages."
+msgstr "Вы собираетесь экспортировать диаграммы с %d страниц."
+
+msgid "You are about to print a diagram with %d pages."
+msgstr "Вы собираетесь вывести на печать диаграмму (страниц: %d)."
+
+msgid ""
+"You cannot group objects that belong to different groups or have different "
+"parents"
+msgstr ""
+"Нельзя сгруппировать объекты, принадлежащие к разным группам или имеющие "
+"разные родительские объекты"
+
+msgid "You do not have permission to uninstall this application."
+msgstr "У вас нет прав для удаления этой программы."
+
+msgid "You must specify a file, not a directory.\n"
+msgstr "Вы должны указать файл, а не каталог.\n"
+
+msgid ""
+"Your old Dia directory is about to be deleted. Would you like to continue?$\r"
+"$\rNote: Any non-standard plugins that you may have installed will be "
+"deleted.$\rDia user settings will not be affected."
+msgstr ""
+"Старый каталог Dia будет удалён. Хотите продолжить?$\r$\rЗамечание: любые "
+"нестандартные модули, которые могли быть установлены, будут удалены.$"
+"\rПользовательские настройки Dia затронуты не будут."
+
+msgid "ZIP disk"
+msgstr "ZIP-диск"
+
+msgid "Zigzagline"
+msgstr "Зигзаг"
+
+msgid "Zone"
+msgstr "Зона"
+
+msgid "Zoom"
+msgstr "Масштаб"
+
+msgid "Zoom pointer"
+msgstr "Масштабируемый принтер"
+
+msgid "[FILE...]"
+msgstr "[ФАЙЛ...]"
+
+msgid "_AntiAliased"
+msgstr "_Сглаженный"
+
+msgid "_Attributes"
+msgstr "_Атрибуты"
+
+msgid "_Class"
+msgstr "_Класс"
+
+msgid "_Delete"
+msgstr "_Удалить"
+
+msgid "_Diagram Properties"
+msgstr "Свойства _диаграммы"
+
+msgid "_Diagram tree..."
+msgstr "_Дерево диаграммы..."
+
+msgid "_Discard Changes"
+msgstr "_Отказаться от изменений"
+
+msgid "_Duplicate"
+msgstr "Сд_елать копию"
+
+msgid "_Edit"
+msgstr "_Редактировать"
+
+msgid "_Export ..."
+msgstr "_Экспорт..."
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Group"
+msgstr "_Сгруппировать"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Input Methods"
+msgstr "_Ввод"
+
+msgid "_Layers"
+msgstr "_Слои"
+
+msgid "_Layers..."
+msgstr "_Слои..."
+
+msgid "_Match case"
+msgstr "_Учитывать регистр"
+
+msgid "_Menace"
+msgstr "_Угроза"
+
+msgid "_New"
+msgstr "_Создать"
+
+msgid "_Objects"
+msgstr "_Объекты"
+
+msgid "_Operations"
+msgstr "_Операции"
+
+msgid "_Parent"
+msgstr "_Вложить"
+
+msgid "_Primary key"
+msgstr "_Первичный ключ"
+
+msgid "_Replace"
+msgstr "_Заменить"
+
+msgid "_Search for:"
+msgstr "_Искать:"
+
+msgid "_Select"
+msgstr "_Выделить"
+
+msgid "_Snap To Grid"
+msgstr "_Выравнивать по сетке"
+
+msgid "_Style"
+msgstr "_Стиль"
+
+msgid "_Table"
+msgstr "_Таблица"
+
+msgid "_Templates"
+msgstr "_Шаблоны"
+
+msgid "_Tools"
+msgstr "_Инструменты"
+
+msgid "_Ungroup"
+msgstr "_Разгруппировать"
+
+msgid "_Unparent"
+msgstr "_Отменить вложение"
+
+msgid "_Unparent Children"
+msgstr "Отменить вложение _дочерних объектов"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "_Zoom"
+msgstr "_Масштаб"
+
+msgid "`%s' is not one of `%s' or `%s'\n"
+msgstr "«%s» не один из «%s» или «%s»\n"
+
+msgid "a user"
+msgstr "пользователь"
+
+msgid "add shapes here"
+msgstr "добавить формы здесь"
+
+msgid "any"
+msgstr "любой"
+
+msgid "by"
+msgstr " "
+
+msgid "cm"
+msgstr "см"
+
+msgid "description:"
+msgstr "описание:"
+
+msgid "dia shape export filter"
+msgstr "Фильтр экспорта форм dia"
+
+msgid "dia_plugin_init() call failed"
+msgstr "вызов dia_plugin_init() завершился неудачно"
+
+msgid "disable arrow heads"
+msgstr "отключить наконечник стрелки"
+
+msgid "dm"
+msgstr "дм"
+
+msgid "expended node"
+msgstr "расширенный узел"
+
+msgid "expensible node"
+msgstr "узел большого расширения"
+
+msgid "ft"
+msgstr "фут"
+
+msgid "gdk-pixbuf based bitmap export/import"
+msgstr "Экспорт/импорт растровых изображений gdk-pixbuf"
+
+msgid "gdk_renderer: Unsupported fill mode specified!\n"
+msgstr "gdk_renderer: Указан не поддерживаемый режим заполнения!\n"
+
+msgid "i* other"
+msgstr "i* другие"
+
+msgid "iSCSI switch"
+msgstr "Коммутатор iSCSI"
+
+msgid "in"
+msgstr "дюйм"
+
+msgid "m"
+msgstr "м"
+
+msgid "mm"
+msgstr "мм"
+
+msgid "none"
+msgstr "нет"
+
+msgid "not null"
+msgstr "not null"
+
+msgid "null"
+msgstr "null"
+
+msgid "pi"
+msgstr "пикс"
+
+msgid "pt"
+msgstr "точ"
+
+msgid "read_dxf_codes failed on '%s'\n"
+msgstr "read_dxf_codes не удалось выполнить «%s»\n"
+
+msgid "root element was '%s' -- expecting 'svg'."
+msgstr "корневой элемент был «%s», а ожидается 'svg'."
+
+msgid "translator_credits-PLEASE_ADD_YOURSELF_HERE"
+msgstr ""
+"Valek Filippov <frob@df.ru>\n"
+"Vitaly Lipatov <lav@altlinux.ru>\n"
+"Sergey Kvayto <kvantos@sun-tel.net>\n"
+"Aleksandr Sokolov <saanchos@gmail.com>"
+
+msgid "uBR910 Cable DSU"
+msgstr "uBR910 кабельный модуль"
+
+msgid "uMG series"
+msgstr "uMG серии"
+
+msgid "unique"
+msgstr "уникальность"
+
+msgid "unknown arrow"
+msgstr "неопределённая стрелка"
+
+msgid "value"
+msgstr "значение"
+
+msgid "view antialised"
+msgstr "Сглаженное представление"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"

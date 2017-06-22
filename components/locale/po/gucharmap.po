@@ -1,0 +1,1027 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gucharmap HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-02-13 02:13+0900\n"
+"PO-Revision-Date: 2007-02-13 10:30+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<Low Surrogate>"
+msgstr "<Заменители в нижнем регистре>"
+
+msgid "<Non Private Use High Surrogate>"
+msgstr "<Заменители в верхнем регистре>"
+
+msgid "<Plane 15 Private Use>"
+msgstr "<Пользовательские в области 15>"
+
+msgid "<Plane 16 Private Use>"
+msgstr "<Пользовательские в области 16>"
+
+msgid "<Private Use High Surrogate>"
+msgstr "<Заментели в верхнем регистре, пользовательские>"
+
+msgid "<Private Use>"
+msgstr "<Пользовательские>"
+
+msgid "<not assigned>"
+msgstr "<не присвоенные>"
+
+msgid "Aegean Numbers"
+msgstr "Числа Аэгеан"
+
+msgid "Alias names:"
+msgstr "Имена псевдонимов:"
+
+msgid "All"
+msgstr "Все"
+
+msgid "Alphabetic Presentation Forms"
+msgstr "Формы алфавитного представления"
+
+msgid ""
+"Also you should have received a copy of the Unicode Copyright along with "
+"Gucharmap; you can always find it at Unicode's website: http://www.unicode."
+"org/copyright.html"
+msgstr ""
+"Также вы должны были получить копию Unicode Copyright с программой "
+"Gucharmap, вы всегда можете найти копию этого документа на веб-сайте http://"
+"www.unicode.org/copyright.html"
+
+msgid "Ancient Greek Musical Notation"
+msgstr "Древнегреческая музыкальная нотация"
+
+msgid "Ancient Greek Numbers"
+msgstr "Древнегреческие цифры"
+
+msgid "Ancient Symbols"
+msgstr "Древние символы"
+
+msgid "Annotations and Cross References"
+msgstr "Аннотации и перекрёстные ссылки"
+
+msgid "Approximate equivalents:"
+msgstr "Приблизительные эквиваленты:"
+
+msgid "Arabic"
+msgstr "Арабский"
+
+msgid "Arabic Presentation Forms-A"
+msgstr "Формы арабского представления A"
+
+msgid "Arabic Presentation Forms-B"
+msgstr "Формы арабского представления B"
+
+msgid "Arabic Supplement"
+msgstr "Арабский дополнительный"
+
+msgid "Armenian"
+msgstr "Армянский"
+
+msgid "Arrows"
+msgstr "Стрелки"
+
+msgid "Avestan"
+msgstr "Авестийский"
+
+msgid "Balinese"
+msgstr "Балийский"
+
+msgid "Bamum"
+msgstr "Бамум"
+
+msgid "Based on the Unicode Character Database 5.2"
+msgstr "Основанная на базе данных символов Юникода 5.2"
+
+msgid "Basic Latin"
+msgstr "Основной латинский"
+
+msgid "Bengali"
+msgstr "Бенгали"
+
+msgid "Block Elements"
+msgstr "Блочные элементы"
+
+msgid "Bopomofo"
+msgstr "Бопомофо"
+
+msgid "Bopomofo Extended"
+msgstr "Бопомофо расширенный"
+
+msgid "Box Drawing"
+msgstr "Для рисования рамок"
+
+msgid "Braille"
+msgstr "Брайль"
+
+msgid "Braille Patterns"
+msgstr "Шаблоны Брайля"
+
+msgid "Buginese"
+msgstr "Бугийский"
+
+msgid "Buhid"
+msgstr "Бухид"
+
+msgid "By _Script"
+msgstr "По _алфавитам"
+
+msgid "By _Unicode Block"
+msgstr "По блокам _Юникода"
+
+msgid "Byzantine Musical Symbols"
+msgstr "Византийские музыкальные символы"
+
+msgid "C octal escaped UTF-8:"
+msgstr "Восьмеричное представление UTF-8 в языке C:"
+
+msgid "CJK Compatibility"
+msgstr "CJK совместимости"
+
+msgid "CJK Compatibility Forms"
+msgstr "CJK формы для совместимости"
+
+msgid "CJK Compatibility Ideographs"
+msgstr "CJK идеораммы для совместимости"
+
+msgid "CJK Compatibility Ideographs Supplement"
+msgstr "CJK дополнения идеограмм для совместимости"
+
+msgid "CJK Ideograph Information"
+msgstr "CJK идеографическая информация"
+
+msgid "CJK Radicals Supplement"
+msgstr "Дополнения корней CJK"
+
+msgid "CJK Strokes"
+msgstr "Росчерки CJK"
+
+msgid "CJK Symbols and Punctuation"
+msgstr "Символы и знаки препинания CJK"
+
+msgid "CJK Unified Ideographs"
+msgstr "CJK объединённые идеограммы"
+
+msgid "CJK Unified Ideographs Extension A"
+msgstr "CJK объединённые идеограммы расширение A"
+
+msgid "CJK Unified Ideographs Extension B"
+msgstr "CJK объединённые идеограммы расширение B"
+
+msgid "CJK Unified Ideographs Extension C"
+msgstr "CJK объединённые идеограммы расширение C"
+
+msgid "Canadian Aboriginal"
+msgstr "Канадских аборигенов"
+
+msgid "Canonical decomposition:"
+msgstr "Каноническое разложение:"
+
+msgid "Cantonese Pronunciation:"
+msgstr "Кантонское произношение:"
+
+msgid "Carian"
+msgstr "Карианский"
+
+msgid "Cham"
+msgstr "Тямский"
+
+msgid "Characte_r Table"
+msgstr "Та_блица символов"
+
+msgid "Character Map"
+msgstr "Таблица символов"
+
+msgid "Character Table"
+msgstr "Таблица символов"
+
+msgid "Character _Details"
+msgstr "По_дробности о символе"
+
+msgid "Character found."
+msgstr "Символ найден."
+
+msgid "Cherokee"
+msgstr "Чероки"
+
+msgid "Combining Diacritical Marks"
+msgstr "Диакритические знаки"
+
+msgid "Combining Diacritical Marks Supplement"
+msgstr "Дополнительные комбинированные диакритические знаки"
+
+msgid "Combining Diacritical Marks for Symbols"
+msgstr "Диакритические знаки для символов"
+
+msgid "Combining Half Marks"
+msgstr "Отметки соединения половин"
+
+msgid "Common"
+msgstr "Общий"
+
+msgid "Common Indic Number Forms"
+msgstr "Общепринятые формы индийский цифр"
+
+msgid "Control Pictures"
+msgstr "Управляющие картинки"
+
+msgid "Coptic"
+msgstr "Коптский"
+
+msgid "Copy to the clipboard."
+msgstr "Скопировать в буфер обмена."
+
+msgid "Counting Rod Numerals"
+msgstr "Счетные палочки"
+
+msgid "Cuneiform"
+msgstr "Клинопись"
+
+msgid "Cuneiform Numbers and Punctuation"
+msgstr "Клинописные цифры и знаки пунктуации"
+
+msgid "Currency Symbols"
+msgstr "Символы валют"
+
+msgid "Cypriot"
+msgstr "Кипрский"
+
+msgid "Cypriot Syllabary"
+msgstr "Слоги киприотов"
+
+msgid "Cyrillic"
+msgstr "Кириллица"
+
+msgid "Cyrillic Extended-A"
+msgstr "Кириллица расширение A"
+
+msgid "Cyrillic Extended-B"
+msgstr "Кириллица расширение B"
+
+msgid "Cyrillic Supplement"
+msgstr "Кириллица дополнительные"
+
+msgid "Definition in English:"
+msgstr "Определение на английском:"
+
+msgid "Deseret"
+msgstr "Десерет"
+
+msgid "Devanagari"
+msgstr "Деванагари"
+
+msgid "Devanagari Extended"
+msgstr "Деванагари расширенный"
+
+msgid "Dingbats"
+msgstr "Графические метки"
+
+msgid "Domino Tiles"
+msgstr "Домино"
+
+msgid "Egyptian Hieroglyphs"
+msgstr "Египетские иероглифы"
+
+msgid "Enclosed Alphanumeric Supplement"
+msgstr "Алфавитно-цифровые дополнения в рамке"
+
+msgid "Enclosed Alphanumerics"
+msgstr "Алфавитно-цифровые символы в рамке"
+
+msgid "Enclosed CJK Letters and Months"
+msgstr "Буквы и месяца CJK"
+
+msgid "Enclosed Ideographic Supplement"
+msgstr "Иероглифические дополнения в рамке"
+
+msgid "Equivalents:"
+msgstr "Эквиваленты:"
+
+msgid "Ethiopic"
+msgstr "Эфиопский"
+
+msgid "Ethiopic Extended"
+msgstr "Расширенный эфиопский"
+
+msgid "Ethiopic Supplement"
+msgstr "Эфиопские дополнения"
+
+msgid "FONT"
+msgstr "ШРИФТ"
+
+msgid "Find"
+msgstr "Поиск"
+
+msgid "Find _Next"
+msgstr "Найти _следующее"
+
+msgid "Find _Previous"
+msgstr "Найти _предыдущее"
+
+msgid "Font"
+msgstr "Шрифт"
+
+msgid "Font Family"
+msgstr "Семейство шрифта"
+
+msgid "Font Size"
+msgstr "Размер шрифта"
+
+msgid "Font to start with; ex: 'Serif 27'"
+msgstr "Указать исходный шрифт, например: 'Serif 27'"
+
+msgid "GConf could not be initialized."
+msgstr "Не удалось инициализировать GConf."
+
+msgid "GNOME Character Map"
+msgstr "Таблица символов GNOME"
+
+msgid "General Character Properties"
+msgstr "Основные свойства символа"
+
+msgid "General Punctuation"
+msgstr "Общая пунктуация"
+
+msgid "Geometric Shapes"
+msgstr "Геометрические формы"
+
+msgid "Georgian"
+msgstr "Грузинский"
+
+msgid "Georgian Supplement"
+msgstr "Грузинские дополнения"
+
+msgid "Glagolitic"
+msgstr "Глаголический"
+
+msgid "Gothic"
+msgstr "Готский"
+
+msgid "Greek"
+msgstr "Греческий"
+
+msgid "Greek Extended"
+msgstr "Греческий расширенный"
+
+msgid "Greek and Coptic"
+msgstr "Греческий и коптский"
+
+msgid ""
+"Gucharmap and the Unicode data files are distributed in the hope that they "
+"will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty "
+"of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General "
+"Public License and Unicode Copyright for more details."
+msgstr ""
+"Gucharmap и файлы данных Юникода распространяются в надежде, что они могут "
+"быть полезны, но БЕЗ ВСЯКИХ ГАРАНТИЙ. Не предоставляется ни малейшей "
+"гарантии КОММЕРЧЕСКОЙ ЦЕННОСТИ или ПРИГОДНОСТИ КОНКРЕТНЫМ ЦЕЛЯМ.  Для "
+"получения дополнительных сведений обратитесь к Универсальной Общественной "
+"Лицензии GNU."
+
+msgid ""
+"Gucharmap is free software; you can redistribute it and/or modify it under "
+"the terms of the GNU General Public License as published by the Free "
+"Software Foundation; either version 3 of the License, or (at your option) "
+"any later version."
+msgstr ""
+"Gucharmap — свободное программное обеспечение, вы можете распространять и/"
+"или изменять его на условиях Универсальной Общественной Лицензии GNU, "
+"опубликованной Фондом свободного программного обеспечения, либо версии 3 "
+"Лицензии, либо (на ваше усмотрение) любой более поздней версии."
+
+msgid "Gujarati"
+msgstr "Гуджарати"
+
+msgid "Gurmukhi"
+msgstr "Гурмукхи"
+
+msgid "Halfwidth and Fullwidth Forms"
+msgstr "Формы в половину и в ширину"
+
+msgid "Han"
+msgstr "Хан"
+
+msgid "Hangul"
+msgstr "Хангыль"
+
+msgid "Hangul Compatibility Jamo"
+msgstr "Хангыль, совместимый с Чамо"
+
+msgid "Hangul Jamo"
+msgstr "Хангыль Чамо"
+
+msgid "Hangul Jamo Extended-A"
+msgstr "Хангыль Чамо расширение A"
+
+msgid "Hangul Jamo Extended-B"
+msgstr "Хангыль Чамо расширение B"
+
+msgid "Hangul Syllables"
+msgstr "Хангыль Слоги"
+
+msgid "Hanunoo"
+msgstr "Хануноо"
+
+msgid "Hebrew"
+msgstr "Иврит"
+
+msgid "High Private Use Surrogates"
+msgstr "Заменители в верхнем регистре, пользовательские"
+
+msgid "High Surrogates"
+msgstr "Заменители в верхнем регистре"
+
+msgid "Hiragana"
+msgstr "Хирагана"
+
+msgid "IPA Extensions"
+msgstr "Расширения IPA"
+
+msgid "Ideographic Description Characters"
+msgstr "Символы идеографического описания"
+
+msgid "Imperial Aramaic"
+msgstr "Имперский арамейский"
+
+msgid "In Unicode since:"
+msgstr "В Юникоде с версии:"
+
+msgid "Information"
+msgstr "Информация"
+
+msgid "Inherited"
+msgstr "Наследованный"
+
+msgid "Inscriptional Pahlavi"
+msgstr "Пехлевийский"
+
+msgid "Inscriptional Parthian"
+msgstr "Парфянский"
+
+msgid "Insert special characters into documents"
+msgstr "Программа для вставки специальных символов в документы"
+
+msgid "Insert special symbols or characters into documents"
+msgstr "Вставка специальных символов или значков в документы"
+
+msgid "Japanese Kun Pronunciation:"
+msgstr "Японское произношение «Kun»:"
+
+msgid "Japanese On Pronunciation:"
+msgstr "Японское произношение «On»:"
+
+msgid "Javanese"
+msgstr "Яванский"
+
+msgid "Kaithi"
+msgstr "Кайтхи"
+
+msgid "Kanbun"
+msgstr "Канбун"
+
+msgid "Kangxi Radicals"
+msgstr "Канси Корни"
+
+msgid "Kannada"
+msgstr "Каннада"
+
+msgid "Katakana"
+msgstr "Катакана"
+
+msgid "Katakana Phonetic Extensions"
+msgstr "Катакана фонетические расширения"
+
+msgid "Kayah Li"
+msgstr "Кайях Ли"
+
+msgid "Kharoshthi"
+msgstr "Кхароштхи"
+
+msgid "Khmer"
+msgstr "Кхмерский"
+
+msgid "Khmer Symbols"
+msgstr "Кхмерские символы"
+
+msgid "Korean Pronunciation:"
+msgstr "Корейское произношение"
+
+msgid "Lao"
+msgstr "Лаосский"
+
+msgid "Latin"
+msgstr "Латиница"
+
+msgid "Latin Extended Additional"
+msgstr "Дополнительная расширенная латиница"
+
+msgid "Latin Extended-A"
+msgstr "Латинский расширение A"
+
+msgid "Latin Extended-B"
+msgstr "Латинский расширение B"
+
+msgid "Latin Extended-C"
+msgstr "Латинский расширение C"
+
+msgid "Latin Extended-D"
+msgstr "Латинский расширение D"
+
+msgid "Latin-1 Supplement"
+msgstr "Латинский дополнение 1"
+
+msgid "Lepcha"
+msgstr "Лепча"
+
+msgid "Letter, Lowercase"
+msgstr "Буквы, в нижнем регистре"
+
+msgid "Letter, Modifier"
+msgstr "Буквы, модификаторы"
+
+msgid "Letter, Other"
+msgstr "Буквы, другие"
+
+msgid "Letter, Titlecase"
+msgstr "Буквы, для заголовков"
+
+msgid "Letter, Uppercase"
+msgstr "Буквы, в верхнем регистре"
+
+msgid "Letterlike Symbols"
+msgstr "Буквообразные символы"
+
+msgid "Limbu"
+msgstr "Лимбу"
+
+msgid "Linear B"
+msgstr "Линейный B"
+
+msgid "Linear B Ideograms"
+msgstr "Линейный B идеограммы"
+
+msgid "Linear B Syllabary"
+msgstr "Линейный B слоги"
+
+msgid "Lisu"
+msgstr "Лису"
+
+msgid "Low Surrogates"
+msgstr "Заменители в нижнем регистре"
+
+msgid "Lycian"
+msgstr "Ликийский"
+
+msgid "Lydian"
+msgstr "Лидийский"
+
+msgid "Mahjong Tiles"
+msgstr "Маджонг"
+
+msgid "Malayalam"
+msgstr "Малаялам"
+
+msgid "Mandarin Pronunciation:"
+msgstr "Мандаринское произношение:"
+
+msgid "Mark, Enclosing"
+msgstr "Отметки, закрывающие"
+
+msgid "Mark, Non-Spacing"
+msgstr "Отметки, без промежутков"
+
+msgid "Mark, Spacing Combining"
+msgstr "Отметки, комбинации промежутков"
+
+msgid "Match _whole word"
+msgstr "Соответствие слову _целиком"
+
+msgid "Mathematical Alphanumeric Symbols"
+msgstr "Математические алфавитно-цифровые символы"
+
+msgid "Mathematical Operators"
+msgstr "Математические операторы"
+
+msgid "Meetei Mayek"
+msgstr "Мейтей маек"
+
+msgid "Miscellaneous Mathematical Symbols-A"
+msgstr "Различные Математические символы A"
+
+msgid "Miscellaneous Mathematical Symbols-B"
+msgstr "Различные Математические символы B"
+
+msgid "Miscellaneous Symbols"
+msgstr "Различные символы"
+
+msgid "Miscellaneous Symbols and Arrows"
+msgstr "Различные символы и стрелки"
+
+msgid "Miscellaneous Technical"
+msgstr "Различные технические символы"
+
+msgid "Modifier Tone Letters"
+msgstr "Модификаторы тона"
+
+msgid "Mongolian"
+msgstr "Монгольский"
+
+msgid "Musical Symbols"
+msgstr "Музыкальные символы"
+
+msgid "Myanmar"
+msgstr "Мьянманский"
+
+msgid "Myanmar Extended-A"
+msgstr "Мьянманский расширение A"
+
+msgid "N'Ko"
+msgstr "Нко"
+
+msgid "New Tai Lue"
+msgstr "Новый тай лю"
+
+msgid "Next Block"
+msgstr "Следующий блок"
+
+msgid "Next Script"
+msgstr "К следующему алфавиту"
+
+msgid "Not found."
+msgstr "Не найден."
+
+msgid "Notes:"
+msgstr "Примечания:"
+
+msgid "Number Forms"
+msgstr "Формы чисел"
+
+msgid "Number, Decimal Digit"
+msgstr "Числа, десятичные цифры"
+
+msgid "Number, Letter"
+msgstr "Числа, буквы"
+
+msgid "Number, Other"
+msgstr "Числа, другие"
+
+msgid "Ogham"
+msgstr "Огамический"
+
+msgid "Ol Chiki"
+msgstr "Ол-Чики"
+
+msgid "Old Italic"
+msgstr "Старый итальянский"
+
+msgid "Old Persian"
+msgstr "Старый персидский"
+
+msgid "Old South Arabian"
+msgstr "Древний южноарабский"
+
+msgid "Old Turkic"
+msgstr "Древнетюркский"
+
+msgid "Optical Character Recognition"
+msgstr "Оптическое распознавание символов"
+
+msgid "Oriya"
+msgstr "Ория"
+
+msgid "Osmanya"
+msgstr "Османья"
+
+msgid "Other, Control"
+msgstr "Другие, управляющие"
+
+msgid "Other, Format"
+msgstr "Другие, форматирующие"
+
+msgid "Other, Not Assigned"
+msgstr "Другие, не присвоенные"
+
+msgid "Other, Private Use"
+msgstr "Другие, пользовательские"
+
+msgid "Other, Surrogate"
+msgstr "Другие, заменители"
+
+msgid "Page _Setup"
+msgstr "Пара_метры страницы"
+
+msgid ""
+"Permission is hereby granted, free of charge, to any person obtaining a copy "
+"of the Unicode data files to deal in them without restriction, including "
+"without limitation the rights to use, copy, modify, merge, publish, "
+"distribute, and/or sell copies."
+msgstr ""
+"Тем самым любому лицу предоставляется право бесплатно получить копию файлов "
+"данных Юникода и обращаться с ними без ограничения, включая право "
+"использования, копирования, объединения, публикации, распространения и/или "
+"продажи копий."
+
+msgid "Phags Pa"
+msgstr "Фагс-Па"
+
+msgid "Phags-pa"
+msgstr "Фагс-па"
+
+msgid "Phaistos Disc"
+msgstr "Фестский"
+
+msgid "Phoenician"
+msgstr "Финикийский"
+
+msgid "Phonetic Extensions"
+msgstr "Фонетические расширения"
+
+msgid "Phonetic Extensions Supplement"
+msgstr "Дополнительные фонетические расширения"
+
+msgid "Previous Block"
+msgstr "Предыдущий блок"
+
+msgid "Previous Script"
+msgstr "К предыдущему алфавиту"
+
+msgid "Private Use Area"
+msgstr "Область пользователя"
+
+msgid "Punctuation, Close"
+msgstr "Знаки препинания, концевые"
+
+msgid "Punctuation, Connector"
+msgstr "Знаки препинания, соединители"
+
+msgid "Punctuation, Dash"
+msgstr "Знаки препинания, тире"
+
+msgid "Punctuation, Final Quote"
+msgstr "Знаки препинания, окончательные кавычки"
+
+msgid "Punctuation, Initial Quote"
+msgstr "Знаки препинания, начальные кавычки"
+
+msgid "Punctuation, Open"
+msgstr "Знаки препинания, открывающие"
+
+msgid "Punctuation, Other"
+msgstr "Знаки препинания, другие"
+
+msgid "Rejang"
+msgstr "Реджанг"
+
+msgid "Rumi Numeral Symbols"
+msgstr "Числа Руми"
+
+msgid "Runic"
+msgstr "Рунический"
+
+msgid "Samaritan"
+msgstr "Самаритянский"
+
+msgid "Saurashtra"
+msgstr "Саураштра"
+
+msgid "Script"
+msgstr "Алфавит"
+
+msgid "Search in character _details"
+msgstr "Искать в _описаниях символов"
+
+msgid "Searching…"
+msgstr "Идёт поиск…"
+
+msgid "See also:"
+msgstr "См. также:"
+
+msgid "Separator, Line"
+msgstr "Разделители, строки"
+
+msgid "Separator, Paragraph"
+msgstr "Разделители, параграфы"
+
+msgid "Separator, Space"
+msgstr "Разделители, пробелы"
+
+msgid "Shavian"
+msgstr "Шавиан"
+
+msgid "Sinhala"
+msgstr "Сингальский"
+
+msgid "Small Form Variants"
+msgstr "Малые варианты форм"
+
+msgid "Snap _Columns to Power of Two"
+msgstr "_Число столбцов кратно двум"
+
+msgid "Spacing Modifier Letters"
+msgstr "Модификаторы"
+
+msgid "Specials"
+msgstr "Специальный"
+
+msgid "Sundanese"
+msgstr "Сунданский"
+
+msgid "Superscripts and Subscripts"
+msgstr "Надстрочные и подстрочные"
+
+msgid "Supplemental Arrows-A"
+msgstr "Дополнительные стрелки A"
+
+msgid "Supplemental Arrows-B"
+msgstr "Дополнительные стрелки B"
+
+msgid "Supplemental Mathematical Operators"
+msgstr "Дополнительные математические операторы"
+
+msgid "Supplemental Punctuation"
+msgstr "Дополнительная пунктуация"
+
+msgid "Supplementary Private Use Area-A"
+msgstr "Дополнительная пользовательская область A"
+
+msgid "Supplementary Private Use Area-B"
+msgstr "Дополнительная пользовательская область B"
+
+msgid "Syloti Nagri"
+msgstr "Силоти Нагри"
+
+msgid "Symbol, Currency"
+msgstr "Символы валют"
+
+msgid "Symbol, Math"
+msgstr "Математические символы"
+
+msgid "Symbol, Modifier"
+msgstr "Символы модификации"
+
+msgid "Symbol, Other"
+msgstr "Символы, другие"
+
+msgid "Syriac"
+msgstr "Сирийский"
+
+msgid "Tagalog"
+msgstr "Тагалог"
+
+msgid "Tagbanwa"
+msgstr "Тагбанва"
+
+msgid "Tags"
+msgstr "Теги"
+
+msgid "Tai Le"
+msgstr "Тай ле"
+
+msgid "Tai Tham"
+msgstr "Тай Тхам"
+
+msgid "Tai Viet"
+msgstr "Тай вьет"
+
+msgid "Tai Xuan Jing Symbols"
+msgstr "Символы Тай Суань Цзин"
+
+msgid "Tamil"
+msgstr "Тамильский"
+
+msgid "Tang Pronunciation:"
+msgstr "Произношение «Tang»:"
+
+msgid "Telugu"
+msgstr "Телугу"
+
+msgid "Thaana"
+msgstr "Таана"
+
+msgid "Thai"
+msgstr "Тайский"
+
+msgid "Tibetan"
+msgstr "Тибетский"
+
+msgid "Tifinagh"
+msgstr "Тифинаг"
+
+msgid "UTF-16:"
+msgstr "UTF-16:"
+
+msgid "UTF-8:"
+msgstr "UTF-8:"
+
+msgid "Ugaritic"
+msgstr "Угаритский"
+
+msgid "Unicode Block"
+msgstr "Блок Юникода"
+
+msgid "Unicode category:"
+msgstr "Категория Юникода:"
+
+msgid "Unified Canadian Aboriginal Syllabics"
+msgstr "Слоги канадских аборигенов"
+
+msgid "Unified Canadian Aboriginal Syllabics Extended"
+msgstr "Расширенные унифицированные слоги канадских аборигенов"
+
+msgid "Unknown character, unable to identify."
+msgstr "Неизвестный символ, не удалось идентифицировать."
+
+msgid "Vai"
+msgstr "Ваи"
+
+msgid "Variation Selectors"
+msgstr "Выбор промежутков"
+
+msgid "Variation Selectors Supplement"
+msgstr "Поддержка выбора промежутков"
+
+msgid "Various Useful Representations"
+msgstr "Другие полезные представления"
+
+msgid "Vedic Extensions"
+msgstr "Ведический расширения"
+
+msgid "Vertical Forms"
+msgstr "Вертикальные формы"
+
+msgid "XML decimal entity:"
+msgstr "Десятичное представление XML:"
+
+msgid "Yi"
+msgstr "И"
+
+msgid "Yi Radicals"
+msgstr "Корни И"
+
+msgid "Yi Syllables"
+msgstr "Слоги И"
+
+msgid "Yijing Hexagram Symbols"
+msgstr "Гексаграммы Ицзин"
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with "
+"Gucharmap; if not, write to the Free Software Foundation, Inc., 59 Temple "
+"Place, Suite 330, Boston, MA  02110-1301  USA"
+msgstr ""
+"Вы должны были получить копию Универсальной Общественной Лицензии GNU вместе "
+"с программой Gucharmap. Если копия не была получена, напишите в Фонд "
+"свободного программного обеспечения по адресу Free Software Foundation, "
+"Inc.,59 Temple Place, Suite 330, Boston, MA  02110-1301  USA"
+
+msgid "[not a printable character]"
+msgstr "[непечатный символ]"
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Contents"
+msgstr "_Содержание"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Go"
+msgstr "Пере_ход"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Next"
+msgstr "Найти _следующее"
+
+msgid "_Next Character"
+msgstr "К следующему символу"
+
+msgid "_Previous"
+msgstr "Найти _предыдущее"
+
+msgid "_Previous Character"
+msgstr "К предыдущему символу"
+
+msgid "_Search"
+msgstr "_Поиск"
+
+msgid "_Search:"
+msgstr "_Найти:"
+
+msgid "_Text to copy:"
+msgstr "_Текст для копирования:"
+
+msgid "_View"
+msgstr "_Вид"
+
+msgid "translator-credits"
+msgstr ""
+"Носенко Андрей <awn@bcs.zp.ua>, 2003\n"
+"Дмитрий Мастрюков <dmitry@taurussoft.org>, 2004\n"
+"Леонид Кантер <leon@asplinux.ru>, 2006"

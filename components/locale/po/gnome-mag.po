@@ -1,0 +1,184 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-mag\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-09-12 20:14+0400\n"
+"PO-Revision-Date: 2004-03-17 11:33+0200\n"
+"Last-Translator: Nickolay V. Shmyrev <nshmyrev@yandex.ru>\n"
+"Language-Team: Russian <gnome-cyr@gnome.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "<b>Default Filter</b>"
+msgstr "<b>Фильтр по умолчанию</b>"
+
+msgid "<b>Filters</b>"
+msgstr "<b>Фильтры</b>"
+
+msgid "<b>Shortcut</b>"
+msgstr "<b>Быстрая клавиша</b>"
+
+msgid ""
+"<i>This is the filter that will be used when enabling/disabling the filters."
+"</i>"
+msgstr ""
+"<i>С помощью этого элемента управления можно включать/выключать фильтры.</i>"
+
+msgid "Accessibility"
+msgstr "Вспомогательные технологии"
+
+msgid "Can't open display: DISPLAY is not set"
+msgstr ""
+"Не удалось открыть соединение: переменная окружения DISPLAY не установлена"
+
+msgid "Colorblind Applet"
+msgstr "Апплет контроля передачи цвета"
+
+msgid "Colorblind Filters Preferences"
+msgstr "Параметры цветовых фильтров"
+
+msgid "Colorblind applet"
+msgstr "Апплет для людей с недостатками восприятия цвета"
+
+msgid ""
+"Configure the filter being used as default when the filters are disabled."
+msgstr "Настройте фильтры, используемые по умолчанию."
+
+msgid "Controls image filters for colorblind people"
+msgstr ""
+"Управляет фильтрами изображений для людей с недостатками восприятия цвета"
+
+msgid "Enable/Disable Filters:"
+msgstr "Включить/Выключить фильтры:"
+
+msgid "Filter:"
+msgstr "Фильтр:"
+
+msgid ""
+"Image filters for the colorblind. This is applet is part of gnome-mag, a "
+"magnification service for GNOME."
+msgstr ""
+"Фильтры отображения для людей с изменённой цветопередачей. Этот апплет "
+"является частью пакета gnome-mag, предоставляющего сервис экранной лупы GNOME"
+
+msgid "Magnifier"
+msgstr "Лупа"
+
+msgid "Negative Hue Shift"
+msgstr "Уменьшение цветности"
+
+msgid "New accelerator..."
+msgstr "Новая быстрая клавиша..."
+
+msgid "Positive Hue Shift"
+msgstr "Увеличение цветности"
+
+msgid "Select Next Filter:"
+msgstr "Следующий фильтр:"
+
+msgid "Selective Blue Desaturation"
+msgstr "Выборочное ослабление синего"
+
+msgid "Selective Blue Saturation"
+msgstr "Выборочное усиление синего"
+
+msgid "Selective Green Desaturation"
+msgstr "Выборочное ослабление зелёного"
+
+msgid "Selective Green Saturation"
+msgstr "Выборочное усиление зелёного"
+
+msgid "Selective Red Desaturation"
+msgstr "Выборочное ослабление красного"
+
+msgid "Selective Red Saturation"
+msgstr "Выборочное усиление красного"
+
+msgid "Simple Screen Magnification Service"
+msgstr "Простая служба увеличения экрана"
+
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type "
+"using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time.\n"
+msgstr ""
+"Невозможно использовать быструю клавишу \"%s\", потому что это помешает "
+"набору с клавиатуры.\n"
+"Используйте одновременную комбинацию с клавишами Control, Alt или Shift.\n"
+
+msgid ""
+"This filter completely desaturates the blue color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Этот фильтр полностью обесцвечивает синий цвет, если он является главным "
+"цветом изображения."
+
+msgid ""
+"This filter completely desaturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Этот фильтр полностью обесцвечивает зелёный цвет, если он является главным "
+"цветом изображения."
+
+msgid ""
+"This filter completely desaturates the red color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Этот фильтр полностью обесцвечивает красный цвет, если он является главным "
+"цветом изображения."
+
+msgid ""
+"This filter completely saturates the blue color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Этот фильтр выделяет синий цвет, если он является главным цветом изображения."
+
+msgid ""
+"This filter completely saturates the green color when this is the "
+"predominant pixel color in the image."
+msgstr ""
+"Этот фильтр выделяет зелёный цвет, если он является главным цветом "
+"изображения."
+
+msgid ""
+"This filter completely saturates the red color when this is the predominant "
+"pixel color in the image."
+msgstr ""
+"Этот фильтр выделяет красный цвет, если он является главным цветом "
+"изображения."
+
+msgid ""
+"Transforms the colors Red to Blue, Green to Red and Blue to Green, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Преобразует красный в синий, зелёный в красный и синий в зелёный, таким "
+"образом сдвигая неразличимую комбинацию цветов в другую часть спектра."
+
+msgid ""
+"Transforms the colors Red to Green, Green to Blue and Blue to Red, carrying "
+"a potentially ambiguous set of colors to a different band of the spectrum."
+msgstr ""
+"Преобразует красный в зелёный, зелёный в синий и синий в красный, таким "
+"образом сдвигая неразличимую комбинацию цветов в другую часть спектра."
+
+msgid "_About"
+msgstr "_О программе"
+
+msgid "_Edit"
+msgstr "_Правка"
+
+msgid "_File"
+msgstr "_Файл"
+
+msgid "_Preferences"
+msgstr "_Параметры"
+
+msgid "_Quit"
+msgstr "В_ыход"
+
+msgid "gnome-mag website"
+msgstr "Веб-сайт gnome-mag"
+
+msgid "translator-credits"
+msgstr "Nickolay V. Shmyrev <nshmyrev@yandex.ru>, 2007"

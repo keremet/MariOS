@@ -1,0 +1,823 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libwnck HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-02-13 16:30+0900\n"
+"PO-Revision-Date: 2007-02-13 10:30+0900\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "\"%s\""
+msgstr "«%s»"
+
+msgid "%1$s%2$s%3$s"
+msgstr "%1$s%2$s%3$s"
+
+msgid "%d (\"%s\")"
+msgstr "%d («%s»)"
+
+msgid "%d: %s\n"
+msgstr "%d: %s\n"
+
+msgid "%lu (%s)"
+msgstr "%lu (%s)"
+
+msgid "%lu: %s\n"
+msgstr "%lu: %s\n"
+
+msgid ", "
+msgstr ", "
+
+msgid "<name unset>"
+msgstr "‹имя не установлено›"
+
+msgid "<no EWMH-compliant window manager>"
+msgstr "‹менеджер окон не соответствует стандарту EWMN›"
+
+msgid "<no viewport>"
+msgstr "‹нет видимой области›"
+
+msgid "<unset>"
+msgstr "‹не установлено›"
+
+msgid "Action not allowed\n"
+msgstr "Действие запрещено\n"
+
+msgid "Activate the window"
+msgstr "Активировать окно"
+
+msgid "Activate the workspace"
+msgstr "Активировать рабочее место"
+
+msgid "Active Window: %s\n"
+msgstr "Активное окно: %s\n"
+
+msgid "Active Workspace: %s\n"
+msgstr "Активное рабочее место: %s\n"
+
+msgid "Alias of --window"
+msgstr "то же, что и --window"
+
+msgid "Always On _Top"
+msgstr "Всегда _наверху"
+
+msgid "Always group windows"
+msgstr "Всегда группировать окна"
+
+msgid "Bottom Neighbor: %s\n"
+msgstr "Сосед снизу: %s\n"
+
+msgid "CLASS"
+msgstr "КЛАСС"
+
+msgid ""
+"Cannot change the workspace layout on the screen: the layout is already "
+"owned\n"
+msgstr ""
+"Не удалось сменить расположение рабочих мест на экране: расположение уже "
+"используется\n"
+
+msgid ""
+"Cannot interact with application having its group leader with XID %lu: the "
+"application cannot be found\n"
+msgstr ""
+"Не удалось обратиться к приложению с идентификатором XID главного окна %lu: "
+"приложение не найдено\n"
+
+msgid ""
+"Cannot interact with class group \"%s\": the class group cannot be found\n"
+msgstr "Не удалось обратиться к классу «%s»: класс не найден\n"
+
+msgid "Cannot interact with screen %d: the screen does not exist\n"
+msgstr "Не удалось обратиться к экрану %d: экран не существует\n"
+
+msgid "Cannot interact with window with XID %lu: the window cannot be found\n"
+msgstr ""
+"Не удалось обратиться к окну с идентификатором XID %lu: окно не найдено\n"
+
+msgid "Cannot interact with workspace %d: the workspace cannot be found\n"
+msgstr ""
+"Не удалось обратиться к рабочему месту %d: рабочее место не существует\n"
+
+msgid "Change the X coordinate of the window to X"
+msgstr "Сделать горизонтальную координату окна равной X"
+
+msgid "Change the Y coordinate of the window to Y"
+msgstr "Сделать вертикальную координату окна равной Y"
+
+msgid "Change the height of the window to HEIGHT"
+msgstr "Сделать высоту окна равной ВЫСОТЕ"
+
+msgid "Change the name of the workspace to NAME"
+msgstr "Сменить имя рабочего места на ИМЯ"
+
+msgid "Change the number of workspaces of the screen to NUMBER"
+msgstr "Изменить число рабочих мест на экране на ЧИСЛО"
+
+msgid ""
+"Change the type of the window to TYPE (valid values: normal, desktop, dock, "
+"dialog, toolbar, menu, utility, splash)"
+msgstr ""
+"Сменить тип окна на ТИП (возможные значения: normal, desktop, dock, dialog, "
+"toolbar, menu, utility, splash)"
+
+msgid "Change the width of the window to WIDTH"
+msgstr "Сделать ширину окна равной ШИРИНЕ"
+
+msgid "Change the workspace layout of the screen to use NUMBER columns"
+msgstr "Расположить рабочие места на экране в ЧИСЛО столбцов"
+
+msgid "Change the workspace layout of the screen to use NUMBER rows"
+msgstr "Расположить рабочие места на экране в ЧИСЛО строк"
+
+msgid "Class Group: %s\n"
+msgstr "Класс: %s\n"
+
+msgid "Class resource of the class group to examine"
+msgstr "Ресурс класса для того класса, который надо изучить"
+
+msgid "Click this to switch to workspace %s"
+msgstr "Щёлкните, чтобы переключиться на рабочее место %s"
+
+msgid "Click to start dragging \"%s\""
+msgstr "Щёлкните, чтобы начать перетаскивать «%s»"
+
+msgid "Click to switch to \"%s\""
+msgstr "Щёлкните, чтобы переключиться на «%s»"
+
+msgid "Close the window"
+msgstr "Закрыть окно"
+
+msgid "Conflicting options are present: --%s and --%s\n"
+msgstr "Заданы несовместимые параметры: --%s и --%s\n"
+
+msgid "Conflicting options are present: --%s or --%s, and --%s\n"
+msgstr "Заданы несовместимые параметры: --%s или --%s, и --%s\n"
+
+msgid ""
+"Conflicting options are present: a window should be interacted with, but --"
+"%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должно быть указано окно, но использовано --"
+"%s\n"
+
+msgid ""
+"Conflicting options are present: an application should be interacted with, "
+"but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должно быть указано приложение, но "
+"использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: class group \"%s\" should be interacted "
+"with, but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: указан класс «%s», но использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: screen %d should be interacted with, but --"
+"%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: указан экран %d, но использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: windows of an application should be listed, "
+"but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должны быть перечислены окна приложения, но "
+"использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: windows of class group \"%s\" should be "
+"listed, but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должны быть перечислены окна класса «%s», но "
+"использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: windows of workspace %d should be listed, "
+"but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должны быть перечислены окна рабочего места "
+"%d, но использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: windows or workspaces of screen %d should "
+"be listed, but --%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: должны быть перечислены окна или рабочие "
+"места экрана %d, но использовано --%s\n"
+
+msgid ""
+"Conflicting options are present: workspace %d should be interacted with, but "
+"--%s has been used\n"
+msgstr ""
+"Заданы несовместимые параметры: указано рабочее место %d, но использовано --"
+"%s\n"
+
+msgid "Current workspace: \"%s\""
+msgstr "Текущее рабочее место: «%s»"
+
+msgid "Display windows from all workspaces"
+msgstr "Показывать окна на всех рабочих местах"
+
+msgid "Don't show window in tasklist"
+msgstr "Не показывать окно в списке окон"
+
+msgid "Enable Transparency"
+msgstr "Включить прозрачность"
+
+msgid "Error while parsing arguments: %s\n"
+msgstr "Произошла ошибка при разборе аргументов: %s\n"
+
+msgid "Geometry (width, height): %d, %d\n"
+msgstr "Размеры (ширина, высота): %d, %d\n"
+
+msgid "Geometry (x, y, width, height): %d, %d, %d, %d\n"
+msgstr "Геометрия (x, y, ширина, высота): %d, %d, %d, %d\n"
+
+msgid "Group Leader: %lu\n"
+msgstr "Главное окно группы: %lu\n"
+
+msgid "Group Name: %s\n"
+msgstr "Название группы: %s\n"
+
+msgid "HEIGHT"
+msgstr "ВЫСОТА"
+
+msgid "Icon Name: %s\n"
+msgstr "Имя значка: %s\n"
+
+msgid "Icons: %s\n"
+msgstr "Значки: %s\n"
+
+msgid "Invalid argument \"%d\" for --%s: the argument must be positive\n"
+msgstr ""
+"Недопустимый аргумент «%d» для параметра %s: аргумент должен быть "
+"положительным\n"
+
+msgid ""
+"Invalid argument \"%d\" for --%s: the argument must be strictly positive\n"
+msgstr ""
+"Недопустимый аргумент «%d» для параметра --%s: аргумент должен быть строго "
+"положительным\n"
+
+msgid "Invalid argument \"%s\" for --%s, valid values are: %s\n"
+msgstr "Недопустимый аргумент «%s» для %s, допустимые значения: %s\n"
+
+msgid "Invalid value \"%s\" for --%s"
+msgstr "Недопустимое значение «%s» для --%s"
+
+msgid "Left Neighbor: %s\n"
+msgstr "Левый сосед: %s\n"
+
+msgid ""
+"List windows of the application/class group/workspace/screen (output format: "
+"\"XID: Window Name\")"
+msgstr ""
+"Перечислить окна приложения/класса/рабочего места/экрана (формат вывода: "
+"«XID: Название окна»)"
+
+msgid ""
+"List workspaces of the screen (output format: \"Number: Workspace Name\")"
+msgstr ""
+"Перечислить рабочие места на текущем экране (формат вывода: «Номер: Название "
+"рабочего места»)"
+
+msgid "Ma_ximize"
+msgstr "Развернуть на весь _экран"
+
+msgid "Ma_ximize All"
+msgstr "Развернуть все на весь _экран"
+
+msgid "Make the window always on top"
+msgstr "Показывать окно поверх других"
+
+msgid "Make the window appear in pagers"
+msgstr "Показать окно на переключателе рабочих мест"
+
+msgid "Make the window appear in tasklists"
+msgstr "Показать окно в списке окон"
+
+msgid "Make the window below other windows"
+msgstr "Показывать окно под другими"
+
+msgid "Make the window fullscreen"
+msgstr "Перевести окно в полноэкранный режим"
+
+msgid "Make the window have a fixed position in the viewport"
+msgstr "Зафиксировать положение окна в видимой области"
+
+msgid "Make the window not always on top"
+msgstr "Отменить показ окна поверх других"
+
+msgid "Make the window not appear in pagers"
+msgstr "Скрыть окно на переключателе рабочих мест"
+
+msgid "Make the window not appear in tasklists"
+msgstr "Скрыть окно в списке окон"
+
+msgid "Make the window not below other windows"
+msgstr "Отменить показ окна поверх других"
+
+msgid "Make the window not have a fixed position in the viewport"
+msgstr "Отменить фиксированное положение окна в видимой области"
+
+msgid "Make the window quit fullscreen mode"
+msgstr "Вывести окно из полноэкранного режима"
+
+msgid "Make the window visible on all workspaces"
+msgstr "Показывать окно на всех рабочих местах"
+
+msgid "Make the window visible on the current workspace only"
+msgstr "Показывать окно только на текущем рабочем месте"
+
+msgid "Maximize horizontally the window"
+msgstr "Развернуть окно горизонтально"
+
+msgid "Maximize the window"
+msgstr "Развернуть на весь экран"
+
+msgid "Maximize vertically the window"
+msgstr "Развернуть окно вертикально"
+
+msgid "Mi_nimize"
+msgstr "_Свернуть"
+
+msgid "Mi_nimize All"
+msgstr "_Свернуть все"
+
+msgid "Minimize the window"
+msgstr "Свернуть окно"
+
+msgid "Move the viewport of the current workspace to X coordinate X"
+msgstr ""
+"Переместить видимую область текущего рабочего места к горизонтальной "
+"координате X"
+
+msgid "Move the viewport of the current workspace to Y coordinate Y"
+msgstr ""
+"Переместить видимую область текущего рабочего места к вертикальной "
+"координате Y"
+
+msgid "Move the window to workspace NUMBER (first workspace is 0)"
+msgstr ""
+"Переместить окно на рабочее место с номером ЧИСЛО (первое рабочее место "
+"имеет номер 0)"
+
+msgid "Move to Another _Workspace"
+msgstr "Переместить на другое _рабочее место"
+
+msgid "Move to Workspace R_ight"
+msgstr "_Переместить на рабочее место справа"
+
+msgid "Move to Workspace _Down"
+msgstr "Переместить на рабочее место _ниже"
+
+msgid "Move to Workspace _Left"
+msgstr "Переместить на рабочее место с_лева"
+
+msgid "Move to Workspace _Up"
+msgstr "Переместить на рабочее место _выше"
+
+msgid "NAME"
+msgstr "ИМЯ"
+
+msgid "NUMBER"
+msgstr "НОМЕР"
+
+msgid "NUMBER of the screen to examine or modify"
+msgstr "НОМЕР экрана для изучения или правки"
+
+msgid "NUMBER of the workspace to examine or modify"
+msgstr "НОМЕР рабочего места для изучения или правки"
+
+msgid "N_ROWS"
+msgstr "N_ROWS"
+
+msgid "Name: %s\n"
+msgstr "Название: %s\n"
+
+msgid "Never group windows"
+msgstr "Никогда не группировать окна"
+
+msgid "No Windows Open"
+msgstr "Нет открытых окон"
+
+msgid "Number of Windows: %d\n"
+msgstr "Число окон: %d\n"
+
+msgid "Number of Workspaces: %d\n"
+msgstr "Число рабочих мест: %d\n"
+
+msgid "On Screen: %d (Window Manager: %s)\n"
+msgstr "На экране: %d (менеджер окон: %s)\n"
+
+msgid "On Workspace: %s\n"
+msgstr "На рабочем месте: %s\n"
+
+msgid "Only show current workspace"
+msgstr "Показывать только текущее рабочее место"
+
+msgid "Options to list windows or workspaces"
+msgstr "Возможности по перечислению окон или рабочих мест"
+
+msgid "Options to modify properties of a screen"
+msgstr "Возможности по изменению свойств экрана"
+
+msgid "Options to modify properties of a window"
+msgstr "Возможности по изменению свойств окна"
+
+msgid "Options to modify properties of a workspace"
+msgstr "Возможности по изменению свойств рабочего места"
+
+msgid "PID: %s\n"
+msgstr "PID: %s\n"
+
+msgid "Position in Layout (row, column): %d, %d\n"
+msgstr "Положение в раскладке рабочих мест (строка, столбец): %d, %d\n"
+
+msgid "Possible Actions: %s\n"
+msgstr "Возможные действия: %s\n"
+
+msgid ""
+"Print or modify the properties of a screen/workspace/window, or interact "
+"with it, following the EWMH specification.\n"
+"For information about this specification, see:\n"
+"\thttp://freedesktop.org/wiki/Specifications/wm-spec"
+msgstr ""
+"Вывести или изменить свойства экрана/рабочего места/окна, следуя "
+"спецификации EWMH.\n"
+"Подробнее о спецификации можно узнать по адресу:\n"
+"\thttp://freedesktop.org/wiki/Specifications/wm-spec"
+
+msgid "Resource Class: %s\n"
+msgstr "Ресурс класса: %s\n"
+
+msgid "Right Neighbor: %s\n"
+msgstr "Правый сосед: %s\n"
+
+msgid "Screen Number: %d\n"
+msgstr "Номер экрана: %d\n"
+
+msgid "Session ID: %s\n"
+msgstr "Идентификатор сеанса: %s\n"
+
+msgid "Shade the window"
+msgstr "Свернуть окно в полоску"
+
+msgid "Show options to list windows or workspaces"
+msgstr "Показать возможности по перечислению окон или рабочих мест"
+
+msgid "Show options to modify properties of a screen"
+msgstr "Показать возможности по изменению свойств экрана"
+
+msgid "Show options to modify properties of a window"
+msgstr "Показать возможности по изменению свойств окна"
+
+msgid "Show options to modify properties of a workspace"
+msgstr "Показать возможности по изменению свойств рабочего места"
+
+msgid "Show the desktop"
+msgstr "Показать рабочий стол"
+
+msgid "Show workspace names instead of workspace contents"
+msgstr "Показывать названия рабочих мест вместо содержимого"
+
+msgid "Showing the desktop: %s\n"
+msgstr "Отображение рабочего стола: %s\n"
+
+msgid "Start moving the window via the keyboard"
+msgstr "Начать перемещение окна с помощью клавиатуры"
+
+msgid "Start resizing the window via the keyboard"
+msgstr "Начать изменение размера окна с помощью клавиатуры"
+
+msgid "Startup ID: %s\n"
+msgstr "Идентификатор запуска: %s\n"
+
+msgid "State: %s\n"
+msgstr "Состояние: %s\n"
+
+msgid "Stop showing the desktop"
+msgstr "Прекратить показ рабочего стола"
+
+msgid "TYPE"
+msgstr "ТИП"
+
+msgid "Tool to switch between visible windows"
+msgstr "Средство для переключения между видимыми окнами"
+
+msgid "Tool to switch between windows"
+msgstr "Средство для переключения между окнами"
+
+msgid "Tool to switch between workspaces"
+msgstr "Средство для переключения между рабочими местами"
+
+msgid "Top Neighbor: %s\n"
+msgstr "Сосед сверху: %s\n"
+
+msgid "Transient for: %lu\n"
+msgstr "Расположено над: %lu\n"
+
+msgid "Trusted Path"
+msgstr "Доверенный путь "
+
+msgid "Un_minimize All"
+msgstr "_Развернуть все"
+
+msgid "Unma_ximize"
+msgstr "Восстановить _прежний размер"
+
+msgid "Unmaximize horizontally the window"
+msgstr "Восстановить горизонтальный размер окна"
+
+msgid "Unmaximize the window"
+msgstr "Восстановить прежний размер"
+
+msgid "Unmaximize vertically the window"
+msgstr "Восстановить вертикальный размер окна"
+
+msgid "Unmi_nimize"
+msgstr "_Развернуть"
+
+msgid "Unminimize the window"
+msgstr "Развернуть окно"
+
+msgid "Unshade the window"
+msgstr "Развернуть окно из полоски"
+
+msgid "Untitled application"
+msgstr "Безымянное приложение"
+
+msgid "Untitled window"
+msgstr "Безымянное окно"
+
+msgid "Use N_ROWS rows"
+msgstr "Использовать N_ROWS строк"
+
+msgid "Use RTL as default direction"
+msgstr "Использовать по умолчанию направление справа налево"
+
+msgid "Use a vertical orientation"
+msgstr "Использовать вертикальную ориентацию"
+
+msgid ""
+"Viewport cannot be moved: the current workspace does not contain a viewport\n"
+msgstr ""
+"Не удалось переместить видимую область: текущее рабочее место не имеет "
+"видимых областей\n"
+
+msgid "Viewport cannot be moved: there is no current workspace\n"
+msgstr "Не удалось переместить видимую область: нет текущего рабочего места\n"
+
+msgid "Viewport position (x, y): %s\n"
+msgstr "Положение видимой области (x, y): %s\n"
+
+msgid "WIDTH"
+msgstr "ШИРИНА"
+
+msgid "Window List"
+msgstr "Список окон"
+
+msgid "Window Manager: %s\n"
+msgstr "Менеджер окон: %s\n"
+
+msgid "Window Selector"
+msgstr "Переключатель окон"
+
+msgid "Window Type: %s\n"
+msgstr "Тип окна: %s\n"
+
+msgid "Window cannot be moved to workspace %d: the workspace does not exist\n"
+msgstr ""
+"Не удалось переместить окно на рабочее место %d: рабочее место не "
+"существует\n"
+
+msgid "Workspace %d"
+msgstr "Рабочее место %d"
+
+msgid "Workspace %s%d"
+msgstr "Рабочее место %s%d"
+
+msgid "Workspace 1_0"
+msgstr "Рабочее место 1_0"
+
+msgid "Workspace Layout (rows, columns, orientation): %d, %d, %s\n"
+msgstr "Расположение рабочих мест (строк, столбцов, направление): %d, %d, %s\n"
+
+msgid "Workspace Name: %s\n"
+msgstr "Название рабочего места: %s\n"
+
+msgid "Workspace Number: %d\n"
+msgstr "Номер рабочего места: %d\n"
+
+msgid "Workspace Switcher"
+msgstr "Переключатель рабочих мест"
+
+msgid "X"
+msgstr "X"
+
+msgid "X window ID of the group leader of an application to examine"
+msgstr ""
+"Идентификатор главного окна приложения, которое надо изучить, в рамках X-"
+"сервера"
+
+msgid "X window ID of the window to examine or modify"
+msgstr ""
+"Идентификатор окна, которое надо изучить или изменить, в рамках X-сервера"
+
+msgid "XID"
+msgstr "XID"
+
+msgid "XID: %lu\n"
+msgstr "XID: %lu\n"
+
+msgid "Y"
+msgstr "Y"
+
+msgid "_Always on Visible Workspace"
+msgstr "_Всегда на видимом рабочем месте"
+
+msgid "_Close"
+msgstr "_Закрыть"
+
+msgid "_Close All"
+msgstr "_Закрыть все"
+
+msgid "_Move"
+msgstr "Пере_местить"
+
+msgid "_Only on This Workspace"
+msgstr "_Только на этом рабочем месте"
+
+msgid "_Resize"
+msgstr "_Изменить размер"
+
+msgid "_Unmaximize All"
+msgstr "Восстановить размер у вс_ех"
+
+msgid "above"
+msgstr "над"
+
+msgid "all workspaces"
+msgstr "все рабочие места"
+
+msgid "below"
+msgstr "под"
+
+msgid "change fullscreen mode"
+msgstr "изменить полноэкранный режим"
+
+msgid "change workspace"
+msgstr "изменить рабочее место"
+
+msgid "close"
+msgstr "закрыть"
+
+msgid "desktop"
+msgstr "рабочий стол"
+
+msgid "dialog window"
+msgstr "окно диалога"
+
+msgid "dock or panel"
+msgstr "плавающий элемент или панель"
+
+msgid "false"
+msgstr "нет"
+
+msgid "fullscreen"
+msgstr "полный экран"
+
+msgid "make above"
+msgstr "поместить над"
+
+msgid "make below"
+msgstr "поместить под"
+
+msgid "maximize"
+msgstr "развернуть на весь экран"
+
+msgid "maximize horizontally"
+msgstr "развернуть горизонтально"
+
+msgid "maximize vertically"
+msgstr "развернуть вертикально"
+
+msgid "maximized"
+msgstr "развёрнуто на весь экран"
+
+msgid "maximized horizontally"
+msgstr "развёрнуто горизонтально"
+
+msgid "maximized vertically"
+msgstr "развёрнуто вертикально"
+
+msgid "minimize"
+msgstr "свернуть"
+
+msgid "minimized"
+msgstr "свёрнуто"
+
+msgid "move"
+msgstr "переместить"
+
+msgid "needs attention"
+msgstr "требует внимания"
+
+msgid "no action possible"
+msgstr "невозможны никакие действия"
+
+msgid "normal"
+msgstr "обычное"
+
+msgid "normal window"
+msgstr "обычное окно"
+
+msgid "pin"
+msgstr "прикрепить"
+
+msgid "pinned"
+msgstr "приколото"
+
+msgid "resize"
+msgstr "изменить размер"
+
+msgid "set"
+msgstr "установлено"
+
+msgid "shade"
+msgstr "свернуть в полоску"
+
+msgid "shaded"
+msgstr "свёрнуто в полоску"
+
+msgid "skip pager"
+msgstr "пропущено в переключателе рабочих мест"
+
+msgid "skip tasklist"
+msgstr "пропущено в списке окон"
+
+msgid "splash screen"
+msgstr "экран приветствия"
+
+msgctxt "startupID"
+msgid "none"
+msgstr "не задан"
+
+msgid "stick"
+msgstr "приклеить"
+
+msgid "sticky"
+msgstr "приклеено"
+
+msgid "tearoff menu"
+msgstr "отсоединяемое меню"
+
+msgid "tearoff toolbar"
+msgstr "отсоединяемая панель инструментов"
+
+msgid "true"
+msgstr "да"
+
+msgid "unmake above"
+msgstr "отменить положение над"
+
+msgid "unmake below"
+msgstr "отменить положение под"
+
+msgid "unmaximize"
+msgstr "восстановить прежний размер"
+
+msgid "unmaximize horizontally"
+msgstr "восстановить горизонтальный размер"
+
+msgid "unmaximize vertically"
+msgstr "восстановить вертикальный размер"
+
+msgid "unminimize"
+msgstr "развернуть"
+
+msgid "unpin"
+msgstr "открепить"
+
+msgid "unshade"
+msgstr "развернуть из полоски"
+
+msgid "unstick"
+msgstr "отклеить"
+
+msgid "utility window"
+msgstr "вспомогательное окно"
+
+msgctxt "window"
+msgid "none"
+msgstr "не задано"
+
+msgctxt "workspace"
+msgid "none"
+msgstr "не задано"

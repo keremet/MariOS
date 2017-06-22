@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ru\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-02-28 17:18+0200\n"
+"PO-Revision-Date: 2009-10-11 16:33+0300\n"
+"Last-Translator: Leonid Kanter <leon@asplinux.ru>\n"
+"Language-Team: Russian <ru@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms:  nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: KBabel 1.11.4\n"
+
+msgid "%.0fm"
+msgstr "%.0f м"
+
+msgid "%.1f K"
+msgstr "%.1f K"
+
+msgid "%.1f km"
+msgstr "%.1f км"
+
+msgid "%.1f km/h"
+msgstr "%.1f км/ч"
+
+msgid "%.1f m/s"
+msgstr "%.1f м/с"
+
+msgid "%.1f miles"
+msgstr "%.1f миль"
+
+msgid "%.1f mmHg"
+msgstr "%.2f мм рт. ст."
+
+msgid "%.1f mph"
+msgstr "%.1f миль/ч"
+
+msgid "%.1f °C"
+msgstr "%.1f °C"
+
+msgid "%.1f °F"
+msgstr "%.1f °F"
+
+msgid "%.2f hPa"
+msgstr "%.2f гПа"
+
+msgid "%.2f inHg"
+msgstr "%.2f дюймов рт. ст."
+
+msgid "%.2f kPa"
+msgstr "%.2f кПа"
+
+msgid "%.2f mb"
+msgstr "%.2f мбар"
+
+msgid "%.3f atm"
+msgstr "%.3f атм"
+
+msgid "%.f%%"
+msgstr "%.f%%"
+
+msgid "%0.1f knots"
+msgstr "%0.1f узлов"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%a, %b %d / %H:%M"
+msgstr "%a, %d %b / %H:%M"
+
+msgid "%d K"
+msgstr "%d K"
+
+msgid "%d °C"
+msgstr "%d °C"
+
+msgid "%d °F"
+msgstr "%d °F"
+
+msgid "%s / %s"
+msgstr "%s/%s"
+
+msgid ""
+"A three-digit-long code for retrieving radar maps from weather.com, found "
+"from http://git.gnome.org/cgit/libgweather/plain/data/Locations.xml.in"
+msgstr ""
+"Трёхзначный код для получения радарных карт от weather.com — его можно найти "
+"по адресу http://git.gnome.org/cgit/libgweather/plain/data/Locations.xml.in"
+
+msgid ""
+"A unique zone for the city, as found from http://git.gnome.org/cgit/"
+"libgweather/plain/data/Locations.xml.in"
+msgstr ""
+"Уникальная зона для города — её можно найти в http://git.gnome.org/cgit/"
+"libgweather/plain/data/Locations.xml.in"
+
+msgid "Beaufort force %.1f"
+msgstr "%.1f баллов по шкале Бофорта"
+
+msgid "Beaufort scale"
+msgstr "шкала Бофорта"
+
+msgid "Blowing dust"
+msgstr "Пылевая буря"
+
+msgid "Blowing sand"
+msgstr "Низовая песчаная буря"
+
+msgid "Blowing snowfall"
+msgstr "Снегопад"
+
+msgid "Blowing sprays"
+msgstr "Порывы ветра с пылью"
+
+msgid "Broken clouds"
+msgstr "Облачно с прояснениями"
+
+msgid "C"
+msgstr "C"
+
+msgid "Calm"
+msgstr "Штиль"
+
+msgid "Clear Sky"
+msgstr "Ясное небо"
+
+msgid "DEFAULT_CODE"
+msgstr "UUEE"
+
+msgid "DEFAULT_COORDINATES"
+msgstr "55-59N 037-30E"
+
+msgid "DEFAULT_DISTANCE_UNIT"
+msgstr "km"
+
+msgid "DEFAULT_LOCATION"
+msgstr "Москва - Шереметьево"
+
+msgid "DEFAULT_PRESSURE_UNIT"
+msgstr "mmHg"
+
+msgid "DEFAULT_RADAR"
+msgstr " "
+
+msgid "DEFAULT_SPEED_UNIT"
+msgstr "m/s"
+
+msgid "DEFAULT_TEMP_UNIT"
+msgstr "C"
+
+msgid "DEFAULT_ZONE"
+msgstr " "
+
+msgid "Default"
+msgstr "По умолчанию"
+
+msgid ""
+"Determines whether the applet automatically updates its weather statistics "
+"or not."
+msgstr "Определяет, нужно ли автоматически обновлять данные о погоде."
+
+msgid "Display radar map"
+msgstr "Показывать радарную карту"
+
+msgid "Distance unit"
+msgstr "Единица расстояния"
+
+msgid "Drifting dust"
+msgstr "Пылевая буря"
+
+msgid "Drifting sand"
+msgstr "Песчаные заносы"
+
+msgid "Drifting snow"
+msgstr "Снежные заносы"
+
+msgid "Drizzle"
+msgstr "Моросящий дождь"
+
+msgid "Dust"
+msgstr "Пыль"
+
+msgid "Dust whirls"
+msgstr "Пыльные вихри"
+
+msgid "Dust whirls in the vicinity"
+msgstr "В окрестностях пыльные вихри"
+
+msgid "Duststorm"
+msgstr "Пыльная буря"
+
+msgid "Duststorm in the vicinity"
+msgstr "В окрестностях пыльная буря"
+
+msgid "East"
+msgstr "Восточный"
+
+msgid "East - NorthEast"
+msgstr "Восточно-северо-восточный"
+
+msgid "East - Southeast"
+msgstr "Восточно-юго-восточный"
+
+msgid "F"
+msgstr "F"
+
+msgid "Failed to get METAR data: %d %s.\n"
+msgstr "Не удалось получить данные METAR: %d %s.\n"
+
+msgid "Fetch a radar map on each update."
+msgstr "Изменять радарную карту при каждом обновлении."
+
+msgid "Few clouds"
+msgstr "Незначительная облачность"
+
+msgid "Few ice pellets"
+msgstr "Небольшой град"
+
+msgid "Fog"
+msgstr "Туман"
+
+msgid "Fog in the vicinity"
+msgstr "В окрестностях туман"
+
+msgid "Freezing drizzle"
+msgstr "Моросящий дождь с градом"
+
+msgid "Freezing fog"
+msgstr "Замерзающий туман"
+
+msgid "Freezing rain"
+msgstr "Дождь с градом"
+
+msgid "Funnel cloud"
+msgstr "Смерч"
+
+msgid "Greenwich Mean Time"
+msgstr "По Гринвичу"
+
+msgid "Hail"
+msgstr "Град"
+
+msgid "Hail showers"
+msgstr "Местами град"
+
+msgid "Hailstorm"
+msgstr "Буря с градом"
+
+msgid "Haze"
+msgstr "Пыльная мгла"
+
+msgid "Heavy drizzle"
+msgstr "Сильный моросящий дождь"
+
+msgid "Heavy duststorm"
+msgstr "Сильная пыльная буря"
+
+msgid "Heavy ice pellets"
+msgstr "Сильный град"
+
+msgid "Heavy rain"
+msgstr "Сильный дождь"
+
+msgid "Heavy sandstorm"
+msgstr "Сильная песчаная буря"
+
+msgid "Heavy snow"
+msgstr "Сильный снег"
+
+msgid "Heavy snow grains"
+msgstr "Сильная снежная крупа"
+
+msgid "Ice crystals"
+msgstr "Кристаллы льда"
+
+msgid "Ice pellet storm"
+msgstr "Буря с градом"
+
+msgid "Ice pellets"
+msgstr "Град"
+
+msgid ""
+"If true, then retrieve a radar map from a location specified by the \"radar"
+"\" key."
+msgstr ""
+"Если этот ключ установлен, то получать радарную карту из адреса, заданного "
+"ключом «radar»."
+
+msgid "Invalid"
+msgstr "Недопустимый"
+
+msgid "K"
+msgstr "K"
+
+msgid ""
+"Latitude and longitude of your location expressed in DD-MM-SS[NS] DD-MM-"
+"SS[EW]."
+msgstr "Ваши широта и долгота в формате DD-MM-SS[NS] DD-MM-SS[EW]."
+
+msgid "Light drizzle"
+msgstr "Небольшой моросящий дождь"
+
+msgid "Light rain"
+msgstr "Слабый дождь"
+
+msgid "Light snow"
+msgstr "Небольшой снег"
+
+msgid "Light snow grains"
+msgstr "Небольшая снежная крупа"
+
+msgid "Location coordinates"
+msgstr "Координаты местоположения"
+
+msgid "Mist"
+msgstr "Приземный туман"
+
+msgid "Moderate drizzle"
+msgstr "Умеренный моросящий дождь"
+
+msgid "Moderate ice pellets"
+msgstr "Умеренный град"
+
+msgid "Moderate rain"
+msgstr "Умеренный дождь"
+
+msgid "Moderate snow"
+msgstr "Умеренный снег"
+
+msgid "Moderate snow grains"
+msgstr "Умеренная снежная крупа"
+
+msgid "Nearby city"
+msgstr "Ближайший город"
+
+msgid ""
+"Nearby major zone, such as a capital city, as found from http://git.gnome."
+"org/cgit/libgweather/plain/data/Locations.xml.in"
+msgstr ""
+"Ближайший крупный город — его можно найти в http://git.gnome.org/cgit/"
+"libgweather/plain/data/Locations.xml.in"
+
+msgid "North"
+msgstr "Северный"
+
+msgid "North - NorthEast"
+msgstr "Северо-северо-восточный"
+
+msgid "North - Northwest"
+msgstr "Северо-северо-западный"
+
+msgid "Northeast"
+msgstr "Северо-восточный"
+
+msgid "Northwest"
+msgstr "Северо-западный"
+
+msgid "Not used anymore"
+msgstr "Больше не используется"
+
+msgid "Overcast"
+msgstr "Сплошная облачность"
+
+msgid "Partial fog"
+msgstr "Временами туман"
+
+msgid "Patches of fog"
+msgstr "Местами туман"
+
+msgid "Pressure unit"
+msgstr "Единица давления"
+
+msgid "Radar location"
+msgstr "Радарный адрес"
+
+msgid "Rain"
+msgstr "Дождь"
+
+msgid "Rain showers"
+msgstr "Ливневый дождь"
+
+msgid "Retrieval failed"
+msgstr "Произошёл сбой при получении"
+
+msgid "Sand"
+msgstr "Песчаная буря"
+
+msgid "Sandstorm"
+msgstr "Песчаная буря"
+
+msgid "Sandstorm in the vicinity"
+msgstr "В окрестностях песчаная буря"
+
+msgid "Scattered clouds"
+msgstr "Рассеянные облака"
+
+msgid "Shallow fog"
+msgstr "Ливневый туман"
+
+msgid "Showers of ice pellets"
+msgstr "Ливень с градом"
+
+msgid "Showers of small hail"
+msgstr "Ливневый мелкий град"
+
+msgid "Small hail"
+msgstr "Мелкий град"
+
+msgid "Small hailstorm"
+msgstr "Небольшая буря с градом"
+
+msgid "Smoke"
+msgstr "Дым"
+
+msgid "Snow"
+msgstr "Снег"
+
+msgid "Snow grains"
+msgstr "Снежная крупа"
+
+msgid "Snow showers"
+msgstr "Пурга"
+
+msgid "Snowstorm"
+msgstr "Метель"
+
+msgid "South"
+msgstr "Южный"
+
+msgid "South - Southeast"
+msgstr "Юго-юго-восточный"
+
+msgid "South - Southwest"
+msgstr "Юго-юго-западный"
+
+msgid "Southeast"
+msgstr "Юго-восточный"
+
+msgid "Southwest"
+msgstr "Юго-западный"
+
+msgid "Speed unit"
+msgstr "Единица скорости"
+
+msgid "Squall"
+msgstr "Шквал"
+
+msgid "Temperature unit"
+msgstr "Единица температуры"
+
+msgid "The city that gweather displays information for."
+msgstr "Город, погоду в котором показывает gweather."
+
+msgid "The custom url from where to retrieve a radar map."
+msgstr "Пользовательский адрес для получения радарной карты."
+
+msgid "The interval, in seconds, between automatic updates."
+msgstr "Промежуток времени (в секундах) между автоматическими обновлениями."
+
+msgid "The unit to use for pressure."
+msgstr "Используемая единица измерения давления."
+
+msgid "The unit to use for temperature."
+msgstr "Используемая единица измерения температуры."
+
+msgid "The unit to use for visibility."
+msgstr "Используемая единица измерения видимости."
+
+msgid "The unit to use for wind speed."
+msgstr "Используемая единица измерения скорости ветра."
+
+msgid "Thunderstorm"
+msgstr "Гроза"
+
+msgid "Tornado"
+msgstr "Торнадо"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unknown observation time"
+msgstr "Неизвестное время наблюдения"
+
+msgid "Unknown precipitation"
+msgstr "Неизвестные осадки"
+
+msgid "Update interval"
+msgstr "Промежуток между обновлениями"
+
+msgid "Update the data automatically"
+msgstr "Обновлять данные автоматически"
+
+msgid "Url for the radar map"
+msgstr "Адрес для радарной карты"
+
+msgid "Use custom url for the radar map"
+msgstr "Использовать собственный адрес для радарной карты"
+
+msgid "Use metric units"
+msgstr "Использовать метрическую систему"
+
+msgid "Use metric units instead of english units."
+msgstr "Использовать метрическую систему мер вместо английской системы."
+
+msgid "Variable"
+msgstr "Переменный"
+
+msgid "Volcanic ash"
+msgstr "Вулканический пепел"
+
+msgid "Weather for a city"
+msgstr "Погода для города"
+
+msgid "Weather location information"
+msgstr "Сведения о погоде в местоположении"
+
+msgid "Weather location information."
+msgstr "Сведения о погоде в местоположении."
+
+msgid "WeatherInfo missing location"
+msgstr "Отсутствует адрес WeatherInfo"
+
+msgid "West"
+msgstr "Западный"
+
+msgid "West - Northwest"
+msgstr "Западно-северо-западный"
+
+msgid "West - Southwest"
+msgstr "Западно-юго-западный"
+
+msgid "Zone location"
+msgstr "Местоположение зоны"
+
+msgid "atm"
+msgstr "атм"
+
+msgid "hPa"
+msgstr "гектопаскаль"
+
+msgid "inHg"
+msgstr "дюйм рт. ст."
+
+msgid "kPa"
+msgstr "килопаскаль"
+
+msgid "km"
+msgstr "километры"
+
+msgid "km/h"
+msgstr "км/ч"
+
+msgid "knots"
+msgstr "узел"
+
+msgid "m"
+msgstr "м"
+
+msgid "m/s"
+msgstr "м/с"
+
+msgid "mb"
+msgstr "миллибар"
+
+msgid "mi"
+msgstr "миля"
+
+msgid "mmHg"
+msgstr "мм рт. ст."
+
+msgid "mph"
+msgstr "миля/ч"
+
+msgctxt "timezone"
+msgid "Unknown"
+msgstr "Неизвестная"

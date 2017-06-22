@@ -1,0 +1,2404 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: compiz\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-03-24 08:13+0100\n"
+"PO-Revision-Date: 2009-10-03 16:47+0200\n"
+"Last-Translator: Shnatsel <shnatsel@gmail.com>\n"
+"Language-Team: Russian <kde-russian@lists.kde.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 1.1.0\n"
+
+msgid "4xBilinear"
+msgstr "4-кратная билинейная фильтрация"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда0"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда1"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда10"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда11"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда2"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда3"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда4"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда5"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда6"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда7"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда8"
+
+msgid ""
+"A button binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда9"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда0"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда1"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда10"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда11"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда2"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда3"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда4"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда5"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда6"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда7"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда8"
+
+msgid ""
+"A keybinding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Комбинация клавиш, которая при вызове, выполнит команду оболочки, "
+"идентифицируемую как команда9"
+
+msgid "Acceleration"
+msgstr "Ускорение"
+
+msgid "Action to take when scrolling the mouse wheel on a window title bar."
+msgstr "Действие при прокрутке колесика мыши на заголовке окна."
+
+msgid "Active Plugins"
+msgstr "Активные модули"
+
+msgid "Add line"
+msgstr "Добавить линию"
+
+msgid "Add point"
+msgstr "Добавить точку"
+
+msgid "Adds water effects to different desktop actions"
+msgstr "Добавление эффектов воды к различным действиям рабочего стола"
+
+msgid "Adjust Image"
+msgstr "Настройка изображения"
+
+msgid "Adjust top face image to rotation"
+msgstr "Настройка изображения на верхней грани куба"
+
+msgid "Advance to next slide"
+msgstr "Переход к следующему слайду"
+
+msgid "Algorithm to use for window placement"
+msgstr "Алгоритм, используемый для размещения окна"
+
+msgid ""
+"Allow drawing of fullscreen windows to not be redirected to offscreen pixmaps"
+msgstr ""
+"Позволяет рисовать окна в полноэкранном режиме без перенаправления в области "
+"растрового отображения за пределами экрана"
+
+msgid "Allow mipmaps to be generated for decoration textures"
+msgstr "Разрешить генерацию мипмэпов для текстур оформления"
+
+msgid "Alpha Blur"
+msgstr "Размытие по альфа-каналу"
+
+msgid "Alpha blur windows"
+msgstr "Размытие окон по альфа-каналу"
+
+msgid "Amount of brightness in percent"
+msgstr "Уровень яркости в процентах"
+
+msgid "Amount of opacity in percent"
+msgstr "Степень прозрачности в процентах"
+
+msgid "Amount of saturation in percent"
+msgstr "Уровень насыщенности в процентах"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command0"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда0"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command1"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда1"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command10"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда10"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command11"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда11"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command2"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда2"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command3"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда3"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command4"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда4"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command5"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда5"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command6"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда6"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command7"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда7"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command8"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда8"
+
+msgid ""
+"An edge binding that when invoked, will run the shell command identified by "
+"command9"
+msgstr ""
+"Закрепление за гранью экрана, которое при наведении, выполнит команду "
+"оболочки, идентифицируемую как команда9"
+
+msgid "Animate Skydome"
+msgstr "Анимировать фон"
+
+msgid "Animate skydome when rotating cube"
+msgstr "Анимирование фона при вращении куба"
+
+msgid "Annotate"
+msgstr "Заметка"
+
+msgid "Annotate Fill Color"
+msgstr "Цвет заполнения заметки"
+
+msgid "Annotate Stroke Color"
+msgstr "Цвет черты заметки"
+
+msgid "Annotate plugin"
+msgstr "Модуль заметки"
+
+msgid "Appearance"
+msgstr "Внешний вид"
+
+msgid "Application Switcher"
+msgstr "Переключатель приложений"
+
+msgid "Assigns bindings to arbitrary commands"
+msgstr "Назначает закрепления на выполнение команд"
+
+msgid "Audible Bell"
+msgstr "Слышимый сигнал"
+
+msgid "Audible system beep"
+msgstr "Слышимый системный звуковой сигнал"
+
+msgid "Auto Rotate"
+msgstr "Автоматически переворачивать"
+
+msgid "Auto-Raise"
+msgstr "Автораскрытие"
+
+msgid "Auto-Raise Delay"
+msgstr "Задержка автораскрытия"
+
+msgid "Automatic"
+msgstr "Автоматический"
+
+msgid "Automatic detection of output devices"
+msgstr "Автоматическое определение устройств вывода"
+
+msgid "Automatic detection of refresh rate"
+msgstr "Автоматическое определение частоты обновления"
+
+msgid "Automatically open screenshot in this application"
+msgstr "Автоматически снимок экрана в этой программе"
+
+msgid "Behaviour"
+msgstr "Поведение"
+
+msgid "Best"
+msgstr "Наилучшее"
+
+msgid "Big"
+msgstr "Большой"
+
+msgid "Bindings"
+msgstr "Закрепление"
+
+msgid "Blur Filter"
+msgstr "Фильтр размытия"
+
+msgid "Blur Occlusion"
+msgstr "Преграждение размытия"
+
+msgid "Blur Saturation"
+msgstr "Насыщенность размытия"
+
+msgid "Blur Speed"
+msgstr "Скорость размытия"
+
+msgid "Blur Windows"
+msgstr "Размытие окон"
+
+msgid "Blur behind translucent parts of windows"
+msgstr "Размытие за прозрачными частями окон"
+
+msgid "Blur saturation"
+msgstr "Насыщенность размытия"
+
+msgid "Blur type"
+msgstr "Тип размытия"
+
+msgid "Blur windows"
+msgstr "Размытие окон"
+
+msgid "Blur windows that doesn't have focus"
+msgstr "Размытие окон, которые не активны"
+
+msgid "Border Color"
+msgstr "Цвет границы"
+
+msgid "Border color used for outline and rectangle resize modes"
+msgstr ""
+"Цвет границы, используемый для обрисовки контура и режимов изменения "
+"размеров прямоугольника"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "Brightness (in %) of unresponsive windows"
+msgstr "Яркость (в %) неотвечающих окон"
+
+msgid "Brightness Decrease"
+msgstr "Уменьшение яркости"
+
+msgid "Brightness Increase"
+msgstr "Увеличение яркости"
+
+msgid "Brightness Step"
+msgstr "Шаг изменения яркости"
+
+msgid "Brightness values for windows"
+msgstr "Значение яркости для окон"
+
+msgid "Bring To Front"
+msgstr "Переместить на передний план"
+
+msgid "Bring selected window to front"
+msgstr "Перемещение выбранного окна на передний план"
+
+msgid "Button Bindings"
+msgstr "Комбинации клавиш"
+
+msgid "Button Bindings Toggle Scale Mode"
+msgstr "Режим горячих клавиш с залипанием"
+
+msgid ""
+"Button bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Использовать режим горячих клавиш с залипанием вместо включения при нажатии "
+"и отключения при отпускании кнопок."
+
+msgid "Cascade"
+msgstr "Каскадом"
+
+msgid "Centered"
+msgstr "По центру"
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Click Desktop to Show Desktop"
+msgstr "Щелкнуть на рабочем столе для отображения рабочего стола"
+
+msgid "Click To Focus"
+msgstr "Щелкните для выделения"
+
+msgid "Click on window moves input focus to it"
+msgstr "Щелкните окно, чтобы передать ему фокус ввода"
+
+msgid "Clone Output"
+msgstr "Дублирование вывода"
+
+msgid "Close Window"
+msgstr "Закрыть окно"
+
+msgid "Close active window"
+msgstr "Закрытие активного окна"
+
+msgid "Color of top and bottom sides of the cube"
+msgstr "Цвет верхней и нижней граней куба"
+
+msgid "Color to use for the bottom color-stop of the skydome-fallback gradient"
+msgstr "Цвет, используемый для нижней границы градиента фона"
+
+msgid "Color to use for the top color-stop of the skydome-fallback gradient"
+msgstr "Цвет, используемый для верхней границы градиента фона"
+
+msgid "Command"
+msgstr "Команда"
+
+msgid "Command line 1"
+msgstr "Командная строка 1"
+
+msgid "Command line 10"
+msgstr "Командная строка 10"
+
+msgid "Command line 11"
+msgstr "Командная строка 11"
+
+msgid "Command line 12"
+msgstr "Командная строка 12"
+
+msgid "Command line 2"
+msgstr "Командная строка 2"
+
+msgid "Command line 3"
+msgstr "Командная строка 3"
+
+msgid "Command line 4"
+msgstr "Командная строка 4"
+
+msgid "Command line 5"
+msgstr "Командная строка 5"
+
+msgid "Command line 6"
+msgstr "Командная строка 6"
+
+msgid "Command line 7"
+msgstr "Командная строка 7"
+
+msgid "Command line 8"
+msgstr "Командная строка 8"
+
+msgid "Command line 9"
+msgstr "Командная строка 9"
+
+msgid "Command line to be executed in shell when run_command0 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command0"
+
+msgid "Command line to be executed in shell when run_command1 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command1"
+
+msgid "Command line to be executed in shell when run_command10 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command10"
+
+msgid "Command line to be executed in shell when run_command11 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command11"
+
+msgid "Command line to be executed in shell when run_command2 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command2"
+
+msgid "Command line to be executed in shell when run_command3 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command3"
+
+msgid "Command line to be executed in shell when run_command4 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command4"
+
+msgid "Command line to be executed in shell when run_command5 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command5"
+
+msgid "Command line to be executed in shell when run_command6 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command6"
+
+msgid "Command line to be executed in shell when run_command7 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command7"
+
+msgid "Command line to be executed in shell when run_command8 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command8"
+
+msgid "Command line to be executed in shell when run_command9 is invoked"
+msgstr ""
+"Командная строка, которая будет выполнена в оболочке при вызове run_command9"
+
+msgid "Commands"
+msgstr "Команды"
+
+msgid "Compiz"
+msgstr "Compiz"
+
+msgid "Constant speed"
+msgstr "Постоянная скорость"
+
+msgid "Constant time"
+msgstr "Постоянное время"
+
+msgid "Constrain Y"
+msgstr "Ограничить Y"
+
+msgid "Constrain Y coordinate to workspace area"
+msgstr "Ограничение координаты Y пределами рабочей области"
+
+msgid "Cube Caps"
+msgstr "Шапка куба"
+
+msgid "Cube Color"
+msgstr "Цвета куба"
+
+msgid "Darken Background"
+msgstr "Затемнить фон"
+
+msgid "Darken background when scaling windows"
+msgstr "Затемнение фона при масштабировании окон"
+
+msgid "Dbus"
+msgstr "Dbus"
+
+msgid "Dbus Control Backend"
+msgstr "Управление Dbus"
+
+msgid "Decoration windows"
+msgstr "Декорация окон"
+
+msgid ""
+"Decorator command line that is executed if no decorator is already running"
+msgstr ""
+"Командная строка декоратора, которая выполняется, если декоратор еще не "
+"запущен"
+
+msgid "Decrease"
+msgstr "Уменьшить"
+
+msgid "Default Icon"
+msgstr "Значок по умолчанию"
+
+msgid "Default Resize Mode"
+msgstr "Режим изменения размера по умолчанию"
+
+msgid "Default mode used for window resizing"
+msgstr "Режим по умолчанию, используемый для изменения размера окна"
+
+msgid "Default window icon image"
+msgstr "Значок окна по умолчанию"
+
+msgid "Delay (in ms) between each rain-drop"
+msgstr "Задержка (в мс) между каплями дождя"
+
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Desktop Cube"
+msgstr "Куб рабочего стола"
+
+msgid "Desktop Size"
+msgstr "Размер рабочего стола"
+
+msgid "Detect Outputs"
+msgstr "Определить устройства вывода"
+
+msgid "Detect Refresh Rate"
+msgstr "Определить частоту обновления"
+
+msgid "Dim Unresponsive Windows"
+msgstr "Затемнение не отвечающего окна"
+
+msgid "Dim windows that are not responding to window manager requests"
+msgstr "Затемнение окна, которое не отвечает на запросы менеджера окон"
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Disable blurring of screen regions obscured by other windows."
+msgstr "Отключить размытие областей экрана, скрытых другими окнами."
+
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+msgid "Distance desktop should be zoom out while switching windows"
+msgstr ""
+"При переключении окон рабочий стол на заднем плане должен быть уменьшен"
+
+msgid "Do not update the server-side position of windows until finished moving"
+msgstr ""
+"Не обновлять со стороны сервера положение окон до окончания перемещения"
+
+msgid "Draw"
+msgstr "Рисовать"
+
+msgid "Draw using tool"
+msgstr "Рисовать, используя инструмент"
+
+msgid "Drop shadow X offset"
+msgstr "Смещение отбрасываемой тени по оси X"
+
+msgid "Drop shadow Y offset"
+msgstr "Смещение отбрасываемой тени по оси Y"
+
+msgid "Drop shadow color"
+msgstr "Цвет отбрасываемой тени"
+
+msgid "Drop shadow opacity"
+msgstr "Прозрачность отбрасываемой тени"
+
+msgid "Drop shadow radius"
+msgstr "Радиус отбрасываемой тени"
+
+msgid ""
+"Duration the pointer must rest in a screen edge before an edge action is "
+"taken."
+msgstr ""
+"Задержка указателя мыши на краю экрана перед тем, как будет совершено "
+"действие края экрана."
+
+msgid "Edge Bindings"
+msgstr "Закрепления грани"
+
+msgid "Edge Flip DnD"
+msgstr "Отражение при перетаскивании к краю"
+
+msgid "Edge Flip Move"
+msgstr "Отражение при перемещении к краю"
+
+msgid "Edge Flip Pointer"
+msgstr "Отражение при курсоре на краю"
+
+msgid "Edge Trigger Delay"
+msgstr "Задержка срабатывания на краю"
+
+msgid "Emblem"
+msgstr "Эмблема"
+
+msgid "Enable pointer water effects"
+msgstr "Включить для курсора эффекты воды"
+
+msgid "Enter Show Desktop mode when Desktop is clicked during Scale"
+msgstr ""
+"Переход в режим отображения рабочего стола при щелчке мышью на рабочем столе "
+"во время масштабирования"
+
+msgid "Fade Mode"
+msgstr "Скорость исчезновения"
+
+msgid "Fade On Minimize/Open/Close"
+msgstr "Затенять при свертывании/открытии/закрытии"
+
+msgid "Fade Speed"
+msgstr "Скорость затенения"
+
+msgid "Fade Time"
+msgstr "Время исчезновения"
+
+msgid "Fade effect on minimize/open/close window events"
+msgstr "Эффект затенения при свертывании/открытии/закрытии окон"
+
+msgid "Fade effect on system beep"
+msgstr "Эффект затенения при системном звуковом сигнале"
+
+msgid "Fade in windows when mapped and fade out windows when unmapped"
+msgstr ""
+"Постепенное проявление окон при отображении и постепенное исчезновение при "
+"отмене отображения"
+
+msgid "Fade windows"
+msgstr "Затенение окон"
+
+msgid "Fading Windows"
+msgstr "Проявление/исчезание окон"
+
+msgid "Fast"
+msgstr "Быстрое"
+
+msgid "File change notification plugin"
+msgstr "Модуль извещения об изменении файла"
+
+msgid "Fill Color"
+msgstr "Цвет заливки"
+
+msgid "Fill color for annotations"
+msgstr "Цвет заливки для заметок"
+
+msgid "Fill color used for rectangle resize mode"
+msgstr ""
+"Цвет заливки, используемый для режима изменения размеров прямоугольника"
+
+msgid "Filter method used for blurring"
+msgstr "Метод фильтра, используемый для размывания границ"
+
+msgid "Fixed Window Placement"
+msgstr "Фиксированное размещение окна"
+
+msgid "Flip Time"
+msgstr "Время отражения"
+
+msgid "Flip to left viewport and warp pointer"
+msgstr "Отражение в левое кадровое окно и искажение курсора"
+
+msgid "Flip to next viewport when dragging object to screen edge"
+msgstr ""
+"Отражение на следующее кадровое окно при перетаскивании объекта к краю экрана"
+
+msgid "Flip to next viewport when moving pointer to screen edge"
+msgstr ""
+"Отражение на следующее кадровое окно при смещении курсора к краю экрана"
+
+msgid "Flip to next viewport when moving window to screen edge"
+msgstr ""
+"Отражение на следующее кадровое окно при перемещении окна к краю экрана"
+
+msgid "Flip to right viewport and warp pointer"
+msgstr "Отражение в правое кадровое окно и искажение курсора"
+
+msgid "Focus &amp; Raise Behaviour"
+msgstr "Поведение при развёртивании"
+
+msgid "Focus Blur"
+msgstr "Размытие активного"
+
+msgid "Focus Effect"
+msgstr "Эффект фокусировки"
+
+msgid "Focus Prevention Level"
+msgstr "Уровень упреждающей фокусировки"
+
+msgid "Focus Prevention Windows"
+msgstr "Упреждающая фокусировка окон"
+
+msgid "Focus Window Effect"
+msgstr "Эффект фокусировки окна"
+
+msgid "Focus Windows"
+msgstr "Типы окон с фокусом"
+
+msgid "Focus blur windows"
+msgstr "Размытие активных окон"
+
+msgid "Focus prevention windows"
+msgstr "Упреждающая фокусировка окон"
+
+msgid "Fold Acceleration"
+msgstr "Ускорение свертывания"
+
+msgid "Fold Speed"
+msgstr "Скорость свертывания"
+
+msgid "Fold Timestep"
+msgstr "Шаг времени свертывания"
+
+msgid "Force Placement Windows"
+msgstr "Принудительное позиционирование окон"
+
+msgid "Force independent output painting."
+msgstr "Принудительная независимая отрисовка вывода."
+
+msgid ""
+"Forcing this application to quit will cause you to lose any unsaved changes."
+msgstr ""
+"Ускоренное закрытие приложения приведет к потере не сохраненных изменений."
+
+msgid "Friction"
+msgstr "Трение"
+
+msgid "Fullscreen Visual Bell"
+msgstr "Полноэкранная визуализация звукового сигнала"
+
+msgid "Fullscreen fade effect on system beep"
+msgstr ""
+"Полноэкранный эффект проявления/исчезания при системном звуковом сигнале"
+
+msgid "GConf"
+msgstr "GConf"
+
+msgid "GConf Control Backend"
+msgstr "Управление GConf"
+
+msgid "GLib"
+msgstr "GLib"
+
+msgid "GLib main loop support"
+msgstr "Поддержка основного цикла GLib"
+
+msgid "Gaussian"
+msgstr "Гауссово размытие"
+
+msgid "Gaussian Radius"
+msgstr "Радиус размытия"
+
+msgid "Gaussian Strength"
+msgstr "Сила размытия"
+
+msgid "Gaussian radius"
+msgstr "Радиус размытия"
+
+msgid "Gaussian strength"
+msgstr "Сила размытия"
+
+msgid "General Options"
+msgstr "Общие настройки"
+
+msgid "General compiz options"
+msgstr "Общие настройки Compiz"
+
+msgid "Generate mipmaps when possible for higher quality scaling"
+msgstr ""
+"По возможности применять множественное отображение для масштабирования "
+"качества изображения"
+
+msgid "Gnome Compatibility"
+msgstr "Совместимость с Gnome"
+
+msgid "Go back to previous slide"
+msgstr "Возврат к предыдущему слайду"
+
+msgid "Good"
+msgstr "Хорошее"
+
+msgid "Grab Windows"
+msgstr "Типы окон при захвате"
+
+msgid "Grid Resolution"
+msgstr "Разрешение решетки"
+
+msgid "Hide Skip Taskbar Windows"
+msgstr "Скрыть все, кроме окон панели задач"
+
+msgid "Hide all windows and focus desktop"
+msgstr "Скрыть все окна и передать фокус рабочему столу"
+
+msgid "Hide windows not in taskbar when entering show desktop mode"
+msgstr ""
+"При переходе в режим отображения рабочего стола окна, отсутствующие на "
+"панели задач, не отображаются"
+
+msgid "High"
+msgstr "Высокий"
+
+msgid "Horizontal Virtual Size"
+msgstr "Виртуальный размер по горизонтали"
+
+msgid "Horizontal viewport positions"
+msgstr "Горизонтальные позиции видовых окон"
+
+msgid "Hover Time"
+msgstr "Время задержки при наведении"
+
+msgid "Icon"
+msgstr "Значок"
+
+msgid "If available use compression for textures converted from images"
+msgstr ""
+"Использовать сжатие для текстур, конвертированных от изображений, если "
+"доступно"
+
+msgid "Ignore Hints When Maximized"
+msgstr "Игнорировать подсказки в развернутом состоянии"
+
+msgid "Ignore size increment and aspect hints when window is maximized"
+msgstr ""
+"Игнорирование подсказок увеличения размеров и соотношения сторон для "
+"развернутого окна"
+
+msgid "Image files"
+msgstr "Файлы изображений"
+
+msgid "Image to use as texture for the skydome"
+msgstr "Изображение, используемое в качестве текстуры для фона"
+
+msgid "Increase"
+msgstr "Увеличить"
+
+msgid "Independent texture fetch"
+msgstr "Независимое получение текстур"
+
+msgid "Ini"
+msgstr "Ini"
+
+msgid "Ini Flat File Backend"
+msgstr "Формат хранения в простом ini-файле"
+
+msgid "Initiate"
+msgstr "Инициировать"
+
+msgid "Initiate Normal Window Resize"
+msgstr "Инициировать обычное изменение размеров окна"
+
+msgid "Initiate Outline Window Resize"
+msgstr "Инициировать изменение размеров окна Граница"
+
+msgid "Initiate Rectangle Window Resize"
+msgstr "Инициировать изменение размеров окна Прямоугольник"
+
+msgid "Initiate Stretch Window Resize"
+msgstr "Инициировать изменение размеров окна Растяжение"
+
+msgid "Initiate Window Move"
+msgstr "Инициировать движение окна"
+
+msgid "Initiate Window Picker"
+msgstr "Инициировать средство выбора окна"
+
+msgid "Initiate Window Picker For All Windows"
+msgstr "Инициировать средство выбора окна для всех окон"
+
+msgid "Initiate Window Picker For Window Group"
+msgstr "Инициировать средство выбора окна для группы окон"
+
+msgid "Initiate Window Picker For Windows on Current Output"
+msgstr "Инициировать средство выбора окна для окон текущего устройства вывода"
+
+msgid "Initiate Window Resize"
+msgstr "Инициировать изменение размеров окна"
+
+msgid "Initiate annotate drawing"
+msgstr "Инициировать рисование заметки"
+
+msgid "Initiate annotate erasing"
+msgstr "Инициировать стирание заметки"
+
+msgid "Initiate clone selection"
+msgstr "Инициировать выбор дублирования"
+
+msgid "Initiate erase"
+msgstr "Инициировать стирание"
+
+msgid "Initiate rectangle screenshot"
+msgstr "Сделать снимок области"
+
+msgid "Initiates Cube transparency only if rotation is mouse driven."
+msgstr "Прозрачность куба только во время вращения мышью."
+
+msgid "Inotify"
+msgstr "Inotify"
+
+msgid "Inside Cube"
+msgstr "Внутренняя поверхность куба"
+
+msgid "Inside cube"
+msgstr "Внутренняя поверхность куба"
+
+msgid "Interval before raising selected windows"
+msgstr "Интервал времени до автораскрытия выбранных окон"
+
+msgid "Interval between ping messages"
+msgstr "Интервал между сообщениями отклика"
+
+msgid "Invert Y axis for pointer movement"
+msgstr "Инвертировать ось Y для перемещений курсора"
+
+msgid "Inverted window snapping"
+msgstr "Инвертированная привязка окна"
+
+msgid "Kconfig"
+msgstr "Kconfig"
+
+msgid "Kconfig Control Backend"
+msgstr "Управление Kconfig"
+
+msgid "Keep In Workarea"
+msgstr "Держать в рабочей области"
+
+msgid ""
+"Keep placed window in work area, even if that means that the position might "
+"differ from the specified position"
+msgstr "Предотвратить перемещение окон запределы экрана"
+
+msgid "Key Bindings"
+msgstr "Комбинации клавиш"
+
+msgid "Key Bindings Toggle Scale Mode"
+msgstr "Режим назначения клавиш с залипанием"
+
+msgid "Key bindings"
+msgstr "Сочетания клавиш"
+
+msgid ""
+"Key bindings toggle scale mode instead of enabling it when pressed and "
+"disabling it when released."
+msgstr ""
+"Использовать режим горячих клавиш с залипанием вместо включения при нажатии "
+"и отключения при отпускании кнопок."
+
+msgid "Launch Application"
+msgstr "Запустить приложение"
+
+msgid "Layout and start transforming all windows"
+msgstr "Компоновка и запуск преобразования всех окон"
+
+msgid "Layout and start transforming window group"
+msgstr "Компоновка и запуск преобразования группы окон"
+
+msgid "Layout and start transforming windows"
+msgstr "Компоновка и запуск преобразования окон"
+
+msgid "Layout and start transforming windows on current output"
+msgstr "Компоновка и запуск преобразования окон текущего устройства вывода"
+
+msgid "Lazy Positioning"
+msgstr "\"Ленивое\" позиционирование"
+
+msgid "Level of focus stealing prevention"
+msgstr "Уровень предотвращения хищения фокуса"
+
+msgid "Lighting"
+msgstr "Освещение"
+
+msgid "Line"
+msgstr "Линия"
+
+msgid "Line width"
+msgstr "Ширина линии"
+
+msgid "Line width for annotations"
+msgstr "Ширина линии для заметок"
+
+msgid "List of PNG and SVG files that should be rendered on top face of cube"
+msgstr ""
+"Список PNG- и SVG-файлов, которые следует отобразить на верхней грани куба"
+
+msgid "List of currently active plugins"
+msgstr "Список активных в данный момент модулей"
+
+msgid "List of strings describing output devices"
+msgstr "Список строк, описывающих устройства вывода"
+
+msgid "Low"
+msgstr "Низкий"
+
+msgid "Lower"
+msgstr "Опустить"
+
+msgid "Lower Window"
+msgstr "Переместить окно на задний план"
+
+msgid "Lower window beneath other windows"
+msgstr "Расположение окна позади других окон"
+
+msgid "Make Above"
+msgstr "Поверх всех"
+
+msgid "Make window shiver"
+msgstr "Включить дрожание окна"
+
+msgid "Map Effect"
+msgstr "Эффект отражения"
+
+msgid "Map Window Effect"
+msgstr "Эффект отражения окна"
+
+msgid "Map Windows"
+msgstr "Типы отражения окна"
+
+msgid "Maximize"
+msgstr "Развернуть"
+
+msgid "Maximize Effect"
+msgstr "Эффект развертывания"
+
+msgid "Maximize Horizontally"
+msgstr "Развернуть в ширину"
+
+msgid "Maximize Vertically"
+msgstr "Развернуть в высоту"
+
+msgid "Maximize Window"
+msgstr "Развернуть окно"
+
+msgid "Maximize Window Horizontally"
+msgstr "Развернуть окно горизонтально"
+
+msgid "Maximize Window Vertically"
+msgstr "Развернуть окно вертикально"
+
+msgid "Maximize active window"
+msgstr "Развертывание активного окна"
+
+msgid "Maximize active window horizontally"
+msgstr "Развертывание активного окна горизонтально"
+
+msgid "Maximize active window vertically"
+msgstr "Развертывание активного окна вертикально"
+
+msgid "Metacity theme active window opacity"
+msgstr "Прозрачность активного окна темы metacity"
+
+msgid "Metacity theme active window opacity shade"
+msgstr "Затенение прозрачности активного окна темы metacity"
+
+msgid "Metacity theme opacity"
+msgstr "Прозрачность темы metacity"
+
+msgid "Metacity theme opacity shade"
+msgstr "Затенение прозрачности темы metacity"
+
+msgid "Minimize"
+msgstr "Свернуть"
+
+msgid "Minimize Effect"
+msgstr "Эффект свертывания"
+
+msgid "Minimize Window"
+msgstr "Свернуть окно"
+
+msgid "Minimize Windows"
+msgstr "Свернуть окна"
+
+msgid "Minimize active window"
+msgstr "Свертывание активного окна"
+
+msgid "Minimize speed"
+msgstr "Скорость свертывания"
+
+msgid "Minimize timestep"
+msgstr "Квант времени свертывания"
+
+msgid "Minimized"
+msgstr "Свернутые"
+
+msgid "Minimum Grid Size"
+msgstr "Минимальный размер решетки"
+
+msgid "Minimum Vertex Grid Size"
+msgstr "Минимальный размер решетки на вершинах"
+
+msgid "Mipmap"
+msgstr "Мипмэппинг"
+
+msgid "Mipmap LOD"
+msgstr "Уровень детализации мипмэппинга"
+
+msgid "Mipmap level-of-detail"
+msgstr "Детализация мипмэппинга"
+
+msgid "Mount Point"
+msgstr "Точка монтирования"
+
+msgid "Mount point"
+msgstr "Точка монтирования"
+
+msgid "Move Window"
+msgstr "Переместить окно"
+
+msgid "Move Windows"
+msgstr "Переместить окна"
+
+msgid "Move window"
+msgstr "Переместить окно"
+
+msgid "Multi Output Mode"
+msgstr "Режим множественного вывода"
+
+msgid "Multiple cubes"
+msgstr "Несколько кубов"
+
+msgid "Next Panel"
+msgstr "Следующая панель"
+
+msgid "Next Slide"
+msgstr "Следующий слайд"
+
+msgid "Next window"
+msgstr "Следующее окно"
+
+msgid "Next window (All windows)"
+msgstr "Следующее окно (Все окна)"
+
+msgid "Next window (No popup)"
+msgstr "Следующее окно (Не активируя)"
+
+msgid "None"
+msgstr "Никакой"
+
+msgid "Normal"
+msgstr "Нормальное"
+
+msgid "Normal Resize Windows"
+msgstr "Нормальное изменение размеров окна"
+
+msgid "Number of Desktops"
+msgstr "Число рабочих столов"
+
+msgid "Number of virtual desktops"
+msgstr "Число виртуальных рабочих столов"
+
+msgid "Off"
+msgstr "Отключить"
+
+msgid "Offset Scale"
+msgstr "Масштаб смещения"
+
+msgid "On all output devices"
+msgstr "На все устройства вывода"
+
+msgid "On current output device"
+msgstr "На текущее устройство вывода"
+
+msgid "One big cube"
+msgstr "Один большой куб"
+
+msgid "Only perform screen updates during vertical blanking period"
+msgstr ""
+"Обновлять экран во время гашения обратного хода луча кадровой развертки"
+
+msgid "Opacity"
+msgstr "Прозрачность"
+
+msgid "Opacity Decrease"
+msgstr "Уменьшение прозрачности"
+
+msgid "Opacity During Rotation"
+msgstr "Прозрачность во время вращения"
+
+msgid "Opacity Increase"
+msgstr "Увеличение прозрачности"
+
+msgid "Opacity Step"
+msgstr "Шаг прозрачности"
+
+msgid "Opacity When Not Rotating"
+msgstr "Прозрачность в статичном положении"
+
+msgid "Opacity level of moving windows"
+msgstr "Степень прозрачности движущихся окон"
+
+msgid "Opacity of desktop window during rotation."
+msgstr "Прозрачность рабочего стола во время вращения."
+
+msgid "Opacity of desktop window when not rotating."
+msgstr "Прозрачность окон на рабочем столе в статичном положении."
+
+msgid "Opacity to use for active windows with metacity theme decorations"
+msgstr "Прозрачность активных окон с оформлением темы metacity"
+
+msgid "Opacity to use for metacity theme decorations"
+msgstr "Прозрачность оформления окон темы metacity"
+
+msgid "Opacity values for windows"
+msgstr "Значение прозрачности для окон"
+
+msgid "Opacity, Brightness and Saturation"
+msgstr "Прозрачность, яркость и насыщенность"
+
+msgid "Opacity, Brightness and Saturation adjustments"
+msgstr "Регулировки прозрачности, яркости и насыщенности"
+
+msgid "Open a terminal"
+msgstr "Открыть в терминале"
+
+msgid "Options that keep Compiz compatible to the Gnome desktop environment"
+msgstr ""
+"Опции, поддерживающие совместимость Compiz с окружением рабочего стола Gnome"
+
+msgid "Outline"
+msgstr "Граница"
+
+msgid "Outline Resize Windows"
+msgstr "Граница изменение размеров окна"
+
+msgid "Output clone handler"
+msgstr "Обработчик дублированного вывода"
+
+msgid "Outputs"
+msgstr "Устройства вывода"
+
+msgid "Overlapping Output Handling"
+msgstr "Обработка перекрывающегося вывода"
+
+msgid "Overlay Icon"
+msgstr "Наложить значок"
+
+msgid "Overlay an icon on windows once they are scaled"
+msgstr "Наложение значка на окна при их масштабировании"
+
+msgid "Paint each output device independly, even if the output devices overlap"
+msgstr ""
+"Отрисовывать каждое устройство вывода независимо, даже если устройства "
+"вывода перекрываются"
+
+msgid "Ping Delay"
+msgstr "Задержка отклика"
+
+msgid "Place Windows"
+msgstr "Размещение окон"
+
+msgid "Place across all outputs"
+msgstr "Размещать на всех устройствах вывода"
+
+msgid "Place windows at appropriate positions when mapped"
+msgstr "При отображении разместите окна в нужных местах"
+
+msgid "Place windows on cube"
+msgstr "Размещение окон на кубе"
+
+msgid "Placement Mode"
+msgstr "Режим размещения"
+
+msgid "Png"
+msgstr "Png"
+
+msgid "Png image loader"
+msgstr "Загрузчик изображений Png"
+
+msgid "Point"
+msgstr "Точка"
+
+msgid "Pointer Invert Y"
+msgstr "Инвертировать для курсора ось Y"
+
+msgid "Pointer Sensitivity"
+msgstr "Чувствительность курсора"
+
+msgid "Popup switcher if not visible and select next window"
+msgstr "Отображение переключателя (если он невидим) и выбор следующего окна"
+
+msgid "Popup switcher if not visible and select next window out of all windows"
+msgstr ""
+"Отображение переключателя (если он невидим) и выбор следующего окна из всех "
+"имеющихся"
+
+msgid "Popup switcher if not visible and select previous window"
+msgstr "Отображение переключателя (если он невидим) и выбор предыдущего окна"
+
+msgid ""
+"Popup switcher if not visible and select previous window out of all windows"
+msgstr ""
+"Отображение переключателя (если он невидим) и выбор предыдущего окна из всех "
+"имеющихся"
+
+msgid "Positioned windows"
+msgstr "Спозиционированные окна"
+
+msgid "Prefer larger output"
+msgstr "Предпочтение большему выводу"
+
+msgid "Prefer smaller output"
+msgstr "Предпочтение меньшему выводу"
+
+msgid "Prev Panel"
+msgstr "Предыдущая панель"
+
+msgid "Prev Slide"
+msgstr "Предыдущий слайд"
+
+msgid "Prev window"
+msgstr "Предыдущее окно"
+
+msgid "Prev window (All windows)"
+msgstr "Предыдущее окно (Все окна)"
+
+msgid "Prev window (No popup)"
+msgstr "Предыдущее окно (Не активируя)"
+
+msgid "Provide YV12 colorspace support"
+msgstr "Обеспечить поддержку цветового пространства YV12"
+
+msgid "Pulse"
+msgstr "Пульс"
+
+msgid "Pulse effect"
+msgstr "Эффект пульсации"
+
+msgid "Put screenshot images in this directory"
+msgstr "Помещать изображения снимков экрана в этот каталог"
+
+msgid "Rain Delay"
+msgstr "Задержка дождя"
+
+msgid "Raise"
+msgstr "Развернуть"
+
+msgid "Raise On Click"
+msgstr "Вызвать щелчком"
+
+msgid "Raise Window"
+msgstr "Вызвать окно"
+
+msgid "Raise on rotate"
+msgstr "Поднимать при вращении"
+
+msgid "Raise selected windows after interval"
+msgstr "Вызов выбранных окон по истечении интервала времени"
+
+msgid "Raise window above other windows"
+msgstr "Вызов и размещение окна поверх других окон"
+
+msgid "Raise window when rotating"
+msgstr "Поднимать окна при вращении"
+
+msgid "Raise windows when clicked"
+msgstr "Вызов окон щелчком"
+
+msgid "Random"
+msgstr "Случайно"
+
+msgid "Rectangle"
+msgstr "Прямоугольник"
+
+msgid "Rectangle Resize Windows"
+msgstr "Прямоугольник изменение размеров окна"
+
+msgid "Refresh Rate"
+msgstr "Частота обновления"
+
+msgid "Regex Matching"
+msgstr "Соответствие регулярными выражениями"
+
+msgid "Regex window matching"
+msgstr "Соответствие окон с помощью регулярных выражений"
+
+msgid "Render skydome"
+msgstr "Отрисовка фона"
+
+msgid "Resize Window"
+msgstr "Изменение размеров окна"
+
+msgid "Resize window"
+msgstr "Изменение размеров окна"
+
+msgid "Rotate Cube"
+msgstr "Вращение куба"
+
+msgid "Rotate Flip Left"
+msgstr "Вращать с отражением влево"
+
+msgid "Rotate Flip Right"
+msgstr "Вращать с отражением вправо"
+
+msgid "Rotate Left"
+msgstr "Вращать влево"
+
+msgid "Rotate Left with Window"
+msgstr "Вращать влево вместе с окном"
+
+msgid "Rotate Right"
+msgstr "Вращать вправо"
+
+msgid "Rotate Right with Window"
+msgstr "Вращать вправо вместе с окном"
+
+msgid "Rotate To"
+msgstr "Вращать до"
+
+msgid "Rotate To Face 1"
+msgstr "Вращать до грани 1"
+
+msgid "Rotate To Face 1 with Window"
+msgstr "Вращать до грани 1 вместе с окном"
+
+msgid "Rotate To Face 10"
+msgstr "Вращать до грани 10"
+
+msgid "Rotate To Face 10 with Window"
+msgstr "Вращать до грани 10 вместе с окном"
+
+msgid "Rotate To Face 11"
+msgstr "Вращать до грани 11"
+
+msgid "Rotate To Face 11 with Window"
+msgstr "Вращать до грани 11 вместе с окном"
+
+msgid "Rotate To Face 12"
+msgstr "Вращать до грани 12"
+
+msgid "Rotate To Face 12 with Window"
+msgstr "Вращать до грани 12 вместе с окном"
+
+msgid "Rotate To Face 2"
+msgstr "Вращать до грани 2"
+
+msgid "Rotate To Face 2 with Window"
+msgstr "Вращать до грани 2 вместе с окном"
+
+msgid "Rotate To Face 3"
+msgstr "Вращать до грани 3"
+
+msgid "Rotate To Face 3 with Window"
+msgstr "Вращать до грани 3 вместе с окном"
+
+msgid "Rotate To Face 4"
+msgstr "Вращать до грани 4"
+
+msgid "Rotate To Face 4 with Window"
+msgstr "Вращать до грани 4 вместе с окном"
+
+msgid "Rotate To Face 5"
+msgstr "Вращать до грани 5"
+
+msgid "Rotate To Face 5 with Window"
+msgstr "Вращать до грани 5 вместе с окном"
+
+msgid "Rotate To Face 6"
+msgstr "Вращать до грани 6"
+
+msgid "Rotate To Face 6 with Window"
+msgstr "Вращать до грани 6 вместе с окном"
+
+msgid "Rotate To Face 7"
+msgstr "Вращать до грани 7"
+
+msgid "Rotate To Face 7 with Window"
+msgstr "Вращать до грани 7 вместе с окном"
+
+msgid "Rotate To Face 8"
+msgstr "Вращать до грани 8"
+
+msgid "Rotate To Face 8 with Window"
+msgstr "Вращать до грани 8 вместе с окном"
+
+msgid "Rotate To Face 9"
+msgstr "Вращать до грани 9"
+
+msgid "Rotate To Face 9 with Window"
+msgstr "Вращать до грани 9 вместе с окном"
+
+msgid "Rotate cube"
+msgstr "Вращение куба"
+
+msgid "Rotate desktop cube"
+msgstr "Вращение куба рабочего стола"
+
+msgid "Rotate left"
+msgstr "Вращение влево"
+
+msgid "Rotate left and bring active window along"
+msgstr "Вращение влево вместе с активным окном"
+
+msgid "Rotate right"
+msgstr "Вращение вправо"
+
+msgid "Rotate right and bring active window along"
+msgstr "Вращение вправо вместе с активным окном"
+
+msgid "Rotate to cube face"
+msgstr "Вращение к лицу куба"
+
+msgid "Rotate to cube face with window"
+msgstr "Вращать к лицу куба вместе с окном"
+
+msgid "Rotate to face 1"
+msgstr "Вращение до грани 1"
+
+msgid "Rotate to face 1 and bring active window along"
+msgstr "Вращение до грани 1 вместе с активным окном"
+
+msgid "Rotate to face 10"
+msgstr "Вращение до грани 10"
+
+msgid "Rotate to face 10 and bring active window along"
+msgstr "Вращение до грани 10 вместе с активным окном"
+
+msgid "Rotate to face 11"
+msgstr "Вращение до грани 11"
+
+msgid "Rotate to face 11 and bring active window along"
+msgstr "Вращение до грани 11 вместе с активным окном"
+
+msgid "Rotate to face 12"
+msgstr "Вращение до грани 12"
+
+msgid "Rotate to face 12 and bring active window along"
+msgstr "Вращение до грани 12 вместе с активным окном"
+
+msgid "Rotate to face 2"
+msgstr "Вращение до грани 2"
+
+msgid "Rotate to face 2 and bring active window along"
+msgstr "Вращение до грани 2 вместе с активным окном"
+
+msgid "Rotate to face 3"
+msgstr "Вращение до грани 3"
+
+msgid "Rotate to face 3 and bring active window along"
+msgstr "Вращение до грани 3 вместе с активным окном"
+
+msgid "Rotate to face 4"
+msgstr "Вращение до грани 4"
+
+msgid "Rotate to face 4 and bring active window along"
+msgstr "Вращение до грани 4 вместе с активным окном"
+
+msgid "Rotate to face 5"
+msgstr "Вращение до грани 5"
+
+msgid "Rotate to face 5 and bring active window along"
+msgstr "Вращение до грани 5 вместе с активным окном"
+
+msgid "Rotate to face 6"
+msgstr "Вращение до грани 6"
+
+msgid "Rotate to face 6 and bring active window along"
+msgstr "Вращение до грани 6 вместе с активным окном"
+
+msgid "Rotate to face 7"
+msgstr "Вращение до грани 7"
+
+msgid "Rotate to face 7 and bring active window along"
+msgstr "Вращение до грани 7 вместе с активным окном"
+
+msgid "Rotate to face 8"
+msgstr "Вращение до грани 8"
+
+msgid "Rotate to face 8 and bring active window along"
+msgstr "Вращение до грани 8 вместе с активным окном"
+
+msgid "Rotate to face 9"
+msgstr "Вращение до грани 9"
+
+msgid "Rotate to face 9 and bring active window along"
+msgstr "Вращение до грани 9 вместе с активным окном"
+
+msgid "Rotate to the selected window while switching"
+msgstr "Вращать к выбранному окну при переключении"
+
+msgid "Rotate to viewport"
+msgstr "Вращение до кадрового окна"
+
+msgid "Rotate window"
+msgstr "Вращать окно"
+
+msgid "Rotate with window"
+msgstr "Вращение вместе с окном"
+
+msgid "Rotation Acceleration"
+msgstr "Ускорение вращения"
+
+msgid "Rotation Speed"
+msgstr "Скорость вращения"
+
+msgid "Rotation Timestep"
+msgstr "Квант времени вращения"
+
+msgid "Rotation Zoom"
+msgstr "Масштабирование вращения"
+
+msgid "Run Dialog"
+msgstr "Диалоговое окно запуска"
+
+msgid "Run command 1"
+msgstr "Выполнить команду 1"
+
+msgid "Run command 10"
+msgstr "Выполнить команду 10"
+
+msgid "Run command 11"
+msgstr "Выполнить команду 11"
+
+msgid "Run command 12"
+msgstr "Выполнить команду 12"
+
+msgid "Run command 2"
+msgstr "Выполнить команду 2"
+
+msgid "Run command 3"
+msgstr "Выполнить команду 3"
+
+msgid "Run command 4"
+msgstr "Выполнить команду 4"
+
+msgid "Run command 5"
+msgstr "Выполнить команду 5"
+
+msgid "Run command 6"
+msgstr "Выполнить команду 6"
+
+msgid "Run command 7"
+msgstr "Выполнить команду 7"
+
+msgid "Run command 8"
+msgstr "Выполнить команду 8"
+
+msgid "Run command 9"
+msgstr "Выполнить команду 9"
+
+msgid "Run terminal command"
+msgstr "Запустить команду в терминале"
+
+msgid "Saturation"
+msgstr "Насыщенность"
+
+msgid "Saturation (in %) of unresponsive windows"
+msgstr "Насыщенность (в %) не отвечающего окна"
+
+msgid "Saturation Decrease"
+msgstr "Уменьшение насыщенности"
+
+msgid "Saturation Increase"
+msgstr "Увеличение насыщенности"
+
+msgid "Saturation Step"
+msgstr "Шаг изменения насыщенности"
+
+msgid "Saturation values for windows"
+msgstr "Значения насыщенности для окон"
+
+msgid "Scale"
+msgstr "Масштабировать"
+
+msgid "Scale Windows"
+msgstr "Масштабирование окон"
+
+msgid "Scale image"
+msgstr "Масштабировать изображение"
+
+msgid "Scale images to cover top face of cube"
+msgstr "Масштабировать изображения для покрытия верхней грани куба"
+
+msgid "Scale speed"
+msgstr "Скорость масштабирования"
+
+msgid "Scale timestep"
+msgstr "Квант времени масштабирования"
+
+msgid "Scale windows"
+msgstr "Масштабирование окон"
+
+msgid "Screen size multiplier for horizontal virtual size"
+msgstr "Коэффициент размера экрана для виртуального размера по горизонтали"
+
+msgid "Screen size multiplier for vertical virtual size"
+msgstr "Коэффициент размера экрана для виртуального размера по вертикали"
+
+msgid "Screenshot"
+msgstr "Снимок экрана"
+
+msgid "Screenshot command line"
+msgstr "Командная строка снимка экрана"
+
+msgid "Screenshot plugin"
+msgstr "Модуль снимка экрана"
+
+msgid "Select next panel type window."
+msgstr "Выбрать следующее окно типа панель."
+
+msgid "Select next window without showing the popup window."
+msgstr "Выбрать следующее окно без показа всплывающего окна."
+
+msgid "Select previous panel type window."
+msgstr "Выбрать предыдущее окно типа панель."
+
+msgid "Select previous window without showing the popup window."
+msgstr "Выбрать предыдущее окно без показа всплывающего окна."
+
+msgid "Selects how the cube is displayed if multiple output devices are used."
+msgstr "Выбор отображения куба при множественном выводе."
+
+msgid ""
+"Selects how window placement should behave if multiple outputs are selected"
+msgstr ""
+"Выбор как должно себя вести позиционирование окон, если используется "
+"несколько выводов"
+
+msgid "Selects where windows are scaled if multiple output devices are used."
+msgstr ""
+"Выбрать, где масштабировать окна если используются устройства множественного "
+"вывода."
+
+msgid "Sensitivity of pointer movement"
+msgstr "Чувствительность к перемещениям курсора"
+
+msgid "Shade"
+msgstr "Свернуть в заголовок"
+
+msgid "Shade Resistance"
+msgstr "Устойчивость тени"
+
+msgid ""
+"Shade active windows with metacity theme decorations from opaque to "
+"translucent"
+msgstr ""
+"Затенять активные окна с оформлением темы для metacity от непрозрачного до "
+"полупрозрачного"
+
+msgid "Shade resistance"
+msgstr "Устойчивость тени"
+
+msgid ""
+"Shade windows with metacity theme decorations from opaque to translucent"
+msgstr ""
+"Затенять окна с оформлением темы для metacity от непрозрачного до "
+"полупрозрачного"
+
+msgid "Shadow Color"
+msgstr "Цвет тени"
+
+msgid "Shadow Offset X"
+msgstr "Смещение тени по оси X"
+
+msgid "Shadow Offset Y"
+msgstr "Смещение тени по оси Y"
+
+msgid "Shadow Opacity"
+msgstr "Прозрачность тени"
+
+msgid "Shadow Radius"
+msgstr "Радиус тени"
+
+msgid "Shadow windows"
+msgstr "Тень окон"
+
+msgid "Shiver"
+msgstr "Дрожание"
+
+msgid "Show Desktop"
+msgstr "Показать рабочий стол"
+
+msgid "Show Main Menu"
+msgstr "Отобразить главное меню"
+
+msgid "Show Run Application dialog"
+msgstr "Отображение диалогового окна запуска приложения"
+
+msgid "Show icon next to thumbnail"
+msgstr "Отображение значка рядом с эскизом"
+
+msgid "Show minimized windows"
+msgstr "Отображение свернутых окон"
+
+msgid "Show the main menu"
+msgstr "Отображение главного меню"
+
+msgid "Skydome"
+msgstr "Фон"
+
+msgid "Skydome Gradient End Color"
+msgstr "Конечный цвет градиента для фона"
+
+msgid "Skydome Gradient Start Color"
+msgstr "Начальный цвет градиента для фона"
+
+msgid "Skydome Image"
+msgstr "Изображение для фона"
+
+msgid "Slow Animations"
+msgstr "Замедлить анимацию"
+
+msgid "Smart"
+msgstr "Умный"
+
+msgid "Smart mode"
+msgstr "Умный режим"
+
+msgid "Snap Cube Rotation to Bottom Face"
+msgstr "Привязка вращения куба к нижней грани"
+
+msgid "Snap Cube Rotation to Top Face"
+msgstr "Привязка вращения куба к верхней грани"
+
+msgid "Snap Inverted"
+msgstr "Инвертированная привязка"
+
+msgid "Snap To Bottom Face"
+msgstr "Привязать к нижней грани"
+
+msgid "Snap To Top Face"
+msgstr "Привязать к верхней грани"
+
+msgid "Snap windows"
+msgstr "Привязка окон"
+
+msgid "Snapoff and auto unmaximized maximized windows when dragging"
+msgstr ""
+"Отмена привязки и автоматическая отмена развертывания полностью развернутых "
+"окон при перетаскивании"
+
+msgid "Snapoff maximized windows"
+msgstr "Отменить привязку полностью развернутых окон"
+
+msgid "Space between windows"
+msgstr "Расстояние между окнами"
+
+msgid "Spacing"
+msgstr "Интервал"
+
+msgid "Speed"
+msgstr "Скорость"
+
+msgid "Spring Friction"
+msgstr "Упругое трение"
+
+msgid "Spring K"
+msgstr "K упругости"
+
+msgid "Spring Konstant"
+msgstr "Константа упругости"
+
+msgid "Start Rotation"
+msgstr "Запуск вращения"
+
+msgid "Start moving window"
+msgstr "Запуск перемещения окна"
+
+msgid "Start resizing window"
+msgstr "Запуск изменения размеров окна"
+
+msgid "Start resizing window by stretching it"
+msgstr "Запуск изменения размеров окна его растяжением"
+
+msgid "Start resizing window normally"
+msgstr "Запуск обычного изменения размеров окна"
+
+msgid "Start resizing window with outline"
+msgstr "Запуск изменения размеров окна с показом границы"
+
+msgid "Start resizing window with rectangle"
+msgstr "Запуск изменения размеров окна с показом прямоугольника"
+
+msgid "Step"
+msgstr "Шаг"
+
+msgid "Stick"
+msgstr "Приклеить"
+
+msgid "Stretch"
+msgstr "Растянуть"
+
+msgid "Stretch Resize Windows"
+msgstr "Растяжение изменение размеров окна"
+
+msgid "Stroke color for annotations"
+msgstr "Цвет черты для заметок"
+
+msgid "Stroke width"
+msgstr "Ширина черты"
+
+msgid "Stroke width for annotations"
+msgstr "Ширина черты для заметок"
+
+msgid "Svg"
+msgstr "Svg"
+
+msgid "Svg image loader"
+msgstr "Загрузчик изображений Svg"
+
+msgid "Switcher speed"
+msgstr "Скорость переключателя"
+
+msgid "Switcher timestep"
+msgstr "Квант времени переключателя"
+
+msgid "Switcher windows"
+msgstr "Переключатель окон"
+
+msgid "Sync To VBlank"
+msgstr "Синхронизировать с VBlank"
+
+msgid "Take a screenshot"
+msgstr "Сделать снимок экрана"
+
+msgid "Take a screenshot of a window"
+msgstr "Сделать снимок окна"
+
+msgid "Terminal command line"
+msgstr "Командная строка терминала"
+
+msgid "Texture Compression"
+msgstr "Компрессия текстур"
+
+msgid "Texture Filter"
+msgstr "Фильтр текстур"
+
+msgid "Texture filtering"
+msgstr "Фильтрация текстур"
+
+msgid "The rate at which the screen is redrawn (times/second)"
+msgstr "Частота, с которой перерисовывается содержимое экрана (раз/сек)"
+
+msgid "The window \"%s\" is not responding."
+msgstr "Окно \"%s\" не отвечает."
+
+msgid ""
+"Time (in ms) before scale mode is terminated when hovering over a window"
+msgstr ""
+"Время (в мс) до завершения режима масштабирования при наведении указателя на "
+"окно"
+
+msgid "Timeout before flipping viewport"
+msgstr "Задержка во времени до отражения кадрового окна"
+
+msgid "Timestep"
+msgstr "Шаг времени"
+
+msgid "Title bar mouse wheel action"
+msgstr "Действие, на колёсико мыши на заголовке окна"
+
+msgid "Title wave"
+msgstr "Волны заголовка"
+
+msgid "Toggle Window Maximized"
+msgstr "Развертывать окно"
+
+msgid "Toggle Window Maximized Horizontally"
+msgstr "Развертывать окно по горизонтали"
+
+msgid "Toggle Window Maximized Vertically"
+msgstr "Развертывать окно по вертикали"
+
+msgid "Toggle Window Shaded"
+msgstr "Переключить свертывание окна в полоску"
+
+msgid "Toggle active window maximized"
+msgstr "Развертывание активного окна"
+
+msgid "Toggle active window maximized horizontally"
+msgstr "Развертывание активного окна по горизонтали"
+
+msgid "Toggle active window maximized vertically"
+msgstr "Развертывание активного окна по вертикали"
+
+msgid "Toggle active window shaded"
+msgstr "Переключение свертывания активного окна в полоску"
+
+msgid "Toggle rain"
+msgstr "Переключить дождь"
+
+msgid "Toggle rain effect"
+msgstr "Включение или отключение эффекта дождя"
+
+msgid "Toggle use of slow animations"
+msgstr "Переключатель для использования медленной анимации"
+
+msgid "Toggle window snapping"
+msgstr "Переключение привязки окон"
+
+msgid "Toggle wiper"
+msgstr "Переключить стеклоочиститель"
+
+msgid "Toggle wiper effect"
+msgstr "Включение или отключение эффекта стеклоочистителя"
+
+msgid "Transform windows when they are minimized and unminimized"
+msgstr "Преобразовывать окна при свертывании и отмене свертывания"
+
+msgid "Transparency Only on Mouse Rotate"
+msgstr "Прозрачность только при вращении мышью"
+
+msgid "Transparent Cube"
+msgstr "Прозрачность куба"
+
+msgid "Type of blur used for window decorations"
+msgstr "Тип размытия, используемый для оформлений окна"
+
+msgid "Unfold"
+msgstr "Развертывание"
+
+msgid "Unfold cube"
+msgstr "Развертывание куба"
+
+msgid "Unmake Above"
+msgstr "Не делать поверх всех"
+
+msgid "Unmaximize Window"
+msgstr "Отменить полное развертывание окна"
+
+msgid "Unmaximize active window"
+msgstr "Отмена полного развертывания активного окна"
+
+msgid "Unredirect Fullscreen Windows"
+msgstr "Отменить перенаправление окон в полноэкранном режиме"
+
+msgid "Unresponsive Window Brightness"
+msgstr "Яркость не отвечающего окна"
+
+msgid "Unresponsive Window Saturation"
+msgstr "Насыщенность не отвечающего окна"
+
+msgid "Unshade"
+msgstr "Развернуть из заголовка"
+
+msgid "Unstick"
+msgstr "Отклеить"
+
+msgid "Use active output device"
+msgstr "Использовать активное устройство вывода"
+
+msgid "Use diffuse light when screen is transformed"
+msgstr "Использование рассеянного света при преобразовании экрана"
+
+msgid "Use metacity theme"
+msgstr "Использовать тему metacity"
+
+msgid "Use metacity theme when drawing window decorations"
+msgstr "Использовать тему metacity при отрисовке декораций окон"
+
+msgid "Use output device of focussed window"
+msgstr "Использовать устройство вывода сфокусированного окна"
+
+msgid "Use output device with pointer"
+msgstr "Использовать устройство вывода с курсором"
+
+msgid "Use spring model for wobbly window effect"
+msgstr "Использовать модель пружины в эффекте вязкого окна"
+
+msgid ""
+"Use the available texture units to do as many as possible independent "
+"texture fetches."
+msgstr ""
+"Использовать доступное количество элементов текстур для получения как можно "
+"большего количества независимых текстур."
+
+msgid "Userspace File System"
+msgstr "Файловая система в пользовательском пространстве (fuse)"
+
+msgid "Userspace file system"
+msgstr "Файловая система в пользовательском пространстве (fuse)"
+
+msgid "Vertex Grid Resolution"
+msgstr "Разрешение решетки на вершинах"
+
+msgid "Vertical Virtual Size"
+msgstr "Виртуальный размер по вертикали"
+
+msgid "Vertical viewport positions"
+msgstr "Вертикальные позиции видовых окон"
+
+msgid "Very High"
+msgstr "Очень высокий"
+
+msgid "Video Playback"
+msgstr "Воспроизведение видео"
+
+msgid "Video playback"
+msgstr "Воспроизведение видео"
+
+msgid "Viewport positioned windows"
+msgstr "Спозиционированные окна видового окна"
+
+msgid "Visual Bell"
+msgstr "Визуализация звукового сигнала"
+
+msgid "Water Effect"
+msgstr "Эффект воды"
+
+msgid "Water offset scale"
+msgstr "Масштаб смещения воды"
+
+msgid "Wave effect from window title"
+msgstr "Эффект волн в заголовке окна"
+
+msgid "Which one of overlapping output devices should be preferred"
+msgstr "Которое из перекрывающихся устройств вывода должно быть выбрано"
+
+msgid "Window Decoration"
+msgstr "Оформление окна"
+
+msgid "Window Management"
+msgstr "Управление Окнами"
+
+msgid "Window Menu"
+msgstr "Меню окна"
+
+msgid "Window blur speed"
+msgstr "Скорость размытия окна"
+
+msgid "Window decorations"
+msgstr "Оформление окна"
+
+msgid "Window fade mode"
+msgstr "Режим проявления/исчезновения окна"
+
+msgid "Window fade speed in \"Constant speed\" mode"
+msgstr "Скорость исчезновения окна в режиме \"Постоянная скорость\""
+
+msgid "Window fade time (in ms) in \"Constant time\" mode"
+msgstr "Время исчезновения окна (в мс) в режиме \"Постоянная скорость\""
+
+msgid "Window menu button binding"
+msgstr "Сочетание кнопок меню окна"
+
+msgid "Window menu key binding"
+msgstr "Сочетание клавиш меню окна"
+
+msgid "Window placement workarounds"
+msgstr "Обходные пути при размещении окна"
+
+msgid "Window screenshot command line"
+msgstr "Командная строка снимка окна"
+
+msgid "Window specific settings"
+msgstr "Специфические настройки окна"
+
+msgid "Window values"
+msgstr "Значения для окна"
+
+msgid "Windows"
+msgstr "Окна"
+
+msgid "Windows that normal resize should be used for"
+msgstr ""
+"Типы окон, которым следует применять эффект нормального изменения размера"
+
+msgid "Windows that outline resize should be used for"
+msgstr "Типы окон, которым следует применять эффект изменения размера граница"
+
+msgid "Windows that rectangle resize should be used for"
+msgstr ""
+"Типы окон, которым следует применять эффект изменения размера прямоугольник"
+
+msgid "Windows that should be affected by focus blur"
+msgstr "Окна, на которые действует размытие"
+
+msgid "Windows that should be decorated"
+msgstr "Окна к которым будет применено оформление"
+
+msgid "Windows that should be fading"
+msgstr "Окна, к которым следует применять эффект проявления/исчезания"
+
+msgid "Windows that should be positioned by default"
+msgstr "Окна, которые должны быть спозиционированны по умолчанию"
+
+msgid "Windows that should be positioned in specific viewports by default"
+msgstr ""
+"Окна, которые должны быть спозиционированны в определенном экране по "
+"умолчанию"
+
+msgid "Windows that should be scaled in scale mode"
+msgstr "Типы окон, для которых следует применять режим масштабирования"
+
+msgid "Windows that should be shown in switcher"
+msgstr "Окна, которые должны быть отображены в переключателе"
+
+msgid "Windows that should be transformed when minimized"
+msgstr "Окна, которые должны быть преобразованы при свертывании"
+
+msgid "Windows that should be use alpha blur by default"
+msgstr "Окна, на которые действует размытие по умолчанию"
+
+msgid ""
+"Windows that should forcedly be placed, even if they indicate the window "
+"manager should avoid placing them."
+msgstr ""
+"Окна, которые должны быть спозиционированы, даже если они указывают, что "
+"этого делать не нужно."
+
+msgid "Windows that should have a different brightness by default"
+msgstr "Окна, которые должны иметь отличную(другую) яркость по умолчанию"
+
+msgid "Windows that should have a different opacity by default"
+msgstr "Окна, которые должны иметь отличную(другую) прозрачность по умолчанию"
+
+msgid "Windows that should have a different saturation by default"
+msgstr "Окна, которые должны иметь отличную(другую) насыщенность по умолчанию"
+
+msgid "Windows that should have a shadow"
+msgstr "Окна которые будут отбрасывать тень"
+
+msgid "Windows that should wobble when focused"
+msgstr "Окна, становящиеся вязкими при фокусе"
+
+msgid "Windows that should wobble when grabbed"
+msgstr "Окна, становящиеся вязкими при захвате"
+
+msgid "Windows that should wobble when mapped"
+msgstr "Окна, становящиеся вязкими при назначении"
+
+msgid "Windows that should wobble when moved"
+msgstr "Окна, становящиеся вязкими при перемещении"
+
+msgid "Windows that stretch resize should be used for"
+msgstr ""
+"Типы окон, которым следует применять эффект изменения размера растяжение"
+
+msgid "Windows with fixed positions"
+msgstr "Окно с фиксированной позицией"
+
+msgid "Windows with fixed viewport"
+msgstr "Окно с фиксированным видовым окном"
+
+msgid "Wobble effect when maximizing and unmaximizing windows"
+msgstr "Эффект вязкости при развертывании и свертывании окон"
+
+msgid "Wobbly Windows"
+msgstr "Вязкие окна"
+
+msgid "Workarounds"
+msgstr "Обходные пути"
+
+msgid "X Positions"
+msgstr "Положения по X"
+
+msgid "X Viewport Positions"
+msgstr "Положения видового окна по X"
+
+msgid "X position values"
+msgstr "Значения положения по X"
+
+msgid "Y Positions"
+msgstr "Положения по Y"
+
+msgid "Y Viewport Positions"
+msgstr "Положения видового окна по Y"
+
+msgid "Y position values"
+msgstr "Значения положения по Y"
+
+msgid "YV12 colorspace"
+msgstr "Цветовое пространство YV12"
+
+msgid "Zoom"
+msgstr "Изменить масштаб"
+
+msgid "_Force Quit"
+msgstr "_Ускоренный выход"

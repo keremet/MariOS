@@ -1,0 +1,2427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-panel HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-12-03 15:06+0800\n"
+"PO-Revision-Date: 2008-03-04 17:45+0100\n"
+"Last-Translator: desktop-discuss@opensolaris.org\n"
+"Language-Team: desktop-discuss@opensolaris.org\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "    "
+msgstr "    "
+
+msgid "\"%s\" has quit unexpectedly"
+msgstr "Работа «%s» неожиданно завершилась"
+
+msgid "%1$s\t%2$s"
+msgstr "%1$s\t%2$s"
+
+msgid ""
+"%1$s\n"
+"%2$s"
+msgstr ""
+"%1$s\n"
+"%2$s"
+
+msgid "%1$s   %2$s   %3$s"
+msgstr "%1$s   %2$s    %3$s"
+
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+msgid "%A %B %d (%%s)"
+msgstr "%A, %d %B (%%s)"
+
+msgid "%A, %B %d %Y"
+msgstr "%A, %d %B %Y"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%H:%M <small>(%A)</small>"
+msgstr "%H:%M <small>(%A)</small>"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M %p"
+msgstr "%I:%M %p"
+
+msgid "%I:%M:%S %p"
+msgstr "%I:%M:%S %p"
+
+msgid "%a %b %e"
+msgstr "%a, %e %b"
+
+msgid "%b %d"
+msgstr "%d %b"
+
+msgid "%l:%M %p"
+msgstr "%l:%M %p"
+
+msgid "%l:%M <small>%p (%A)</small>"
+msgstr "%l:%M <small>%p (%A)</small>"
+
+msgid "%l:%M <small>%p</small>"
+msgstr "%l:%M <small>%p</small>"
+
+msgid "%l:%M:%S %p"
+msgstr "%l:%M:%S %p"
+
+msgid ""
+"%s has no use what-so-ever. It only takes up disk space and compilation "
+"time, and if loaded it also takes up precious panel space and memory. "
+"Anybody found using it should be promptly sent for a psychiatric evaluation."
+msgstr ""
+"%s — совершенно бесполезный апплет. Он только занимает место на диске и "
+"увеличивает время компиляции. Также, будучи загруженным, он занимает место "
+"на панели и в памяти. Всякого, кто использует этот апплет, нужно отправлять "
+"на психиатрическое обследование."
+
+msgid "%s the Fish"
+msgstr "Рыбка по имени %s"
+
+msgid "%s the Fish Says:"
+msgstr "Рыбка по имени %s говорит:"
+
+msgid "%s the Fish, a contemporary oracle"
+msgstr "«Рыбка по имени %s», современный оракул"
+
+msgid "%s the Fish, the fortune teller"
+msgstr "Рыбка по имени %s, гадалка"
+
+msgid "%s, %s"
+msgstr "%s, %s"
+
+msgid "%s, feels like %s"
+msgstr "%s, ощущается как %s"
+
+msgid "(empty)"
+msgstr "(пусто)"
+
+msgid "(with minor help from George)"
+msgstr "(с небольшой помощью Джоржда)"
+
+msgid "- Edit .desktop files"
+msgstr "— редактирование файлов .desktop"
+
+msgid "24 hour"
+msgstr "24-часовые"
+
+msgid "24-hour"
+msgstr "24-hour"
+
+msgid "<b>GAME OVER</b> at level %d!"
+msgstr "<b>ИГРА ЗАКОНЧЕНА</b> на уровне %d!"
+
+msgid "<i>(optional)</i>"
+msgstr "<i>(необязательно)</i>"
+
+msgid ""
+"<small><i>Type a city, region, or country name and then select a match from "
+"the pop-up.</i></small>"
+msgstr ""
+"<small><i>Введите название города, области или страны, затем выберите "
+"подходящий пояс из выпадающего списка</i></small>"
+
+msgid "<small>Opaque</small>"
+msgstr "<small>непрозрачный</small>"
+
+msgid "<small>Set...</small>"
+msgstr "<small>Установить…</small>"
+
+msgid "<small>Set</small>"
+msgstr "<small>Установить</small>"
+
+msgid "<small>Transparent</small>"
+msgstr "<small>прозрачный</small>"
+
+msgid "???"
+msgstr "без имени"
+
+msgid ""
+"A boolean flag to indicate whether the user's previous configuration in /"
+"apps/panel/profiles/default has been copied to the new location in /apps/"
+"panel."
+msgstr ""
+"Логический флаг, указывающий, была ли предыдущая конфигурация пользователя "
+"из /apps/panel/profiles/default перенесена на новое место в /apps/panel."
+
+msgid "A custom menu bar"
+msgstr "Пользовательская строка меню"
+
+msgid ""
+"A fish without a name is a pretty dull fish. Bring your fish to life by "
+"naming him."
+msgstr "Рыбка без имени — скучная рыбка. Оживите рыбку, дав ей имя."
+
+msgid ""
+"A list of applet IIDs that the panel will ignore. This way you can disable "
+"certain applets from loading or showing up in the menu. For example to "
+"disable the mini-commander applet add 'OAFIID:GNOME_MiniCommanderApplet' to "
+"this list. The panel must be restarted for this to take effect."
+msgstr ""
+"Список идентификаторов апплетов (IID), которые панель будет игнорировать. "
+"Таким образом можно запретить загрузку некоторых апплетов или их отображение "
+"в меню. Например, чтобы запретить апплет командной строки, добавьте к этому "
+"списку строку «OAFIID:GNOME_MiniCommanderApplet». Чтобы изменения в списке "
+"вступили в силу, панель нужно перезапустить."
+
+msgid "A list of locations to display in the calendar window."
+msgstr "Список мест, которые нужно показывать в окне календаря."
+
+msgid ""
+"A list of panel IDs. Each ID identifies an individual toplevel panel. The "
+"settings for each of these panels are stored in /apps/panel/toplevels/$(id)."
+msgstr ""
+"Список идентификаторов панелей. Каждый идентификатор соответствует своей "
+"отдельной панели верхнего уровня. Параметры каждой из этих панелей хранятся "
+"в /apps/panel/toplevels/$(id)."
+
+msgid ""
+"A list of panel applet IDs. Each ID identifies an individual panel applet. "
+"The settings for each of these applets are stored in /apps/panel/applets/"
+"$(id)."
+msgstr ""
+"Список идентификаторов апплетов панели. Каждый идентификатор обозначает "
+"отдельный апплет на панели. Параметры каждого из этих апплетов хранятся в /"
+"apps/panel/applets/$(id)."
+
+msgid ""
+"A list of panel object IDs. Each ID identifies an individual panel object (e."
+"g. a launcher, action button or menu button/bar). The settings for each of "
+"these objects are stored in /apps/panel/objects/$(id)."
+msgstr ""
+"Список идентификаторов объектов панели. Каждый идентификатор обозначает "
+"отдельный объект панели (например, кнопку запуска, кнопку команды или меню). "
+"Параметры каждого из этих объектов хранятся в /apps/panel/objects/$(id)."
+
+msgid "A pop out drawer to store other items in"
+msgstr "Выдвижной ящик для хранения других элементов"
+
+msgid "A separator to organize the panel items"
+msgstr "Разделитель для упорядочивания элементов панели"
+
+msgid "A simple applet for testing the GNOME-2.0 panel"
+msgstr "Простой апплет для проверки панели среды GNOME 2.0"
+
+msgid "A_bout Panels"
+msgstr "_О панелях"
+
+msgid "About the GNOME Panel"
+msgstr "О панели среды GNOME"
+
+msgid "Access documents, folders and network places"
+msgstr "Обратиться к документам, папкам и сетевым ресурсам"
+
+msgid "Action button type"
+msgstr "Тип кнопки действия"
+
+msgid "Ad_just Date & Time"
+msgstr "_Установить дату и время"
+
+msgid "Add this as _drawer to panel"
+msgstr "Добавить как _ящик на панель"
+
+msgid "Add this as _menu to panel"
+msgstr "Добавить как _меню на панель"
+
+msgid "Add this launcher to _desktop"
+msgstr "Добавить эту кнопку запуска на _рабочий стол"
+
+msgid "Add this launcher to _panel"
+msgstr "Добавить эту кнопку запуска на _панель"
+
+msgid "Add to Drawer"
+msgstr "Добавить в ящик"
+
+msgid "Add to Panel"
+msgstr "Добавить на панель"
+
+msgid "Administration"
+msgstr "Администрирование"
+
+msgid "All Applications"
+msgstr "Все приложения"
+
+msgid "All Day"
+msgstr "Весь день"
+
+msgid "An unknown error occurred while trying to open \"%s\"."
+msgstr "Произошла неизвестная ошибка при попытке открыть «%s»."
+
+msgid "And many, many others..."
+msgstr "и многие, многие другие…"
+
+msgid "Animation"
+msgstr "Анимация"
+
+msgid "Animation speed"
+msgstr "Скорость анимации"
+
+msgid "Applet Bonobo IID"
+msgstr "Bonobo-идентификатор апплета"
+
+msgid "Applet IID"
+msgstr "Идентификатор апплета (IID)"
+
+msgid "Applet IIDs to disable from loading"
+msgstr "Идентификаторы (IID) запрещённых апплетов"
+
+msgid "Application"
+msgstr "Приложение"
+
+msgid "Application Launcher..."
+msgstr "Кнопка запуска…"
+
+msgid "Application does not accept documents on command line"
+msgstr "Приложение не поддерживает открытие документов через командную строку"
+
+msgid "Application in Terminal"
+msgstr "Приложение в терминале"
+
+msgid "Applications"
+msgstr "Приложения"
+
+msgid "Appointments"
+msgstr "Встречи"
+
+msgid "Arro_ws on hide buttons"
+msgstr "Показывать с_трелки на кнопках скрытия"
+
+msgid "Autoclose drawer"
+msgstr "Автоматически закрывать ящик"
+
+msgid "Automatically hide panel into corner"
+msgstr "Автоматически прятать панель в угол"
+
+msgid "Background"
+msgstr "Фон"
+
+msgid "Background _image:"
+msgstr "Фоновое _изображение:"
+
+msgid "Background color"
+msgstr "Фоновый цвет"
+
+msgid "Background color opacity"
+msgstr "Степень непрозрачности фонового цвета"
+
+msgid "Background image"
+msgstr "Фоновое изображение"
+
+msgid "Background type"
+msgstr "Тип фона"
+
+msgid "Birthdays and Anniversaries"
+msgstr "Дни рождения и годовщины"
+
+msgid "Bookmarks"
+msgstr "Закладки"
+
+msgid "Bottom Centered Panel"
+msgstr "Нижняя центрированная панель"
+
+msgid "Bottom Edge Panel"
+msgstr "Нижняя краевая панель"
+
+msgid "Bottom Expanded Edge Panel"
+msgstr "Нижняя расширенная краевая панель"
+
+msgid "Bottom Floating Panel"
+msgstr "Нижняя плавающая панель"
+
+msgid "Browse and run installed applications"
+msgstr "Просмотреть и запустить установленные приложения"
+
+msgid "C_lear"
+msgstr "О_чистить"
+
+msgid "Calendar"
+msgstr "Календарь"
+
+msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
+msgstr "Невозможно передать адреса документов записи 'Type=Link' файла desktop"
+
+msgid "Cannot delete this panel"
+msgstr "Не удалось удалить эту панель"
+
+msgid "Cannot find an empty spot"
+msgstr "Не удалось найти свободное место"
+
+msgid "Center panel on x-axis"
+msgstr "Центрировать панель по оси X"
+
+msgid "Center panel on y-axis"
+msgstr "Центрировать панель по оси Y"
+
+msgid "Change desktop appearance and behavior, get help, or log out"
+msgstr ""
+"Изменить внешний вид и поведение рабочего стола, получить справку или выйти"
+
+msgid "Changing Workspace Label"
+msgstr "Изменение метки рабочего пространства"
+
+msgid "Choose Location"
+msgstr "Выбор местоположения"
+
+msgid "Choose a file to append to the command..."
+msgstr "Выбрать файл для присоединения к команде…"
+
+msgid "Choose a file..."
+msgstr "_Выбрать файл…"
+
+msgid "Choose an application..."
+msgstr "Выбрать приложение…"
+
+msgid "Choose an icon"
+msgstr "Выбрать значок"
+
+msgid "City Name"
+msgstr "Название города"
+
+msgid "City Time Zone"
+msgstr "Часовой пояс города"
+
+msgid "Clear Recent Documents"
+msgstr "Очистить недавно использовавшиеся документы"
+
+msgid "Clear Recent Documents..."
+msgstr "Очистить недавно использовавшиеся документы…"
+
+msgid "Clear all items from the recent documents list"
+msgstr "Очистить все элементы списка недавно использовавшихся документов?"
+
+msgid "Clear the Recent Documents list?"
+msgstr "Очистить список недавно использовавшихся документов?"
+
+msgid "Click here to hide all windows and show the desktop."
+msgstr "Щёлкните здесь, чтобы свернуть все окна и расчистить рабочий стол."
+
+msgid "Click here to restore hidden windows."
+msgstr "Щёлкните здесь, чтобы восстановить свёрнутые окна."
+
+msgid ""
+"Click on a window to force the application to quit. To cancel press <ESC>."
+msgstr ""
+"Щёлкните на окне приложения, которые хотите принудительно завершить. Чтобы "
+"отменить, нажмите клавишу Esc."
+
+msgid ""
+"Click this button to browse for a file whose name to append to the command "
+"string."
+msgstr ""
+"Нажмите эту кнопку, чтобы выбрать файл, имя которого будет добавлено к "
+"командной строке."
+
+msgid ""
+"Click this button to run the selected application or the command in the "
+"command entry field."
+msgstr ""
+"Нажмите эту кнопку, чтобы запустить выбранное приложение или выполнить "
+"команду, указанную в поле ввода."
+
+msgid "Click to hide month calendar"
+msgstr "Нажмите, чтобы скрыть календарь на месяц"
+
+msgid "Click to hide your appointments and tasks"
+msgstr "Нажмите, чтобы скрыть встречи и задачи"
+
+msgid "Click to view month calendar"
+msgstr "Нажмите, чтобы просмотреть календарь на месяц"
+
+msgid "Click to view your appointments and tasks"
+msgstr "Нажмите, чтобы просмотреть свои встречи и задачи"
+
+msgid "Clock"
+msgstr "Часы"
+
+msgid "Clock Format"
+msgstr "Формат времени"
+
+msgid "Clock Preferences"
+msgstr "Параметры апплета часов"
+
+msgid "Co_lor:"
+msgstr "Ц_вет:"
+
+msgid "Co_mmand to run when clicked:"
+msgstr "_Команда, выполняемая при нажатии:"
+
+msgid "Co_mment:"
+msgstr "При_мечание:"
+
+msgid "Comm_and:"
+msgstr "_Команда:"
+
+msgid "Command icon"
+msgstr "Значок команды"
+
+msgid "Command to execute on click"
+msgstr "Команда, выполняемая при нажатии"
+
+msgid "Complete panel lockdown"
+msgstr "Полная блокировка панели"
+
+msgid "Computer Clock"
+msgstr "Компьютерные часы"
+
+msgid "Confirm panel removal"
+msgstr "Подтверждать удаление панели"
+
+msgid "Connect to Server..."
+msgstr "Соединиться с сервером…"
+
+msgid "Connect to a remote computer or shared disk"
+msgstr "Соединиться с удалённому сервером или общим хранилищем"
+
+msgid "Copy _Date"
+msgstr "Скопировать _дату"
+
+msgid "Copy _Time"
+msgstr "Скопировать _время"
+
+msgid "Copy a launcher from the applications menu"
+msgstr "Скопировать кнопку запуска из меню приложений"
+
+msgid "Could not connect to server"
+msgstr "Не удалось соединиться с сервером"
+
+msgid "Could not convert '%s' from UTF-8"
+msgstr "Не удалось преобразовать «%s» из UTF-8"
+
+msgid "Could not display help document"
+msgstr "Не удалось показать документ справки"
+
+msgid "Could not display help document '%s'"
+msgstr "Не удалось показать документ справки «%s»"
+
+msgid "Could not display properties dialog"
+msgstr "Не удалось показать диалог свойств"
+
+msgid "Could not display run dialog"
+msgstr "Не удалось показать диалог запуска"
+
+msgid "Could not execute '%s'"
+msgstr "Не удалось выполнить «%s»"
+
+msgid "Could not launch '%s'"
+msgstr "Не удалось запустить «%s»"
+
+msgid "Could not launch application"
+msgstr "Не удалось запустить приложение"
+
+msgid "Could not open location '%s'"
+msgstr "Не удалось открыть адрес «%s»"
+
+msgid "Could not open recently used document \"%s\""
+msgstr "Не удалось открыть недавно использовавшийся документ «%s»"
+
+msgid "Could not run command '%s'"
+msgstr "Не удалось выполнить команду «%s»"
+
+msgid "Could not save directory properties"
+msgstr "Не удалось сохранить свойства каталога"
+
+msgid "Could not save launcher"
+msgstr "Не удалось сохранить кнопку запуска"
+
+msgid "Could not show this URL"
+msgstr "Не удалось отобразить этот URL"
+
+msgid "Could not use dropped item"
+msgstr "Не удалось использовать брошенный объект"
+
+msgid "Create Launcher"
+msgstr "Создать кнопку запуска"
+
+msgid "Create a new launcher"
+msgstr "Создать кнопку запуска"
+
+msgid "Create new file in the given directory"
+msgstr "Создать новый файл в заданном каталоге"
+
+msgid "Current Time:"
+msgstr "Текущее время:"
+
+msgid "Custom Application Launcher"
+msgstr "Пользовательская кнопка запуска"
+
+msgid "Custom _format:"
+msgstr "Другой _формат:"
+
+msgid "Custom format"
+msgstr "Другой формат"
+
+msgid "Custom format of the clock"
+msgstr "Другой формат часов"
+
+msgid "D_on't Delete"
+msgstr "_Не удалять"
+
+msgid ""
+"Decides when to group windows from the same application on the window list. "
+"Possible values are \"never\", \"auto\" and \"always\"."
+msgstr ""
+"Определяет, когда группировать окна одинаковых приложений в списке окон. "
+"Допустимые значения: «never», «auto» и «always»."
+
+msgid "Delete this drawer?"
+msgstr "Удалить этот ящик?"
+
+msgid "Delete this panel?"
+msgstr "Удалить эту панель?"
+
+msgid "Deprecated"
+msgstr "Устаревший"
+
+msgctxt "Desktop Folder"
+msgid "Desktop"
+msgstr "Рабочий стол"
+
+msgid "Directory Properties"
+msgstr "Свойства каталога"
+
+msgid "Disable Force Quit"
+msgstr "Отключить принудительное завершение"
+
+msgid "Disable Logging Out"
+msgstr "Отключить завершение сеанса"
+
+msgid "Disable connection to session manager"
+msgstr "Отключить соединение с менеджером сеансов"
+
+msgid "Display"
+msgstr "Показ сведений"
+
+msgid "Display all workspaces"
+msgstr "Показывать все рабочие места"
+
+msgid "Display workspace names"
+msgstr "Показывать названия рабочих мест"
+
+msgid "Do you want to delete the applet from your configuration?"
+msgstr "Удалить апплет из текущей конфигурации?"
+
+msgid "Drawer"
+msgstr "Ящик"
+
+msgid "Drawer Properties"
+msgstr "Свойства ящика"
+
+msgid "E_xpand"
+msgstr "Р_асширять до предела"
+
+msgid "East"
+msgstr "восточной"
+
+msgid "Edit"
+msgstr "Изменить"
+
+msgid "Edit Location"
+msgstr "Изменение местоположения"
+
+msgid "Enable animations"
+msgstr "Включить анимацию"
+
+msgid "Enable arrows on hide buttons"
+msgstr "Включить стрелки на кнопках скрытия/раскрытия"
+
+msgid "Enable autocompletion in \"Run Application\" dialog"
+msgstr "Включить автодополнение в диалоге «Выполнить программу»"
+
+msgid "Enable hide buttons"
+msgstr "Включить кнопки скрытия/раскрытия"
+
+msgid "Enable program list in \"Run Application\" dialog"
+msgstr "Включить список программ в диалоге «Выполнить программу»"
+
+msgid "Enable tooltips"
+msgstr "Включить всплывающие подсказки"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Error displaying help document"
+msgstr "Произошла ошибка при отображении документа справки"
+
+msgid "Error loading display_all_workspaces value for Workspace Switcher: %s\n"
+msgstr ""
+"Произошла ошибка при загрузке значения display_all_workspaces для апплета "
+"переключателя рабочих мест: %s\n"
+
+msgid ""
+"Error loading display_workspace_names value for Workspace Switcher: %s\n"
+msgstr ""
+"Произошла ошибка при загрузке значения display_workspace_names для апплета "
+"переключателя рабочих мест: %s\n"
+
+msgid "Error loading num_rows value for Workspace Switcher: %s\n"
+msgstr ""
+"Произошла ошибка при загрузке значения num_rows для апплета переключателя "
+"рабочих мест: %s\n"
+
+msgid "Error reading GConf boolean value '%s': %s"
+msgstr "Произошла ошибка при чтении из GConf логического значения «%s»: %s"
+
+msgid "Error reading GConf integer value '%s': %s"
+msgstr "Произошла ошибка при чтении из GConf целочисленного значения «%s»: %s"
+
+msgid "Error reading GConf string value '%s': %s"
+msgstr "Произошла ошибка при чтении из GConf строкового значения «%s»: %s"
+
+msgid "Expand list of appointments"
+msgstr "Разворачивать список встреч"
+
+msgid "Expand list of birthdays"
+msgstr "Разворачивать список дней рождения"
+
+msgid "Expand list of locations"
+msgstr "Разворачивать список местностей"
+
+msgid "Expand list of tasks"
+msgstr "Разворачивать список задач"
+
+msgid "Expand list of weather information"
+msgstr "Разворачивать список сведений о погоде"
+
+msgid "Expand program list in \"Run Application\" dialog"
+msgstr "Разворачивать список программ в диалоге «Выполнить программу»"
+
+msgid "Expand to occupy entire screen width"
+msgstr "Расширять панель до ширины экрана"
+
+msgid "FILE"
+msgstr "ФАЙЛ"
+
+msgid "Failed to load %s: %s\n"
+msgstr "Не удалось загрузить «%s»: %s\n"
+
+msgid "Failed to load applet %s"
+msgstr "Не удалось загрузить апплет «%s»"
+
+msgid "Failed to set the system time"
+msgstr "Не удалось настроить системное время"
+
+msgid "Failed to set the system timezone"
+msgstr "Не удалось изменить системный часовой пояс"
+
+msgid "File System"
+msgstr "Файловая система"
+
+msgid "File is not a valid .desktop file"
+msgstr "Файл не является корректным файлом .desktop"
+
+msgid "Find an _item to add to \"%s\":"
+msgstr "Найти _элемент для добавления к «%s»:"
+
+msgid "Find an _item to add to the drawer:"
+msgstr "Найти _элемент для добавления в ящик:"
+
+msgid "Find an _item to add to the panel:"
+msgstr "Найти _элемент, чтобы добавить на панель:"
+
+msgid "Fish"
+msgstr "Рыбка"
+
+msgid "Fish Preferences"
+msgstr "Параметры «Рыбки»"
+
+msgid "Fit image to panel"
+msgstr "Подгонять размер изображения под размер панели"
+
+msgid "Force Quit"
+msgstr "Принудительное завершение"
+
+msgid "Force a misbehaving application to quit"
+msgstr "Принудительно завершает работу сбоящего приложения"
+
+msgid "Force this application to exit?"
+msgstr "Завершить работу этого приложения принудительно?"
+
+msgid "Frames in fish's animation"
+msgstr "Число кадров в анимации рыбки"
+
+msgid "General"
+msgstr "Общие"
+
+msgid "Group windows when _space is limited"
+msgstr "Группировать окна, когда _пространство ограничено"
+
+msgid "Hide Panel"
+msgstr "Скрыть панель"
+
+msgid "Highlight launchers on mouseover"
+msgstr "Подсвечивать кнопки запуска при наведении мыши"
+
+msgid "Home Folder"
+msgstr "Домашняя папка"
+
+msgid "Hour format"
+msgstr "Формат часов"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Icon '%s' not found"
+msgstr "Значок «%s» не найден"
+
+msgid "Icon not found"
+msgstr "Не удалось найти значок"
+
+msgid "Icon used for object's button"
+msgstr "Значок, используемый для кнопки объекта"
+
+msgid ""
+"If true, a dialog is shown asking for confirmation if the user wants to "
+"remove a panel."
+msgstr ""
+"Если этот ключ установлен, при попытке удаления панели будет запрашиваться "
+"подтверждение."
+
+msgid ""
+"If true, a drawer will automatically be closed when the user clicks a "
+"launcher in it."
+msgstr ""
+"Если этот ключ установлен, ящик будет автоматически закрываться при нажатии "
+"на одну из кнопок запуска в нём."
+
+msgid ""
+"If true, a launcher is highlighted when the user moves the pointer over it."
+msgstr ""
+"Если этот ключ установлен, кнопка запуска будет подсвечиваться при наведении "
+"на неё указателя."
+
+msgid ""
+"If true, arrows will be placed on the hide buttons. This key is only "
+"relevant if the enable_buttons key is true."
+msgstr ""
+"Если этот ключ установлен, то на кнопки скрытия/раскрытия будут нанесены "
+"стрелки. Этот параметр имеет смысл только в том случае, если установлен ключ "
+"enable_buttons."
+
+msgid ""
+"If true, autocompletion in the \"Run Application\" dialog is made available."
+msgstr ""
+"Если этот ключ установлен, в диалоге «Выполнить программу» будет включено "
+"автоматическое дополнение."
+
+msgid ""
+"If true, buttons will be placed on each side of the panel which may be used "
+"to move the panel to edge of the screen, leaving only a button showing."
+msgstr ""
+"Если этот ключ установлен, то на панели будут кнопки скрытия/раскрытия. Они "
+"используются для «вывода» панели за пределы экрана, так что остаётся видимой "
+"только кнопка, позволяющая «развернуть» панель обратно."
+
+msgid "If true, display a weather icon."
+msgstr "Если этот ключ установлен, показывается значок погоды."
+
+msgid "If true, display date in the clock, in addition to time."
+msgstr ""
+"Если этот ключ установлен, в апплете показывается не только время, но и дата."
+
+msgid "If true, display seconds in time."
+msgstr "Если этот ключ установлен, показываются секунды."
+
+msgid "If true, expand the list of appointments in the calendar window."
+msgstr ""
+"Если этот ключ установлен, список встреч в окне календаря разворачивается."
+
+msgid "If true, expand the list of birthdays in the calendar window."
+msgstr ""
+"Если этот ключ установлен, список дней рождений в окне календаря "
+"разворачивается."
+
+msgid "If true, expand the list of locations in the calendar window."
+msgstr ""
+"Если этот ключ установлен, список мест в окне календаря разворачивается."
+
+msgid "If true, expand the list of tasks in the calendar window."
+msgstr ""
+"Если этот ключ установлен, список задач в окне календаря разворачивается."
+
+msgid "If true, expand the list of weather information in the calendar window."
+msgstr ""
+"Если этот ключ установлен, список прогнозов погоды в окне календаря "
+"разворачивается."
+
+msgid ""
+"If true, hiding and un-hiding of this panel will be animated rather than "
+"happening instantly."
+msgstr ""
+"Если этот ключ установлен, то скрытие и раскрытие панели будет "
+"анимированным, а не моментальным."
+
+msgid "If true, show date in a tooltip when the pointer is over the clock."
+msgstr ""
+"Если этот ключ установлен, при наведении указателя на апплет часов "
+"показывается всплывающая подсказка с датой."
+
+msgid "If true, show the temperature next to the weather icon."
+msgstr ""
+"Если этот ключ установлен, рядом со значком погоды показывается температура."
+
+msgid "If true, show week numbers in the calendar."
+msgstr "Если этот ключ установлен, в календаре показываются номера недель."
+
+msgid ""
+"If true, the \"Known Applications\" listing in the \"Run Application\" "
+"dialog is expanded when the dialog is opened. This key is only relevant if "
+"the enable_program_list key is true."
+msgstr ""
+"Если этот ключ установлен, список «Известные приложения» в диалоге "
+"«Выполнить программу» по умолчанию разворачивается. Этот ключ имеет смысл "
+"только в том случае, если установлен ключ enable_program_list."
+
+msgid ""
+"If true, the \"Known Applications\" listing in the \"Run Application\" "
+"dialog is made available. Whether or not the listing is expanded when the "
+"dialog is shown is controlled by the show_program_list key."
+msgstr ""
+"Если этот ключ установлен, то в диалоге «Выполнить программу» становится "
+"доступным список «Известные приложения». Будет ли он развёрнут по умолчанию, "
+"зависит от ключа show_program_list."
+
+msgid ""
+"If true, the background image will be rotated when the panel is oriented "
+"vertically."
+msgstr ""
+"Если этот ключ установлен, то фоновое изображение будет повёрнуто, если "
+"панель ориентирована вертикально."
+
+msgid ""
+"If true, the custom_icon key is used as a custom icon for the button. If "
+"false, the custom_icon key is ignored. This key is only relevant if the "
+"object_type key is \"menu-object\" or \"drawer-object\"."
+msgstr ""
+"Если этот ключ установлен, то значение из ключа custom_icon используется как "
+"пользовательский значок для кнопки. Если не установлен, то значение ключа "
+"custom_icon будет проигнорировано. Этот параметр имеет смысл, только если "
+"ключ object_type содержит значение «menu-object» или «drawer-object»."
+
+msgid ""
+"If true, the fish's animation will be displayed rotated on vertical panels."
+msgstr ""
+"Если этот ключ установлен, на вертикальных панелях анимация будет "
+"отображаться в повёрнутом виде."
+
+msgid ""
+"If true, the image will be scaled (retaining the aspect ratio of the image) "
+"to the panel height (if horizontal)."
+msgstr ""
+"Если этот ключ установлен, то фоновое изображение будет масштабироваться (с "
+"сохранением соотношения высоты к ширине) до высоты панели (если панель "
+"горизонтальная)."
+
+msgid ""
+"If true, the image will be scaled to the panel dimensions. The aspect ratio "
+"of the image will not be maintained."
+msgstr ""
+"Если этот ключ установлен, размер изображения будет изменен до размеров "
+"панели. Соотношение высоты к ширине изображения при этом не сохраняется."
+
+msgid ""
+"If true, the menu_path key is used as the path from which the menu contents "
+"should be constructed. If false, the menu_path key is ignored. This key is "
+"only relevant if the object_type key is \"menu-object\"."
+msgstr ""
+"Если этот ключ установлен, то значение из ключа menu_path используется как "
+"путь, из которого будет сконструировано меню. Если не установлен, то "
+"значение ключа menu_path будет проигнорировано. Этот параметр имеет смысл "
+"только если ключ object_type содержит значение «menu-object»."
+
+msgid ""
+"If true, the panel is automatically hidden into a corner of the screen when "
+"the pointer leaves the panel area. Moving the pointer to that corner again "
+"will cause the panel to re-appear."
+msgstr ""
+"Если этот ключ установлен, то панель будет автоматически скрываться в угол "
+"экрана при покидании указателем мыши пространства над панелью. Если "
+"поместить указатель в этот угол, панель снова появится."
+
+msgid ""
+"If true, the panel will not allow a user to force an application to quit by "
+"removing access to the force quit button."
+msgstr ""
+"Если этот ключ установлен, панель не будет позволять принудительно завершать "
+"приложение. Соответствующая кнопка будет недоступна."
+
+msgid ""
+"If true, the panel will not allow a user to log out, by removing access to "
+"the log out menu entries."
+msgstr ""
+"Если этот ключ установлен, панель не будет позволять завершать сеанс. "
+"Соответствующие пункты меню будут недоступны."
+
+msgid ""
+"If true, the panel will not allow any changes to the configuration of the "
+"panel. Individual applets may need to be locked down separately however. The "
+"panel must be restarted for this to take effect."
+msgstr ""
+"Если этот ключ установлен, панель не будет позволять производить изменения в "
+"своих настройках. Однако отдельные апплеты могут потребовать отдельной "
+"блокировки. Чтобы этот ключ вступил в силу, панель необходимо перезапустить."
+
+msgid ""
+"If true, the panel will occupy the entire screen width (height if this is a "
+"vertical panel). In this mode the panel can only be placed at a screen edge. "
+"If false, the panel will only be large enough to accommodate the applets, "
+"launchers and buttons on the panel."
+msgstr ""
+"Если этот ключ установлен, то панель будет занимать всю ширину экрана (или "
+"высоту, если панель вертикальная). Такие панели могут размещаться только по "
+"краям экрана. Если этот ключ не установлен, то панель будет занимать лишь "
+"столько пространства, сколько необходимо для размещения находящихся на ней "
+"апплетов и кнопок."
+
+msgid ""
+"If true, the position of the object is interpreted relative to the right (or "
+"bottom if vertical) edge of the panel."
+msgstr ""
+"Если этот ключ установлен, то позиция объекта интерпретируется относительно "
+"правого (или нижнего для вертикальных панелей) края панели."
+
+msgid ""
+"If true, the user may not move the applet without first unlocking the object "
+"using the \"Unlock\" menuitem."
+msgstr ""
+"Если этот ключ установлен, то пользователь не может перемещать апплет, не "
+"отдав перед этим команду «Разблокировать»."
+
+msgid ""
+"If true, the window list will show windows from all workspaces. Otherwise it "
+"will only display windows from the current workspace."
+msgstr ""
+"Если этот ключ установлен, список окон будет отображать окна со всех рабочих "
+"мест, а не только с текущего."
+
+msgid ""
+"If true, the workspace switcher will show all workspaces. Otherwise it will "
+"only show the current workspace."
+msgstr ""
+"Если этот ключ установлен, переключатель будет показывать все рабочие места. "
+"Иначе будет показано только текущее."
+
+msgid ""
+"If true, the workspaces in the workspace switcher will display the names of "
+"the workspaces. Otherwise they will display the windows on the workspace. "
+"This setting only works when the window manager is Metacity."
+msgstr ""
+"Если этот ключ установлен, переключатель будет показывать названия рабочих "
+"мест. Если не установлен, на рабочих местах будут показываться окна. Этот "
+"ключ работает только тогда, когда используется менеджер окон Metacity."
+
+msgid ""
+"If true, the x and x_right keys are ignored and the panel is placed at the "
+"center of the x-axis of the screen. If the panel is resized it will remain "
+"at that position - i.e. the panel will grow on both sides. If false, the x "
+"and x_right keys specify the location of the panel."
+msgstr ""
+"Если этот ключ установлен, то ключи x и x_right игнорируются и панель "
+"помещается в центр оси X экрана. Если размер панели изменяется, она всё "
+"равно остаётся на том же месте (иными словами — расширяется одновременно в "
+"обе стороны). Если ключ не установлен, то ключи x и x_right определяют "
+"положение панели."
+
+msgid ""
+"If true, the y and y_bottom keys are ignored and the panel is placed at the "
+"center of the y-axis of the screen. If the panel is resized it will remain "
+"at that position - i.e. the panel will grow on both sides. If false, the y "
+"and y_bottom keys specify the location of the panel."
+msgstr ""
+"Если этот ключ установлен, то ключи y и y_bottom игнорируются и панель "
+"помещается в центр оси Y экрана. Если размер панели изменяется, она всё "
+"равно остаётся на том же месте (иными словами — расширяется одновременно в "
+"обе стороны). Если ключ не установлен, то ключи y и y_bottom определяют "
+"положение панели."
+
+msgid ""
+"If true, then when unminimizing a window, move it to the current workspace. "
+"Otherwise, switch to the workspace of the window."
+msgstr ""
+"Если этот ключ установлен, восстановление окна будет происходить на текущее "
+"рабочее место, а не на исходное."
+
+msgid "If true, tooltips are shown for objects in panels."
+msgstr ""
+"Если этот ключ установлен, для объектов панели показываются всплывающие "
+"подсказки."
+
+msgid ""
+"If you choose to force an application to exit, unsaved changes in any open "
+"documents in it might get lost."
+msgstr ""
+"Если вы завершите приложение принудительно, все изменения в открытых в нём "
+"документах могут быть потеряны."
+
+msgid ""
+"If you clear the Recent Documents list, you clear the following:\n"
+"• All items from the Places → Recent Documents menu item.\n"
+"• All items from the recent documents list in all applications."
+msgstr ""
+"При очистке списка недавно использовавшихся документов будут очищены:\n"
+"• Все элементы меню Переход → Недавние документы.\n"
+"• Все элементы из списка недавно использовавшихся документов во всех "
+"приложениях."
+
+msgid ""
+"If you reload a panel object, it will automatically be added back to the "
+"panel."
+msgstr ""
+"Если вы перезагрузите объект панели, он будет автоматически добавлен обратно "
+"на панель."
+
+msgid "Image Background Details"
+msgstr "Подробности фонового изображения"
+
+msgid "Images"
+msgstr "Изображения"
+
+msgid ""
+"In a Xinerama setup, you may have panels on each individual monitor. This "
+"key identifies the current monitor the panel is displayed on."
+msgstr ""
+"При использовании системы Xinerama можно иметь разные панели на разных "
+"мониторах. Этот ключ определяет текущий монитор, на котором находится панель."
+
+msgid "Internet time"
+msgstr "Время Интернета"
+
+msgid "Interpret position relative to bottom/right edge"
+msgstr "Интерпретировать позицию относительно нижнего/правого края"
+
+msgid "Key %s is not set, cannot load launcher\n"
+msgstr "Ключ %s не установлен, невозможно загрузить кнопку запуска\n"
+
+msgid "Killer GEGLs from Outer Space"
+msgstr "Чудовищные ГЕГЛы-пришельцы"
+
+msgid "L_atitude:"
+msgstr "Ш_ирота:"
+
+msgid "L_ongitude:"
+msgstr "Д_олгота:"
+
+msgid ""
+"Launch other applications and provide various utilities to manage windows, "
+"show the time, etc."
+msgstr ""
+"Служит для запуска других приложений из меню и отображения вспомогательных "
+"апплетов, например, апплета времени или апплета управления окнами."
+
+msgid "Launcher Properties"
+msgstr "Свойства кнопки запуска"
+
+msgid "Launcher location"
+msgstr "Расположение кнопки запуска"
+
+msgid "Left Centered Panel"
+msgstr "Левая центрированная панель"
+
+msgid "Left Edge Panel"
+msgstr "Левая краевая панель"
+
+msgid "Left Expanded Edge Panel"
+msgstr "Левая расширенная краевая панель"
+
+msgid "Left Floating Panel"
+msgstr "Левая плавающая панель"
+
+msgid "Left/Right to move, Space to fire, 'p' to pause, 'q' to quit"
+msgstr ""
+"Используйте стрелки для перемещения, пробел для выстрелов, «p» для паузы, "
+"«q» для выхода"
+
+msgid "Level: %s,  Lives: %s"
+msgstr "Уровень: %s, жизни: %s"
+
+msgid "List of known applications"
+msgstr "Список известных приложений"
+
+msgid "List of locations"
+msgstr "Список местностей"
+
+msgid "Loc_k To Panel"
+msgstr "При_крепить к панели"
+
+msgid "Locate documents and folders on this computer by name or content"
+msgstr "Найти документы или папки на компьютере по имени или содержанию"
+
+msgid "Location"
+msgstr "Адрес"
+
+msgid "Locations"
+msgstr "Местности"
+
+msgid "Lock Screen"
+msgstr "Заблокировать экран"
+
+msgid "Lock the object to the panel"
+msgstr "Закрепить объект на панели"
+
+msgid "Log Out %s..."
+msgstr "Завершить сеанс пользователя %s…"
+
+msgid "Log Out..."
+msgstr "Завершить сеанс…"
+
+msgid "Log out %s from this session and return to log in screen"
+msgstr ""
+"Выполните выход из рабочей среды %s и вернитесь к экрану входа в систему."
+
+msgid "Log out %s of this session to log in as a different user"
+msgstr ""
+"Завершить сеанс пользователя %s и войти под именем другого пользователя"
+
+msgid "Log out of this session to log in as a different user"
+msgstr "Завершить этот сеанс, чтобы войти под именем другого пользователя"
+
+msgid "Look at today's date!"
+msgstr "Посмотри на сегодняшнее число!"
+
+msgid "Main Menu"
+msgstr "Главное меню"
+
+msgid "Maximum window list size"
+msgstr "Максимальный размер списка окон"
+
+msgid "Menu Bar"
+msgstr "Строка меню"
+
+msgid "Menu content path"
+msgstr "Путь содержимого меню"
+
+msgid "Minimum window list size"
+msgstr "Минимальный размер списка окон"
+
+msgid "Mount %s"
+msgstr "Присоединить %s"
+
+msgid "Move windows to current workspace when unminimized"
+msgstr "Перемещать окна на текущее рабочее место при восстановлении"
+
+msgid "Name to identify panel"
+msgstr "Имя для обозначения панели"
+
+msgid "Network Places"
+msgstr "Сетевые ресурсы"
+
+msgid "No URI provided for panel launcher desktop file\n"
+msgstr "Адрес (URI) не установлен для файла кнопки запуска панели\n"
+
+msgid "No URL was specified."
+msgstr "URL не указан."
+
+msgid "No application to handle search folders is installed."
+msgstr "Не найдено приложения для поиска в папках"
+
+msgid "North"
+msgstr "северной"
+
+msgid "Not a launchable item"
+msgstr "Незапускаемый объект"
+
+msgid "Notification Area"
+msgstr "Область уведомления"
+
+msgid "Number of _workspaces:"
+msgstr "_Число рабочих мест:"
+
+msgid "Object's position on the panel"
+msgstr "Положение объекта на панели"
+
+msgid "Old profiles configuration migrated"
+msgstr "Настройка старых профилей перенесена"
+
+msgid "Open %s"
+msgstr "Открыть %s"
+
+msgid "Open '%s'"
+msgstr "Открыть «%s»"
+
+msgid "Open URL: %s"
+msgstr "Открыть URL: %s"
+
+msgid "Open the contents of your desktop in a folder"
+msgstr "Открыть рабочий стол как папку"
+
+msgid "Open your personal folder"
+msgstr "Открыть вашу личную папку"
+
+msgctxt "Orientation"
+msgid "Bottom"
+msgstr "Снизу"
+
+msgctxt "Orientation"
+msgid "Left"
+msgstr "Слева"
+
+msgctxt "Orientation"
+msgid "Right"
+msgstr "Справа"
+
+msgctxt "Orientation"
+msgid "Top"
+msgstr "Сверху"
+
+msgid "Panel"
+msgstr "Панель"
+
+msgid ""
+"Panel '%s' is set to be displayed on screen %d which is not currently "
+"available. Not loading this panel."
+msgstr ""
+"Панель «%s» настроена так, чтобы отображаться на экране %d, который в данный "
+"момент недоступен. Панель не загружена."
+
+msgid "Panel Display"
+msgstr "Вид на панели"
+
+msgid "Panel ID list"
+msgstr "Список идентификаторов панели"
+
+msgid "Panel Notification Area"
+msgstr "Область уведомления панели"
+
+msgid "Panel Properties"
+msgstr "Свойства панели"
+
+msgid "Panel applet ID list"
+msgstr "Список идентификаторов апплетов панели"
+
+msgid "Panel attached to drawer"
+msgstr "Панель, присоединённая к ящику"
+
+msgid "Panel autohide delay"
+msgstr "Задержка автоскрытия панели"
+
+msgid "Panel autounhide delay"
+msgstr "Задержка автораскрытия панели"
+
+msgid "Panel object ID list"
+msgstr "Список идентификаторов объектов панели"
+
+msgid "Panel object has quit unexpectedly"
+msgstr "Объект панели неожиданно завершил работу"
+
+msgid "Panel object type"
+msgstr "Тип объекта панели"
+
+msgid "Panel orientation"
+msgstr "Ориентация панели"
+
+msgid "Panel size"
+msgstr "Размер панели"
+
+msgid "Pause per frame"
+msgstr "Задержка кадра"
+
+msgid "Paused"
+msgstr "Остановлено"
+
+msgid "Pick a color"
+msgstr "Укажите цвет"
+
+msgid "Places"
+msgstr "Переход"
+
+msgid "Preferences"
+msgstr "Параметры"
+
+msgid "Press 'p' to unpause"
+msgstr "Нажмите «p» для продолжения"
+
+msgid "Press 'q' to quit"
+msgstr "Для выхода нажмите «q»"
+
+msgid "Protect your computer from unauthorized use"
+msgstr "Защитить компьютер от несанкционированного использования"
+
+msgid "Recent Documents"
+msgstr "Недавние документы"
+
+msgid "Removable Media"
+msgstr "Сменные носители"
+
+msgid "Replace a currently running panel"
+msgstr "Заменить панель, запущенную в данный момент"
+
+msgid "Rescan %s"
+msgstr "Перечитать %s"
+
+msgid "Restore to current _workspace"
+msgstr "Восстанавливать на текущее _рабочее место"
+
+msgid "Restore to na_tive workspace"
+msgstr "Восстанавливать на ис_ходное рабочее место"
+
+msgid "Restoring Minimized Windows"
+msgstr "Восстановление свёрнутых окон"
+
+msgid "Right Centered Panel"
+msgstr "Правая центрированная панель"
+
+msgid "Right Edge Panel"
+msgstr "Правая краевая панель"
+
+msgid "Right Expanded Edge Panel"
+msgstr "Правая расширенная краевая панель"
+
+msgid "Right Floating Panel"
+msgstr "Правая плавающая панель"
+
+msgid "Rotate image on vertical panels"
+msgstr "Поворачивать изображение на вертикальных панелях"
+
+msgid "Rotate image when panel is _vertical"
+msgstr "Поворачивать изображение на _вертикальных панелях"
+
+msgid "Rotate on vertical panels"
+msgstr "Поворачивать на вертикальных панелях"
+
+msgid "Rows in workspace switcher"
+msgstr "Строк в переключателе"
+
+msgid "Run Application"
+msgstr "Выполнить программу"
+
+msgid "Run Application..."
+msgstr "Запустить приложение..."
+
+msgid "Run an application by typing a command or choosing from a list"
+msgstr ""
+"Выполнить программу, заданную введённой командой или выбранную из списка"
+
+msgid "Run in _terminal"
+msgstr "В терм_инале"
+
+msgid "Run with _file..."
+msgstr "С _файлом…"
+
+msgid "S_tyle:"
+msgstr "С_тиль:"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search for Files..."
+msgstr "Искать файлы…"
+
+msgid "Select an animation"
+msgstr "Выбор анимации"
+
+msgid "Select an application to view its description."
+msgstr "Выделите приложение, чтобы увидеть его описание."
+
+msgid "Select background"
+msgstr "Выбрать фон"
+
+msgid "Select this box to run the command in a terminal window."
+msgstr ""
+"Поставьте флажок в этом поле, чтобы запустить команду в окне терминала."
+
+msgid "Separator"
+msgstr "Разделитель"
+
+msgid "Session management options:"
+msgstr "Параметры управления сеансом:"
+
+msgid "Set System Time"
+msgstr "Установить системное время"
+
+msgid "Set System Time..."
+msgstr "Установить системное время…"
+
+msgid "Set location as current location and use its timezone for this computer"
+msgstr "Сделать местность текущей и использовать этот часовой пояс"
+
+msgid "Sh_ow windows from current workspace"
+msgstr "Показывать окна тек_ущего рабочего места"
+
+msgid "Show Desktop Button"
+msgstr "Кнопка расчистки рабочего стола"
+
+msgid "Show _all workspaces in:"
+msgstr "Показывать вс_е рабочие места в "
+
+msgid "Show _only the current workspace"
+msgstr "Показывать только тек_ущее рабочее место"
+
+msgid "Show _temperature"
+msgstr "Показывать _температуру"
+
+msgid "Show _weather"
+msgstr "Показывать по_году"
+
+msgid "Show date in clock"
+msgstr "Показывать дату в апплете часов"
+
+msgid "Show date in tooltip"
+msgstr "Показывать дату в подсказке"
+
+msgid "Show hide _buttons"
+msgstr "Показывать _кнопки скрытия"
+
+msgid "Show list of known _applications"
+msgstr "Показывать cписок известных прило_жений"
+
+msgid "Show seco_nds"
+msgstr "Показывать се_кунды"
+
+msgid "Show session management options"
+msgstr "Показать параметры управления сеансом"
+
+msgid "Show temperature in clock"
+msgstr "Показывать температуру в часах"
+
+msgid "Show the _date"
+msgstr "Показывать _дату"
+
+msgid "Show time with seconds"
+msgstr "Показывать секунды"
+
+msgid "Show weather in clock"
+msgstr "Показывать погоду в часах"
+
+msgid "Show week numbers in calendar"
+msgstr "Показывать номера недель в календаре"
+
+msgid "Show windows from a_ll workspaces"
+msgstr "Показывать окна вс_ех рабочих мест"
+
+msgid "Show windows from all workspaces"
+msgstr "Показывать окна со всех рабочих мест"
+
+msgid "Show workspace _names in switcher"
+msgstr "Показывать _названия рабочих мест в переключателе"
+
+msgid "Shut Down..."
+msgstr "Выключить…"
+
+msgid "Shut down the computer"
+msgstr "Выключить компьютер"
+
+msgctxt "Size"
+msgid "Large"
+msgstr "Большая"
+
+msgctxt "Size"
+msgid "Medium"
+msgstr "Cредняя"
+
+msgctxt "Size"
+msgid "Small"
+msgstr "Маленькая"
+
+msgctxt "Size"
+msgid "X Large"
+msgstr "Очень большая"
+
+msgctxt "Size"
+msgid "X Small"
+msgstr "Очень маленькая"
+
+msgctxt "Size"
+msgid "XX Large"
+msgstr "Сверхбольшая"
+
+msgctxt "Size"
+msgid "XX Small"
+msgstr "Сверхмаленькая"
+
+msgid "Solid c_olor"
+msgstr "Заливка _цветом"
+
+msgid "Some of these properties are locked down"
+msgstr "Некоторые из этих свойств заблокированы"
+
+msgid "South"
+msgstr "южной"
+
+msgid "Specifies the background color for the panel in #RGB format."
+msgstr "Указывает цвет фона для панели в формате #RGB."
+
+msgid ""
+"Specifies the file to be used for the background image. If the image "
+"contains an alpha channel it will be composited onto the desktop background "
+"image."
+msgstr ""
+"Указывает файл, используемый в качестве фонового изображения. Если "
+"изображение содержит альфа-канал, то оно будет совмещено на прозрачных "
+"участках с изображением фона рабочего стола."
+
+msgid ""
+"Specifies the number of milliseconds delay after the pointer enters the "
+"panel area before the panel is automatically re-shown. This key is only "
+"relevant if the auto_hide key is true."
+msgstr ""
+"Указывает задержку в миллисекундах между появлением указателя мыши в области "
+"панели и автоматическим раскрытием этой панели. Имеет смысл только в том "
+"случае, если установлен ключ auto_hide."
+
+msgid ""
+"Specifies the number of milliseconds delay after the pointer leaves the "
+"panel area before the panel is automatically hidden. This key is only "
+"relevant if the auto_hide key is true."
+msgstr ""
+"Указывает задержку в миллисекундах между покиданием указателем мыши области "
+"над панелью и автоматическим скрытием этой панели. Имеет смысл только в том "
+"случае, если установлен ключ auto_hide."
+
+msgid ""
+"Specifies the number of pixels visible when the panel is automatically "
+"hidden into a corner. This key is only relevant if the auto_hide key is true."
+msgstr ""
+"Указывает количество пикселей, видимых, когда панель автоматически "
+"скрывается за границу экрана. Этот ключ имеет смысл только в том случае, "
+"если установлен ключ auto_hide."
+
+msgid ""
+"Specifies the opacity of the background color format. If the color is not "
+"completely opaque (a value of less than 65535), the color will be composited "
+"onto the desktop background image."
+msgstr ""
+"Определяет степень непрозрачности фонового цвета. Если цвет хотя бы частично "
+"прозрачен (то есть значение этого ключа меньше, чем 65535), то цвет будет "
+"совмещён с изображением фона рабочего стола."
+
+msgid ""
+"Specify a gconf location in which the applet preferences should be stored"
+msgstr ""
+"Указать местоположение в системе GConf, где будут сохранены параметры апплета"
+
+msgid "Specify an applet IID to load"
+msgstr "Указать идентификатор (IID) апплета для загрузки"
+
+msgid "Specify file containing saved configuration"
+msgstr "Укажите файл с сохраненными параметрами"
+
+msgid "Specify session management ID"
+msgstr "Указать ID управления сеансом"
+
+msgid ""
+"Specify the initial orientation of the applet (top, bottom, left or right)"
+msgstr "Указать начальное расположение апплета (top, bottom, left или right)"
+
+msgid "Specify the initial size of the applet (xx-small, medium, large etc.)"
+msgstr "Указать начальный размер апплета (xx-small, medium, large и так далее)"
+
+msgid "Speed unit"
+msgstr "Единица скорости"
+
+msgid "St_retch"
+msgstr "Раст_ягивать"
+
+msgid "Starting %s"
+msgstr "Запускается %s"
+
+msgid "Stretch image to panel"
+msgstr "Растянуть изображение по панели"
+
+msgid "Sunrise: %s / Sunset: %s"
+msgstr "Восход: %s / Заход: %s"
+
+msgid "Switcher"
+msgstr "Переключатель"
+
+msgid "System"
+msgstr "Система"
+
+msgid "Tasks"
+msgstr "Задачи"
+
+msgid "Temperature unit"
+msgstr "Единица температуры"
+
+msgid "Test Bonobo Applet"
+msgstr "Тестовый апплет Bonobo"
+
+msgid "Test Bonobo Applet Factory"
+msgstr "Фабрика тестового апплета Bonobo"
+
+msgid "Test applet utility"
+msgstr "Средство проверки апплетов"
+
+msgid "The Clock displays the current time and date"
+msgstr "Отображает текущие время и дату"
+
+msgid "The GNOME Panel"
+msgstr "Панель среды GNOME"
+
+msgid ""
+"The Window List shows a list of all windows in a set of buttons and lets you "
+"browse them."
+msgstr ""
+"Показывает список всех окон как набор кнопок и позволяет переключаться между "
+"ними."
+
+msgid ""
+"The Window Selector shows a list of all windows in a menu and lets you "
+"browse them."
+msgstr ""
+"Отображает список всех окон в виде меню и позволяет переключаться между ними."
+
+msgid ""
+"The Workspace Switcher shows you a small version of your workspaces that "
+"lets you manage your windows."
+msgstr ""
+"Переключатель рабочих мест показывает в уменьшенном виде ваши рабочие места, "
+"позволяя управлять окнами."
+
+msgid ""
+"The action type this button represents. Possible values are \"lock\", "
+"\"logout\", \"run\", \"search\" and \"screenshot\". This key is only "
+"relevant if the object_type key is \"action-applet\"."
+msgstr ""
+"Тип действия, реализуемого кнопкой. Допустимые значения: «lock», «logout», "
+"«run», «search» and «screenshot». Этот параметр имеет смысл только в том "
+"случае, если object_type содержит «action-applet»."
+
+msgid "The command of the launcher is not set."
+msgstr "Команда для кнопки запуска не указана."
+
+msgid "The configured command is not working and has been replaced by: %s"
+msgstr "Настроенная команда не работает и была заменена на: %s"
+
+msgid "The fish's animation pixmap"
+msgstr "Анимированное изображение рыбки"
+
+msgid "The fish's name"
+msgstr "Имя рыбки"
+
+msgid ""
+"The height (width for a vertical panel) of the panel. The panel will "
+"determine at runtime a minimum size based on the font size and other "
+"indicators. The maximum size is fixed at one quarter of the screen height "
+"(or width)."
+msgstr ""
+"Высота панели (или ширина, если панель вертикальная). Панель определяет "
+"минимально допустимый размер «на ходу» исходя из размера шрифта и других "
+"соображений. Максимальный размер ограничен четвертью высоты экрана (или "
+"ширины, для вертикальных панелей)."
+
+msgid "The icon of the command to be run."
+msgstr "Значок команды для выполнения"
+
+msgid ""
+"The identifier of the panel attached to this drawer. This key is only "
+"relevant if the object_type key is \"drawer-object\"."
+msgstr ""
+"Идентификатор панели, присоединенной к данному ящику. Этот параметр имеет "
+"смысл только в том случае, если ключ object_type содержит «drawer-object»."
+
+msgid "The identifier of the toplevel panel which contains this object."
+msgstr "Идентификатор панели верхнего уровня, которая содержит данный объект."
+
+msgid ""
+"The implementation ID of the applet - e.g. \"ClockAppletFactory::ClockApplet"
+"\". This key is only relevant if the object_type key is \"bonobo-applet\"."
+msgstr ""
+"Идентификатор реализации апплета, например, «ClockAppletFactory::"
+"ClockApplet». Этот ключ имеет смысл только в том случае, если ключ "
+"object_type содержит «bonobo-applet»."
+
+msgid ""
+"The location of the .desktop file describing the launcher. This key is only "
+"relevant if the object_type key is \"launcher-object\"."
+msgstr ""
+"Местоположение файла .desktop, описывающего кнопку запуска. Этот параметр "
+"имеет смысл только в том случае, если тип объекта (object_type) содержит "
+"«launcher-object»."
+
+msgid ""
+"The location of the image file used as the icon for the object's button. "
+"This key is only relevant if the object_type key is \"drawer-object\" or "
+"\"menu-object\" and the use_custom_icon key is true."
+msgstr ""
+"Местоположение файла изображения, используемого как значок для кнопки "
+"объекта. Этот ключ имеет смысл только в том случае, если ключ object_type "
+"содержит «drawer-object» и ключ use_custom_icon установлен."
+
+msgid "The location of the launcher is not set."
+msgstr "Адрес для кнопки запуска не указан."
+
+msgid ""
+"The location of the panel along the x-axis, starting from the right of the "
+"screen. If set to -1, the value is ignored and the value of the x key is "
+"used. If the value is greater than 0, then the value of the x key is "
+"ignored. This key is only relevant in un-expanded mode. In expanded mode "
+"this key is ignored and the panel is placed at the screen edge specified by "
+"the orientation key."
+msgstr ""
+"Расположение панели по оси X, считая от правой стороны экрана. Если "
+"установлено в -1, это значение игнорируется и используется ключ x. Если "
+"значение больше 0, тогда игнорируется значение ключа x. Этот ключ имеет "
+"эффект только в том случае, если панель не настроена на расширение до "
+"размеров экрана. В режиме расширения этот ключ игнорируется, и панель "
+"размещается у края экрана в соответствии со значением ключа ориентации."
+
+msgid ""
+"The location of the panel along the x-axis. This key is only relevant in un-"
+"expanded mode. In expanded mode this key is ignored and the panel is placed "
+"at the screen edge specified by the orientation key."
+msgstr ""
+"Расположение панели по оси X. Этот ключ имеет эффект только в том случае, "
+"если панель не настроена на расширение до размеров экрана. В режиме "
+"расширения этот ключ игнорируется, и панель размещается у края экрана в "
+"соответствии со значением ключа ориентации."
+
+msgid ""
+"The location of the panel along the y-axis, starting from the bottom of the "
+"screen. If set to -1, the value is ignored and the value of the y key is "
+"used. If the value is greater than 0, then the value of the y key is "
+"ignored. This key is only relevant in un-expanded mode. In expanded mode "
+"this key is ignored and the panel is placed at the screen edge specified by "
+"the orientation key."
+msgstr ""
+"Расположение панели по оси Y, считая от низа экрана. Если установлено в -1, "
+"это значение игнорируется и используется ключ y. Если значение больше 0, "
+"тогда игнорируется значение ключа y. Этот ключ имеет эффект только в том "
+"случае, если панель не настроена на расширение до размеров экрана. В режиме "
+"расширения этот ключ игнорируется, и панель размещается у края экрана в "
+"соответствии со значением ключа ориентации."
+
+msgid ""
+"The location of the panel along the y-axis. This key is only relevant in un-"
+"expanded mode. In expanded mode this key is ignored and the panel is placed "
+"at the screen edge specified by the orientation key."
+msgstr ""
+"Расположение панели по оси Y. Этот ключ имеет эффект только в том случае, "
+"если панель не настроена на расширение до размеров экрана. В режиме "
+"расширения этот ключ игнорируется, и панель размещается у края экрана в "
+"соответствии со значением ключа ориентации."
+
+msgid "The main GNOME menu"
+msgstr "Главное меню среды GNOME"
+
+msgid "The name of the directory is not set."
+msgstr "Имя каталога не указано."
+
+msgid "The name of the launcher is not set."
+msgstr "Имя кнопки запуска не указано."
+
+msgid ""
+"The orientation of the panel. Possible values are \"top\", \"bottom\", \"left"
+"\", \"right\". In expanded mode the key specifies which screen edge the "
+"panel is on. In un-expanded mode the difference between \"top\" and \"bottom"
+"\" is less important - both indicate that this is a horizontal panel - but "
+"still give a useful hint as to how some panel objects should behave. For "
+"example, on a \"top\" panel a menu button will pop up its menu below the "
+"panel, whereas on a \"bottom\" panel the menu will be popped up above the "
+"panel."
+msgstr ""
+"Ориентация панели. Возможные значения: «top», «bottom», «left», «right». В "
+"режиме расширения значение определяет, у какой стороны экрана расположена "
+"панель. Если расширение до размеров экрана не используется, то разница между "
+"«top» и «bottom» менее важна — оба значения определяют, что это "
+"горизонтальная панель, но всё же определяет некоторые аспекты поведения "
+"объектов на панели. Например, при значении «top» выпадающее меню у кнопки "
+"меню будет ориентировано вниз, тогда как при «bottom» — вверх."
+
+msgid "The panel encountered a problem while loading \"%s\"."
+msgstr "Возникла проблема при загрузке апплета «%s»."
+
+msgid ""
+"The path from which the menu contents is contructed. This key is only "
+"relevant if the use_menu_path key is true and the object_type key is \"menu-"
+"object\"."
+msgstr ""
+"Путь, из которого будет построено содержимое меню. Этот ключ имеет смысл "
+"только в том случае, если ключ use_menu_path установлен и ключ object_type "
+"имеет значение «menu-object»."
+
+msgid ""
+"The position of this panel object. The position is specified by the number "
+"of pixels from the left (or top if vertical) panel edge."
+msgstr ""
+"Положение объекта на панели. Положение определяется количеством пикселей от "
+"левого (или верхнего для вертикальных панелей) края панели."
+
+msgid ""
+"The speed in which panel animations should occur. Possible values are \"slow"
+"\", \"medium\" and \"fast\". This key is only relevant if the "
+"enable_animations key is true."
+msgstr ""
+"Скорость, с которой должна производиться анимация. Допустимые значения: "
+"«slow» (медленно), «medium» (средне) и «fast» (быстро). Этот ключ действует "
+"только в том случае, если установлен ключ enable_animations."
+
+msgid ""
+"The text to display in a tooltip for this drawer or this menu. This key is "
+"only relevant if the object_type key is \"drawer-object\" or \"menu-object\"."
+msgstr ""
+"Текст, используемый в качестве подсказки для данного ящика. Этот параметр "
+"имеет смысл только в том случае, если ключ object_type имеет значение "
+"«drawer-object» или «menu-object»."
+
+msgid ""
+"The type of this panel object. Possible values are \"drawer-object\", \"menu-"
+"object\", \"launcher-object\", \"bonobo-applet\", \"action-applet\" and "
+"\"menu-bar\"."
+msgstr ""
+"Тип объекта панели. Допустимые значения: «drawer-object», «menu-object», "
+"«launcher-object», «bonobo-applet», «action-applet» и «menu-bar»."
+
+msgid "The unit to use when showing temperatures."
+msgstr "Единица измерения, используемая для температур."
+
+msgid "The unit to use when showing wind speed."
+msgstr "Единица измерения, используемая для скорости ветра."
+
+msgid ""
+"The use of this key was deprecated in GNOME 2.20. The schema is retained for "
+"compatibility with older versions."
+msgstr ""
+"Использовать этот ключ в среде GNOME версии начиная с 2.20 не рекомендуется. "
+"Данный ключ остаётся только для совместимости с предыдущими версиями."
+
+msgid ""
+"The use of this key was deprecated in GNOME 2.22 with the use of an internal "
+"time configuration tool. The schema is retained for compatibility with older "
+"versions."
+msgstr ""
+"Использование этого ключа было объявлено устаревшим в GNOME 2.22 с помощью "
+"внутренних инструментов конфигурирования. Эта схема остаётся для "
+"совместимости с предыдущими версиями."
+
+msgid ""
+"The use of this key was deprecated in GNOME 2.28 in favour of the use of "
+"timezones. The schema is retained for compatibility with older versions."
+msgstr ""
+"Использовать этот ключ не рекомендуется начиная с GNOME версии 2.28. "
+"Предпочтительнее пользоваться настройками часовых поясов. Данный ключ "
+"остаётся только для совместимости с предыдущими версиями."
+
+msgid ""
+"The use of this key was deprecated in GNOME 2.6 in favour of the 'format' "
+"key. The schema is retained for compatibility with older versions."
+msgstr ""
+"Использовать этот ключ не рекомендуется начиная с GNOME версии 2.6. "
+"Предпочтительнее использовать ключ «format». Данный ключ остаётся только для "
+"совместимости с предыдущими версиями."
+
+msgid "The water needs changing"
+msgstr "Воду пора менять"
+
+msgid "This button lets you hide all windows and show the desktop."
+msgstr "Эта кнопка позволяет скрыть все окна и расчистить рабочий стол."
+
+msgid ""
+"This is a human readable name which you can use to identify a panel. Its "
+"main purpose is to serve as the panel's window title which is useful when "
+"navigating between panels."
+msgstr ""
+"Удобное для чтения человеком имя панели. Основное назначение — служить "
+"заголовком окна панели, что полезно при переключении между панелями."
+
+msgid ""
+"This key is deprecated as it cannot be used to implement proper lockdown. "
+"The /desktop/gnome/lockdown/disable_lock_screen key should be used instead."
+msgstr ""
+"Этот ключ устарел, так как не может быть использован для осуществления "
+"надлежащей блокировка. Вместо него должен использоваться ключ /desktop/gnome/"
+"lockdown/disable_lock_screen."
+
+msgid ""
+"This key is deprecated, following the migration to a new library for "
+"applets. The Bonobo implementation ID of the applet - e.g. \"OAFIID:"
+"GNOME_ClockApplet\". This key is only relevant if the object_type key is "
+"\"bonobo-applet\"."
+msgstr ""
+"Этот ключ устарел после перевода апплетов на новую библиотеку. Идентификатор "
+"реализации Bonobo апплета, например, «OAFIID:GNOME_ClockApplet». Этот ключ "
+"имеет смысл только в том случае, если ключ object_type содержит «bonobo-"
+"applet»."
+
+msgid ""
+"This key specifies how many rows (for horizontal layout) or columns (for "
+"vertical layout) the workspace switcher shows the workspaces in. This key is "
+"only relevant if the display_all_workspaces key is true."
+msgstr ""
+"Этот ключ определяет, во сколько рядов (при горизонтальном размещении) или "
+"столбцов (при вертикальном размещении) переключатель будет показывать "
+"рабочие места. Имеет смысл только если установлен ключ "
+"display_all_workspaces."
+
+msgid ""
+"This key specifies the command that will be tried to execute when the fish "
+"is clicked."
+msgstr "Этот ключ определяет команду, выполняемую при щелчке на рыбке."
+
+msgid ""
+"This key specifies the filename of the pixmap which will be used for the "
+"animation displayed in the fish applet relative to the pixmap directory."
+msgstr ""
+"Этот ключ определяет имя файла изображения, которое будет использоваться для "
+"отображения анимации апплета рыбки, относительно каталога изображений "
+"(pixmap)."
+
+msgid ""
+"This key specifies the format used by the clock applet when the format key "
+"is set to \"custom\". You can use conversion specifiers understood by "
+"strftime() to obtain a specific format. See the strftime() manual for more "
+"information."
+msgstr ""
+"Этот ключ определяет формат, используемый апплетом часов, когда ключ формата "
+"установлен в значение «custom». Можно использовать последовательности, "
+"понимаемые функцией strftime(), для достижения желаемого формата. Для "
+"получения дополнительной информации смотрите руководство по функции "
+"strftime()."
+
+msgid ""
+"This key specifies the hour format used by the clock applet. Possible values "
+"are \"12-hour\", \"24-hour\", \"internet\", \"unix\" and \"custom\". If set "
+"to \"internet\", the clock will display Internet time. The Internet time "
+"system divides the day into 1000 \".beats\". There are no time zones in this "
+"system, so time is the same all over the world. If set to \"unix\", the "
+"clock will display time in seconds since Epoch, i.e. 1970-01-01. If set to "
+"\"custom\", the clock will display time according to the format specified in "
+"the custom_format key."
+msgstr ""
+"Этот ключ определяет формат часов, используемый апплетом часов. Возможные "
+"значения: «12-hour», «24-hour», «internet», «unix» и «custom». Если этот "
+"ключ установлен в значение «internet», часы будут отображать время "
+"Интернета. В этой системе день делится на 1000 «ударов» (beats). Часовые "
+"пояса в этой системе отсутствуют, так что время одинаково во всём мире. Если "
+"ключ установлен в значение «unix», часы будут отображать время в секундах с "
+"начала «эпохи», то есть 1 января 1970 года. Если ключ установлен в значение "
+"«custom», часы будут отображать время в соответствии с форматом, "
+"определённым ключом «custom_format»."
+
+msgid ""
+"This key specifies the number of frames that will be displayed in the fish's "
+"animation."
+msgstr "Этот ключ определяет число кадров, используемых в анимации рыбки."
+
+msgid "This key specifies the number of seconds each frame will be displayed."
+msgstr ""
+"Этот ключ определяет количество секунд, в течение которых отображается "
+"каждый кадр."
+
+msgid ""
+"This program is responsible for launching other applications and provides "
+"useful utilities."
+msgstr ""
+"Эта программа отвечает за запуск других приложений, а также предоставляет "
+"разные полезные инструменты."
+
+msgid "Time & Date"
+msgstr "Дата и время"
+
+msgid "Time _Settings"
+msgstr "_Параметры времени"
+
+msgid "Time configuration tool"
+msgstr "Программа установки часов"
+
+msgid "Tooltip displayed for drawer or menu"
+msgstr "Всплывающая подсказка для ящика или меню"
+
+msgid "Top Centered Panel"
+msgstr "Верхняя центрированная панель"
+
+msgid "Top Edge Panel"
+msgstr "Верхняя краевая панель"
+
+msgid "Top Expanded Edge Panel"
+msgstr "Верхняя расширенная краевая панель"
+
+msgid "Top Floating Panel"
+msgstr "Верхняя плавающая панель"
+
+msgid "Toplevel panel containing object"
+msgstr "Панель верхнего уровня, содержащая объект"
+
+msgid "UNIX time"
+msgstr "Время UNIX"
+
+msgid "URI list dropped on run dialog had wrong format (%d) or length (%d)\n"
+msgstr ""
+"Список URI, брошенный на диалог запуска, имеет неверный формат (%d) или "
+"длину (%d)\n"
+
+msgid ""
+"Unable to execute '%s'\n"
+"\n"
+"Details: %s"
+msgstr ""
+"Не удалось выполнить команду «%s»\n"
+"\n"
+"Подробности: %s"
+
+msgid "Unable to load file '%s': %s."
+msgstr "Не удалось загрузить файл «%s»: %s."
+
+msgid "Unable to locate the command to execute"
+msgstr "Не удалось найти программу, которую нужно выполнить"
+
+msgid "Unable to mount %s"
+msgstr "Не удалось присоединить %s"
+
+msgid "Unable to open desktop file %s for panel launcher%s%s\n"
+msgstr "Не удалось открыть файл «%s» для кнопки запуска панели%s%s\n"
+
+msgid ""
+"Unable to read from '%s'\n"
+"\n"
+"Details: %s"
+msgstr ""
+"Не удалось прочитать из «%s»\n"
+"\n"
+"Подробности: %s"
+
+msgid ""
+"Unable to read output from command\n"
+"\n"
+"Details: %s"
+msgstr ""
+"Не удалось прочитать вывод команды\n"
+"\n"
+"Подробности: %s"
+
+msgid "Unable to scan %s for media changes"
+msgstr "Не удалось проверить %s на предмет изменений носителя"
+
+msgid "Unknown"
+msgstr "Неизвестно"
+
+msgid "Unrecognized desktop file Version '%s'"
+msgstr "Нераспознанный файл в desktop версии «%s»"
+
+msgid "Unrecognized launch option: %d"
+msgstr "Неопознанный параметр запуска: %d"
+
+msgid "Use Internet time"
+msgstr "Показывать время Интернета"
+
+msgid "Use UNIX time"
+msgstr "Показывать время UNIX"
+
+msgid "Use UTC"
+msgstr "Показывать время по Гринвичу (UTC)"
+
+msgid "Use custom icon for object's button"
+msgstr "Использовать другой значок для кнопки объекта"
+
+msgid "Use custom path for menu contents"
+msgstr "Использовать другой путь к содержимому меню"
+
+msgid "Visible pixels when hidden"
+msgstr "Количество отображаемых пикселей скрытой панели."
+
+msgid ""
+"Warning:  The command appears to be something actually useful.\n"
+"Since this is a useless applet, you may not want to do this.\n"
+"We strongly advise you against using %s for anything\n"
+"which would make the applet \"practical\" or useful."
+msgstr ""
+"Внимание: Похоже, эта команда делает что-то полезное.\n"
+"Поскольку это бесполезный апплет, наверное, лучше этого не делать.\n"
+"Мы настоятельно рекомендуем вам избегать использования существа %s для чего-"
+"либо,\n"
+"что может сделать этот апплет полезным."
+
+msgid "Weather"
+msgstr "Погода"
+
+msgid "Weather Information"
+msgstr "Сведения о погоде"
+
+msgid "West"
+msgstr "западной"
+
+msgid ""
+"When a drawer is deleted, the drawer and its\n"
+"settings are lost."
+msgstr ""
+"Если удалить ящик, все его параметры\n"
+"будут утеряны."
+
+msgid ""
+"When a panel is deleted, the panel and its\n"
+"settings are lost."
+msgstr ""
+"Если удалить панель, все её параметры\n"
+"будут утеряны."
+
+msgid "When to group windows"
+msgstr "Группировать ли окна"
+
+msgid ""
+"Which type of background should be used for this panel. Possible values are "
+"\"gtk\" - the default GTK+ widget background will be used, \"color\" - the "
+"color key will be used as background color or \"image\" - the image "
+"specified by the image key will be used as background."
+msgstr ""
+"Какой тип фона использовать для панели. Допустимые значения: «gtk» (будет "
+"использован общесистемный фон элементов GTK+), «color» (фон будет залит "
+"цветом, указанным в соответствующем ключе) и «image» (в качестве фона будет "
+"использовано указанное в соответствующем ключе изображение)."
+
+msgid "Will run command: '%s'"
+msgstr "Будет выполнена команда: «%s»"
+
+msgid "Window Grouping"
+msgstr "Группировка окон"
+
+msgid "Window List"
+msgstr "Список окон"
+
+msgid "Window List Content"
+msgstr "Содержимое списка окон"
+
+msgid "Window List Preferences"
+msgstr "Параметры списка окон"
+
+msgid "Window Selector"
+msgstr "Переключатель окон"
+
+msgid ""
+"With a multi-screen setup, you may have panels on each individual screen. "
+"This key identifies the current screen the panel is displayed on."
+msgstr ""
+"При наличии нескольких экранов можно иметь разные панели на разных экранах. "
+"Данный ключ определяет текущий экран, на котором находится панель."
+
+msgid "Workspace Names"
+msgstr "Названия рабочих мест"
+
+msgid "Workspace Switcher"
+msgstr "Переключатель рабочих мест"
+
+msgid "Workspace Switcher Preferences"
+msgstr "Параметры переключателя рабочих мест"
+
+msgid "Workspace na_mes:"
+msgstr "На_звания рабочих мест:"
+
+msgid "Workspaces"
+msgstr "Рабочие места"
+
+msgid "X co-ordinate of panel"
+msgstr "X-координата панели"
+
+msgid "X co-ordinate of panel, starting from the right of the screen"
+msgstr "X-координата панели от правого края экрана"
+
+msgid "X screen where the panel is displayed"
+msgstr "Экран в системе X Window, на котором показывается панель"
+
+msgid "Xinerama monitor where the panel is displayed"
+msgstr "Монитор в расширении Xinerama, на котором показывается панель"
+
+msgid "Y co-ordinate of panel"
+msgstr "Y-координата панели"
+
+msgid "Y co-ordinate of panel, starting from the bottom of the screen"
+msgstr "Y-координата панели от низа экрана"
+
+msgid "You must always have at least one panel."
+msgstr "У вас всегда должна быть хотя бы одна панель."
+
+msgid ""
+"Your window manager does not support the show desktop button, or you are not "
+"running a window manager."
+msgstr ""
+"Либо менеджер окон не поддерживает кнопку расчистки рабочего стола, либо "
+"менеджер окон не запущен вовсе."
+
+msgid "[FILE...]"
+msgstr "[ФАЙЛ…]"
+
+msgid "_12 hour format"
+msgstr "_12-часовой формат"
+
+msgid "_24 hour format"
+msgstr "_24-часовой формат"
+
+msgid "_About"
+msgstr "_Об апплете"
+
+msgid "_Activate Screensaver"
+msgstr "_Активировать хранитель экрана"
+
+msgid "_Add to Drawer..."
+msgstr "_Добавить в ящик…"
+
+msgid "_Add to Panel..."
+msgstr "_Добавить на панель…"
+
+msgid "_Always group windows"
+msgstr "Всегда _группировать окна"
+
+msgid "_Applet:"
+msgstr "_Апплет:"
+
+msgid "_Autohide"
+msgstr "Автоматически скр_ывать"
+
+msgid "_Browse..."
+msgstr "_Просмотреть…"
+
+msgid "_Change Workspace Label..."
+msgstr "_Изменить метку рабочего пространства..."
+
+msgid "_Delete This Panel"
+msgstr "_Удалить эту панель"
+
+msgid "_Don't Reload"
+msgstr "_Не перезагружать"
+
+msgid "_Edit Menus"
+msgstr "_Изменить меню"
+
+msgid "_Entire menu"
+msgstr "В_сё меню"
+
+msgid "_File:"
+msgstr "_Файл:"
+
+msgid "_Force quit"
+msgstr "_Принудительно завершить"
+
+msgid "_Help"
+msgstr "_Справка"
+
+msgid "_Icon:"
+msgstr "З_начок:"
+
+msgid "_Launch"
+msgstr "_Запустить"
+
+msgid "_Location Name:"
+msgstr "_Название местности:"
+
+msgid "_Location:"
+msgstr "_Адрес:"
+
+msgid "_Lock Screen"
+msgstr "За_блокировать экран"
+
+msgid "_Move"
+msgstr "Пере_местить"
+
+msgid "_Name of fish:"
+msgstr "_Имя рыбки:"
+
+msgid "_Name:"
+msgstr "_Имя:"
+
+msgid "_Never group windows"
+msgstr "Никогда _не группировать окна"
+
+msgid "_New Panel"
+msgstr "Со_здать панель"
+
+msgid "_None (use system theme)"
+msgstr "_Нет (использовать общесистемную тему)"
+
+msgid "_Orientation:"
+msgstr "_Расположение:"
+
+msgid "_Pause per frame:"
+msgstr "З_адержка кадра:"
+
+msgid "_Preferences"
+msgstr "_Параметры"
+
+msgid "_Prefs Dir:"
+msgstr "Каталог _параметров:"
+
+msgid "_Pressure unit:"
+msgstr "Единица д_авления:"
+
+msgid "_Properties"
+msgstr "_Свойства"
+
+msgid "_Reload"
+msgstr "_Перезагрузить"
+
+msgid "_Remove From Panel"
+msgstr "_Удалить с панели"
+
+msgid "_Rotate on vertical panels"
+msgstr "Поворачивать на в_ертикальных панелях"
+
+msgid "_Run"
+msgstr "За_пустить"
+
+msgid "_Scale"
+msgstr "Мас_штабировать"
+
+msgid "_Set System Time"
+msgstr "_Установить системное время"
+
+msgid "_Size:"
+msgstr "_Размер:"
+
+msgid "_Speak again"
+msgstr "_Произнести снова"
+
+msgid "_Temperature unit:"
+msgstr "Единица _температуры:"
+
+msgid "_Tile"
+msgstr "Заполнять"
+
+msgid "_Time:"
+msgstr "_Время:"
+
+msgid "_Timezone:"
+msgstr "_Часовой пояс:"
+
+msgid "_Total frames in animation:"
+msgstr "К_оличество кадров в анимации:"
+
+msgid "_Type:"
+msgstr "_Тип:"
+
+msgid "_Visibility unit:"
+msgstr "Единица _видимости:"
+
+msgid "_Wind speed unit:"
+msgstr "Единица с_корости ветра:"
+
+msgid "columns"
+msgstr "столбцов(а)"
+
+msgid "file"
+msgstr "файл"
+
+msgid "frames"
+msgstr "кадров"
+
+msgctxt "panel:showusername"
+msgid "1"
+msgstr "1"
+
+msgid "pixels"
+msgstr "пикселей"
+
+msgid "query returned exception %s\n"
+msgstr "запрос вернул исключение %s\n"
+
+msgid "rows"
+msgstr "строк(и)"
+
+msgid "seconds"
+msgstr "секунд"
+
+msgid "translator-credits"
+msgstr ""
+"Макс Валянский\n"
+"Сергей Панов\n"
+"Валек Филиппов\n"
+"Дмитрий Мастрюков\n"
+"Андрей Носенко <awn@bcs.zp.ua>\n"
+"Леонид Кантер <leon@asplinux.ru>\n"
+"Александр Сигачёв <ajvol2@gmail.com>\n"
+"Дмитрий Яценко <d.acenko@gmail.com>"
