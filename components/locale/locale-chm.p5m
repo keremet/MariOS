@@ -1,0 +1,36 @@
+#
+# This file and its contents are supplied under the terms of the
+# Common Development and Distribution License ("CDDL"). You may
+# only use this file in accordance with the terms of the CDDL.
+#
+# A full copy of the text of the CDDL should have accompanied this
+# source. A copy of the CDDL is also available via the Internet at
+# http://www.illumos.org/license/CDDL.
+#
+
+#
+# Copyright 2017 Andrey Sokolov. All rights reserved.
+#
+
+set name=pkg.fmri value=pkg:/$(COMPONENT_FMRI)@$(IPS_COMPONENT_VERSION),$(BUILD_VERSION)
+set name=pkg.summary value="$(COMPONENT_SUMMARY)"
+set name=info.classification \
+    value="org.opensolaris.category.2008:Applications/System Utilities"
+set name=info.upstream-url value=$(COMPONENT_PROJECT_URL)
+set name=org.opensolaris.consolidation value=$(CONSOLIDATION)
+
+license locale.license license='CDDL'
+
+dir path=usr/lib/locale/ru_CHM.UTF-8
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_COLLATE
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_CTYPE
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_MESSAGES
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_MONETARY
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_NUMERIC
+dir path=usr/lib/locale/ru_CHM.UTF-8/LC_TIME
+file ru_CHM.UTF-8/LC_COLLATE/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_COLLATE/LCL_DATA mode=0444
+file ru_CHM.UTF-8/LC_CTYPE/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_CTYPE/LCL_DATA mode=0444
+file ru_CHM.UTF-8/LC_MESSAGES/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_MESSAGES/LCL_DATA mode=0444
+file ru_CHM.UTF-8/LC_MONETARY/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_MONETARY/LCL_DATA mode=0444
+file ru_CHM.UTF-8/LC_NUMERIC/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_NUMERIC/LCL_DATA mode=0444
+file ru_CHM.UTF-8/LC_TIME/LCL_DATA path=usr/lib/locale/ru_CHM.UTF-8/LC_TIME/LCL_DATA mode=0444
