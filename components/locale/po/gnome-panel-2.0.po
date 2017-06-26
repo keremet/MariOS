@@ -104,7 +104,7 @@ msgid "%s, feels like %s"
 msgstr "%s, ощущается как %s"
 
 msgid "(empty)"
-msgstr "(пусто)"
+msgstr "(яра)"
 
 msgid "(with minor help from George)"
 msgstr "(с небольшой помощью Джоржда)"
@@ -113,7 +113,7 @@ msgid "- Edit .desktop files"
 msgstr "— редактирование файлов .desktop"
 
 msgid "24 hour"
-msgstr "24-часовые"
+msgstr "24-шагатын"
 
 msgid "24-hour"
 msgstr "24-hour"
@@ -132,19 +132,19 @@ msgstr ""
 "подходящий пояс из выпадающего списка</i></small>"
 
 msgid "<small>Opaque</small>"
-msgstr "<small>непрозрачный</small>"
+msgstr "<small>вошткоймо огыл</small>"
 
 msgid "<small>Set...</small>"
-msgstr "<small>Установить…</small>"
+msgstr "<small>Шындаш...</small>"
 
 msgid "<small>Set</small>"
-msgstr "<small>Установить</small>"
+msgstr "<small>Шындаш</small>"
 
 msgid "<small>Transparent</small>"
-msgstr "<small>прозрачный</small>"
+msgstr "<small>вошткоймо</small>"
 
 msgid "???"
-msgstr "без имени"
+msgstr "Лӱм уке"
 
 msgid ""
 "A boolean flag to indicate whether the user's previous configuration in /"
@@ -213,7 +213,7 @@ msgid "A simple applet for testing the GNOME-2.0 panel"
 msgstr "Простой апплет для проверки панели среды GNOME 2.0"
 
 msgid "A_bout Panels"
-msgstr "_О панелях"
+msgstr "_Оҥам-влак нерген"
 
 msgid "About the GNOME Panel"
 msgstr "О панели среды GNOME"
@@ -225,46 +225,46 @@ msgid "Action button type"
 msgstr "Тип кнопки действия"
 
 msgid "Ad_just Date & Time"
-msgstr "_Установить дату и время"
+msgstr "_Датым да жапым шындаш"
 
 msgid "Add this as _drawer to panel"
-msgstr "Добавить как _ящик на панель"
+msgstr "Кузе _яшлык оҥаште ешараш"
 
 msgid "Add this as _menu to panel"
-msgstr "Добавить как _меню на панель"
+msgstr "Кузе _меню оҥаште ешараш"
 
 msgid "Add this launcher to _desktop"
-msgstr "Добавить эту кнопку запуска на _рабочий стол"
+msgstr "Тидем колтымаш кнопкым пашам _ӱстелым ешараш"
 
 msgid "Add this launcher to _panel"
-msgstr "Добавить эту кнопку запуска на _панель"
+msgstr "Тидем колтымаш кнопкым о_ҥаште ешараш"
 
 msgid "Add to Drawer"
-msgstr "Добавить в ящик"
+msgstr "Яшлыкышто ешараш"
 
 msgid "Add to Panel"
-msgstr "Добавить на панель"
+msgstr "Оҥашто ешараш"
 
 msgid "Administration"
-msgstr "Администрирование"
+msgstr "Виктарымаш"
 
 msgid "All Applications"
-msgstr "Все приложения"
+msgstr "Чыла пеленлык-влак"
 
 msgid "All Day"
-msgstr "Весь день"
+msgstr "Кече мучко"
 
 msgid "An unknown error occurred while trying to open \"%s\"."
 msgstr "Произошла неизвестная ошибка при попытке открыть «%s»."
 
 msgid "And many, many others..."
-msgstr "и многие, многие другие…"
+msgstr "и многие, многие другие..."
 
 msgid "Animation"
-msgstr "Анимация"
+msgstr "Анимаций"
 
 msgid "Animation speed"
-msgstr "Скорость анимации"
+msgstr "Анимацийын писын"
 
 msgid "Applet Bonobo IID"
 msgstr "Bonobo-идентификатор апплета"
@@ -276,10 +276,10 @@ msgid "Applet IIDs to disable from loading"
 msgstr "Идентификаторы (IID) запрещённых апплетов"
 
 msgid "Application"
-msgstr "Приложение"
+msgstr "Пеленлык"
 
 msgid "Application Launcher..."
-msgstr "Кнопка запуска…"
+msgstr "Колтымашым кнопко..."
 
 msgid "Application does not accept documents on command line"
 msgstr "Приложение не поддерживает открытие документов через командную строку"
@@ -288,16 +288,16 @@ msgid "Application in Terminal"
 msgstr "Приложение в терминале"
 
 msgid "Applications"
-msgstr "Приложения"
+msgstr "Пеленлык-влак"
 
 msgid "Appointments"
-msgstr "Встречи"
+msgstr "Вашлиймаш-влак"
 
 msgid "Arro_ws on hide buttons"
-msgstr "Показывать с_трелки на кнопках скрытия"
+msgstr "Шылтыш кнопкышто умдым ончыкташ"
 
 msgid "Autoclose drawer"
-msgstr "Автоматически закрывать ящик"
+msgstr "Шкак яшлыкым петыраш"
 
 msgid "Automatically hide panel into corner"
 msgstr "Автоматически прятать панель в угол"
@@ -306,25 +306,25 @@ msgid "Background"
 msgstr "Фон"
 
 msgid "Background _image:"
-msgstr "Фоновое _изображение:"
+msgstr "Фонжо _сӱрет:"
 
 msgid "Background color"
-msgstr "Фоновый цвет"
+msgstr "Фонжо тӱс"
 
 msgid "Background color opacity"
 msgstr "Степень непрозрачности фонового цвета"
 
 msgid "Background image"
-msgstr "Фоновое изображение"
+msgstr "Фонжо сӱрет"
 
 msgid "Background type"
-msgstr "Тип фона"
+msgstr "Фонжо тип"
 
 msgid "Birthdays and Anniversaries"
-msgstr "Дни рождения и годовщины"
+msgstr "Шочмо кече да идалык-влак"
 
 msgid "Bookmarks"
-msgstr "Закладки"
+msgstr "Пыштыме пале-влак"
 
 msgid "Bottom Centered Panel"
 msgstr "Нижняя центрированная панель"
@@ -342,7 +342,7 @@ msgid "Browse and run installed applications"
 msgstr "Просмотреть и запустить установленные приложения"
 
 msgid "C_lear"
-msgstr "О_чистить"
+msgstr "Э_рыкташ"
 
 msgid "Calendar"
 msgstr "Календарь"
@@ -370,37 +370,37 @@ msgid "Changing Workspace Label"
 msgstr "Изменение метки рабочего пространства"
 
 msgid "Choose Location"
-msgstr "Выбор местоположения"
+msgstr "Верым ойыраш"
 
 msgid "Choose a file to append to the command..."
-msgstr "Выбрать файл для присоединения к команде…"
+msgstr "Выбрать файл для присоединения к команде..."
 
 msgid "Choose a file..."
-msgstr "_Выбрать файл…"
+msgstr "_Файлым ойыраш..."
 
 msgid "Choose an application..."
-msgstr "Выбрать приложение…"
+msgstr "Пеленлыкым ойыраш..."
 
 msgid "Choose an icon"
-msgstr "Выбрать значок"
+msgstr "Тамгам ойыраш"
 
 msgid "City Name"
-msgstr "Название города"
+msgstr "Оласым лӱм"
 
 msgid "City Time Zone"
 msgstr "Часовой пояс города"
 
 msgid "Clear Recent Documents"
-msgstr "Очистить недавно использовавшиеся документы"
+msgstr "Шукертсе огыл документым-влак эрыкатш"
 
 msgid "Clear Recent Documents..."
-msgstr "Очистить недавно использовавшиеся документы…"
+msgstr "Шукертсе огыл документым-влак эрыкатш..."
 
 msgid "Clear all items from the recent documents list"
 msgstr "Очистить все элементы списка недавно использовавшихся документов?"
 
 msgid "Clear the Recent Documents list?"
-msgstr "Очистить список недавно использовавшихся документов?"
+msgstr "Шукертсе огыл документым-влак лӱмерым эрыкташ лиеш мо?"
 
 msgid "Click here to hide all windows and show the desktop."
 msgstr "Щёлкните здесь, чтобы свернуть все окна и расчистить рабочий стол."
@@ -441,52 +441,52 @@ msgid "Click to view your appointments and tasks"
 msgstr "Нажмите, чтобы просмотреть свои встречи и задачи"
 
 msgid "Clock"
-msgstr "Часы"
+msgstr "Шагат"
 
 msgid "Clock Format"
-msgstr "Формат времени"
+msgstr "Жапым формат"
 
 msgid "Clock Preferences"
 msgstr "Параметры апплета часов"
 
 msgid "Co_lor:"
-msgstr "Ц_вет:"
+msgstr "_Тӱс:"
 
 msgid "Co_mmand to run when clicked:"
 msgstr "_Команда, выполняемая при нажатии:"
 
 msgid "Co_mment:"
-msgstr "При_мечание:"
+msgstr "У_мылтарымаш:"
 
 msgid "Comm_and:"
-msgstr "_Команда:"
+msgstr "_Кӱштымаш:"
 
 msgid "Command icon"
-msgstr "Значок команды"
+msgstr "Кӱштымашын тамга"
 
 msgid "Command to execute on click"
 msgstr "Команда, выполняемая при нажатии"
 
 msgid "Complete panel lockdown"
-msgstr "Полная блокировка панели"
+msgstr "Тичмаш оҥам тӱкалымаш"
 
 msgid "Computer Clock"
-msgstr "Компьютерные часы"
+msgstr "Компьютерын шагат"
 
 msgid "Confirm panel removal"
 msgstr "Подтверждать удаление панели"
 
 msgid "Connect to Server..."
-msgstr "Соединиться с сервером…"
+msgstr "Сервер дене ушнымаш..."
 
 msgid "Connect to a remote computer or shared disk"
 msgstr "Соединиться с удалённому сервером или общим хранилищем"
 
 msgid "Copy _Date"
-msgstr "Скопировать _дату"
+msgstr "Датым копийым _ыштыш"
 
 msgid "Copy _Time"
-msgstr "Скопировать _время"
+msgstr "_Жапым копийым ышташ"
 
 msgid "Copy a launcher from the applications menu"
 msgstr "Скопировать кнопку запуска из меню приложений"
@@ -540,31 +540,31 @@ msgid "Could not use dropped item"
 msgstr "Не удалось использовать брошенный объект"
 
 msgid "Create Launcher"
-msgstr "Создать кнопку запуска"
+msgstr "Колташ кнопкыжо ямдылаш"
 
 msgid "Create a new launcher"
-msgstr "Создать кнопку запуска"
+msgstr "Колташ кнопкыжо ямдылаш"
 
 msgid "Create new file in the given directory"
 msgstr "Создать новый файл в заданном каталоге"
 
 msgid "Current Time:"
-msgstr "Текущее время:"
+msgstr "Кызытсе жап:"
 
 msgid "Custom Application Launcher"
-msgstr "Пользовательская кнопка запуска"
+msgstr "Пайдаланышын колтымашым кнопко"
 
 msgid "Custom _format:"
-msgstr "Другой _формат:"
+msgstr "Вес _формат:"
 
 msgid "Custom format"
-msgstr "Другой формат"
+msgstr "Вес формат"
 
 msgid "Custom format of the clock"
-msgstr "Другой формат часов"
+msgstr "Весе шагатын формат"
 
 msgid "D_on't Delete"
-msgstr "_Не удалять"
+msgstr "_Ида кораҥдаш"
 
 msgid ""
 "Decides when to group windows from the same application on the window list. "
@@ -577,14 +577,14 @@ msgid "Delete this drawer?"
 msgstr "Удалить этот ящик?"
 
 msgid "Delete this panel?"
-msgstr "Удалить эту панель?"
+msgstr "Тидеже оҥам кораҥдаш лиеш мо?"
 
 msgid "Deprecated"
 msgstr "Устаревший"
 
 msgctxt "Desktop Folder"
 msgid "Desktop"
-msgstr "Рабочий стол"
+msgstr "Паша ӱстел"
 
 msgid "Directory Properties"
 msgstr "Свойства каталога"
@@ -611,22 +611,22 @@ msgid "Do you want to delete the applet from your configuration?"
 msgstr "Удалить апплет из текущей конфигурации?"
 
 msgid "Drawer"
-msgstr "Ящик"
+msgstr "Яшлык"
 
 msgid "Drawer Properties"
-msgstr "Свойства ящика"
+msgstr "Яшлыкын палык-влак"
 
 msgid "E_xpand"
-msgstr "Р_асширять до предела"
+msgstr "Ша_ралташ"
 
 msgid "East"
 msgstr "восточной"
 
 msgid "Edit"
-msgstr "Изменить"
+msgstr "Вашталташ"
 
 msgid "Edit Location"
-msgstr "Изменение местоположения"
+msgstr "Вераҥдымашым вашталташ"
 
 msgid "Enable animations"
 msgstr "Включить анимацию"
@@ -647,7 +647,7 @@ msgid "Enable tooltips"
 msgstr "Включить всплывающие подсказки"
 
 msgid "Error"
-msgstr "Ошибка"
+msgstr "Йоҥылыш"
 
 msgid "Error displaying help document"
 msgstr "Произошла ошибка при отображении документа справки"
@@ -714,7 +714,7 @@ msgid "Failed to set the system timezone"
 msgstr "Не удалось изменить системный часовой пояс"
 
 msgid "File System"
-msgstr "Файловая система"
+msgstr "Файл системе"
 
 msgid "File is not a valid .desktop file"
 msgstr "Файл не является корректным файлом .desktop"
@@ -750,22 +750,22 @@ msgid "Frames in fish's animation"
 msgstr "Число кадров в анимации рыбки"
 
 msgid "General"
-msgstr "Общие"
+msgstr "Чумыр"
 
 msgid "Group windows when _space is limited"
 msgstr "Группировать окна, когда _пространство ограничено"
 
 msgid "Hide Panel"
-msgstr "Скрыть панель"
+msgstr "Оҥам шылташ"
 
 msgid "Highlight launchers on mouseover"
 msgstr "Подсвечивать кнопки запуска при наведении мыши"
 
 msgid "Home Folder"
-msgstr "Домашняя папка"
+msgstr "Мӧҥгысӧ папке"
 
 msgid "Hour format"
-msgstr "Формат часов"
+msgstr "Шагатым формат"
 
 msgid "ID"
 msgstr "ID"
@@ -1083,7 +1083,7 @@ msgid "Image Background Details"
 msgstr "Подробности фонового изображения"
 
 msgid "Images"
-msgstr "Изображения"
+msgstr "Сӱрет-влак"
 
 msgid ""
 "In a Xinerama setup, you may have panels on each individual monitor. This "
@@ -1121,7 +1121,7 @@ msgid "Launcher Properties"
 msgstr "Свойства кнопки запуска"
 
 msgid "Launcher location"
-msgstr "Расположение кнопки запуска"
+msgstr "Колтымаш кнопкын вераҥдымаш"
 
 msgid "Left Centered Panel"
 msgstr "Левая центрированная панель"
@@ -1147,10 +1147,10 @@ msgid "List of known applications"
 msgstr "Список известных приложений"
 
 msgid "List of locations"
-msgstr "Список местностей"
+msgstr "Верын-влак лӱмер"
 
 msgid "Loc_k To Panel"
-msgstr "При_крепить к панели"
+msgstr "Оҥаште тӱкылаш"
 
 msgid "Locate documents and folders on this computer by name or content"
 msgstr "Найти документы или папки на компьютере по имени или содержанию"
@@ -1159,19 +1159,19 @@ msgid "Location"
 msgstr "Адрес"
 
 msgid "Locations"
-msgstr "Местности"
+msgstr "Вер-влак"
 
 msgid "Lock Screen"
-msgstr "Заблокировать экран"
+msgstr "Экраным тӱкылаш"
 
 msgid "Lock the object to the panel"
 msgstr "Закрепить объект на панели"
 
 msgid "Log Out %s..."
-msgstr "Завершить сеанс пользователя %s…"
+msgstr "Пайдаланышем %s сеансым мучашлымаш ..."
 
 msgid "Log Out..."
-msgstr "Завершить сеанс…"
+msgstr "Сеанс гыч лекташ..."
 
 msgid "Log out %s from this session and return to log in screen"
 msgstr ""
@@ -1188,13 +1188,13 @@ msgid "Look at today's date!"
 msgstr "Посмотри на сегодняшнее число!"
 
 msgid "Main Menu"
-msgstr "Главное меню"
+msgstr "Тӱҥ меню"
 
 msgid "Maximum window list size"
 msgstr "Максимальный размер списка окон"
 
 msgid "Menu Bar"
-msgstr "Строка меню"
+msgstr "Меню корно"
 
 msgid "Menu content path"
 msgstr "Путь содержимого меню"
@@ -1242,13 +1242,13 @@ msgid "Old profiles configuration migrated"
 msgstr "Настройка старых профилей перенесена"
 
 msgid "Open %s"
-msgstr "Открыть %s"
+msgstr "%s почаш"
 
 msgid "Open '%s'"
-msgstr "Открыть «%s»"
+msgstr "«%s» почаш"
 
 msgid "Open URL: %s"
-msgstr "Открыть URL: %s"
+msgstr "URL почаш: %s"
 
 msgid "Open the contents of your desktop in a folder"
 msgstr "Открыть рабочий стол как папку"
@@ -1258,22 +1258,22 @@ msgstr "Открыть вашу личную папку"
 
 msgctxt "Orientation"
 msgid "Bottom"
-msgstr "Снизу"
+msgstr "Ӱлыл"
 
 msgctxt "Orientation"
 msgid "Left"
-msgstr "Слева"
+msgstr "Шола"
 
 msgctxt "Orientation"
 msgid "Right"
-msgstr "Справа"
+msgstr "Пурла"
 
 msgctxt "Orientation"
 msgid "Top"
-msgstr "Сверху"
+msgstr "Кӱшыл"
 
 msgid "Panel"
-msgstr "Панель"
+msgstr "Оҥа"
 
 msgid ""
 "Panel '%s' is set to be displayed on screen %d which is not currently "
@@ -1292,7 +1292,7 @@ msgid "Panel Notification Area"
 msgstr "Область уведомления панели"
 
 msgid "Panel Properties"
-msgstr "Свойства панели"
+msgstr "Оҥаже палык-влак"
 
 msgid "Panel applet ID list"
 msgstr "Список идентификаторов апплетов панели"
@@ -1325,16 +1325,16 @@ msgid "Pause per frame"
 msgstr "Задержка кадра"
 
 msgid "Paused"
-msgstr "Остановлено"
+msgstr "Чарнен"
 
 msgid "Pick a color"
-msgstr "Укажите цвет"
+msgstr "Тӱсым ойыраш"
 
 msgid "Places"
-msgstr "Переход"
+msgstr "Куснымаш"
 
 msgid "Preferences"
-msgstr "Параметры"
+msgstr "Келыштарыш-влак"
 
 msgid "Press 'p' to unpause"
 msgstr "Нажмите «p» для продолжения"
@@ -1346,7 +1346,7 @@ msgid "Protect your computer from unauthorized use"
 msgstr "Защитить компьютер от несанкционированного использования"
 
 msgid "Recent Documents"
-msgstr "Недавние документы"
+msgstr "Шукертсе огыл документ-влак"
 
 msgid "Removable Media"
 msgstr "Сменные носители"
@@ -1391,29 +1391,29 @@ msgid "Rows in workspace switcher"
 msgstr "Строк в переключателе"
 
 msgid "Run Application"
-msgstr "Выполнить программу"
+msgstr "Программем колташ"
 
 msgid "Run Application..."
-msgstr "Запустить приложение..."
+msgstr "Пеленлыкым колташ..."
 
 msgid "Run an application by typing a command or choosing from a list"
 msgstr ""
 "Выполнить программу, заданную введённой командой или выбранную из списка"
 
 msgid "Run in _terminal"
-msgstr "В терм_инале"
+msgstr "Терминал дене колт_аш"
 
 msgid "Run with _file..."
-msgstr "С _файлом…"
+msgstr "Файл _дене..."
 
 msgid "S_tyle:"
 msgstr "С_тиль:"
 
 msgid "Search"
-msgstr "Поиск"
+msgstr "Кычалмаш"
 
 msgid "Search for Files..."
-msgstr "Искать файлы…"
+msgstr "Файл-влак кычалаш..."
 
 msgid "Select an animation"
 msgstr "Выбор анимации"
@@ -1429,16 +1429,16 @@ msgstr ""
 "Поставьте флажок в этом поле, чтобы запустить команду в окне терминала."
 
 msgid "Separator"
-msgstr "Разделитель"
+msgstr "Ойырышо"
 
 msgid "Session management options:"
-msgstr "Параметры управления сеансом:"
+msgstr "Сеанс виктарымашым параметр-влак:"
 
 msgid "Set System Time"
 msgstr "Установить системное время"
 
 msgid "Set System Time..."
-msgstr "Установить системное время…"
+msgstr "Установить системное время..."
 
 msgid "Set location as current location and use its timezone for this computer"
 msgstr "Сделать местность текущей и использовать этот часовой пояс"
@@ -1447,7 +1447,7 @@ msgid "Sh_ow windows from current workspace"
 msgstr "Показывать окна тек_ущего рабочего места"
 
 msgid "Show Desktop Button"
-msgstr "Кнопка расчистки рабочего стола"
+msgstr "Пашам ӱстелым ончыкташ кнопко"
 
 msgid "Show _all workspaces in:"
 msgstr "Показывать вс_е рабочие места в "
@@ -1456,10 +1456,10 @@ msgid "Show _only the current workspace"
 msgstr "Показывать только тек_ущее рабочее место"
 
 msgid "Show _temperature"
-msgstr "Показывать _температуру"
+msgstr "Температурым ончыкташ"
 
 msgid "Show _weather"
-msgstr "Показывать по_году"
+msgstr "Игечем ончыкташ"
 
 msgid "Show date in clock"
 msgstr "Показывать дату в апплете часов"
@@ -1468,28 +1468,28 @@ msgid "Show date in tooltip"
 msgstr "Показывать дату в подсказке"
 
 msgid "Show hide _buttons"
-msgstr "Показывать _кнопки скрытия"
+msgstr "Шылташым кнопкым-влак ончыкташ"
 
 msgid "Show list of known _applications"
 msgstr "Показывать cписок известных прило_жений"
 
 msgid "Show seco_nds"
-msgstr "Показывать се_кунды"
+msgstr "Секунды_м ончыкташ"
 
 msgid "Show session management options"
 msgstr "Показать параметры управления сеансом"
 
 msgid "Show temperature in clock"
-msgstr "Показывать температуру в часах"
+msgstr "Шагатышто температурым ончыкташ"
 
 msgid "Show the _date"
-msgstr "Показывать _дату"
+msgstr "Датым он_чыктыш"
 
 msgid "Show time with seconds"
-msgstr "Показывать секунды"
+msgstr "Секундым ончыкташ"
 
 msgid "Show weather in clock"
-msgstr "Показывать погоду в часах"
+msgstr "Шагатышто игечем ончыкташ"
 
 msgid "Show week numbers in calendar"
 msgstr "Показывать номера недель в календаре"
@@ -1504,41 +1504,41 @@ msgid "Show workspace _names in switcher"
 msgstr "Показывать _названия рабочих мест в переключателе"
 
 msgid "Shut Down..."
-msgstr "Выключить…"
+msgstr "Пашам мучашлымаш..."
 
 msgid "Shut down the computer"
-msgstr "Выключить компьютер"
+msgstr "Компьютерым пашам мучашлымаш"
 
 msgctxt "Size"
 msgid "Large"
-msgstr "Большая"
+msgstr "Кугу"
 
 msgctxt "Size"
 msgid "Medium"
-msgstr "Cредняя"
+msgstr "Кыдалаш"
 
 msgctxt "Size"
 msgid "Small"
-msgstr "Маленькая"
+msgstr "Изи"
 
 msgctxt "Size"
 msgid "X Large"
-msgstr "Очень большая"
+msgstr "Пеш кугу"
 
 msgctxt "Size"
 msgid "X Small"
-msgstr "Очень маленькая"
+msgstr "Пеш изи"
 
 msgctxt "Size"
 msgid "XX Large"
-msgstr "Сверхбольшая"
+msgstr "Ӱмбач кугу"
 
 msgctxt "Size"
 msgid "XX Small"
-msgstr "Сверхмаленькая"
+msgstr "Ӱмбач изи"
 
 msgid "Solid c_olor"
-msgstr "Заливка _цветом"
+msgstr "Тӱс дене чи_ялтымаш"
 
 msgid "Some of these properties are locked down"
 msgstr "Некоторые из этих свойств заблокированы"
@@ -1618,10 +1618,10 @@ msgid "Speed unit"
 msgstr "Единица скорости"
 
 msgid "St_retch"
-msgstr "Раст_ягивать"
+msgstr "Шара_ш"
 
 msgid "Starting %s"
-msgstr "Запускается %s"
+msgstr "%s Тӱҥалташ"
 
 msgid "Stretch image to panel"
 msgstr "Растянуть изображение по панели"
@@ -1633,7 +1633,7 @@ msgid "Switcher"
 msgstr "Переключатель"
 
 msgid "System"
-msgstr "Система"
+msgstr "Системе"
 
 msgid "Tasks"
 msgstr "Задачи"
@@ -2014,10 +2014,10 @@ msgstr ""
 "разные полезные инструменты."
 
 msgid "Time & Date"
-msgstr "Дата и время"
+msgstr "Датым да жапым"
 
 msgid "Time _Settings"
-msgstr "_Параметры времени"
+msgstr "_Жапын параметр-влак"
 
 msgid "Time configuration tool"
 msgstr "Программа установки часов"
@@ -2091,7 +2091,7 @@ msgid "Unable to scan %s for media changes"
 msgstr "Не удалось проверить %s на предмет изменений носителя"
 
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr "Палыме огыл"
 
 msgid "Unrecognized desktop file Version '%s'"
 msgstr "Нераспознанный файл в desktop версии «%s»"
@@ -2130,10 +2130,10 @@ msgstr ""
 "что может сделать этот апплет полезным."
 
 msgid "Weather"
-msgstr "Погода"
+msgstr "Игече"
 
 msgid "Weather Information"
-msgstr "Сведения о погоде"
+msgstr "Игече нерген"
 
 msgid "West"
 msgstr "западной"
@@ -2173,7 +2173,7 @@ msgid "Window Grouping"
 msgstr "Группировка окон"
 
 msgid "Window List"
-msgstr "Список окон"
+msgstr "Тӧрзан лӱмер"
 
 msgid "Window List Content"
 msgstr "Содержимое списка окон"
@@ -2182,7 +2182,7 @@ msgid "Window List Preferences"
 msgstr "Параметры списка окон"
 
 msgid "Window Selector"
-msgstr "Переключатель окон"
+msgstr "Тӧрзан чӱктыш-йӧртыш"
 
 msgid ""
 "With a multi-screen setup, you may have panels on each individual screen. "
@@ -2235,25 +2235,25 @@ msgstr ""
 "менеджер окон не запущен вовсе."
 
 msgid "[FILE...]"
-msgstr "[ФАЙЛ…]"
+msgstr "[ФАЙЛ...]"
 
 msgid "_12 hour format"
-msgstr "_12-часовой формат"
+msgstr "_12-шагат формат"
 
 msgid "_24 hour format"
-msgstr "_24-часовой формат"
+msgstr "_24-шагат формат"
 
 msgid "_About"
-msgstr "_Об апплете"
+msgstr "_Апплет нерген"
 
 msgid "_Activate Screensaver"
 msgstr "_Активировать хранитель экрана"
 
 msgid "_Add to Drawer..."
-msgstr "_Добавить в ящик…"
+msgstr "_Яшлыкыште ешараш.."
 
 msgid "_Add to Panel..."
-msgstr "_Добавить на панель…"
+msgstr "_Оҥаште ешараш..."
 
 msgid "_Always group windows"
 msgstr "Всегда _группировать окна"
@@ -2262,43 +2262,43 @@ msgid "_Applet:"
 msgstr "_Апплет:"
 
 msgid "_Autohide"
-msgstr "Автоматически скр_ывать"
+msgstr "_Шкак шылташ"
 
 msgid "_Browse..."
-msgstr "_Просмотреть…"
+msgstr "_Ончыкташ..."
 
 msgid "_Change Workspace Label..."
 msgstr "_Изменить метку рабочего пространства..."
 
 msgid "_Delete This Panel"
-msgstr "_Удалить эту панель"
+msgstr "_Тидым оҥам кораҥдаш"
 
 msgid "_Don't Reload"
-msgstr "_Не перезагружать"
+msgstr "_Ида уэш колташ"
 
 msgid "_Edit Menus"
-msgstr "_Изменить меню"
+msgstr "_Менюм вашталташ"
 
 msgid "_Entire menu"
-msgstr "В_сё меню"
+msgstr "Ч_ыла меню"
 
 msgid "_File:"
 msgstr "_Файл:"
 
 msgid "_Force quit"
-msgstr "_Принудительно завершить"
+msgstr "_Виеш лекташ"
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Icon:"
-msgstr "З_начок:"
+msgstr "Т_амга:"
 
 msgid "_Launch"
-msgstr "_Запустить"
+msgstr "_Колташ"
 
 msgid "_Location Name:"
-msgstr "_Название местности:"
+msgstr "_Верын лӱмжо:"
 
 msgid "_Location:"
 msgstr "_Адрес:"
@@ -2307,31 +2307,31 @@ msgid "_Lock Screen"
 msgstr "За_блокировать экран"
 
 msgid "_Move"
-msgstr "Пере_местить"
+msgstr "Верым _вашталташ"
 
 msgid "_Name of fish:"
 msgstr "_Имя рыбки:"
 
 msgid "_Name:"
-msgstr "_Имя:"
+msgstr "_Лӱм:"
 
 msgid "_Never group windows"
 msgstr "Никогда _не группировать окна"
 
 msgid "_New Panel"
-msgstr "Со_здать панель"
+msgstr "Ум _оҥам ямдылаш"
 
 msgid "_None (use system theme)"
-msgstr "_Нет (использовать общесистемную тему)"
+msgstr "_Уке (системыжын темем кучылташ)"
 
 msgid "_Orientation:"
-msgstr "_Расположение:"
+msgstr "_Вераҥдымаш:"
 
 msgid "_Pause per frame:"
 msgstr "З_адержка кадра:"
 
 msgid "_Preferences"
-msgstr "_Параметры"
+msgstr "_Келыштарыш-влак"
 
 msgid "_Prefs Dir:"
 msgstr "Каталог _параметров:"
@@ -2340,19 +2340,19 @@ msgid "_Pressure unit:"
 msgstr "Единица д_авления:"
 
 msgid "_Properties"
-msgstr "_Свойства"
+msgstr "_Палык-влак"
 
 msgid "_Reload"
-msgstr "_Перезагрузить"
+msgstr "_Уэш колташ"
 
 msgid "_Remove From Panel"
-msgstr "_Удалить с панели"
+msgstr "_Оҥаште гыч кораҥдаш"
 
 msgid "_Rotate on vertical panels"
 msgstr "Поворачивать на в_ертикальных панелях"
 
 msgid "_Run"
-msgstr "За_пустить"
+msgstr "Кол_таш"
 
 msgid "_Scale"
 msgstr "Мас_штабировать"
@@ -2361,22 +2361,22 @@ msgid "_Set System Time"
 msgstr "_Установить системное время"
 
 msgid "_Size:"
-msgstr "_Размер:"
+msgstr "_Кугыт:"
 
 msgid "_Speak again"
 msgstr "_Произнести снова"
 
 msgid "_Temperature unit:"
-msgstr "Единица _температуры:"
+msgstr "Температурыжо кугыт:"
 
 msgid "_Tile"
-msgstr "Заполнять"
+msgstr "Т_емаш"
 
 msgid "_Time:"
-msgstr "_Время:"
+msgstr "_Жап:"
 
 msgid "_Timezone:"
-msgstr "_Часовой пояс:"
+msgstr "Ша_гат ӱштӧ:"
 
 msgid "_Total frames in animation:"
 msgstr "К_оличество кадров в анимации:"
@@ -2388,23 +2388,23 @@ msgid "_Visibility unit:"
 msgstr "Единица _видимости:"
 
 msgid "_Wind speed unit:"
-msgstr "Единица с_корости ветра:"
+msgstr "Мардеж писын куг_ыт:"
 
 msgid "columns"
-msgstr "столбцов(а)"
+msgstr "меҥге"
 
 msgid "file"
 msgstr "файл"
 
 msgid "frames"
-msgstr "кадров"
+msgstr "кадр-влак"
 
 msgctxt "panel:showusername"
 msgid "1"
 msgstr "1"
 
 msgid "pixels"
-msgstr "пикселей"
+msgstr "пиксел"
 
 msgid "query returned exception %s\n"
 msgstr "запрос вернул исключение %s\n"
@@ -2424,4 +2424,7 @@ msgstr ""
 "Андрей Носенко <awn@bcs.zp.ua>\n"
 "Леонид Кантер <leon@asplinux.ru>\n"
 "Александр Сигачёв <ajvol2@gmail.com>\n"
-"Дмитрий Яценко <d.acenko@gmail.com>"
+"Дмитрий Яценко <d.acenko@gmail.com>\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"

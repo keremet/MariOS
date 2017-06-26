@@ -149,10 +149,10 @@ msgid "Automatically login to the system after selecting options"
 msgstr "Автоматически входить в систему после выбора параметров"
 
 msgid "Available"
-msgstr "Доступен"
+msgstr "Лиймеямде"
 
 msgid "Away"
-msgstr "Отошёл"
+msgstr "Жаплан кораҥын"
 
 msgid "Bad address"
 msgstr "Плохой адрес"
@@ -164,7 +164,7 @@ msgid "Banner message text when chooser is empty"
 msgstr "Текст транспаранта, когда список выбора удалённого подключения пуст"
 
 msgid "Busy"
-msgstr "Занят"
+msgstr "Ок ярсе"
 
 msgid "COMMAND"
 msgstr "COMMAND"
@@ -186,7 +186,7 @@ msgid "Can't temporarily set screensaver to blank screen: %s"
 msgstr "Не удалось временно сменить хранитель экрана на пустой экран: %s"
 
 msgid "Cancelling..."
-msgstr "Отмена..."
+msgstr "Кораҥдымаш..."
 
 msgid "Cannot write PID file %s: possibly out of diskspace: %s"
 msgstr "Не удалось записать PID-файл %s, возможно диск переполнен: %s"
@@ -204,7 +204,7 @@ msgid "Choose a language from the full list of available languages."
 msgstr "Выберите язык из списка доступных языков."
 
 msgid "Computer Name"
-msgstr "Имя компьютера"
+msgstr "Компьютерым лӱмжо"
 
 msgid "Could not create socket!"
 msgstr "Не удалось создать сокет!"
@@ -263,7 +263,7 @@ msgid "Do not show known users in the login window"
 msgstr "Не отображать список известных пользователей"
 
 msgid "Duration"
-msgstr "Продолжительность"
+msgstr "Кужыт"
 
 msgid "Edit Personal _Information"
 msgstr "Изменить _личные данные"
@@ -299,7 +299,7 @@ msgid "GNOME Display Manager Slave"
 msgstr "GNOME Display Manager Slave"
 
 msgid "GNOME Onscreen Keyboard"
-msgstr "Экранная клавиатура"
+msgstr "Экран полдышоҥа"
 
 msgid "GNOME Screen Magnifier"
 msgstr "Увеличитель экрана GNOME"
@@ -314,16 +314,16 @@ msgid "Group %s doesn't exist"
 msgstr "Группа %s не существует"
 
 msgid "Guest"
-msgstr "Гость"
+msgstr "Уна"
 
 msgid "Hostname"
-msgstr "Имя узла"
+msgstr "Хостлӱм"
 
 msgid "ID"
 msgstr "идентификатор"
 
 msgid "Icon name"
-msgstr "Имя значка"
+msgstr "Тамгам лӱм"
 
 msgid "Icon name to use for greeter logo"
 msgstr "Имя значка для отображения в качестве логотипа приветствия"
@@ -335,37 +335,37 @@ msgid "Inactive Text"
 msgstr "Неактивный текст"
 
 msgid "Invisible"
-msgstr "Невидимый"
+msgstr "Койдымо"
 
 msgid "Is it Running?"
 msgstr "Работает ли сейчас?"
 
 msgid "Keyboard"
-msgstr "Клавиатура"
+msgstr "Полдышоҥа"
 
 msgid "Keyboard layouts"
-msgstr "Раскладки клавиатуры"
+msgstr "Полдышоҥасе вераҥдымаш"
 
 msgid "Label Text"
-msgstr "Текст ярлыка"
+msgstr "Ярлыкым текст"
 
 msgid "Language"
-msgstr "Язык"
+msgstr "Йылме"
 
 msgid "Languages"
-msgstr "Языки"
+msgstr "Йылме-влак"
 
 msgid "List Visible"
 msgstr "Показывать список"
 
 msgid "Lock Screen"
-msgstr "Заблокировать экран"
+msgstr "Экраным тӱкылаш"
 
 msgid "Log In"
-msgstr "Войти в систему"
+msgstr "Пураш"
 
 msgid "Log in as %s"
-msgstr "Войти в систему как %s"
+msgstr "Системышто пурташ кузе %s"
 
 msgid "Logdir %s does not exist or isn't a directory."
 msgstr "Каталог logdir «%s» не существует или не является каталогом."
@@ -404,13 +404,13 @@ msgid "Orca Screen Reader"
 msgstr "Чтение c экрана Orca"
 
 msgid "Panel"
-msgstr "Панель"
+msgstr "Оҥа"
 
 msgid "PolicyKit Authentication Agent"
 msgstr "Диалог аутентификации PolicyKit"
 
 msgid "Power Manager"
-msgstr "Управление питанием"
+msgstr "Питаний виктарымаш"
 
 msgid "Power management daemon"
 msgstr "Демон управления питанием"
@@ -422,7 +422,7 @@ msgid "Print GDM version"
 msgstr "Вывести версию GDM"
 
 msgid "Quit..."
-msgstr "Выход..."
+msgstr "Лекташ..."
 
 msgid "Recently selected keyboard layouts"
 msgstr "Недавние раскладки клавиатуры"
@@ -440,7 +440,7 @@ msgid "Remote Login (Connecting to %s...)"
 msgstr "Удалённый вход (подключение к %s...)"
 
 msgid "Restart"
-msgstr "Перезапустить"
+msgstr "Уэш колтымаш"
 
 msgid "Screenshot taken"
 msgstr "Снимок экрана сделан"
@@ -522,25 +522,25 @@ msgid "Set to true to use compiz as the window manager."
 msgstr "Установите, чтобы использовать в качестве менеджера окон compiz."
 
 msgid "Shut Down"
-msgstr "Выключить"
+msgstr "Пашам мучашлымаш"
 
 msgid "Shutdown Options..."
-msgstr "Параметры выключения..."
+msgstr "Пашам мучашлымашым параметр-влак..."
 
 msgid "Start time"
-msgstr "Время запуска"
+msgstr "Колтымашым жап"
 
 msgid "Suspend"
-msgstr "Спящий режим"
+msgstr "Малыме режим"
 
 msgid "Switch User"
-msgstr "Переключить пользователя"
+msgstr "Пайдаланыше весыш чӱкташ"
 
 msgid "System Preferences"
-msgstr "Параметры системы"
+msgstr "Систем келыштарымаш"
 
 msgid "Take a picture of the screen"
-msgstr "Сделать снимок экрана"
+msgstr "Экраным войзышым ыштыш"
 
 msgid ""
 "Text banner message to show on the login window when the user chooser is "
@@ -580,7 +580,7 @@ msgid "The display device"
 msgstr "Устройство дисплея"
 
 msgid "The hostname"
-msgstr "Имя узла"
+msgstr "Тӱҥын лӱмжӧ"
 
 msgid "The icon to use with the label"
 msgstr "Значок, используемый с ярлыком"
@@ -604,7 +604,7 @@ msgid "The user manager object this user is controlled by."
 msgstr "Объект менеджера пользователей, которым управляется этот пользователь."
 
 msgid "The username"
-msgstr "Имя пользователя"
+msgstr "Пайдаланышын лӱмжӧ"
 
 msgid ""
 "This program is distributed in the hope that it will be useful, but WITHOUT "
@@ -658,10 +658,10 @@ msgid "Unable to start new display"
 msgstr "Не удалось запустить новый дисплей"
 
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr "Палыдыме"
 
 msgid "Unspecified"
-msgstr "Не указано"
+msgstr "Ончыкто огыл"
 
 msgid "Use an onscreen keyboard"
 msgstr "Включает экранную клавиатуру"
@@ -673,28 +673,28 @@ msgid "User %s doesn't exist"
 msgstr "Пользователь %s не существует"
 
 msgid "User Switch Applet"
-msgstr "Апплет переключения пользователей"
+msgstr "Пайдаланыше весыш чӱкташ апплет"
 
 msgid "User Switcher"
-msgstr "Переключатель пользователей"
+msgstr "Пайдаланыше весыш чӱкташ"
 
 msgid "User Switcher Applet Factory"
-msgstr "Фабрика апплета переключателя пользователей"
+msgstr "Апплет пайдаланыше весыш чӱкташ фабрик"
 
 msgid "Username"
-msgstr "Имя пользователя"
+msgstr "Пайдаланышын лӱмжӧ"
 
 msgid "Username:"
-msgstr "Имя пользователя:"
+msgstr "Пайдаланышын лӱмжӧ:"
 
 msgid "Value"
-msgstr "Значение"
+msgstr "Ыҥ"
 
 msgid "Version"
-msgstr "Версия"
+msgstr "Версий"
 
 msgid "Version of this application"
-msgstr "Версия этого приложения"
+msgstr "Тидыже пеленлыкын версий"
 
 msgid "Whether the chooser list is visible"
 msgstr "Показывает список выбора для удалённого подключения"
@@ -725,19 +725,19 @@ msgstr ""
 "MA  02111-1307  USA "
 
 msgid "_About"
-msgstr "_О программе"
+msgstr "_Программе нерген"
 
 msgid "_Edit Users and Groups"
 msgstr "_Изменить пользователей и группы"
 
 msgid "_Keyboard:"
-msgstr "_Клавиатура:"
+msgstr "_Полдышоҥа:"
 
 msgid "_Language:"
-msgstr "_Язык:"
+msgstr "_Йылме:"
 
 msgid "_Languages:"
-msgstr "_Языки:"
+msgstr "_Йылме-влак:"
 
 msgid "application programmer error"
 msgstr "программная ошибка приложения"
@@ -768,14 +768,14 @@ msgid "error initiating conversation with authentication system - %s"
 msgstr "ошибка инициализации диалога с системой аутентификации - %s"
 
 msgid "general failure"
-msgstr "общий сбой"
+msgstr "чумыр йоҥылыш"
 
 msgid "initgroups () failed for %s"
 msgstr "сбой функции initgroups() для %s"
 
 msgctxt "keyboard"
 msgid "Other..."
-msgstr "Другая..."
+msgstr "Весе..."
 
 msgctxt "language"
 msgid "Other..."
@@ -785,16 +785,19 @@ msgid "no user account available"
 msgstr "учетная запись пользователя недоступна"
 
 msgid "out of memory"
-msgstr "недостаточно памяти"
+msgstr "шагал шарнымаш"
 
 msgid "percentage of time complete"
 msgstr "процент затраченного времени"
 
 msgid "translator-credits"
-msgstr "Леонид Кантер <leon@asplinux.ru>"
+msgstr "Леонид Кантер <leon@asplinux.ru>\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"
 
 msgid "unknown error"
-msgstr "неизвестная ошибка"
+msgstr "палыдыме йоҥылыш"
 
 msgctxt "user"
 msgid "Other..."

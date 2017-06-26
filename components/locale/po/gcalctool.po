@@ -26,31 +26,31 @@ msgid "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F"
 msgstr "0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F"
 
 msgid "10 places"
-msgstr "10 разрядов"
+msgstr "10 разряд"
 
 msgid "11 places"
-msgstr "11 разрядов"
+msgstr "11 разряд"
 
 msgid "12 places"
-msgstr "12 разрядов"
+msgstr "12 разряд"
 
 msgid "13 places"
-msgstr "13 разрядов"
+msgstr "13 разряд"
 
 msgid "14 places"
-msgstr "14 разрядов"
+msgstr "14 разряд"
 
 msgid "15 places"
-msgstr "15 разрядов"
+msgstr "15 разряд"
 
 msgid "16-bit"
 msgstr "16 бит"
 
 msgid "32-bit"
-msgstr "32 бита"
+msgstr "32 бит"
 
 msgid "64-bit"
-msgstr "64 бита"
+msgstr "64 бит"
 
 msgid "8-bit"
 msgstr "8 бит"
@@ -63,9 +63,7 @@ msgid ""
 "\n"
 "%s"
 msgstr ""
-"Необходимый файл отсутствует или повреждён. Проверьте правильность "
-"установки.\n"
-"\n"
+"Кӱлешан файл укалеш але тудо  локтылалтше. Терге шындымыже лачокеш лыкташ \n"
 "%s"
 
 msgid "Absolute Value"
@@ -75,20 +73,20 @@ msgid "Absolute value [|]"
 msgstr "Модуль [|]"
 
 msgid "Accuracy value"
-msgstr "Точность значения"
+msgstr "Ыҥ тӱрыс улмо"
 
 msgid "Add [+]"
-msgstr "Сложить [+]"
+msgstr "Ушаш [+]"
 
 msgid "Answer variable"
-msgstr "Вычисленная переменная"
+msgstr "Шотлен луктымо вашталтше"
 
 msgid ""
 "Application Options:\n"
 "  -u, --unittest                  Perform unit tests\n"
 "  -s, --solve <equation>          Solve the given equation"
 msgstr ""
-"Опции приложения:\n"
+"Пеленлык параметр:\n"
 "  -u, --unittest                  Произвести проверку единиц измерения\n"
 "  -s, --solve <equation>          Вычислить заданное выражение"
 
@@ -148,13 +146,13 @@ msgid "Bulgarian lev"
 msgstr "Болгарский лев"
 
 msgid "C_alculate"
-msgstr "В_ычислить"
+msgstr "Ш_отлаш"
 
 msgid "C_ost:"
-msgstr "Цена:"
+msgstr "Ак:"
 
 msgid "Calculate result [=]"
-msgstr "Вычислить результат [=]"
+msgstr "Лектышыже-влак шотлаш [=]"
 
 msgid ""
 "Calculates the amount of the periodic payment of a loan, where payments are "
@@ -263,19 +261,19 @@ msgid "Canadian dollar"
 msgstr "Канадский доллар"
 
 msgid "Ch_aracter:"
-msgstr "_Символ:"
+msgstr "_Тиште:"
 
 msgid "Chinese yuan renminbi"
 msgstr "Китайский юань"
 
 msgid "Clear display [Escape]"
-msgstr "Очистить [Escape]"
+msgstr "Эрыкташ [Escape]"
 
 msgid "Clr"
 msgstr "C"
 
 msgid "Compounding Term"
-msgstr "Составной период"
+msgstr "Йыжыҥан пагыт"
 
 msgid ""
 "Converts between different currencies. Enter the amount and the currency you "
@@ -324,7 +322,7 @@ msgid "Display _Format:"
 msgstr "_Формат вывода:"
 
 msgid "Divide [/]"
-msgstr "Разделить [/]"
+msgstr "Шеледаш [/]"
 
 msgid "Division by zero is undefined"
 msgstr "Деление на ноль не определено"
@@ -333,7 +331,7 @@ msgid "Double-Declining Depreciation"
 msgstr "Отброс двойного остатка"
 
 msgid "End block [)]"
-msgstr "Закончить блок [)]"
+msgstr "Блокым пытареш [)]"
 
 msgid "Engineering"
 msgstr "Инженерный"
@@ -372,7 +370,7 @@ msgid "Factorize into prime numbers (Ctrl+F)"
 msgstr "Разложить на простые множители (Ctrl+F)"
 
 msgid "Fractional portion"
-msgstr "Дробная часть"
+msgstr "Дробан ужаш"
 
 msgid "Function '%s' is not defined"
 msgstr "Функция «%s» не определена"
@@ -408,7 +406,7 @@ msgstr ""
 "  --g-fatal-warnings              Сделать все предупреждения фатальными"
 
 msgid "Gcalctool"
-msgstr "Калькулятор Gcalctool"
+msgstr "Gcalctool калькулятор"
 
 msgid ""
 "Gcalctool is free software; you can redistribute it and/or modify\n"
@@ -560,7 +558,7 @@ msgid "Modulus division is only defined for integers"
 msgstr "Деление по модулю определено только для целых чисел"
 
 msgid "Multiply [*]"
-msgstr "Умножить [*]"
+msgstr "Шукемдаш [*]"
 
 msgid "Natural logarithm"
 msgstr "Натуральный логарифм"
@@ -620,7 +618,7 @@ msgid "Percentage [%]"
 msgstr "Процент [%]"
 
 msgid "Perform arithmetic, scientific or financial calculations"
-msgstr "Вычисления: арифметические, научные и финансовые"
+msgstr "Арифметические, научные или финансовые расчеты"
 
 msgid "Periodic Interest Rate"
 msgstr "Периодическая процентная ставка"
@@ -746,7 +744,7 @@ msgid "Square root is undefined for negative values"
 msgstr "Квадратный корень не определён для отрицательных чисел"
 
 msgid "Start block [(]"
-msgstr "Начать блок [(]"
+msgstr "Блокым тӱналеш [(]"
 
 msgid "Store"
 msgstr "X→П"
@@ -764,7 +762,7 @@ msgid "Subscript number mode [Alt+number]"
 msgstr "Режим подстрочных цифр [Alt+number]"
 
 msgid "Subtract [-]"
-msgstr "Вычесть [-]"
+msgstr "Кудалтымаш [-]"
 
 msgid "Sum-of-the-Years'-Digits Depreciation"
 msgstr "Амортизация Сумма-Лет-Цифр"
@@ -859,38 +857,38 @@ msgid "Trigonometric type"
 msgstr "Тригонометрический режим"
 
 msgid "Truncate value"
-msgstr "Целочисленная часть"
+msgstr "Тичмаш-числан ыҥ"
 
 msgid "Two's complement"
-msgstr "Дополнение до двух"
+msgstr "Уштартыш кок марте"
 
 msgid "US dollar"
 msgstr "Доллар США"
 
 msgid "Unable to open help file"
-msgstr "Не удалось открыть файл справки"
+msgstr "Полыш файл почаш ок лий"
 
 msgid "Unknown argument '%s'"
-msgstr "Неизвестный аргумент «%s»"
+msgstr "Палыдыме аргумент «%s»"
 
 msgid "Unknown conversion"
-msgstr "Неизвестное преобразование"
+msgstr "Палыдыме весемдымаш"
 
 msgid "Unknown variable '%s'"
-msgstr "Неизвестная переменная «%s»"
+msgstr "Палыдыме вашталтше «%s»"
 
 msgid ""
 "Usage:\n"
 "  %s — Perform mathematical calculations"
 msgstr ""
 "Использование:\n"
-"  %s — Произвести математические вычисления"
+"  %s — Математический-влак шотлымаш ыштылаш"
 
 msgid "Word _size:"
-msgstr "Размер _слова:"
+msgstr "Кугыт _мут:"
 
 msgid "Word size"
-msgstr "Размер слова"
+msgstr "Мутым кугыт"
 
 msgid ""
 "You don't have any recent currency rates. Should some be downloaded now?"
@@ -924,22 +922,22 @@ msgid "_9 places"
 msgstr "_9 разрядов"
 
 msgid "_Advanced"
-msgstr "_Расширенный"
+msgstr "_Ешарен"
 
 msgid "_Angle units:"
-msgstr "Единицы измерения _углов:"
+msgstr "Висыме кугыт _лук-влак:"
 
 msgid "_Basic"
-msgstr "_Простой"
+msgstr "_Тыглай"
 
 msgid "_Calculator"
 msgstr "_Калькулятор"
 
 msgid "_Contents"
-msgstr "_Содержание"
+msgstr "_Вуйлымаш"
 
 msgid "_Cost:"
-msgstr "Ц_ена:"
+msgstr "А_к:"
 
 msgid "_Financial"
 msgstr "_Финансовый"
@@ -948,22 +946,22 @@ msgid "_Future Value:"
 msgstr "_Будущая стоимость:"
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Insert"
-msgstr "_Вставить"
+msgstr "_Пуртен шындаш"
 
 msgid "_Life:"
-msgstr "_Жизненный цикл:"
+msgstr "_Илыш цикл:"
 
 msgid "_Margin:"
-msgstr "_Маржа:"
+msgstr "_Алан:"
 
 msgid "_Number of Periods:"
 msgstr "_Число периодов:"
 
 msgid "_Period:"
-msgstr "_Период:"
+msgstr "_Саман:"
 
 msgid "_Periodic Payment:"
 msgstr "Период_ическая оплата:"
@@ -978,13 +976,13 @@ msgid "_Salvage:"
 msgstr "_Вторсырьё:"
 
 msgid "_Scientific"
-msgstr "_Научный"
+msgstr "_Шанче"
 
 msgid "_Term:"
-msgstr "_Срок:"
+msgstr "_Пагыт:"
 
 msgid "_View"
-msgstr "_Вид"
+msgstr "_Сын"
 
 msgid "nth root of negative number is undefined for even n"
 msgstr "Корень n-той степени от отрицательного числа не определён для чётных n"
@@ -993,7 +991,10 @@ msgid "translator-credits"
 msgstr ""
 "Андрей Носенко <awn@bcs.zp.ua>\n"
 "Артур Сибагатуллин <ArtSib@mail.ru>\n"
-"Alexander Saprykin <xelfium@gmail.com>, 2010"
+"Alexander Saprykin <xelfium@gmail.com>, 2010\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"
 
 msgid "© 1986–2008 The Gcalctool authors"
 msgstr "© 1986-2008 авторы Gcalctool"

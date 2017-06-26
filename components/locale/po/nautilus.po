@@ -242,7 +242,7 @@ msgid "%s (copy)%s"
 msgstr "%s (копия)%s"
 
 msgid "%s - File Browser"
-msgstr "%s — обозреватель файлов"
+msgstr "%s — файл-ончыктышо"
 
 msgid "%s Properties"
 msgstr "Свойства %s"
@@ -374,19 +374,19 @@ msgid "<b>Behavior</b>"
 msgstr "<b>Поведение</b>"
 
 msgid "<b>Compact View Defaults</b>"
-msgstr "<b>Компактный вид</b>"
+msgstr "<b>Компактын сын</b>"
 
 msgid "<b>Date</b>"
-msgstr "<b>Дата</b>"
+msgstr "<b>Дате</b>"
 
 msgid "<b>Default View</b>"
-msgstr "<b>Вид по умолчанию</b>"
+msgstr "<b>Пеҥгыдемдыме семын сын</b>"
 
 msgid "<b>Executable Text Files</b>"
 msgstr "<b>Исполняемые текстовые файлы</b>"
 
 msgid "<b>Folders</b>"
-msgstr "<b>Папки</b>"
+msgstr "<b>Папке-влак</b>"
 
 msgid "<b>Height:</b> %d pixel"
 msgid_plural "<b>Height:</b> %d pixels"
@@ -416,13 +416,13 @@ msgid "<b>Other Previewable Files</b>"
 msgstr "<b>Другие просматриваемые файлы</b>"
 
 msgid "<b>Sound Files</b>"
-msgstr "<b>Звуковые файлы</b>"
+msgstr "<b>Йӱк файл-влак</b>"
 
 msgid "<b>Text Files</b>"
-msgstr "<b>Текстовые файлы</b>"
+msgstr "<b>Текст файл-влак</b>"
 
 msgid "<b>Trash</b>"
-msgstr "<b>Корзина</b>"
+msgstr "<b>Комдо</b>"
 
 msgid "<b>Tree View Defaults</b>"
 msgstr "<b>Просмотр в виде дерева</b>"
@@ -434,13 +434,13 @@ msgstr[1] "<b>Ширина:</b> %d пикселя"
 msgstr[2] "<b>Ширина:</b> %d пикселей"
 
 msgid "<b>_Bookmarks</b>"
-msgstr "<b>_Закладки</b>"
+msgstr "<b>_Пыштыме пале-влак</b>"
 
 msgid "<b>_Location</b>"
 msgstr "<b>_Адрес</b>"
 
 msgid "<b>_Name</b>"
-msgstr "<b>_Наименование</b>"
+msgstr "<b>_Лӱм</b>"
 
 msgid "<big><b>Error autorunning software</b></big>"
 msgstr ""
@@ -534,7 +534,7 @@ msgid "Accessed:"
 msgstr "Дата доступа:"
 
 msgid "Acti_on:"
-msgstr "_Действие:"
+msgstr "_Ыштымаш:"
 
 msgid "Activate items with a _double click"
 msgstr "Активировать элементы _двойным щелчком"
@@ -549,13 +549,13 @@ msgid "Activate previous tab"
 msgstr "Активировать предыдущую вкладку"
 
 msgid "Add Application"
-msgstr "Добавить приложение"
+msgstr "Пеленлыкым ешараш"
 
 msgid "Add Emblems..."
-msgstr "Добавить эмблемы..."
+msgstr "Сын тамгам-влак ешараш..."
 
 msgid "Add _bookmark"
-msgstr "До_бавить закладку"
+msgstr "Пыштыме палем ешараш"
 
 msgid "Add a bookmark for the current location to this menu"
 msgstr "Добавить закладку для текущего адреса в это меню"
@@ -564,7 +564,7 @@ msgid "Add a new criterion to this search"
 msgstr "Добавить новый критерий в этот поиск"
 
 msgid "Add new..."
-msgstr "Добавить новый..."
+msgstr "Ум ешараш..."
 
 msgid "Alert Buttons"
 msgstr "Кнопки предупреждения"
@@ -738,7 +738,7 @@ msgstr[2] ""
 "Вы действительно хотите безвозвратно удалить %'d выделенных элементов?"
 
 msgid "Arran_ge Items"
-msgstr "Выстраивать _объекты"
+msgstr "Элемент-влакым _радамлаш"
 
 msgid "Ask before _emptying the Trash or deleting files"
 msgstr "Спрашивать перед о_чисткой корзины и удалением файлов"
@@ -762,7 +762,7 @@ msgid "Background"
 msgstr "Фон"
 
 msgid "Backgrounds and Emblems"
-msgstr "Фон и эмблемы"
+msgstr "Фон да сын тамга-влак"
 
 msgid "Basic"
 msgstr "Основные"
@@ -797,7 +797,7 @@ msgid "Blue Type"
 msgstr "Буквы на синем фоне"
 
 msgid "Bookmark _name:"
-msgstr "Им_я закладки:"
+msgstr "Пыштыме палем лӱмжо:"
 
 msgid "Bookmark for Nonexistent Location"
 msgstr "Закладка на несуществующий адрес"
@@ -816,9 +816,9 @@ msgstr "Обзор компьютеров и файлов в локальной 
 
 msgid "Browse in %'d New _Tab"
 msgid_plural "Browse in %'d New _Tabs"
-msgstr[0] "Открыть в %'d новой вк_ладке обозревателя"
-msgstr[1] "Открыть в %'d новых вк_ладках обозревателя"
-msgstr[2] "Открыть в %'d новых вк_ладках обозревателя"
+msgstr[0] "Открыть в %'d новой вк_ладке"
+msgstr[1] "Открыть в %'d новых вк_ладках"
+msgstr[2] "Открыть в %'d новых вк_ладках"
 
 msgid "Browse in %'d New _Window"
 msgid_plural "Browse in %'d New _Windows"
@@ -851,37 +851,37 @@ msgid "Burlap"
 msgstr "Мешковина"
 
 msgid "By Emblems"
-msgstr "по эмблемам"
+msgstr "сын тамгам-влак дене"
 
 msgid "By Modification Date"
-msgstr "по дате изменения"
+msgstr "вашталтышем датем дене"
 
 msgid "By Modification _Date"
-msgstr "по _дате изменения"
+msgstr "вашталтышем дат_ем дене"
 
 msgid "By Name"
-msgstr "по имени"
+msgstr "лӱм дене"
 
 msgid "By Size"
-msgstr "по размеру"
+msgstr "кугыт дене"
 
 msgid "By T_rash Time"
 msgstr "По времени попадания в корзину"
 
 msgid "By Type"
-msgstr "по типу"
+msgstr "тип дене"
 
 msgid "By _Emblems"
-msgstr "по _эмблемам"
+msgstr "сын тамгам-влак дене"
 
 msgid "By _Name"
-msgstr "по _имени"
+msgstr "лӱм _дене"
 
 msgid "By _Size"
-msgstr "по _размеру"
+msgstr "кугыт _дене"
 
 msgid "By _Type"
-msgstr "по _типу"
+msgstr "тип _дене"
 
 msgid "CD _Audio:"
 msgstr "_Звуковые CD:"
@@ -890,10 +890,10 @@ msgid "C_ancel Remove"
 msgstr "О_тменить удаление"
 
 msgid "C_olors"
-msgstr "Ц_вета"
+msgstr "Тӱс-_влак"
 
 msgid "C_onnect"
-msgstr "_Соединиться"
+msgstr "_Ушнымаш"
 
 msgid "Camera Brand"
 msgstr "Марка камеры"
@@ -908,7 +908,7 @@ msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
 msgstr "Невозможно передать URI документа в ярлык типа «Ссылка»"
 
 msgid "Cancel"
-msgstr "Отменить"
+msgstr "Кораҥдымаш"
 
 msgid "Cancel Group Change?"
 msgstr "Отменить смену группы?"
@@ -999,7 +999,7 @@ msgstr ""
 "выделенные объекты."
 
 msgid "Clea_r History"
-msgstr "О_чистить историю"
+msgstr "Историйым эрыкташ"
 
 msgid "Clear contents of Go menu and Back/Forward lists"
 msgstr "Очистить содержимое меню «Переход» и списков «Назад» и «Вперёд»"
@@ -1014,7 +1014,7 @@ msgid "Click on an emblem to remove it"
 msgstr "Щёлкните на эмблеме, чтобы удалить её"
 
 msgid "Clos_e All Folders"
-msgstr "Закрыть _все папки"
+msgstr "Чыла папкем петыраш"
 
 msgid "Close P_arent Folders"
 msgstr "Закрыть р_одительские папки"
@@ -1023,22 +1023,22 @@ msgid "Close Time Slider and return to original directory"
 msgstr "Закрыть Time Slider и вернуться к исходному каталогу"
 
 msgid "Close _All Windows"
-msgstr "Закрыть вс_е окна"
+msgstr "Чыла тӧрзам петыраш"
 
 msgid "Close all Navigation windows"
-msgstr "Закрыть все окна обозревателя"
+msgstr "Чыла ончыктышым тӧрзам петыраш"
 
 msgid "Close all folder windows"
-msgstr "Закрыть все окна папок"
+msgstr "Чыла папкем тӧрзам петыраш"
 
 msgid "Close tab"
-msgstr "Закрыть вкладку"
+msgstr "Пыштыме палым петыраш"
 
 msgid "Close the side pane"
-msgstr "Закрыть боковую панель"
+msgstr "Ӧрдыж оҥам петыраш"
 
 msgid "Close this folder"
-msgstr "Закрыть эту папку"
+msgstr "Тидем папкем петыраш"
 
 msgid "Close this folder's parents"
 msgstr "Закрыть родительские папки этой папки"
@@ -1047,7 +1047,7 @@ msgid "Color _name:"
 msgstr "Наи_менование цвета:"
 
 msgid "Color _value:"
-msgstr "З_начение цвета:"
+msgstr "Тӱсын ыҥ:"
 
 msgid ""
 "Color for the default folder background. Only used if background_set is true."
@@ -1059,16 +1059,16 @@ msgid "Colors:"
 msgstr "Цвета:"
 
 msgid "Command"
-msgstr "Команда"
+msgstr "Кӱштымаш"
 
 msgid "Comment"
-msgstr "Комментарий"
+msgstr "Умылтарымаш"
 
 msgid "Compact View"
-msgstr "Компактный вид"
+msgstr "Компактын сын"
 
 msgid "Compact _Layout"
-msgstr "Располагать _уплотнённо"
+msgstr "Рыҥ сыным ончыкташ"
 
 msgid "Computer"
 msgstr "Компьютер"
@@ -1083,13 +1083,13 @@ msgid "Connect To This Server"
 msgstr "Соединиться с этим сервером"
 
 msgid "Connect to Server"
-msgstr "Соединение с сервером"
+msgstr "Cерверыш ушнымаш"
 
 msgid "Connect to Server %s"
-msgstr "Соединение с сервером «%s»"
+msgstr "«%s» Cерверыш ушнымаш"
 
 msgid "Connect to _Server..."
-msgstr "Соединиться с _сервером..."
+msgstr "Сервер дене ушнымаш..."
 
 msgid "Connect to a remote computer or shared disk"
 msgstr "Соединиться с удалённым компьютером или общим диском"
@@ -1101,16 +1101,16 @@ msgid "Connect to the selected drive"
 msgstr "Подключиться к выделенному приводу"
 
 msgid "Content View"
-msgstr "Просмотр содержимого"
+msgstr "Кӧргым ончыкташ"
 
 msgid "Contents:"
-msgstr "Содержание:"
+msgstr "Вуйлымаш:"
 
 msgid "Cop_y to"
 msgstr "_Копировать в"
 
 msgid "Copy _Anyway"
-msgstr "Копировать _всё равно"
+msgstr "Садыгак копийым ышташ"
 
 msgid "Copy the current selection to the desktop"
 msgstr "Копировать текущее выделение на рабочий стол"
@@ -1218,19 +1218,19 @@ msgid "Create Document from template \"%s\""
 msgstr "Создать документ из шаблона «%s»"
 
 msgid "Create L_auncher..."
-msgstr "Создать кнопку _запуска..."
+msgstr "Колташ кнопкым ямдылаш..."
 
 msgid "Create _Document"
-msgstr "Создать _документ"
+msgstr "Документым _ямдылаш"
 
 msgid "Create _Folder"
-msgstr "Создать _папку"
+msgstr "Папкем _ямдылаш"
 
 msgid "Create a New Color:"
-msgstr "Создать новый цвет:"
+msgstr "Ум тӱсым ямдылаш:"
 
 msgid "Create a New Emblem"
-msgstr "Создать новую эмблему"
+msgstr "Ум сын тамгажем ямдылаш"
 
 msgid "Create a new empty file inside this folder"
 msgstr "Создать новый пустой файл внутри этой папки"
@@ -1239,7 +1239,7 @@ msgid "Create a new empty folder inside this folder"
 msgstr "Создать новую пустую папку внутри этой папки"
 
 msgid "Create a new launcher"
-msgstr "Создать новую кнопку запуска"
+msgstr "Ум колташ кнопкым ямдылаш"
 
 msgid "Create a symbolic link for each selected item"
 msgstr "Создать символьную ссылку для каждого выделенного объекта"
@@ -1316,7 +1316,7 @@ msgid "Date Format"
 msgstr "Формат даты"
 
 msgid "Date Modified"
-msgstr "Дата изменения"
+msgstr "Вашталтымашым дате"
 
 msgid "Date Taken"
 msgstr "Данные получены"
@@ -1325,13 +1325,13 @@ msgid "Date when file was moved to the Trash"
 msgstr "Дата, когда файл был помещён в корзину."
 
 msgid "Decrease the view size"
-msgstr "Увеличить масштаб"
+msgstr "Кугемдаш"
 
 msgid "Deep Teal"
 msgstr "Глубокий зеленовато-синий"
 
 msgid "Default"
-msgstr "По умолчанию"
+msgstr "Пеҥгыдемдыме семын"
 
 msgid "Default Background Color"
 msgstr "Цвет фона по умолчанию"
@@ -1389,7 +1389,7 @@ msgid "Default zoom level used by the list view."
 msgstr "Масштаб по умолчанию при просмотре в виде списка."
 
 msgid "Delete _All"
-msgstr "Удалить _всё"
+msgstr "Чылам кораҥдаш"
 
 msgid "Delete all items in the Trash"
 msgstr "Удалить все объекты из корзины"
@@ -1407,28 +1407,28 @@ msgid "Delete this folder, without moving to the Trash"
 msgstr "Удалить эту папку, не помещая её в корзину"
 
 msgid "Delete this snapshot"
-msgstr "Удалить этот снимок"
+msgstr "Тиде войзышым кораҥдаш"
 
 msgid "Deleting Files"
-msgstr "Удаление файлов"
+msgstr "Файлым-влак кораҥдаш"
 
 msgid "Deleting files"
-msgstr "Удаление файлов"
+msgstr "Файлым-влак кораҥдаш"
 
 msgid "Description"
-msgstr "Описание"
+msgstr "Возен ончыктымаш"
 
 msgid "Desktop"
-msgstr "Рабочий стол"
+msgstr "Пашам ӱстел"
 
 msgid "Desktop A_ppearance..."
-msgstr "_Внешний вид рабочего стола..."
+msgstr "_Пашам ӱстелым сын..."
 
 msgid "Desktop computer icon name"
 msgstr "Имя значка «Компьютер» на рабочем столе"
 
 msgid "Desktop font"
-msgstr "Шрифт рабочего стола"
+msgstr "Пашам ӱстелым шрифт"
 
 msgid "Desktop home icon name"
 msgstr "Имя значка «Домашняя папка» на рабочем столе"
@@ -1440,7 +1440,7 @@ msgid "Details : snapshot taken %s currently using %s"
 msgstr "Сведения: создано %s снимков, сейчас используется %s"
 
 msgid "Details: "
-msgstr "Подробности: "
+msgstr "Тӱрыснек: "
 
 msgid "Detect media in the selected drive"
 msgstr "Определить носитель в выделенном приводе"
@@ -1518,7 +1518,7 @@ msgstr[1] "Хотите просмотреть %d адреса?"
 msgstr[2] "Хотите просмотреть %d адресов?"
 
 msgid "Documents"
-msgstr "Документы"
+msgstr "Документ-влак"
 
 msgid "Dots"
 msgstr "Точки"
@@ -1560,7 +1560,7 @@ msgstr[1] "Дублируются %'d файла (в «%B»)"
 msgstr[2] "Дублируется %'d файлов (в «%B»)"
 
 msgid "E_mpty Trash"
-msgstr "О_чистить корзину"
+msgstr "Комдым эрыкташ"
 
 msgid "E_xecute"
 msgstr "В_ыполнение"
@@ -1575,10 +1575,10 @@ msgid "Eclipse"
 msgstr "Затмение"
 
 msgid "Edit"
-msgstr "Изменить"
+msgstr "Вашталташ"
 
 msgid "Edit Bookmarks"
-msgstr "Изменить закладки"
+msgstr "Пыштыме палым вашталташ"
 
 msgid "Edit Nautilus preferences"
 msgstr "Изменить параметры Nautilus"
@@ -1596,22 +1596,22 @@ msgid "Eject the volume associated with this folder"
 msgstr "Извлечь том, связанный с открытой папкой"
 
 msgid "Emblems"
-msgstr "Эмблемы"
+msgstr "Сын тамга-влак"
 
 msgid "Emblems:"
-msgstr "Эмблемы:"
+msgstr "Сын тамга-влак:"
 
 msgid "Empty Trash"
-msgstr "Очистить корзину"
+msgstr "Комдым эрыкташ"
 
 msgid "Empty _Trash"
-msgstr "О_чистить корзину"
+msgstr "Комдым эрыкташ"
 
 msgid "Empty all items from Trash?"
 msgstr "Удалить все элементы из корзины?"
 
 msgid "Emptying Trash"
-msgstr "Очистка корзины"
+msgstr "Комдым эрыктымаш"
 
 msgid "Enables the classic Nautilus behavior, where all windows are browsers"
 msgstr "Включить классическое поведение Nautilus (все окна — обозреватели)"
@@ -1637,7 +1637,7 @@ msgid "Envy"
 msgstr "Зависть"
 
 msgid "Erase"
-msgstr "Стереть"
+msgstr "Ӱшташ"
 
 msgid "Error starting autorun program: %s"
 msgstr "Произошла ошибка при автоматическом запуске программы: %s"
@@ -1683,7 +1683,7 @@ msgid "Examples: "
 msgstr "Примеры: "
 
 msgid "Execute:"
-msgstr "Выполнение:"
+msgstr "Ыштымаш:"
 
 msgid "Explore versions"
 msgstr "Обзор версий"
@@ -1698,10 +1698,10 @@ msgid "FILE"
 msgstr "ФАЙЛ"
 
 msgid "FTP (with login)"
-msgstr "FTP (с авторизацией)"
+msgstr "FTP (пурымо лӱм дене)"
 
 msgid "F_ind Files"
-msgstr "Н_айти файлы"
+msgstr "Файл-влак муаш"
 
 msgid "Failed to load image information"
 msgstr "Не удалось загрузить сведения об изображении"
@@ -1710,10 +1710,10 @@ msgid "Fibers"
 msgstr "Волокна"
 
 msgid "File Browser"
-msgstr "Обозреватель файлов"
+msgstr "Файлыжо ончыктышо"
 
 msgid "File Label:"
-msgstr "Метка файла:"
+msgstr "Файлым пале:"
 
 msgid "File Management"
 msgstr "Управление файлами"
@@ -1722,25 +1722,25 @@ msgid "File Management Preferences"
 msgstr "Параметры управления файлами"
 
 msgid "File Manager"
-msgstr "Файловый менеджер"
+msgstr "Файлыжо менеджер"
 
 msgid "File Operations"
 msgstr "Действия над файлами"
 
 msgid "File Permissions:"
-msgstr "Права доступа к файлу:"
+msgstr "Файлыжын кӧнымаш-влак:"
 
 msgid "File System"
-msgstr "Файловая система"
+msgstr "Файл системе"
 
 msgid "File Type"
-msgstr "Тип файла"
+msgstr "Файлым тип"
 
 msgid "File _System"
-msgstr "_Файловая система"
+msgstr "_Файл систем"
 
 msgid "File access:"
-msgstr "Доступ к файлу:"
+msgstr "Файлышто пураш лиймаш:"
 
 msgid "File conflict"
 msgstr "Файловый конфликт"
@@ -1749,7 +1749,7 @@ msgid "File is not a valid .desktop file"
 msgstr "Файл не является корректным файлом формата .desktop"
 
 msgid "File not found"
-msgstr "Файл не найден"
+msgstr "Файл муымо огыл"
 
 msgid ""
 "Filename for the default folder background. Only used if background_set is "
@@ -1789,10 +1789,10 @@ msgid "Filesystem type:"
 msgstr "Тип файловой системы:"
 
 msgid "Find files, folders, and documents"
-msgstr "Поиск файлов, папок и документов"
+msgstr "Файлым, папкем да документым кычалаш"
 
 msgid "Find files, folders, and documents on your computer"
-msgstr "Поиск файлов, папок и документов в компьютере"
+msgstr "Файлым, папкем да документым компьютерышто кычалаш тӱҥалаш"
 
 msgid "Fire Engine"
 msgstr "Пожарная машина"
@@ -1810,7 +1810,7 @@ msgid "Focal Length"
 msgstr "Фокусное расстояние"
 
 msgid "Folder Permissions:"
-msgstr "Права доступа к папке:"
+msgstr "Папкыжо кӧнымаш-влак:"
 
 msgid "Folder access:"
 msgstr "Доступ к папке:"
@@ -1946,7 +1946,7 @@ msgid "History"
 msgstr "История"
 
 msgid "Home Folder"
-msgstr "Домашняя папка"
+msgstr "Мӧҥгысӧ папке"
 
 msgid "Home icon visible on desktop"
 msgstr "Значок домашней папки присутствует на рабочем столе"
@@ -1964,10 +1964,10 @@ msgid "Ice"
 msgstr "Лёд"
 
 msgid "Icon"
-msgstr "Значок"
+msgstr "Тамга"
 
 msgid "Icon View"
-msgstr "Просмотр в виде значков"
+msgstr "Тамгам семын ончыкташ"
 
 msgid ""
 "If set to \"after_current_tab\", then new tabs are inserted after the "
@@ -2251,19 +2251,19 @@ msgstr ""
 "объекты, находящиеся в корзине на этом томе, будут безвозвратно утеряны."
 
 msgid "Increase the view size"
-msgstr "Уменьшить масштаб"
+msgstr "Иземдаш"
 
 msgid "Indigo"
 msgstr "Индиго"
 
 msgid "Information"
-msgstr "Сведения"
+msgstr "Увер-влак"
 
 msgid "Input Methods"
 msgstr "Методы ввода"
 
 msgid "Justification"
-msgstr "Выравнивание"
+msgstr "Тӧремдымаш"
 
 msgid "KB"
 msgstr "кБ"
@@ -2315,7 +2315,7 @@ msgid "Line wrap"
 msgstr "Перенос строк"
 
 msgid "Link _name:"
-msgstr "_Имя ссылки:"
+msgstr "_Кылверым лӱмжо:"
 
 msgid "Link target:"
 msgstr "Ссылка на:"
@@ -2327,7 +2327,7 @@ msgid "List Columns"
 msgstr "Столбцы списка"
 
 msgid "List View"
-msgstr "Просмотр в виде списка"
+msgstr "Лӱмер семын ончыкташ"
 
 msgid "List files only"
 msgstr "Только перечисление файлов"
@@ -2386,7 +2386,7 @@ msgid "Location"
 msgstr "Адрес"
 
 msgid "Location _Bar"
-msgstr "Строка _адреса"
+msgstr "Адрес корно"
 
 msgid "Location:"
 msgstr "Адрес:"
@@ -2412,12 +2412,12 @@ msgstr "_Переместить в"
 
 msgid "Ma_ke Link"
 msgid_plural "Ma_ke Links"
-msgstr[0] "Создать сс_ылку"
-msgstr[1] "Создать сс_ылки"
-msgstr[2] "Создать сс_ылки"
+msgstr[0] "Кылверым-влак ямдылаш"
+msgstr[1] "Кылверым-влак ямдылаш"
+msgstr[2] "Кылверым-влак ямдылаш"
 
 msgid "Make a _Link"
-msgstr "Создать сс_ылку"
+msgstr "Кылверым ямдылаш"
 
 msgid "Make a permanent connection to this server"
 msgstr "Создать постоянное соединение с этим сервером"
@@ -2438,7 +2438,7 @@ msgid "Manila Paper"
 msgstr "Манильская бумага"
 
 msgid "Manually"
-msgstr "вручную"
+msgstr "кид дене"
 
 msgid "Mark as _Trusted"
 msgstr "Считать _проверенным"
@@ -2472,10 +2472,10 @@ msgid "Metering Mode"
 msgstr "Режим измерения"
 
 msgid "Mo_ve to Trash"
-msgstr "_Удалить"
+msgstr "_Кораҥдаш"
 
 msgid "Modified:"
-msgstr "Изменён:"
+msgstr "Вашталтыме:"
 
 msgid "Mon, Oct 00 0000 at 00:00 PM"
 msgstr "Пон, 00 окт 0000 в 00:00 ПП"
@@ -2629,10 +2629,10 @@ msgid "Mud"
 msgstr "Грязь"
 
 msgid "Music"
-msgstr "Музыка"
+msgstr "Мурымаш да куштымаш"
 
 msgid "Name"
-msgstr "Имя"
+msgstr "Лӱм"
 
 msgid ""
 "Name of the Nautilus theme to use. This has been deprecated as of Nautilus "
@@ -2704,13 +2704,13 @@ msgid "Nautilus will exit when last window destroyed."
 msgstr "Nautilus будет завершать работу после удаления последнего окна."
 
 msgid "Network"
-msgstr "Сеть"
+msgstr "Вот"
 
 msgid "Network Neighbourhood"
-msgstr "Сетевое окружение"
+msgstr "Вот йырвел"
 
 msgid "Network Servers"
-msgstr "Сетевые серверы"
+msgstr "Вот сервер-влак"
 
 msgid "Network Servers icon visible on the desktop"
 msgstr "Значок «Сетевые серверы» присутствует на рабочем столе"
@@ -2719,25 +2719,25 @@ msgid "Network servers icon name"
 msgstr "Имя значка сетевых серверов"
 
 msgid "Never"
-msgstr "Никогда"
+msgstr "Нигунам"
 
 msgid "Never prompt or autorun/autostart programs when media are inserted"
 msgstr "Никогда не спрашивать и не запускать программы при вставке носителей"
 
 msgid "New _Tab"
-msgstr "Новая в_кладка"
+msgstr "У _ешартыш"
 
 msgid "New _Window"
-msgstr "Создать _окно"
+msgstr "Ум тӧрзам ямдылаш"
 
 msgid "No applications found"
-msgstr "Приложения не найдены"
+msgstr "Пеленлыкым-влак муэмо огыл"
 
 msgid "No applications selected"
 msgstr "Не выбрано ни одно приложение"
 
 msgid "No bookmarks defined"
-msgstr "Нет закладок"
+msgstr "Ешартышым уке"
 
 msgid "No initialized"
 msgstr "Не инициализировано"
@@ -2757,19 +2757,19 @@ msgstr ""
 "открыть этот файл, если скопируете его на свой компьютер."
 
 msgid "No templates installed"
-msgstr "Шаблоны не установлены"
+msgstr "Калып-влак шындаш огыл"
 
 msgid "No versions"
-msgstr "Нет версий"
+msgstr "Версий-влак уке"
 
 msgid "None"
-msgstr "Нет"
+msgstr "Уке"
 
 msgid "None of the files could be added as emblems."
 msgstr "Ни один из файлов не удалось добавить в качестве эмблемы."
 
 msgid "Normal Si_ze"
-msgstr "В обы_чном размере"
+msgstr "Кыда_лаш кугыт"
 
 msgid "Not a launchable item"
 msgstr "Элемент не является запускаемым"
@@ -2784,10 +2784,10 @@ msgid "Not allowed to set permissions"
 msgstr "Запрещено устанавливать права"
 
 msgid "Notes"
-msgstr "Заметки"
+msgstr "Пале-влак"
 
 msgid "Now"
-msgstr "Сейчас"
+msgstr "Кызыт"
 
 msgid "Numbers"
 msgstr "Числа"
@@ -2817,7 +2817,7 @@ msgid "Onyx"
 msgstr "Оникс"
 
 msgid "Open %s"
-msgstr "Открыть %s"
+msgstr "Почаш %s"
 
 msgid "Open %s and other \"%s\" files with:"
 msgstr "Открывать %s и другие файлы типа %s с помощью:"
@@ -2826,7 +2826,7 @@ msgid "Open %s and other %s document with:"
 msgstr "Открывать %s и другие файлы типа %s с помощью:"
 
 msgid "Open %s with:"
-msgstr "Открывать %s с помощью:"
+msgstr "%s почаш дене:"
 
 msgid "Open Failed, would you like to choose another action?"
 msgstr "Открыть не удалось, хотите выбрать другое действие?"
@@ -2838,19 +2838,19 @@ msgid "Open File and Close window"
 msgstr "Открыть файл и закрыть окно"
 
 msgid "Open Folder"
-msgstr "Открыть папку"
+msgstr "Папкем почаш"
 
 msgid "Open Folder W_indow"
-msgstr "Открыть окно _папки"
+msgstr "Папкын тӧрзам почаш"
 
 msgid "Open Location"
-msgstr "Открыть адрес"
+msgstr "Верым почаш"
 
 msgid "Open Wit_h"
-msgstr "Открыть в про_грамме"
+msgstr "Программышто дене почаш"
 
 msgid "Open With"
-msgstr "Открывать в программе"
+msgstr "Программышто дене почаш"
 
 msgid "Open With %s"
 msgstr "Открыть в %s"
@@ -2859,10 +2859,10 @@ msgid "Open With Other _Application..."
 msgstr "Открыть в другой _программе..."
 
 msgid "Open _Location..."
-msgstr "Открыть _адрес..."
+msgstr "Верым _почаш..."
 
 msgid "Open _Parent"
-msgstr "Открыть _родительскую папку"
+msgstr "Ава-папкем почаш"
 
 msgid "Open a folder window for the displayed location"
 msgstr "Открыть окно папки для текущего адреса"
@@ -2934,7 +2934,7 @@ msgid "Open the selected item in this window"
 msgstr "Открыть выделенный объект в этом окне"
 
 msgid "Open the trash"
-msgstr "Открыть корзину"
+msgstr "Комдым почаш"
 
 msgid "Open this folder in a folder window"
 msgstr "Открыть эту папку в окне папки"
@@ -2946,10 +2946,10 @@ msgid "Open this folder in a new tab"
 msgstr "Открыть эту папку в новой вкладке"
 
 msgid "Open with other Application..."
-msgstr "Открыть в другой программе..."
+msgstr "Весе программешто почаш..."
 
 msgid "Open your personal folder"
-msgstr "Открыть вашу личную папку"
+msgstr "Тыйын шке папкем почаш"
 
 msgid "Open your personal templates folder"
 msgstr "Открыть папку личных шаблонов"
@@ -2958,7 +2958,7 @@ msgid "Open your personal trash folder"
 msgstr "Открыть личную папку корзины"
 
 msgid "Opening \"%s\"."
-msgstr "Открывается «%s»."
+msgstr "«%s» поча."
 
 msgid "Opening %d item."
 msgid_plural "Opening %d items."
@@ -3018,13 +3018,13 @@ msgid "Perform or update the search"
 msgstr "Выполнить или обновить поиск"
 
 msgid "Permissions"
-msgstr "Права"
+msgstr "Кӧнымаш"
 
 msgid "Picture"
-msgstr "Изображение"
+msgstr "Сӱрет"
 
 msgid "Places"
-msgstr "Места"
+msgstr "Вер-влак"
 
 msgid "Please check the spelling and try again."
 msgstr "Проверьте правильность ввода и попробуйте ещё раз."
@@ -3047,7 +3047,7 @@ msgstr ""
 "щелчком и \"double\" для запуска файлов двойным щелчком."
 
 msgid "Prefere_nces"
-msgstr "_Параметры"
+msgstr "_Келыштарыш-влак"
 
 msgid "Prepare the selected files to be copied with a Paste command"
 msgstr ""
@@ -3109,7 +3109,7 @@ msgid "Preview _sound files:"
 msgstr "Прослушивать зв_уковые файлы:"
 
 msgid "Properties"
-msgstr "Свойства"
+msgstr "Палык-влак"
 
 msgid "Public FTP"
 msgstr "Публичный FTP"
@@ -3124,7 +3124,7 @@ msgid "Quit Nautilus."
 msgstr "Выйти из Nautilus."
 
 msgid "R_estore"
-msgstr "_Восстановление"
+msgstr "_Мӧҥгештараш"
 
 msgid "Rating"
 msgstr "Рейтинг"
@@ -3133,43 +3133,43 @@ msgid "Re_name"
 msgstr "Пере_именовать"
 
 msgid "Re_versed Order"
-msgstr "В _обратном порядке"
+msgstr "Тупелам ойыркалаш"
 
 msgid "Read and write"
-msgstr "Чтение и запись"
+msgstr "Лудаш да возаш"
 
 msgid "Read-only"
 msgstr "Только чтение"
 
 msgid "Redo Edit"
-msgstr "Вернуть изменение"
+msgstr "Вашталтымашым пӧртылташ"
 
 msgid "Redo the edit"
-msgstr "Вернуть последнее изменение"
+msgstr "Пытартышым вашталтымашым пӧртылташ"
 
 msgid "Reload"
-msgstr "Перезагрузить"
+msgstr "Уэш колташ"
 
 msgid "Reload the current location"
-msgstr "Перезагрузить текущий адрес"
+msgstr "Кызытсе адресым уэш колташ"
 
 msgid "Remove"
-msgstr "Удалить"
+msgstr "Кораҥдаш"
 
 msgid "Remove this criterion from the search"
 msgstr "Удалить этот критерий из поиска"
 
 msgid "Rename"
-msgstr "Переименовать"
+msgstr "Уэш лӱмдаш"
 
 msgid "Rename Emblem"
-msgstr "Переименовать эмблему"
+msgstr "Сын тамгам уэш лӱмдаш"
 
 msgid "Rename selected item"
 msgstr "Переименовать выделенный объект"
 
 msgid "Rename..."
-msgstr "Переименовать..."
+msgstr "Уэш лӱмдаш..."
 
 msgid "Renaming \"%s\" to \"%s\"."
 msgstr "Объект «%s» переименовывается в «%s»."
@@ -3178,7 +3178,7 @@ msgid "Replace"
 msgstr "Заменить"
 
 msgid "Replace _All"
-msgstr "Заменить _всё"
+msgstr "Чыла алмашташ"
 
 msgid "Replace file \"%s\"?"
 msgstr "Заменить файл «%s»?"
@@ -3200,10 +3200,10 @@ msgstr ""
 "Переставить значки для лучшего заполнения окна и предотвращения перекрывания"
 
 msgid "Reset"
-msgstr "Сброс"
+msgstr "Кудалташ"
 
 msgid "Reset View to _Defaults"
-msgstr "Сб_росить параметры просмотра"
+msgstr "Ончылмашым параметр-влак кудалташ"
 
 msgid "Reset is a special image that cannot be deleted."
 msgstr "Сброс — это специальное изображение, которое не может быть удалено."
@@ -3217,13 +3217,13 @@ msgid "Resize Icon..."
 msgstr "Изменить размер значка..."
 
 msgid "Resolution"
-msgstr "Разрешение"
+msgstr "Кӧнымаш"
 
 msgid "Restore Icon's Original Si_ze"
-msgstr "Вернуть ис_ходный размер значка"
+msgstr "Тамгаже тӱҥалтыш кугытым мӧҥгештараш"
 
 msgid "Restore Icons' Original Si_zes"
-msgstr "Вернуть ис_ходные размеры значков"
+msgstr "Тамгаже-влак тӱҥалтыш кугытым мӧҥгештараш"
 
 msgid "Restore Selected Items"
 msgstr "Восстановить выделенные объекты"
@@ -3262,13 +3262,13 @@ msgid "Run \"%s\" on any selected items"
 msgstr "Использовать приложение «%s» для выделенных объектов"
 
 msgid "Run Application..."
-msgstr "Запустить приложение..."
+msgstr "Пеленлыкым колташ..."
 
 msgid "Run an application by typing a command or choosing from a list"
 msgstr "Запустить приложение командой или выбором из списка"
 
 msgid "Run in _Terminal"
-msgstr "Запустить в _терминале"
+msgstr "Терминалышто колта"
 
 msgid "Run or manage scripts from %s"
 msgstr "Запуск или управление сценариями из %s"
@@ -3286,7 +3286,7 @@ msgid "S_how Search"
 msgstr "Показать по_иск"
 
 msgid "S_kip All"
-msgstr "Пропу_стить всё"
+msgstr "Чыла коден каяш"
 
 msgid "S_witch to Other Pane"
 msgstr "Переключиться в другую панель"
@@ -3328,13 +3328,13 @@ msgid "Scanning for versions"
 msgstr "Сканирование версий"
 
 msgid "Screen _Resolution..."
-msgstr "_Разрешение экрана..."
+msgstr "_Экраным точко чот..."
 
 msgid "Sea Foam"
 msgstr "Морская пена"
 
 msgid "Search"
-msgstr "Поиск"
+msgstr "Кычалмаш"
 
 msgid "Search Folder"
 msgstr "Папка поиска"
@@ -3346,7 +3346,7 @@ msgid "Search documents and folders by name"
 msgstr "Искать документы и папки по имени"
 
 msgid "Search for \"%s\""
-msgstr "Поиск «%s»"
+msgstr "«%s» кычалмаш"
 
 msgid "Search for files by file name and file properties"
 msgstr "Искать файлы по имени и свойствам"
@@ -3355,16 +3355,16 @@ msgid "Search for files by file name only"
 msgstr "Искать файлы только по имени"
 
 msgid "Search results"
-msgstr "Результаты поиска"
+msgstr "Кычалмашым результат-влак"
 
 msgid "Search:"
-msgstr "Искать:"
+msgstr "Кычалмаш:"
 
 msgid "Secure WebDAV (HTTPS)"
 msgstr "Защищенный WebDAV (HTTPS)"
 
 msgid "Select All"
-msgstr "Выделить всё"
+msgstr "Чыла палемдаш"
 
 msgid "Select Custom Icon"
 msgstr "Выбрать другой значок"
@@ -3373,13 +3373,13 @@ msgid "Select Folder to Save Search In"
 msgstr "Выберите папку для сохранения поиска"
 
 msgid "Select I_tems Matching..."
-msgstr "Выделить о_бъекты по шаблону..."
+msgstr "Объектым-влак кал_ып дене палемдаш..."
 
 msgid "Select Items Matching"
-msgstr "Выделить объекты по шаблону"
+msgstr "Объектым-влак калып дене палемдаш"
 
 msgid "Select _All"
-msgstr "Выделить вс_ё"
+msgstr "Чыла палем_даш"
 
 msgid "Select a Category:"
 msgstr "Выбрать категорию:"
@@ -3397,7 +3397,7 @@ msgid "Select all the text in a text field"
 msgstr "Выделить весь текст в текстовом поле"
 
 msgid "Select an Application"
-msgstr "Выбрать приложение"
+msgstr "Пеленлыкым ойыраш"
 
 msgid "Select an Image File for the New Emblem"
 msgstr "Выбрать изображение для новой эмблемы"
@@ -3464,31 +3464,31 @@ msgid "Shale"
 msgstr "Сланец"
 
 msgid "Show Emblems"
-msgstr "Показывать эмблемы"
+msgstr "Сын тамгам-влак ончыкташ"
 
 msgid "Show History"
-msgstr "Показать историю"
+msgstr "Историйым ончыкташ"
 
 msgid "Show Information"
-msgstr "Показать сведения"
+msgstr "Уверым-влакы ончыкташ"
 
 msgid "Show Notes"
-msgstr "Показать заметки"
+msgstr "Палем ончыкташ"
 
 msgid "Show Places"
-msgstr "Показать места"
+msgstr "Вер-влакым ончыкташ"
 
 msgid "Show Tree"
-msgstr "Показать дерево"
+msgstr "Пушеҥгем ончыкташ"
 
 msgid "Show _Hidden Files"
-msgstr "Показывать скр_ытые файлы"
+msgstr "Шылтыме файл-влак ончыкташ"
 
 msgid "Show _only folders"
-msgstr "По_казывать только папки"
+msgstr "_Папкем гына ончыкташ"
 
 msgid "Show _thumbnails:"
-msgstr "Показывать _миниатюры:"
+msgstr "_Миниатюрым ончыкташ:"
 
 msgid ""
 "Show a window that lets you set your desktop background's pattern or color"
@@ -3506,7 +3506,7 @@ msgid "Show folders first in windows"
 msgstr "Показывать папки перед файлами в окнах"
 
 msgid "Show hidden and _backup files"
-msgstr "Показывать скрытые и р_езервные файлы"
+msgstr "Шылтыме да шапаш файл-влак ончыкташ"
 
 msgid "Show location bar in new windows"
 msgstr "Показывать строку адреса в новых окнах"
@@ -3551,13 +3551,13 @@ msgid "Silver"
 msgstr "Серебро"
 
 msgid "Size"
-msgstr "Размер"
+msgstr "Кугыт"
 
 msgid "Size:"
-msgstr "Размер:"
+msgstr "Кугыт:"
 
 msgid "Sky"
-msgstr "Небо"
+msgstr "Кава"
 
 msgid "Sky Ridge"
 msgstr "Небесные волны"
@@ -3572,7 +3572,7 @@ msgid "Snow Ridge"
 msgstr "Снежные волны"
 
 msgid "Software"
-msgstr "Программы"
+msgstr "Программе-влак"
 
 msgid "Some files will not be displayed."
 msgstr "Некоторые файлы не будут показаны."
@@ -3716,7 +3716,7 @@ msgid "Spreadsheet"
 msgstr "Электронная таблица"
 
 msgid "St_atusbar"
-msgstr "Строка _состояния"
+msgstr "Улмым ончыктышо корно"
 
 msgid "Start the drive associated with the open folder"
 msgstr "Запустить привод, связанный с открытой папкой"
@@ -4051,13 +4051,13 @@ msgid "The name \"%s\" is not valid. Please use a different name."
 msgstr "Имя «%s» недопустимо. Выберите другое имя."
 
 msgid "The name and icon of the file."
-msgstr "Имя и значок файла."
+msgstr "Файлын лӱм да тамга."
 
 msgid "The owner could not be changed."
 msgstr "Не удалось изменить владельца."
 
 msgid "The owner of the file."
-msgstr "Владелец файла."
+msgstr "Файл оза."
 
 msgid "The permissions could not be changed."
 msgstr "Не удалось изменить права."
@@ -4087,7 +4087,7 @@ msgstr ""
 "новых окнах."
 
 msgid "The size of the file."
-msgstr "Размер файла."
+msgstr "Файлыжо кугыт."
 
 msgid ""
 "The software will run directly from the medium \"%s\". You should never run "
@@ -4328,7 +4328,7 @@ msgid "Total capacity:"
 msgstr "Общий объём:"
 
 msgid "Trash"
-msgstr "Корзина"
+msgstr "Комдо"
 
 msgid "Trash icon visible on desktop"
 msgstr "Значок корзины присутствует на рабочем столе"
@@ -4340,7 +4340,7 @@ msgid "Trashing Files"
 msgstr "Перемещение файлов в корзину"
 
 msgid "Tree"
-msgstr "Дерево"
+msgstr "Пушеҥге"
 
 msgid "Type"
 msgstr "Тип"
@@ -4418,7 +4418,7 @@ msgid "Undo the last text change"
 msgstr "Отменить последнее изменение текста"
 
 msgid "Unknown"
-msgstr "Неизвестный"
+msgstr "Палыме огыл"
 
 msgid "Unlock the drive associated with the open folder"
 msgstr "Разблокировать привод, связанный с открытой папкой"
@@ -4451,7 +4451,7 @@ msgstr[1] "Использовать приложение «%s» для откр�
 msgstr[2] "Использовать приложение «%s» для открытия выделенных объектов"
 
 msgid "Use De_fault"
-msgstr "По _умолчанию"
+msgstr "Пеҥгыдемдыме _семын кучылташ"
 
 msgid "Use _Default Background"
 msgstr "_Вернуть стандартный фон"
@@ -4492,10 +4492,10 @@ msgid "View the versions of this file available in ZFS snapshots"
 msgstr "Просмотр версий этого файла, доступных в снимках ZFS"
 
 msgid "View versions"
-msgstr "Просмотр версий"
+msgstr "Версий ончымаш"
 
 msgid "Views"
-msgstr "Вид"
+msgstr "Сын"
 
 msgid "Violet"
 msgstr "Фиолетовый"
@@ -4586,7 +4586,7 @@ msgid "Whether to show backup files"
 msgstr "Показывать ли резервные копии файлов"
 
 msgid "Whether to show hidden files"
-msgstr "Показывать ли скрытые файлы"
+msgstr "Шылтыме файлым-влак ончыкташ лиеш мо?"
 
 msgid ""
 "Whether to show the user a package installer dialog in case an unknown mime "
@@ -4617,7 +4617,7 @@ msgid "Y"
 msgstr "Y"
 
 msgid "Yesterday at %H:%M"
-msgstr "Вчера в %H:%M"
+msgstr "Теҥгече, %H:%M"
 
 msgid "You are not the owner, so you cannot change these permissions."
 msgstr "Вы не являетесь владельцем, поэтому вы не можете изменить эти права."
@@ -4736,22 +4736,22 @@ msgstr ""
 "Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA"
 
 msgid "Zoom"
-msgstr "Масштабировать"
+msgstr "Масштабироватлаш"
 
 msgid "Zoom In"
-msgstr "Увеличить масштаб"
+msgstr "Масштабым шолдыранрак"
 
 msgid "Zoom Out"
-msgstr "Уменьшить масштаб"
+msgstr "Масштабым тыгыдынрак"
 
 msgid "Zoom _In"
-msgstr "У_величить"
+msgstr "Ш_олдыранрак"
 
 msgid "Zoom _Out"
-msgstr "У_меньшить"
+msgstr "Т_ыгыдынрак"
 
 msgid "Zoom to Default"
-msgstr "Масштаб по умолчанию"
+msgstr "Пеҥгыдемдыме семын масштаб"
 
 msgid "[URI...]"
 msgstr "[URI...]"
@@ -4760,43 +4760,43 @@ msgid "[URI]"
 msgstr "[URI]"
 
 msgid "_About"
-msgstr "_О программе"
+msgstr "_Программе нерген"
 
 msgid "_Add"
-msgstr "_Добавить"
+msgstr "_Ешараш"
 
 msgid "_Add Bookmark"
-msgstr "_Добавить закладку"
+msgstr "_Пыштыме палым ешараш"
 
 msgid "_Add a New Color..."
-msgstr "_Добавить новый цвет..."
+msgstr "_Ум тӱсым ешараш..."
 
 msgid "_Add a New Emblem..."
-msgstr "_Добавить новую эмблему..."
+msgstr "_Ум сын тамгам ямдылаш..."
 
 msgid "_Add a New Pattern..."
 msgstr "_Добавить новый орнамент..."
 
 msgid "_Always"
-msgstr "_Всегда"
+msgstr "_Эре"
 
 msgid "_Always perform this action"
 msgstr "_Всегда выполнять это действие"
 
 msgid "_Arrange items:"
-msgstr "_Выстраивать элементы:"
+msgstr "_Элементым радамлаш:"
 
 msgid "_Ask each time"
-msgstr "Каждый раз спр_ашивать"
+msgstr "Кажне гана йодышташ"
 
 msgid "_Back"
-msgstr "На_зад"
+msgstr "Шеҥ_гек"
 
 msgid "_Backgrounds and Emblems..."
-msgstr "_Фон и эмблемы..."
+msgstr "_Фон да сын тамга-влак..."
 
 msgid "_Bookmarks"
-msgstr "_Закладки"
+msgstr "_Пыштыме пале-влак"
 
 msgid "_Browse Folder"
 msgid_plural "_Browse Folders"
@@ -4805,13 +4805,13 @@ msgstr[1] "Открыть _папки в обозревателе"
 msgstr[2] "Открыть _папки в обозревателе"
 
 msgid "_Browse..."
-msgstr "_Просмотреть..."
+msgstr "_Ончыкташ..."
 
 msgid "_Close"
-msgstr "_Закрыть"
+msgstr "_Петыраш"
 
 msgid "_Close Tab"
-msgstr "_Закрыть вкладку"
+msgstr "_Пыштыме палым петыраш"
 
 msgid "_Compact"
 msgstr "_Компактный"
@@ -4820,16 +4820,16 @@ msgid "_Computer"
 msgstr "_Компьютер"
 
 msgid "_Connect"
-msgstr "_Соединиться"
+msgstr "_Ушнымаш"
 
 msgid "_Connect Drive"
 msgstr "_Подключить привод"
 
 msgid "_Contents"
-msgstr "_Содержание"
+msgstr "_Вуйлымаш"
 
 msgid "_Copy Here"
-msgstr "С_копировать сюда"
+msgstr "Тышке копийым ышташ"
 
 msgid "_DVD Video:"
 msgstr "_Видео на DVD:"
@@ -4844,19 +4844,19 @@ msgid "_Delete Permanently"
 msgstr "_Удалить окончательно"
 
 msgid "_Desktop"
-msgstr "_Рабочий стол"
+msgstr "_Паша ӱстел"
 
 msgid "_Detect Media"
 msgstr "Опреде_лить носитель"
 
 msgid "_Disconnect"
-msgstr "_Отсоединиться"
+msgstr "_Йӧрташ"
 
 msgid "_Disconnect Drive"
 msgstr "_Отключить привод"
 
 msgid "_Display"
-msgstr "По_казать"
+msgstr "Ончыкташ"
 
 msgid "_Domain Name:"
 msgstr "_Домен:"
@@ -4865,28 +4865,28 @@ msgid "_Double click to open items"
 msgstr "_Двойной щелчок запускает объекты"
 
 msgid "_Download"
-msgstr "_Скачать"
+msgstr "_Пышташ"
 
 msgid "_Edit"
-msgstr "_Правка"
+msgstr "_Вашталташ"
 
 msgid "_Edit Bookmarks..."
-msgstr "_Изменить закладки..."
+msgstr "_Пыштыме палем-влак вашталташ..."
 
 msgid "_Eject"
-msgstr "_Извлечь"
+msgstr "_Йӧрташ"
 
 msgid "_Emblems"
-msgstr "_Эмблемы"
+msgstr "_Сын тамга-влак"
 
 msgid "_Empty File"
-msgstr "_Пустой файл"
+msgstr "_Яра файл"
 
 msgid "_File"
 msgstr "_Файл"
 
 msgid "_Folder:"
-msgstr "_Папка:"
+msgstr "_Папке:"
 
 msgid "_Format"
 msgstr "_Форматировать"
@@ -4895,46 +4895,46 @@ msgid "_Format:"
 msgstr "_Формат:"
 
 msgid "_Forward"
-msgstr "В_перёд"
+msgstr "О_нчык"
 
 msgid "_Go"
-msgstr "Пере_ход"
+msgstr "Кусн_ымаш"
 
 msgid "_Group:"
-msgstr "_Группа:"
+msgstr "_Тӱшка:"
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Home"
-msgstr "_Домой"
+msgstr "_Мӧҥгӧ"
 
 msgid "_Home Folder"
-msgstr "_Домашняя папка"
+msgstr "_Мӧҥгысӧ папк"
 
 msgid "_Icons"
-msgstr "_Значки"
+msgstr "_Тамга-влак"
 
 msgid "_Image:"
-msgstr "_Изображение:"
+msgstr "_Сӱрет:"
 
 msgid "_Invert Selection"
-msgstr "_Обратить выделение"
+msgstr "_Палемдымым савыралаш"
 
 msgid "_Keep Aligned"
-msgstr "Сохранять в_ыровненными"
+msgstr "Тӧремдымем арален кодаш"
 
 msgid "_Keyword:"
 msgstr "_Ключевое слово:"
 
 msgid "_Launch Anyway"
-msgstr "_Запустить всё-равно"
+msgstr "_Садыгак колташ"
 
 msgid "_Link Here"
-msgstr "Создать здесь _ссылку"
+msgstr "Тушто кылверым ямде"
 
 msgid "_List"
-msgstr "С_писок"
+msgstr "Лӱм_ер"
 
 msgid "_Local File Only"
 msgstr "Только для _локальных файлов"
@@ -4952,16 +4952,16 @@ msgid "_Lock Drive"
 msgstr "Б_локировать привод"
 
 msgid "_Main Toolbar"
-msgstr "_Основная панель инструментов"
+msgstr "_Тӱҥ ӱзгар оҥа"
 
 msgid "_Manually"
-msgstr "_вручную"
+msgstr "_Кид дене"
 
 msgid "_Merge"
 msgstr "Сов_местить"
 
 msgid "_Mount"
-msgstr "_Присоединить"
+msgstr "_Ушаш"
 
 msgid "_Move Here"
 msgstr "Пере_местить сюда"
@@ -4976,10 +4976,10 @@ msgstr[1] "_Имена:"
 msgstr[2] "_Имена:"
 
 msgid "_Network"
-msgstr "_Сеть"
+msgstr "_Вот"
 
 msgid "_Never"
-msgstr "_Никогда"
+msgstr "_Нигунам"
 
 msgid "_Never prompt or start programs on media insertion"
 msgstr "_Никогда не спрашивать и не запускать программы при вставке носителей"
@@ -4991,7 +4991,7 @@ msgid "_Only for files smaller than:"
 msgstr "То_лько для файлов меньше, чем:"
 
 msgid "_Open"
-msgstr "_Открыть"
+msgstr "_Почаш"
 
 msgid "_Open Scripts Folder"
 msgstr "Открыть папку с_ценариев"
@@ -5006,43 +5006,43 @@ msgid "_Organize by Name"
 msgstr "Расставить по имени"
 
 msgid "_Other pane"
-msgstr "_Другая панель..."
+msgstr "_Весе оҥа..."
 
 msgid "_Owner:"
-msgstr "_Владелец:"
+msgstr "_Оза:"
 
 msgid "_Paste Into Folder"
-msgstr "Вст_авить в папку"
+msgstr "Папкышто шындаш"
 
 msgid "_Pattern:"
-msgstr "_Шаблон:"
+msgstr "_Калып:"
 
 msgid "_Patterns"
 msgstr "_Орнаменты"
 
 msgid "_Photos:"
-msgstr "_Фотографии:"
+msgstr "_Сӱрет-влак:"
 
 msgid "_Places"
-msgstr "Пере_ход"
+msgstr "Вер-влак"
 
 msgid "_Port:"
 msgstr "_Порт:"
 
 msgid "_Power On"
-msgstr "_Включить"
+msgstr "_Чӱкташ"
 
 msgid "_Previous Tab"
-msgstr "_Предыдущая вкладка"
+msgstr "_Ончычсо ешартыш"
 
 msgid "_Properties"
-msgstr "_Свойства"
+msgstr "_Палык-влак"
 
 msgid "_Read"
-msgstr "_Чтение"
+msgstr "_Лудаш"
 
 msgid "_Reload"
-msgstr "Переза_грузить"
+msgstr "Уэш ко_лташ"
 
 msgid "_Remember this application for \"%s\" files"
 msgstr "_Запомнить это приложение для файлов типа «%s»"
@@ -5051,31 +5051,31 @@ msgid "_Remember this application for %s documents"
 msgstr "_Запомнить приложение для файлов типа %s"
 
 msgid "_Remove a Color..."
-msgstr "_Удалить цвет..."
+msgstr "_Тӱсым кораҥдаш..."
 
 msgid "_Remove a Pattern..."
 msgstr "_Удалить орнамент..."
 
 msgid "_Remove an Emblem..."
-msgstr "_Удалить эмблему..."
+msgstr "_Сын тамгам кораҥдаш..."
 
 msgid "_Remove..."
-msgstr "_Удалить... "
+msgstr "_Кораҥдаш... "
 
 msgid "_Rename..."
-msgstr "Переи_меновать..."
+msgstr "Уэш л_ӱмдаш..."
 
 msgid "_Replace"
-msgstr "_Заменить"
+msgstr "_Алмашташ"
 
 msgid "_Restore"
-msgstr "Вос_становить"
+msgstr "Мӧҥ_гештараш"
 
 msgid "_Retry"
-msgstr "Повто_рить"
+msgstr "Угыч _тӧчаш"
 
 msgid "_Run"
-msgstr "За_пустить"
+msgstr "Ко_лташ"
 
 msgid "_Run executable text files when they are opened"
 msgstr "_Запускать исполняемые текстовые файлы при открытии"
@@ -5084,19 +5084,19 @@ msgid "_Safely Remove Drive"
 msgstr "_Безопасно удалить привод"
 
 msgid "_Scripts"
-msgstr "С_ценарии"
+msgstr "С_ценарий-влак"
 
 msgid "_Search"
-msgstr "_Искать"
+msgstr "_Кычалмаш"
 
 msgid "_Search for Files..."
-msgstr "Ис_кать файлы..."
+msgstr "Файл-влак кычалмаш..."
 
 msgid "_Search for:"
-msgstr "_Искать:"
+msgstr "_Кычалмаш:"
 
 msgid "_Select Application"
-msgstr "Вы_брать приложение"
+msgstr "Пеленлыкым ойыраш"
 
 msgid "_Select a new name for the destination"
 msgstr "Введите новое имя назначения"
@@ -5108,22 +5108,22 @@ msgid "_Share:"
 msgstr "_Ресурс:"
 
 msgid "_Side Pane"
-msgstr "_Боковая панель"
+msgstr "_Ӧрдыж оҥа"
 
 msgid "_Single click to open items"
 msgstr "Од_инарный щелчок запускает объекты"
 
 msgid "_Skip"
-msgstr "_Пропустить"
+msgstr "_Коден каяш"
 
 msgid "_Skip files"
 msgstr "_Пропустить файлы"
 
 msgid "_Software:"
-msgstr "П_рограммы:"
+msgstr "П_рограмме-влак:"
 
 msgid "_Start"
-msgstr "_Запуск"
+msgstr "_Колташ"
 
 msgid "_Start Multi-disk Device"
 msgstr "_Запустить мультидисковый привод"
@@ -5135,7 +5135,7 @@ msgid "_Sticky"
 msgstr "_Липкий (sticky)"
 
 msgid "_Stop"
-msgstr "Ос_тановить"
+msgstr "Ча_раш"
 
 msgid "_Stop Multi-disk Device"
 msgstr "О_становить мультидисковый привод"
@@ -5147,19 +5147,19 @@ msgid "_Stop the drive associated with the open folder"
 msgstr "_Остановить привод, связанный с открытой папкой"
 
 msgid "_Tabs"
-msgstr "В_кладки"
+msgstr "Пыштыме палым-влак"
 
 msgid "_Text beside icons"
 msgstr "_Текст рядом со значками"
 
 msgid "_Trash"
-msgstr "_Корзина"
+msgstr "_Комдо"
 
 msgid "_Type:"
 msgstr "_Тип:"
 
 msgid "_Undo"
-msgstr "_Отменить"
+msgstr "_Кораҥдаш"
 
 msgid "_Unlock Drive"
 msgstr "_Разблокировать привод"
@@ -5177,10 +5177,10 @@ msgid "_Use compact layout"
 msgstr "Использовать плотное разме_щение"
 
 msgid "_User Name:"
-msgstr "_Имя пользователя:"
+msgstr "_Пайдаланышын лӱмжӧ:"
 
 msgid "_View"
-msgstr "_Вид"
+msgstr "_Сын"
 
 msgid "_View As"
 msgstr "Просматривать _как"
@@ -5189,13 +5189,13 @@ msgid "_View executable text files when they are opened"
 msgstr "П_росматривать исполняемые текстовые файлы при открытии"
 
 msgid "_Write"
-msgstr "За_пись"
+msgstr "Во_заш"
 
 msgid "_Zoom"
-msgstr "Мас_штабировать"
+msgstr "Мас_штабироватлаш"
 
 msgid "access"
-msgstr "доступ"
+msgstr "кӧнымаш"
 
 msgid "approximately %'d hour"
 msgid_plural "approximately %'d hours"
@@ -5204,22 +5204,22 @@ msgstr[1] "примерно %'d часа"
 msgstr[2] "примерно %'d часов"
 
 msgid "by Modification _Date"
-msgstr "по _дате изменения"
+msgstr "ваш_талтымем датем дене"
 
 msgid "by T_rash Time"
 msgstr "по времени удаления в корзину"
 
 msgid "by _Emblems"
-msgstr "по _эмблемам"
+msgstr "сын там_гам дене"
 
 msgid "by _Name"
-msgstr "по _имени"
+msgstr "лӱм _дене"
 
 msgid "by _Size"
-msgstr "по _размеру"
+msgstr "кугыт де_не"
 
 msgid "by _Type"
-msgstr "по _типу"
+msgstr "тип _дене"
 
 msgid "create/delete"
 msgstr "создание/удаление"
@@ -5246,7 +5246,7 @@ msgid "identical to latest version"
 msgstr "не отличается от предыдущей версии"
 
 msgid "link"
-msgstr "ссылка"
+msgstr "кылвер"
 
 msgid "link (broken)"
 msgstr "ссылка (испорченная)"
@@ -5277,22 +5277,22 @@ msgid "new file"
 msgstr "новый файл"
 
 msgid "no "
-msgstr "нет "
+msgstr "уке "
 
 msgid "no other version"
 msgstr "нет другой версии"
 
 msgid "no version"
-msgstr "нет версии"
+msgstr "версий уке"
 
 msgid "not present in latest version"
 msgstr "отсутствует в предыдущей версии"
 
 msgid "nothing"
-msgstr "ничего"
+msgstr "нимоат"
 
 msgid "on the desktop"
-msgstr "на рабочем столе"
+msgstr "паша ӱстелышто"
 
 msgid "open a browser window."
 msgstr "открыть окно обозревателя."
@@ -5310,19 +5310,19 @@ msgid "present in latest version"
 msgstr "присутствует в предыдущей версии"
 
 msgid "program"
-msgstr "программа"
+msgstr "программе"
 
 msgid "rd copy)"
 msgstr "-я копия)"
 
 msgid "read"
-msgstr "чтение"
+msgstr "лудаш"
 
 msgid "snapshot"
 msgid_plural "snapshots"
-msgstr[0] "снимок"
-msgstr[1] "снимки"
-msgstr[2] "снимки"
+msgstr[0] "войзыш"
+msgstr[1] "войзыш"
+msgstr[2] "войзыш"
 
 msgid "st copy)"
 msgstr "-я копия)"
@@ -5331,13 +5331,13 @@ msgid "th copy)"
 msgstr "-я копия)"
 
 msgid "today"
-msgstr "сегодня"
+msgstr "таче"
 
 msgid "today at %-I:%M %p"
-msgstr "сегодня в %-H:%M %p"
+msgstr "таче в %-H:%M %p"
 
 msgid "today at %-I:%M:%S %p"
-msgstr "сегодня в %-H:%M:%S %p"
+msgstr "таче в %-H:%M:%S %p"
 
 msgid "today at 00:00 PM"
 msgstr "сегодня в 00:00"
@@ -5346,10 +5346,10 @@ msgid "today at 00:00:00 PM"
 msgstr "сегодня в 00:00:00"
 
 msgid "today, %-I:%M %p"
-msgstr "сегодня, %-H:%M %p"
+msgstr "таче, %-H:%M %p"
 
 msgid "today, 00:00 PM"
-msgstr "сегодня, 00:00"
+msgstr "таче, 00:00"
 
 msgid "translator-credits"
 msgstr ""
@@ -5362,7 +5362,7 @@ msgstr ""
 "Юрий Пенкин <yuriy.penkin@gmail.com>, 2008"
 
 msgid "unknown"
-msgstr "неизвестно"
+msgstr "палыдыме"
 
 msgid "unknown MIME type"
 msgstr "неизвестный тип MIME"
@@ -5374,40 +5374,40 @@ msgid "unreadable"
 msgstr "нечитаемо"
 
 msgid "untitled folder"
-msgstr "новая папка"
+msgstr "У папке"
 
 msgid "updating"
 msgstr "обновление"
 
 msgid "used"
-msgstr "использовано"
+msgstr "кучылталтше"
 
 msgid "version"
-msgstr "версия"
+msgstr "версий"
 
 msgid "versions"
-msgstr "версии"
+msgstr "версий-влак"
 
 msgid "write"
-msgstr "запись"
+msgstr "возаш"
 
 msgid "yesterday"
-msgstr "вчера"
+msgstr "теҥгече"
 
 msgid "yesterday at %-I:%M %p"
-msgstr "вчера в %-H:%M"
+msgstr "теҥгече %-H:%M"
 
 msgid "yesterday at %-I:%M:%S %p"
-msgstr "вчера в %-H:%M:%S"
+msgstr "теҥгече %-H:%M:%S"
 
 msgid "yesterday at 00:00 PM"
-msgstr "вчера в 00:00"
+msgstr "теҥгече 00:00"
 
 msgid "yesterday at 00:00:00 PM"
-msgstr "вчера в 00:00:00"
+msgstr "теҥгече 00:00:00"
 
 msgid "yesterday, %-I:%M %p"
-msgstr "вчера, %-H:%M"
+msgstr "теҥгече, %-H:%M"
 
 msgid "yesterday, 00:00 PM"
 msgstr "вчера, 00:00"

@@ -20,7 +20,7 @@ msgid "<b>Some programs are still running:</b>"
 msgstr "<b>Некоторые программы всё еще работают:</b>"
 
 msgid "A program is still running:"
-msgstr "Программа всё ещё работает:"
+msgstr "Программе эше паша:"
 
 msgid "Add Startup Program"
 msgstr "Новая автоматически запускаемая программа"
@@ -38,13 +38,13 @@ msgid "Can't pass document URIs to a 'Type=Link' desktop entry"
 msgstr "Не удалось передать URI документа элементу рабочего стола 'Type=Link'"
 
 msgid "Cancel"
-msgstr "Отмена"
+msgstr "Кораҥдымаш"
 
 msgid "Choose what applications to start when you log in"
 msgstr "Выберите приложения, запускаемые при входе в сеанс"
 
 msgid "Co_mmand:"
-msgstr "_Команда:"
+msgstr "_Кӱштымаш:"
 
 msgid "Comm_ent:"
 msgstr "Ко_мментарий:"
@@ -56,7 +56,7 @@ msgid "Could not create ICE listening socket: %s"
 msgstr "Не удалось создать сокет, слушающий ICE: %s"
 
 msgid "Could not display help document"
-msgstr "Не удалось показать документацию"
+msgstr "Не удается отобразить справку"
 
 msgid "Default session"
 msgstr "Сеанс по умолчанию"
@@ -77,7 +77,7 @@ msgid "Enable debugging code"
 msgstr "Включить отладочный код"
 
 msgid "Enabled"
-msgstr "Включено"
+msgstr "Чӱктымо"
 
 msgid "FILE"
 msgstr "ФАЙЛ"
@@ -101,7 +101,7 @@ msgid "ID"
 msgstr "ID"
 
 msgid "Icon"
-msgstr "Значок"
+msgstr "Тамга"
 
 msgid "Icon '%s' not found"
 msgstr "Значок «%s» не найден"
@@ -137,55 +137,55 @@ msgstr ""
 "удалены."
 
 msgid "Lock Screen"
-msgstr "Заблокировать экран"
+msgstr "Экран тӱкылаш"
 
 msgid "Log Out Anyway"
 msgstr "Всё равно выйти из системы"
 
 msgid "Log out"
-msgstr "Завершить сеанс"
+msgstr "Cеанс мучашлымаш"
 
 msgid "Log out of this system now?"
-msgstr "Выйти из системы сейчас?"
+msgstr "Кызыт сеанс мучашлымаш?"
 
 msgid "Log out, ignoring any existing inhibitors"
-msgstr "Завершить сеанс, игнорируя любые существующие препятствия"
+msgstr "Cеанс мучашлымаш, кеч-могай илат чарак-влак ончыде"
 
 msgid "Logout prompt"
 msgstr "Запрос при выходе из сеанса"
 
 msgid "NAME"
-msgstr "НАЗВАНИЕ"
+msgstr "ЛӰМ"
 
 msgid "No description"
-msgstr "Нет описания"
+msgstr "Уке возен ончыктымаш"
 
 msgid "No name"
-msgstr "Нет имени"
+msgstr "Лӱм уке"
 
 msgid "Not a launchable item"
 msgstr "Не является запускаемым элементом"
 
 msgid "Not responding"
-msgstr "Не отвечает"
+msgstr "Вашешта огыл"
 
 msgid "Options"
-msgstr "Параметры"
+msgstr "Параметр-влак"
 
 msgid "Override standard autostart directories"
 msgstr "Игнорировать стандартные папки автозапуска"
 
 msgid "Panel"
-msgstr "Панель"
+msgstr "Оҥа"
 
 msgid "Program"
-msgstr "Программа"
+msgstr "Программе"
 
 msgid "Program called with conflicting options"
 msgstr "Программа была вызвана с конфликтующими параметрами"
 
 msgid "Reboot Anyway"
-msgstr "Всё равно перезагрузить"
+msgstr "Садак уэш колташ"
 
 msgid ""
 "Refusing new client connection because the session is currently being shut "
@@ -198,13 +198,13 @@ msgid "Required session components"
 msgstr "Требуемые компоненты сеанса"
 
 msgid "S_uspend"
-msgstr "_Ждущий режим"
+msgstr "_Вучымо режим"
 
 msgid "Save sessions"
-msgstr "Сохранять сеансы"
+msgstr "Сеан-влак арален кодаш"
 
 msgid "Select Command"
-msgstr "Выберите команду"
+msgstr "Кӱштымашым ойыраш"
 
 msgid "Session management options:"
 msgstr "Параметры управления сеансами:"
@@ -225,7 +225,7 @@ msgid "Shut Down Anyway"
 msgstr "Всё равно выключить"
 
 msgid "Shut down this system now?"
-msgstr "Выключить систему сейчас?"
+msgstr "Кызыт пашам мучашлымаш лиеш мо?"
 
 msgid "Some programs are still running:"
 msgstr "Некоторые программы всё ещё работают:"
@@ -237,19 +237,19 @@ msgid "Specify session management ID"
 msgstr "Указать идентификатор управления сеансом"
 
 msgid "Starting %s"
-msgstr "Запускается «%s»"
+msgstr "«%s» колта..."
 
 msgid "Startup Applications"
-msgstr "Запускаемые приложения"
+msgstr "Шкеколтымо пеленлык-влак"
 
 msgid "Startup Applications Preferences"
-msgstr "Параметры запускаемых приложений"
+msgstr "Шкеколтымо пеленлыкым-влак келыштарыш-влак"
 
 msgid "Startup Programs"
-msgstr "Автоматически запускаемые программы"
+msgstr "Шкеколтымо программе-влак"
 
 msgid "Suspend Anyway"
-msgstr "Всё равно приостановить систему"
+msgstr "Системам кылмыкташ садыгак"
 
 msgid "Switch User Anyway"
 msgstr "Всё равно переключить пользователя"
@@ -314,7 +314,7 @@ msgid "Unable to start login session (and unable to connect to the X server)"
 msgstr "Не удалось запустить сеанс (и подключиться к X-серверу)"
 
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr "Палыме огыл"
 
 msgid "Unrecognized desktop file Version '%s'"
 msgstr "Нераспознанная версия desktop-файла «%s»"
@@ -343,7 +343,7 @@ msgstr ""
 "привести к потере вашех данных."
 
 msgid "Window Manager"
-msgstr "Менеджер окон"
+msgstr "Тӧрзан менеджер"
 
 msgid "You are currently logged in as \"%s\"."
 msgstr "Вы вошли в систему как пользователь «%s»."
@@ -358,22 +358,22 @@ msgid "_Automatically remember running applications when logging out"
 msgstr "_Автоматически запоминать запущенные приложения при выходе из сеанса"
 
 msgid "_Hibernate"
-msgstr "_Спящий режим"
+msgstr "_Малыме режим"
 
 msgid "_Log Out"
-msgstr "_Завершить сеанс"
+msgstr "_Сеансым мучашлымаш"
 
 msgid "_Name:"
-msgstr "_Имя:"
+msgstr "_Лӱм:"
 
 msgid "_Remember Currently Running Application"
 msgstr "_Запомнить запущенные приложения"
 
 msgid "_Restart"
-msgstr "Пе_резагрузить"
+msgstr "Уэш колташ"
 
 msgid "_Shut Down"
-msgstr "В_ыключить"
+msgstr "Пашам мучашлымаш"
 
 msgid "_Switch User"
 msgstr "_Переключить пользователя"

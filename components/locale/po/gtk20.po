@@ -38,19 +38,19 @@ msgid "%H:%M"
 msgstr "%H:%M"
 
 msgid "%s job #%d"
-msgstr "%s задание №%d"
+msgstr "%s Шӱдымаш №%d"
 
 msgid "(None)"
-msgstr "(Нет)"
+msgstr "(Уке)"
 
 msgid "(disabled)"
-msgstr "(выключен)"
+msgstr "(йӧртымо)"
 
 msgid "(unknown)"
-msgstr "(неизвестен)"
+msgstr "(палыдыме)"
 
 msgid "--- No Tip ---"
-msgstr "--- Нет подсказки ---"
+msgstr "--- Каҥаш уке ---"
 
 msgid "<%s> element has invalid id \"%s\""
 msgstr "Элемент <%s> имеет ошибочный идентификатор «%s»"
@@ -71,18 +71,18 @@ msgid "A_t:"
 msgstr "_В:"
 
 msgid "About %s"
-msgstr "О программе %s"
+msgstr "Программе нерген %s"
 
 msgctxt "Accelerator"
 msgid "Disabled"
-msgstr "Выключен"
+msgstr "Йӧртымо"
 
 msgctxt "Accelerator"
 msgid "Invalid"
-msgstr "Неверный"
+msgstr "Чын огыл"
 
 msgid "Add Cover Page"
-msgstr "Добавить титульный лист"
+msgstr "Титул лыштакым ешараш"
 
 msgid "Add the current folder to the bookmarks"
 msgstr "Создать закладку для текущей папки"
@@ -97,16 +97,16 @@ msgid "Add the selected folders to the bookmarks"
 msgstr "Создать закладки для выделенных папок"
 
 msgid "Adjusts the volume"
-msgstr "Регулирует громкость"
+msgstr "Йӱк кугытым виктараш"
 
 msgid "Advanced"
-msgstr "Дополнительно"
+msgstr "Ешарен"
 
 msgid "After"
-msgstr "После"
+msgstr "Деч вара"
 
 msgid "All sheets"
-msgstr "Все листы"
+msgstr "Чыла лаштык-влак"
 
 msgid "Amharic (EZ+)"
 msgstr "Амхарский (EZ+)"
@@ -124,10 +124,10 @@ msgid "Anonymous tag found and tags can not be created."
 msgstr "Найден анонимный тег, невозможно создать теги."
 
 msgid "Any Printer"
-msgstr "Любой принтер"
+msgstr "Ала-могай принтер"
 
 msgid "Application"
-msgstr "Приложение"
+msgstr "Пеленлык"
 
 msgid "Artwork by"
 msgstr "Графический дизайн"
@@ -139,7 +139,7 @@ msgid "Attribute \"%s\" repeated twice on the same <%s> element"
 msgstr "Атрибут «%s» дважды повторяется в одном элементе <%s>"
 
 msgid "Authentication"
-msgstr "Проверка доступа"
+msgstr "Чылыкым тергымаш"
 
 msgid "Authentication is required on %s"
 msgstr "Для доступа к %s нужно ввести пароль"
@@ -200,13 +200,13 @@ msgid "Bad code encountered"
 msgstr "Обнаружен неправильный код"
 
 msgid "Be_fore:"
-msgstr "_До:"
+msgstr "_Марте:"
 
 msgid "Before"
-msgstr "До"
+msgstr "Марте"
 
 msgid "Billing Info"
-msgstr "Расположение"
+msgstr "Вераҥмаш"
 
 msgid "Bits per channel of PNG image is invalid."
 msgstr "Значение числа бит на канал для изображения формата PNG недопустимо"
@@ -244,19 +244,19 @@ msgid "CLASS"
 msgstr "КЛАСС"
 
 msgid "COLORS"
-msgstr "КОЛИЧЕСТВО_ЦВЕТОВ"
+msgstr "ТӰС-ВЛАК ЧОТ"
 
 msgid "C_ollate"
-msgstr "_Упорядочить"
+msgstr "_Радамлаш"
 
 msgid "C_reate"
-msgstr "Со_здать"
+msgstr "Ям_дылаш"
 
 msgid "C_redits"
-msgstr "_Благодарности"
+msgstr "_Тауштыме-влак"
 
 msgid "C_urrent Page"
-msgstr "_Текущую страницу"
+msgstr "_Кызытсе лышташ"
 
 msgid "Cache file created successfully.\n"
 msgstr "Кеш-файл успешно создан.\n"
@@ -319,7 +319,7 @@ msgid "Circular table entry in GIF file"
 msgstr "Круговая табличная запись обнаружена в файле формата GIF"
 
 msgid "Cl_ear"
-msgstr "О_чистить"
+msgstr "Э_рыкташ"
 
 msgid "Classified"
 msgstr "Классифицировано"
@@ -340,13 +340,13 @@ msgstr ""
 "клавишей и выберите «Сохранить цвет здесь»"
 
 msgid "Co_nnect"
-msgstr "_Подключиться"
+msgstr "_Ушнымаш"
 
 msgid "Color"
-msgstr "Цвет"
+msgstr "Тӱс"
 
 msgid "Color Selection"
-msgstr "Выбор цвета"
+msgstr "Тӱсан ойырымо"
 
 msgid "Color Wheel"
 msgstr "Цветовой круг"
@@ -358,7 +358,7 @@ msgid "Color profile has invalid length %d."
 msgstr "Неправильный размер (%d) цветового профиля."
 
 msgid "Command Line"
-msgstr "Командная строка"
+msgstr "Кӱштымаш корно"
 
 msgid "Complete, but not unique"
 msgstr "Подходящее, но не уникальное"
@@ -391,13 +391,13 @@ msgid "Copies"
 msgstr "Копии"
 
 msgid "Copy URL"
-msgstr "Копировать URL"
+msgstr "URL копийым ышташ"
 
 msgid "Copy _Link Address"
-msgstr "_Скопировать адрес ссылки"
+msgstr "_адресыжо кылверым копийым ышташ"
 
 msgid "Copy _Location"
-msgstr "Копировать _адрес"
+msgstr "адресым _копийым ышташ"
 
 msgid "Could not add a bookmark"
 msgstr "Не удалось добавить закладку"
@@ -437,22 +437,22 @@ msgid "Could not get information for file '%s': %s"
 msgstr "Не удалось получить информацию о файле «%s»: %s"
 
 msgid "Could not mount %s"
-msgstr "Не удалось подключить %s"
+msgstr "Ом керт %s ушнаш"
 
 msgid "Could not read from stream: %s"
 msgstr "Не удалось прочитать из потока: %s"
 
 msgid "Could not read the contents of %s"
-msgstr "Не удалось прочитать содержимое %s"
+msgstr "Ом керт лудаш кӧргым %s"
 
 msgid "Could not read the contents of the folder"
-msgstr "Не удалось прочитать содержимое папки"
+msgstr "Ом керт папке кӧргым лудаш"
 
 msgid "Could not remove bookmark"
-msgstr "Не удалось удалить закладку"
+msgstr "Ом керт пыштымем пале кораҥдаш"
 
 msgid "Could not remove item"
-msgstr "Не удалось удалить элемент"
+msgstr "Ом керт элементым кораҥдаш"
 
 msgid "Could not rename %s back to %s: %s.\n"
 msgstr "Не удалось переименовать %s обратно в  %s: %s\n"
@@ -470,16 +470,16 @@ msgid "Could not seek stream: %s"
 msgstr "Не удалось сменить позицию в потоке: %s"
 
 msgid "Could not select file"
-msgstr "Не удалось выделить файл"
+msgstr "Ом керт файлым ойыраш"
 
 msgid "Could not send the search request"
 msgstr "Не удалось послать запрос на поиск"
 
 msgid "Could not show link"
-msgstr "Не удалось показать ссылку"
+msgstr "Ом керт кылверым ончыкташ"
 
 msgid "Could not start the search process"
-msgstr "Не удалось начать поиск"
+msgstr "Ом керт кычалмаш тӱҥал пуаш"
 
 msgid "Couldn't allocate memory for color profile"
 msgstr "Не удалось выделить память для цветового профиля"
@@ -527,7 +527,7 @@ msgid "Couldn't recognize the image file format for file '%s'"
 msgstr "Не удалось распознать формат изображения для файла «%s»"
 
 msgid "Couldn't save"
-msgstr "Не удалось сохранить"
+msgstr "Арален кодаш ок лий"
 
 msgid "Couldn't save the rest"
 msgstr "Не удалось сохранить оставшуюся часть"
@@ -539,25 +539,25 @@ msgid "Couldn't write to TIFF file"
 msgstr "Не удалось записать в файл TIFF"
 
 msgid "Create Fo_lder"
-msgstr "Создать п_апку"
+msgstr "Папкым я_мдылаш"
 
 msgid "Create in _folder:"
-msgstr "Создать в _папке:"
+msgstr "Папкышто _ямдылаш:"
 
 msgid "Credits"
-msgstr "Благодарности"
+msgstr "Тауштыме-влак"
 
 msgid "Cursor hotspot outside image"
 msgstr "Активирующая область определена за границами изображения"
 
 msgid "Custom %sx%s"
-msgstr "Особый %sx%s"
+msgstr "Келыштарыме %sx%s"
 
 msgid "Custom Size %d"
-msgstr "Пользовательский размер %d"
+msgstr "Пайдаланышын кугыт %d"
 
 msgid "Custom size"
-msgstr "Пользовательский размер"
+msgstr "Пайдаланышын кугыт"
 
 msgid "Cyrillic (Transliterated)"
 msgstr "Кириллица (транслитерация)"
@@ -566,16 +566,16 @@ msgid "DISPLAY"
 msgstr "ДИСПЛЕЙ"
 
 msgid "De_lete File"
-msgstr "_Удалить файл"
+msgstr "_Файлым кораҥдаш"
 
 msgid "Decreases the volume"
-msgstr "Понижает громкость"
+msgstr "Йӱк кугытым лапемдаш"
 
 msgid "Delete File"
-msgstr "Удалить файл"
+msgstr "Файлым кораҥдаш"
 
 msgid "Desktop"
-msgstr "Рабочий стол"
+msgstr "Паша ӱстел"
 
 msgid "Didn't get all lines of PCX image"
 msgstr "Не получены все строки изображения формата PCX"
@@ -590,7 +590,7 @@ msgid "Do use the Wintab API [default]"
 msgstr "Не использовать Wintab API [по умолчанию]"
 
 msgid "Documented by"
-msgstr "Документация"
+msgstr "Документаций"
 
 msgid "Domain:"
 msgstr "Домен:"
@@ -621,16 +621,16 @@ msgid "Embed GhostScript fonts only"
 msgstr "Встраивать только шрифты GhostScript"
 
 msgid "Empty"
-msgstr "Пусто"
+msgstr "Яра"
 
 msgid "Error creating folder '%s': %s"
-msgstr "Не удалось создать папку «%s»: %s"
+msgstr "Папкем ямдылаш ом керт «%s»: %s"
 
 msgid "Error creating print preview"
 msgstr "Не удалось создать предварительный просмотр"
 
 msgid "Error deleting file '%s': %s"
-msgstr "Не удалось удалить файл «%s»: %s"
+msgstr "Ом керт файлым «%s»: %s коранҥдем"
 
 msgid "Error from StartDoc"
 msgstr "Ошибка от StartDoc"
@@ -651,7 +651,7 @@ msgid "Error parsing option --gdk-no-debug"
 msgstr "Не удалось разобрать --gdk-no-debug"
 
 msgid "Error printing"
-msgstr "Ошибка печати"
+msgstr "Савыкташыме йоҥылыш"
 
 msgid "Error reading ICNS image: %s"
 msgstr "При чтении изображения ICNS произошла ошибка: %s"
@@ -678,7 +678,7 @@ msgid "Excess data in file"
 msgstr "Данные в файле избыточны"
 
 msgid "FLAGS"
-msgstr "ФЛАГИ"
+msgstr "ТИСТЕ-ВЛАК"
 
 msgid "Failed to allocate %d bytes for file read buffer"
 msgstr "Не удалось выделить память в размере %d байта для буфера чтения файла"
@@ -731,13 +731,13 @@ msgid "Failed to open TIFF image"
 msgstr "Не удалось открыть изображение формата TIFF"
 
 msgid "Failed to open file %s : %s\n"
-msgstr "Не удалось открыть файл %s : %s\n"
+msgstr "Йоҥылыш файлын почын %s : %s\n"
 
 msgid "Failed to open file '%s': %s"
-msgstr "Не удалось открыть файл «%s»: %s"
+msgstr "Йоҥылыш файлын почын «%s»: %s"
 
 msgid "Failed to open temporary file"
-msgstr "Не удалось открыть временный файл"
+msgstr "Йоҥылыш жаплан ыштыме файл почын"
 
 msgid "Failed to read QTIF header"
 msgstr "Не удалось прочитать заголовок QTIF"
@@ -809,19 +809,19 @@ msgid "File not found: %s\n"
 msgstr "Файл не найден: %s\n"
 
 msgid "Files"
-msgstr "Файлы"
+msgstr "Файл-влак"
 
 msgid "Finishing"
-msgstr "Завершение"
+msgstr "Пытарымаш"
 
 msgid "Fol_ders"
-msgstr "Пап_ки"
+msgstr "Пап_ке-влак"
 
 msgid "Folder unreadable: %s"
 msgstr "Невозможно прочесть папку: %s"
 
 msgid "Folders"
-msgstr "Папки"
+msgstr "Папке-влак"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -836,7 +836,7 @@ msgid "Forget password _immediately"
 msgstr "_Забыть пароль немедленно"
 
 msgid "Full Volume"
-msgstr "Полная громкость"
+msgstr "Уло йӱк кугыт дене"
 
 msgid "GIF file was missing some data (perhaps it was truncated somehow?)"
 msgstr "Файл формата GIF не содержал некоторые данные (возможно был обрезан?)"
@@ -965,7 +965,7 @@ msgid "Incremental loading of image type '%s' is not supported"
 msgstr "Пошаговая загрузка изображения формата «%s» не поддерживается"
 
 msgid "Input"
-msgstr "Ввод"
+msgstr "Пуртымаш"
 
 msgid "Input _Methods"
 msgstr "_Методы ввода"
@@ -1079,7 +1079,7 @@ msgstr ""
 "обработано."
 
 msgid "Job"
-msgstr "Задание"
+msgstr "Шӱдымаш"
 
 msgid "Job Details"
 msgstr "Сведения о задании"
@@ -1088,7 +1088,7 @@ msgid "Job Priority"
 msgstr "Приоритет"
 
 msgid "Keys"
-msgstr "Клавиши"
+msgstr "Полдыш-влак"
 
 msgid "Keys for PNG text chunks must be ASCII characters."
 msgstr ""
@@ -1181,25 +1181,25 @@ msgid "Maximum color value in PNM file is too large"
 msgstr "Максимальное значение цвета в файле формата PNM слишком велико"
 
 msgid "Medium"
-msgstr "Средний"
+msgstr "Кыдалаш"
 
 msgid "Miscellaneous"
-msgstr "Дополнительно"
+msgstr "Тӱрлӧ"
 
 msgid "Modified"
-msgstr "Изменён"
+msgstr "Вашталтыме"
 
 msgid "Multipress"
 msgstr "Мультипресс"
 
 msgid "Muted"
-msgstr "Приглушить"
+msgstr "Йӱкым пелемдаш"
 
 msgid "NAME"
-msgstr "ИМЯ"
+msgstr "ЛӰМ"
 
 msgid "Name"
-msgstr "Имя"
+msgstr "Лӱм"
 
 msgid "Name too long"
 msgstr "Слишком длинное имя"
@@ -1208,7 +1208,7 @@ msgid "Need user intervention"
 msgstr "Необходимо вмешательство пользователя"
 
 msgid "New Folder"
-msgstr "Создать папку"
+msgstr "Папке ямдылаш"
 
 msgid "New accelerator..."
 msgstr "Новая комбинация клавиш..."
@@ -1226,10 +1226,10 @@ msgid "No item for URI '%s' found"
 msgstr "Не найден элемент для URI «%s»"
 
 msgid "No items found"
-msgstr "Нет элементов"
+msgstr "Элемент-влак уке"
 
 msgid "No match"
-msgstr "Нет совпадений"
+msgstr "Келшен толмаш уке"
 
 msgid "No palette found at end of PCX data"
 msgstr "Палитра не найдена в конце данных формата PCX"
@@ -1255,7 +1255,7 @@ msgid "No theme index file.\n"
 msgstr "Нет файла с индексом темы.\n"
 
 msgid "None"
-msgstr "Нет"
+msgstr "Уке"
 
 msgid "Not a valid icon cache: %s\n"
 msgstr "Некорректный кеш значков: %s\n"
@@ -1264,7 +1264,7 @@ msgid "Not a valid page setup file"
 msgstr "Некорректный файл настройки печати"
 
 msgid "Not available"
-msgstr "Недоступно"
+msgstr "Пураш лийдыме"
 
 msgid "Not enough free memory"
 msgstr "Недостаточно свободной памяти"
@@ -1297,7 +1297,7 @@ msgid "Odd sheets"
 msgstr "Нечётные листы"
 
 msgid "On _hold"
-msgstr "О_жидание"
+msgstr "В_учаш"
 
 msgid "One Sided"
 msgstr "С одной стороны"
@@ -1306,10 +1306,10 @@ msgid "Only local files may be selected"
 msgstr "Поддерживаются только локальные файлы"
 
 msgid "Op_acity:"
-msgstr "Не_прозрачность:"
+msgstr "Во_шткоймо:"
 
 msgid "Open '%s'"
-msgstr "Открыть «%s»"
+msgstr "Почаш «%s»"
 
 msgid "Opening %s"
 msgstr "Открывается %s"
@@ -1318,10 +1318,10 @@ msgid "Or_ientation:"
 msgstr "_Ориентация:"
 
 msgid "Other..."
-msgstr "Другой..."
+msgstr "Весе..."
 
 msgid "Out of paper"
-msgstr "Нет бумаги"
+msgstr "Кагаз уке"
 
 msgid "Outermost element in text must be <text_view_markup> not <%s>"
 msgstr ""
@@ -1431,7 +1431,7 @@ msgid "Paper _type:"
 msgstr "_Тип бумаги:"
 
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "Шолыпмут:"
 
 msgid "Path does not exist"
 msgstr "Путь не существует"
@@ -1449,7 +1449,7 @@ msgid "Pick a Font"
 msgstr "Выберите шрифт"
 
 msgid "Places"
-msgstr "Места"
+msgstr "Вер-влак"
 
 msgid "Portrait"
 msgstr "Портретная"
@@ -1464,7 +1464,7 @@ msgid "Premature end-of-file encountered"
 msgstr "Преждевременно обнаружен конец файла"
 
 msgid "Preparing"
-msgstr "Подготовка"
+msgstr "Ямдылаш"
 
 msgid "Preparing %d"
 msgstr "Подготовка %d"
@@ -1479,7 +1479,7 @@ msgid "Print Document"
 msgstr "Печатать документ"
 
 msgid "Print at"
-msgstr "Время"
+msgstr "Жап"
 
 msgid "Print at time"
 msgstr "Время начала печати"
@@ -1530,10 +1530,10 @@ msgid "Printer Default"
 msgstr "Умолчания принтера"
 
 msgid "Printer offline"
-msgstr "Принтер отключён"
+msgstr "Принтер йӧртымл"
 
 msgid "Printing %d"
-msgstr "Печать %d"
+msgstr "Савыкташ %d"
 
 msgid "Program class as used by the window manager"
 msgstr "Класс программы, используемый менеджером окон"
@@ -1563,7 +1563,7 @@ msgid "RLO Right-to-left o_verride"
 msgstr "RLO Пере_крывание справа налево"
 
 msgid "Range"
-msgstr "Диапазон"
+msgstr "Кумдык"
 
 msgid "Raw PNM formats require exactly one whitespace before sample data"
 msgstr "Формат PNM требует ровно одного пробела перед данными семпла"
@@ -1572,43 +1572,43 @@ msgid "Raw PNM image type is invalid"
 msgstr "Данный тип изображения формата PNM недопустим"
 
 msgid "Really delete file \"%s\"?"
-msgstr "Действительно удалить файл «%s»?"
+msgstr "Файлым «%s» кораҥдаш лиеш мо?"
 
 msgid "Received invalid color data\n"
 msgstr "Получены недопустимые данные цвета\n"
 
 msgid "Recently Used"
-msgstr "Недавние документы"
+msgstr "Шукертсе огыл документ-влак"
 
 msgid "Rejecting Jobs"
-msgstr "Отмена заданий"
+msgstr "Шӱдымаш кораҥдаш"
 
 msgid "Remember _forever"
-msgstr "Запомнить _навсегда"
+msgstr "Шарнен _кодаш"
 
 msgid "Remember password until you _logout"
 msgstr "Запомнить пароль _до выхода из сеанса"
 
 msgid "Remove"
-msgstr "Удалить"
+msgstr "Кораҥдаш"
 
 msgid "Remove the bookmark '%s'"
-msgstr "Удалить закладку «%s»"
+msgstr "Пыштымем пале кораҥдаш «%s»"
 
 msgid "Remove the selected bookmark"
 msgstr "Удалить выделенную закладку"
 
 msgid "Rename File"
-msgstr "Переименовать файл"
+msgstr "Файлым уэш лӱмдаш"
 
 msgid "Rename file \"%s\" to:"
-msgstr "Переименовать файл «%s» в:"
+msgstr "Файлым «%s» уэш лӱмдаш:"
 
 msgid "Rename..."
-msgstr "Переименовать..."
+msgstr "Уэш лӱмдаш ..."
 
 msgid "Resolution"
-msgstr "Разрешение"
+msgstr "Кӧнымаш"
 
 msgid "Reverse landscape"
 msgstr "Пейзажная обратная"
@@ -1638,7 +1638,7 @@ msgid "Sans 12"
 msgstr "Sans 12"
 
 msgid "Save in _folder:"
-msgstr "Сохранить в _папке"
+msgstr "Папкешто арален кодаш"
 
 msgid "Sc_ale:"
 msgstr "_Масштаб:"
@@ -1647,19 +1647,19 @@ msgid "Screen"
 msgstr "Экран"
 
 msgid "Se_lection"
-msgstr "_Выбор"
+msgstr "_Ойырымаш"
 
 msgid "Search"
-msgstr "Поиск"
+msgstr "Кычалмаш"
 
 msgid "Search:"
-msgstr "Поиск:"
+msgstr "Кычалмаш:"
 
 msgid "Secret"
 msgstr "Секретно"
 
 msgid "Select A File"
-msgstr "Выберите файл"
+msgstr "Файлым ойыраш"
 
 msgid ""
 "Select the color you want from the outer ring. Select the darkness or "
@@ -1705,13 +1705,13 @@ msgid "Show _Size Column"
 msgstr "Показывать _размер"
 
 msgid "Si_ze:"
-msgstr "_Размер:"
+msgstr "_Кугыт:"
 
 msgid "Simple"
-msgstr "Простой"
+msgstr "Тыглай"
 
 msgid "Size"
-msgstr "Размер"
+msgstr "Кугыт"
 
 msgid "Size of the palette in 8 bit mode"
 msgstr "Размер палитры в 8-битном режиме"
@@ -1743,38 +1743,38 @@ msgid "Standard"
 msgstr "Стандарт"
 
 msgid "Starting %s"
-msgstr "Запускается %s"
+msgstr "Колта %s"
 
 msgid "Status"
 msgstr "Состояние"
 
 msgctxt "Stock label"
 msgid "Best _Fit"
-msgstr "Наилучшее _заполнение"
+msgstr "Мо улмо _семын"
 
 msgctxt "Stock label"
 msgid "C_onnect"
-msgstr "П_одключиться"
+msgstr "У_шнымаш"
 
 msgctxt "Stock label"
 msgid "Cu_t"
-msgstr "_Вырезать"
+msgstr "_Пӱчкаш"
 
 msgctxt "Stock label"
 msgid "Decrease Indent"
-msgstr "Уменьшить отступ"
+msgstr "Чакнышым иземдаш"
 
 msgctxt "Stock label"
 msgid "Error"
-msgstr "Ошибка"
+msgstr "Йоҥылыш"
 
 msgctxt "Stock label"
 msgid "Find and _Replace"
-msgstr "Найти и _заменить"
+msgstr "Муаш да _алмашташ"
 
 msgctxt "Stock label"
 msgid "Increase Indent"
-msgstr "Увеличить отступ"
+msgstr "Чакнышым кугемдаш"
 
 msgctxt "Stock label"
 msgid "Information"
@@ -1794,11 +1794,11 @@ msgstr "Портрет"
 
 msgctxt "Stock label"
 msgid "Print Pre_view"
-msgstr "Пред_варительный просмотр"
+msgstr "Ончылгоч ончымаш"
 
 msgctxt "Stock label"
 msgid "Question"
-msgstr "Вопрос"
+msgstr "Йодыш"
 
 msgctxt "Stock label"
 msgid "Reverse landscape"
@@ -1810,43 +1810,43 @@ msgstr "Обратный портрет"
 
 msgctxt "Stock label"
 msgid "Save _As"
-msgstr "Сохранить _как"
+msgstr " ... семын арален _кодаш"
 
 msgctxt "Stock label"
 msgid "Select _All"
-msgstr "Выделить вс_ё"
+msgstr "Чыла палемда_ш"
 
 msgctxt "Stock label"
 msgid "Warning"
-msgstr "Предупреждение"
+msgstr "Шижтарымаш"
 
 msgctxt "Stock label"
 msgid "Zoom _In"
-msgstr "У_величить"
+msgstr "К_угемдаш"
 
 msgctxt "Stock label"
 msgid "Zoom _Out"
-msgstr "У_меньшить"
+msgstr "И_земдаш"
 
 msgctxt "Stock label"
 msgid "_About"
-msgstr "_О программе"
+msgstr "_Программе нерген"
 
 msgctxt "Stock label"
 msgid "_Add"
-msgstr "_Добавить"
+msgstr "_Ешараш"
 
 msgctxt "Stock label"
 msgid "_Apply"
-msgstr "_Применить"
+msgstr "_Кучылташ"
 
 msgctxt "Stock label"
 msgid "_Ascending"
-msgstr "По воз_растанию"
+msgstr "Кугемме семын"
 
 msgctxt "Stock label"
 msgid "_Bold"
-msgstr "Полу_жирный"
+msgstr "Пеле_гӱжгӧ"
 
 msgctxt "Stock label"
 msgid "_CD-Rom"
@@ -1854,55 +1854,55 @@ msgstr "_Компакт-диск"
 
 msgctxt "Stock label"
 msgid "_Cancel"
-msgstr "О_тменить"
+msgstr "К_ораҥдымаш"
 
 msgctxt "Stock label"
 msgid "_Center"
-msgstr "По _центру"
+msgstr "Hокшеке _вераҥдаш"
 
 msgctxt "Stock label"
 msgid "_Clear"
-msgstr "О_чистить"
+msgstr "Э_рыкташ"
 
 msgctxt "Stock label"
 msgid "_Close"
-msgstr "_Закрыть"
+msgstr "_Петыраш"
 
 msgctxt "Stock label"
 msgid "_Color"
-msgstr "_Цвет"
+msgstr "_Тӱс"
 
 msgctxt "Stock label"
 msgid "_Convert"
-msgstr "П_реобразовать"
+msgstr "В_есемдаш"
 
 msgctxt "Stock label"
 msgid "_Copy"
-msgstr "_Копировать"
+msgstr "_Копийым ышташ"
 
 msgctxt "Stock label"
 msgid "_Delete"
-msgstr "_Удалить"
+msgstr "_Кораҥдаш"
 
 msgctxt "Stock label"
 msgid "_Descending"
-msgstr "По _убыванию"
+msgstr "Иземме _семын"
 
 msgctxt "Stock label"
 msgid "_Discard"
-msgstr "От_бросить"
+msgstr "Ку_далташ"
 
 msgctxt "Stock label"
 msgid "_Disconnect"
-msgstr "_Отключиться"
+msgstr "_Йӧрташ"
 
 msgctxt "Stock label"
 msgid "_Edit"
-msgstr "_Изменить"
+msgstr "_Вашталташ"
 
 msgctxt "Stock label"
 msgid "_Execute"
-msgstr "_Выполнить"
+msgstr "_Шукташ"
 
 msgctxt "Stock label"
 msgid "_Fill"
@@ -1910,11 +1910,11 @@ msgstr "По _ширине"
 
 msgctxt "Stock label"
 msgid "_Find"
-msgstr "_Найти"
+msgstr "_Муаш"
 
 msgctxt "Stock label"
 msgid "_Floppy"
-msgstr "_Дискета"
+msgstr "_Лывырге диск"
 
 msgctxt "Stock label"
 msgid "_Font"
@@ -1922,19 +1922,19 @@ msgstr "_Шрифт"
 
 msgctxt "Stock label"
 msgid "_Fullscreen"
-msgstr "_Во весь экран"
+msgstr "_Уло экранлан"
 
 msgctxt "Stock label"
 msgid "_Harddisk"
-msgstr "_Жёсткий диск"
+msgstr "_Пеҥгыде диск"
 
 msgctxt "Stock label"
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgctxt "Stock label"
 msgid "_Home"
-msgstr "_Домой"
+msgstr "_Мӧҥгышто"
 
 msgctxt "Stock label"
 msgid "_Index"
@@ -1942,15 +1942,15 @@ msgstr "_Индекс"
 
 msgctxt "Stock label"
 msgid "_Information"
-msgstr "_Информация"
+msgstr "_Информаций"
 
 msgctxt "Stock label"
 msgid "_Italic"
-msgstr "_Курсив"
+msgstr "_Йожек"
 
 msgctxt "Stock label"
 msgid "_Jump to"
-msgstr "Перейти _к"
+msgstr "Куснымаш"
 
 msgctxt "Stock label"
 msgid "_Leave Fullscreen"
@@ -1962,15 +1962,15 @@ msgstr "По _левому краю"
 
 msgctxt "Stock label"
 msgid "_Network"
-msgstr "_Сеть"
+msgstr "_Вот"
 
 msgctxt "Stock label"
 msgid "_New"
-msgstr "_Создать"
+msgstr "_Ямдылаш"
 
 msgctxt "Stock label"
 msgid "_No"
-msgstr "_Нет"
+msgstr "_Уке"
 
 msgctxt "Stock label"
 msgid "_Normal Size"
@@ -1982,43 +1982,43 @@ msgstr "_OK"
 
 msgctxt "Stock label"
 msgid "_Open"
-msgstr "_Открыть"
+msgstr "_Почаш"
 
 msgctxt "Stock label"
 msgid "_Paste"
-msgstr "Вст_авить"
+msgstr "Шын_даш"
 
 msgctxt "Stock label"
 msgid "_Preferences"
-msgstr "_Параметры"
+msgstr "_Келыштарыш-влак"
 
 msgctxt "Stock label"
 msgid "_Print"
-msgstr "Пе_чать"
+msgstr "Са_выкташ"
 
 msgctxt "Stock label"
 msgid "_Properties"
-msgstr "_Свойства"
+msgstr "_Палык-влак"
 
 msgctxt "Stock label"
 msgid "_Quit"
-msgstr "В_ыход"
+msgstr "Л_екташ"
 
 msgctxt "Stock label"
 msgid "_Redo"
-msgstr "Ве_рнуть"
+msgstr "Пӧ_ртылташ"
 
 msgctxt "Stock label"
 msgid "_Refresh"
-msgstr "Об_новить"
+msgstr "Уэ_мдаш"
 
 msgctxt "Stock label"
 msgid "_Remove"
-msgstr "_Удалить"
+msgstr "_Кораҥдаш"
 
 msgctxt "Stock label"
 msgid "_Revert"
-msgstr "_Восстановить"
+msgstr "_Вашталтышым кораҥдаш"
 
 msgctxt "Stock label"
 msgid "_Right"
@@ -2026,47 +2026,47 @@ msgstr "По _правому краю"
 
 msgctxt "Stock label"
 msgid "_Save"
-msgstr "Со_хранить"
+msgstr "Ар_ален кодаш"
 
 msgctxt "Stock label"
 msgid "_Spell Check"
-msgstr "Проверить право_писание"
+msgstr "чын возы_мым тергымаш"
 
 msgctxt "Stock label"
 msgid "_Stop"
-msgstr "_Остановить"
+msgstr "_Чараш"
 
 msgctxt "Stock label"
 msgid "_Strikethrough"
-msgstr "Пере_чёркивание"
+msgstr "Удыр_алме"
 
 msgctxt "Stock label"
 msgid "_Undelete"
-msgstr "Вос_становить удалённое"
+msgstr "Мӧҥ_гештараш"
 
 msgctxt "Stock label"
 msgid "_Underline"
-msgstr "По_дчёркивание"
+msgstr "Ӱлыч удыралме"
 
 msgctxt "Stock label"
 msgid "_Undo"
-msgstr "_Отменить"
+msgstr "_Кораҥдаш"
 
 msgctxt "Stock label"
 msgid "_Yes"
-msgstr "_Да"
+msgstr "_Туге"
 
 msgctxt "Stock label, media"
 msgid "P_ause"
-msgstr "_Приостановить"
+msgstr "_Лугычлаш"
 
 msgctxt "Stock label, media"
 msgid "Pre_vious"
-msgstr "П_редыдущая"
+msgstr "О_нчычсо"
 
 msgctxt "Stock label, media"
 msgid "R_ewind"
-msgstr "_Назад"
+msgstr "_Шеҥгеке"
 
 msgctxt "Stock label, media"
 msgid "_Forward"
@@ -2074,15 +2074,15 @@ msgstr "_Вперёд"
 
 msgctxt "Stock label, media"
 msgid "_Next"
-msgstr "_Следующая"
+msgstr "_Умбакыже"
 
 msgctxt "Stock label, media"
 msgid "_Play"
-msgstr "_Воспроизвести"
+msgstr "_Колтымаш"
 
 msgctxt "Stock label, media"
 msgid "_Record"
-msgstr "_Записать"
+msgstr "_Возаш"
 
 msgctxt "Stock label, media"
 msgid "_Stop"
@@ -2090,7 +2090,7 @@ msgstr "_Остановить"
 
 msgctxt "Stock label, navigation"
 msgid "_Back"
-msgstr "На_зад"
+msgstr "Ше_ҥгеке"
 
 msgctxt "Stock label, navigation"
 msgid "_Bottom"
@@ -2419,16 +2419,16 @@ msgid "Unhandled tag: '%s'"
 msgstr "Необработанный тег «%s»"
 
 msgid "Unknown"
-msgstr "Неизвестен"
+msgstr "Палыме огыл"
 
 msgid "Unknown Application (pid %d)"
-msgstr "Неизвестное приложение (pid %d)"
+msgstr "Палыдыме пеленлык (pid %d)"
 
 msgid "Unknown error when trying to deserialize %s"
 msgstr "Неизвестная ошибка при попытке десериализации %s"
 
 msgid "Unknown item"
-msgstr "Неизвестный элемент"
+msgstr "Палыдыме элемент"
 
 msgid "Unrecognized image file format"
 msgstr "Формат файла изображения не распознан"
@@ -2614,28 +2614,28 @@ msgid "_License"
 msgstr "_Лицензия"
 
 msgid "_Location:"
-msgstr "_Расположение:"
+msgstr "_Вераҥдымаш:"
 
 msgid "_Mode:"
 msgstr "_Режим:"
 
 msgid "_Name:"
-msgstr "_Имя:"
+msgstr "_Лӱм:"
 
 msgid "_New Folder"
-msgstr "_Создать папку"
+msgstr "_Ум папкем ямдылаш"
 
 msgid "_Now"
-msgstr "_Сейчас"
+msgstr "_Кызыт"
 
 msgid "_Only print:"
-msgstr "Печатать т_олько:"
+msgstr "Савыкташ г_ына:"
 
 msgid "_Open Link"
-msgstr "_Открыть ссылку"
+msgstr "_Кылверым почаш"
 
 msgid "_Orientation:"
-msgstr "_Расположение:"
+msgstr "_Ориентаций:"
 
 msgid "_Output format"
 msgstr "Формат _вывода"
@@ -2647,16 +2647,16 @@ msgid "_Paper size:"
 msgstr "_Размер бумаги:"
 
 msgid "_Password:"
-msgstr "_Пароль:"
+msgstr "_Шолыпмут:"
 
 msgid "_Places"
-msgstr "_Места"
+msgstr "_Вер-влак"
 
 msgid "_Pressure:"
 msgstr "_Нажим:"
 
 msgid "_Preview:"
-msgstr "Образе_ц:"
+msgstr "Тӱҥ сынж_е:"
 
 msgid "_Red:"
 msgstr "_Красный:"
@@ -2665,16 +2665,16 @@ msgid "_Remove"
 msgstr "_Удалить"
 
 msgid "_Remove From List"
-msgstr "_Удалить из списка"
+msgstr "_Лӱмер гыч кораҥдаш"
 
 msgid "_Rename"
-msgstr "_Переименовать"
+msgstr "_Уэш лӱмдаш"
 
 msgid "_Rename File"
-msgstr "Пе_реименовать файл"
+msgstr "Фа_йл уэш лӱжмаш"
 
 msgid "_Replace"
-msgstr "_Заменить"
+msgstr "_Алмашташ"
 
 msgid "_Reverse"
 msgstr "_Наоборот"
@@ -2689,10 +2689,10 @@ msgid "_Save color here"
 msgstr "Со_хранить цвет здесь"
 
 msgid "_Save in folder:"
-msgstr "_Сохранить в папке:"
+msgstr "_Папкешто арален кодаш:"
 
 msgid "_Selection: "
-msgstr "_Выбор: "
+msgstr "_Ойырымаш: "
 
 msgid "_Style:"
 msgstr "_Начертание:"
@@ -2701,10 +2701,10 @@ msgid "_Top:"
 msgstr "_Верхнее:"
 
 msgid "_Username:"
-msgstr "_Имя пользователя:"
+msgstr "_Пайдаланышын лӱмжӧ:"
 
 msgid "_Value:"
-msgstr "Зна_чение:"
+msgstr "Ы_ҥ:"
 
 msgid "_Wheel:"
 msgstr "_Колесо:"
@@ -3617,15 +3617,15 @@ msgstr "Остановлено из-за ошибки"
 
 msgctxt "print operation status"
 msgid "Finished"
-msgstr "Завершено"
+msgstr "Ямде"
 
 msgctxt "print operation status"
 msgid "Finished with error"
-msgstr "Завершено с ошибкой"
+msgstr "Ямде йоҥылыш дене"
 
 msgctxt "print operation status"
 msgid "Generating data"
-msgstr "Вывод данных"
+msgstr "Увер-влак лукмаш"
 
 msgctxt "print operation status"
 msgid "Initial state"
@@ -3633,32 +3633,32 @@ msgstr "Начальное состояние"
 
 msgctxt "print operation status"
 msgid "Preparing to print"
-msgstr "Подготовка к печати"
+msgstr "Савыкташым ямдылаш"
 
 msgctxt "print operation status"
 msgid "Printing"
-msgstr "Печать"
+msgstr "Савыкташ"
 
 msgctxt "print operation status"
 msgid "Sending data"
-msgstr "Отправка данных"
+msgstr "Увер-влак колташ"
 
 msgctxt "print operation status"
 msgid "Waiting"
-msgstr "Ожидание"
+msgstr "Вучаш"
 
 msgid "printer offline"
-msgstr "Принтер недоступен"
+msgstr "принтер йӧртымо"
 
 msgid "processing job"
-msgstr "обработка печати"
+msgstr "Шӱдымаш пашам ышташ"
 
 msgctxt "progress bar label"
 msgid "%d %%"
 msgstr "%d %%"
 
 msgid "ready to print"
-msgstr "Готов к печати"
+msgstr "савыкташе ямде"
 
 msgctxt "recent menu label"
 msgid "%d. %s"
@@ -3676,7 +3676,7 @@ msgid "Spinner"
 msgstr "Вертушка"
 
 msgid "unknown"
-msgstr "неизвестен"
+msgstr "палыдыме"
 
 msgid "unsupported RAS image variation"
 msgstr "данная разновидность изображения формата RAS не поддерживается"

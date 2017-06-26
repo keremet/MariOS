@@ -484,7 +484,7 @@ msgid "Can focus"
 msgstr "Может иметь фокус"
 
 msgid "Cancel Button"
-msgstr "Кнопка Cancel"
+msgstr "Кораҥдымаш кнопко"
 
 msgid "Capabilities the application can handle"
 msgstr "Возможности, с которыми приложение может обращаться"
@@ -1364,7 +1364,7 @@ msgid "Height request"
 msgstr "Запрос на установку высоты"
 
 msgid "Help Button"
-msgstr "Кнопка справки"
+msgstr "Полышым кнопко"
 
 msgid "Hide if empty"
 msgstr "Скрывать, если пусто"
@@ -1883,10 +1883,10 @@ msgid "Label yalign"
 msgstr "Выравнивание метки по оси Y"
 
 msgid "Language"
-msgstr "Язык"
+msgstr "Йылме"
 
 msgid "Language set"
-msgstr "Язык установлен"
+msgstr "Йылме шынден"
 
 msgid "Largest possible value for the \"position\" property"
 msgstr "Наибольшее возможное значение для параметра «position»"
@@ -5713,7 +5713,7 @@ msgid "YSpacing"
 msgstr "Интервал по Y"
 
 msgid "Year"
-msgstr "Год"
+msgstr "Ий"
 
 msgid "Your description here"
 msgstr "Ваше описание здесь"
@@ -5722,7 +5722,7 @@ msgid "ellipsize"
 msgstr "эллиптизация"
 
 msgid "height"
-msgstr "высота"
+msgstr "кӱкшыт"
 
 msgid "mode"
 msgstr "режим"
@@ -5734,7 +5734,7 @@ msgid "visible"
 msgstr "видимое"
 
 msgid "width"
-msgstr "ширина"
+msgstr "лопкыт"
 
 msgid "xalign"
 msgstr "x-выравнивание"

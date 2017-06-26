@@ -31,10 +31,10 @@ msgstr ""
 "Запустите «%s --help» для получения полного списка поддерживаемых ключей.\n"
 
 msgid "%s is a directory."
-msgstr "«%s» является каталогом."
+msgstr "«%s» каталог лия."
 
 msgid "%s is not a regular file."
-msgstr "%s это не обычный файл."
+msgstr "%s тыглай файл огыл."
 
 msgid "%s is not a valid location."
 msgstr "«%s» не является верным адресом."
@@ -42,24 +42,22 @@ msgstr "«%s» не является верным адресом."
 msgid ""
 "%s is not a valid location. Please check that you typed the location "
 "correctly and try again."
-msgstr ""
-"%s не является верным адресом. Убедитесь в правильности введённого адреса и "
-"попробуйте ещё раз."
+msgstr "%s чын адрес огыл. Терге пуртымо адрес даугыч тӧчаш."
 
 msgid "%s: invalid encoding.\n"
-msgstr "%s: неверная кодировка.\n"
+msgstr "%s: чын огыл кодировко.\n"
 
 msgid "(Empty)"
-msgstr "(Пусто)"
+msgstr "(Яра)"
 
 msgid "(correct spelling)"
-msgstr "(правильное написание)"
+msgstr "(Чын возымаш)"
 
 msgid "(no suggested words)"
-msgstr "(нет возможных вариантов)"
+msgstr "(вариант-влак уке)"
 
 msgid "- Edit text files"
-msgstr "- редактирование текстовых файлов"
+msgstr "- вашталташ текст-файл-влак"
 
 msgid "/ on %s"
 msgstr "/ на %s"
@@ -75,91 +73,91 @@ msgstr ""
 "иметь эффект только если параметр «Использовать исходный шрифт» выключен."
 
 msgid "A file with the same name already exists. Please use a different name."
-msgstr "Файл с таким именем уже существует. Укажите другое имя."
+msgstr "Тыгай файлыжо лӱм уло. Весе лӱм ончыкто."
 
 msgid "A_ctivate"
-msgstr "_Активировать"
+msgstr "_Талештараш"
 
 msgid "A_dd Scheme"
-msgstr "До_бавить схему"
+msgstr "Сх_емем ешараш"
 
 msgid "A_vailable encodings:"
-msgstr "_Доступные кодировки:"
+msgstr "_Пураш лийыме кодировко-влак:"
 
 msgid "Abbreviated form"
-msgstr "Сокращённая форма"
+msgstr "Кӱчыкемдыме формо"
 
 msgid "Abbreviation"
 msgstr "Аббревиатура"
 
 msgid "About gedit"
-msgstr "О программе gedit"
+msgstr "Gedit нерген"
 
 msgid "About this application"
-msgstr "Об этой программе"
+msgstr "Тидеже пеленлык нерген"
 
 msgid "Above"
-msgstr "Над"
+msgstr "Ӱмбак"
 
 msgid "Ac_tivate All"
-msgstr "Ак_тивировать все"
+msgstr "Чы_ла талештараш"
 
 msgid "Accessibility key character"
 msgstr "Ключ типа для вспомогательной идентификации"
 
 msgid "Acronym"
-msgstr "Сокращение"
+msgstr "Кÿчыкемдымаш"
 
 msgid "Activate '%s'"
-msgstr "Активировать '%s'"
+msgstr "Талештараш '%s'"
 
 msgid "Activate next document"
-msgstr "Активировать следующий документ"
+msgstr "Весе документ талештараш"
 
 msgid "Activate previous document"
-msgstr "Активировать предыдущий документ"
+msgstr "Ондакысе документ талештараш"
 
 msgid "Activation"
-msgstr "Активация"
+msgstr "Талештарыме"
 
 msgid "Active _Plugins:"
-msgstr "Активные _модули:"
+msgstr "Почмо _модуль-влак:"
 
 msgid "Active plugins"
-msgstr "Активные модули"
+msgstr "Почмо модуль-влак"
 
 msgid "Add Scheme"
-msgstr "Добавить схему"
+msgstr "Схемем ешараш"
 
 msgid "Add a new snippet..."
-msgstr "Добавить новый фрагмент..."
+msgstr "У фрагментым ешараш..."
 
 msgid "Add new empty file"
-msgstr "Создать новый пустой файл"
+msgstr "У яра файлым ямдылаш"
 
 msgid "Add new empty folder"
-msgstr "Создать новую пустую папку"
+msgstr "У яра папкем ямдылаш"
 
 msgid "Add or Remove..."
-msgstr "Добавить или удалить..."
+msgstr "Ешараш але кораҥдаш..."
 
 msgid "Add w_ord"
-msgstr "Добавить с_лово"
+msgstr "Мутым ешараш"
 
 msgid "Align"
-msgstr "Выравнивание"
+msgstr "Тӧремдымаш"
 
 msgid "Alignment character"
-msgstr "Символ выравнивания"
+msgstr "Тӧремдыме тиште"
 
 msgid "All Files"
-msgstr "Все файлы"
+msgstr "Чыла файл-влак"
 
 msgid "All Languages"
-msgstr "Все языки"
+msgstr "Чыла йылме-влак"
 
 msgid "All Text Files"
-msgstr "Все текстовые файлы"
+msgstr "Чыла текст файл"
 
 msgid "All _Lower Case"
 msgstr "Всё в _нижнем регистре"
@@ -168,25 +166,25 @@ msgid "All _Upper Case"
 msgstr "Всё в _верхнем регистре"
 
 msgid "All documents"
-msgstr "Все документы"
+msgstr "Чыла документ-влак"
 
 msgid "All documents except untitled ones"
-msgstr "Все документы с названием"
+msgstr "Чыла лӱмыжо документ-влак "
 
 msgid "All files"
-msgstr "Все файлы"
+msgstr "Чыла файл-влак"
 
 msgid "All languages"
-msgstr "Все языки"
+msgstr "Чыла йылме-влак"
 
 msgid "All supported archives"
-msgstr "Все поддерживаемые архивы"
+msgstr "Чыла эҥертымо чондай-влак"
 
 msgid "Alternative"
 msgstr "Альтернатива"
 
 msgid "An error occurred"
-msgstr "Произошла ошибка"
+msgstr "Йоҥылыш лия"
 
 msgid "An error occurred while creating a new directory"
 msgstr "Произошла ошибка при создании нового каталога"
@@ -217,10 +215,10 @@ msgstr ""
 "непробельных символов в нем."
 
 msgid "Anchor"
-msgstr "Привязка"
+msgstr "Кылдыш"
 
 msgid "Anchor URI"
-msgstr "Привязка к URI"
+msgstr "URI деке кылдыш"
 
 msgid "Append to current document"
 msgstr "Добавить к текущему документу"
@@ -244,49 +242,49 @@ msgid "Armenian"
 msgstr "Армянская"
 
 msgid "Array"
-msgstr "Массив"
+msgstr "Чумырымаш"
 
 msgid "Associated information"
-msgstr "Связанная информация"
+msgstr "Кылдалтше информаций"
 
 msgid "Author info"
-msgstr "Об авторе"
+msgstr "Автор нерген"
 
 msgid "Automatic Indentation"
-msgstr "Автоматический отступ"
+msgstr "Шкак чакныш"
 
 msgid "Automatic indent"
-msgstr "Автоматический отступ"
+msgstr "Шкак чакныш"
 
 msgid "Automatically Detected"
-msgstr "Определённая автоматически"
+msgstr "Шке гыч рашемдын"
 
 msgid "Automatically Detected Encodings"
-msgstr "Кодировки, определяемые автоматически"
+msgstr "Шке гыч рашемдын кодировко-влак"
 
 msgid "Automatically spell-check the current document"
 msgstr "Автоматически проверять орфографию в текущем документе"
 
 msgid "Autosave"
-msgstr "Автосохранение"
+msgstr "Шке гыч арален кодымаш"
 
 msgid "Autosave Interval"
-msgstr "Интервал автосохранения"
+msgstr "Шке гыч арален кодымаш корно-кокла"
 
 msgid "Available Tag Lists"
-msgstr "Списки доступных тегов"
+msgstr "Пураш лийыме тег-влак лӱмер"
 
 msgid "Available formats"
-msgstr "Доступные форматы"
+msgstr "Пураш лийыме формат-влак"
 
 msgid "Axis related headers"
 msgstr "Заголовки связанные с направлениями"
 
 msgid "Background color"
-msgstr "Цвет фона"
+msgstr "Фонжо тӱс"
 
 msgid "Background color (deprecated)"
-msgstr "Цвет фона (устаревший)"
+msgstr "Фонжо тӱс (тоштемше)"
 
 msgid "Background texture tile"
 msgstr "Файл фоновой текстурной заливки"
@@ -298,10 +296,10 @@ msgid "Baltic"
 msgstr "Балтийская"
 
 msgid "Base URI"
-msgstr "Основной ресурс URI"
+msgstr "Тӱҥ URI ресурс"
 
 msgid "Base font"
-msgstr "Основной шрифт"
+msgstr "Тӱҥ шрифт"
 
 msgid "Base font (deprecated)"
 msgstr "Base font (deprecated)"
@@ -322,19 +320,19 @@ msgid "Body Font for Printing"
 msgstr "Основной шрифт для печати"
 
 msgid "Bold"
-msgstr "Жирный"
+msgstr "Кӱжгӧ"
 
 msgid "Bookmarks"
-msgstr "Закладки"
+msgstr "Пыштыме пале-влак"
 
 msgid "Border"
-msgstr "Граница"
+msgstr "Чек"
 
 msgid "Border (deprecated)"
-msgstr "Граница (устаревший)"
+msgstr "Чек (тоштемше)"
 
 msgid "Border color"
-msgstr "Цвет границы"
+msgstr "Чекан тӱс"
 
 msgid "Bottom Panel is Visible"
 msgstr "Нижняя панель видима"
@@ -343,40 +341,40 @@ msgid "Bracket Matching"
 msgstr "Соответствие скобок"
 
 msgid "Brackets ()"
-msgstr "Скобки ()"
+msgstr "Скобко-влак ()"
 
 msgid "Brackets <>"
-msgstr "Скобки <>"
+msgstr "Скобко <>"
 
 msgid "Brackets []"
-msgstr "Скобки []"
+msgstr "Скобко []"
 
 msgid "Brackets {}"
-msgstr "Скобки {}"
+msgstr "Скобко {}"
 
 msgid "Build"
-msgstr "Сборка"
+msgstr "Чоҥаш"
 
 msgid "Bytes"
 msgstr "Байт"
 
 msgid "Bzip2 compressed archive"
-msgstr "Архивы Bzip2"
+msgstr "Bzip2 чондай"
 
 msgid "C_hange Case"
-msgstr "_Изменить регистр"
+msgstr "_Регистрым вашталташ"
 
 msgid "C_haracter Encoding:"
-msgstr "К_одировка символов:"
+msgstr "Тиштежо кодировко-влак:"
 
 msgid "C_ommand color:"
-msgstr "Цвет _команд:"
+msgstr "Кӱштымашыжо тӱс:"
 
 msgid "C_onfigure"
-msgstr "_Настроить"
+msgstr "_Келыштараш"
 
 msgid "C_onfigure Plugin"
-msgstr "_Настроить модуль"
+msgstr "_Ушымо модуль келыштараш"
 
 msgid "Cannot initialize preferences manager."
 msgstr "Невозможно инициализировать менеджер настроек."
@@ -392,34 +390,34 @@ msgid "Capitalize the first letter of each selected word"
 msgstr "Перевести в верхний регистр первую букву каждого выделенного слова"
 
 msgid "Cell rowspan"
-msgstr "Объединение ячеек"
+msgstr "Шинча-влак ушаш"
 
 msgid "Celtic"
 msgstr "Кельтская"
 
 msgid "Center"
-msgstr "По центру"
+msgstr "Покшеке вераҥдаш"
 
 msgid "Center (deprecated)"
-msgstr "По центру (устаревшее)"
+msgstr "Покшеке вераҥдаш (тоштемше)"
 
 msgid "Central European"
 msgstr "Центрально-европейская"
 
 msgid "Ch_aracter Encoding:"
-msgstr "К_одировка символов:"
+msgstr "Т_иштежо кодировко:"
 
 msgid "Cha_nge"
-msgstr "_Изменить"
+msgstr "_Вашталташ"
 
 msgid "Change A_ll"
-msgstr "Изменить вс_е"
+msgstr "Чыла ва_шталташ"
 
 msgid "Change Case"
-msgstr "Изменить регистр"
+msgstr "Регистрым вашталташ"
 
 msgid "Change _to:"
-msgstr "З_аменить на:"
+msgstr "вес _вашталташ:"
 
 msgid "Change selected text to lower case"
 msgstr "Перевести выделенный текст в нижний регистр"
@@ -432,13 +430,11 @@ msgid ""
 msgid_plural ""
 "Changes made to the document in the last %d hours will be permanently lost."
 msgstr[0] ""
-"Изменения, сделанные в документе за %d час, будут безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш %d шагат, эрелан йомдарын лия."
 msgstr[1] ""
-"Изменения, сделанные в документе за последние %d часа, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %d шагат, эрелан йомдарын лия."
 msgstr[2] ""
-"Изменения, сделанные в документе за последние %d часов, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %d шагат, эрелан йомдарын лия."
 
 msgid ""
 "Changes made to the document in the last %ld minute will be permanently lost."
@@ -446,14 +442,11 @@ msgid_plural ""
 "Changes made to the document in the last %ld minutes will be permanently "
 "lost."
 msgstr[0] ""
-"Изменения, сделанные в документе за последнюю %ld минуту, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld минут ыштыме, эрелан йомдарын лия."
 msgstr[1] ""
-"Изменения, сделанные в документе за последние %ld минуты, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld минут ыштыме, эрелан йомдарын лия."
 msgstr[2] ""
-"Изменения, сделанные в документе за последние %ld минут, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld минут ыштыме, эрелан йомдарын лия."
 
 msgid ""
 "Changes made to the document in the last %ld second will be permanently lost."
@@ -461,14 +454,11 @@ msgid_plural ""
 "Changes made to the document in the last %ld seconds will be permanently "
 "lost."
 msgstr[0] ""
-"Изменения, сделанные в документе за последнюю %ld секунду, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld секунд ыштыме, эрелан йомдарын лия."
 msgstr[1] ""
-"Изменения, сделанные в документе за последние %ld секунды, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld секунд ыштыме, эрелан йомдарын лия."
 msgstr[2] ""
-"Изменения, сделанные в документе за последние %ld секунд, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш %ld секунд ыштыме, эрелан йомдарын лия."
 
 msgid ""
 "Changes made to the document in the last hour and %d minute will be "
@@ -477,19 +467,18 @@ msgid_plural ""
 "Changes made to the document in the last hour and %d minutes will be "
 "permanently lost."
 msgstr[0] ""
-"Изменения, сделанные в документе за последний час и %d минуту, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш шагат да %d минут ыштыме, эрелан "
+"йомдарын лия."
 msgstr[1] ""
-"Изменения, сделанные в документе за последний час и %d минуты, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш шагат да %d минут ыштыме, эрелан "
+"йомдарын лия."
 msgstr[2] ""
-"Изменения, сделанные в документе за последний час и %d минут, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш шагат да %d минут ыштыме, эрелан "
+"йомдарын лия."
 
 msgid "Changes made to the document in the last hour will be permanently lost."
 msgstr ""
-"Изменения, сделанные в документе за последний час, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш шагат ыштыме, эрелан йомдарын лия."
 
 msgid ""
 "Changes made to the document in the last minute and %ld second will be "
@@ -498,74 +487,73 @@ msgid_plural ""
 "Changes made to the document in the last minute and %ld seconds will be "
 "permanently lost."
 msgstr[0] ""
-"Изменения, сделанные в документе за последние минуту и %ld секунду, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш минут да %ld секунд ыштыме, эрелан "
+"йомдарын лия."
 msgstr[1] ""
-"Изменения, сделанные в документе за последние минуту и %ld секунды, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш минут да %ld секунд ыштыме, эрелан "
+"йомдарын лия."
 msgstr[2] ""
-"Изменения, сделанные в документе за последние минуту и %ld секунд, будут "
-"безвозвратно утрачены."
+"Документыжо вашталтыме-влак, пытартыш минут да %ld секунд ыштыме, эрелан "
+"йомдарын лия."
 
 msgid ""
 "Changes made to the document in the last minute will be permanently lost."
 msgstr ""
-"Изменения, сделанные в документе за последнюю минуту, будут безвозвратно "
-"утрачены."
+"Документыжо вашталтыме-влак, пытартыш минут ыштыме, эрелан йомдарын лия."
 
 msgid "Changes the case of selected text."
-msgstr "Изменяет регистр выделенного текста."
+msgstr "Ойырымо текст регистрым вашталтеш."
 
 msgid "Changes to %d document will be permanently lost."
 msgid_plural "Changes to %d documents will be permanently lost."
-msgstr[0] "Изменения в %d документе будут безвозвратно утеряны."
-msgstr[1] "Изменения в %d документах будут безвозвратно утеряны."
-msgstr[2] "Изменения в %d документах будут безвозвратно утеряны."
+msgstr[0] "%d документыжо вашталтыме-влак эрелан йомдарын лия."
+msgstr[1] "%d документыжо вашталтыме-влак эрелан йомдарын лия."
+msgstr[2] "%d документыжо вашталтыме-влак эрелан йомдарын лия."
 
 msgid "Changes to document \"%s\" will be permanently lost."
-msgstr "Изменения документа «%s» будут безвозвратно утеряны."
+msgstr "«%s» документыжо вашталтыме-влак эрелан йомдарын лия."
 
 msgid "Character Encodings"
-msgstr "Кодировки символов"
+msgstr "Тамга кодировко"
 
 msgid "Character encoding of linked resource"
 msgstr "Кодировка текста ресурса"
 
 msgid "Character encodings"
-msgstr "Кодировки символов"
+msgstr "Тамга кодировко"
 
 msgid "Characters (no spaces)"
-msgstr "Символов (без пробелов)"
+msgstr "Тамга-влак (кокла посна деч)"
 
 msgid "Characters (with spaces)"
-msgstr "Символов (с пробелами)"
+msgstr "Тамга-влак (кокла дене)"
 
 msgid "Check Spelling"
-msgstr "Проверка орфографии"
+msgstr "Чын возымым тергымаш"
 
 msgid "Check _Word"
-msgstr "Проверить сл_ово"
+msgstr "Мутым те_ргаш"
 
 msgid "Check for latest version of gedit"
-msgstr "Проверить наличие новых версий gedit"
+msgstr "У Gedit версий тергымаш"
 
 msgid "Check spelling"
-msgstr "Проверка орфографии"
+msgstr "Чын возымым тергымаш"
 
 msgid "Check the current document for incorrect spelling"
-msgstr "Проверить орфографию в текущем документе"
+msgstr "Кызытсе документ чын возымым тергымаш"
 
 msgid "Check update"
-msgstr "Проверить наличие обновлений"
+msgstr "Уэмдым тергымаш"
 
 msgid "Checked (state)"
-msgstr "Отмечено (состояние)"
+msgstr "Палемдыме (статус)"
 
 msgid "Checked state"
-msgstr "Отмеченное состояние"
+msgstr "Палемдыме статус"
 
 msgid "Checks the spelling of the current document."
-msgstr "Проверяет орфографию в текущем документе."
+msgstr "Кызытсе документ чын возымым тергымаш."
 
 msgid "Chinese Simplified"
 msgstr "Китайская упрощённая"
@@ -583,7 +571,7 @@ msgid "Class implementation ID"
 msgstr "ID реализации классов"
 
 msgid "Class list"
-msgstr "Список классов"
+msgstr "Классым-влак лӱмер"
 
 msgid "Clear highlighting of search matches"
 msgstr "Очистить подсветку совпадений поиска"
@@ -595,28 +583,28 @@ msgid "Click on this button to select the font to be used by the editor"
 msgstr "Нажмите эту кнопку для выбора шрифта, используемого редактором"
 
 msgid "Close _without Saving"
-msgstr "Закрыть _без сохранения"
+msgstr "Петыраш _ посна деч арален коденаш"
 
 msgid "Close all open files"
-msgstr "Закрыть все открытые файлы"
+msgstr "Чыла почыт файл-влак петыраш"
 
 msgid "Close document"
-msgstr "Закрыть документ"
+msgstr "Документ петыраш"
 
 msgid "Close print preview"
-msgstr "Закрыть просмотр печати"
+msgstr "Ончылгоч ончымаш петыраш"
 
 msgid "Close the current file"
-msgstr "Закрыть текущий файл"
+msgstr "Кызытсе файл петыраш"
 
 msgid "Code content type"
 msgstr "Тип содержимого кода"
 
 msgid "Color Scheme"
-msgstr "Цветовая схема"
+msgstr "Тӱс схеме"
 
 msgid "Color Scheme Files"
-msgstr "Файлы цветовых схем"
+msgstr "Тӱсан схемжо файл-влак"
 
 msgid "Color of selected links"
 msgstr "Цвет выбранных ссылок"
@@ -628,13 +616,13 @@ msgid "Column span"
 msgstr "Объединение столбцов"
 
 msgid "Columns"
-msgstr "Столбцы"
+msgstr "Меҥге-влак"
 
 msgid "Comment"
 msgstr "Комментарий"
 
 msgid "Completed spell checking"
-msgstr "Проверка завершена"
+msgstr "Чын возымым тергымаш пытен"
 
 msgid "Computer code fragment"
 msgstr "Фрагмент кода для компьютера"
@@ -646,7 +634,7 @@ msgid "Configure insert date/time plugin..."
 msgstr "Настроить модуль вставки даты и времени..."
 
 msgid "Configure the application"
-msgstr "Настроить приложение"
+msgstr "Пеленлыкым келыштараш"
 
 msgid "Connection timed out. Please try again."
 msgstr "Время ожидания соединения вышло. Попробуйте ещё раз."
@@ -664,7 +652,7 @@ msgid "Coordinates"
 msgstr "Координаты"
 
 msgid "Copy the selection"
-msgstr "Копировать выделенный текст"
+msgstr "Палемдыме текстым копий ышташ"
 
 msgid "Could not create a backup file while saving %s"
 msgstr "Не удалось создать резервную копию файла при сохранении %s."
@@ -676,7 +664,7 @@ msgid "Could not execute command: %s"
 msgstr "Не удалось выполнить команду: %s"
 
 msgid "Could not find the file %s."
-msgstr "Не удалось найти файл «%s»."
+msgstr "Ом керт муаш файл «%s»."
 
 msgid "Could not mount volume: %s"
 msgstr "Не удалось подсоединить том: %s"
@@ -685,31 +673,31 @@ msgid "Could not open media: %s"
 msgstr "Не удалось открыть носитель: %s"
 
 msgid "Could not open the file %s using the %s character encoding."
-msgstr "Не удалось открыть файл %s используя кодировку %s."
+msgstr "Ом керт почем файл %s кодировкожо %s кучылташ."
 
 msgid "Could not open the file %s."
-msgstr "Не удалось открыть файл «%s»."
+msgstr "Ом керт файл «%s» почаш."
 
 msgid "Could not remove color scheme \"%s\"."
 msgstr "Не удалось удалить цветовую схему «%s»."
 
 msgid "Could not revert the file %s."
-msgstr "Не удалось восстановить файл «%s»."
+msgstr "Ом керт файл «%s» вашталтышым кораҥдаш."
 
 msgid "Could not save the file %s using the %s character encoding."
 msgstr "Не удалось сохранить файл %s, используя кодировку %s."
 
 msgid "Could not save the file %s."
-msgstr "Не удалось сохранить файл %s."
+msgstr "Ом керт файл %s арален кодаш."
 
 msgid "Create Backup Copies"
-msgstr "Создавать резервные копии"
+msgstr "Ямдылаш шапаш копий-влак"
 
 msgid "Create a _backup copy of files before saving"
-msgstr "Создавать _резервную копию файла перед сохранением"
+msgstr "Шапаш копийым вашеш арален кодымашым ямдылаш"
 
 msgid "Create a new document"
-msgstr "Создать новый документ"
+msgstr "У документ ямдылаш"
 
 msgid "Create a new document in an existing instance of gedit"
 msgstr "Создать новый документ в существующем экземпляре программы"
@@ -718,37 +706,37 @@ msgid "Create a new top-level window in an existing instance of gedit"
 msgstr "Создать новое главное окно в существующем экземпляре gedit"
 
 msgid "Create new document"
-msgstr "Создать новый документ"
+msgstr "У документ ямдылаш"
 
 msgid "Create new snippet"
 msgstr "Создать новый фрагмент текста"
 
 msgid "Current Line"
-msgstr "Текущая строка"
+msgstr "Кызытсе корно"
 
 msgid "Current Locale (%s)"
-msgstr "Текущая локаль (%s)"
+msgstr "Кызытсе йылме (%s)"
 
 msgid "Current document"
-msgstr "Текущий документ"
+msgstr "Кызытсе документ"
 
 msgid "Current line"
-msgstr "Текущая строка"
+msgstr "Кызытсе корно"
 
 msgid "Current page (Alt+P)"
-msgstr "Текущая страница (Alt+P)"
+msgstr "Кызытсе лышташ (Alt+P)"
 
 msgid "Current selection"
-msgstr "Текущее выделение"
+msgstr "Кызытсе палемдымаш"
 
 msgid "Current selection (default to document)"
 msgstr "Текущее выделение (по умолчанию для документа)"
 
 msgid "Current word"
-msgstr "Текущее слово"
+msgstr "Кызытсе мут"
 
 msgid "Cut the selection"
-msgstr "Вырезать выделенный текст"
+msgstr "Палемдымашым пӱчкаш"
 
 msgid "Cyrillic"
 msgstr "Кириллическая"
@@ -766,16 +754,16 @@ msgid "DIV container"
 msgstr "Контейнер DIV"
 
 msgid "D_on't Edit"
-msgstr "_Не редактировать"
+msgstr "_Ит вашталташ"
 
 msgid "D_on't Save"
-msgstr "_Не сохранять"
+msgstr "_Ит арален кодаш"
 
 msgid "Date and time of change"
-msgstr "Дата и время изменения"
+msgstr "Вашталтыме жап"
 
 msgid "Declare flag"
-msgstr "Описание флага"
+msgstr "Тистем возен ончыктымаш"
 
 msgid "Defer attribute"
 msgstr "Признак отложенности"
@@ -802,29 +790,29 @@ msgid "Deleted text"
 msgstr "Удалённый текст"
 
 msgid "Direction"
-msgstr "Направление"
+msgstr "Виктыш"
 
 msgid "Directionality"
-msgstr "Направленность"
+msgstr "Виктараш"
 
 msgid "Directionality (deprecated)"
-msgstr "Направленность (устаревший)"
+msgstr "Виктараш (тоштемше)"
 
 msgid "Directory '%s' could not be created: g_mkdir_with_parents() failed: %s"
 msgstr ""
 "Не удалось создать каталог «%s»: g_mkdir_with_parents() вернуло ошибку: %s"
 
 msgid "Directory list"
-msgstr "Список каталогов"
+msgstr "Каталог-влак лӱмер"
 
 msgid "Disable syntax highlighting"
-msgstr "Отключить подсветку синтаксиса"
+msgstr "Синтаксис палемдымашым йӧрташ"
 
 msgid "Disabled"
-msgstr "Отключено"
+msgstr "Йӧртымо"
 
 msgid "Display Line Numbers"
-msgstr "Отображать номера строк"
+msgstr "Корным номераже ончыкташ"
 
 msgid "Display Right Margin"
 msgstr "Отображать правую границу"
@@ -879,13 +867,13 @@ msgid "Document type"
 msgstr "Тип документа"
 
 msgid "Documents"
-msgstr "Документы"
+msgstr "Документ-влак"
 
 msgid "Done."
-msgstr "Готово."
+msgstr "Ямде."
 
 msgid "ENCODING"
-msgstr "КОДИРОВКА"
+msgstr "КОДИРОВКО"
 
 msgid "E_ncodings shown in menu:"
 msgstr "К_одировки, отображаемые в меню:"
@@ -907,13 +895,13 @@ msgstr ""
 "Редактирование файлов с текстом или исходным кодом, с выделением синтаксиса"
 
 msgid "Editor"
-msgstr "Редактор"
+msgstr "Тӧрлызӧ"
 
 msgid "Editor Font"
-msgstr "Шрифт редактора"
+msgstr "Тӧрлызӧ шрифт"
 
 msgid "Editor _font: "
-msgstr "_Шрифт редактора: "
+msgstr "_Тӧрлызӧ шрифт: "
 
 msgid "Element ID"
 msgstr "Идентификатор"
@@ -925,10 +913,10 @@ msgid "Embedded object"
 msgstr "Встроенные объект"
 
 msgid "Emphasis"
-msgstr "Выделение"
+msgstr "Палемдымаш"
 
 msgid "Empty"
-msgstr "Пусто"
+msgstr "Яра"
 
 msgid "Enable Restore of Remote Locations"
 msgstr "Включить или выключить удалённые адреса"
@@ -940,28 +928,28 @@ msgid "Enable Syntax Highlighting"
 msgstr "Включить подсветку синтаксиса"
 
 msgid "Enable text _wrapping"
-msgstr "Включить режим _переноса текста"
+msgstr "Текстым кусарымаш режимым чӱкташ"
 
 msgid "Enabled"
-msgstr "Включено"
+msgstr "Чӱктымо"
 
 msgid "Encode type"
-msgstr "Тип кодирования"
+msgstr "Кодировкыжо тип"
 
 msgid "Encoding:"
-msgstr "Кодировка:"
+msgstr "Кодировко:"
 
 msgid "Encodings shown in menu"
 msgstr "Кодировки, отображаемые в меню"
 
 msgid "Error opening file %s"
-msgstr "Ошибка открытия файла «%s»"
+msgstr "Файлыжо «%s» почашын йоҥылыш"
 
 msgid "Error reverting file %s"
 msgstr "Ошибка восстановления файла «%s»"
 
 msgid "Error saving file %s"
-msgstr "Ошибка сохранения файла «%s»"
+msgstr "Файлыжо «%s» арален кодымашын йоҥылыш лия"
 
 msgid "Execute a custom command and put its output in a new document"
 msgstr "Выполнить команду и перенести её вывод в новый документ"
@@ -980,7 +968,7 @@ msgid "Execution of the Python command (%s) failed: %s"
 msgstr "Не удалось исполнить команду Python (%s): %s"
 
 msgid "Exited"
-msgstr "Выход"
+msgstr "Лекмаш"
 
 msgid "Expected `%s', got `%s' for key %s"
 msgstr "Ожидалось значение «%s», получено значение «%s» для ключа %s"
@@ -1007,10 +995,10 @@ msgid "External tools"
 msgstr "Внешние инструменты"
 
 msgid "Figure"
-msgstr "Рисунок"
+msgstr "Сӱрет"
 
 msgid "File \"%s\" does not exist"
-msgstr "Файл «%s» не существует"
+msgstr "Файл «%s» улаш огыл"
 
 msgid "File \"%s\" is not a valid snippets archive"
 msgstr "Файл «%s» не является корректным архивом фрагментов текста"
@@ -1019,7 +1007,7 @@ msgid "File \"%s\" is not a valid snippets file"
 msgstr "Файл «%s» не содержит фрагментов текста"
 
 msgid "File Browser"
-msgstr "Обозреватель файлов"
+msgstr "Файл ончыктышо"
 
 msgid "File Browser Filter Mode"
 msgstr "Режим фильтра обозревателя файлов"
@@ -1028,7 +1016,7 @@ msgid "File Browser Filter Pattern"
 msgstr "Шаблон фильтра обозревателя файлов"
 
 msgid "File Browser Pane"
-msgstr "Панель обозревателя файлов"
+msgstr "Файл ончыктышын панель"
 
 msgid "File Browser Root Directory"
 msgstr "Корневой каталог обозревателя файлов"
@@ -1037,55 +1025,55 @@ msgid "File Browser Virtual Root Directory"
 msgstr "Виртуальный корневой каталог обозревателя файлов"
 
 msgid "File Name"
-msgstr "Имя файла"
+msgstr "Файлыжо лӱм"
 
 msgid "File Saving"
-msgstr "Сохранение файлов"
+msgstr "Файл-влак арален кодымаш"
 
 msgid "File System"
 msgstr "Файловая система"
 
 msgid "File input"
-msgstr "Вставка файла"
+msgstr "Файлым шындаш"
 
 msgid "File: %s"
 msgstr "Файл: %s"
 
 msgid "Find"
-msgstr "Найти"
+msgstr "Муаш"
 
 msgid "Find Ne_xt"
-msgstr "Найти след_ующее"
+msgstr "Умбакыже кычалаш"
 
 msgid "Find Pre_vious"
-msgstr "Найти пред_ыдущее"
+msgstr "Ончылже кычалаш"
 
 msgid "Font"
 msgstr "Шрифт"
 
 msgid "Font & Colors"
-msgstr "Шрифты и цвета"
+msgstr "Шрифт да тӱс -влак"
 
 msgid "Font face"
-msgstr "Начертание шрифта"
+msgstr "Шрифтым корымаш"
 
 msgid "Font face (deprecated)"
-msgstr "Начертание шрифта (устаревший)"
+msgstr "Шрифтым корымаш (тоштемше)"
 
 msgid "Fonts"
-msgstr "Шрифты"
+msgstr "Шрифт-влак"
 
 msgid "Footnote"
-msgstr "Сноска"
+msgstr "Сноско"
 
 msgid "For label"
-msgstr "Для метки"
+msgstr "Палылан"
 
 msgid "Forced line break"
-msgstr "Принудительный разрыв строки"
+msgstr "Ӧкымлӧ корным кӱрлмаш"
 
 msgid "Form"
-msgstr "Форма"
+msgstr "Формо"
 
 msgid "Form action handler"
 msgstr "Обработчик действия формы"
@@ -1097,13 +1085,13 @@ msgid "Form field label text"
 msgstr "Текстовая метка поля формы"
 
 msgid "Form input"
-msgstr "Ввод формы"
+msgstr "Формым пуртымаш"
 
 msgid "Form input type"
-msgstr "Тип ввода формы"
+msgstr "Формын пурташ тип"
 
 msgid "Form method"
-msgstr "Метод формы"
+msgstr "Формым йӧн"
 
 msgid "Forward link"
 msgstr "Ссылка вперёд"
@@ -1187,7 +1175,7 @@ msgid "Global"
 msgstr "Глобальный"
 
 msgid "Go to _Line..."
-msgstr "Перейти к _строке..."
+msgstr "Текст корнтышто куснаш ..."
 
 msgid "Go to a previously opened location"
 msgstr "Перейти к предыдущему открытому адресу"
@@ -1232,22 +1220,22 @@ msgid "Greek tau"
 msgstr "Греческая tau"
 
 msgid "Gzip compressed archive"
-msgstr "Архивы Gzip"
+msgstr "Gzip чондай"
 
 msgid "HREF URI"
-msgstr "Ссылка URI"
+msgstr "URI кылвер"
 
 msgid "HTML - Special Characters"
 msgstr "HTML - Специальные символы"
 
 msgid "HTML - Tags"
-msgstr "HTML - Теги"
+msgstr "HTML - Тег-влак"
 
 msgid "HTML root element"
 msgstr "Корневой элемент HTML"
 
 msgid "HTML version"
-msgstr "Версия HTML"
+msgstr "HTML версий"
 
 msgid "HTTP header name"
 msgstr "Название заголовка HTTP"
@@ -1331,10 +1319,10 @@ msgid "Highlight Matching Bracket"
 msgstr "Подчёркивать совпадающие скобки"
 
 msgid "Highlight current _line"
-msgstr "Под_свечивать текущую строку"
+msgstr "Кызытсе корным палемдаш"
 
 msgid "Highlight matching _bracket"
-msgstr "Подсвечивать соответствующую _скобку"
+msgstr "Келшен толжын скобкым палемдаш"
 
 msgid "Horizontal rule"
 msgstr "Горизонтальная линия"
@@ -1484,19 +1472,19 @@ msgid "Ignore _All"
 msgstr "Игнорировать в_се"
 
 msgid "Image"
-msgstr "Изображение"
+msgstr "Сӱрет"
 
 msgid "Image map"
 msgstr "Способ отображения"
 
 msgid "Image map area"
-msgstr "Изображение - область"
+msgstr "Сӱрет - вер"
 
 msgid "Image map name"
-msgstr "Изображение - имя"
+msgstr "Сӱрет - лӱм"
 
 msgid "Image source"
-msgstr "Источник изображения"
+msgstr "Сӱретын вер"
 
 msgid "Import snippets"
 msgstr "Импортировать фрагменты"
@@ -1508,7 +1496,7 @@ msgid "Imported file \"%s\" is not a valid snippets file"
 msgstr "Импортируемый файл «%s» не содержит корректных фрагментов текста"
 
 msgid "In_sert Date and Time..."
-msgstr "Вставить дат_у и время..."
+msgstr "Датым да жапым шындымаш..."
 
 msgid "Incrementally search for text"
 msgstr "Интерактивный поиск текста"
@@ -1520,13 +1508,13 @@ msgid "Inline layer"
 msgstr "Внутристрочный слой"
 
 msgid "Insert Date and Time"
-msgstr "Вставить дату и время"
+msgstr "Датым да жапым шындымаш"
 
 msgid "Insert Date/Time"
-msgstr "Вставка даты и времени"
+msgstr "Шындаш датым да жапым"
 
 msgid "Insert _spaces instead of tabs"
-msgstr "Вставлять про_белы вместо табуляций"
+msgstr "Коклам шындаш табуляций шоҥыш"
 
 msgid "Insert at cursor position"
 msgstr "Вставить в текущей позиции курсора"
@@ -1616,7 +1604,7 @@ msgid "Line Numbers"
 msgstr "Номера строк"
 
 msgid "Line Wrapping Mode"
-msgstr "Режим переноса строк"
+msgstr "Текстым кусарымаш режим"
 
 msgid "Line you want to move the cursor to"
 msgstr "Строка куда вы хотите переместить курсор"
@@ -1790,7 +1778,7 @@ msgid "Move selected file or folder to trash"
 msgstr "Удалить выделенный файл или папку в корзину"
 
 msgid "Move the current document to a new window"
-msgstr "Переместить текущий документ в новое окно"
+msgstr "Кызытсе документым ум тӧрзашто вашталташ"
 
 msgid "Multi-line text field"
 msgstr "Многострочное текстовое поле"
@@ -1802,16 +1790,16 @@ msgid "Multiple"
 msgstr "Несколько"
 
 msgid "Name"
-msgstr "Имя"
+msgstr "Лӱм"
 
 msgid "Name:"
-msgstr "Имя:"
+msgstr "Лӱм:"
 
 msgid "Named property value"
 msgstr "Значение именованного свойства"
 
 msgid "New F_ile"
-msgstr "С_оздать файл"
+msgstr "Файл ямдылаш"
 
 msgid "New tool"
 msgstr "Новый инструмент"
@@ -1820,7 +1808,7 @@ msgid "Next ID"
 msgstr "Следующий ID"
 
 msgid "Next location"
-msgstr "Следующий адрес"
+msgstr "Вес адрес"
 
 msgid "No URI"
 msgstr "Без URI"
@@ -1856,7 +1844,7 @@ msgid "No shade (deprecated)"
 msgstr "Без тени (устаревший)"
 
 msgid "No word wrap"
-msgstr "Без переноса слов"
+msgstr "Мутым кусарымаш деч посна"
 
 msgid "No word wrap (deprecated)"
 msgstr "Без переноса слов (устаревший)"
@@ -1951,22 +1939,22 @@ msgid "OnUnload event"
 msgstr "Событие OnUnload"
 
 msgid "Open"
-msgstr "Открыть"
+msgstr "Почаш"
 
 msgid "Open '%s'"
-msgstr "Открыть '%s'"
+msgstr "Почаш '%s'"
 
 msgid "Open Files"
-msgstr "Открыть файлы"
+msgstr "Файл-влак почаш"
 
 msgid "Open With Tree View"
 msgstr "Открыть в режиме дерева"
 
 msgid "Open a file"
-msgstr "Открыть файл"
+msgstr "Файлым почаш"
 
 msgid "Open a recently used file"
-msgstr "Открыть недавно использованный файл"
+msgstr "Шукертсе огыл файлым почаш"
 
 msgid "Open a terminal at the currently opened directory"
 msgstr "Открыть терминал в открытом в текущий момент каталоге"
@@ -2018,7 +2006,7 @@ msgid "Option selector"
 msgstr "Выбор параметров"
 
 msgid "Ordered list"
-msgstr "Нумерованный список"
+msgstr "Номеран лӱмер"
 
 msgid "Output media"
 msgstr "Вывод мультимедиа"
@@ -2030,7 +2018,7 @@ msgid "Page %d of %d"
 msgstr "Страница %d из %d"
 
 msgid "Page Preview"
-msgstr "Предварительный просмотр"
+msgstr "Ончылгоч ончымаш"
 
 msgid "Page Set_up..."
 msgstr "Пара_метры страницы..."
@@ -2051,7 +2039,7 @@ msgid "Paragraph style"
 msgstr "Стиль абзаца"
 
 msgid "Paste the clipboard"
-msgstr "Вставить из буфера обмена"
+msgstr "Вашталтыш буфер гыч шындаш"
 
 msgid "Pick the editor font"
 msgstr "Выберите цвет редактора"
@@ -2072,13 +2060,13 @@ msgid "Plugin"
 msgstr "Модуль"
 
 msgid "Plugins"
-msgstr "Модули"
+msgstr "Модуль-влак"
 
 msgid "Pr_eferences"
-msgstr "_Параметры"
+msgstr "_Келыштарыш-влак"
 
 msgid "Preferences"
-msgstr "Параметры"
+msgstr "Келыштарыш-влак"
 
 msgid "Preformatted listing"
 msgstr "Заранее отформатированный исходный код"
@@ -2093,19 +2081,19 @@ msgid "Previous location"
 msgstr "Предыдущий адрес"
 
 msgid "Print"
-msgstr "Печать"
+msgstr "Савыкташ"
 
 msgid "Print Header"
 msgstr "Печатать заголовки страниц"
 
 msgid "Print Line Numbers"
-msgstr "Печатать номера строк"
+msgstr "Корныжым номер-влак савыкташ"
 
 msgid "Print Previe_w"
-msgstr "Просмотр печати"
+msgstr "Ончылгоч ончыма_ш"
 
 msgid "Print Syntax Highlighting"
-msgstr "Печатать подсветку синтаксиса"
+msgstr "Синтаксисым палемдымашым савыкташ"
 
 msgid "Print line nu_mbers"
 msgstr "Печатать _номера строк"
@@ -2114,13 +2102,13 @@ msgid "Print page _headers"
 msgstr "Печатать за_головки страницы"
 
 msgid "Print preview"
-msgstr "Просмотреть образец печати"
+msgstr "Ончылгоч ончымаш"
 
 msgid "Print synta_x highlighting"
 msgstr "Печатать по_дсветку синтаксиса"
 
 msgid "Print the current page"
-msgstr "Печать текущей страницы"
+msgstr "Кызытсе лышташым савыкташ"
 
 msgid "Printing Line Wrapping Mode"
 msgstr "Режим переноса строк при печати"
@@ -2175,7 +2163,7 @@ msgid "Range"
 msgstr "Диапазон"
 
 msgid "Re_fresh View"
-msgstr "О_бновить вид"
+msgstr "Ончыкто уэмдаш"
 
 msgid "Read-Only"
 msgstr "Только для чтения"
@@ -2184,7 +2172,7 @@ msgid "ReadOnly text and password"
 msgstr "Текст только для чтения и пароль"
 
 msgid "Redo the last undone action"
-msgstr "Вернуть отменённое действие"
+msgstr "Кораҥдыме ыштымашым пӧртылташ"
 
 msgid "Reduced spacing"
 msgstr "Сокращённые интервалы"
@@ -2193,10 +2181,10 @@ msgid "Reduced spacing (deprecated)"
 msgstr "Сокращённые интервалы (устаревший)"
 
 msgid "Reference label"
-msgstr "Метка ссылки"
+msgstr "Кылверын пале"
 
 msgid "Reference ref"
-msgstr "Ссылка"
+msgstr "Кылвер"
 
 msgid "Refresh the view"
 msgstr "Обновить вид"
@@ -2205,25 +2193,25 @@ msgid "Remote files only"
 msgstr "Только удалённые документы"
 
 msgid "Remove trailing spaces"
-msgstr "Удалить пробелы"
+msgstr "Кокла-влак кораҥдаш"
 
 msgid "Remove useless trailing spaces in your file"
 msgstr "Удалить лишние пробелы в имени файла"
 
 msgid "Rename selected file or folder"
-msgstr "Переименовать выделенный файл или папку"
+msgstr "Палемдыме файл але папке уэш лӱмдаш"
 
 msgid "Replace"
-msgstr "Заменить"
+msgstr "Алмашташ"
 
 msgid "Replace All"
-msgstr "Заменить всё"
+msgstr "Чыла алмашташ"
 
 msgid "Replace _All"
-msgstr "Заменить вс_е"
+msgstr "Чыла алмашта_ш"
 
 msgid "Replace _with: "
-msgstr "З_аменить на:"
+msgstr "Вес алмашташ:"
 
 msgid "Replace current document"
 msgstr "Заменить текущий документ"
@@ -2265,10 +2253,10 @@ msgid "Romanian"
 msgstr "Румынская"
 
 msgid "Root"
-msgstr "Корень"
+msgstr "Тӱҥ"
 
 msgid "Rows"
-msgstr "Строки"
+msgstr "Корно-влак"
 
 msgid "Rulings between rows and columns"
 msgstr "Разметка между строками и колонками"
@@ -2277,13 +2265,13 @@ msgid "Run \"make\" in the document directory"
 msgstr "Выполнить «make» в каталоге с документом"
 
 msgid "Run command"
-msgstr "Выполнить команду"
+msgstr "Кӱштымашым колташ"
 
 msgid "Running tool:"
 msgstr "Запускается утилита:"
 
 msgid "S_ave Anyway"
-msgstr "Всё равно со_хранить"
+msgstr "Садаклан арален кодаш"
 
 msgid "S_elect the documents you want to save:"
 msgstr "_Выберите документы, которые вы хотите сохранить:"
@@ -2292,7 +2280,7 @@ msgid "S_hortcut key:"
 msgstr "_Комбинация клавиш:"
 
 msgid "S_ort..."
-msgstr "C_ортировать..."
+msgstr "О_йыркалаш..."
 
 msgid "S_tart at column:"
 msgstr "На_чинать со столбца:"
@@ -2307,22 +2295,22 @@ msgid "Sans 8"
 msgstr "Sans 8"
 
 msgid "Save"
-msgstr "Сохранить"
+msgstr "Арален кодаш"
 
 msgid "Save As…"
-msgstr "Сохранить как..."
+msgstr "...семын арален кодаш"
 
 msgid "Save _As..."
-msgstr "Сохранить _как..."
+msgstr "...семын _арален кодаш"
 
 msgid "Save all open files"
-msgstr "Сохранить все открытые файлы"
+msgstr "Чыла почен файл-влак арален кодаш"
 
 msgid "Save changes to document \"%s\" before closing?"
 msgstr "Сохранить изменения в документе «%s» перед закрытием?"
 
 msgid "Save the current file"
-msgstr "Сохранить текущий файл"
+msgstr "Кызытсе файл арален кодаш"
 
 msgid "Save the current file with a different name"
 msgstr "Сохранить текущий файл под другим именем"
@@ -2334,7 +2322,7 @@ msgid "Saving %s to %s"
 msgstr "Сохраняется %s в %s"
 
 msgid "Saving file '%s'…"
-msgstr "Сохраняется файл «%s»..."
+msgstr "Файл «%s» арален кода..."
 
 msgid "Saving has been disabled by the system administrator."
 msgstr "Сохранение было запрещено системным администратором."
@@ -2349,25 +2337,25 @@ msgid "Script statements"
 msgstr "Сценарий"
 
 msgid "Scrollbar"
-msgstr "Полоса прокрутки"
+msgstr "Кондыштарыме корно"
 
 msgid "Search _backwards"
-msgstr "Обратный поиск"
+msgstr "Мӧҥгешла кычалмаш"
 
 msgid "Search backwards for the same text"
 msgstr "Обратный поиск того же текста"
 
 msgid "Search for and replace text"
-msgstr "Поиск и замена текста"
+msgstr "Текстым кычалмаш да алмашташ"
 
 msgid "Search for text"
-msgstr "Поиск текста"
+msgstr "Текстым кычалмаш"
 
 msgid "Search forwards for the same text"
 msgstr "Обратный поиск этого же текста"
 
 msgid "Select _All"
-msgstr "В_ыделить всё"
+msgstr "Чыла палемдаш"
 
 msgid "Select a character encoding from the menu and try again."
 msgstr "Выберите кодировку из меню и попробуйте ещё раз."
@@ -2388,10 +2376,10 @@ msgid "Selectable option"
 msgstr "Выбираемый параметр"
 
 msgid "Selected"
-msgstr "Выбрано"
+msgstr "Ойырымо"
 
 msgid "Selection"
-msgstr "Выделение"
+msgstr "Ойырымаш"
 
 msgid "Server-side image map"
 msgstr "Раскладка изображений на сервере"
@@ -2400,10 +2388,10 @@ msgid "Set Location to First Document"
 msgstr "Установить адрес на первый документ"
 
 msgid "Set _Language..."
-msgstr "Установить _язык..."
+msgstr "Йылмем _шындаш..."
 
 msgid "Set language"
-msgstr "Установить язык"
+msgstr "Йылмем шындаш"
 
 msgid ""
 "Set the character encoding to be used to open the files listed on the "
@@ -2425,7 +2413,7 @@ msgid "Sets whether to enable restoring of remote locations."
 msgstr "Устанавливает, разрешено ли восстановление из удалённых адресов."
 
 msgid "Shape"
-msgstr "Форма"
+msgstr "Формо"
 
 msgid "Shell Output"
 msgstr "Вывод оболочки"
@@ -2476,7 +2464,7 @@ msgid "Side Pane is Visible"
 msgstr "Боковая панель видима"
 
 msgid "Side _Pane"
-msgstr "Бо_ковая панель"
+msgstr "Ӧрдыж оҥа"
 
 msgid "Single line prompt"
 msgstr "Однострочное поле ввода"
@@ -2490,7 +2478,7 @@ msgstr ""
 "вставляется, если после слова нажать Tab."
 
 msgid "Size"
-msgstr "Размер"
+msgstr "Кугыт"
 
 msgid "Size (deprecated)"
 msgstr "Размер (устаревший)"
@@ -2763,16 +2751,16 @@ msgid "Symbol star"
 msgstr "Символ звезда"
 
 msgid "Syntax Highlighting"
-msgstr "Подсветка синтаксиса"
+msgstr "Синтаксисым палемдымаш"
 
 msgid "Tab Size"
-msgstr "Размер табуляции"
+msgstr "Табуляцийын кугыт"
 
 msgid "Tab Stops"
-msgstr "Метки табуляции"
+msgstr "Табуляцийын пале-влак"
 
 msgid "Tab Width"
-msgstr "Ширина табуляции"
+msgstr "Табуляцийын лопкыт"
 
 msgid "Tab order position"
 msgstr "Положение вкладок"
@@ -2844,10 +2832,10 @@ msgid "Text Editor"
 msgstr "Текстовый редактор"
 
 msgid "Text Wrapping"
-msgstr "Перенос текста"
+msgstr "Текстым кусарымаш"
 
 msgid "Text color"
-msgstr "Цвет текста"
+msgstr "Текстым тӱс"
 
 msgid "Text color (deprecated)"
 msgstr "Цвет текста (устаревший)"
@@ -3015,9 +3003,9 @@ msgstr "Доступна новая версия редактора gedit"
 
 msgid "There is a tab with errors"
 msgid_plural "There are %d tabs with errors"
-msgstr[0] "%d вкладка с ошибками"
-msgstr[1] "%d вкладки с ошибками"
-msgstr[2] "%d вкладок с ошибками"
+msgstr[0] "%d ешартыш йоҥылыш дене"
+msgstr[1] "%d ешартыш йоҥылыш дене"
+msgstr[2] "%d ешартыш йоҥылыш дене"
 
 msgid ""
 "There is not enough disk space to save the file. Please free some disk space "
@@ -3087,10 +3075,10 @@ msgid "Type a new shortcut, or press Backspace to clear"
 msgstr "Введите новую комбинацию клавиш, или нажмите Backspace для очистки"
 
 msgid "Typeface bold"
-msgstr "Шрифт жирный"
+msgstr "Кӱжгӧ шрифт"
 
 msgid "Typeface italic"
-msgstr "Шрифт курсив"
+msgstr "Йожек шрифт"
 
 msgid "Typeface slanted"
 msgstr "Шрифт подчёркнутый"
@@ -3117,10 +3105,10 @@ msgid "Undo Actions Limit (DEPRECATED)"
 msgstr "Лимит операций отмены (УСТАРЕВШИЙ)"
 
 msgid "Undo the last action"
-msgstr "Отменить последнее действие"
+msgstr "Пытартышым ыштымашым кораҥдаш"
 
 msgid "Unexpected error: %s"
-msgstr "Неожиданная ошибка: %s"
+msgstr "Вучыдымо йоҥылыш: %s"
 
 msgid "Unicode"
 msgstr "Юникод"
@@ -3132,19 +3120,19 @@ msgid "Unix/Linux"
 msgstr "Unix/Linux"
 
 msgid "Unknown"
-msgstr "Неизвестно"
+msgstr "Палыдыме"
 
 msgid "Unordered list"
 msgstr "Маркированный список"
 
 msgid "Unsaved Document %d"
-msgstr "Несохранённый документ %d"
+msgstr "У документ %d"
 
 msgid "Untitled documents only"
 msgstr "Только несохранённые документы"
 
 msgid "Up"
-msgstr "Вверх"
+msgstr "Кӱшкӧ"
 
 msgid "Use %s highlight mode"
 msgstr "Использовать режим подсветки «%s»"
@@ -3153,7 +3141,7 @@ msgid "Use Default Font"
 msgstr "Использовать шрифт по умолчанию"
 
 msgid "Use Spaces"
-msgstr "Вставлять пробелы"
+msgstr "Коклам-влак шындымаш"
 
 msgid "Use image map"
 msgstr "Использовать раскладку изображений"
@@ -3165,7 +3153,7 @@ msgid "User dictionary:"
 msgstr "Пользовательский словарь:"
 
 msgid "Value"
-msgstr "Значение"
+msgstr "Ыҥ"
 
 msgid "Value interpretation"
 msgstr "Интерпретация значения"
@@ -3189,7 +3177,7 @@ msgid "Vietnamese"
 msgstr "Вьетнамская"
 
 msgid "View"
-msgstr "Вид"
+msgstr "Ончалмаш"
 
 msgid "View folder in file manager"
 msgstr "Просмотреть папку в менеджере файлов"
@@ -3287,13 +3275,13 @@ msgstr ""
 "редактора»."
 
 msgid "Width"
-msgstr "Ширина"
+msgstr "Лопкыт"
 
 msgid "Windows"
 msgstr "Windows"
 
 msgid "Words"
-msgstr "Слов"
+msgstr "Мут"
 
 msgid "Writable VFS schemes"
 msgstr "Схемы VFS, поддерживаемые при записи"
@@ -3305,13 +3293,13 @@ msgid "XSLT - Axes"
 msgstr "XSLT - Направления"
 
 msgid "XSLT - Elements"
-msgstr "XSLT - Элементы"
+msgstr "XSLT - Элемент-влак"
 
 msgid "XSLT - Functions"
-msgstr "XSLT - Функции"
+msgstr "XSLT - Функций-влак"
 
 msgid "XUL - Tags"
-msgstr "XUL - Теги"
+msgstr "XUL - Тег-влак"
 
 msgid ""
 "You are trying to save the file on a read-only disk. Please check that you "
@@ -3368,103 +3356,103 @@ msgid "[UTF-8,CURRENT,ISO-8859-15,UTF-16]"
 msgstr "[UTF-8,CURRENT,WINDOWS-1251,KOI8R,ISO-8859-5]"
 
 msgid "_About"
-msgstr "_О модуле"
+msgstr "_Модуль нерген"
 
 msgid "_About Plugin"
-msgstr "_О модуле"
+msgstr "_Модуль нерген"
 
 msgid "_Add"
-msgstr "Доб_авить"
+msgstr "Еша_раш"
 
 msgid "_Add..."
-msgstr "Доб_авить..."
+msgstr "Еша_раш..."
 
 msgid "_Applicability:"
-msgstr "_Применимость:"
+msgstr "_Кучылтамаш:"
 
 msgid "_Autocheck Spelling"
-msgstr "_Автоматически проверять орфографию"
+msgstr "_Шкак чын возымым тергымаш"
 
 msgid "_Autosave files every"
-msgstr "_Автоматически сохранять файлы каждые"
+msgstr "_Шкак файл арален кодымаш кажне"
 
 msgid "_Body:"
 msgstr "_Тело:"
 
 msgid "_Bottom Pane"
-msgstr "_Нижняя панель"
+msgstr "_Ӱлыл оҥа"
 
 msgid "_Cancel Logout"
 msgstr "_Отменить выход"
 
 msgid "_Check Spelling..."
-msgstr "_Проверить орфографию..."
+msgstr "_Чын возымым тергымаш..."
 
 msgid "_Clear Highlight"
-msgstr "О_чистить подсветку"
+msgstr "Палемдымашым эрыкташ"
 
 msgid "_Close All"
-msgstr "_Закрыть все"
+msgstr "_Чыла петыраш"
 
 msgid "_Close Preview"
-msgstr "_Закрыть просмотр печати"
+msgstr "_Ончылгоч ончымашым петыраш"
 
 msgid "_Contents"
-msgstr "_Содержание"
+msgstr "_Вуйлымаш"
 
 msgid "_Deactivate All"
 msgstr "_Деактивировать все"
 
 msgid "_Delete"
-msgstr "_Удалить"
+msgstr "_Кораҥдаш"
 
 msgid "_Description"
-msgstr "_Описание"
+msgstr "_Возен ончыктымаш"
 
 msgid "_Display line numbers"
-msgstr "По_казывать номера строк"
+msgstr "Корныжо-влак номеран ончыкташ"
 
 msgid "_Document Statistics"
-msgstr "Показать статистику _документа"
+msgstr "Документ статистик ончыкташ"
 
 msgid "_Documents"
-msgstr "_Документы"
+msgstr "_Документ-влак"
 
 msgid "_Download"
-msgstr "_Загрузить"
+msgstr "_Пышташ"
 
 msgid "_Drop targets:"
 msgstr "Области _назначения:"
 
 msgid "_Edit"
-msgstr "_Правка"
+msgstr "_Тӧрлымаш"
 
 msgid "_Edit:"
-msgstr "_Правка:"
+msgstr "_Тӧрлымаш:"
 
 msgid "_Enable automatic indentation"
-msgstr "_Включить автоматический отступ"
+msgstr "_Шкак чакнышым чӱкташ"
 
 msgid "_Encoding"
-msgstr "_Кодировка"
+msgstr "_Кодировко"
 
 msgid "_Error color:"
-msgstr "Цвет _ошибок:"
+msgstr "Йоҥылыш _тӱс:"
 
 msgid "_File"
 msgstr "_Файл"
 
 msgid "_Filter"
-msgstr "_Фильтр"
+msgstr "_Шокте"
 
 msgid "_Find..."
-msgstr "_Найти..."
+msgstr "_Муаш..."
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Highlight Mode"
-msgstr "_Режим подсветки синтаксиса"
+msgstr "_Синтаксис палемдымашын режим"
 
 msgid "_Ignore"
 msgstr "_Игнорировать"
@@ -3479,112 +3467,112 @@ msgid "_Ignore case"
 msgstr "_Игнорировать регистр"
 
 msgid "_Incremental Search..."
-msgstr "_Последовательный поиск..."
+msgstr "_Ӱшанле кычалмаш ..."
 
 msgid "_Input:"
-msgstr "_Ввод:"
+msgstr "_Пурташ:"
 
 msgid "_Insert"
-msgstr "Вст_авить символ"
+msgstr "Там_гам шындаш"
 
 msgid "_Invert Case"
 msgstr "_Инвертировать регистр"
 
 msgid "_Line numbers:"
-msgstr "_Номера строк:"
+msgstr "_Корныжо номер:"
 
 msgid "_Match Case"
-msgstr "Учитывать _регистр"
+msgstr "Регистрым шотыш налаш"
 
 msgid "_Match Filename"
-msgstr "Фильтр по им_ени"
+msgstr "Шокте лӱм дене"
 
 msgid "_Match case"
-msgstr "Учитывать _регистр"
+msgstr "Регистрым шотыш налаш"
 
 msgid "_More..."
 msgstr "Показать бол_ьше..."
 
 msgid "_Move to New Window"
-msgstr "Пере_местить в новое окно"
+msgstr "Ум тӧрзашто вашталташ"
 
 msgid "_Move to Trash"
 msgstr "_Удалить в корзину"
 
 msgid "_New Folder"
-msgstr "Соз_дать папку"
+msgstr "У папкем ямдылаш"
 
 msgid "_Next Document"
-msgstr "_Следующий документ"
+msgstr "_Вес документ"
 
 msgid "_Next Location"
-msgstr "_Следующий адрес"
+msgstr "_Вес адрес"
 
 msgid "_Number every"
 msgstr "Печатать н_омера строк каждые"
 
 msgid "_Open terminal here"
-msgstr "_Открыть терминал здесь"
+msgstr "_Тыште терминалым почаш"
 
 msgid "_Open..."
-msgstr "_Открыть..."
+msgstr "_Почаш..."
 
 msgid "_Output:"
-msgstr "_Окно вывода:"
+msgstr "_Лукмаш:"
 
 msgid "_Preview"
-msgstr "_Предпросмотр"
+msgstr "_Ончылгоч ончымаш"
 
 msgid "_Previous Document"
-msgstr "_Предыдущий документ"
+msgstr "_Ончыл документ"
 
 msgid "_Previous Location"
-msgstr "_Предыдущий адрес"
+msgstr "_Ончыл адрес"
 
 msgid "_Print..."
-msgstr "_Печать..."
+msgstr "_Савыкташ..."
 
 msgid "_Prompt for a format"
 msgstr "_Запрашивать формат"
 
 msgid "_Reload"
-msgstr "Пере_загрузить"
+msgstr "_Уэш пышташ"
 
 msgid "_Rename"
-msgstr "_Переименовать"
+msgstr "_Уэш лӱмдаш"
 
 msgid "_Replace"
-msgstr "_Заменить"
+msgstr "_Алмашташ"
 
 msgid "_Replace..."
-msgstr "За_менить..."
+msgstr "Ал_машташ..."
 
 msgid "_Restore Default Fonts"
 msgstr "Восстановить ис_ходные шрифты"
 
 msgid "_Retry"
-msgstr "Пов_торить"
+msgstr "_Угыч тӧчаш"
 
 msgid "_Reverse order"
 msgstr "В _обратном порядке"
 
 msgid "_Revert"
-msgstr "Восста_новить"
+msgstr "Вашталтышым кораҥдаш"
 
 msgid "_Right margin at column:"
 msgstr "П_равая граница у столбца:"
 
 msgid "_Save All"
-msgstr "Со_хранить всё"
+msgstr "_Чыла арален кодаш"
 
 msgid "_Save:"
-msgstr "Со_хранить:"
+msgstr "Арален кодаш:"
 
 msgid "_Search"
-msgstr "П_оиск"
+msgstr "Кы_чалмаш"
 
 msgid "_Search for: "
-msgstr "На_йти: "
+msgstr "Кы_чалмаш: "
 
 msgid "_Set root to active document"
 msgstr "_Установить корень на активный документ"
@@ -3596,28 +3584,28 @@ msgid "_Snippets:"
 msgstr "_Фрагменты:"
 
 msgid "_Sort"
-msgstr "_Упорядочить"
+msgstr "_Ойыркалаш"
 
 msgid "_Spelling Suggestions..."
 msgstr "Возмо_жные варианты..."
 
 msgid "_Statusbar"
-msgstr "_Строка состояния"
+msgstr "_Могай улмым ончыктышо корно"
 
 msgid "_Suggestions:"
-msgstr "_Варианты:"
+msgstr "_Вариант-влак:"
 
 msgid "_Tab trigger:"
 msgstr "_Переключатель вкладок:"
 
 msgid "_Tab width:"
-msgstr "_Ширина табуляции:"
+msgstr "_Табуляцийжын лопкыт:"
 
 msgid "_Title Case"
 msgstr "Регистр _заголовка"
 
 msgid "_Toolbar"
-msgstr "Панель _инструментов"
+msgstr "Ӱзгар оҥа"
 
 msgid "_Tools"
 msgstr "С_ервис"
@@ -3626,7 +3614,7 @@ msgid "_Tools:"
 msgstr "С_ервис:"
 
 msgid "_Update"
-msgstr "Об_новить"
+msgstr "Уэ_мдаш"
 
 msgid "_Use custom format"
 msgstr "Использовать дру_гой формат"
@@ -3635,34 +3623,34 @@ msgid "_Use the system fixed width font (%s)"
 msgstr "Ис_пользовать системный моноширинный шрифт (%s)"
 
 msgid "_View"
-msgstr "_Вид"
+msgstr "_Ончалмаш"
 
 msgid "_View Folder"
-msgstr "Прос_мотреть папку"
+msgstr "Папкем _ончыктымаш"
 
 msgid "_Wrap Around"
-msgstr "Автоматически пере_ходить к началу документа"
+msgstr "Шкак документым тӱналтышым куснаш"
 
 msgid "_Wrap around"
-msgstr "Автоматически пере_ходить к началу документа"
+msgstr "Шкак документым тӱналтышым куснаш"
 
 msgid "_minutes"
 msgstr "_минут"
 
 msgid "ancestor"
-msgstr "родители"
+msgstr "ава"
 
 msgid "ancestor-or-self"
-msgstr "родители или текущий"
+msgstr "ава але кызытсе"
 
 msgid "attribute"
 msgstr "атрибут"
 
 msgid "child"
-msgstr "потомок"
+msgstr "иге"
 
 msgid "descendant"
-msgstr "потомки"
+msgstr "иге"
 
 msgid "descendant-or-self"
 msgstr "потомки или текущий"
@@ -3683,10 +3671,10 @@ msgid "gedit"
 msgstr "gedit"
 
 msgid "gedit Preferences"
-msgstr "Параметры gedit"
+msgstr "Gedit келыштарыш-влак"
 
 msgid "gedit Text Editor"
-msgstr "Текстовый редактор gedit"
+msgstr "Текст тӧрлызӧ gedit"
 
 msgid "gedit cannot find the file. Perhaps it has recently been deleted."
 msgstr "Не удалось найти файл. Возможно, он был недавно удалён."
@@ -3740,14 +3728,14 @@ msgstr "%s (%s)"
 
 msgctxt "language"
 msgid "Default"
-msgstr "По умолчанию"
+msgstr "Пеҥгыдемдыме семын"
 
 msgctxt "language"
 msgid "Unknown (%s)"
-msgstr "Неизвестный (%s)"
+msgstr "Палыдыме (%s)"
 
 msgid "lines"
-msgstr "строк"
+msgstr "корно-влак"
 
 msgid "namespace"
 msgstr "область имён"
@@ -3756,7 +3744,7 @@ msgid "of"
 msgstr "из"
 
 msgid "parent"
-msgstr "родитель"
+msgstr "ава"
 
 msgid "preceding"
 msgstr "предшествующий"
@@ -3774,7 +3762,10 @@ msgstr ""
 "Дмитрий Мастрюков <dmitry@taurussoft.org>\n"
 "Андрей Носенко <awn@bcs.zp.ua>\n"
 "Леонид Кантер <leon@asplinux.ru>\n"
-"Максим Попов <ravemax@hotbox.ru>"
+"Максим Попов <ravemax@hotbox.ru>\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"
 
 msgid "word"
 msgstr "слово"

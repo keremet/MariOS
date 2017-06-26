@@ -13,9 +13,9 @@ msgstr ""
 
 msgid "%d user found"
 msgid_plural "%d users found"
-msgstr[0] "Найден %d пользователь"
-msgstr[1] "Найдено %d пользователя"
-msgstr[2] "Найдено %d пользователей"
+msgstr[0] "%d пайдаланыше муымо"
+msgstr[1] "%d пайдаланыше муымо"
+msgstr[2] "%d пайдаланыше муымо"
 
 msgid "%s (with %d voice mail message)"
 msgid_plural "%s (with %d voice mail messages)"
@@ -24,7 +24,7 @@ msgstr[1] "%s (с %d голосовыми сообщениями)"
 msgstr[2] "%s (с %d голосовыми сообщениями)"
 
 msgid "%s / List #%d"
-msgstr "%s / Список №%d"
+msgstr "%s / Лӱмер №%d"
 
 msgid "%s asks the permission to see your presence, saying: \"%s\"."
 msgstr "%s запрашивает разрешения видеть ваше присутствие, ответ: \"%s\"."
@@ -33,7 +33,7 @@ msgid "%s asks the permission to see your presence."
 msgstr "%s запрашивает разрешения видеть ваше присутствие."
 
 msgid "0: 56kbps, 1: ISDN, 2: DSL128, 3: DSL512, 4: LAN, 5: Custom"
-msgstr "0: 56Кбит/с, 1: ISDN, 2: DSL128, 3: DSL512, 4: LAN, 5: Другое"
+msgstr "0: 56Кбит/с, 1: ISDN, 2: DSL128, 3: DSL512, 4: LAN, 5: Весе"
 
 msgid "56k Modem"
 msgstr "Модем 56К"
@@ -48,58 +48,58 @@ msgid "A:%.1f/%.1f V:%.1f/%.1f FPS:%d/%d"
 msgstr "Звук:%.1f/%.1f Видео:%.1f/%.1f  Кадры:%d/%d"
 
 msgid "A_dd Contact"
-msgstr "До_бавить контакт"
+msgstr "Контактым ешараш "
 
 msgid "Abnormal call termination"
 msgstr "Ненормальное завершение вызова"
 
 msgid "Accept"
-msgstr "Принять"
+msgstr "Налаш"
 
 msgid "Account Name"
-msgstr "Учётная запись"
+msgstr "Шотыш налме возыш"
 
 msgid "Account name, e.g. MyAccount"
 msgstr "Имя учётной записи, например МояУчётнаяЗапись"
 
 msgid "Accounts"
-msgstr "Учётные записи"
+msgstr "Шотыш налме возыш-влак"
 
 msgid "Act on selected contact"
-msgstr "Действия для выделенного контакта"
+msgstr "Палемдыме контактлан ыштымаш"
 
 msgid "Add Group"
 msgstr "Добавить группу"
 
 msgid "Add a contact to the roster"
-msgstr "Добавить контакт в список"
+msgstr "Контактым лӱмерышто ешараш"
 
 msgid "Add a remote contact"
-msgstr "Добавить удалённый контакт"
+msgstr "Кораҥдыме контактым ешараш"
 
 msgid "Add a roster element"
 msgstr "Добавить элемент в контакты"
 
 msgid "Add an LDAP Address Book"
-msgstr "Добавить адресную книгу LDAP"
+msgstr "LDAP адрес книгажым ешараш"
 
 msgid "Add new resource-list"
-msgstr "Создать новый список"
+msgstr "Ум лӱмерым ешараш"
 
 msgid "Add the Ekiga.net Directory"
-msgstr "Добавить каталог пользователей Ekiga.net"
+msgstr "Ekiga.net пайдаланыше-влак каталогым ешараш"
 
 msgid "Add to local roster"
-msgstr "Добавить к локальным контактам"
+msgstr "Верысе контактышто ешараш"
 
 msgid "Address Book"
-msgstr "Адресная книга"
+msgstr "Адрес книга"
 
 msgid "Address _Book"
-msgstr "Адресная _книга"
+msgstr "Адрес _книга"
 
 msgid "Address incomplete"
-msgstr "Адрес неточен"
+msgstr "Адрес тичмаш огыл"
 
 msgid "Address, e.g. sip:xyz@ekiga.net"
 msgstr "Адрес, например sip:xyz@ekiga.net"
@@ -111,25 +111,25 @@ msgid "Addressbook"
 msgstr "Адресная книга"
 
 msgid "Addressbook _properties"
-msgstr "Свойства адресной _книги"
+msgstr "Адрес _книгам палык-влак"
 
 msgid "Adjust brightness"
-msgstr "Подстройка яркости"
+msgstr "Яргаталыкым шындаш"
 
 msgid "Adjust color"
-msgstr "Подстройка цвета"
+msgstr "Тӱсым шындаш"
 
 msgid "Adjust contrast"
-msgstr "Подстройка контрастности"
+msgstr "Контрастым шындаш"
 
 msgid "Adjust whiteness"
 msgstr "Подстройка уровня белого"
 
 msgid "Advanced"
-msgstr "Дополнительно"
+msgstr "Ешарен"
 
 msgid "Advanced Settings"
-msgstr "Дополнительные параметры"
+msgstr "Ешарен келыштарымаш-влак"
 
 msgid ""
 "Allow Ekiga to fall back to software scaling the picture-in-picture if "
@@ -175,37 +175,37 @@ msgid "Ask him/her to see his/her status (pending)"
 msgstr "Попросить разрешения видеть его/её статус (ожидание ответа)"
 
 msgid "Assistant"
-msgstr "Помощники"
+msgstr "Полшышо-влак"
 
 msgid "Associate"
 msgstr "Коллеги"
 
 msgid "Audio"
-msgstr "Звук"
+msgstr "Йӱк"
 
 msgid "Audio Devices"
-msgstr "Аудиоустройства"
+msgstr "Йӱкым йӧндартыш-влак"
 
 msgid "Audio Input Device"
-msgstr "Устройство ввода звука"
+msgstr "Йӱкым пурташыжо йӧндартыш"
 
 msgid "Audio Output Device"
-msgstr "Устройство вывода звука"
+msgstr "Йӱкым лукташыжо йӧндартыш"
 
 msgid "Audio Ringing Device"
-msgstr "Устройство звонка"
+msgstr "Йыҥгырым йӧндартыш"
 
 msgid "Audio Settings"
-msgstr "Параметры _звука"
+msgstr "Йӱкым келыштарыш-влак"
 
 msgid "Audio input device"
-msgstr "Устройство ввода звука"
+msgstr "Йӱкым пурташыжо йӧндартыш"
 
 msgid "Audio output device"
-msgstr "Устройство вывода звука"
+msgstr "Йӱкым лукташыжо йӧндартыш"
 
 msgid "Audio test"
-msgstr "Проверка звука"
+msgstr "Йӱкым тергаш"
 
 msgid "Authentication user:"
 msgstr "Пользователь аутентификации:"
@@ -230,7 +230,7 @@ msgid "Available"
 msgstr "Доступен"
 
 msgid "Away"
-msgstr "Отошёл"
+msgstr "Жаплан кораҥын"
 
 msgid "Bad event"
 msgstr "Некорректное событие"
@@ -275,13 +275,13 @@ msgid "Ca_ll a Number"
 msgstr "Вызвать _номер"
 
 msgid "Call"
-msgstr "Вызов"
+msgstr "Йыҥгыр"
 
 msgid "Call Forwarding"
-msgstr "Перенапраление вызовов"
+msgstr "Перенаправление вызовов"
 
 msgid "Call Options"
-msgstr "Параметры вызовов"
+msgstr "Йыҥгырым параметр"
 
 msgid "Call Window"
 msgstr "Окно вызова"
@@ -293,13 +293,13 @@ msgid "Call back test"
 msgstr "Тест обратного вызова"
 
 msgid "Call completed"
-msgstr "Вызов завершён"
+msgstr "Йыҥгыр тичман"
 
 msgid "Call forwarded"
-msgstr "Вызов перенаправлен"
+msgstr "Вызов переадресован"
 
 msgid "Call history"
-msgstr "История вызовов"
+msgstr "Йыҥгыржо историй"
 
 msgid "Call on hold"
 msgstr "Вызов удерживается"
@@ -311,7 +311,7 @@ msgid "Calling %s..."
 msgstr "Вызов %s…"
 
 msgid "Calls history"
-msgstr "История вызовов"
+msgstr "Йыҥгыржо историй"
 
 msgid "Category"
 msgstr "Категория"
@@ -375,19 +375,19 @@ msgid "Click to fetch"
 msgstr "Нажмите, чтобы загрузить"
 
 msgid "Close the Ekiga window"
-msgstr "Закрыть окно Ekiga"
+msgstr "Ekiga тӧрзам петыраш"
 
 msgid "Co_ntact"
 msgstr "_Контакт"
 
 msgid "Codecs"
-msgstr "Кодеки"
+msgstr "Кодек-влак"
 
 msgid "Con_tacts"
-msgstr "_Контакты"
+msgstr "_Контакт-влак"
 
 msgid "Conference room"
-msgstr "Комната конференций"
+msgstr "Конференций пӧлем"
 
 msgid "Configuration Complete"
 msgstr "Настройка завершена"
@@ -402,7 +402,7 @@ msgid "Congested link to remote party"
 msgstr "Загруженный канал к удалённому абоненту"
 
 msgid "Connected with %s"
-msgstr "Подключён к %s"
+msgstr "Ушымо %s дене"
 
 msgid ""
 "Connected with %s\n"
@@ -458,13 +458,13 @@ msgid "Contacted server"
 msgstr "Ответивший сервер"
 
 msgid "Contacts"
-msgstr "Контакты"
+msgstr "Контакт-влак"
 
 msgid "Continue chat"
 msgstr "Продолжить беседу"
 
 msgid "Contributors:"
-msgstr "Разработчики:"
+msgstr "Ыштыше-влак:"
 
 msgid "Copy link"
 msgstr "Копировать адрес ссылки"
@@ -503,10 +503,10 @@ msgid "Create LDAP directory"
 msgstr "Создать каталог LDAP"
 
 msgid "Custom Message"
-msgstr "Собственное сообщение"
+msgstr "Ойыркален шындыме"
 
 msgid "Custom message..."
-msgstr "Собственное сообщение…"
+msgstr "Ойыркален шындыме..."
 
 msgid "DSL/Cable (128 kbit/s uplink)"
 msgstr "Кабель/DSL (128 Кбит/c)"
@@ -521,10 +521,10 @@ msgid "DTMF sending"
 msgstr "Передача DTMF"
 
 msgid "Decline"
-msgstr "Отклонён"
+msgstr "Кораҥдыме"
 
 msgid "Define a custom message:"
-msgstr "Определить собственное соощение:"
+msgstr "Определить собственное сообщение:"
 
 msgid "Delete custom messages:"
 msgstr "Удалить собственное сообщение:"
@@ -533,7 +533,7 @@ msgid "Device removed"
 msgstr "Устройство удалено"
 
 msgid "Devices"
-msgstr "Устройства"
+msgstr "Йӧндартыш-влак"
 
 msgid "Dialpad"
 msgstr "Номеронабиратель"
@@ -566,7 +566,7 @@ msgid "Duplicate alias"
 msgstr "Название уже существует"
 
 msgid "Echo test"
-msgstr "Тест звонка"
+msgstr "Йыҥгырым тергаш"
 
 msgid "Edi_t"
 msgstr "_Изменить"
@@ -578,22 +578,22 @@ msgid "Edit LDAP directory"
 msgstr "Правка каталога на сервере LDAP"
 
 msgid "Edit account"
-msgstr "Правка учётной записи"
+msgstr "Шотыш налме возыш вашталташ"
 
 msgid "Edit contact"
-msgstr "Редактировать контакт"
+msgstr "Контактым вашталташ"
 
 msgid "Edit contact list properties"
-msgstr "Правка свойств списка контактов"
+msgstr "Контактыжо лӱмерым палык-влакым вашталташ"
 
 msgid "Edit remote contact"
-msgstr "Правка удалённого контакта"
+msgstr "Кораҥдыме контактым вашталташ"
 
 msgid "Edit roster element"
-msgstr "Правка элемента списка"
+msgstr "Лӱмерышто элементым вашталташ"
 
 msgid "Edit your accounts"
-msgstr "Правка вашей учётной записи"
+msgstr "Тыйын шотыш налме возышым вашталташ"
 
 msgid "Ekiga"
 msgstr "Ekiga"
@@ -602,19 +602,19 @@ msgid "Ekiga Call Out"
 msgstr "Ekiga Call Out"
 
 msgid "Ekiga Call Out Account"
-msgstr "Учётная запись Ekiga Call Out"
+msgstr "Ekiga Call Out шотыш налме возыш"
 
 msgid "Ekiga Configuration Assistant (%d of %d)"
 msgstr "Мастер первоначальной настройки (страница %d из %d)"
 
 msgid "Ekiga Preferences"
-msgstr "Настройки Ekiga"
+msgstr "_Ekiga келыштарыш-влак"
 
 msgid "Ekiga Softphone"
 msgstr "Программный телефон Ekiga"
 
 msgid "Ekiga Sound Events"
-msgstr "Звуковые события Ekiga"
+msgstr "Ekiga йӱк лиймаш-влак"
 
 msgid ""
 "Ekiga did not manage to configure your network settings automatically. You "
@@ -654,7 +654,7 @@ msgstr ""
 "если остальные требования лицензии GPL к остальным частям удовлетворены."
 
 msgid "Ekiga.net Account"
-msgstr "Учётная запись Ekiga.net"
+msgstr "Ekiga.net шотыш налме возыш"
 
 msgid "Ekiga.net Directory"
 msgstr "Каталог пользователей Ekiga.net"
@@ -722,10 +722,10 @@ msgstr ""
 "NAT при использовании STUN"
 
 msgid "Enter your full name"
-msgstr "Введите полное имя"
+msgstr "Пурто тыйын лӱм"
 
 msgid "Error"
-msgstr "Ошибка"
+msgstr "Йоҥылыш"
 
 msgid "Error while accessing video device %s"
 msgstr "Не удалось получить доступ к устройство захвата видео %s"
@@ -746,7 +746,7 @@ msgid "Error while setting the frame size."
 msgstr "Ошибка установки размера кадра."
 
 msgid "Event"
-msgstr "Событие"
+msgstr "Лиймаш"
 
 msgid "Extended Video Roles"
 msgstr "Расширенные роли видео"
@@ -758,13 +758,13 @@ msgid "Extension required"
 msgstr "Требуется дополнение URI"
 
 msgid "Failed"
-msgstr "Сбой"
+msgstr "Кертме огыл"
 
 msgid "Family"
-msgstr "Семья"
+msgstr "Еш"
 
 msgid "Find contacts"
-msgstr "Найти контакты"
+msgstr "Контактым-влак муаш"
 
 msgid "Forbid him/her to see my status"
 msgstr "Запретить ему/ей видеть свой статус"
@@ -788,7 +788,7 @@ msgid "Forward calls to host"
 msgstr "Перенаправлять вызовы на узел"
 
 msgid "Forward calls to the given host if _busy"
-msgstr "Перенапралять вызовы на указанный узел, если _занято"
+msgstr "Перенаправлять вызовы на указанный узел, если _занято"
 
 msgid "Forward calls to the given host if _no answer"
 msgstr "Перенаправлять вызовы на указанный узел, если _нет ответа"
@@ -806,22 +806,22 @@ msgid "Frame rate"
 msgstr "Частота кадров"
 
 msgid "Friend"
-msgstr "Друзья"
+msgstr "Йолташ-влак"
 
 msgid "Full Name"
-msgstr "Полное имя"
+msgstr "Тичмаш лӱм"
 
 msgid "Full name"
-msgstr "Полное имя"
+msgstr "Тичмаш лӱм"
 
 msgid "Gatekeeper:"
 msgstr "Узел gatekeeper:"
 
 msgid "General"
-msgstr "Общие"
+msgstr "Чумыр"
 
 msgid "General Settings"
-msgstr "Общие параметры"
+msgstr "Чумыр параметр-влак"
 
 msgid "Get an Ekiga Call Out account"
 msgstr "Получить учётную запись Call Out для Ekiga"
@@ -839,7 +839,7 @@ msgid "H.323 Settings"
 msgstr "Параметры H.323"
 
 msgid "H_old Call"
-msgstr "Уд_ерживать вызов"
+msgstr "Йы_ҥгырым кучаш"
 
 msgid "Hang up the current call"
 msgstr "Завершить текущий вызов"
@@ -851,13 +851,13 @@ msgid "Here, a \"$\" is replaced by the search string"
 msgstr "Знак «$» заменяется строкой поиска"
 
 msgid "Hold the current call"
-msgstr "Удерживать текущий вызов"
+msgstr "Кызытсе йыҥгырым кучаш"
 
 msgid "Holiday"
 msgstr "Выходные"
 
 msgid "I do not want to sign up for the Ekiga Call Out service"
-msgstr "Не подписываться на службу Ekiga Call Out"
+msgstr "Я не хочу подписываться на сервис Ekiga Call Out"
 
 msgid "I do not want to sign up for the ekiga.net free service"
 msgstr "Я не хочу подписываться на бесплатный сервис ekiga.net"
@@ -960,22 +960,22 @@ msgid "Illegal status code"
 msgstr "Некорректный код состояния"
 
 msgid "In a call"
-msgstr "Разговор"
+msgstr "Мутланымаш"
 
 msgid "In a call with %s"
-msgstr "Разговор с %s"
+msgstr "Мутланымаш %s дене"
 
 msgid "In transit"
 msgstr "В пути"
 
 msgid "Incoming call"
-msgstr "Входящий вызов"
+msgstr "Пурышо йыҥгыр"
 
 msgid "Incoming call from %s"
-msgstr "Входящий вызов от %s"
+msgstr "Пурышо йыҥгыр %s деч"
 
 msgid "Input device:"
-msgstr "Устройство ввода:"
+msgstr "Пуртымо йӧндартыш:"
 
 msgid "Insufficient bandwidth"
 msgstr "Недостаточная полоса пропускания"
@@ -1014,7 +1014,7 @@ msgid "Kind of network selected in the assistant"
 msgstr "Тип сети, выбранный в мастере"
 
 msgid "LAN"
-msgstr "Локальная сеть"
+msgstr "Верысе вот"
 
 msgid "LDAP Error: "
 msgstr "Ошибка LDAP: "
@@ -1104,19 +1104,19 @@ msgid "Meeting"
 msgstr "Встреча"
 
 msgid "Message"
-msgstr "Сообщение"
+msgstr "Каласымаш"
 
 msgid "Message too large"
-msgstr "Сообщение слишком велико"
+msgstr "Каласымаш утыж ден кугу"
 
 msgid "Method not allowed"
-msgstr "Метод запрещён"
+msgstr "Йӧн кӧнымӧ огыл"
 
 msgid "Misc Settings"
-msgstr "Различные параметры"
+msgstr "Разные параметры"
 
 msgid "Missed"
-msgstr "Пропущенные"
+msgstr "Налын отыл"
 
 msgid "Missed call"
 msgstr "Пропущенный вызов"
@@ -1155,16 +1155,16 @@ msgid "Name of the contact, as shown in your roster"
 msgstr "Имя контакта, указанное в вашем списке"
 
 msgid "Name:"
-msgstr "Имя:"
+msgstr "Лӱм:"
 
 msgid "Neighbours"
-msgstr "Соседи"
+msgstr "Пошкудо-влак"
 
 msgid "Network Settings"
-msgstr "Параметры сети"
+msgstr "Вотым келыштарымаш"
 
 msgid "New _Contact"
-msgstr "Новый _контакт"
+msgstr "Ум _контакт"
 
 msgid "New device detected"
 msgstr "Найдено новое устройство"
@@ -1176,10 +1176,10 @@ msgid "No answer timeout"
 msgstr "Время ожидания ответа"
 
 msgid "No common codec"
-msgstr "Нет общего кодека"
+msgstr "Тӱшка кодек уке"
 
 msgid "No device found"
-msgstr "Устройство не найдено"
+msgstr "Йӧндартыш муымо огыл"
 
 msgid "No incoming sound will be played."
 msgstr "Входящий звонок не будет слышен."
@@ -1188,16 +1188,16 @@ msgid "No video will be displayed on your machine during this call"
 msgstr "При звонке не будет использовано видео на этой машине"
 
 msgid "Normal size"
-msgstr "Нормальный размер"
+msgstr "Кыдалаш кугыт"
 
 msgid "Not acceptable"
-msgstr "Недопустимо"
+msgstr "Кумылаҥдаш лийдыме"
 
 msgid "Not acceptable here"
-msgstr "Недопустим"
+msgstr "Кумылаҥдаш лийдыме"
 
 msgid "Not found"
-msgstr "Не найден"
+msgstr "Муымо огыл"
 
 msgid "Not implemented"
 msgstr "Не поддерживается"
@@ -1224,7 +1224,7 @@ msgid "Outbound Proxy"
 msgstr "Исходящий прокси"
 
 msgid "Output device:"
-msgstr "Устройство вывода:"
+msgstr "Лукташыжо йӧндартыш:"
 
 msgid "PAL (Europe)"
 msgstr "PAL (Европа)"
@@ -1233,7 +1233,7 @@ msgid "Password associated to the user"
 msgstr "Пароль пользователя"
 
 msgid "Password:"
-msgstr "Пароль:"
+msgstr "Шолыпмут:"
 
 msgid "Payment required"
 msgstr "Требуется оплата"
@@ -1251,7 +1251,7 @@ msgid "Picture quality"
 msgstr "Качество изображения"
 
 msgid "Place a new call"
-msgstr "Сделать новый вызов"
+msgstr "Ум йыҥгырым ышташ"
 
 msgid "Place windows displaying video _above other windows"
 msgstr "Помещать окна, отображающие видео, _над другими окнами"
@@ -1264,7 +1264,7 @@ msgid "Placed"
 msgstr "Набранные"
 
 msgid "Play"
-msgstr "Воспроизвести"
+msgstr "Колтымаш"
 
 msgid "Play busy tone"
 msgstr "Воспроизводить сигнал «занято»"
@@ -1313,22 +1313,22 @@ msgstr ""
 "Заполните следующие поля (при отсутствии идентификатора изменяется всё)"
 
 msgid "Please edit this group name"
-msgstr "Задайте имя группы"
+msgstr "Пурто тӱшкаже лӱмжо"
 
 msgid "Please enter your PIN code:"
-msgstr "Введите PIN-код:"
+msgstr "Пурто тыйын ПИН:"
 
 msgid "Please enter your account ID:"
-msgstr "Введите идентификатор:"
+msgstr "Пурто тыйын ID:"
 
 msgid "Please enter your first name and your surname:"
-msgstr "Укажите ваши имя и фамилию:"
+msgstr "Пурто тыйын лӱм да ешлӱм:"
 
 msgid "Please enter your password:"
-msgstr "Введите ваш пароль:"
+msgstr "Пурто тыйын шолыпмут:"
 
 msgid "Please enter your username:"
-msgstr "Введите ваше имя пользователя:"
+msgstr "Пурто тыйын пайдаланышын лӱм:"
 
 msgid "Please fill in the following fields:"
 msgstr "Заполните следующие поля:"
@@ -1418,10 +1418,10 @@ msgid "Prints debug messages in the console (level between 1 and 8)"
 msgstr "Выводить отладочные сообщения на консоль (уровень между 1 и 8)"
 
 msgid "Processing..."
-msgstr "Обработка…"
+msgstr "Пашам ыштымаш..."
 
 msgid "Protocols"
-msgstr "Протоколы"
+msgstr "Протокол-влак"
 
 msgid "Proxy authentication required"
 msgstr "Требуется проверка подлинности на прокси-сервере"
@@ -1436,7 +1436,7 @@ msgid "Q.931"
 msgstr "Q.931"
 
 msgid "Quit"
-msgstr "Выход"
+msgstr "Лекташ"
 
 msgid "RFC2833"
 msgstr "RFC2823"
@@ -1451,13 +1451,13 @@ msgid "Read"
 msgstr "Прочитать"
 
 msgid "Received"
-msgstr "Принятые"
+msgstr "Налме"
 
 msgid "Recharge the account"
 msgstr "Оплатить услугу"
 
 msgid "Refreshing"
-msgstr "Обновление"
+msgstr "Уэмдымаш"
 
 msgid "Registered"
 msgstr "Зарегистрирован"
@@ -1466,43 +1466,43 @@ msgid "Registrar:"
 msgstr "Регистратор:"
 
 msgid "Reject"
-msgstr "Отклонить"
+msgstr "Кораҥдаш"
 
 msgid "Remote URI:"
-msgstr "Удалённый URI:"
+msgstr "Кораҥдыме URI:"
 
 msgid "Remote host is offline"
-msgstr "Удалённый узел отключён"
+msgstr "Кораҥдыме тӱҥ вотышто огыл"
 
 msgid "Remote party host is offline"
 msgstr "Удалённый узел выключен"
 
 msgid "Remote user cleared the call"
-msgstr "Удаленный пользователь прервал вызов"
+msgstr "Кораҥдыме пайдаланыше йыҥгырым кӱрла"
 
 msgid "Remote user has stopped calling"
-msgstr "Удаленный пользователь прекратил вызывать"
+msgstr "Кораҥдыме пайдаланыше йыҥгырташ чарен"
 
 msgid "Remote user is busy"
-msgstr "Удалённый пользователь занят"
+msgstr "Кораҥдыме пайдаланыше от ярсе"
 
 msgid "Remote user rejected the call"
-msgstr "Удаленный пользователь отказался от вызова"
+msgstr "Кораҥдыме пайдаланыше йыҥгырым кораҥда"
 
 msgid "Remote video image"
-msgstr "Удалённое видеоизображение"
+msgstr "Удаленное видеоизображение"
 
 msgid "Remote video window position"
-msgstr "Положение окна удалённого видео"
+msgstr "Положение окна удаленного видео"
 
 msgid "Remote video window size"
-msgstr "Размер окна удалённого видео"
+msgstr "Размер окна удаленного видео"
 
 msgid "Remove contact"
-msgstr "Удалить контакт"
+msgstr "Контактым кораҥдаш"
 
 msgid "Rename"
-msgstr "Переименовать"
+msgstr "Уэш лӱмдаш"
 
 msgid "Rename group"
 msgstr "Переименовать группу"
@@ -1652,7 +1652,7 @@ msgid "Services"
 msgstr "Службы"
 
 msgid "Settings"
-msgstr "Параметры"
+msgstr "Параметр-влак"
 
 msgid "Shopping"
 msgstr "Покупки"
@@ -1710,16 +1710,16 @@ msgstr ""
 "Алгоритм программного масштабирования видео: 0: по ближайшему соседнему, 1: "
 "по ближайшему соседнему с прямоугольным фильтром, 2: билинейная фильтрация, "
 "3: гиперболическая фильтрация. Этот параметр не используется в системе "
-"Windows."
+"Windows"
 
 msgid "Standby"
-msgstr "Ожидание"
+msgstr "Вучымаш"
 
 msgid "Start chat"
 msgstr "Начать беседу"
 
 msgid "Status"
-msgstr "Состояние"
+msgstr "Могай улмо"
 
 msgid "Stop getting his/her status"
 msgstr "Остановить получение его/её статуса"
@@ -1734,10 +1734,10 @@ msgid "Supervisor"
 msgstr "Начальники"
 
 msgid "Suspend _Audio"
-msgstr "Приостановить передачу _звука"
+msgstr "Чараш йӱкым колтымаш"
 
 msgid "Suspend _Video"
-msgstr "Приостановить передачу _видео"
+msgstr "Чараш видео колтымаш"
 
 msgid "Suspend or resume the audio transmission"
 msgstr "Приостановить или возобновить передачу звука"
@@ -1882,7 +1882,7 @@ msgstr "История 100 последних звонков"
 
 msgid "The host where calls should be forwarded if call forwarding is enabled"
 msgstr ""
-"Узел, на который должны перенаправляться вызовы когда включена переадресация"
+"Узел, на который должны перенаправляться вызовы, когда включена переадресация"
 
 msgid "The incoming call sound"
 msgstr "Звук входящего вызова"
@@ -2271,116 +2271,116 @@ msgstr ""
 "устройству и убедитесь, что другие приложения не занимают устройство."
 
 msgid "Unauthorized"
-msgstr "Не разрешено"
+msgstr "Чылыкым тергымаш ок тошкалте"
 
 msgid "Undecipherable"
-msgstr "Не поддаётся анализу"
+msgstr "Ом керт лончылымашым ыштем"
 
 msgid "Unknown"
 msgstr "Неизвестный"
 
 msgid "Unknown error."
-msgstr "Неизвестная ошибка."
+msgstr "Палыдыме йоҥылыш."
 
 msgid "Unnamed"
-msgstr "Неизвестный"
+msgstr "Лӱмде"
 
 msgid "Unregistered"
-msgstr "Отключён"
+msgstr "Возалтмаш огыл"
 
 msgid "Unsorted"
-msgstr "Неупорядоченный"
+msgstr "Ойыркалыме огыл"
 
 msgid "Unsupported URI scheme"
-msgstr "Схема URI не поддерживается"
+msgstr "Эҥертышдымо URI схеме"
 
 msgid "Unsupported media type"
-msgstr "Способ передачи не поддерживается"
+msgstr "Эҥертышдымо колтымашын кертмаш"
 
 msgid "Use SASL"
-msgstr "Использовать SASL"
+msgstr "SASL кучылташ"
 
 msgid "Use TLS"
-msgstr "Использовать TLS"
+msgstr "TLS кучылташ"
 
 msgid "Use it"
 msgstr "Использовать"
 
 msgid "Use proxy"
-msgstr "Использовать прокси"
+msgstr "Проксим кучылташ"
 
 msgid "User ID; leave blank for anonymous / nonauthenticated"
 msgstr ""
 "Идентификатор пользователя. Для анонимного пользователя оставьте пустым"
 
 msgid "User is not available"
-msgstr "Пользователь недоступен"
+msgstr "Пайдаланышым лиймеямде огыл"
 
 msgid "User not found"
-msgstr "Пользователь не найден"
+msgstr "Пайдаланышым муымо огыл"
 
 msgid "User:"
-msgstr "Пользователь:"
+msgstr "Пайжаланыше:"
 
 msgid "Username:"
-msgstr "Пользователь:"
+msgstr "Пайжаланыше:"
 
 msgid "Video"
-msgstr "Видео"
+msgstr "Сӱрет"
 
 msgid "Video Conference"
 msgstr "Видеоконференция"
 
 msgid "Video Devices"
-msgstr "Видеоустройства"
+msgstr "Видеойӧндартыш-влак"
 
 msgid "Video Display"
-msgstr "Отображение видео"
+msgstr "Видео семын ончыктымаш"
 
 msgid "Video Input Device"
-msgstr "Устройство захвата видео"
+msgstr "Видео пурташыжо йӧндартыш"
 
 msgid "Video Settings"
-msgstr "Параметры _видео"
+msgstr "Видео келыштарымаш"
 
 msgid "Video channel"
-msgstr "Канал видео"
+msgstr "Видео канал"
 
 msgid "Video format"
-msgstr "Формат видео"
+msgstr "Видео формат"
 
 msgid "Video input device"
-msgstr "Устройство захвата видео"
+msgstr "Видео пурташыжо йӧндартыш"
 
 msgid "Video preview"
-msgstr "Образец видео"
+msgstr "Ончылгоч ончымаш"
 
 msgid "Video size"
-msgstr "Размер видео"
+msgstr "Видео кугыт"
 
 msgid "Video test"
-msgstr "Проверка видео"
+msgstr "Видео тергаш"
 
 msgid "View information about Ekiga"
-msgstr "Показать информацию о программе Ekiga"
+msgstr "Ekiga нерген"
 
 msgid "View the call history"
-msgstr "Показать журнал вызовов"
+msgstr "Йыҥгыржо историй ончыкташ"
 
 msgid "View the contacts list"
-msgstr "Показать список контактов"
+msgstr "Контакт-влак лӱмерым ончыкташ"
 
 msgid "View the dialpad"
-msgstr "Показать номеронабиратель"
+msgstr "Номерым погаш ончыкташ"
 
 msgid "VoIP _URI:"
 msgstr "VoIP _URI:"
 
 msgid "Waiting for search results"
-msgstr "Ожидание результатов поиска"
+msgstr "Вучымаш лектышым-влак кычалмаш"
 
 msgid "Wavefiles"
-msgstr "Звуковые файлы"
+msgstr "Йӱкым файл-влак"
 
 msgid "Welcome to Ekiga"
 msgstr "Ekiga"
@@ -2399,7 +2399,7 @@ msgid "Working"
 msgstr "За работой"
 
 msgid "Writable:"
-msgstr "Записываемый:"
+msgstr "Возымо:"
 
 msgid "You already have a contact with this address!"
 msgstr "Уже есть контакт с этим адресом!"
@@ -2431,9 +2431,9 @@ msgstr "Не задано имя пользователя в этой учётн
 
 msgid "You have %d message"
 msgid_plural "You have %d messages"
-msgstr[0] "Получено %d сообщение"
-msgstr[1] "Получено %d сообщения"
-msgstr[2] "Получено %d сообщений"
+msgstr[0] "%d налме каласымаш-влак"
+msgstr[1] "%d налме каласымаш-влак"
+msgstr[2] "%d налме каласымаш-влак"
 
 msgid "You have %d unread text message"
 msgid_plural "You have %d unread text messages"
@@ -2475,40 +2475,40 @@ msgid "Your video driver doesn't support the requested video format."
 msgstr "Ваш видеодрайвер не поддерживает требуемый формат видео."
 
 msgid "Zoom in"
-msgstr "Увеличить масштаб"
+msgstr "Шолдыранрак"
 
 msgid "Zoom out"
-msgstr "Уменьшить масштаб"
+msgstr "Тыгыдынрак"
 
 msgid "_Account ID:"
 msgstr "Иденти_фикатор:"
 
 msgid "_Accounts"
-msgstr "Учётные записи"
+msgstr "шотыш налме возыш-влак"
 
 msgid "_Action"
-msgstr "_Действие"
+msgstr "_Ыштымаш"
 
 msgid "_Add a Jabber/XMPP Account"
 msgstr "_Добавить учётную запись _Jabber/XMPP"
 
 msgid "_Add a SIP Account"
-msgstr "Добавить учётную запись _SIP"
+msgstr "SIP шотыш налме возышым ешараш"
 
 msgid "_Add a new contact"
-msgstr "_Новый контакт"
+msgstr "_Ум контакт"
 
 msgid "_Add an Ekiga Call Out Account"
-msgstr "Добавить учётную запись Ekiga _Call Out"
+msgstr "_Ekiga _Call Out шотыш налме возышым ешараш"
 
 msgid "_Add an Ekiga.net Account"
-msgstr "Добавить учётную запись _Ekiga.net"
+msgstr "_Ekiga.net шотыш налме возышым ешараш"
 
 msgid "_Add an H.323 Account"
-msgstr "Добавить учётную запись _H.323"
+msgstr "_H.323 шотыш налме возышым ешараш"
 
 msgid "_Always forward calls to the given host"
-msgstr "_Всегда перенаправлять вызовы на указанный узел"
+msgstr "_Эре ӱжмаш-влак на ончыктыжо тӱҥышто колташ "
 
 msgid "_Authentication user:"
 msgstr "Пользователь _аутентификации:"
@@ -2523,43 +2523,43 @@ msgid "_Call"
 msgstr "_Вызвать"
 
 msgid "_Call History"
-msgstr "История в_ызовов"
+msgstr "Йы_ҥгыржо историй"
 
 msgid "_Cell phone:"
 msgstr "Мо_бильный телефон:"
 
 msgid "_Chat"
-msgstr "_Беседа"
+msgstr "Мутланымаш"
 
 msgid "_Configuration Assistant"
-msgstr "Мастер настр_ойки"
+msgstr "_Келыштарымашым мастар"
 
 msgid "_Detect devices"
-msgstr "_Поиск устройств"
+msgstr "_Йоҥдартышам-влак верештмаш"
 
 msgid "_Dialpad"
-msgstr "_Номеронабиратель"
+msgstr "_Номерым погаш"
 
 msgid "_Disable"
-msgstr "В_ыключить"
+msgstr "Й_ӧрташ"
 
 msgid "_DisplayName attribute:"
 msgstr "Атрибут _DisplayName:"
 
 msgid "_Edit"
-msgstr "_Правка"
+msgstr "_Вашталташ"
 
 msgid "_Enable"
-msgstr "Вкл_ючить"
+msgstr "Чӱк_таш"
 
 msgid "_Filter template:"
 msgstr "_Шаблон фильтрации:"
 
 msgid "_Full name:"
-msgstr "_Имя:"
+msgstr "_Лӱм:"
 
 msgid "_Fullscreen"
-msgstr "Во весь _экран"
+msgstr "Уло _экранлан"
 
 msgid "_Gatekeeper:"
 msgstr "_Узел gatekeeper:"
@@ -2568,22 +2568,22 @@ msgid "_Hangup"
 msgstr "_Завершить вызов"
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Home phone:"
-msgstr "_Домашний телефон:"
+msgstr "_Мӧ́ҥысӧ телефон:"
 
 msgid "_Local Video"
-msgstr "_Локальное видео"
+msgstr "_Верысе видео"
 
 msgid "_Name:"
-msgstr "_Имя:"
+msgstr "_Лӱм:"
 
 msgid "_New Contact"
 msgstr "_Создать контакт"
 
 msgid "_Office phone:"
-msgstr "Р_абочий телефон:"
+msgstr "П_ашаже телефон:"
 
 msgid "_Outbound proxy:"
 msgstr "_Исходящий прокси-сервер:"
@@ -2601,46 +2601,46 @@ msgid "_Pick up"
 msgstr "_Ответить"
 
 msgid "_Picture-in-Picture"
-msgstr "_Картинка-в-картинке"
+msgstr "_Сӱретланышо-сӱрет"
 
 msgid "_Refresh"
-msgstr "_Обновить"
+msgstr "_Уэмдаш"
 
 msgid "_Refresh contact list"
-msgstr "_Обновить список контактов"
+msgstr "_Контактыжо лӱмер уэмдаш"
 
 msgid "_Registrar:"
 msgstr "_Регистратор:"
 
 msgid "_Remote Video"
-msgstr "_Удаленное видео"
+msgstr "_Кораҥдыме видео"
 
 msgid "_Remove"
-msgstr "_Удалить"
+msgstr "_Кораҥдаш"
 
 msgid "_Remove addressbook"
-msgstr "_Удалить адресную книгу"
+msgstr "_Адрес книгам кораҥдаш"
 
 msgid "_Retrieve Call"
-msgstr "_Принять вызов"
+msgstr "_Вашешташ"
 
 msgid "_Search Filter:"
-msgstr "Фильтр _поиска:"
+msgstr "Кычалмашын _шокте:"
 
 msgid "_Search scope"
 msgstr "_Область поиска"
 
 msgid "_Send DTMF as:"
-msgstr "_Посылать DTMF как:"
+msgstr "_Колташ DTMF кузе:"
 
 msgid "_Smile..."
-msgstr "_Смайл…"
+msgstr "_Смайл-влак..."
 
 msgid "_Timeout:"
 msgstr "_Задержка:"
 
 msgid "_Transfer Call"
-msgstr "П_ереадресовать вызов"
+msgstr "ӱжмашым кондыштарымаш"
 
 msgid "_User:"
 msgstr "Пол_ьзователь:"
@@ -2649,7 +2649,7 @@ msgid "_Video Preview"
 msgstr "_Образец видео"
 
 msgid "_View"
-msgstr "_Вид"
+msgstr "_Сын"
 
 msgid "abc"
 msgstr "abc"
@@ -2706,7 +2706,7 @@ msgid "refuse him/her the permission to see your presence"
 msgstr "не разрешать ему/ей видеть ваше присутствие"
 
 msgid "says:"
-msgstr "сказал(а):"
+msgstr "ойла:"
 
 msgid "translator-credits"
 msgstr ""
@@ -2714,7 +2714,10 @@ msgstr ""
 "Виталий Липатов <lav@altlinux.ru>\n"
 "Леонид Кантер <leon@asplinux.ru>\n"
 "Василий Фаронов <qvvx@yandex.ru>\n"
-"Юрий Козлов <yuray@komyakino.ru>"
+"Юрий Козлов <yuray@komyakino.ru>\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"
 
 msgid "tuv"
 msgstr "tuv"

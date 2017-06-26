@@ -11,16 +11,16 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "Open _Terminal"
-msgstr "Открыть _Терминал"
+msgstr "Терминалым _почаш"
 
 msgid "Open a terminal"
-msgstr "Открыть терминал"
+msgstr "Терминалым почаш"
 
 msgid "Open in _Terminal"
-msgstr "Открыть в _Терминале"
+msgstr "Терминалышто _почаш"
 
 msgid "Open the currently open folder in a terminal"
-msgstr "Открыть текущую папку в терминале"
+msgstr "Кызытсе папке терминалышто почаш"
 
 msgid "Open the currently selected folder in a terminal"
 msgstr "Открыть выбранную папку в терминале"

@@ -18,7 +18,7 @@ msgid "\"%s\" option given twice for the same window\n"
 msgstr "Параметр «%s» задан дважды для одного окна\n"
 
 msgid "<b>Command</b>"
-msgstr "<b>Команда</b>"
+msgstr "<b>Кӱштымаш</b>"
 
 msgid "<b>Foreground, Background, Bold and Underline</b>"
 msgstr "<b>Текст, фон, полужирность и подчёркивание</b>"
@@ -27,7 +27,7 @@ msgid "<b>Palette</b>"
 msgstr "<b>Палитра</b>"
 
 msgid "<b>Title</b>"
-msgstr "<b>Заголовок</b>"
+msgstr "<b>Вуймут</b>"
 
 msgid ""
 "<small><i><b>Note:</b> Terminal applications have these colors available to "
@@ -51,7 +51,7 @@ msgid "<small><i>Maximum</i></small>"
 msgstr "<small><i>максимально</i></small>"
 
 msgid "<small><i>None</i></small>"
-msgstr "<small><i>нет</i></small>"
+msgstr "<small><i>уке</i></small>"
 
 msgid ""
 "A subset of possible encodings are presented in the Encoding submenu. This "
@@ -200,16 +200,16 @@ msgid "C_all To…"
 msgstr "_Позвонить…"
 
 msgid "C_lose Tab"
-msgstr "Закрыть в_кладку"
+msgstr "Ешартышым п_етыраш"
 
 msgid "C_lose Terminal"
-msgstr "_Закрыть терминал"
+msgstr "_Терминалым петыраш"
 
 msgid "C_lose Window"
-msgstr "_Закрыть окно"
+msgstr "_Тӧрзам петыраш"
 
 msgid "C_reate"
-msgstr "_Создать"
+msgstr "_Ямдылаш"
 
 msgid "Celtic"
 msgstr "Кельтская"
@@ -218,7 +218,7 @@ msgid "Central European"
 msgstr "Центральноевропейская"
 
 msgid "Change _Profile"
-msgstr "Изменить _профиль"
+msgstr "Использовать _профиль"
 
 msgid "Characters that are considered \"part of a word\""
 msgstr "Символы, считающиеся «частью слова»"
@@ -248,25 +248,25 @@ msgid "Click button to choose profile"
 msgstr "Нажать кнопку, чтобы выбрать профиль"
 
 msgid "Close Tab"
-msgstr "Закрыть вкладку"
+msgstr "Ешартышым петыраш"
 
 msgid "Close Window"
-msgstr "Закрыть окно"
+msgstr "Тӧрзам петыраш"
 
 msgid "Close tab"
-msgstr "Закрыть вкладку"
+msgstr "Ешартышым петыраш"
 
 msgid "Close this terminal?"
-msgstr "Закрыть этот терминал?"
+msgstr "Тидем терминалым петыраш мо?"
 
 msgid "Close this window?"
-msgstr "Закрыть это окно?"
+msgstr "Тидем тӧрзам ешартыш мо?"
 
 msgid "Color p_alette:"
 msgstr "_Палитра:"
 
 msgid "Colors"
-msgstr "Цвета"
+msgstr "Тӱс-влак"
 
 msgid "Compatibility"
 msgstr "Совместимость"
@@ -389,7 +389,7 @@ msgid "E_ncodings shown in menu:"
 msgstr "Кодировки, показываемые в _меню:"
 
 msgid "Edit"
-msgstr "Правка"
+msgstr "Вашталташ"
 
 msgid "Editing Profile “%s”"
 msgstr "Изменение профиля «%s»"
@@ -517,7 +517,7 @@ msgid "Hebrew Visual"
 msgstr "Еврейская отображаемая"
 
 msgid "Help"
-msgstr "Справка"
+msgstr "Полыш"
 
 msgid "Hide and Show menubar"
 msgstr "Показать или скрыть строку меню"
@@ -658,7 +658,7 @@ msgid "Image _file:"
 msgstr "_Файл изображения:"
 
 msgid "Images"
-msgstr "Изображения"
+msgstr "Сӱрет-влак"
 
 msgid "Incompatible terminal config file version."
 msgstr "Версия файла конфигурации и терминала не совместимы"
@@ -676,7 +676,7 @@ msgid "Keep initial title"
 msgstr "Оставить начальный заголовок"
 
 msgid "Keyboard Shortcuts"
-msgstr "Комбинации клавиш"
+msgstr "Полдышым пырля кучылтмаш"
 
 msgid ""
 "Keyboard shortcut key for bringing up the dialog for profile creation. "
@@ -1119,16 +1119,16 @@ msgid "Move Tab to the Right"
 msgstr "Переместить вкладку вправо"
 
 msgid "New Profile"
-msgstr "Создать профиль"
+msgstr "Профильым ямдылаш"
 
 msgid "New Tab"
-msgstr "Создать вкладку"
+msgstr "Ешартышым ямдылаш"
 
 msgid "New Window"
-msgstr "Создать окно"
+msgstr "Тӧрзам ямдылаш"
 
 msgid "New _Profile…"
-msgstr "Создать _профиль…"
+msgstr "Профильым _ямдылаш…"
 
 msgid "No such profile \"%s\", using default profile\n"
 msgstr "Профиль «%s» не существует, используется профиль по умолчанию\n"
@@ -1137,7 +1137,7 @@ msgid "Nordic"
 msgstr "Северная"
 
 msgid "Normal Size"
-msgstr "Исходный размер"
+msgstr "Кыдалаш кугыт"
 
 msgid ""
 "Normally you can access the menubar with F10. This can also be customized "
@@ -1194,10 +1194,10 @@ msgid "On the right side"
 msgstr "справа"
 
 msgid "Open Ta_b"
-msgstr "Открыть _вкладку"
+msgstr "Ешартышым _почаш"
 
 msgid "Open _Terminal"
-msgstr "Открыть _терминал"
+msgstr "Терминалым _почаш"
 
 msgid "Open a new tab in the last-opened window with the default profile"
 msgstr ""
@@ -1233,10 +1233,10 @@ msgid "PROFILE-NAME"
 msgstr "ИМЯ-ПРОФИЛЯ"
 
 msgid "P_rofiles"
-msgstr "П_рофили"
+msgstr "П_рофиль-влак"
 
 msgid "P_rofiles…"
-msgstr "П_рофили…"
+msgstr "П_рофиль-влак…"
 
 msgid "Palette entry %d"
 msgstr "Элемент палитры %d"
@@ -1245,7 +1245,7 @@ msgid "Palette for terminal applications"
 msgstr "Палитра для терминальных приложений"
 
 msgid "Paste"
-msgstr "Вставить"
+msgstr "Шындаш"
 
 msgid "Paste _Filenames"
 msgstr "Вставить _имена файлов"
@@ -1271,7 +1271,7 @@ msgstr ""
 "команду."
 
 msgid "Pr_ofile Preferences"
-msgstr "Параметры п_рофиля"
+msgstr "Профильым келыштарыш-влак"
 
 msgid "Prepend initial title"
 msgstr "Предварить начальный заголовок"
@@ -1283,7 +1283,7 @@ msgid "Profile _name:"
 msgstr "Имя _профиля:"
 
 msgid "Profile list"
-msgstr "Список профилей"
+msgstr "Профильым лӱмер"
 
 msgid ""
 "Profile to be used when opening a new window or tab. Must be in profile_list."
@@ -1295,7 +1295,7 @@ msgid "Profile to use for new terminals"
 msgstr "Профиль, используемый для новых терминалов"
 
 msgid "Profiles"
-msgstr "Профили"
+msgstr "Профиль-влак"
 
 msgid "ROLE"
 msgstr "РОЛЬ"
@@ -1315,13 +1315,13 @@ msgstr ""
 "Не менять изначальный заголовок"
 
 msgid "Reset"
-msgstr "Сброс"
+msgstr "Кудалташ"
 
 msgid "Reset and C_lear"
-msgstr "Сброс и о_чистка"
+msgstr "Кудалташ да э_рыкташ"
 
 msgid "Reset and Clear"
-msgstr "Сброс и очистка"
+msgstr "Кудалташ да эрыкташ"
 
 msgid "Restart the command"
 msgstr "Перезапустить команду"
@@ -1353,7 +1353,7 @@ msgid "Save Contents"
 msgstr "Сохранить содержимое"
 
 msgid "Save as..."
-msgstr "Сохранить как…"
+msgstr "...семын арален кодаш"
 
 msgid "Save the terminal configuration to a file"
 msgstr "Сохранить конфигурацию терминала в файл"
@@ -1433,7 +1433,7 @@ msgstr ""
 "«Delete»). Рекомендуется установить значение «escape-sequence»."
 
 msgid "Shortcut _Key"
-msgstr "_Комбинация клавиш"
+msgstr "_Полдышым пырля кучылтмаш"
 
 msgid "Show GNOME Terminal options"
 msgstr "Показать параметры терминала GNOME"
@@ -1517,10 +1517,10 @@ msgid "TTY Erase"
 msgstr "Очистить терминал"
 
 msgid "Ta_bs"
-msgstr "В_кладки"
+msgstr "Е_шартыш-влак"
 
 msgid "Tabs"
-msgstr "Вкладки"
+msgstr "Ешартыш-влак"
 
 msgid "Tango"
 msgstr "Tango"
@@ -1687,7 +1687,7 @@ msgid "Vietnamese"
 msgstr "Вьетнамская"
 
 msgid "View"
-msgstr "Вид"
+msgstr "Сын"
 
 msgid "Western"
 msgstr "Западная"
@@ -1847,10 +1847,10 @@ msgid "_%d. %s"
 msgstr "_%d. %s"
 
 msgid "_About"
-msgstr "_О программе"
+msgstr "_Программе нерген"
 
 msgid "_Action"
-msgstr "_Действие"
+msgstr "_Ыштымаш"
 
 msgid "_Add or Remove…"
 msgstr "_Добавить или удалить…"
@@ -1874,7 +1874,7 @@ msgid "_Clear Highlight"
 msgstr "Очистить выделение"
 
 msgid "_Close Window"
-msgstr "_Закрыть окно"
+msgstr "_Тӧрзам петыраш"
 
 msgid "_Contents"
 msgstr "_Содержание"
@@ -1898,7 +1898,7 @@ msgid "_Detach tab"
 msgstr "От_цепить вк_ладку"
 
 msgid "_Edit"
-msgstr "_Правка"
+msgstr "_Вашталташ"
 
 msgid "_Enable menu access keys (such as Alt+F to open the File menu)"
 msgstr ""
@@ -1921,7 +1921,7 @@ msgid "_Full Screen"
 msgstr "Развернуть на полный _экран"
 
 msgid "_Help"
-msgstr "_Справка"
+msgstr "_Полыш"
 
 msgid "_Incremental Search..."
 msgstr "По_шаговый поиск…"
@@ -1930,7 +1930,7 @@ msgid "_Input Methods"
 msgstr "Использовать метод вв_ода"
 
 msgid "_Keyboard Shortcuts…"
-msgstr "_Комбинации клавиш…"
+msgstr "_Полдышым пырля кучылтмаш…"
 
 msgid "_Match case"
 msgstr "Учитывать _регистр"
@@ -1942,7 +1942,7 @@ msgid "_Open Link"
 msgstr "Открыть сс_ылку"
 
 msgid "_Password:"
-msgstr "_Пароль:"
+msgstr "_Шолыпмут:"
 
 msgid "_Previous Tab"
 msgstr "На п_редыдущую вкладку"
@@ -1960,7 +1960,7 @@ msgid "_Relaunch"
 msgstr "Перезапуск"
 
 msgid "_Reset"
-msgstr "_Сброс"
+msgstr "_Кудалташ"
 
 msgid "_Reset Compatibility Options to Defaults"
 msgstr "_Восстановить параметры совместимости по умолчанию"
@@ -1990,7 +1990,7 @@ msgid "_Set Title…"
 msgstr "_Установить заголовок…"
 
 msgid "_Shortcut keys:"
-msgstr "_Комбинации клавиш:"
+msgstr "_Полдышым пырля кучылтмаш:"
 
 msgid "_Solid color"
 msgstr "_Сплошной цвет"
@@ -2023,7 +2023,7 @@ msgid "_Use the system fixed width font"
 msgstr "_Использовать системный моноширинный шрифт"
 
 msgid "_View"
-msgstr "_Вид"
+msgstr "_Сын"
 
 msgid "_Wrap around"
 msgstr "Автоматически пере_ходить к началу документа"
@@ -2043,4 +2043,7 @@ msgstr ""
 "Дмитрий Мастрюков\n"
 "Кир Колышкин\n"
 "Леонид Кантер\n"
-"Тучинский Артём"
+"Тучинский Артём\n"
+"Андрей Чемышев <chemyshev.andrey@gmail.com>\n"
+"Михаил Кудрявцев <true@solaris.kirov.ru>\n"
+"Андрей Соколов <keremet@solaris.kirov.ru>"
