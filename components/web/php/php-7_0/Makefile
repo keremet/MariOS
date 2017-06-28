@@ -103,6 +103,7 @@ CONFIGURE_OPTIONS     +=	--with-imap-ssl
 CONFIGURE_OPTIONS     +=	--with-mysqli=shared,$(MYSQL_BINDIR)/mysql_config
 CONFIGURE_OPTIONS     +=	--with-pdo-mysql=shared,$(MYSQL_HOME)
 CONFIGURE_OPTIONS     +=	--with-pgsql=shared,$(PG_BINDIR)
+CONFIGURE_OPTIONS     +=        --with-pdo-pgsql=shared
 
 # Enabled Extensions
 #CONFIGURE_OPTIONS     +=	--with-libxml-dir=$(ECPREFIX)
@@ -215,4 +216,7 @@ REQUIRED_PACKAGES += text/aspell
 REQUIRED_PACKAGES += text/tidy
 REQUIRED_PACKAGES += web/curl
 REQUIRED_PACKAGES += web/php-70/php-cli
+REQUIRED_PACKAGES += developer/icu
+REQUIRED_PACKAGES += database/mariadb-55/client
+REQUIRED_PACKAGES += database/postgres-93/developer
 REQUIRED_PACKAGES += web/server/apache-22
