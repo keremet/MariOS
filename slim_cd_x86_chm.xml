@@ -24,7 +24,7 @@
     live CD iso and usb image
 -->
 
-<distribution name="MariOS170629">
+<distribution name="MariOS170630">
 	<distro_constr_params>
 		<!--
 		     Where to build. This can be a zfs dataset or a mountpoint.
@@ -273,7 +273,8 @@
 			<pkg name="pkg:/system/install/gui-install"/>
 			<pkg name="pkg:/system/install/text-install"/>
 			<pkg name="pkg:/system/install/media/internal"/>
-			<pkg name="pkg:/set_lng_ru"/>	
+			<pkg name="pkg:/set_lng_chm"/>	
+			<pkg name="pkg:/locale/chm"/>
 			<pkg name="pkg://localhostoih/desktop/application/libreoffice4"/>
 			<pkg name="pkg://localhostoih/desktop/application/libreoffice4-desktop-int"/>
 			<pkg name="pkg://localhostoih/system/library/g++/boost"/>
