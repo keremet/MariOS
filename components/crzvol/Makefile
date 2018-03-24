@@ -24,10 +24,11 @@ include $(WS_TOP)/make-rules/ips.mk
 
 
 build:
+	cd crttymon && make
 
 install:
 	[ -d $(PROTO_DIR) ] || mkdir -p $(PROTO_DIR)
 	mkdir -p $(PROTO_DIR)/usr/bin && \
-	cp files/* $(PROTO_DIR)/usr/bin
+	cp files/* crttymon/crttymon $(PROTO_DIR)/usr/bin
 test:		$(NO_TESTS)
 
