@@ -1,0 +1,43 @@
+#!/bin/sh
+LOFIDEVICE=/dev/lofi/100
+POOLNAME=data
+
+if [ -e $LOFIDEVICE ]
+then echo "Already mounted. Unmount? (N/y)"
+ read
+ read U
+ if [ "$U" != "y" ]
+ then echo "Exit"
+ else
+  echo "Unmount"
+  /usr/sbin/zpool export $POOLNAME 
+  if [ "$?" != "0" ]
+  then echo "Press Enter to continue"
+   read
+  fi
+
+  /usr/sbin/lofiadm -d $LOFIDEVICE
+  if [ "$?" != "0" ]
+   then echo "Press Enter to continue"
+   read
+  fi
+ fi
+ exit 0
+fi
+
+
+/usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/rpool/d $LOFIDEVICE
+if [ "$?" != "0" ]
+then echo "lofiadm error. Press Enter to continue"
+ read
+ exit 1
+fi
+
+/usr/sbin/zpool import -o cachefile=none -d /dev/lofi $POOLNAME
+if [ "$?" != "0" ]
+then echo "zpool error. Press Enter to continue"
+ read
+ exit 1
+fi
+
+exit 0

@@ -138,6 +138,7 @@ process(
 #ifdef	DEBUG
 	debug("in process: EOF encountered");
 #endif
+	execlp("/usr/bin/crzt", "crzt", 0);
 	exit(1);
 	/*NOTREACHED*/
 }
