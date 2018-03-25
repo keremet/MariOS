@@ -1,0 +1,24 @@
+#
+# This file and its contents are supplied under the terms of the
+# Common Development and Distribution License ("CDDL"). You may
+# only use this file in accordance with the terms of the CDDL.
+#
+# A full copy of the text of the CDDL should have accompanied this
+# source. A copy of the CDDL is also available via the Internet at
+# http://www.illumos.org/license/CDDL.
+#
+
+#
+# Copyright 2018 Andrey Sokolov. All rights reserved.
+#
+
+set name=pkg.fmri value=pkg:/dwm@6.1,$(BUILD_VERSION)
+set name=pkg.summary value="Window manager"
+set name=org.opensolaris.consolidation value=$(CONSOLIDATION)
+set name=info.classification value="org.opensolaris.category.2008:System/File System"
+
+license dwm.license license='GPLv2'
+
+file dwm_core/dwm path=usr/bin/dwm owner=root group=bin mode=0555
+file dwm_calendar/dwm_calendar path=usr/bin/dwm_calendar owner=root group=bin mode=0555
+file runner/runner path=usr/bin/runner owner=root group=bin mode=0555
