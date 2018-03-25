@@ -24,7 +24,7 @@
     live CD iso and usb image
 -->
 
-<distribution name="MariOS170629">
+<distribution name="MariOS180324">
 	<distro_constr_params>
 		<!--
 		     Where to build. This can be a zfs dataset or a mountpoint.
@@ -273,6 +273,7 @@
 			<pkg name="pkg:/system/install/gui-install"/>
 			<pkg name="pkg:/system/install/text-install"/>
 			<pkg name="pkg:/system/install/media/internal"/>
+			<pkg name="pkg:/dwm"/>
 			<pkg name="pkg:/set_lng_ru"/>	
 			<pkg name="pkg://localhostoih/desktop/application/libreoffice4"/>
 			<pkg name="pkg://localhostoih/desktop/application/libreoffice4-desktop-int"/>
@@ -303,7 +304,7 @@
 		     Loader menu modifications.
 		-->
 		<loader_menu_modifications>
-			<timeout>10</timeout>
+			<timeout>3</timeout>
 		</loader_menu_modifications>
 		<!--
 		     Indicate whether the IPS index should be generated for

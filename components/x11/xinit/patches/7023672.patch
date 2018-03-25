@@ -7,10 +7,10 @@ index 049a8e4..e60ff12 100644
  fi
  
 +XCOMM
-+XCOMM  If GNOME desktop is available, run it
++XCOMM  If dwm is available, run it
 +XCOMM
-+if [ -x /etc/gdm/Xsession ] && [ -x /usr/bin/dtstart ] ; then
-+  exec /etc/gdm/Xsession /usr/bin/dtstart jds
++if [ -x /usr/bin/dwm ] ; then
++  exec /usr/bin/dwm
 +fi
 +
  XCOMM start some nice programs
