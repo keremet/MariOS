@@ -324,7 +324,7 @@
   </service>
   <service name='application/graphical-login/gdm' version='1'
     type='service'>
-    <instance name='default' enabled='true' />
+    <instance name='default' enabled='false' />
   </service>
   <service name='network/rpc/cde-calendar-manager' version='1' type='service'>
     <instance name='default' enabled='true'/>

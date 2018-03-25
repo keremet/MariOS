@@ -161,7 +161,7 @@
       Enable gdm services.
   -->
   <service name='application/graphical-login/gdm' version='1' type='service'>
-    <instance name='default' enabled='true'>
+    <instance name='default' enabled='false'>
        <exec_method
                 type='method'
                 name='start'
@@ -174,7 +174,7 @@
       Enable lightdm services.
   -->
   <service name='application/graphical-login/lightdm' version='1' type='service'>
-    <instance name='default' enabled='true'>
+    <instance name='default' enabled='false'>
        <exec_method
                 type='method'
                 name='start'
