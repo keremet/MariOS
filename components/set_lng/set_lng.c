@@ -19,6 +19,15 @@ void _start(){
         }
         write_static_str(f, "RC_LANG="LOCALE"\n");
         close(f);
+
+        f = open("/etc/profile", O_WRONLY|O_APPEND, S_IRWXU | S_IRWXG | S_IROTH | S_IXOTH);
+        if (f < 0) {
+                write_static_str_to_stdout("Can not append to /etc/profile\n");
+                exit(1);
+        }
+        write_static_str(f, "export LANG="LOCALE"\n");
+        close(f);
+
         exit(0);
 }
 
