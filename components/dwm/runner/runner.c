@@ -80,25 +80,28 @@ static struct MENU_MODEL MM_MAIN_LEFT[] = {
 static GtkWidget *createMenu(struct MENU_MODEL *MM)
 {
 	GtkWidget *menu = gtk_menu_new();
-	for(; MM->name; MM++){
-		GtkWidget *mi = gtk_menu_item_new_with_label (MM->name);
-		if(MM->mm){
-			gtk_menu_item_set_submenu (GTK_MENU_ITEM (mi), createMenu (MM->mm));
+	for(struct MENU_MODEL *i = MM; i->name; i++){
+		GtkWidget *mi = gtk_menu_item_new_with_label (i->name);
+		if(i->mm){
+			gtk_menu_item_set_submenu (GTK_MENU_ITEM (mi), createMenu (i->mm));
 		}else{
-			g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (run_command), MM->command);
+			g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (run_command), i->command);
 		}
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
 	}
-	gtk_menu_shell_append (GTK_MENU_SHELL (menu), gtk_separator_menu_item_new ());
 
-	GtkWidget *mi;
-	mi = gtk_menu_item_new_with_label ("Выключение");
-	g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (poweroff), 0);
-	gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
+	if (MM == MM_MAIN_LEFT) {
+		gtk_menu_shell_append (GTK_MENU_SHELL (menu), gtk_separator_menu_item_new ());
 
-	mi = gtk_menu_item_new_with_label ("Перезагрузка");
-	g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (reboot), 0);
-	gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
+		GtkWidget *mi;
+		mi = gtk_menu_item_new_with_label ("Выключение");
+		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (poweroff), 0);
+		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
+
+		mi = gtk_menu_item_new_with_label ("Перезагрузка");
+		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (reboot), 0);
+		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
+	}
 
 	gtk_widget_show_all (menu);
 	return menu;
