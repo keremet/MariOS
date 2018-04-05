@@ -24,7 +24,7 @@
     live CD iso and usb image
 -->
 
-<distribution name="MariOS180324">
+<distribution name="MariOS180406">
 	<distro_constr_params>
 		<!--
 		     Where to build. This can be a zfs dataset or a mountpoint.
@@ -270,7 +270,6 @@
 			-->
 			<pkg name="pkg:/entire"/>
 			<pkg name="pkg:/metapackages/gui-install"/>
-			<pkg name="pkg:/system/install/gui-install"/>
 			<pkg name="pkg:/system/install/text-install"/>
 			<pkg name="pkg:/system/install/media/internal"/>
 			<pkg name="pkg:/dwm"/>
