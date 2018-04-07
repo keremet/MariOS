@@ -1,0 +1,19 @@
+#!/bin/sh
+if [ -z "$1" ] 
+then
+	echo "Usage: $0 <username>"
+	exit 1
+fi
+
+builtin cp
+builtin chown
+builtin chmod
+
+/usr/sbin/zfs create data/$1 && \
+/usr/sbin/useradd -d /data/$1 -s /bin/bash $1 && \
+cp /etc/skel/.bashrc /etc/skel/.profile /data/$1 && \
+chown -R $1 /data/$1 && \
+/usr/bin/passwd $1 && \
+chmod a+w /etc/sudoers && \
+echo "$1 ALL=(root)NOPASSWD:/usr/sbin/poweroff,/usr/sbin/reboot" >> /etc/sudoers && \
+chmod a-w /etc/sudoers

@@ -24,4 +24,5 @@ file files/crz path=usr/bin/crz owner=root group=bin mode=0555
 file files/crzg path=usr/bin/crzg owner=root group=bin mode=0555
 file files/crzu path=usr/bin/crzu owner=root group=bin mode=0555 
 file files/crzt path=usr/bin/crzt owner=root group=bin mode=0555
+file files/crz_useradd path=usr/bin/crz_useradd owner=root group=bin mode=0555
 file crttymon/crttymon path=usr/bin/crttymon owner=root group=bin mode=0555

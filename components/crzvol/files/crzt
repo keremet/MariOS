@@ -1,4 +1,5 @@
 #!/bin/sh
+ROOT_POOL=rpool
 LOFIDEVICE=/dev/lofi/100
 POOLNAME=data
 
@@ -26,7 +27,7 @@ then echo "Already mounted. Unmount? (N/y)"
 fi
 
 
-/usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/rpool/d $LOFIDEVICE
+/usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d $LOFIDEVICE
 if [ "$?" != "0" ]
 then echo "lofiadm error. Press Enter to continue"
  read
