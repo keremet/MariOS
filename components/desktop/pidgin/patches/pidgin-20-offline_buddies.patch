@@ -1,0 +1,21 @@
+--- pidgin-2.10.11/pidgin/gtkblist.c.orig	2015-05-19 15:11:42.975647130 +0530
++++ pidgin-2.10.11/pidgin/gtkblist.c   2015-05-19 15:14:12.846033693 +0530
+@@ -7545,17 +7545,17 @@
+ 
+ 	cached_emblems = g_hash_table_new_full(g_str_hash, g_str_equal, g_free, NULL);
+ 
+ 	/* Initialize prefs */
+ 	purple_prefs_add_none(PIDGIN_PREFS_ROOT "/blist");
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_buddy_icons", TRUE);
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_empty_groups", FALSE);
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_idle_time", TRUE);
+-	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_offline_buddies", FALSE);
++	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_offline_buddies", TRUE);
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/show_protocol_icons", FALSE);
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/list_visible", FALSE);
+ 	purple_prefs_add_bool(PIDGIN_PREFS_ROOT "/blist/list_maximized", FALSE);
+ 	purple_prefs_add_string(PIDGIN_PREFS_ROOT "/blist/sort_type", "alphabetical");
+ 	purple_prefs_add_int(PIDGIN_PREFS_ROOT "/blist/x", 0);
+ 	purple_prefs_add_int(PIDGIN_PREFS_ROOT "/blist/y", 0);
+ 	purple_prefs_add_int(PIDGIN_PREFS_ROOT "/blist/width", 250); /* Golden ratio, baby */
+ 	purple_prefs_add_int(PIDGIN_PREFS_ROOT "/blist/height", 405); /* Golden ratio, baby */

@@ -1,0 +1,52 @@
+--- pidgin-2.10.11/pidgin/gtkmain.c.orig	2015-05-19 15:11:42.975647130 +0530
++++ pidgin-2.10.11/pidgin/gtkmain.c   2015-05-19 15:14:12.846033693 +0530
+@@ -806,16 +806,49 @@
+ 
+ 	/* TODO: Move blist loading into purple_blist_init() */
+ 	purple_set_blist(purple_blist_new());
+ 	purple_blist_load();
+ 
+ 	/* load plugins we had when we quit */
+ 	purple_plugins_load_saved(PIDGIN_PREFS_ROOT "/plugins/loaded");
+ 
++	PurplePlugin *otr_plugin;
++	otr_plugin = purple_plugins_find_with_id("otr");
++	if (otr_plugin == NULL)
++	{
++		char *tmp;
++		tmp = g_strdup_printf(_("The required plugin %s was not found. "
++			"Please install this plugin and try again."),
++			"otr");
++
++		purple_notify_error(NULL, NULL,
++			_("Unable to load the plugin"), tmp);
++		g_free(tmp);
++
++		return 0;
++	}
++
++	if (!purple_plugin_is_loaded(otr_plugin))
++	{
++		if (!purple_plugin_load(otr_plugin))
++		{
++			char *tmp;
++			tmp = g_strdup_printf(_("The required plugin %s was unable to load."),
++				"otr");
++
++			purple_notify_error(NULL, NULL,
++				_("Unable to load your plugin."), tmp);
++			g_free(tmp);
++
++			return 0;
++		}
++	}
++
++
+ 	/* TODO: Move pounces loading into purple_pounces_init() */
+ 	purple_pounces_load();
+ 
+ 	ui_main();
+ 
+ #ifdef USE_SM
+ 	pidgin_session_init(argv[0], opt_session_arg, opt_config_dir_arg);
+ #endif
