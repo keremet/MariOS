@@ -30,6 +30,39 @@
       svc.startd(1M) services
   -->
 
+  <service name='system/idmap' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing/ndp' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing-setup' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/zones-monitoring' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing/route' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/rbac' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/pfexec' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/ipsec/ipsecalgs' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/iptun' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/pkgserv' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/sysding' version='1' type='service'>
+    <instance name='system' enabled='false'/>
+  </service>
   <service name='system/hal' version='1' type='service'>
     <instance name='default' enabled='true'/>
   </service>

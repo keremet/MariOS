@@ -67,10 +67,10 @@
     <instance name='default' enabled='false'/>
   </service>
   <service name='system/picl' version='1' type='service'>
-    <instance name='default' enabled='true'/>
+    <instance name='default' enabled='false'/>
   </service>
   <service name='system/sac' version='1' type='service'>
-    <instance name='default' enabled='true'/>
+    <instance name='default' enabled='false'/>
   </service>
   <service name='system/system-log' version='1' type='service'>
     <instance name='default' enabled='true'/>
@@ -85,7 +85,7 @@
     <instance name='default' enabled='true'/>
   </service>
   <service name='network/rpc/bind' version='1' type='service'>
-    <instance name='default' enabled='true'/>
+    <instance name='default' enabled='false'/>
   </service>
   <service name='system/name-service-cache' version='1' type='service'>
     <instance name='default' enabled='true'/>
@@ -118,13 +118,13 @@
     <instance name='sendmail' enabled='false'/>
   </service>
   <service name='network/inetd' version='1' type='restarter'>
-    <instance name='default' enabled='true'/>
+    <instance name='default' enabled='false'/>
   </service>
   <service name='system/dumpadm' version='1' type='service'>
     <instance name='default' enabled='false'/>
   </service>
   <service name='system/filesystem/autofs' version='1' type='service'>
-    <instance name='default' enabled='true'/>
+    <instance name='default' enabled='false'/>
   </service>
   <service name='system/power' version='1' type='service'>
     <instance name='default' enabled='false'/>
@@ -219,7 +219,7 @@
     </instance>
   </service>
   <service name='system/zones' version='1' type='service'>
-    <instance name='default' enabled='true'>
+    <instance name='default' enabled='false'>
        <exec_method
                 type='method'
                 name='start'
