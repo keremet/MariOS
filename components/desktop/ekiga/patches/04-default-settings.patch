@@ -1,0 +1,80 @@
+--- ekiga-4.0.1/ekiga.schemas.in.in.orig	2013-02-19 01:36:51.000000000 +0400
++++ ekiga-4.0.1/ekiga.schemas.in.in	2018-05-09 08:05:45.966339748 +0300
+@@ -540,17 +540,17 @@
+ 	<long>The STUN server to use for STUN Support. STUN is a technology that permits passage through some types of NAT gateway</long>
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/@PACKAGE_NAME@/general/nat/enable_stun</key>
+       <applyto>/apps/@PACKAGE_NAME@/general/nat/enable_stun</applyto>
+       <owner>Ekiga</owner>
+       <type>bool</type>
+-      <default>true</default>
++      <default>false</default>
+       <locale name="C">
+ 	<short>Enable STUN network detection</short>
+ 	<long>Enable the automatic network setup resulting from the STUN test</long>
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/@PACKAGE_NAME@/protocols/sip/binding_timeout</key>
+       <applyto>/apps/@PACKAGE_NAME@/protocols/sip/binding_timeout</applyto>
+@@ -871,17 +871,17 @@
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/@PACKAGE_NAME@/codecs/video/media_list</key>
+       <applyto>/apps/@PACKAGE_NAME@/codecs/video/media_list</applyto>
+       <owner>Ekiga</owner>
+       <type>list</type>
+       <list_type>string</list_type>
+-      <default>[h264*90000*0*SIP*1,theora*90000*0*SIP*1,h261*90000*0*H.323 SIP*1]</default>
++      <default>[h264*90000*0*SIP*0,theora*90000*0*SIP*0,h261*90000*0*H.323 SIP*0]</default>
+       <locale name="C">
+ 	<short>The video codecs list</short>
+ 	<long>The video codecs list</long>
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/@PACKAGE_NAME@/codecs/video/maximum_video_tx_bitrate</key>
+       <applyto>/apps/@PACKAGE_NAME@/codecs/video/maximum_video_tx_bitrate</applyto>
+--- ekiga-4.0.1/ekiga.schemas.orig	2013-02-21 01:44:29.000000000 +0400
++++ ekiga-4.0.1/ekiga.schemas	2018-05-09 08:05:21.645151550 +0300
+@@ -16151,17 +16151,17 @@
+ 	<long>STUN 支援所使用的 STUN 伺服器。STUN 是一種可以用來穿透某類 NAT 閘道器的技術</long>
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/ekiga/general/nat/enable_stun</key>
+       <applyto>/apps/ekiga/general/nat/enable_stun</applyto>
+       <owner>Ekiga</owner>
+       <type>bool</type>
+-      <default>true</default>
++      <default>false</default>
+       <locale name="C">
+ 	<short>Enable STUN network detection</short>
+ 	<long>Enable the automatic network setup resulting from the STUN test</long>
+       </locale>
+ 
+       <locale name="ar">
+ 	<short>فعّل استكشاف الشبكة عبر STUN</short>
+ 	<long>فعّل إعداد الشبكة الآلي الناتج من اختبار STUN</long>
+@@ -26378,17 +26378,17 @@
+       </locale>
+     </schema>
+     <schema>
+       <key>/schemas/apps/ekiga/codecs/video/media_list</key>
+       <applyto>/apps/ekiga/codecs/video/media_list</applyto>
+       <owner>Ekiga</owner>
+       <type>list</type>
+       <list_type>string</list_type>
+-      <default>[h264*90000*0*SIP*1,theora*90000*0*SIP*1,h261*90000*0*H.323 SIP*1]</default>
++      <default>[h264*90000*0*SIP*0,theora*90000*0*SIP*0,h261*90000*0*H.323 SIP*0]</default>
+       <locale name="C">
+ 	<short>The video codecs list</short>
+ 	<long>The video codecs list</long>
+       </locale>
+ 
+       <locale name="ar">
+ 	<short>قائمة مِرمازات الفيديو</short>
+ 	<long>قائمة مِرمازات الفيديو</long>
