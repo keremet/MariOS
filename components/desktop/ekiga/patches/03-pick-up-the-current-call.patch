@@ -1,0 +1,21 @@
+--- ekiga-4.0.1/lib/engine/gui/gtk-frontend/call-window.cpp.orig	2013-02-20 21:18:09.000000000 +0100
++++ ekiga-4.0.1/lib/engine/gui/gtk-frontend/call-window.cpp	2016-08-27 02:55:02.009466599 +0200
+@@ -2389,17 +2389,17 @@
+   gtk_container_add (GTK_CONTAINER (cw->priv->pickup_button), image);
+   gtk_container_add (GTK_CONTAINER (item), cw->priv->pickup_button);
+   gtk_button_set_relief (GTK_BUTTON (cw->priv->pickup_button), GTK_RELIEF_NONE);
+   gtk_widget_show (cw->priv->pickup_button);
+   gtk_toolbar_insert (GTK_TOOLBAR (cw->priv->call_panel_toolbar),
+ 		      GTK_TOOL_ITEM (item), -1);
+   gtk_widget_set_sensitive (GTK_WIDGET (cw->priv->pickup_button), false);
+   gtk_tool_item_set_tooltip_text (GTK_TOOL_ITEM (item),
+-				  _("Hang up the current call"));
++				  _("Pick up the current call"));
+   g_signal_connect (cw->priv->pickup_button, "clicked",
+ 		    G_CALLBACK (pickup_call_cb), cw);
+ 
+   item = gtk_tool_item_new ();
+   cw->priv->hangup_button = gtk_button_new ();
+   image = gtk_image_new_from_icon_name ("phone-hang-up", GTK_ICON_SIZE_LARGE_TOOLBAR);
+   gtk_container_add (GTK_CONTAINER (cw->priv->hangup_button), image);
+   gtk_container_add (GTK_CONTAINER (item), cw->priv->hangup_button);
