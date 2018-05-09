@@ -12,3 +12,6 @@ logo.o: logo.c
 	gcc -c -ologo.o logo.c
 clean:
 	rm -f $(APP) $(objects)
+
+install: $(APP)
+	cp $(APP) /usr/bin

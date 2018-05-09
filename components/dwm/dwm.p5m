@@ -22,3 +22,7 @@ license dwm.license license='GPLv2'
 file dwm_core/dwm path=usr/bin/dwm owner=root group=bin mode=0555
 file dwm_calendar/dwm_calendar path=usr/bin/dwm_calendar owner=root group=bin mode=0555
 file runner/runner path=usr/bin/runner owner=root group=bin mode=0555
+file runner/logo.c path=usr/share/src/dwm/runner/logo.c owner=root group=bin mode=0444
+file runner/logo.png path=usr/share/src/dwm/runner/logo.png owner=root group=bin mode=0444
+file runner/makefile path=usr/share/src/dwm/runner/makefile owner=root group=bin mode=0444
+file runner/runner.c path=usr/share/src/dwm/runner/runner.c owner=root group=bin mode=0444
