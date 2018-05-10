@@ -1,0 +1,29 @@
+#
+# This file and its contents are supplied under the terms of the
+# Common Development and Distribution License ("CDDL)". You may
+# only use this file in accordance with the terms of the CDDL.
+#
+# A full copy of the text of the CDDL should have accompanied this
+# source. A copy of the CDDL is also available via the Internet at
+# http://www.illumos.org/license/CDDL.
+#
+
+#
+# Copyright 2018, Andrey Sokolov. All rights reserved.
+#
+
+set name=pkg.fmri value=pkg:/metapackages/firefox4zone@$(IPS_COMPONENT_VERSION),$(BUILD_VERSION)
+set name=pkg.summary value="A meta-package that installs all required packages to run firefox in zone"
+set name=info.classification value="org.opensolaris.category.2008:Meta Packages/Group Packages"
+set name=org.opensolaris.consolidation value=$(CONSOLIDATION)
+
+depend fmri=web/browser/firefox type=require
+depend fmri=web/browser/firefox/plugin/firefox-java type=require
+depend fmri=x11/library/mesa type=require
+depend fmri=system/library/dbus type=require
+depend fmri=system/font/truetype/arphic-uming type=require
+depend fmri=system/font/truetype/dejavu type=require
+depend fmri=system/font/truetype/ipafont type=require
+depend fmri=system/font/truetype/liberation type=require
+depend fmri=system/font/truetype/lohit type=require
+depend fmri=system/font/xorg/iso8859-1  type=require
