@@ -37,3 +37,12 @@ depend type=require fmri=system/file-system/ntfsprogs
 depend type=require fmri=gnome/media/sound-recorder
 depend type=require fmri=archiver/unrar
 depend type=require fmri=editor/diagram/dia
+
+depend type=require fmri=developer/gcc-5
+depend type=require fmri=developer/build/pkg-config
+depend type=require fmri=x11/library/mesa
+depend type=require fmri=x11/library/libpthread-stubs
+depend type=require fmri=system/header
+depend type=require fmri=developer/gnu-binutils
+depend type=require fmri=developer/library/lint
+
