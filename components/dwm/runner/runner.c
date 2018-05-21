@@ -69,9 +69,16 @@ static struct MENU_MODEL MM_MAIN_LEFT[] = {
 	{"xterm", {"xterm", 0}},
 	{"Программирование", {0}, MM_PROGRAMMING},
 	{"Регулятор громкости", {"gnome-volume-control", 0}},
+	{"Звукозапись", {"gnome-sound-recorder", 0}},
 	{"openvpn и asterisk", {"xterm", "-e", "sudo /data/openvpn/openvpn.sh", 0}},
-	{"ekiga", {"sh", "-c", "ekiga --local-ip=`ifconfig tun0|tail -n 1|awk '{print $2}'`", 0}},
-	{"Доступ к рабочему столу", {"vino-preferences", 0}},
+	{"ekiga", {"sh", "-c", 
+		"audioctl set-control mic 100;"
+		"audioctl set-control volume 100;"
+		"audioctl set-control headphones 100;"
+		"ekiga --local-ip=`ifconfig tun0|tail -n 1|awk '{print $2}'`", 0}},
+	{"Разрешить доступ к рабочему столу", {"xterm", "-e", "/usr/lib/vino-server", 0}},
+	{"Параметры доступа к рабочему столу", {"vino-preferences", 0}},
+	{"Подключиться к рабочему столу", {"vncviewer", "-NoJPEG", 0}},
 	{"Заблокировать экран (Win+L)", { "xscreensaver-command", "-lock", 0 }},
 	{"Снимок экрана", { "gnome-screenshot", "--interactive", 0 }},
 	{0},
