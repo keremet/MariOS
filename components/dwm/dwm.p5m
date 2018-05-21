@@ -20,7 +20,20 @@ set name=info.classification value="org.opensolaris.category.2008:System/File Sy
 license dwm.license license='GPLv2'
 
 file dwm_core/dwm path=usr/bin/dwm owner=root group=bin mode=0555
+file dwm_core/config.h path=usr/share/src/dwm/dwm_core/config.h owner=root group=bin mode=0444
+file dwm_core/config.mk path=usr/share/src/dwm/dwm_core/config.mk owner=root group=bin mode=0444
+file dwm_core/drw.c path=usr/share/src/dwm/dwm_core/drw.c owner=root group=bin mode=0444
+file dwm_core/drw.h path=usr/share/src/dwm/dwm_core/drw.h owner=root group=bin mode=0444
+file dwm_core/dwm.c path=usr/share/src/dwm/dwm_core/dwm.c owner=root group=bin mode=0444
+file dwm_core/Makefile path=usr/share/src/dwm/dwm_core/Makefile owner=root group=bin mode=0444
+file dwm_core/transient.c path=usr/share/src/dwm/dwm_core/transient.c owner=root group=bin mode=0444
+file dwm_core/util.c path=usr/share/src/dwm/dwm_core/util.c owner=root group=bin mode=0444
+file dwm_core/util.h path=usr/share/src/dwm/dwm_core/util.h owner=root group=bin mode=0444
+
 file dwm_calendar/dwm_calendar path=usr/bin/dwm_calendar owner=root group=bin mode=0555
+file dwm_calendar/dwm_calendar.c path=usr/share/src/dwm/dwm_calendar/dwm_calendar.c owner=root group=bin mode=0444
+file dwm_calendar/makefile path=usr/share/src/dwm/dwm_calendar/makefile owner=root group=bin mode=0444
+
 file runner/runner path=usr/bin/runner owner=root group=bin mode=0555
 file runner/logo.c path=usr/share/src/dwm/runner/logo.c owner=root group=bin mode=0444
 file runner/logo.png path=usr/share/src/dwm/runner/logo.png owner=root group=bin mode=0444

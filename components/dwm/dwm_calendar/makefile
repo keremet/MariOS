@@ -10,3 +10,5 @@ $(APP).o: $(SRC)
 	gcc -c -o$(APP).o $(CFLAGS) `pkg-config gtk+-2.0 --cflags` $(SRC)
 clean:
 	rm -f $(APP) $(objects)
+install: $(APP)
+	cp $(APP) /usr/bin
