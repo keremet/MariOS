@@ -94,7 +94,7 @@ static char* RUN_APPS[][6] = {
 	{"setxkbmap", "-layout", "us,chm", "-option", "grp:ctrl_shift_toggle", 0},
 	{"runner", 0},
 	{"pulseaudio", 0},
-	{"gnome-power-manager", 0},
+//	{"gnome-power-manager", 0},
 	{"xscreensaver", 0},
 };
 
