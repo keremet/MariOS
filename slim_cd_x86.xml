@@ -24,7 +24,7 @@
     live CD iso and usb image
 -->
 
-<distribution name="MariOS180509">
+<distribution name="MariOS180521">
 	<distro_constr_params>
 		<!--
 		     Where to build. This can be a zfs dataset or a mountpoint.
