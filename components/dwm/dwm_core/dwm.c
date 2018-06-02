@@ -864,6 +864,7 @@ drawbar(Monitor *m)
 				drw_setscheme(drw, m->sel == c ? &scheme[SchemeSel] : &scheme[SchemeNorm]);
 				drw_text(drw, x, 0, w, bh, c->name, 0);
 				drw_rect(drw, x + 1, 1, dx, dx, c->isfixed, c->isfloating, 0);
+				XDrawLine(drw->dpy, drw->drawable, drw->gc, x, 0, x, bh);
 
 				x += w;
 				c->fancy_but_right = x;
