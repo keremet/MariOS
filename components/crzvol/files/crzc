@@ -9,8 +9,6 @@ fi
 builtin grep
 builtin chmod
 
-LOGIN_SCRIPT=/lib/svc/method/console-login 
-
 OIFS=$IFS
 IFS=' '
 ROOT_POOL_ARR=(`/usr/sbin/mount|grep "^/ on "`)
@@ -22,10 +20,6 @@ IFS=$OIFS
 /usr/sbin/zfs create -V $1 $ROOT_POOL/d && \
 /usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d /dev/lofi/100 && \
 /usr/sbin/zpool create -o cachefile=none data /dev/lofi/100 && \
-chmod a+w $LOGIN_SCRIPT && \
-echo "#!/sbin/sh\n\
-exec /usr/bin/crttymon -g -d /dev/console -l console -m ldterm,ttcompat -h -p \"Login: \"" >  $LOGIN_SCRIPT && \
-chmod a-w $LOGIN_SCRIPT && \
 chmod a+w /usr/bin/crzt && \
 /usr/bin/sed -i 's/^ROOT_POOL=.*/ROOT_POOL='$ROOT_POOL'/g' /usr/bin/crzt && \
 chmod a-w /usr/bin/crzt && \
