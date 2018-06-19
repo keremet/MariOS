@@ -29,15 +29,15 @@ fi
 
 /usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d $LOFIDEVICE
 if [ "$?" != "0" ]
-then echo "lofiadm error. Press Enter to continue"
- read
+then echo "lofiadm error"
  exit 1
 fi
 
 /usr/sbin/zpool import -o cachefile=none -d /dev/lofi $POOLNAME
 if [ "$?" != "0" ]
-then echo "zpool error. Press Enter to continue"
- read
+then 
+ /usr/sbin/lofiadm -d $LOFIDEVICE
+ echo "zpool error"
  exit 1
 fi
 

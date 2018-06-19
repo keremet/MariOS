@@ -16,10 +16,23 @@ IFS='/'
 ROOT_POOL_ARR2=(${ROOT_POOL_ARR[2]})
 ROOT_POOL=${ROOT_POOL_ARR2[0]}
 IFS=$OIFS
+LOFIDEVICE=/dev/lofi/100
 
-/usr/sbin/zfs create -V $1 $ROOT_POOL/d && \
-/usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d /dev/lofi/100 && \
-/usr/sbin/zpool create -o cachefile=none data /dev/lofi/100 && \
+/usr/sbin/zfs create -V $1 $ROOT_POOL/d 
+if [ "$?" != "0" ]
+then echo "zvol creating error"
+ exit 1
+fi
+
+/usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d $LOFIDEVICE
+if [ "$?" != "0" ]
+then 
+ echo "lofiadm error"
+ /usr/sbin/zfs destroy $ROOT_POOL/d 
+ exit 1
+fi
+
+/usr/sbin/zpool create -o cachefile=none data $LOFIDEVICE && \
 chmod a+w /usr/bin/crzt && \
 /usr/bin/sed -i 's/^ROOT_POOL=.*/ROOT_POOL='$ROOT_POOL'/g' /usr/bin/crzt && \
 chmod a-w /usr/bin/crzt && \

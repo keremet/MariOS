@@ -1,7 +1,8 @@
 #!/bin/sh
 ROOT_POOL=rpool
+LOFIDEVICE=/dev/lofi/100
 
-sudo /usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d /dev/lofi/100
+sudo /usr/sbin/lofiadm -c aes-256-cbc -a /dev/zvol/rdsk/$ROOT_POOL/d $LOFIDEVICE
 if [ "$?" != "0" ]
 then echo "Ошибка lofiadm. Нажмите Enter для продолжения"
  read
@@ -10,7 +11,8 @@ fi
 
 sudo /usr/sbin/zpool import -o cachefile=none -d /dev/lofi data
 if [ "$?" != "0" ]
-then echo "Ошибка zpool. Нажмите Enter для продолжения"
+then sudo /usr/sbin/lofiadm -d $LOFIDEVICE
+ echo "Ошибка zpool. Нажмите Enter для продолжения"
  read
  exit 1
 fi
