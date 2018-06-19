@@ -49,13 +49,7 @@
   <service name='system/coreadm' version='1' type='service'>
     <instance name='default' enabled='true'/>
   </service>
-  <service name='system/cron' version='1' type='service'>
-    <instance name='default' enabled='true'/>
-  </service>
   <service name='system/cryptosvc' version='1' type='service'>
-    <instance name='default' enabled='true'/>
-  </service>
-  <service name='system/dbus' version='1' type='service'>
     <instance name='default' enabled='true'/>
   </service>
   <service name='system/extended-accounting' version='1' type='service'>
@@ -70,29 +64,14 @@
   <service name='system/identity' version='1' type='service'>
     <instance name='domain' enabled='true'/>
   </service>
-  <service name='system/intrd' version='1' type='service'>
-    <instance name='default' enabled='true'/>
-  </service>
-  <service name='system/keymap' version='1' type='service'>
-    <instance name='default' enabled='true'/>
-  </service>
   <service name='system/picl' version='1' type='service'>
     <instance name='default' enabled='false'/>
-  </service>
-  <service name='system/sac' version='1' type='service'>
-    <instance name='default' enabled='false'/>
-  </service>
-  <service name='system/scheduler' version='1' type='service'>
-    <instance name='default' enabled='true'/>
   </service>
   <service name='system/system-log' version='1' type='service'>
     <instance name='default' enabled='true'/>
   </service>
   <service name='system/utmp' version='1' type='service'>
     <instance name='default' enabled='true'/>
-  </service>
-  <service name='system/zones' version='1' type='service'>
-    <instance name='default' enabled='false'/>
   </service>
   <service name='network/rpc/bind' version='1' type='service'>
     <instance name='default' enabled='false'/>
@@ -143,9 +122,6 @@
   <service name='system/filesystem/rmvolmgr' version='1' type='service'>
     <instance name='default' enabled='true'/>
   </service>
-  <service name='system/power' version='1' type='service'>
-    <instance name='default' enabled='true'/>
-  </service>
 
   <service name='network/dns/multicast' version='1' type='service'>
     <instance name='default' enabled='false'/>
@@ -181,14 +157,8 @@
   <service name='application/management/snmpdx' version='1' type='service'>
     <instance name='default' enabled='false' />
   </service>
-  <service name='application/management/wbem' version='1' type='service'>
-    <instance name='default' enabled='true' />
-  </service>
   <service name='application/print/ipp-listener' version='1' type='service'>
     <instance name='default' enabled='false' />
-  </service>
-  <service name='application/print/ppd-cache-update' version='1' type='service'>
-    <instance name='default' enabled='true' />
   </service>
   <service name='application/print/rfc1179' version='1' type='service'>
     <instance name='default' enabled='false' />
@@ -310,21 +280,10 @@
   </service>
 
   <!--
-      Disable Avahi mDNS bridge service
-  -->
-  <service name='system/avahi-bridge-dsd' version='1' type='service'>
-    <instance name='default' enabled='false'/>
-  </service>
-
-  <!--
       Enable CDE/ToolTalk/GDM services.
   -->
   <service name='network/rpc/cde-ttdbserver' version='1' type='service'>
     <instance name='tcp' enabled='true' />
-  </service>
-  <service name='application/graphical-login/gdm' version='1'
-    type='service'>
-    <instance name='default' enabled='false' />
   </service>
   <service name='network/rpc/cde-calendar-manager' version='1' type='service'>
     <instance name='default' enabled='true'/>
@@ -346,6 +305,351 @@
 
   <service name='system/xvm/ipagent' version='1' type='service'>
      <instance name='default' enabled='true'/>
+  </service>
+
+  <!--
+      svc.startd(1M) services
+  -->
+  <service name='system/boot-archive-update' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <!-- Fast reboot on panic is inappropriate in installation environments -->
+  <service name='system/boot-config' version='1' type='service'>
+    <instance name='default'>
+      <property_group name='config' type='application'>
+        <propval name='fastreboot_onpanic' value='false' />
+      </property_group>
+    </instance>
+  </service>
+  <service name='system/cron' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/fmd' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/intrd' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/metainit' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/metasync' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/sac' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/location' version='1' type='service'>
+    <instance name='default' enabled='true'/>
+  </service>
+  <service name='network/netcfg' version='1' type='service'>
+    <instance name='default' enabled='true'/>
+  </service>
+  <service name='network/nis/client' version='1' type='service'>
+      <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/rpc/keyserv' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/dumpadm' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/power' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+
+  <!--
+      Disable early-manifest-import
+  -->
+  <service name='system/early-manifest-import' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+
+  <!--
+      Default service instances cloned as live-media instances
+  -->
+  <service name='system/sysidtool' version='1' type='service'>
+    <instance name='system' enabled='false'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+    <instance name='live-media' enabled='true'/>
+    <instance name='net' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='system/filesystem/root-minimal' version='1' type='service'>
+    <instance name='live-media' enabled='true'/>
+  </service>
+  <service name='system/filesystem/root' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+    <instance name='live-media' enabled='true'/>
+    <instance name='net' enabled='false'/>
+  </service>
+  <service name='system/filesystem/usr' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+    <instance name='live-media' enabled='true'/>
+  </service>
+
+  <!--
+      Dummy out start methods for services we need to run, but as no-ops
+  -->
+  <service name='system/boot-archive' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='system/manifest-import' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='system/rmtmpfiles' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='application/font/fc-cache' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='system/scheduler' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+  <service name='system/zones' version='1' type='service'>
+    <instance name='default' enabled='false'>
+       <exec_method
+                type='method'
+                name='start'
+                timeout_seconds='0'
+                exec=':true'/>
+    </instance>
+  </service>
+
+
+  <!--
+      svc.startd(1M) services
+  -->
+
+  <service name='system/idmap' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing/ndp' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing-setup' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/zones-monitoring' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/routing/route' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/rbac' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/pfexec' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/ipsec/ipsecalgs' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/iptun' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/pkgserv' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/sysding' version='1' type='service'>
+    <instance name='system' enabled='false'/>
+  </service>
+  <service name='system/postrun' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='system/filesystem/zfssnap-roleadd' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/physical' version='1' type='service'>
+      <instance name='default' enabled='false'/>
+      <instance name='nwam' enabled='true'/>
+  </service>
+  <service name='network/shares/group' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+    <instance name='zfs' enabled='false'/>
+  </service>
+  <service name='network/tnctl' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='network/inetd-ugrade' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+  <service name='application/management/sma' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='application/management/wbem' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='application/print/cleanup' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='application/print/ppd-cache-update' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='system/basicreg' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='platform/i86pc/kdmconfig' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='application/pkg/update' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+  <service name='system/avahi-bridge-dsd' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <!--
+      Make sure GNOME cache services for the live image are all disabled.
+  -->
+  <service name='application/desktop-cache/desktop-mime-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/gconf-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/gio-module-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/icon-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/input-method-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/mime-types-cache' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <service name='application/desktop-cache/pixbuf-loaders-installer' version='1' type='service'>
+    <instance name='default' enabled='false' />
+  </service>
+
+  <!--
+      Increase the timeout to avoid error messages for the next 3 services.
+      Default of 30 seconds is not enough when starting from a slow device
+      like a DVD drive.
+  -->
+  <service name='system/dbus' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+		exec='/lib/svc/method/svc-dbus start'
+                timeout_seconds='90'/>
+    </instance>
+  </service>
+
+  <!--
+      Enable gdm services.
+  -->
+  <service name='application/graphical-login/gdm' version='1' type='service'>
+    <instance name='default' enabled='false'>
+       <exec_method
+                type='method'
+                name='start'
+		exec='/lib/svc/method/svc-gdm start'
+                timeout_seconds='120'/>
+    </instance>
+  </service>
+
+  <!--
+      Enable lightdm services.
+  -->
+  <service name='application/graphical-login/lightdm' version='1' type='service'>
+    <instance name='default' enabled='false'>
+       <exec_method
+                type='method'
+                name='start'
+		exec='/lib/svc/method/svc-lightdm start'
+                timeout_seconds='120'/>
+    </instance>
+  </service>
+
+  <!--
+      Enable X11 services
+  -->
+  <service name='application/opengl/ogl-select' version='1' type='service'>
+    <instance name='default' enabled='true'>
+       <exec_method
+                type='method'
+                name='start'
+		exec='/lib/svc/method/ogl-select start'
+                timeout_seconds='90'/>
+    </instance>
+  </service>
+
+  <!--
+	Text mode menu
+  -->
+  <service name='system/install-setup' version='1' type='service'>
+    <instance name='default' enabled='true'/>
+  </service>
+
+  <!--
+	Disable console login by default
+  -->
+  <service name='system/console-login' version='1' type='service'>
+    <instance name='default' enabled='false'/>
+  </service>
+
+
+  <!--
+      Reset keymap/layout property of svc:/system/keymap:default smf(5) service.
+      That assures that keyboard layout selected by user during boot does not
+      get overwritten by keymap service.
+  -->
+  <service name='system/keymap' version='1' type='service'>
+    <instance name='default' enabled='true'>
+      <property_group name='keymap' type='system'>
+        <propval name='layout' type='astring' value=''/>
+      </property_group>
+    </instance>
   </service>
 
 </service_bundle>

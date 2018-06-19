@@ -172,12 +172,6 @@
 				<smf_service_profile>
 					<profile path="smf/generic_limited_net.xml"
 					         use_build_sys_file="true"/>
-					<profile path="smf/generic_live.xml"
-					         use_build_sys_file="true"/>
-					<profile path="smf/slimcd_live.xml"
-					         use_build_sys_file="true"/>
-					<profile path="smf/ns_files.xml"
-					         use_build_sys_file="true"/>
 				</smf_service_profile>
 			</boot_archive>
 		</output_image>
