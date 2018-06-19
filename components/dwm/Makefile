@@ -31,6 +31,6 @@ build:
 install:
 	[ -d $(PROTO_DIR) ] || mkdir -p $(PROTO_DIR)
 	mkdir -p $(PROTO_DIR)/usr/bin && \
-	cp dwm_core/dwm runner/runner dwm_calendar/dwm_calendar $(PROTO_DIR)/usr/bin
+	cp dwm_core/d runner/runner dwm_calendar/dwm_calendar $(PROTO_DIR)/usr/bin
 test:		$(NO_TESTS)
 

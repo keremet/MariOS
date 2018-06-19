@@ -30,7 +30,7 @@ CPPFLAGS = -D_XPG6 -D_BSD_SOURCE -DVERSION=\"${VERSION}\" ${XINERAMAFLAGS}
 #LDFLAGS  = ${LIBS}
 
 #release
-CFLAGS   = -std=c99 -pedantic -Wall -Wno-deprecated-declarations -Os ${INCS} ${CPPFLAGS}
+CFLAGS   = -std=gnu99 -pedantic -Wall -Wno-deprecated-declarations -O3 ${INCS} ${CPPFLAGS}
 LDFLAGS  = -s ${LIBS}
 
 

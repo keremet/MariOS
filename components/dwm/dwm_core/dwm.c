@@ -42,6 +42,8 @@
 #include <X11/Xft/Xft.h>
 #include <time.h>
 #include <sys/time.h>
+#include <sys/stat.h>
+#include <fcntl.h>
 
 #include "drw.h"
 #include "util.h"
@@ -2424,6 +2426,75 @@ run_apps()
 	}
 }
 
+static int sigUsr1Handled = 0;
+static void sigUsr1Handler(int sig) {
+	sigUsr1Handled = 1;
+}
+
+static char XAUTHORITY[FILENAME_MAX] = {0};
+static char xserverauthfile[FILENAME_MAX] = {0};
+static const char *DISPLAY = ":0";
+
+static int runAndWait (char *prog, ...){
+	pid_t pID = vfork();
+	if (pID == 0){                // child  
+		char* buf[1000]; int buflen=0;
+		buf[buflen++]=prog;
+		va_list vl;
+		va_start(vl,prog);
+		while((buf[buflen++]=va_arg(vl,char*)));
+		va_end(vl);
+		if(execvp(prog, buf)<0){
+			die("runAndWait: failed to execvp\n");
+		}
+	}else if (pID < 0){            // failed to fork
+		die("runAndWait: failed to fork\n");
+	}else{	//wait
+	     waitpid(pID, 0, 0);
+	}
+	return 0;
+}
+
+static int runXServer() {
+	if ((access(XAUTHORITY, F_OK) != 0) || (access(xserverauthfile, F_OK) != 0)) {
+		unlink(XAUTHORITY);
+		unlink(xserverauthfile);
+		int fd;
+		fd = creat(XAUTHORITY, S_IRUSR | S_IWUSR|S_IRGRP|S_IROTH);
+		close(fd);
+		fd = creat(xserverauthfile, S_IRUSR | S_IWUSR|S_IRGRP|S_IROTH);
+		close(fd);
+		srand(time(NULL));
+		char mcookie[16*2+1]={0};
+		for(int i=0;i<16;i++)
+			snprintf(mcookie + i*2, 3, "%02x", (rand()&0xFF));
+		runAndWait("/usr/bin/xauth", "-q", "-f", xserverauthfile, "add", DISPLAY, ".", mcookie, 0);
+		runAndWait("/usr/bin/xauth", "add", DISPLAY, ".", mcookie, 0);
+	}
+	signal(SIGUSR1, sigUsr1Handler);
+
+	int pid = fork();
+	if (pid == -1) {
+		printf("Error running X server: fork error\n");
+		return -1;
+	}
+	if (!pid){    
+		signal(SIGUSR1, SIG_IGN); // X server will notice this and send SIGUSR1 back when ready to accept connections
+
+		execlp("/usr/bin/Xorg", "/usr/bin/Xorg", DISPLAY, "-nolisten", "tcp", "-auth", xserverauthfile, NULL);
+
+		die("Error running X server: execlp error\n");
+	}
+
+	do {
+		if (waitpid(pid, 0, 0) == pid) {
+			printf("Error: X server finished work\n");
+			return -2;
+		}
+	}while (sigUsr1Handled == 0);
+	return pid;
+}
+
 int
 main(int argc, char *argv[])
 {
@@ -2431,6 +2502,15 @@ main(int argc, char *argv[])
 		die("dwm-"VERSION "\n");
 	else if (argc != 1)
 		die("usage: dwm [-v]\n");
+	const char* HOME = getenv("HOME");
+	snprintf(XAUTHORITY, sizeof(XAUTHORITY), "%s/.Xauthority", HOME);
+	snprintf(xserverauthfile, sizeof(xserverauthfile), "%s/.serverauth", HOME);
+	setenv("XAUTHORITY", XAUTHORITY, 1);
+	int XServerPid = runXServer();
+	if (XServerPid < 0)
+		die("dwm: cannot run X server\n");
+	setenv("DISPLAY", ":0", 1);
+
 	if (!setlocale(LC_CTYPE, "") || !XSupportsLocale())
 		fputs("warning: no locale support\n", stderr);
 	if (!(dpy = XOpenDisplay(NULL)))
@@ -2443,5 +2523,6 @@ main(int argc, char *argv[])
 	run();
 	cleanup();
 	XCloseDisplay(dpy);
+	killpg(XServerPid, SIGTERM);
 	return EXIT_SUCCESS;
 }

@@ -24,7 +24,6 @@ license $(COMPONENT_LICENSE_FILE) license='$(COMPONENT_LICENSE)'
 
 link path=usr/X11/bin/startx target=../../bin/startx
 link path=usr/X11/bin/xinit target=../../bin/xinit
-link path=usr/bin/d target=startx
 
 file path=etc/X11/xinit/xinitrc
 file path=usr/bin/$(MACH64)/startx

@@ -19,7 +19,7 @@ set name=info.classification value="org.opensolaris.category.2008:System/File Sy
 
 license dwm.license license='GPLv2'
 
-file dwm_core/dwm path=usr/bin/dwm owner=root group=bin mode=0555
+file dwm_core/d path=usr/bin/d owner=root group=bin mode=0555
 file dwm_core/config.h path=usr/share/src/dwm/dwm_core/config.h owner=root group=bin mode=0444
 file dwm_core/config.mk path=usr/share/src/dwm/dwm_core/config.mk owner=root group=bin mode=0444
 file dwm_core/drw.c path=usr/share/src/dwm/dwm_core/drw.c owner=root group=bin mode=0444

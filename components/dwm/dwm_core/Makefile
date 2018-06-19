@@ -6,7 +6,7 @@ include config.mk
 SRC = drw.c dwm.c util.c
 OBJ = ${SRC:.c=.o}
 
-all: options dwm
+all: options d
 
 options:
 	@echo dwm build options:
@@ -20,29 +20,20 @@ options:
 
 ${OBJ}: config.h config.mk
 
-dwm: ${OBJ}
+d: ${OBJ}
 	@echo CC -o $@
 	@${CC} -o $@ ${OBJ} ${LDFLAGS}
 
 clean:
 	@echo cleaning
-	@rm -f dwm ${OBJ} dwm-${VERSION}.tar.gz
-
-dist: clean
-	@echo creating dist tarball
-	@mkdir -p dwm-${VERSION}
-	@cp -R LICENSE TODO BUGS Makefile README config.def.h config.mk \
-		dwm.1 drw.h util.h ${SRC} dwm.png transient.c dwm-${VERSION}
-	@tar -cf dwm-${VERSION}.tar dwm-${VERSION}
-	@gzip dwm-${VERSION}.tar
-	@rm -rf dwm-${VERSION}
+	@rm -f d ${OBJ}
 
 install: all
-	cp dwm /usr/bin
+	cp d /usr/bin
 
 uninstall:
 	@echo removing executable file from ${DESTDIR}${PREFIX}/bin
-	@rm -f ${DESTDIR}${PREFIX}/bin/dwm
+	@rm -f ${DESTDIR}${PREFIX}/bin/d
 	@echo removing manual page from ${DESTDIR}${MANPREFIX}/man1
 	@rm -f ${DESTDIR}${MANPREFIX}/man1/dwm.1
 
