@@ -36,6 +36,7 @@
 #include <X11/Xlib.h>
 #include <X11/Xproto.h>
 #include <X11/Xutil.h>
+#include <X11/XKBlib.h>
 #ifdef XINERAMA
 #include <X11/extensions/Xinerama.h>
 #endif /* XINERAMA */
@@ -258,6 +259,7 @@ static Client *wintosystrayicon(Window w);
 static int xerror(Display *dpy, XErrorEvent *ee);
 static int xerrordummy(Display *dpy, XErrorEvent *ee);
 static int xerrorstart(Display *dpy, XErrorEvent *ee);
+static void xkbeventnotify(XEvent *e);
 
 /* variables */
 static Systray *systray = NULL;
@@ -296,6 +298,10 @@ static Monitor *mons, *selmon;
 static Window root;
 static int xX; //Начало кнопки закрытия
 static int xSText; //Начало текста статуса (времени)
+static int xXkbLayoutName; //Начало названия раскладки
+static int xkb_layout = 0; //id раскладки клавиатуры
+static int xkbEventType = 0;
+static const char *XkbLayoutNames [] = { "en", "chm" };
 
 /* configuration, allows nested code to access above variables */
 #include "config.h"
@@ -460,6 +466,8 @@ buttonpress(XEvent *e)
 			killclient(NULL);
 		} else if (ev->x > xSText)  //без учета монитора
 			click = ClkStatusText;
+		else if (ev->x > xXkbLayoutName) //без учета монитора
+			XkbLockGroup(dpy, XkbUseCoreKbd, (xkb_layout==0)?1:0);
 		else {
 			click = ClkWinTitle;
 			for (Client *c = m->clients; c; c = c->next) {
@@ -822,9 +830,14 @@ drawbar(Monitor *m)
 		}
 		drw_setscheme(drw, &scheme[SchemeNorm]);
 		drw_text(drw, xSText, 0, wSText, bh, stext, 0);
+		
+		const char *layoutName = XkbLayoutNames[xkb_layout];
+		int wXkbLayoutName = TEXTW(layoutName);
+		xXkbLayoutName = xSText - wXkbLayoutName;
+		drw_text(drw, xXkbLayoutName, 0, wXkbLayoutName, bh, layoutName, 0);
 	} else
-		xSText = m->ww;
-	if ((w = xSText - xx) > bh) {
+		xXkbLayoutName = xSText = m->ww;
+	if ((w = xXkbLayoutName - xx) > bh) {
 		x = xx;
 		if (n > 0) {
 			if (all_fancy_but_width_req <= w){ //Все кнопки помещаются в полную ширину
@@ -1566,6 +1579,11 @@ run(void)
 			continue;
 		}
 
+		if (ev.type == xkbEventType) {
+			xkbeventnotify(&ev);
+			continue;
+		}
+
 		if (handler[ev.type])
 			handler[ev.type](&ev); /* call handler */
 	}
@@ -1783,6 +1801,18 @@ setup(void)
 	                |EnterWindowMask|LeaveWindowMask|StructureNotifyMask|PropertyChangeMask;
 	XChangeWindowAttributes(dpy, root, CWEventMask|CWCursor, &wa);
 	XSelectInput(dpy, root, wa.event_mask);
+
+	/* get xkb extension info, events and current state */
+	if (!XkbQueryExtension(dpy, NULL, &xkbEventType, NULL, NULL, NULL)) {
+		fputs("warning: can not query xkb extension\n", stderr);
+	}
+	XkbSelectEventDetails(dpy, XkbUseCoreKbd, XkbStateNotify,
+					  XkbAllStateComponentsMask, XkbGroupStateMask);
+
+	XkbStateRec xkbstate;
+	XkbGetState(dpy, XkbUseCoreKbd, &xkbstate);
+	xkb_layout = xkbstate.locked_group;
+
 	grabkeys();
 	focus(NULL);
 }
@@ -2414,6 +2444,15 @@ xerrorstart(Display *dpy, XErrorEvent *ee)
 {
 	die("dwm: another window manager is already running\n");
 	return -1;
+}
+
+void xkbeventnotify(XEvent *e)
+{
+	XkbEvent *ev = (XkbEvent *) e;
+	if (ev->any.xkb_type == XkbStateNotify) {
+		xkb_layout = ev->state.locked_group;
+		drawbars();
+	}
 }
 
 static void
