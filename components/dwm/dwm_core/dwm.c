@@ -1535,7 +1535,7 @@ restack(Monitor *m)
 
 
 int
-XNextEventTimed(int fd, XEvent* event_return, struct timeval*tv) 
+XNextEventTimed(int fd, XEvent* event_return) 
 {
 	if (XPending(dpy))
 		return XNextEvent(dpy, event_return);		
@@ -1543,7 +1543,8 @@ XNextEventTimed(int fd, XEvent* event_return, struct timeval*tv)
 	fd_set readset;
 	FD_ZERO(&readset);
 	FD_SET(fd, &readset);
-	if (select(fd+1, &readset, NULL, NULL, tv))
+	struct timeval tv = { 3, 0 }; // fall through every idle 3 second
+	if (select(fd+1, &readset, NULL, NULL, &tv))
 		return XNextEvent(dpy, event_return);
 	return -1;
 }
@@ -1555,9 +1556,8 @@ run(void)
 	/* main event loop */
 	XSync(dpy, False);
 	int fd = ConnectionNumber(dpy);
-	struct timeval tv = { 3, 0 }; // fall through every idle 3 second
 	while (running) {
-		int r = XNextEventTimed(fd, &ev, &tv);
+		int r = XNextEventTimed(fd, &ev);
 		if (r > 0)
 			break;
 
@@ -2471,7 +2471,10 @@ static int runXServer() {
 		runAndWait("/usr/bin/xauth", "-q", "-f", xserverauthfile, "add", DISPLAY, ".", mcookie, 0);
 		runAndWait("/usr/bin/xauth", "add", DISPLAY, ".", mcookie, 0);
 	}
-	signal(SIGUSR1, sigUsr1Handler);
+
+	struct sigaction act = {.sa_handler = &sigUsr1Handler};
+	if (sigaction(SIGUSR1, &act, NULL) < 0)
+		die ("sigaction SIGUSR1");
 
 	int pid = fork();
 	if (pid == -1) {
