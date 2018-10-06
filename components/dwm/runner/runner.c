@@ -4,6 +4,16 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 
+#ifdef LANG_MARIJ
+	#define LABEL_POWEROFF "Пашам мучашлымаш"
+	#define LABEL_REBOOT "Уэш колташ"
+#endif
+
+#ifdef LANG_RUS
+	#define LABEL_POWEROFF "Выключение"
+	#define LABEL_REBOOT "Перезагрузка"
+#endif
+
 static int dlg(const char *msg)
 {
 	GtkWidget *dialog = gtk_message_dialog_new (0,
@@ -101,11 +111,11 @@ static GtkWidget *createMenu(struct MENU_MODEL *MM)
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), gtk_separator_menu_item_new ());
 
 		GtkWidget *mi;
-		mi = gtk_menu_item_new_with_label ("Выключение");
+		mi = gtk_menu_item_new_with_label (LABEL_POWEROFF);
 		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (poweroff), 0);
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
 
-		mi = gtk_menu_item_new_with_label ("Перезагрузка");
+		mi = gtk_menu_item_new_with_label (LABEL_REBOOT);
 		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (reboot), 0);
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
 	}

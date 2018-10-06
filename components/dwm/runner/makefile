@@ -7,7 +7,7 @@ all:$(APP)
 $(APP): $(objects)
 	gcc -o$(APP) $(objects) `pkg-config gtk+-2.0 --libs`
 $(APP).o: $(SRC)
-	gcc -std=gnu99 -c -o$(APP).o $(CFLAGS) `pkg-config gtk+-2.0 --cflags` $(SRC)
+	gcc -std=gnu99 -c -o$(APP).o -DLANG_RUS $(CFLAGS) `pkg-config gtk+-2.0 --cflags` $(SRC)
 logo.o: logo.c
 	gcc -c -ologo.o logo.c
 clean:
