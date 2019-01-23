@@ -92,9 +92,11 @@ static Button buttons[] = {
 
 static char* RUN_APPS[][6] = {
 	{"setxkbmap", "-layout", "us,chm", "-option", "grp:ctrl_shift_toggle", 0},
+//	{"setxkbmap", "-layout", "us,ru(chm)", "-option", "grp:ctrl_shift_toggle", 0}, //Solaris 11.3
 	{"runner", 0},
 	{"pulseaudio", 0},
 //	{"gnome-power-manager", 0},
+//	{"/usr/bin/VBoxClient-all", 0},
 	{"xscreensaver", 0},
 };
 
