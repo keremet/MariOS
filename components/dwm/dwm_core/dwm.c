@@ -1802,6 +1802,16 @@ setup(void)
 	XChangeWindowAttributes(dpy, root, CWEventMask|CWCursor, &wa);
 	XSelectInput(dpy, root, wa.event_mask);
 
+{
+	Atom netwmcheck = XInternAtom(dpy, "_NET_SUPPORTING_WM_CHECK", False);
+	Atom netwmname = XInternAtom(dpy, "_NET_WM_NAME", False);
+	Atom utf8_string = XInternAtom(dpy, "UTF8_STRING", False);
+
+	XChangeProperty(dpy, root, netwmcheck, XA_WINDOW, 32, PropModeReplace, (unsigned char *)&root, 1);
+	XChangeProperty(dpy, root, netwmname, utf8_string, 8, PropModeReplace, (unsigned char *)"LG3D", 4/*strlen("LG3D")*/);
+	XSync(dpy, False);
+}	
+
 	/* get xkb extension info, events and current state */
 	if (!XkbQueryExtension(dpy, NULL, &xkbEventType, NULL, NULL, NULL)) {
 		fputs("warning: can not query xkb extension\n", stderr);
