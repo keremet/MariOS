@@ -82,7 +82,7 @@
 
 /* enums */
 enum { CurNormal, CurResize, CurMove, CurLast }; /* cursor */
-enum { SchemeNorm, SchemeSel, SchemeClose, SchemeLast }; /* color schemes */
+enum { SchemeNorm, SchemeSel, SchemeAbove, SchemeClose, SchemeLast }; /* color schemes */
 enum { NetSupported, NetSystemTray, NetSystemTrayOP, NetSystemTrayOrientation,
 	   NetWMName, NetWMState, NetWMFullscreen, NetActiveWindow, NetWMWindowType,
 	   NetWMWindowTypeDialog, NetClientList, NetLast }; /* EWMH atoms */
@@ -116,7 +116,7 @@ struct Client {
 	int basew, baseh, incw, inch, maxw, maxh, minw, minh;
 	int bw, oldbw;
 	unsigned int tags;
-	int isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen;
+	int isfixed, isfloating, isurgent, neverfocus, oldstate, isfullscreen, isabove;
 	Client *next;
 	Client *snext;
 	Monitor *mon;
@@ -223,6 +223,7 @@ static void run(void);
 static void scan(void);
 static int sendevent(Window w, Atom proto, int m, long d0, long d1, long d2, long d3, long d4);
 static void sendmon(Client *c, Monitor *m);
+static void set_above(const Arg *arg);
 static void setclientstate(Client *c, long state);
 static void setfocus(Client *c);
 static void setfullscreen(Client *c, int fullscreen);
@@ -875,7 +876,10 @@ drawbar(Monitor *m)
 				xx = x + w;
 				w = c->fancy_but_width_fact;
 
-				drw_setscheme(drw, m->sel == c ? &scheme[SchemeSel] : &scheme[SchemeNorm]);
+				if (c->isabove)
+					drw_setscheme(drw, &scheme[SchemeAbove]);
+				else
+					drw_setscheme(drw, m->sel == c ? &scheme[SchemeSel] : &scheme[SchemeNorm]);
 				drw_text(drw, x, 0, w, bh, c->name, 0);
 				drw_rect(drw, x + 1, 1, dx, dx, c->isfixed, c->isfloating, 0);
 				XDrawLine(drw->dpy, drw->drawable, drw->gc, x, 0, x, bh);
@@ -982,6 +986,16 @@ focusmon(const Arg *arg)
 					in gedit and anjuta */
 	selmon = m;
 	focus(NULL);
+}
+
+void
+set_above(const Arg *arg)
+{	
+	if (!selmon->sel)
+		return;
+
+	selmon->sel->isabove = arg->i;
+	restack(selmon);
 }
 
 void
@@ -1390,9 +1404,13 @@ propertynotify(XEvent *e)
 		switch(ev->atom) {
 		default: break;
 		case XA_WM_TRANSIENT_FOR:
-			if (!c->isfloating && (XGetTransientForHint(dpy, c->win, &trans)) &&
-			   (c->isfloating = (wintoclient(trans)) != NULL))
-				arrange(c->mon);
+			if (!c->isfloating && (XGetTransientForHint(dpy, c->win, &trans))) {
+			   Client *c_trans = wintoclient(trans);
+			   if ((c->isfloating = (c_trans != NULL))) {
+				   c->isabove = c_trans->isabove; //Отладить. Передача свойства isabove от предка не происходит
+				   arrange(c->mon);
+			   }
+			}
 			break;
 		case XA_WM_NORMAL_HINTS:
 			updatesizehints(c);
@@ -1546,6 +1564,22 @@ restack(Monitor *m)
 
 	XEvent ev;
 	while (XCheckMaskEvent(dpy, EnterWindowMask, &ev));
+
+	for (Client *c = m->clients; c; c = c->next)
+	{
+		if (c->isabove)
+		{
+			XRaiseWindow(dpy, c->win);
+		}
+	}
+
+	for (Client *c = m->clients; c; c = c->next)
+	{
+		if (c->isabove && c->isfloating)
+		{
+			XRaiseWindow(dpy, c->win);
+		}
+	}
 }
 
 
@@ -1767,6 +1801,9 @@ setup(void)
 	scheme[SchemeSel].border = drw_clr_create(drw, selbordercolor);
 	scheme[SchemeSel].bg = drw_clr_create(drw, selbgcolor);
 	scheme[SchemeSel].fg = drw_clr_create(drw, selfgcolor);
+	scheme[SchemeAbove].border = drw_clr_create(drw, abovebordercolor);
+	scheme[SchemeAbove].bg = drw_clr_create(drw, abovebgcolor);
+	scheme[SchemeAbove].fg = drw_clr_create(drw, abovefgcolor);
 	scheme[SchemeClose].border = drw_clr_create(drw, closebordercolor);
 	scheme[SchemeClose].bg = drw_clr_create(drw, closebgcolor);
 	scheme[SchemeClose].fg = drw_clr_create(drw, closefgcolor);

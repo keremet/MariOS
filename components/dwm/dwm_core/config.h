@@ -11,6 +11,9 @@ static const char normfgcolor[]     = "#bbbbbb";
 static const char selbordercolor[]  = "#005577";
 static const char selbgcolor[]      = "#005577";
 static const char selfgcolor[]      = "#eeeeee";
+static const char abovebordercolor[]  = "#007755";
+static const char abovebgcolor[]      = "#007755";
+static const char abovefgcolor[]      = "#eeeeee";
 static const char closebordercolor[]  = "#4f0000";
 static const char closebgcolor[]      = "#a11c10";
 static const char closefgcolor[]      = "#eeeeee";
@@ -69,6 +72,8 @@ static Key keys[] = {
 	{ MODKEY,                       XK_Tab,    view,           {0} },
 	{ Mod1Mask /*Alt*/,	        XK_F4,     killclient,     {0} },
 	{ MODKEY,                       XK_m,      maximize_client,{0} },
+	{ MODKEY,                       XK_a,      set_above,	   {.i = 1} },
+	{ MODKEY|ShiftMask,             XK_a,      set_above,	   {.i = 0} },
 	{ MODKEY,                       XK_0,      view,           {.ui = ~0 } },
 	{ MODKEY|ShiftMask,             XK_0,      tag,            {.ui = ~0 } },
 	{ MODKEY,                       XK_comma,  focusmon,       {.i = -1 } },
