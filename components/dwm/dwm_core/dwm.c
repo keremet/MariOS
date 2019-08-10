@@ -2214,7 +2214,7 @@ updatetitle(Client *c)
 	if (!gettextprop(c->win, netatom[NetWMName], c->name, sizeof c->name))
 		gettextprop(c->win, XA_WM_NAME, c->name, sizeof c->name);
 	if (c->name[0] == '\0') /* hack to mark broken clients */
-		strcpy(c->name, broken);
+		strlcpy(c->name, broken, sizeof(c->name));
 }
 
 void
@@ -2223,7 +2223,7 @@ updatestatus(void)
 	time_t now;
 	time(&now); 
 	if (!strftime(stext, sizeof(stext), "%d.%m %H:%M", localtime(&now)))
-        	strcpy(stext, "  :  ");
+        strlcpy(stext, "  :  ", sizeof(stext));
 
 	drawbar(selmon);
 }
@@ -2482,10 +2482,13 @@ static void sigUsr1Handler(int sig) {
 	sigUsr1Handled = 1;
 }
 
+#ifndef __OpenBSD__
 static char XAUTHORITY[FILENAME_MAX] = {0};
 static char xserverauthfile[FILENAME_MAX] = {0};
+#endif
 static const char *DISPLAY = ":0";
 
+#ifndef __OpenBSD__
 static int runAndWait (char *prog, ...){
 	pid_t pID = vfork();
 	if (pID == 0){                // child  
@@ -2505,8 +2508,10 @@ static int runAndWait (char *prog, ...){
 	}
 	return 0;
 }
+#endif
 
 static int runXServer() {
+#ifndef __OpenBSD__
 	if ((access(XAUTHORITY, F_OK) != 0) || (access(xserverauthfile, F_OK) != 0)) {
 		unlink(XAUTHORITY);
 		unlink(xserverauthfile);
@@ -2522,7 +2527,7 @@ static int runXServer() {
 		runAndWait("/usr/bin/xauth", "-q", "-f", xserverauthfile, "add", DISPLAY, ".", mcookie, 0);
 		runAndWait("/usr/bin/xauth", "add", DISPLAY, ".", mcookie, 0);
 	}
-
+#endif
 	struct sigaction act = {.sa_handler = &sigUsr1Handler};
 	if (sigaction(SIGUSR1, &act, NULL) < 0)
 		die ("sigaction SIGUSR1");
@@ -2534,9 +2539,11 @@ static int runXServer() {
 	}
 	if (!pid){    
 		signal(SIGUSR1, SIG_IGN); // X server will notice this and send SIGUSR1 back when ready to accept connections
-
+#ifdef __OpenBSD__
+		execlp("/usr/X11R6/bin/Xorg", "/usr/X11R6/bin/Xorg", DISPLAY, "-nolisten", "tcp", NULL);
+#else
 		execlp("/usr/bin/Xorg", "/usr/bin/Xorg", DISPLAY, "-nolisten", "tcp", "-auth", xserverauthfile, NULL);
-
+#endif
 		die("Error running X server: execlp error\n");
 	}
 
@@ -2556,10 +2563,15 @@ main(int argc, char *argv[])
 		die("dwm-"VERSION "\n");
 	else if (argc != 1)
 		die("usage: dwm [-v]\n");
+	
+	setenv("LANG", "ru_RU.UTF-8", 1);
+	setenv("PS1", "\\h@\\w$ ", 1);
+#ifndef __OpenBSD__
 	const char* HOME = getenv("HOME");
 	snprintf(XAUTHORITY, sizeof(XAUTHORITY), "%s/.Xauthority", HOME);
 	snprintf(xserverauthfile, sizeof(xserverauthfile), "%s/.serverauth", HOME);
 	setenv("XAUTHORITY", XAUTHORITY, 1);
+#endif
 	int XServerPid = runXServer();
 	if (XServerPid < 0)
 		die("dwm: cannot run X server\n");
@@ -2572,7 +2584,9 @@ main(int argc, char *argv[])
 	checkotherwm();
 	setup();
 	scan();
+#ifndef __OpenBSD__
 	setenv("GTK2_RC_FILES", "/usr/share/themes/nimbus/gtk-2.0/gtkrc", 0);
+#endif
 	run_apps();
 	run();
 	cleanup();

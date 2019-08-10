@@ -27,17 +27,25 @@ static int dlg(const char *msg)
 	return r;
 }
 
-static void poweroff()
+static void poweroff_comp()
 {
 	if (dlg("Выключить компьютер?")) {
+#ifdef __OpenBSD__
+		execlp("/usr/bin/doas", "doas", "/sbin/halt", "-p", 0);
+#else
 		execlp("/usr/bin/sudo", "sudo", "poweroff", 0);
+#endif
 	}
 }
 
-static void reboot()
+static void reboot_comp()
 {
 	if (dlg("Перезагрузить компьютер?")) {
+#ifdef __OpenBSD__
+		execlp("/usr/bin/doas", "doas", "/sbin/reboot", 0);
+#else
 		execlp("/usr/bin/sudo", "sudo", "reboot", 0);
+#endif
 	}
 }
 
@@ -74,23 +82,27 @@ static struct MENU_MODEL MM_MAIN_LEFT[] = {
 	{"GIMP", {"gimp", 0}},
 	{"Gnome commander", {"gnome-commander", 0}},
 	{"Gnome terminal (Win+Enter)", {"gnome-terminal", 0}},
+	{"Dia", {"dia", 0}},
+	{"Krusader", {"krusader", 0}},
+	{"XCFE4 terminal (Win+Enter)", {"xfce4-terminal", 0}},
 	{"Pidgin", {"pidgin", 0}},
-	{"LibreOffice4.4", {"libreoffice4.4", 0}},
+	{"LibreOffice6.1", {"/usr/local/bin/libreoffice6.1", 0}},
 	{"xterm", {"xterm", 0}},
 	{"Программирование", {0}, MM_PROGRAMMING},
-	{"Регулятор громкости", {"gnome-volume-control", 0}},
+	{"Регулятор громкости", {
+#ifdef __OpenBSD__
+		"xfce4-mixer"
+#else
+		"gnome-volume-control"
+#endif
+			, 0}},
 	{"Звукозапись", {"gnome-sound-recorder", 0}},
-	{"openvpn и asterisk", {"xterm", "-e", "sudo /data/openvpn/openvpn.sh", 0}},
-	{"ekiga", {"sh", "-c", 
-		"audioctl set-control mic 100;"
-		"audioctl set-control volume 100;"
-		"audioctl set-control headphones 100;"
-		"ekiga --local-ip=`ifconfig tun0|tail -n 1|awk '{print $2}'`", 0}},
 	{"Разрешить доступ к рабочему столу", {"xterm", "-e", "/usr/lib/vino-server", 0}},
 	{"Параметры доступа к рабочему столу", {"vino-preferences", 0}},
 	{"Подключиться к рабочему столу", {"vncviewer", "-NoJPEG", 0}},
 	{"Заблокировать экран (Win+L)", { "xscreensaver-command", "-lock", 0 }},
 	{"Снимок экрана", { "gnome-screenshot", "--interactive", 0 }},
+	{"Калькулятор", { "xcalc", 0 }},
 	{0},
 };
 
@@ -112,11 +124,11 @@ static GtkWidget *createMenu(struct MENU_MODEL *MM)
 
 		GtkWidget *mi;
 		mi = gtk_menu_item_new_with_label (LABEL_POWEROFF);
-		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (poweroff), 0);
+		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (poweroff_comp), 0);
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
 
 		mi = gtk_menu_item_new_with_label (LABEL_REBOOT);
-		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (reboot), 0);
+		g_signal_connect (G_OBJECT (mi), "activate", G_CALLBACK (reboot_comp), 0);
 		gtk_menu_shell_append (GTK_MENU_SHELL (menu), mi);
 	}
 

@@ -1,3 +1,5 @@
+export OSTYPE = $(shell uname)
+
 # dwm version
 VERSION = 6.1
 
@@ -16,7 +18,11 @@ XINERAMAFLAGS = -DXINERAMA
 
 # freetype
 FREETYPELIBS = -lfontconfig -lXft
-FREETYPEINC = /usr/include/freetype2
+ifeq ($(OSTYPE), OpenBSD)
+  FREETYPEINC = /usr/X11R6/include/freetype2
+else
+  FREETYPEINC = /usr/include/freetype2
+endif
 
 # includes and libs
 INCS = -I${X11INC} -I${FREETYPEINC}

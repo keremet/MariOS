@@ -47,7 +47,13 @@ static const Rule rules[] = {
 #define SHCMD(cmd) { .v = (const char*[]){ "/bin/sh", "-c", cmd, NULL } }
 
 /* commands */
-static const char *termcmd[]  = { "gnome-terminal", NULL };
+static const char *termcmd[]  = {
+#ifdef __OpenBSD__
+	"xfce4-terminal"
+#else
+	"gnome-terminal"
+#endif
+	, NULL };
 static const char *lockcmd[]  = { "xscreensaver-command", "-lock", NULL };
 static const char *print_screen_cmd[]  = { "gnome-screenshot", NULL };
 static const char *dwm_calendar[]  = { "dwm_calendar", NULL };
@@ -91,8 +97,12 @@ static Button buttons[] = {
 };
 
 static char* RUN_APPS[][6] = {
+#ifdef __OpenBSD__
+	{"xsetroot", "-solid", "black", 0},
+	{"setxkbmap", "-layout", "us,ru(chm)", "-option", "grp:ctrl_shift_toggle", 0}, //Solaris 11.3
+#else
 	{"setxkbmap", "-layout", "us,chm", "-option", "grp:ctrl_shift_toggle", 0},
-//	{"setxkbmap", "-layout", "us,ru(chm)", "-option", "grp:ctrl_shift_toggle", 0}, //Solaris 11.3
+#endif
 	{"runner", 0},
 	{"pulseaudio", 0},
 //	{"gnome-power-manager", 0},
