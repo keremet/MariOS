@@ -1992,7 +1992,7 @@ unmanage(Client *c, int destroyed)
 	free(c);
 	focus(NULL);
 	updateclientlist();
-	arrange(m);
+	showhide(m->stack);
 }
 
 void
