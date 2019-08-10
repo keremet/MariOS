@@ -46,6 +46,12 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
+#ifdef __OpenBSD__
+#include <sys/sysctl.h>
+#include <sys/socket.h>
+#include <sys/sensors.h>
+#endif
+
 #include "drw.h"
 #include "util.h"
 
@@ -2254,6 +2260,60 @@ updatetitle(Client *c)
 		strlcpy(c->name, broken, sizeof(c->name));
 }
 
+#ifdef __OpenBSD__
+static int mib[CTL_MAXNAME] = {CTL_HW, HW_SENSORS, 0, SENSOR_WATTHOUR, 3};
+static int show_acpibat_wh3 = 0;
+
+static int get_sensor_dev_number(int *mib)
+{
+	struct sensordev snsrdev;
+	size_t sdlen = sizeof(snsrdev);
+	
+	for (int dev = 0; ; dev++) {
+		mib[2] = dev;
+		if (sysctl(mib, 3, &snsrdev, &sdlen, NULL, 0) == -1) {
+			if (errno == ENXIO)
+				continue;
+			if (errno == ENOENT)
+				return 0;
+		}
+		if (strcmp("acpibat0", snsrdev.xname) == 0)
+			return 1;
+	}
+	
+	return 0;
+}
+
+static void get_acpibat_wh3(char* buf, int buflen)
+{
+	struct sensor s;
+	size_t slen = sizeof(s);
+
+	if (sysctl(mib, 5, &s, &slen, NULL, 0) == -1) {
+		fprintf(stderr, "Error %i\n", errno);
+		return;
+	}
+	
+	char st[2] = {0};
+	switch (s.status) {
+	case SENSOR_S_OK:
+		st[0] = 'O';
+		break;
+	case SENSOR_S_WARN:
+		st[0] = 'W';
+		break;
+	case SENSOR_S_CRIT:
+		st[0] = 'C';
+		break;
+	default:
+		st[0] = 'U';
+		break;
+	}	
+	
+	snprintf(buf, buflen, " %.2f(%s)", s.value / 1000000.0, st);
+}
+#endif
+
 void
 updatestatus(void)
 {
@@ -2261,7 +2321,13 @@ updatestatus(void)
 	time(&now); 
 	if (!strftime(stext, sizeof(stext), "%d.%m %H:%M", localtime(&now)))
         strlcpy(stext, "  :  ", sizeof(stext));
-
+#ifdef __OpenBSD__	
+	if (show_acpibat_wh3) {
+		int l = strlen(stext);
+		get_acpibat_wh3(stext+l, sizeof(stext)-l);
+	}
+#endif	
+	
 	drawbar(selmon);
 }
 
@@ -2600,6 +2666,10 @@ main(int argc, char *argv[])
 		die("dwm-"VERSION "\n");
 	else if (argc != 1)
 		die("usage: dwm [-v]\n");
+
+#ifdef __OpenBSD__		
+	show_acpibat_wh3 = get_sensor_dev_number(mib);
+#endif
 	
 	setenv("LANG", "ru_RU.UTF-8", 1);
 	setenv("PS1", "\\h@\\w$ ", 1);
