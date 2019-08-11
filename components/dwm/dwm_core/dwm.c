@@ -91,7 +91,7 @@ enum { CurNormal, CurResize, CurMove, CurLast }; /* cursor */
 enum { SchemeNorm, SchemeSel, SchemeAbove, SchemeClose, SchemeLast }; /* color schemes */
 enum { NetSupported, NetSystemTray, NetSystemTrayOP, NetSystemTrayOrientation,
 	   NetWMName, NetWMState, NetWMFullscreen, NetActiveWindow, NetWMWindowType,
-	   NetWMWindowTypeDialog, NetClientList, NetLast }; /* EWMH atoms */
+	   NetWMWindowTypeDialog, NetClientList, NetWMIcon, NetLast }; /* EWMH atoms */
 enum { Manager, Xembed, XembedInfo, XLast }; /* Xembed atoms */
 enum { WMProtocols, WMDelete, WMState, WMTakeFocus, WMLast }; /* default atoms */
 enum { ClkTagBar, ClkStatusText, ClkWinTitle,
@@ -799,7 +799,7 @@ drawbar(Monitor *m)
 	for (Client *c = m->clients; c; c = c->next) {
 		if (ISVISIBLE(c)){
 			n++;			
-			all_fancy_but_width_req += (c->fancy_but_width_req = TEXTW(c->name));
+			all_fancy_but_width_req += (c->fancy_but_width_req = TEXTW(c->name) + 22);
 			c->fancy_but_width_fact = 0;
 		}
 		occ |= c->tags;
@@ -879,6 +879,29 @@ drawbar(Monitor *m)
 			for (Client *c = m->clients; c; c = c->next) {
 				if (!ISVISIBLE(c))
 					continue;
+				{
+					Atom act_type;
+					int format;
+					unsigned long nitems, bytes_after_return;
+					unsigned char *p = NULL;
+					if (XGetWindowProperty(dpy, c->win, netatom[NetWMIcon], 0L, ~0L, False, AnyPropertyType,
+	                      				&act_type, &format, &nitems, &bytes_after_return, &p) == Success && p) {
+						unsigned long* pl = (unsigned long*)p;
+						unsigned long icon_w = pl[0];
+						unsigned long icon_h = pl[1];
+						unsigned long len = icon_w*icon_h;
+						uint32_t* xpix = (uint32_t*)malloc(sizeof(uint32_t)*len);
+						for (int i=0; i<len; i++) {
+							xpix[i] = pl[2 + i];
+						}	
+						XImage *ximg = XCreateImage(dpy, DefaultVisual(drw->dpy, drw->screen), 24, ZPixmap, 0, (char*)xpix, icon_w, icon_h, 8, 0);
+						if (ximg) {
+							XPutImage(dpy, drw->drawable, drw->gc, ximg, 0, 0, x, 0, icon_w, icon_h);
+						}
+						XDestroyImage(ximg);
+						XFree(p);
+					}
+				}
 				xx = x + w;
 				w = c->fancy_but_width_fact;
 
@@ -886,8 +909,8 @@ drawbar(Monitor *m)
 					drw_setscheme(drw, &scheme[SchemeAbove]);
 				else
 					drw_setscheme(drw, m->sel == c ? &scheme[SchemeSel] : &scheme[SchemeNorm]);
-				drw_text(drw, x, 0, w, bh, c->name, 0);
-				drw_rect(drw, x + 1, 1, dx, dx, c->isfixed, c->isfloating, 0);
+				drw_text(drw, x + 22, 0, w, bh, c->name, 0);
+				drw_rect(drw, x + 22 + 1, 1, dx, dx, c->isfixed, c->isfloating, 0);
 				XDrawLine(drw->dpy, drw->drawable, drw->gc, x, 0, x, bh);
 
 				x += w;
@@ -1793,6 +1816,7 @@ setup(void)
 	netatom[NetWMWindowType] = XInternAtom(dpy, "_NET_WM_WINDOW_TYPE", False);
 	netatom[NetWMWindowTypeDialog] = XInternAtom(dpy, "_NET_WM_WINDOW_TYPE_DIALOG", False);
 	netatom[NetClientList] = XInternAtom(dpy, "_NET_CLIENT_LIST", False);
+	netatom[NetWMIcon] = XInternAtom(dpy, "_NET_WM_ICON", False);
 	xatom[Manager] = XInternAtom(dpy, "MANAGER", False);
 	xatom[Xembed] = XInternAtom(dpy, "_XEMBED", False);
 	xatom[XembedInfo] = XInternAtom(dpy, "_XEMBED_INFO", False);
